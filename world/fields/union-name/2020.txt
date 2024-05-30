@@ -1,0 +1,7 @@
+Field Listing :: Union name :: The World Factbook
+
+| Country | Union name |
+| --- | --- |
+| **European Union** | *conventional long form:* European Union |
+| | *abbreviation:* EU |
+

@@ -1,0 +1,694 @@
+Field Listing :: Median age :: The World Factbook
+
+This entry is the age that divides a population into two numerically equal groups; that is, half the people are younger than this age and half are older. It is a single index that summarizes the age distribution of a population. Currently, the median age ranges from a low of about 15 in Niger and Uganda to 40 or more in several European countries and Japan. See the entry for "Age structure" for the importance of a young versus an older age structure and, by implication, a low versus a higher median age.
+
+| Country | Median age |
+| --- | --- |
+| **Afghanistan** | *total:* 19.5 years |
+| | *male:* 19.4 years |
+| | *female:* 19.5 years (2020 est.) |
+| **Albania** | *total:* 34.3 years |
+| | *male:* 32.9 years |
+| | *female:* 35.7 years (2020 est.) |
+| **Algeria** | *total:* 28.9 years |
+| | *male:* 28.6 years |
+| | *female:* 29.3 years (2020 est.) |
+| **American Samoa** | *total:* 27.2 years |
+| | *male:* 26.7 years |
+| | *female:* 27.7 years (2020 est.) |
+| **Andorra** | *total:* 46.2 years |
+| | *male:* 46.3 years |
+| | *female:* 46.1 years (2020 est.) |
+| **Angola** | *total:* 15.9 years |
+| | *male:* 15.4 years |
+| | *female:* 16.4 years (2020 est.) |
+| **Anguilla** | *total:* 35.7 years |
+| | *male:* 33.7 years |
+| | *female:* 37.6 years (2020 est.) |
+| **Antigua and Barbuda** | *total:* 32.7 years |
+| | *male:* 30.7 years |
+| | *female:* 34.4 years (2020 est.) |
+| **Argentina** | *total:* 32.4 years |
+| | *male:* 31.1 years |
+| | *female:* 33.6 years (2020 est.) |
+| **Armenia** | *total:* 36.6 years |
+| | *male:* 35.1 years |
+| | *female:* 38.3 years (2020 est.) |
+| **Aruba** | *total:* 39.9 years |
+| | *male:* 38.2 years |
+| | *female:* 41.5 years (2020 est.) |
+| **Australia** | *total:* 37.5 years |
+| | *male:* 36.5 years |
+| | *female:* 38.5 years (2020 est.) |
+| **Austria** | *total:* 44.5 years |
+| | *male:* 43.1 years |
+| | *female:* 45.8 years (2020 est.) |
+| **Azerbaijan** | *total:* 32.6 years |
+| | *male:* 31.1 years |
+| | *female:* 34.2 years (2020 est.) |
+| **Bahamas, The** | *total:* 32.8 years |
+| | *male:* 31.7 years |
+| | *female:* 34 years (2020 est.) |
+| **Bahrain** | *total:* 32.9 years |
+| | *male:* 34.4 years |
+| | *female:* 30.3 years (2020 est.) |
+| **Bangladesh** | *total:* 27.9 years |
+| | *male:* 27.1 years |
+| | *female:* 28.6 years (2020 est.) |
+| **Barbados** | *total:* 39.5 years |
+| | *male:* 38.4 years |
+| | *female:* 40.7 years (2020 est.) |
+| **Belarus** | *total:* 40.9 years |
+| | *male:* 38 years |
+| | *female:* 43.9 years (2020 est.) |
+| **Belgium** | *total:* 41.6 years |
+| | *male:* 40.4 years |
+| | *female:* 42.8 years (2020 est.) |
+| **Belize** | *total:* 23.9 years |
+| | *male:* 23 years |
+| | *female:* 24.8 years (2020 est.) |
+| **Benin** | *total:* 17 years |
+| | *male:* 16.4 years |
+| | *female:* 17.6 years (2020 est.) |
+| **Bermuda** | *total:* 43.6 years |
+| | *male:* 41.6 years |
+| | *female:* 45.7 years (2020 est.) |
+| **Bhutan** | *total:* 29.1 years |
+| | *male:* 29.6 years |
+| | *female:* 28.6 years (2020 est.) |
+| **Bolivia** | *total:* 25.3 years |
+| | *male:* 24.5 years |
+| | *female:* 26 years (2020 est.) |
+| **Bosnia and Herzegovina** | *total:* 43.3 years |
+| | *male:* 41.6 years |
+| | *female:* 44.8 years (2020 est.) |
+| **Botswana** | *total:* 25.7 years |
+| | *male:* 24.5 years |
+| | *female:* 26.7 years (2020 est.) |
+| **Brazil** | *total:* 33.2 years |
+| | *male:* 32.3 years |
+| | *female:* 34.1 years (2020 est.) |
+| **British Virgin Islands** | *total:* 37.2 years |
+| | *male:* 37 years |
+| | *female:* 37.5 years (2020 est.) |
+| **Brunei** | *total:* 31.1 years |
+| | *male:* 30.5 years |
+| | *female:* 31.8 years (2020 est.) |
+| **Bulgaria** | *total:* 43.7 years |
+| | *male:* 41.9 years |
+| | *female:* 45.6 years (2020 est.) |
+| **Burkina Faso** | *total:* 17.9 years |
+| | *male:* 17 years |
+| | *female:* 18.7 years (2020 est.) |
+| **Burma** | *total:* 29.2 years |
+| | *male:* 28.3 years |
+| | *female:* 30 years (2020 est.) |
+| **Burundi** | *total:* 17.7 years |
+| | *male:* 17.4 years |
+| | *female:* 18 years (2020 est.) |
+| **Cabo Verde** | *total:* 26.8 years |
+| | *male:* 25.9 years |
+| | *female:* 27.6 years (2020 est.) |
+| **Cambodia** | *total:* 26.4 years |
+| | *male:* 25.6 years |
+| | *female:* 27.2 years (2020 est.) |
+| **Cameroon** | *total:* 18.5 years |
+| | *male:* 18.2 years |
+| | *female:* 18.8 years (2020 est.) |
+| **Canada** | *total:* 41.8 years |
+| | *male:* 40.6 years |
+| | *female:* 42.9 years (2020 est.) |
+| **Cayman Islands** | *total:* 40.5 years |
+| | *male:* 39.7 years |
+| | *female:* 41.2 years (2020 est.) |
+| **Central African Republic** | *total:* 20 years |
+| | *male:* 19.7 years |
+| | *female:* 20.3 years (2020 est.) |
+| **Chad** | *total:* 16.1 years |
+| | *male:* 15.6 years |
+| | *female:* 16.5 years (2020 est.) |
+| **Chile** | *total:* 35.5 years |
+| | *male:* 34.3 years |
+| | *female:* 36.7 years (2020 est.) |
+| **China** | *total:* 38.4 years |
+| | *male:* 37.5 years |
+| | *female:* 39.4 years (2020 est.) |
+| **Colombia** | *total:* 31.2 years |
+| | *male:* 30.2 years |
+| | *female:* 32.2 years (2020 est.) |
+| **Comoros** | *total:* 20.9 years |
+| | *male:* 20.2 years |
+| | *female:* 21.5 years (2020 est.) |
+| **Congo, Democratic Republic of the** | *total:* 16.7 years |
+| | *male:* 16.5 years |
+| | *female:* 16.8 years (2020 est.) |
+| **Congo, Republic of the** | *total:* 19.5 years |
+| | *male:* 19.3 years |
+| | *female:* 19.7 years (2020 est.) |
+| **Cook Islands** | *total:* 38.3 years |
+| | *male:* 37.8 years |
+| | *female:* 38.7 years (2020 est.) |
+| **Costa Rica** | *total:* 32.6 years |
+| | *male:* 32.1 years |
+| | *female:* 33.1 years (2020 est.) |
+| **Cote d'Ivoire** | *total:* 20.3 years |
+| | *male:* 20.3 years |
+| | *female:* 20.3 years (2020 est.) |
+| **Croatia** | *total:* 43.9 years |
+| | *male:* 42 years |
+| | *female:* 45.9 years (2020 est.) |
+| **Cuba** | *total:* 42.1 years |
+| | *male:* 40.2 years |
+| | *female:* 43.8 years (2020 est.) |
+| **Curacao** | *total:* 36.7 years |
+| | *male:* 34.4 years |
+| | *female:* 39.5 years (2020 est.) |
+| **Cyprus** | *total:* 37.9 years |
+| | *male:* 36.7 years |
+| | *female:* 39.4 years (2020 est.) |
+| **Czechia** | *total:* 43.3 years |
+| | *male:* 42 years |
+| | *female:* 44.7 years (2020 est.) |
+| **Denmark** | *total:* 42 years |
+| | *male:* 40.9 years |
+| | *female:* 43.1 years (2020 est.) |
+| **Djibouti** | *total:* 24.9 years |
+| | *male:* 23 years |
+| | *female:* 26.4 years (2020 est.) |
+| **Dominica** | *total:* 34.9 years |
+| | *male:* 34.4 years |
+| | *female:* 35.5 years (2020 est.) |
+| **Dominican Republic** | *total:* 27.9 years |
+| | *male:* 27.8 years |
+| | *female:* 28.1 years (2020 est.) |
+| **Ecuador** | *total:* 28.8 years |
+| | *male:* 28 years |
+| | *female:* 29.6 years (2020 est.) |
+| **Egypt** | *total:* 24.1 years |
+| | *male:* 23.8 years |
+| | *female:* 24.5 years (2020 est.) |
+| **El Salvador** | *total:* 27.7 years |
+| | *male:* 26.2 years |
+| | *female:* 29.3 years (2020 est.) |
+| **Equatorial Guinea** | *total:* 20.3 years |
+| | *male:* 19.9 years |
+| | *female:* 20.7 years (2020 est.) |
+| **Eritrea** | *total:* 20.3 years |
+| | *male:* 19.7 years |
+| | *female:* 20.8 years (2020 est.) |
+| **Estonia** | *total:* 43.7 years |
+| | *male:* 40.4 years |
+| | *female:* 47 years (2020 est.) |
+| **Eswatini** | *total:* 23.7 years |
+| | *male:* 22.5 years |
+| | *female:* 24.7 years (2020 est.) |
+| **Ethiopia** | *total:* 19.8 years |
+| | *male:* 19.6 years |
+| | *female:* 20.1 years (2020 est.) |
+| **European Union** | *total:* 44 years |
+| | *male:* 42.6 years |
+| | *female:* 45.5 years (2020 est.) |
+| **Faroe Islands** | *total:* 37.2 years |
+| | *male:* 36.9 years |
+| | *female:* 37.7 years (2020 est.) |
+| **Fiji** | *total:* 29.9 years |
+| | *male:* 29.7 years |
+| | *female:* 30.1 years (2020 est.) |
+| **Finland** | *total:* 42.8 years |
+| | *male:* 41.3 years |
+| | *female:* 44.4 years (2020 est.) |
+| **France** | *total:* 41.7 years |
+| | *male:* 40 years |
+| | *female:* 43.4 years (2020 est.) |
+| **French Polynesia** | *total:* 33.3 years |
+| | *male:* 33 years |
+| | *female:* 33.5 years (2020 est.) |
+| **Gabon** | *total:* 21 years |
+| | *male:* 21.4 years |
+| | *female:* 20.6 years (2020 est.) |
+| **Gambia, The** | *total:* 21.8 years |
+| | *male:* 21.5 years |
+| | *female:* 22.2 years (2020 est.) |
+| **Gaza Strip** | *total:* 18 years |
+| | *male:* 17.7 years |
+| | *female:* 18.4 years (2020 est.) |
+| **Georgia** | *total:* 38.6 years |
+| | *male:* 35.9 years |
+| | *female:* 41.4 years (2020 est.) |
+| **Germany** | *total:* 47.8 years |
+| | *male:* 46.5 years |
+| | *female:* 49.1 years (2020 est.) |
+| **Ghana** | *total:* 21.4 years |
+| | *male:* 21 years |
+| | *female:* 21.9 years (2020 est.) |
+| **Gibraltar** | *total:* 35.5 years |
+| | *male:* 34.4 years |
+| | *female:* 36.6 years (2020 est.) |
+| **Greece** | *total:* 45.3 years |
+| | *male:* 43.7 years |
+| | *female:* 46.8 years (2020 est.) |
+| **Greenland** | *total:* 34.3 years |
+| | *male:* 35.1 years |
+| | *female:* 33.4 years (2020 est.) |
+| **Grenada** | *total:* 33.3 years |
+| | *male:* 33.1 years |
+| | *female:* 33.4 years (2020 est.) |
+| **Guam** | *total:* 29.4 years |
+| | *male:* 28.7 years |
+| | *female:* 30.2 years (2020 est.) |
+| **Guatemala** | *total:* 23.2 years |
+| | *male:* 22.6 years |
+| | *female:* 23.8 years (2020 est.) |
+| **Guernsey** | *total:* 44.3 years |
+| | *male:* 43 years |
+| | *female:* 45.6 years (2020 est.) |
+| **Guinea** | *total:* 19.1 years |
+| | *male:* 18.9 years |
+| | *female:* 19.4 years (2020 est.) |
+| **Guinea-Bissau** | *total:* 18 years |
+| | *male:* 17.4 years |
+| | *female:* 18.6 years (2020 est.) |
+| **Guyana** | *total:* 27.5 years |
+| | *male:* 27.2 years |
+| | *female:* 27.9 years (2020 est.) |
+| **Haiti** | *total:* 24.1 years |
+| | *male:* 23.8 years |
+| | *female:* 24.3 years (2020 est.) |
+| **Honduras** | *total:* 24.4 years |
+| | *male:* 23.5 years |
+| | *female:* 25.2 years (2020 est.) |
+| **Hong Kong** | *total:* 45.6 years |
+| | *male:* 44.2 years |
+| | *female:* 46.5 years (2020 est.) |
+| **Hungary** | *total:* 43.6 years |
+| | *male:* 41.5 years |
+| | *female:* 45.5 years (2020 est.) |
+| **Iceland** | *total:* 37.1 years |
+| | *male:* 36.6 years |
+| | *female:* 37.7 years (2020 est.) |
+| **India** | *total:* 28.7 years |
+| | *male:* 28 years |
+| | *female:* 29.5 years (2020 est.) |
+| **Indonesia** | *total:* 31.1 years |
+| | *male:* 30.5 years |
+| | *female:* 31.8 years (2020 est.) |
+| **Iran** | *total:* 31.7 years |
+| | *male:* 31.5 years |
+| | *female:* 32 years (2020 est.) |
+| **Iraq** | *total:* 21.2 years |
+| | *male:* 20.8 years |
+| | *female:* 21.6 years (2020 est.) |
+| **Ireland** | *total:* 37.8 years |
+| | *male:* 37.4 years |
+| | *female:* 38.2 years (2020 est.) |
+| **Isle of Man** | *total:* 44.6 years |
+| | *male:* 43.6 years |
+| | *female:* 45.6 years (2020 est.) |
+| **Israel** | *total:* 30.4 years |
+| | *male:* 29.8 years |
+| | *female:* 31 years (2020 est.) |
+| **Italy** | *total:* 46.5 years |
+| | *male:* 45.4 years |
+| | *female:* 47.5 years (2020 est.) |
+| **Jamaica** | *total:* 29.4 years |
+| | *male:* 28.6 years |
+| | *female:* 30.1 years (2020 est.) |
+| **Japan** | *total:* 48.6 years |
+| | *male:* 47.2 years |
+| | *female:* 50 years (2020 est.) |
+| **Jersey** | *total:* 37.5 years |
+| | *male:* 36 years |
+| | *female:* 39.5 years (2020 est.) |
+| **Jordan** | *total:* 23.5 years |
+| | *male:* 23.9 years |
+| | *female:* 22.9 years (2020 est.) |
+| **Kazakhstan** | *total:* 31.6 years |
+| | *male:* 30.3 years |
+| | *female:* 32.8 years (2020 est.) |
+| **Kenya** | *total:* 20 years |
+| | *male:* 19.9 years |
+| | *female:* 20.1 years (2020 est.) |
+| **Kiribati** | *total:* 25.7 years |
+| | *male:* 24.8 years |
+| | *female:* 26.6 years (2020 est.) |
+| **Korea, North** | *total:* 34.6 years |
+| | *male:* 33.2 years |
+| | *female:* 36.2 years (2020 est.) |
+| **Korea, South** | *total:* 43.2 years |
+| | *male:* 41.6 years |
+| | *female:* 45 years (2020 est.) |
+| **Kosovo** | *total:* 30.5 years |
+| | *male:* 30.2 years |
+| | *female:* 30.8 years (2020 est.) |
+| **Kuwait** | *total:* 29.7 years |
+| | *male:* 30.7 years |
+| | *female:* 27.9 years (2020 est.) |
+| **Kyrgyzstan** | *total:* 27.3 years |
+| | *male:* 26.1 years |
+| | *female:* 28.5 years (2020 est.) |
+| **Laos** | *total:* 24 years |
+| | *male:* 23.7 years |
+| | *female:* 24.4 years (2020 est.) |
+| **Latvia** | *total:* 44.4 years |
+| | *male:* 40.5 years |
+| | *female:* 48 years (2020 est.) |
+| **Lebanon** | *total:* 33.7 years |
+| | *male:* 33.1 years |
+| | *female:* 34.4 years (2020 est.) |
+| **Lesotho** | *total:* 24.7 years |
+| | *male:* 24.7 years |
+| | *female:* 24.7 years (2020 est.) |
+| **Liberia** | *total:* 18 years |
+| | *male:* 17.7 years |
+| | *female:* 18.2 years (2020 est.) |
+| **Libya** | *total:* 25.8 years |
+| | *male:* 25.9 years |
+| | *female:* 25.7 years (2020 est.) |
+| **Liechtenstein** | *total:* 43.7 years |
+| | *male:* 42 years |
+| | *female:* 45.3 years (2020 est.) |
+| **Lithuania** | *total:* 44.5 years |
+| | *male:* 40.2 years |
+| | *female:* 48.2 years (2020 est.) |
+| **Luxembourg** | *total:* 39.5 years |
+| | *male:* 38.9 years |
+| | *female:* 40 years (2020 est.) |
+| **Macau** | *total:* 40.8 years |
+| | *male:* 40.7 years |
+| | *female:* 40.9 years (2020 est.) |
+| **Madagascar** | *total:* 20.3 years |
+| | *male:* 20.1 years |
+| | *female:* 20.5 years (2020 est.) |
+| **Malawi** | *total:* 16.8 years |
+| | *male:* 16.7 years |
+| | *female:* 16.9 years (2020 est.) |
+| **Malaysia** | *total:* 29.2 years |
+| | *male:* 28.9 years |
+| | *female:* 29.6 years (2020 est.) |
+| **Maldives** | *total:* 29.5 years |
+| | *male:* 29.2 years |
+| | *female:* 30 years (2020 est.) |
+| **Mali** | *total:* 16 years |
+| | *male:* 15.3 years |
+| | *female:* 16.7 years (2020 est.) |
+| **Malta** | *total:* 42.3 years |
+| | *male:* 41.2 years |
+| | *female:* 43.5 years (2020 est.) |
+| **Marshall Islands** | *total:* 23.8 years |
+| | *male:* 23.6 years |
+| | *female:* 23.9 years (2020 est.) |
+| **Mauritania** | *total:* 21 years |
+| | *male:* 20.1 years |
+| | *female:* 22 years (2020 est.) |
+| **Mauritius** | *total:* 36.3 years |
+| | *male:* 35 years |
+| | *female:* 37.6 years (2020 est.) |
+| **Mexico** | *total:* 29.3 years |
+| | *male:* 28.2 years |
+| | *female:* 30.4 years (2020 est.) |
+| **Micronesia, Federated States of** | *total:* 26.3 years |
+| | *male:* 25.5 years |
+| | *female:* 27.1 years (2020 est.) |
+| **Moldova** | *total:* 37.7 years |
+| | *male:* 36.2 years |
+| | *female:* 39.5 years (2020 est.) |
+| **Monaco** | *total:* 55.4 years |
+| | *male:* 53.7 years |
+| | *female:* 57 years (2020 est.) |
+| **Mongolia** | *total:* 29.8 years |
+| | *male:* 28.8 years |
+| | *female:* 30.7 years (2020 est.) |
+| **Montenegro** | *total:* 39.6 years |
+| | *male:* 38.1 years |
+| | *female:* 41.1 years (2020 est.) |
+| **Montserrat** | *total:* 34.8 years |
+| | *male:* 34.1 years |
+| | *female:* 35.6 years (2020 est.) |
+| **Morocco** | *total:* 29.1 years |
+| | *male:* 28.7 years |
+| | *female:* 29.6 years (2020 est.) |
+| **Mozambique** | *total:* 17 years |
+| | *male:* 16.3 years |
+| | *female:* 17.6 years (2020 est.) |
+| **Namibia** | *total:* 21.8 years |
+| | *male:* 21.1 years |
+| | *female:* 22.6 years (2020 est.) |
+| **Nauru** | *total:* 27 years |
+| | *male:* 28.2 years |
+| | *female:* 25.9 years (2020 est.) |
+| **Nepal** | *total:* 25.3 years |
+| | *male:* 23.9 years |
+| | *female:* 26.9 years (2020 est.) |
+| **Netherlands** | *total:* 42.8 years |
+| | *male:* 41.6 years |
+| | *female:* 44 years (2020 est.) |
+| **New Caledonia** | *total:* 32.9 years |
+| | *male:* 32.1 years |
+| | *female:* 33.7 years (2020 est.) |
+| **New Zealand** | *total:* 37.2 years |
+| | *male:* 36.4 years |
+| | *female:* 37.9 years (2020 est.) |
+| **Nicaragua** | *total:* 27.3 years |
+| | *male:* 26.4 years |
+| | *female:* 28.2 years (2020 est.) |
+| **Niger** | *total:* 14.8 years |
+| | *male:* 14.5 years |
+| | *female:* 15.1 years (2020 est.) |
+| **Nigeria** | *total:* 18.6 years |
+| | *male:* 18.4 years |
+| | *female:* 18.9 years (2020 est.) |
+| **North Macedonia** | *total:* 39 years |
+| | *male:* 38 years |
+| | *female:* 40 years (2020 est.) |
+| **Northern Mariana Islands** | *total:* 32.8 years |
+| | *male:* 31.8 years |
+| | *female:* 34.1 years (2020 est.) |
+| **Norway** | *total:* 39.5 years |
+| | *male:* 38.8 years |
+| | *female:* 40.2 years (2020 est.) |
+| **Oman** | *total:* 26.2 years |
+| | *male:* 27.2 years |
+| | *female:* 25.1 years (2020 est.) |
+| **Pakistan** | *total:* 22 years |
+| | *male:* 21.9 years |
+| | *female:* 22.1 years (2020 est.) |
+| **Palau** | *total:* 33.9 years |
+| | *male:* 32.9 years |
+| | *female:* 35.9 years (2020 est.) |
+| **Panama** | *total:* 30.1 years |
+| | *male:* 29.6 years |
+| | *female:* 30.5 years (2020 est.) |
+| **Papua New Guinea** | *total:* 24 years |
+| | *male:* 24 years |
+| | *female:* 24 years (2020 est.) |
+| **Paraguay** | *total:* 29.7 years |
+| | *male:* 29.5 years |
+| | *female:* 29.9 years (2020 est.) |
+| **Peru** | *total:* 29.1 years |
+| | *male:* 28.3 years |
+| | *female:* 29.9 years (2020 est.) |
+| **Philippines** | *total:* 24.1 years |
+| | *male:* 23.6 years |
+| | *female:* 24.6 years (2020 est.) |
+| **Poland** | *total:* 41.9 years |
+| | *male:* 40.3 years |
+| | *female:* 43.6 years (2020 est.) |
+| **Portugal** | *total:* 44.6 years |
+| | *male:* 42.7 years |
+| | *female:* 46.5 years (2020 est.) |
+| **Puerto Rico** | *total:* 43.6 years |
+| | *male:* 41.6 years |
+| | *female:* 45.3 years (2020 est.) |
+| **Qatar** | *total:* 33.7 years |
+| | *male:* 35 years |
+| | *female:* 28.2 years (2020 est.) |
+| **Romania** | *total:* 42.5 years |
+| | *male:* 41 years |
+| | *female:* 44 years (2020 est.) |
+| **Russia** | *total:* 40.3 years |
+| | *male:* 37.5 years |
+| | *female:* 43.2 years (2020 est.) |
+| **Rwanda** | *total:* 19.7 years |
+| | *male:* 18.9 years |
+| | *female:* 20.4 years (2020 est.) |
+| **Saint Barthelemy** | *total:* 45.6 years |
+| | *male:* 45.5 years |
+| | *female:* 45.8 years (2020 est.) |
+| **Saint Helena, Ascension, and Tristan da Cunha** | *total:* 43.2 years |
+| | *male:* 43.2 years |
+| | *female:* 43.3 years (2020 est.) |
+| **Saint Kitts and Nevis** | *total:* 36.5 years |
+| | *male:* 36.7 years |
+| | *female:* 36.3 years (2020 est.) |
+| **Saint Lucia** | *total:* 36.9 years |
+| | *male:* 35.7 years |
+| | *female:* 38 years (2020 est.) |
+| **Saint Martin** | *total:* 33.3 years |
+| | *male:* 32.5 years |
+| | *female:* 34.1 years (2020 est.) |
+| **Saint Pierre and Miquelon** | *total:* 48.5 years |
+| | *male:* 47.9 years |
+| | *female:* 49 years (2020 est.) |
+| **Saint Vincent and the Grenadines** | *total:* 35.3 years |
+| | *male:* 35.4 years |
+| | *female:* 35.1 years (2020 est.) |
+| **Samoa** | *total:* 25.6 years |
+| | *male:* 25.3 years |
+| | *female:* 26 years (2020 est.) |
+| **San Marino** | *total:* 45.2 years |
+| | *male:* 43.9 years |
+| | *female:* 46.3 years (2020 est.) |
+| **Sao Tome and Principe** | *total:* 19.3 years |
+| | *male:* 18.9 years |
+| | *female:* 19.7 years (2020 est.) |
+| **Saudi Arabia** | *total:* 30.8 years |
+| | *male:* 33 years |
+| | *female:* 27.9 years (2020 est.) |
+| **Senegal** | *total:* 19.4 years |
+| | *male:* 18.5 years |
+| | *female:* 20.3 years (2020 est.) |
+| **Serbia** | *total:* 43.4 years |
+| | *male:* 41.7 years |
+| | *female:* 45 years (2020 est.) |
+| **Seychelles** | *total:* 36.8 years |
+| | *male:* 36.3 years |
+| | *female:* 37.4 years (2020 est.) |
+| **Sierra Leone** | *total:* 19.1 years |
+| | *male:* 18.5 years |
+| | *female:* 19.7 years (2020 est.) |
+| **Singapore** | *total:* 35.6 years |
+| | *male:* 35.4 years |
+| | *female:* 35.7 years (2020 est.) |
+| **Sint Maarten** | *total:* 41.1 years |
+| | *male:* 39.6 years |
+| | *female:* 42.7 years (2020 est.) |
+| **Slovakia** | *total:* 41.8 years |
+| | *male:* 40.1 years |
+| | *female:* 43.6 years (2020 est.) |
+| **Slovenia** | *total:* 44.9 years |
+| | *male:* 43.4 years |
+| | *female:* 46.6 years (2020 est.) |
+| **Solomon Islands** | *total:* 23.5 years |
+| | *male:* 23.2 years |
+| | *female:* 23.7 years (2020 est.) |
+| **Somalia** | *total:* 18.5 years |
+| | *male:* 18.7 years |
+| | *female:* 18.3 years (2020 est.) |
+| **South Africa** | *total:* 28 years |
+| | *male:* 27.9 years |
+| | *female:* 28.1 years (2020 est.) |
+| **South Sudan** | *total:* 18.6 years |
+| | *male:* 18.9 years |
+| | *female:* 18.3 years (2020 est.) |
+| **Spain** | *total:* 43.9 years |
+| | *male:* 42.7 years |
+| | *female:* 45.1 years (2020 est.) |
+| **Sri Lanka** | *total:* 33.7 years |
+| | *male:* 32.3 years |
+| | *female:* 35.1 years (2020 est.) |
+| **Sudan** | *total:* 18.3 years |
+| | *male:* 18.1 years |
+| | *female:* 18.5 years (2020 est.) |
+| **Suriname** | *total:* 31 years |
+| | *male:* 30.6 years |
+| | *female:* 31.4 years (2020 est.) |
+| **Sweden** | *total:* 41.1 years |
+| | *male:* 40.1 years |
+| | *female:* 42.1 years (2020 est.) |
+| **Switzerland** | *total:* 42.7 years |
+| | *male:* 41.7 years |
+| | *female:* 43.7 years (2020 est.) |
+| **Syria** | *total:* 23.5 years |
+| | *male:* 23 years |
+| | *female:* 24 years (2020 est.) |
+| **Taiwan** | *total:* 42.3 years |
+| | *male:* 41.5 years |
+| | *female:* 43.1 years (2020 est.) |
+| **Tajikistan** | *total:* 25.3 years |
+| | *male:* 24.6 years |
+| | *female:* 26 years (2020 est.) |
+| **Tanzania** | *total:* 18.2 years |
+| | *male:* 17.9 years |
+| | *female:* 18.4 years (2020 est.) |
+| **Thailand** | *total:* 39 years |
+| | *male:* 37.8 years |
+| | *female:* 40.1 years (2020 est.) |
+| **Timor-Leste** | *total:* 19.6 years |
+| | *male:* 18.9 years |
+| | *female:* 20.2 years (2020 est.) |
+| **Togo** | *total:* 20 years |
+| | *male:* 19.7 years |
+| | *female:* 20.3 years (2020 est.) |
+| **Tonga** | *total:* 24.1 years |
+| | *male:* 23.6 years |
+| | *female:* 24.5 years (2020 est.) |
+| **Trinidad and Tobago** | *total:* 37.8 years |
+| | *male:* 37.3 years |
+| | *female:* 38.3 years (2020 est.) |
+| **Tunisia** | *total:* 32.7 years |
+| | *male:* 32 years |
+| | *female:* 33.3 years (2020 est.) |
+| **Turkey** | *total:* 32.2 years |
+| | *male:* 31.7 years |
+| | *female:* 32.8 years (2020 est.) |
+| **Turkmenistan** | *total:* 29.2 years |
+| | *male:* 28.7 years |
+| | *female:* 29.7 years (2020 est.) |
+| **Turks and Caicos Islands** | *total:* 34.6 years |
+| | *male:* 34.9 years |
+| | *female:* 34.4 years (2020 est.) |
+| **Tuvalu** | *total:* 26.6 years |
+| | *male:* 25.6 years |
+| | *female:* 27.6 years (2020 est.) |
+| **Uganda** | *total:* 15.7 years |
+| | *male:* 14.9 years |
+| | *female:* 16.5 years (2020 est.) |
+| **Ukraine** | *total:* 41.2 years |
+| | *male:* 38.2 years |
+| | *female:* 44.3 years (2020 est.) |
+| **United Arab Emirates** | *total:* 38.4 years |
+| | *male:* 40.4 years |
+| | *female:* 31.5 years (2020 est.) |
+| **United Kingdom** | *total:* 40.6 years |
+| | *male:* 39.6 years |
+| | *female:* 41.7 years (2020 est.) |
+| **United States** | *total:* 38.5 years |
+| | *male:* 37.2 years |
+| | *female:* 39.8 years (2020 est.) |
+| **Uruguay** | *total:* 35.5 years |
+| | *male:* 33.8 years |
+| | *female:* 37.3 years (2020 est.) |
+| **Uzbekistan** | *total:* 30.1 years |
+| | *male:* 29.4 years |
+| | *female:* 30.7 years (2020 est.) |
+| **Vanuatu** | *total:* 23 years |
+| | *male:* 22.6 years |
+| | *female:* 23.5 years (2020 est.) |
+| **Venezuela** | *total:* 30 years |
+| | *male:* 29.4 years |
+| | *female:* 30.7 years (2020 est.) |
+| **Vietnam** | *total:* 31.9 years |
+| | *male:* 30.8 years |
+| | *female:* 33 years (2020 est.) |
+| **Virgin Islands** | *total:* 41.8 years |
+| | *male:* 40.6 years |
+| | *female:* 42.8 years (2020 est.) |
+| **Wallis and Futuna** | *total:* 34 years |
+| | *male:* 33.1 years |
+| | *female:* 35.1 years (2020 est.) |
+| **West Bank** | *total:* 21.9 years |
+| | *male:* 21.7 years |
+| | *female:* 22.2 years (2020 est.) |
+| **World** | *total:* 31 years |
+| | *male:* 30.3 years |
+| | *female:* 31.8 years (2020 est.) |
+| **Yemen** | *total:* 19.8 years (2018 est.) |
+| | *male:* 19.6 years |
+| | *female:* 19.9 years |
+| **Zambia** | *total:* 16.9 years |
+| | *male:* 16.7 years |
+| | *female:* 17 years (2020 est.) |
+| **Zimbabwe** | *total:* 20.5 years |
+| | *male:* 20.3 years |
+| | *female:* 20.6 years (2020 est.) |
+

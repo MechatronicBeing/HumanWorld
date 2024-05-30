@@ -1,0 +1,931 @@
+CIA - The World Factbook -- Field Listing - Literacy
+
+| Country | Literacy (%) |
+| --- | --- |
+| **Afghanistan** | *definition:* age 15 and over can read and write |
+| | *total population:* 36% |
+| | *male:* 51% |
+| | *female:* 21% (1999 est.) |
+| **Albania** | *definition:* age 9 and over can read and write |
+| | *total population:* 86.5% |
+| | *male:* 93.3% |
+| | *female:* 79.5% (2003 est.) |
+| **Algeria** | *definition:* age 15 and over can read and write |
+| | *total population:* 70% |
+| | *male:* 78.8% |
+| | *female:* 61% (2003 est.) |
+| **American Samoa** | *definition:* age 15 and over can read and write |
+| | *total population:* 97% |
+| | *male:* 98% |
+| | *female:* 97% (1980 est.) |
+| **Andorra** | *definition:* NA |
+| | *total population:* 100% |
+| | *male:* NA% |
+| | *female:* NA% |
+| **Angola** | *definition:* age 15 and over can read and write |
+| | *total population:* 66.8% |
+| | *male:* 82.1% |
+| | *female:* 53.8% (2001 est.) |
+| **Anguilla** | *definition:* age 12 and over can read and write |
+| | *total population:* 95% |
+| | *male:* 95% |
+| | *female:* 95% (1984 est.) |
+| **Antigua and Barbuda** | *definition:* age 15 and over has completed five or more years of schooling |
+| | *total population:* 89% |
+| | *male:* 90% |
+| | *female:* 88% (1960 est.) |
+| **Argentina** | *definition:* age 15 and over can read and write |
+| | *total population:* 97.1% |
+| | *male:* 97.1% |
+| | *female:* 97.1% (2003 est.) |
+| **Armenia** | *definition:* age 15 and over can read and write |
+| | *total population:* 98.6% |
+| | *male:* 99.4% |
+| | *female:* 98% (2003 est.) |
+| **Aruba** | *definition:* |
+| | *total population:* 97% |
+| | *male:* NA% |
+| | *female:* NA% |
+| **Australia** | *definition:* age 15 and over can read and write |
+| | *total population:* 100% |
+| | *male:* 100% |
+| | *female:* 100% (1980 est.) |
+| **Austria** | *definition:* age 15 and over can read and write |
+| | *total population:* 98% |
+| | *male:* NA% |
+| | *female:* NA% |
+| **Azerbaijan** | *definition:* age 15 and over can read and write |
+| | *total population:* 98.8% |
+| | *male:* 99.5% |
+| | *female:* 98.2% (1999 est.) |
+| **Bahamas, The** | *definition:* age 15 and over can read and write |
+| | *total population:* 95.6% |
+| | *male:* 94.7% |
+| | *female:* 96.5% (2003 est.) |
+| **Bahrain** | *definition:* age 15 and over can read and write |
+| | *total population:* 89.1% |
+| | *male:* 91.9% |
+| | *female:* 85% (2003 est.) |
+| **Bangladesh** | *definition:* age 15 and over can read and write |
+| | *total population:* 43.1% |
+| | *male:* 53.9% |
+| | *female:* 31.8% (2003 est.) |
+| **Barbados** | *definition:* age 15 and over has ever attended school |
+| | *total population:* 99.7% |
+| | *male:* 99.7% |
+| | *female:* 99.7% (2002 est.) |
+| **Belarus** | *definition:* age 15 and over can read and write |
+| | *total population:* 99.6% |
+| | *male:* 99.8% |
+| | *female:* 99.5% (2003 est.) |
+| **Belgium** | *definition:* age 15 and over can read and write |
+| | *total population:* 98% |
+| | *male:* NA% |
+| | *female:* NA% |
+| **Belize** | *definition:* age 15 and over can read and write |
+| | *total population:* 94.1% |
+| | *male:* 94.1% |
+| | *female:* 94.1% (2003 est.) |
+| **Benin** | *definition:* age 15 and over can read and write |
+| | *total population:* 33.6% |
+| | *male:* 46.4% |
+| | *female:* 22.6% (2002 est.) |
+| **Bermuda** | *definition:* age 15 and over can read and write |
+| | *total population:* 98% |
+| | *male:* 98% |
+| | *female:* 99% (1970 est.) |
+| **Bhutan** | *definition:* age 15 and over can read and write |
+| | *total population:* 42.2% |
+| | *male:* 56.2% |
+| | *female:* 28.1% (1995 est.) |
+| **Bolivia** | *definition:* age 15 and over can read and write |
+| | *total population:* 87.2% |
+| | *male:* 93.1% |
+| | *female:* 81.6% (2003 est.) |
+| **Bosnia and Herzegovina** | *definition:* age 15 and over can read and write |
+| | *total population:* 94.6% |
+| | *male:* 98.4% |
+| | *female:* 91.1% (2000 est.) |
+| **Botswana** | *definition:* age 15 and over can read and write |
+| | *total population:* 79.8% |
+| | *male:* 76.9% |
+| | *female:* 82.4% (2003 est.) |
+| **Brazil** | *definition:* age 15 and over can read and write |
+| | *total population:* 86.4% |
+| | *male:* 86.1% |
+| | *female:* 86.6% (2003 est.) |
+| **British Virgin Islands** | *definition:* age 15 and over can read and write |
+| | *total population:* 97.8% (1991 est.) |
+| | *male:* NA% |
+| | *female:* NA% |
+| **Brunei** | *definition:* age 15 and over can read and write |
+| | *total population:* 93.9% |
+| | *male:* 96.3% |
+| | *female:* 91.4% (2002) |
+| **Bulgaria** | *definition:* age 15 and over can read and write |
+| | *total population:* 98.6% |
+| | *male:* 99.1% |
+| | *female:* 98.2% (2003 est.) |
+| **Burkina Faso** | *definition:* age 15 and over can read and write |
+| | *total population:* 26.6% |
+| | *male:* 36.9% |
+| | *female:* 16.6% (2003 est.) |
+| **Burma** | *definition:* age 15 and over can read and write |
+| | *total population:* 85.3% |
+| | *male:* 89.2% |
+| | *female:* 81.4% (2002) |
+| **Burundi** | *definition:* age 15 and over can read and write |
+| | *total population:* 51.6% |
+| | *male:* 58.5% |
+| | *female:* 45.2% (2003 est.) |
+| **Cambodia** | *definition:* age 15 and over can read and write |
+| | *total population:* 73.6% |
+| | *male:* 84.7% |
+| | *female:* 64.1% (2004 est.) |
+| **Cameroon** | *definition:* age 15 and over can read and write |
+| | *total population:* 79% |
+| | *male:* 84.7% |
+| | *female:* 73.4% (2003 est.) |
+| **Canada** | *definition:* age 15 and over can read and write |
+| | *total population:* 97% (1986 est.) |
+| | *male:* NA% |
+| | *female:* NA% |
+| **Cape Verde** | *definition:* age 15 and over can read and write |
+| | *total population:* 76.6% |
+| | *male:* 85.8% |
+| | *female:* 69.2% (2003 est.) |
+| **Cayman Islands** | *definition:* age 15 and over has ever attended school |
+| | *total population:* 98% |
+| | *male:* 98% |
+| | *female:* 98% (1970 est.) |
+| **Central African Republic** | *definition:* age 15 and over can read and write |
+| | *total population:* 51% |
+| | *male:* 63.3% |
+| | *female:* 39.9% (2003 est.) |
+| **Chad** | *definition:* age 15 and over can read and write French or Arabic |
+| | *total population:* 47.5% |
+| | *male:* 56% |
+| | *female:* 39.3% (2003 est.) |
+| **Chile** | *definition:* age 15 and over can read and write |
+| | *total population:* 96.2% |
+| | *male:* 96.4% |
+| | *female:* 96.1% (2003 est.) |
+| **China** | *definition:* age 15 and over can read and write |
+| | *total population:* 90.9% |
+| | *male:* 95.1% |
+| | *female:* 86.5% (2002) |
+| **Christmas Island** | NA |
+| **Colombia** | *definition:* age 15 and over can read and write |
+| | *total population:* 92.5% |
+| | *male:* 92.4% |
+| | *female:* 92.6% (2003 est.) |
+| **Comoros** | *definition:* age 15 and over can read and write |
+| | *total population:* 56.5% |
+| | *male:* 63.6% |
+| | *female:* 49.3% (2003 est.) |
+| **Congo, Democratic Republic of the** | *definition:* age 15 and over can read and write French, Lingala, Kingwana, or Tshiluba |
+| | *total population:* 65.5% |
+| | *male:* 76.2% |
+| | *female:* 55.1% (2003 est.) |
+| **Congo, Republic of the** | *definition:* age 15 and over can read and write |
+| | *total population:* 83.8% |
+| | *male:* 89.6% |
+| | *female:* 78.4% (2003 est.) |
+| **Cook Islands** | *definition:* NA |
+| | *total population:* 95% |
+| | *male:* NA% |
+| | *female:* NA% |
+| **Costa Rica** | *definition:* age 15 and over can read and write |
+| | *total population:* 96% |
+| | *male:* 95.9% |
+| | *female:* 96.1% (2003 est.) |
+| **Cote d'Ivoire** | *definition:* age 15 and over can read and write |
+| | *total population:* 50.9% |
+| | *male:* 57.9% |
+| | *female:* 43.6% (2003 est.) |
+| **Croatia** | *definition:* age 15 and over can read and write |
+| | *total population:* 98.5% |
+| | *male:* 99.4% |
+| | *female:* 97.8% (2003 est.) |
+| **Cuba** | *definition:* age 15 and over can read and write |
+| | *total population:* 97% |
+| | *male:* 97.2% |
+| | *female:* 96.9% (2003 est.) |
+| **Cyprus** | *definition:* age 15 and over can read and write |
+| | *total population:* 97.6% |
+| | *male:* 98.9% |
+| | *female:* 96.3% (2003 est.) |
+| **Czech Republic** | *definition:* NA |
+| | *total population:* 99.9% (1999 est.) |
+| | *male:* NA% |
+| | *female:* NA% |
+| **Denmark** | *definition:* age 15 and over can read and write |
+| | *total population:* 100% |
+| | *male:* 100% |
+| | *female:* 100% |
+| **Djibouti** | *definition:* age 15 and over can read and write |
+| | *total population:* 67.9% |
+| | *male:* 78% |
+| | *female:* 58.4% (2003 est.) |
+| **Dominica** | *definition:* age 15 and over has ever attended school |
+| | *total population:* 94% |
+| | *male:* 94% |
+| | *female:* 94% (2003 est.) |
+| **Dominican Republic** | *definition:* age 15 and over can read and write |
+| | *total population:* 84.7% |
+| | *male:* 84.6% |
+| | *female:* 84.8% (2003 est.) |
+| **East Timor** | *definition:* age 15 and over can read and write |
+| | *total population:* 58.6% (2002) |
+| **Ecuador** | *definition:* age 15 and over can read and write |
+| | *total population:* 92.5% |
+| | *male:* 94% |
+| | *female:* 91% (2003 est.) |
+| **Egypt** | *definition:* age 15 and over can read and write |
+| | *total population:* 57.7% |
+| | *male:* 68.3% |
+| | *female:* 46.9% (2003 est.) |
+| **El Salvador** | *definition:* age 10 and over can read and write |
+| | *total population:* 80.2% |
+| | *male:* 82.8% |
+| | *female:* 77.7% (2003 est.) |
+| **Equatorial Guinea** | *definition:* age 15 and over can read and write |
+| | *total population:* 85.7% |
+| | *male:* 93.3% |
+| | *female:* 78.4% (2003 est.) |
+| **Eritrea** | *definition:* NA |
+| | *total population:* 58.6% |
+| | *male:* 69.9% |
+| | *female:* 47.6% (2003 est.) |
+| **Estonia** | *definition:* age 15 and over can read and write |
+| | *total population:* 99.8% |
+| | *male:* 99.8% |
+| | *female:* 99.8% (2003 est.) |
+| **Ethiopia** | *definition:* age 15 and over can read and write |
+| | *total population:* 42.7% |
+| | *male:* 50.3% |
+| | *female:* 35.1% (2003 est.) |
+| **Faroe Islands** | *definition:* NA |
+| | *total population:* NA% |
+| | *male:* NA% |
+| | *female:* NA% |
+| | *note:* probably the same as Denmark proper |
+| **Fiji** | *definition:* age 15 and over can read and write |
+| | *total population:* 93.7% |
+| | *male:* 95.5% |
+| | *female:* 91.9% (2003 est.) |
+| **Finland** | *definition:* age 15 and over can read and write |
+| | *total population:* 100% (2000 est.) |
+| | *male:* 100% |
+| | *female:* 100% |
+| **France** | *definition:* age 15 and over can read and write |
+| | *total population:* 99% |
+| | *male:* 99% |
+| | *female:* 99% (1980 est.) |
+| **French Guiana** | *definition:* age 15 and over can read and write |
+| | *total population:* 83% |
+| | *male:* 84% |
+| | *female:* 82% (1982 est.) |
+| **French Polynesia** | *definition:* age 14 and over can read and write |
+| | *total population:* 98% |
+| | *male:* 98% |
+| | *female:* 98% (1977 est.) |
+| **Gabon** | *definition:* age 15 and over can read and write |
+| | *total population:* 63.2% |
+| | *male:* 73.7% |
+| | *female:* 53.3% (1995 est.) |
+| **Gambia, The** | *definition:* age 15 and over can read and write |
+| | *total population:* 40.1% |
+| | *male:* 47.8% |
+| | *female:* 32.8% (2003 est.) |
+| **Gaza Strip** | *definition:* age 15 and over can read and write |
+| | *total population:* 91.9% |
+| | *male:* 96.3% |
+| | *female:* 87.4% (2003 est.) |
+| **Georgia** | *definition:* age 15 and over can read and write |
+| | *total population:* 99% |
+| | *male:* 100% |
+| | *female:* 98% (1999 est.) |
+| **Germany** | *definition:* age 15 and over can read and write |
+| | *total population:* 99% (1997 est.) |
+| | *male:* NA% |
+| | *female:* NA% |
+| **Ghana** | *definition:* age 15 and over can read and write |
+| | *total population:* 74.8% |
+| | *male:* 82.7% |
+| | *female:* 67.1% (2003 est.) |
+| **Gibraltar** | *definition:* NA |
+| | *total population:* above 80% |
+| | *male:* NA% |
+| | *female:* NA% |
+| **Greece** | *definition:* age 15 and over can read and write |
+| | *total population:* 97.5% |
+| | *male:* 98.6% |
+| | *female:* 96.5% (2003 est.) |
+| **Greenland** | *definition:* NA |
+| | *total population:* NA% |
+| | *male:* NA% |
+| | *female:* NA% |
+| | *note:* similar to Denmark proper |
+| **Grenada** | *definition:* age 15 and over can read and write |
+| | *total population:* 98% |
+| | *male:* 98% |
+| | *female:* 98% (1970 est.) |
+| **Guadeloupe** | *definition:* age 15 and over can read and write |
+| | *total population:* 90% |
+| | *male:* 90% |
+| | *female:* 90% (1982 est.) |
+| **Guam** | *definition:* age 15 and over can read and write |
+| | *total population:* 99% |
+| | *male:* 99% |
+| | *female:* 99% (1990 est.) |
+| **Guatemala** | *definition:* age 15 and over can read and write |
+| | *total population:* 70.6% |
+| | *male:* 78% |
+| | *female:* 63.3% (2003 est.) |
+| **Guernsey** | *definition:* NA |
+| | *total population:* NA% |
+| | *male:* NA% |
+| | *female:* NA% |
+| **Guinea** | *definition:* age 15 and over can read and write |
+| | *total population:* 35.9% |
+| | *male:* 49.9% |
+| | *female:* 21.9% (1995 est.) |
+| **Guinea-Bissau** | *definition:* age 15 and over can read and write |
+| | *total population:* 42.4% |
+| | *male:* 58.1% |
+| | *female:* 27.4% (2003 est.) |
+| **Guyana** | *definition:* age 15 and over has ever attended school |
+| | *total population:* 98.8% |
+| | *male:* 99.1% |
+| | *female:* 98.5% (2003 est.) |
+| **Haiti** | *definition:* age 15 and over can read and write |
+| | *total population:* 52.9% |
+| | *male:* 54.8% |
+| | *female:* 51.2% (2003 est.) |
+| **Holy See (Vatican City)** | *definition:* NA |
+| | *total population:* 100% |
+| | *male:* 100% |
+| | *female:* 100% |
+| **Honduras** | *definition:* age 15 and over can read and write |
+| | *total population:* 76.2% |
+| | *male:* 76.1% |
+| | *female:* 76.3% (2003 est.) |
+| **Hong Kong** | *definition:* age 15 and over has ever attended school |
+| | *total population:* 93.5% |
+| | *male:* 96.9% |
+| | *female:* 89.6% (2002) |
+| **Hungary** | *definition:* age 15 and over can read and write |
+| | *total population:* 99.4% |
+| | *male:* 99.5% |
+| | *female:* 99.3% (2003 est.) |
+| **Iceland** | *definition:* age 15 and over can read and write |
+| | *total population:* 99.9% (1997 est.) |
+| | *male:* NA% |
+| | *female:* NA% |
+| **India** | *definition:* age 15 and over can read and write |
+| | *total population:* 59.5% |
+| | *male:* 70.2% |
+| | *female:* 48.3% (2003 est.) |
+| **Indonesia** | *definition:* age 15 and over can read and write |
+| | *total population:* 87.9% |
+| | *male:* 92.5% |
+| | *female:* 83.4% (2002 est.) |
+| **Iran** | *definition:* age 15 and over can read and write |
+| | *total population:* 79.4% |
+| | *male:* 85.6% |
+| | *female:* 73% (2003 est.) |
+| **Iraq** | *definition:* age 15 and over can read and write |
+| | *total population:* 40.4% |
+| | *male:* 55.9% |
+| | *female:* 24.4% (2003 est.) |
+| **Ireland** | *definition:* age 15 and over can read and write |
+| | *total population:* 98% (1981 est.) |
+| | *male:* NA% |
+| | *female:* NA% |
+| **Israel** | *definition:* age 15 and over can read and write |
+| | *total population:* 95.4% |
+| | *male:* 97.3% |
+| | *female:* 93.6% (2003 est.) |
+| **Italy** | *definition:* age 15 and over can read and write |
+| | *total population:* 98.6% |
+| | *male:* 99% |
+| | *female:* 98.3% (2003 est.) |
+| **Jamaica** | *definition:* age 15 and over has ever attended school |
+| | *total population:* 87.9% |
+| | *male:* 84.1% |
+| | *female:* 91.6% (2003 est.) |
+| **Japan** | *definition:* age 15 and over can read and write |
+| | *total population:* 99% |
+| | *male:* 99% |
+| | *female:* 99% (2002) |
+| **Jersey** | *definition:* NA |
+| | *total population:* NA% |
+| | *male:* NA% |
+| | *female:* NA% |
+| **Jordan** | *definition:* age 15 and over can read and write |
+| | *total population:* 91.3% |
+| | *male:* 95.9% |
+| | *female:* 86.3% (2003 est.) |
+| **Kazakhstan** | *definition:* age 15 and over can read and write |
+| | *total population:* 98.4% |
+| | *male:* 99.1% |
+| | *female:* 97.7% (1999 est.) |
+| **Kenya** | *definition:* age 15 and over can read and write |
+| | *total population:* 85.1% |
+| | *male:* 90.6% |
+| | *female:* 79.7% (2003 est.) |
+| **Kiribati** | *definition:* NA |
+| | *total population:* NA% |
+| | *male:* NA% |
+| | *female:* NA% |
+| **Korea, North** | *definition:* age 15 and over can read and write |
+| | *total population:* 99% |
+| | *male:* 99% |
+| | *female:* 99% |
+| **Korea, South** | *definition:* age 15 and over can read and write |
+| | *total population:* 97.9% |
+| | *male:* 99.2% |
+| | *female:* 96.6% (2002) |
+| **Kuwait** | *definition:* age 15 and over can read and write |
+| | *total population:* 83.5% |
+| | *male:* 85.1% |
+| | *female:* 81.7% (2003 est.) |
+| **Kyrgyzstan** | *definition:* age 15 and over can read and write |
+| | *total population:* 98.7% |
+| | *male:* 99.3% |
+| | *female:* 98.1% (1999 est.) |
+| **Laos** | *definition:* age 15 and over can read and write |
+| | *total population:* 66.4% |
+| | *male:* 77.4% |
+| | *female:* 55.5% (2002) |
+| **Latvia** | *definition:* age 15 and over can read and write |
+| | *total population:* 99.8% |
+| | *male:* 99.8% |
+| | *female:* 99.8% (2003 est.) |
+| **Lebanon** | *definition:* age 15 and over can read and write |
+| | *total population:* 87.4% |
+| | *male:* 93.1% |
+| | *female:* 82.2% (2003 est.) |
+| **Lesotho** | *definition:* age 15 and over can read and write |
+| | *total population:* 84.8% |
+| | *male:* 74.5% |
+| | *female:* 94.5% (2003 est.) |
+| **Liberia** | *definition:* age 15 and over can read and write |
+| | *total population:* 57.5% |
+| | *male:* 73.3% |
+| | *female:* 41.6% (2003 est.) |
+| **Libya** | *definition:* age 15 and over can read and write |
+| | *total population:* 82.6% |
+| | *male:* 92.4% |
+| | *female:* 72% (2003 est.) |
+| **Liechtenstein** | *definition:* age 10 and over can read and write |
+| | *total population:* 100% |
+| | *male:* 100% |
+| | *female:* 100% |
+| **Lithuania** | *definition:* age 15 and over can read and write |
+| | *total population:* 99.6% |
+| | *male:* 99.7% |
+| | *female:* 99.6% (2003 est.) |
+| **Luxembourg** | *definition:* age 15 and over can read and write |
+| | *total population:* 100% |
+| | *male:* 100% |
+| | *female:* 100% (2000 est.) |
+| **Macau** | *definition:* age 15 and over can read and write |
+| | *total population:* 94.5% |
+| | *male:* 97.2% |
+| | *female:* 92% (2003 est.) |
+| **Macedonia** | *definition:* age 15 and over can read and write |
+| | *total population:* 96.1% |
+| | *male:* 98.2% |
+| | *female:* 94.1% (2002 est.) |
+| **Madagascar** | *definition:* age 15 and over can read and write |
+| | *total population:* 68.9% |
+| | *male:* 75.5% |
+| | *female:* 62.5% (2003 est.) |
+| **Malawi** | *definition:* age 15 and over can read and write |
+| | *total population:* 62.7% |
+| | *male:* 76.1% |
+| | *female:* 49.8% (2003 est.) |
+| **Malaysia** | *definition:* age 15 and over can read and write |
+| | *total population:* 88.7% |
+| | *male:* 92% |
+| | *female:* 85.4% (2002) |
+| **Maldives** | *definition:* age 15 and over can read and write |
+| | *total population:* 97.2% |
+| | *male:* 97.1% |
+| | *female:* 97.3% (2003 est.) |
+| **Mali** | *definition:* age 15 and over can read and write |
+| | *total population:* 46.4% |
+| | *male:* 53.5% |
+| | *female:* 39.6% (2003 est.) |
+| **Malta** | *definition:* age 10 and over can read and write |
+| | *total population:* 92.8% |
+| | *male:* 92% |
+| | *female:* 93.6% (2003 est.) |
+| **Man, Isle of** | *definition:* NA |
+| | *total population:* NA% |
+| | *male:* NA% |
+| | *female:* NA% |
+| **Marshall Islands** | *definition:* age 15 and over can read and write |
+| | *total population:* 93.7% |
+| | *male:* 93.6% |
+| | *female:* 93.7% (1999) |
+| **Martinique** | *definition:* age 15 and over can read and write |
+| | *total population:* 97.7% |
+| | *male:* 97.4% |
+| | *female:* 98.1% (2003 est.) |
+| **Mauritania** | *definition:* age 15 and over can read and write |
+| | *total population:* 41.7% |
+| | *male:* 51.8% |
+| | *female:* 31.9% (2003 est.) |
+| **Mauritius** | *definition:* age 15 and over can read and write |
+| | *total population:* 85.6% |
+| | *male:* 88.6% |
+| | *female:* 82.7% (2003 est.) |
+| **Mayotte** | *definition:* NA |
+| | *total population:* NA% |
+| | *male:* NA% |
+| | *female:* NA% |
+| **Mexico** | *definition:* age 15 and over can read and write |
+| | *total population:* 92.2% |
+| | *male:* 94% |
+| | *female:* 90.5% (2003 est.) |
+| **Micronesia, Federated States of** | *definition:* age 15 and over can read and write |
+| | *total population:* 89% |
+| | *male:* 91% |
+| | *female:* 88% (1980 est.) |
+| **Moldova** | *definition:* age 15 and over can read and write |
+| | *total population:* 99.1% |
+| | *male:* 99.6% |
+| | *female:* 98.7% (2003 est.) |
+| **Monaco** | *definition:* NA |
+| | *total population:* 99% |
+| | *male:* NA% |
+| | *female:* NA% |
+| **Mongolia** | *definition:* age 15 and over can read and write |
+| | *total population:* 97.8% |
+| | *male:* 98% |
+| | *female:* 97.5% (2002) |
+| **Montserrat** | *definition:* age 15 and over has ever attended school |
+| | *total population:* 97% |
+| | *male:* 97% |
+| | *female:* 97% (1970 est.) |
+| **Morocco** | *definition:* age 15 and over can read and write |
+| | *total population:* 51.7% |
+| | *male:* 64.1% |
+| | *female:* 39.4% (2003 est.) |
+| **Mozambique** | *definition:* age 15 and over can read and write |
+| | *total population:* 47.8% |
+| | *male:* 63.5% |
+| | *female:* 32.7% (2003 est.) |
+| **Namibia** | *definition:* age 15 and over can read and write |
+| | *total population:* 84% |
+| | *male:* 84.4% |
+| | *female:* 83.7% (2003 est.) |
+| **Nauru** | *definition:* NA |
+| | *total population:* NA% |
+| | *male:* NA% |
+| | *female:* NA% |
+| **Nepal** | *definition:* age 15 and over can read and write |
+| | *total population:* 45.2% |
+| | *male:* 62.7% |
+| | *female:* 27.6% (2003 est.) |
+| **Netherlands** | *definition:* age 15 and over can read and write |
+| | *total population:* 99% (2000 est.) |
+| | *male:* NA% |
+| | *female:* NA% |
+| **Netherlands Antilles** | *definition:* age 15 and over can read and write |
+| | *total population:* 96.7% |
+| | *male:* 96.7% |
+| | *female:* 96.8% (2003 est.) |
+| **New Caledonia** | *definition:* age 15 and over can read and write |
+| | *total population:* 91% |
+| | *male:* 92% |
+| | *female:* 90% (1976 est.) |
+| **New Zealand** | *definition:* age 15 and over can read and write |
+| | *total population:* 99% (1980 est.) |
+| | *male:* NA% |
+| | *female:* NA% |
+| **Nicaragua** | *definition:* age 15 and over can read and write |
+| | *total population:* 67.5% |
+| | *male:* 67.2% |
+| | *female:* 67.8% (2003 est.) |
+| **Niger** | *definition:* age 15 and over can read and write |
+| | *total population:* 17.6% |
+| | *male:* 25.8% |
+| | *female:* 9.7% (2003 est.) |
+| **Nigeria** | *definition:* age 15 and over can read and write |
+| | *total population:* 68% |
+| | *male:* 75.7% |
+| | *female:* 60.6% (2003 est.) |
+| **Niue** | *definition:* NA |
+| | *total population:* 95% |
+| | *male:* NA% |
+| | *female:* NA% |
+| **Norfolk Island** | NA |
+| **Northern Mariana Islands** | *definition:* age 15 and over can read and write |
+| | *total population:* 97% |
+| | *male:* 97% |
+| | *female:* 96% (1980 est.) |
+| **Norway** | *definition:* age 15 and over can read and write |
+| | *total population:* 100% |
+| | *male:* 100% |
+| | *female:* 100% |
+| **Oman** | *definition:* NA |
+| | *total population:* 75.8% |
+| | *male:* 83.1% |
+| | *female:* 67.2% (2003 est.) |
+| **Pakistan** | *definition:* age 15 and over can read and write |
+| | *total population:* 48.7% |
+| | *male:* 61.7% |
+| | *female:* 35.2% (2004 est.) |
+| **Palau** | *definition:* age 15 and over can read and write |
+| | *total population:* 92% |
+| | *male:* 93% |
+| | *female:* 90% (1980 est.) |
+| **Panama** | *definition:* age 15 and over can read and write |
+| | *total population:* 92.6% |
+| | *male:* 93.2% |
+| | *female:* 91.9% (2003 est.) |
+| **Papua New Guinea** | *definition:* age 15 and over can read and write |
+| | *total population:* 64.6% |
+| | *male:* 71.1% |
+| | *female:* 57.7% (2002) |
+| **Paraguay** | *definition:* age 15 and over can read and write |
+| | *total population:* 94% |
+| | *male:* 94.9% |
+| | *female:* 93% (2003 est.) |
+| **Peru** | *definition:* age 15 and over can read and write |
+| | *total population:* 87.7% |
+| | *male:* 93.5% |
+| | *female:* 82.1% (2004 est.) |
+| **Philippines** | *definition:* age 15 and over can read and write |
+| | *total population:* 92.6% |
+| | *male:* 92.5% |
+| | *female:* 92.7% (2002) |
+| **Pitcairn Islands** | NA |
+| **Poland** | *definition:* age 15 and over can read and write |
+| | *total population:* 99.8% |
+| | *male:* 99.8% |
+| | *female:* 99.7% (2003 est.) |
+| **Portugal** | *definition:* age 15 and over can read and write |
+| | *total population:* 93.3% |
+| | *male:* 95.5% |
+| | *female:* 91.3% (2003 est.) |
+| **Puerto Rico** | *definition:* age 15 and over can read and write |
+| | *total population:* 94.1% |
+| | *male:* 93.9% |
+| | *female:* 94.4% (2002 est.) |
+| **Qatar** | *definition:* age 15 and over can read and write |
+| | *total population:* 89% |
+| | *male:* 89.1% |
+| | *female:* 88.6% (2004 est.) |
+| **Reunion** | *definition:* age 15 and over can read and write |
+| | *total population:* 88.9% |
+| | *male:* 87% |
+| | *female:* 90.8% (2003 est.) |
+| **Romania** | *definition:* age 15 and over can read and write |
+| | *total population:* 98.4% |
+| | *male:* 99.1% |
+| | *female:* 97.7% (2003 est.) |
+| **Russia** | *definition:* age 15 and over can read and write |
+| | *total population:* 99.6% |
+| | *male:* 99.7% |
+| | *female:* 99.5% (2003 est.) |
+| **Rwanda** | *definition:* age 15 and over can read and write |
+| | *total population:* 70.4% |
+| | *male:* 76.3% |
+| | *female:* 64.7% (2003 est.) |
+| **Saint Helena** | *definition:* age 20 and over can read and write |
+| | *total population:* 97% |
+| | *male:* 97% |
+| | *female:* 98% (1987 est.) |
+| **Saint Kitts and Nevis** | *definition:* age 15 and over has ever attended school |
+| | *total population:* 97% |
+| | *male:* 97% |
+| | *female:* 98% (1980 est.) |
+| **Saint Lucia** | *definition:* age 15 and over has ever attended school |
+| | *total population:* 90.1% |
+| | *male:* 89.5% |
+| | *female:* 90.6% (2001 est.) |
+| **Saint Pierre and Miquelon** | *definition:* age 15 and over can read and write |
+| | *total population:* 99% |
+| | *male:* 99% |
+| | *female:* 99% (1982 est.) |
+| **Saint Vincent and the Grenadines** | *definition:* age 15 and over has ever attended school |
+| | *total population:* 96% |
+| | *male:* 96% |
+| | *female:* 96% (1970 est.) |
+| **Samoa** | *definition:* age 15 and over can read and write |
+| | *total population:* 99.7% |
+| | *male:* 99.6% |
+| | *female:* 99.7% (2003 est.) |
+| **San Marino** | *definition:* age 10 and over can read and write |
+| | *total population:* 96% |
+| | *male:* 97% |
+| | *female:* 95% (1976 est.) |
+| **Sao Tome and Principe** | *definition:* age 15 and over can read and write |
+| | *total population:* 79.3% |
+| | *male:* 85% |
+| | *female:* 62% (1991 est.) |
+| **Saudi Arabia** | *definition:* age 15 and over can read and write |
+| | *total population:* 78.8% |
+| | *male:* 84.7% |
+| | *female:* 70.8% (2003 est.) |
+| **Senegal** | *definition:* age 15 and over can read and write |
+| | *total population:* 40.2% |
+| | *male:* 50% |
+| | *female:* 30.7% (2003 est.) |
+| **Serbia and Montenegro** | *definition:* age 15 and over can read and write |
+| | *total population:* 96.4% |
+| | *male:* 98.9% |
+| | *female:* 94.1% (2002 est.) |
+| **Seychelles** | *definition:* age 15 and over can read and write |
+| | *total population:* 91.9% |
+| | *male:* 91.4% |
+| | *female:* 92.3% (2003 est.) |
+| **Sierra Leone** | *definition:* age 15 and over can read and write English, Mende, Temne, or Arabic |
+| | *total population:* 29.6% |
+| | *male:* 39.8% |
+| | *female:* 20.5% (2000 est.) |
+| **Singapore** | *definition:* age 15 and over can read and write |
+| | *total population:* 92.5% |
+| | *male:* 96.6% |
+| | *female:* 88.6% (2002) |
+| **Slovakia** | *definition:* age 15 and over can read and write |
+| | *total population:* 99.6% |
+| | *male:* 99.7% |
+| | *female:* 99.6% (2001 est.) |
+| **Slovenia** | *definition:* NA |
+| | *total population:* 99.7% |
+| | *male:* 99.7% |
+| | *female:* 99.6% (2003 est.) |
+| **Solomon Islands** | *definition:* NA |
+| | *total population:* NA% |
+| | *male:* NA% |
+| | *female:* NA% |
+| **Somalia** | *definition:* age 15 and over can read and write |
+| | *total population:* 37.8% |
+| | *male:* 49.7% |
+| | *female:* 25.8% (2001 est.) |
+| **South Africa** | *definition:* age 15 and over can read and write |
+| | *total population:* 86.4% |
+| | *male:* 87% |
+| | *female:* 85.7% (2003 est.) |
+| **Spain** | *definition:* age 15 and over can read and write |
+| | *total population:* 97.9% |
+| | *male:* 98.7% |
+| | *female:* 97.2% (2003 est.) |
+| **Sri Lanka** | *definition:* age 15 and over can read and write |
+| | *total population:* 92.3% |
+| | *male:* 94.8% |
+| | *female:* 90% (2003 est.) |
+| **Sudan** | *definition:* age 15 and over can read and write |
+| | *total population:* 61.1% |
+| | *male:* 71.8% |
+| | *female:* 50.5% (2003 est.) |
+| **Suriname** | *definition:* age 15 and over can read and write |
+| | *total population:* 88% |
+| | *male:* 92.3% |
+| | *female:* 84.1% (2000 est.) |
+| **Svalbard** | NA |
+| **Swaziland** | *definition:* age 15 and over can read and write |
+| | *total population:* 81.6% |
+| | *male:* 82.6% |
+| | *female:* 80.8% (2003 est.) |
+| **Sweden** | *definition:* age 15 and over can read and write |
+| | *total population:* 99% (1979 est.) |
+| | *male:* NA% |
+| | *female:* NA% |
+| **Switzerland** | *definition:* age 15 and over can read and write |
+| | *total population:* 99% (1980 est.) |
+| | *male:* NA% |
+| | *female:* NA% |
+| **Syria** | *definition:* age 15 and over can read and write |
+| | *total population:* 76.9% |
+| | *male:* 89.7% |
+| | *female:* 64% (2003 est.) |
+| **Taiwan** | *definition:* age 15 and over can read and write |
+| | *total population:* 96.1% (2003) |
+| **Tajikistan** | *definition:* age 15 and over can read and write |
+| | *total population:* 99.4% |
+| | *male:* 99.6% |
+| | *female:* 99.1% (2003 est.) |
+| **Tanzania** | *definition:* age 15 and over can read and write Kiswahili (Swahili), English, or Arabic |
+| | *total population:* 78.2% |
+| | *male:* 85.9% |
+| | *female:* 70.7% (2003 est.) |
+| **Thailand** | *definition:* age 15 and over can read and write |
+| | *total population:* 92.6% |
+| | *male:* 94.9% |
+| | *female:* 90.5% (2002) |
+| **Togo** | *definition:* age 15 and over can read and write |
+| | *total population:* 60.9% |
+| | *male:* 75.4% |
+| | *female:* 46.9% (2003 est.) |
+| **Tokelau** | NA |
+| **Tonga** | *definition:* can read and write Tongan and/or English |
+| | *total population:* 98.9% |
+| | *male:* 98.8% |
+| | *female:* 99% (1996 est.) |
+| **Trinidad and Tobago** | *definition:* age 15 and over can read and write |
+| | *total population:* 98.6% |
+| | *male:* 99.1% |
+| | *female:* 98% (2003 est.) |
+| **Tunisia** | *definition:* age 15 and over can read and write |
+| | *total population:* 74.3% |
+| | *male:* 83.4% |
+| | *female:* 65.3% (2004 est.) |
+| **Turkey** | *definition:* age 15 and over can read and write |
+| | *total population:* 86.5% |
+| | *male:* 94.3% |
+| | *female:* 78.7% (2003 est.) |
+| **Turkmenistan** | *definition:* age 15 and over can read and write |
+| | *total population:* 98.8% |
+| | *male:* 99.3% |
+| | *female:* 98.3% (1995 est.) |
+| **Turks and Caicos Islands** | *definition:* age 15 and over has ever attended school |
+| | *total population:* 98% |
+| | *male:* 99% |
+| | *female:* 98% (1970 est.) |
+| **Tuvalu** | *definition:* NA |
+| | *total population:* NA% |
+| | *male:* NA% |
+| | *female:* NA% |
+| **Uganda** | *definition:* age 15 and over can read and write |
+| | *total population:* 69.9% |
+| | *male:* 79.5% |
+| | *female:* 60.4% (2003 est.) |
+| **Ukraine** | *definition:* age 15 and over can read and write |
+| | *total population:* 99.7% |
+| | *male:* 99.8% |
+| | *female:* 99.6% (2003 est.) |
+| **United Arab Emirates** | *definition:* age 15 and over can read and write |
+| | *total population:* 77.9% |
+| | *male:* 76.1% |
+| | *female:* 81.7% (2003 est.) |
+| **United Kingdom** | *definition:* age 15 and over has completed five or more years of schooling |
+| | *total population:* 99% (2000 est.) |
+| | *male:* NA% |
+| | *female:* NA% |
+| **United States** | *definition:* age 15 and over can read and write |
+| | *total population:* 97% |
+| | *male:* 97% |
+| | *female:* 97% (1999 est.) |
+| **Uruguay** | *definition:* age 15 and over can read and write |
+| | *total population:* 98% |
+| | *male:* 97.6% |
+| | *female:* 98.4% (2003 est.) |
+| **Uzbekistan** | *definition:* age 15 and over can read and write |
+| | *total population:* 99.3% |
+| | *male:* 99.6% |
+| | *female:* 99% (2003 est.) |
+| **Vanuatu** | *definition:* age 15 and over can read and write |
+| | *total population:* 74% |
+| | *male:* NA% |
+| | *female:* NA% (1999 est.) |
+| **Venezuela** | *definition:* age 15 and over can read and write |
+| | *total population:* 93.4% |
+| | *male:* 93.8% |
+| | *female:* 93.1% (2003 est.) |
+| **Vietnam** | *definition:* age 15 and over can read and write |
+| | *total population:* 90.3% |
+| | *male:* 93.9% |
+| | *female:* 86.9% (2002) |
+| **Virgin Islands** | *definition:* NA |
+| | *total population:* NA% |
+| | *male:* NA% |
+| | *female:* NA% |
+| **Wallis and Futuna** | *definition:* age 15 and over can read and write |
+| | *total population:* 50% |
+| | *male:* 50% |
+| | *female:* 50% (1969 est.) |
+| **West Bank** | *definition:* age 15 and over can read and write |
+| | *total population:* 91.9% |
+| | *male:* 96.3% |
+| | *female:* 87.4% (2003 est.) |
+| **Western Sahara** | *definition:* NA |
+| | *total population:* NA% |
+| | *male:* NA% |
+| | *female:* NA% |
+| **World** | *definition:* age 15 and over can read and write |
+| | *total population:* 82% |
+| | *male:* 87% |
+| | *female:* 77% |
+| | *note:* over two-thirds of the world's 785 million illiterate adults are found in only eight countries (India, China, Bangladesh, Pakistan, Nigeria, Ethiopia, Indonesia, and Egypt); of all the illiterate adults in the world, two-thirds are women; extremely low literacy rates are concentrated in three regions, South and West Asia, Sub-Saharan Africa, and the Arab states, where around one-third of the men and half of all women are illiterate (2005 est.) |
+| **Yemen** | *definition:* age 15 and over can read and write |
+| | *total population:* 50.2% |
+| | *male:* 70.5% |
+| | *female:* 30% (2003 est.) |
+| **Zambia** | *definition:* age 15 and over can read and write English |
+| | *total population:* 80.6% |
+| | *male:* 86.8% |
+| | *female:* 74.8% (2003 est.) |
+| **Zimbabwe** | *definition:* age 15 and over can read and write English |
+| | *total population:* 90.7% |
+| | *male:* 94.2% |
+| | *female:* 87.2% (2003 est.) |
+
+This page was last updated on 20 October, 2005
+ 

@@ -1,0 +1,246 @@
+CIA - The World Factbook 2000 -- Internet Service Providers (ISPs)
+
+| Country | Internet Service Providers (ISPs) |
+| --- | --- |
+| **Afghanistan** | NA |
+| **Albania** | 2 (1999) |
+| **Algeria** | 1 (1999) |
+| **American Samoa** | NA |
+| **Andorra** | NA |
+| **Angola** | 2 (1999) |
+| **Anguilla** | NA |
+| **Antarctica** | NA |
+| **Antigua and Barbuda** | NA |
+| **Argentina** | 47 (1999) |
+| **Armenia** | 1 (1999) |
+| **Aruba** | NA |
+| **Australia** | 709 (1999) |
+| **Austria** | 35 (1999) |
+| **Azerbaijan** | 2 (1999) |
+| **Bahamas, The** | 3 (1999) |
+| **Bahrain** | 3 (1999) |
+| **Bangladesh** | 6 (1999) |
+| **Barbados** | 3 (1999) |
+| **Belarus** | 1 (1999) |
+| **Belgium** | 51 (1999) |
+| **Belize** | NA |
+| **Benin** | NA |
+| **Bermuda** | 3 (1999) |
+| **Bhutan** | NA |
+| **Bolivia** | 5 (1999) |
+| **Bosnia and Herzegovina** | 2 (1999) |
+| **Botswana** | 2 (1999) |
+| **Brazil** | 197 (1999) |
+| **British Indian Ocean Territory** | NA |
+| **British Virgin Islands** | 1 (1999) |
+| **Brunei** | 1 (1999) |
+| **Bulgaria** | 20 (1999) |
+| **Burkina Faso** | 1 (1999) |
+| **Burma** | 0 (1999) |
+| **Burundi** | NA |
+| **Cambodia** | 2 (1999) |
+| **Cameroon** | NA |
+| **Canada** | 750 (1999 est.) |
+| **Cape Verde** | NA |
+| **Cayman Islands** | 1 (1999) |
+| **Central African Republic** | NA |
+| **Chad** | 1 (1999) |
+| **Chile** | 26 (1999) |
+| **China** | 3 (1999) |
+| **Christmas Island** | NA |
+| **Cocos (Keeling) Islands** | NA |
+| **Colombia** | 13 (1999) |
+| **Comoros** | 1 (1999) |
+| **Congo, Democratic Republic of the** | 1 (1999) |
+| **Congo, Republic of the** | NA |
+| **Cook Islands** | 1 (1999) |
+| **Costa Rica** | 2 (1999) |
+| **Cote d'Ivoire** | NA |
+| **Croatia** | 4 (1999) |
+| **Cuba** | 1 (1999) |
+| **Cyprus** | 5 (1999) |
+| **Czech Republic** | 35 (1999) |
+| **Denmark** | 12 (1999) |
+| **Djibouti** | NA |
+| **Dominica** | NA |
+| **Dominican Republic** | 1 (1999) |
+| **Ecuador** | 8 (1999) |
+| **Egypt** | 31 (1999) |
+| **El Salvador** | 2 (1999) |
+| **Equatorial Guinea** | NA |
+| **Eritrea** | 1 (1999) |
+| **Estonia** | 6 (1999) |
+| **Ethiopia** | 1 (1999) |
+| **Falkland Islands (Islas Malvinas)** | NA |
+| **Faroe Islands** | NA |
+| **Fiji** | 2 (1999) |
+| **Finland** | 36 (1999) |
+| **France** | 128 (1999) |
+| **French Guiana** | NA |
+| **French Polynesia** | NA |
+| **Gabon** | 1 (1999) |
+| **Gambia, The** | 2 (1999) |
+| **Gaza Strip** | 3 (1999) |
+| **Georgia** | 5 (1999) |
+| **Germany** | 625 (1999) |
+| **Ghana** | 2 (1999) |
+| **Gibraltar** | NA |
+| **Greece** | 23 (1999) |
+| **Greenland** | 1 (1999) |
+| **Grenada** | 1 (1999) |
+| **Guadeloupe** | NA |
+| **Guam** | 5 (1999) |
+| **Guatemala** | 7 (1999) |
+| **Guernsey** | NA |
+| **Guinea** | NA |
+| **Guinea-Bissau** | NA |
+| **Guyana** | 2 (1999) |
+| **Haiti** | 6 (1999) |
+| **Holy See (Vatican City)** | NA |
+| **Honduras** | 14 (1999) |
+| **Hong Kong** | 49 (1999) |
+| **Hungary** | 13 (1999) |
+| **Iceland** | 14 (1999) |
+| **India** | 3 (1999) |
+| **Indonesia** | 24 (1999) |
+| **Iran** | 1 (1999) |
+| **Iraq** | 1 (1999) |
+| **Ireland** | 14 (1999) |
+| **Israel** | 23 (1999) |
+| **Italy** | 219 (1999) |
+| **Jamaica** | 6 (1999) |
+| **Japan** | 357 (1999) |
+| **Jersey** | NA |
+| **Johnston Atoll** | NA |
+| **Jordan** | 8 (1999) |
+| **Kazakhstan** | 83 (Kazakhstan and Russia) (1999) |
+| **Kenya** | 7 (1999) |
+| **Kiribati** | NA |
+| **Korea, North** | NA |
+| **Korea, South** | 11 (1999) |
+| **Kuwait** | 2 (1999) |
+| **Kyrgyzstan** | NA |
+| **Laos** | NA |
+| **Latvia** | 11 (1999) |
+| **Lebanon** | 19 (1999) |
+| **Lesotho** | 1 (1999) |
+| **Liberia** | NA |
+| **Libya** | NA |
+| **Liechtenstein** | 115 (Liechtenstein and Switzerland) (1999) |
+| **Lithuania** | 10 (1999) |
+| **Luxembourg** | 13 (1999) |
+| **Macau** | NA |
+| **Macedonia, The Former Yugoslav Republic of** | 6 (1999) |
+| **Madagascar** | 3 (1999) |
+| **Malawi** | 1 (1999) |
+| **Malaysia** | 8 (1999) |
+| **Maldives** | NA |
+| **Mali** | 1 (1999) |
+| **Malta** | 4 (1999) |
+| **Man, Isle of** | NA |
+| **Marshall Islands** | NA |
+| **Martinique** | NA |
+| **Mauritania** | NA |
+| **Mauritius** | 1 (1999) |
+| **Mayotte** | NA |
+| **Mexico** | 167 (1999) |
+| **Micronesia, Federated States of** | NA |
+| **Moldova** | 2 (1999) |
+| **Monaco** | 4 (1999) |
+| **Mongolia** | NA |
+| **Montserrat** | NA |
+| **Morocco** | 27 (1999) |
+| **Mozambique** | 2 (1999) |
+| **Namibia** | 4 (1999) |
+| **Nauru** | NA |
+| **Nepal** | NA |
+| **Netherlands** | 70 (1999) |
+| **Netherlands Antilles** | 6 (1999) |
+| **New Caledonia** | 1 (1999) |
+| **New Zealand** | 56 (1999) |
+| **Nicaragua** | 5 (1999) |
+| **Niger** | 1 (1999) |
+| **Nigeria** | 5 (1999) |
+| **Niue** | NA |
+| **Norfolk Island** | NA |
+| **Northern Mariana Islands** | NA |
+| **Norway** | 21 (1999) |
+| **Oman** | 1 (1999) |
+| **Pakistan** | 26 (1999) |
+| **Palau** | NA |
+| **Panama** | 3 (1999) |
+| **Papua New Guinea** | 2 (1999) |
+| **Paraguay** | 4 (1999) |
+| **Peru** | 15 (1999) |
+| **Philippines** | 93 (1999) |
+| **Pitcairn Islands** | NA |
+| **Poland** | 161 (1999) |
+| **Portugal** | 20 (1999) |
+| **Puerto Rico** | 18 (1999) |
+| **Qatar** | NA |
+| **Reunion** | NA |
+| **Romania** | 30 (1999) |
+| **Russia** | 83 (Russia and Kazakhstan) (1999) |
+| **Rwanda** | 1 (1999) |
+| **Saint Helena** | NA |
+| **Saint Kitts and Nevis** | NA |
+| **Saint Lucia** | NA |
+| **Saint Pierre and Miquelon** | NA |
+| **Saint Vincent and the Grenadines** | NA |
+| **Samoa** | NA |
+| **San Marino** | 1 (1999) |
+| **Sao Tome and Principe** | NA |
+| **Saudi Arabia** | 6 (1999) |
+| **Senegal** | 4 (1999) |
+| **Serbia and Montenegro** | 6 (1999) |
+| **Seychelles** | 1 (1999) |
+| **Sierra Leone** | NA |
+| **Singapore** | 8 (1999) |
+| **Slovakia** | 11 (1999) |
+| **Slovenia** | 7 (1999) |
+| **Solomon Islands** | NA |
+| **Somalia** | NA |
+| **South Africa** | 58 (1999) |
+| **Spain** | 49 (1999) |
+| **Sri Lanka** | 4 (1999) |
+| **Sudan** | 1 (1999) |
+| **Suriname** | 1 (1999) |
+| **Svalbard** | NA |
+| **Swaziland** | 2 (1999) |
+| **Sweden** | 29 (1999) |
+| **Switzerland** | 115 (Switzerland and Liechtenstein) (1999) |
+| **Syria** | NA |
+| **Tajikistan** | NA |
+| **Tanzania** | 7 (1999) |
+| **Thailand** | 13 (1999) |
+| **Togo** | 1 (1999) |
+| **Tokelau** | NA |
+| **Tonga** | 1 (1999) |
+| **Trinidad and Tobago** | 5 (1999) |
+| **Tunisia** | 4 (1999) |
+| **Turkey** | 24 (1999) |
+| **Turkmenistan** | NA |
+| **Turks and Caicos Islands** | 1 (1999) |
+| **Tuvalu** | 1 (1999) |
+| **Uganda** | 3 (1999) |
+| **Ukraine** | 35 (1999) |
+| **United Arab Emirates** | 1 (1999) |
+| **United Kingdom** | 364 (1999) |
+| **United States** | 7,600 (1999 est.) |
+| **Uruguay** | 5 (1999) |
+| **Uzbekistan** | 1 (1999) |
+| **Vanuatu** | 2 (1999) |
+| **Venezuela** | 11 (1999) |
+| **Vietnam** | 5 (1999) |
+| **Virgin Islands** | 2 (1999) |
+| **Wallis and Futuna** | NA |
+| **West Bank** | 8 (1999) |
+| **Western Sahara** | NA |
+| **World** | 13,119 (1999) |
+| **Yemen** | 1 (1999) |
+| **Zambia** | 3 (1999) |
+| **Zimbabwe** | 10 (1999) |
+| **Taiwan: | 15 (1999)** | 
+
+
+

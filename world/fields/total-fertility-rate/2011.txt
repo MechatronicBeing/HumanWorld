@@ -1,0 +1,239 @@
+CIA - The World Factbook -- Field Listing :: Total fertility rate   
+
+This entry gives a figure for the average number of children that would be born per woman if all women lived to the end of their childbearing years and bore children according to a given fertility rate at each age. The total fertility rate (TFR) is a more direct measure of the level of fertility than the crude birth rate, since it refers to births per woman. This indicator shows the potential for population change in the country. A rate of two children per woman is considered the replacement rate for a population, resulting in relative stability in terms of total numbers. Rates above two children indicate populations growing in size and whose median age is declining. Higher rates may also indicate difficulties for families, in some situations, to feed and educate their children and for women to enter the labor force. Rates below two children indicate populations decreasing in size and growing older. Global fertility rates are in general decline and this trend is most pronounced in industrialized countries, especially Western Europe, where populations are projected to decline dramatically over the next 50 years.
+
+| Country | Total fertility rate(children born/woman) |
+| --- | --- |
+| **Afghanistan** | 5.39 children born/woman (2011 est.) |
+| **Albania** | 1.48 children born/woman (2011 est.) |
+| **Algeria** | 1.75 children born/woman (2011 est.) |
+| **American Samoa** | 3.16 children born/woman (2011 est.) |
+| **Andorra** | 1.35 children born/woman (2011 est.) |
+| **Angola** | 5.97 children born/woman (2011 est.) |
+| **Anguilla** | 1.75 children born/woman (2011 est.) |
+| **Antigua and Barbuda** | 2.05 children born/woman (2011 est.) |
+| **Argentina** | 2.31 children born/woman (2011 est.) |
+| **Armenia** | 1.37 children born/woman (2011 est.) |
+| **Aruba** | 1.84 children born/woman (2011 est.) |
+| **Australia** | 1.78 children born/woman (2011 est.) |
+| **Austria** | 1.4 children born/woman (2011 est.) |
+| **Azerbaijan** | 2.02 children born/woman (2011 est.) |
+| **Bahamas, The** | 1.99 children born/woman (2011 est.) |
+| **Bahrain** | 1.88 children born/woman (2011 est.) |
+| **Bangladesh** | 2.6 children born/woman (2011 est.) |
+| **Barbados** | 1.68 children born/woman (2011 est.) |
+| **Belarus** | 1.26 children born/woman (2011 est.) |
+| **Belgium** | 1.65 children born/woman (2011 est.) |
+| **Belize** | 3.21 children born/woman (2011 est.) |
+| **Benin** | 5.31 children born/woman (2011 est.) |
+| **Bermuda** | 1.97 children born/woman (2011 est.) |
+| **Bhutan** | 2.2 children born/woman (2011 est.) |
+| **Bolivia** | 3 children born/woman (2011 est.) |
+| **Bosnia and Herzegovina** | 1.27 children born/woman (2011 est.) |
+| **Botswana** | 2.5 children born/woman (2011 est.) |
+| **Brazil** | 2.18 children born/woman (2011 est.) |
+| **British Virgin Islands** | 1.71 children born/woman (2011 est.) |
+| **Brunei** | 1.86 children born/woman (2011 est.) |
+| **Bulgaria** | 1.42 children born/woman (2011 est.) |
+| **Burkina Faso** | 6.14 children born/woman (2011 est.) |
+| **Burma** | 2.26 children born/woman (2011 est.) |
+| **Burundi** | 6.16 children born/woman (2011 est.) |
+| **Cambodia** | 2.84 children born/woman (2011 est.) |
+| **Cameroon** | 4.17 children born/woman (2011 est.) |
+| **Canada** | 1.58 children born/woman (2011 est.) |
+| **Cape Verde** | 2.49 children born/woman (2011 est.) |
+| **Cayman Islands** | 1.87 children born/woman (2011 est.) |
+| **Central African Republic** | 4.63 children born/woman (2011 est.) |
+| **Chad** | 5.05 children born/woman (2011 est.) |
+| **Chile** | 1.88 children born/woman (2011 est.) |
+| **China** | 1.54 children born/woman (2011 est.) |
+| **Christmas Island** | NA |
+| **Cocos (Keeling) Islands** | NA |
+| **Colombia** | 2.15 children born/woman (2011 est.) |
+| **Comoros** | 4.72 children born/woman (2011 est.) |
+| **Congo, Democratic Republic of the** | 5.24 children born/woman (2011 est.) |
+| **Congo, Republic of the** | 5.68 children born/woman (2011 est.) |
+| **Cook Islands** | 2.39 children born/woman (2011 est.) |
+| **Costa Rica** | 1.93 children born/woman (2011 est.) |
+| **Cote d'Ivoire** | 3.92 children born/woman (2011 est.) |
+| **Croatia** | 1.43 children born/woman (2011 est.) |
+| **Cuba** | 1.44 children born/woman (2011 est.) |
+| **Curacao** | 2.1 children born/woman (2009) |
+| **Cyprus** | 1.45 children born/woman (2011 est.) |
+| **Czech Republic** | 1.26 children born/woman (2011 est.) |
+| **Denmark** | 1.74 children born/woman (2011 est.) |
+| **Djibouti** | 2.71 children born/woman (2011 est.) |
+| **Dominica** | 2.07 children born/woman (2011 est.) |
+| **Dominican Republic** | 2.44 children born/woman (2011 est.) |
+| **Ecuador** | 2.42 children born/woman (2011 est.) |
+| **Egypt** | 2.97 children born/woman (2011 est.) |
+| **El Salvador** | 2.08 children born/woman (2011 est.) |
+| **Equatorial Guinea** | 4.91 children born/woman (2011 est.) |
+| **Eritrea** | 4.48 children born/woman (2011 est.) |
+| **Estonia** | 1.44 children born/woman (2011 est.) |
+| **Ethiopia** | 6.02 children born/woman (2011 est.) |
+| **European Union** | 1.51 children born/woman (2010 est.) |
+| **Falkland Islands (Islas Malvinas)** | NA |
+| **Faroe Islands** | 2.42 children born/woman (2011 est.) |
+| **Fiji** | 2.61 children born/woman (2011 est.) |
+| **Finland** | 1.73 children born/woman (2011 est.) |
+| **France** | 1.96 children born/woman (2011 est.) |
+| **French Polynesia** | 1.87 children born/woman (2011 est.) |
+| **Gabon** | 4.59 children born/woman (2011 est.) |
+| **Gambia, The** | 4.23 children born/woman (2011 est.) |
+| **Gaza Strip** | 4.74 children born/woman (2011 est.) |
+| **Georgia** | 1.45 children born/woman (2011 est.) |
+| **Germany** | 1.41 children born/woman (2011 est.) |
+| **Ghana** | 3.48 children born/woman (2011 est.) |
+| **Gibraltar** | 1.96 children born/woman (2011 est.) |
+| **Greece** | 1.38 children born/woman (2011 est.) |
+| **Greenland** | 2.13 children born/woman (2011 est.) |
+| **Grenada** | 2.18 children born/woman (2011 est.) |
+| **Guam** | 2.48 children born/woman (2011 est.) |
+| **Guatemala** | 3.27 children born/woman (2011 est.) |
+| **Guernsey** | 1.54 children born/woman (2011 est.) |
+| **Guinea** | 5.1 children born/woman (2011 est.) |
+| **Guinea-Bissau** | 4.51 children born/woman (2011 est.) |
+| **Guyana** | 2.34 children born/woman (2011 est.) |
+| **Haiti** | 3.07 children born/woman (2011 est.) |
+| **Honduras** | 3.09 children born/woman (2011 est.) |
+| **Hong Kong** | 1.07 children born/woman (2011 est.) |
+| **Hungary** | 1.4 children born/woman (2011 est.) |
+| **Iceland** | 1.89 children born/woman (2011 est.) |
+| **India** | 2.62 children born/woman (2011 est.) |
+| **Indonesia** | 2.25 children born/woman (2011 est.) |
+| **Iran** | 1.88 children born/woman (2011 est.) |
+| **Iraq** | 3.67 children born/woman (2011 est.) |
+| **Ireland** | 2.02 children born/woman (2011 est.) |
+| **Isle of Man** | 1.96 children born/woman (2011 est.) |
+| **Israel** | 2.7 children born/woman (2011 est.) |
+| **Italy** | 1.39 children born/woman (2011 est.) |
+| **Jamaica** | 2.17 children born/woman (2011 est.) |
+| **Japan** | 1.21 children born/woman (2011 est.) |
+| **Jersey** | 1.66 children born/woman (2011 est.) |
+| **Jordan** | 3.39 children born/woman (2011 est.) |
+| **Kazakhstan** | 1.87 children born/woman (2011 est.) |
+| **Kenya** | 4.19 children born/woman (2011 est.) |
+| **Kiribati** | 2.78 children born/woman (2011 est.) |
+| **Korea, North** | 2.02 children born/woman (2011 est.) |
+| **Korea, South** | 1.23 children born/woman (2011 est.) |
+| **Kuwait** | 2.64 children born/woman (2011 est.) |
+| **Kyrgyzstan** | 2.63 children born/woman (2011 est.) |
+| **Laos** | 3.14 children born/woman (2011 est.) |
+| **Latvia** | 1.32 children born/woman (2011 est.) |
+| **Lebanon** | 1.77 children born/woman (2011 est.) |
+| **Lesotho** | 2.94 children born/woman (2011 est.) |
+| **Liberia** | 5.13 children born/woman (2011 est.) |
+| **Libya** | 2.96 children born/woman (2011 est.) |
+| **Liechtenstein** | 1.53 children born/woman (2011 est.) |
+| **Lithuania** | 1.25 children born/woman (2011 est.) |
+| **Luxembourg** | 1.77 children born/woman (2011 est.) |
+| **Macau** | 0.92 children born/woman (2011 est.) |
+| **Macedonia** | 1.58 children born/woman (2011 est.) |
+| **Madagascar** | 5.02 children born/woman (2011 est.) |
+| **Malawi** | 5.43 children born/woman (2011 est.) |
+| **Malaysia** | 2.67 children born/woman (2011 est.) |
+| **Maldives** | 1.81 children born/woman (2011 est.) |
+| **Mali** | 6.44 children born/woman (2011 est.) |
+| **Malta** | 1.52 children born/woman (2011 est.) |
+| **Marshall Islands** | 3.44 children born/woman (2011 est.) |
+| **Mauritania** | 4.3 children born/woman (2011 est.) |
+| **Mauritius** | 1.79 children born/woman (2011 est.) |
+| **Mexico** | 2.29 children born/woman (2011 est.) |
+| **Micronesia, Federated States of** | 2.74 children born/woman (2011 est.) |
+| **Moldova** | 1.29 children born/woman (2011 est.) |
+| **Monaco** | 1.5 children born/woman (2011 est.) |
+| **Mongolia** | 2.21 children born/woman (2011 est.) |
+| **Montserrat** | 1.26 children born/woman (2011 est.) |
+| **Morocco** | 2.21 children born/woman (2011 est.) |
+| **Mozambique** | 5.46 children born/woman (2011 est.) |
+| **Namibia** | 2.49 children born/woman (2011 est.) |
+| **Nauru** | 3.08 children born/woman (2011 est.) |
+| **Nepal** | 2.47 children born/woman (2011 est.) |
+| **Netherlands** | 1.66 children born/woman (2011 est.) |
+| **New Caledonia** | 2.07 children born/woman (2011 est.) |
+| **New Zealand** | 2.08 children born/woman (2011 est.) |
+| **Nicaragua** | 2.12 children born/woman (2011 est.) |
+| **Niger** | 7.6 children born/woman (2011 est.) |
+| **Nigeria** | 4.73 children born/woman (2011 est.) |
+| **Niue** | NA |
+| **Norfolk Island** | NA |
+| **Northern Mariana Islands** | 2.13 children born/woman (2011 est.) |
+| **Norway** | 1.77 children born/woman (2011 est.) |
+| **Oman** | 2.87 children born/woman (2011 est.) |
+| **Pakistan** | 3.17 children born/woman (2011 est.) |
+| **Palau** | 1.73 children born/woman (2011 est.) |
+| **Panama** | 2.45 children born/woman (2011 est.) |
+| **Papua New Guinea** | 3.46 children born/woman (2011 est.) |
+| **Paraguay** | 2.11 children born/woman (2011 est.) |
+| **Peru** | 2.32 children born/woman (2011 est.) |
+| **Philippines** | 3.19 children born/woman (2011 est.) |
+| **Pitcairn Islands** | NA |
+| **Poland** | 1.3 children born/woman (2011 est.) |
+| **Portugal** | 1.5 children born/woman (2011 est.) |
+| **Puerto Rico** | 1.62 children born/woman (2011 est.) |
+| **Qatar** | 2.43 children born/woman (2011 est.) |
+| **Romania** | 1.29 children born/woman (2011 est.) |
+| **Russia** | 1.42 children born/woman (2011 est.) |
+| **Rwanda** | 4.9 children born/woman (2011 est.) |
+| **Saint Helena, Ascension, and Tristan da Cunha** | 1.57 children born/woman (2011 est.) |
+| **Saint Kitts and Nevis** | 1.79 children born/woman (2011 est.) |
+| **Saint Lucia** | 1.81 children born/woman (2011 est.) |
+| **Saint Pierre and Miquelon** | 1.55 children born/woman (2011 est.) |
+| **Saint Vincent and the Grenadines** | 1.92 children born/woman (2011 est.) |
+| **Samoa** | 3.22 children born/woman (2011 est.) |
+| **San Marino** | 1.47 children born/woman (2011 est.) |
+| **Sao Tome and Principe** | 5.08 children born/woman (2011 est.) |
+| **Saudi Arabia** | 2.31 children born/woman (2011 est.) |
+| **Senegal** | 4.78 children born/woman (2011 est.) |
+| **Serbia** | 1.4 children born/woman (2011 est.) |
+| **Seychelles** | 1.91 children born/woman (2011 est.) |
+| **Sierra Leone** | 4.94 children born/woman (2011 est.) |
+| **Singapore** | 1.11 children born/woman (2011 est.) |
+| **Sint Maarten** | 1.7 children born/woman (2009) |
+| **Slovakia** | 1.37 children born/woman (2011 est.) |
+| **Slovenia** | 1.3 children born/woman (2011 est.) |
+| **Solomon Islands** | 3.59 children born/woman (2011 est.) |
+| **Somalia** | 6.35 children born/woman (2011 est.) |
+| **South Africa** | 2.3 children born/woman (2011 est.) |
+| **Spain** | 1.47 children born/woman (2011 est.) |
+| **Sri Lanka** | 2.2 children born/woman (2011 est.) |
+| **Sudan** | 4.84 children born/woman (2011 est.) |
+| **Suriname** | 1.95 children born/woman (2011 est.) |
+| **Svalbard** | NA |
+| **Swaziland** | 3.11 children born/woman (2011 est.) |
+| **Sweden** | 1.67 children born/woman (2011 est.) |
+| **Switzerland** | 1.46 children born/woman (2011 est.) |
+| **Syria** | 2.94 children born/woman (2011 est.) |
+| **Taiwan** | 1.15 children born/woman (2011 est.) |
+| **Tajikistan** | 2.89 children born/woman (2011 est.) |
+| **Tanzania** | 4.16 children born/woman (2011 est.) |
+| **Thailand** | 1.66 children born/woman (2011 est.) |
+| **Timor-Leste** | 3.13 children born/woman (2011 est.) |
+| **Togo** | 4.69 children born/woman (2011 est.) |
+| **Tokelau** | NA |
+| **Tonga** | 3.65 children born/woman (2011 est.) |
+| **Trinidad and Tobago** | 1.72 children born/woman (2011 est.) |
+| **Tunisia** | 2.03 children born/woman (2011 est.) |
+| **Turkey** | 2.15 children born/woman (2011 est.) |
+| **Turkmenistan** | 2.16 children born/woman (2011 est.) |
+| **Turks and Caicos Islands** | 1.7 children born/woman (2011 est.) |
+| **Tuvalu** | 3.11 children born/woman (2011 est.) |
+| **Uganda** | 6.69 children born/woman (2011 est.) |
+| **Ukraine** | 1.28 children born/woman (2011 est.) |
+| **United Arab Emirates** | 2.4 children born/woman (2011 est.) |
+| **United Kingdom** | 1.91 children born/woman (2011 est.) |
+| **United States** | 2.06 children born/woman (2011 est.) |
+| **Uruguay** | 1.89 children born/woman (2011 est.) |
+| **Uzbekistan** | 1.89 children born/woman (2011 est.) |
+| **Vanuatu** | 2.39 children born/woman (2011 est.) |
+| **Venezuela** | 2.42 children born/woman (2011 est.) |
+| **Vietnam** | 1.91 children born/woman (2011 est.) |
+| **Virgin Islands** | 1.8 children born/woman (2011 est.) |
+| **Wallis and Futuna** | 1.81 children born/woman (2011 est.) |
+| **West Bank** | 3.05 children born/woman (2011 est.) |
+| **Western Sahara** | 4.3 children born/woman (2011 est.) |
+| **World** | 2.46 children born/woman (2011 est.) |
+| **Yemen** | 4.63 children born/woman (2011 est.) |
+| **Zambia** | 5.98 children born/woman (2011 est.) |
+| **Zimbabwe** | 3.63 children born/woman (2011 est.) |

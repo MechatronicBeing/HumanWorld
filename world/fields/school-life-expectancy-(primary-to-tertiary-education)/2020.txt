@@ -1,0 +1,540 @@
+Field Listing :: School life expectancy (primary to tertiary education) :: The World Factbook
+
+School life expectancy (SLE) is the total number of years of schooling (primary to tertiary) that a child can expect to receive, assuming that the probability of his or her being enrolled in school at any particular future age is equal to the current enrollment ratio at that age. Caution must be maintained when utilizing this indicator in international comparisons. For example, a year or grade completed in one country is not necessarily the same in terms of educational content or quality as a year or grade completed in another country. SLE represents the expected number of years of schooling that will be completed, including years spent repeating one or more grades.
+
+| Country | School life expectancy (primary to tertiary education) |
+| --- | --- |
+| **Afghanistan** | *total:* 10 years |
+| | *male:* 13 years |
+| | *female:* 8 years (2018) |
+| **Albania** | *total:* 15 years |
+| | *male:* 14 years |
+| | *female:* 16 years (2019) |
+| **Algeria** | *total:* 14 years |
+| | *male:* 14 years |
+| | *female:* 15 years (2011) |
+| **Angola** | *total:* 10 years |
+| | *male:* 12 years |
+| | *female:* 7 years (2011) |
+| **Antigua and Barbuda** | *total:* 15 years |
+| | *male:* 14 years |
+| | *female:* 16 years (2012) |
+| **Argentina** | *total:* 18 years |
+| | *male:* 16 years |
+| | *female:* 19 years (2017) |
+| **Armenia** | *total:* 13 years |
+| | *male:* 13 years |
+| | *female:* 14 years (2019) |
+| **Aruba** | *total:* 14 years |
+| | *male:* 13 years |
+| | *female:* 14 years (2012) |
+| **Australia** | *total:* 21 years |
+| | *male:* 20 years |
+| | *female:* 21 years (2018) |
+| **Austria** | *total:* 16 years |
+| | *male:* 16 years |
+| | *female:* 16 years (2018) |
+| **Azerbaijan** | *total:* 14 years |
+| | *male:* 13 years |
+| | *female:* 14 years (2019) |
+| **Bahrain** | *total:* 16 years |
+| | *male:* 16 years |
+| | *female:* 17 years (2019) |
+| **Bangladesh** | *total:* 12 years |
+| | *male:* 12 years |
+| | *female:* 12 years (2018) |
+| **Barbados** | *total:* 15 years |
+| | *male:* 14 years |
+| | *female:* 17 years (2011) |
+| **Belarus** | *total:* 15 years |
+| | *male:* 15 years |
+| | *female:* 16 years (2018) |
+| **Belgium** | *total:* 20 years |
+| | *male:* 19 years |
+| | *female:* 21 years (2018) |
+| **Belize** | *total:* 13 years |
+| | *male:* 13 years |
+| | *female:* 13 years (2019) |
+| **Benin** | *total:* 13 years |
+| | *male:* 14 years |
+| | *female:* 11 years (2016) |
+| **Bermuda** | *total:* 13 years |
+| | *male:* 12 years |
+| | *female:* 14 years (2015) |
+| **Bhutan** | *total:* 13 years |
+| | *male:* 13 years |
+| | *female:* 14 years (2018) |
+| **Bosnia and Herzegovina** | *total:* 14 years |
+| | *male:* 14 years |
+| | *female:* 15 years (2014) |
+| **Botswana** | *total:* 13 years |
+| | *male:* 13 years |
+| | *female:* 13 years (2013) |
+| **Brazil** | *total:* 14 years |
+| | *male:* 14 years |
+| | *female:* 14 years (2011) |
+| **British Virgin Islands** | *total:* 12 years |
+| | *male:* 12 years NA |
+| | *female:* 12 years NA (2018) |
+| **Brunei** | *total:* 14 years |
+| | *male:* 14 years |
+| | *female:* 15 years (2019) |
+| **Bulgaria** | *total:* 14 years |
+| | *male:* 14 years |
+| | *female:* 14 years (2018) |
+| **Burkina Faso** | *total:* 9 years |
+| | *male:* 9 years |
+| | *female:* 9 years (2019) |
+| **Burma** | *total:* 11 years |
+| | *male:* 11 years |
+| | *female:* 11 years (2018) |
+| **Burundi** | *total:* 11 years |
+| | *male:* 11 years |
+| | *female:* 11 years (2018) |
+| **Cabo Verde** | *total:* 13 years |
+| | *male:* 12 years |
+| | *female:* 13 years (2018) |
+| **Cambodia** | *total:* 11 years |
+| | *male:* 11 years |
+| | *female:* 10 years (2008) |
+| **Cameroon** | *total:* 12 years |
+| | *male:* 13 years |
+| | *female:* 11 years (2016) |
+| **Canada** | *total:* 16 years |
+| | *male:* 16 years |
+| | *female:* 17 years (2018) |
+| **Central African Republic** | *total:* 7 years |
+| | *male:* 8 years |
+| | *female:* 6 years (2012) |
+| **Chad** | *total:* 7 years |
+| | *male:* 9 years |
+| | *female:* 6 years (2015) |
+| **Chile** | *total:* 17 years |
+| | *male:* 16 years |
+| | *female:* 17 years (2018) |
+| **China** | *total:* 14 years |
+| | *male:* 14 years |
+| | *female:* 14 years (2015) |
+| **Colombia** | *total:* 14 years |
+| | *male:* 14 years |
+| | *female:* 15 years (2018) |
+| **Comoros** | *total:* 11 years |
+| | *male:* 11 years |
+| | *female:* 11 years (2014) |
+| **Congo, Democratic Republic of the** | *total:* 11 years |
+| | *male:* 10 years |
+| | *female:* 9 years (2013) |
+| **Congo, Republic of the** | *total:* 11 years |
+| | *male:* 11 years |
+| | *female:* 11 years (2012) |
+| **Cook Islands** | *total:* 1,516 years |
+| | *male:* 15 years |
+| | *female:* 14 years (2012) |
+| **Costa Rica** | *total:* 16 years |
+| | *male:* 17 years |
+| | *female:* 17 years (2019) |
+| **Cote d'Ivoire** | *total:* 11 years |
+| | *male:* 10 years |
+| | *female:* 9 years (2017) |
+| **Croatia** | *total:* 15 years |
+| | *male:* 15 years |
+| | *female:* 16 years (2018) |
+| **Cuba** | *total:* 14 years |
+| | *male:* 14 years |
+| | *female:* 15 years (2018) |
+| **Curacao** | *total:* 17 years |
+| | *male:* 18 years |
+| | *female:* 18 years (2013) |
+| **Cyprus** | *total:* 15 years |
+| | *male:* 15 years |
+| | *female:* 15 years (2018) |
+| **Czechia** | *total:* 16 years |
+| | *male:* 16 years |
+| | *female:* 17 years (2018) |
+| **Denmark** | *total:* 18 years |
+| | *male:* 19 years |
+| | *female:* 19 years (2018) |
+| **Djibouti** | *total:* 7 years |
+| | *male:* 7 years |
+| | *female:* 67 years (2011) |
+| **Dominican Republic** | *total:* 14 years |
+| | *male:* 14 years |
+| | *female:* 15 years (2017) |
+| **Ecuador** | *total:* 15 years |
+| | *male:* 15 years |
+| | *female:* 16 years (2015) |
+| **Egypt** | *total:* 13 years |
+| | *male:* 13 years |
+| | *female:* 13 years (2017) |
+| **El Salvador** | *total:* 12 years |
+| | *male:* 12 years |
+| | *female:* 12 years (2018) |
+| **Eritrea** | *total:* 59 years |
+| | *male:* 8 years |
+| | *female:* 7 years (2015) |
+| **Estonia** | *total:* 15 years |
+| | *male:* 16 years |
+| | *female:* 17 years (2018) |
+| **Eswatini** | *total:* 13 years |
+| | *male:* 13 years |
+| | *female:* 12 years (2013) |
+| **Ethiopia** | *total:* 9 years |
+| | *male:* 8 years |
+| | *female:* 8 years (2012) |
+| **Finland** | *total:* 19 years |
+| | *male:* 20 years |
+| | *female:* 20 years (2018) |
+| **France** | *total:* 16 years |
+| | *male:* 16 years |
+| | *female:* 16 years (2018) |
+| **Gambia, The** | *total:* 9 years |
+| | *male:* 9 years |
+| | *female:* 9 years (2010) |
+| **Gaza Strip** | *total:* 13 years |
+| | *male:* 13 years |
+| | *female:* 14 years (2013) |
+| | *note:* data represent Gaza Strip and the West Bank |
+| **Georgia** | *total:* 15 years |
+| | *male:* 16 years |
+| | *female:* 16 years (2019) |
+| **Germany** | *total:* 17 years |
+| | *male:* 17 years |
+| | *female:* 17 years (2018) |
+| **Ghana** | *total:* 12 years |
+| | *male:* 12 years |
+| | *female:* 12 years (2019) |
+| **Greece** | *total:* 20 years |
+| | *male:* 20 years |
+| | *female:* 20 years (2018) |
+| **Grenada** | *total:* 19 years |
+| | *male:* 18 years |
+| | *female:* 19 years (2018) |
+| **Guatemala** | *total:* 11 years |
+| | *male:* 11 years |
+| | *female:* 11 years (2015) |
+| **Guinea** | *total:* 9 years |
+| | *male:* 10 years |
+| | *female:* 8 years (2014) |
+| **Guyana** | *total:* 11 years |
+| | *male:* 11 years |
+| | *female:* 12 years (2012) |
+| **Honduras** | *total:* 10 years |
+| | *male:* 10 years |
+| | *female:* 11 years (2017) |
+| **Hong Kong** | *total:* 17 years |
+| | *male:* 17 years |
+| | *female:* 18 years (2019) |
+| **Hungary** | *total:* 15 years |
+| | *male:* 15 years |
+| | *female:* 15 years (2018) |
+| **Iceland** | *total:* 19 years |
+| | *male:* 18 years |
+| | *female:* 20 years (2018) |
+| **India** | *total:* 12 years |
+| | *male:* 11 years |
+| | *female:* 12 years (2019) |
+| **Indonesia** | *total:* 14 years |
+| | *male:* 14 years |
+| | *female:* 14 years (2018) |
+| **Iran** | *total:* 15 years |
+| | *male:* 15 years |
+| | *female:* 15 years (2017) |
+| **Ireland** | *total:* 20 years |
+| | *male:* 19 years |
+| | *female:* 20 years (2018) |
+| **Israel** | *total:* 16 years |
+| | *male:* 16 years |
+| | *female:* 17 years (2018) |
+| **Italy** | *total:* 16 years |
+| | *male:* 16 years |
+| | *female:* 17 years (2018) |
+| **Jamaica** | *total:* 12 years |
+| | *male:* 11 years |
+| | *female:* 13 years (2015) |
+| **Japan** | *total:* 15 years |
+| | *male:* 15 years |
+| | *female:* 15 years (2016) |
+| **Jordan** | *total:* 11 years |
+| | *male:* 11 years |
+| | *female:* 11 years (2012) |
+| **Kazakhstan** | *total:* 16 years |
+| | *male:* 15 years |
+| | *female:* 16 years (2019) |
+| **Kenya** | *total:* 11 years |
+| | *male:* 11 years |
+| | *female:* 11 years (2009) |
+| **Kiribati** | *total:* 12 years |
+| | *male:* 11 years |
+| | *female:* 12 years (2008) |
+| **Korea, North** | *total:* 11 years |
+| | *male:* 11 years |
+| | *female:* 11 years (2015) |
+| **Korea, South** | *total:* 17 years |
+| | *male:* 17 years |
+| | *female:* 16 years (2018) |
+| **Kuwait** | *total:* 15 years |
+| | *male:* 14 years |
+| | *female:* 16 years (2015) |
+| **Kyrgyzstan** | *total:* 13 years |
+| | *male:* 13 years |
+| | *female:* 13 years (2019) |
+| **Laos** | *total:* 11 years |
+| | *male:* 11 years |
+| | *female:* 10 years (2019) |
+| **Latvia** | *total:* 16 years |
+| | *male:* 16 years |
+| | *female:* 17 years (2018) |
+| **Lebanon** | *total:* 11 years |
+| | *male:* 12 years |
+| | *female:* 11 years (2014) |
+| **Lesotho** | *total:* 12 years |
+| | *male:* 12 years |
+| | *female:* 13 years (2017) |
+| **Liechtenstein** | *total:* 15 years |
+| | *male:* 16 years |
+| | *female:* 14 years (2018) |
+| **Lithuania** | *total:* 17 years |
+| | *male:* 16 years |
+| | *female:* 17 years (2018) |
+| **Luxembourg** | *total:* 14 years |
+| | *male:* 14 years |
+| | *female:* 14 years (2018) |
+| **Macau** | *total:* 16 years |
+| | *male:* 16 years |
+| | *female:* 17 years (2019) |
+| **Madagascar** | *total:* 10 years |
+| | *male:* 10 years |
+| | *female:* 10 years (2018) |
+| **Malawi** | *total:* 11 years |
+| | *male:* 11 years |
+| | *female:* 11 years (2011) |
+| **Malaysia** | *total:* 14 years |
+| | *male:* 13 years |
+| | *female:* 14 years (2017) |
+| **Mali** | *total:* 8 years |
+| | *male:* 8 years |
+| | *female:* 7 years (2017) |
+| **Malta** | *total:* 17 years |
+| | *male:* 16 years |
+| | *female:* 17 years (2018) |
+| **Marshall Islands** | *total:* 10 years |
+| | *male:* 10 years |
+| | *female:* 10 years (2019) |
+| **Mauritania** | *total:* 9 years |
+| | *male:* 9 years |
+| | *female:* 10 years (2019) |
+| **Mauritius** | *total:* 15 years |
+| | *male:* 14 years |
+| | *female:* 16 years (2017) |
+| **Mexico** | *total:* 15 years |
+| | *male:* 15 years |
+| | *female:* 15 years (2018) |
+| **Moldova** | *total:* 11 years |
+| | *male:* 11 years |
+| | *female:* 12 years (2019) |
+| **Mongolia** | *total:* 15 years |
+| | *male:* 14 years |
+| | *female:* 16 years (2015) |
+| **Montenegro** | *total:* 15 years |
+| | *male:* 15 years |
+| | *female:* 15 years (2019) |
+| **Montserrat** | *total:* 14 years |
+| | *male:* 13 years |
+| | *female:* 15 years (2019) |
+| **Morocco** | *total:* 14 years |
+| | *male:* 14 years |
+| | *female:* 14 years (2019) |
+| **Mozambique** | *total:* 10 years |
+| | *male:* 11 years |
+| | *female:* 10 years (2017) |
+| **Nauru** | *total:* 9 years |
+| | *male:* 9 years |
+| | *female:* 10 years (2008) |
+| **Nepal** | *total:* 13 years |
+| | *male:* 13 years |
+| | *female:* 13 years (2019) |
+| **Netherlands** | *total:* 19 years |
+| | *male:* 18 years |
+| | *female:* 19 years (2018) |
+| **New Zealand** | *total:* 19 years |
+| | *male:* 18 years |
+| | *female:* 20 years (2018) |
+| **Niger** | *total:* 6 years |
+| | *male:* 7 years |
+| | *female:* 6 years (2017) |
+| **Nigeria** | *total:* 9 years |
+| | *male:* 9 years |
+| | *female:* 8 years (2011) |
+| **North Macedonia** | *total:* 14 years |
+| | *male:* 13 years |
+| | *female:* 14 years (2018) |
+| **Norway** | *total:* 18 years |
+| | *male:* 18 years |
+| | *female:* 19 years (2018) |
+| **Oman** | *total:* 14 years |
+| | *male:* 14 years |
+| | *female:* 15 years (2019) |
+| **Pakistan** | *total:* 8 years |
+| | *male:* 9 years |
+| | *female:* 8 years (2018) |
+| **Palau** | *total:* 17 years |
+| | *male:* 16 years |
+| | *female:* 17 years (2013) |
+| **Panama** | *total:* 13 years |
+| | *male:* 12 years |
+| | *female:* 14 years (2016) |
+| **Paraguay** | *total:* 12 years |
+| | *male:* 12 years |
+| | *female:* 13 years (2010) |
+| **Peru** | *total:* 15 years |
+| | *male:* 14 years |
+| | *female:* 15 years (2017) |
+| **Philippines** | *total:* 13 years |
+| | *male:* 13 years |
+| | *female:* 15 years (2017) |
+| **Poland** | *total:* 16 years |
+| | *male:* 15 years |
+| | *female:* 17 years (2018) |
+| **Portugal** | *total:* 17 years |
+| | *male:* 17 years |
+| | *female:* 17 years (2018) |
+| **Puerto Rico** | *total:* 16 years |
+| | *male:* 15 years |
+| | *female:* 18 years (2018) |
+| **Qatar** | *total:* 12 years |
+| | *male:* 12 years |
+| | *female:* 14 years (2019) |
+| **Romania** | *total:* 14 years |
+| | *male:* 14 years |
+| | *female:* 15 years (2018) |
+| **Russia** | *total:* 16 years |
+| | *male:* 16 years |
+| | *female:* 16 years (2018) |
+| **Rwanda** | *total:* 11 years |
+| | *male:* 11 years |
+| | *female:* 11 years (2019) |
+| **Saint Kitts and Nevis** | *total:* 18 years |
+| | *male:* 16 years |
+| | *female:* 1,619 years (2015) |
+| **Saint Lucia** | *total:* 13 years |
+| | *male:* 13 years |
+| | *female:* 13 years (2019) |
+| **Saint Vincent and the Grenadines** | *total:* 14 years |
+| | *male:* 14 years |
+| | *female:* 15 years (2015) |
+| **San Marino** | *total:* 16 years |
+| | *male:* 15 years |
+| | *female:* 16 years (2012) |
+| **Sao Tome and Principe** | *total:* 12 years |
+| | *male:* 12 years |
+| | *female:* 13 years (2015) |
+| **Saudi Arabia** | *total:* 17 years |
+| | *male:* 16 years |
+| | *female:* 16 years (2019) |
+| **Senegal** | *total:* 9 years |
+| | *male:* 8 years |
+| | *female:* 9 years (2019) |
+| **Serbia** | *total:* 15 years |
+| | *male:* 14 years |
+| | *female:* 15 years (2019) |
+| **Seychelles** | *total:* 14 years |
+| | *male:* 13 years |
+| | *female:* 16 years (2019) |
+| **Singapore** | *total:* 17 years |
+| | *male:* 16 years |
+| | *female:* 17 years (2018) |
+| **Sint Maarten** | *total:* 12 years |
+| | *male:* 12 years |
+| | *female:* 12 years (2014) |
+| **Slovakia** | *total:* 15 years |
+| | *male:* 14 years |
+| | *female:* 15 years (2018) |
+| **Slovenia** | *total:* 18 years |
+| | *male:* 17 years |
+| | *female:* 18 years (2018) |
+| **South Africa** | *total:* 14 years |
+| | *male:* 13 years |
+| | *female:* 14 years (2018) |
+| **Spain** | *total:* 18 years |
+| | *male:* 17 years |
+| | *female:* 18 years (2018) |
+| **Sri Lanka** | *total:* 14 years |
+| | *male:* 14 years |
+| | *female:* 15 years (2018) |
+| **Sudan** | *total:* 8 years |
+| | *male:* 8 years |
+| | *female:* 7 years (2015) |
+| **Sweden** | *total:* 20 years |
+| | *male:* 19 years |
+| | *female:* 21 years (2018) |
+| **Switzerland** | *total:* 16 years |
+| | *male:* 17 years |
+| | *female:* 16 years (2018) |
+| **Syria** | *total:* 9 years |
+| | *male:* 9 years |
+| | *female:* 9 years (2013) |
+| **Tajikistan** | *total:* 11 years |
+| | *male:* 12 years |
+| | *female:* 11 years (2013) |
+| **Tanzania** | *total:* 9 years |
+| | *male:* 9 years |
+| | *female:* 9 years (2019) |
+| **Thailand** | *total:* 15 years |
+| | *male:* 15 years |
+| | *female:* 16 years (2016) |
+| **Timor-Leste** | *total:* 13 years |
+| | *male:* 14 years |
+| | *female:* 13 years (2010) |
+| **Togo** | *total:* 13 years |
+| | *male:* 14 years NA |
+| | *female:* 12 years NA (2017) |
+| **Tunisia** | *total:* 15 years |
+| | *male:* 14 years NA |
+| | *female:* 16 years NA (2016) |
+| **Turkey** | *total:* 18 years |
+| | *male:* 19 years |
+| | *female:* 18 years (2018) |
+| **Turkmenistan** | *total:* 13 years |
+| | *male:* 13 years |
+| | *female:* 13 years (2019) |
+| **Turks and Caicos Islands** | *total:* 9 years |
+| | *male:* NA |
+| | *female:* NA (2015) |
+| **Uganda** | *total:* 10 years |
+| | *male:* 10 years |
+| | *female:* 10 years (2011) |
+| **Ukraine** | *total:* 15 years |
+| | *male:* 15 years |
+| | *female:* 15 years (2014) |
+| **United Arab Emirates** | *total:* 14 years |
+| | *male:* 14 years |
+| | *female:* 15 years (2017) |
+| **United Kingdom** | *total:* 17 years |
+| | *male:* 17 years |
+| | *female:* 18 years (2018) |
+| **United States** | *total:* 16 years |
+| | *male:* 16 years |
+| | *female:* 17 years (2018) |
+| **Uruguay** | *total:* 17 years |
+| | *male:* NA |
+| | *female:* NA (2017) |
+| **Uzbekistan** | *total:* 13 years |
+| | *male:* 13 years |
+| | *female:* 12 years (2019) |
+| **Venezuela** | *total:* 14 years |
+| | *male:* NA |
+| | *female:* NA (2009) |
+| **West Bank** | *total:* 13 years |
+| | *male:* 13 years |
+| | *female:* 14 years (2019) |
+| | *note:* data represent Gaza Strip and the West Bank |
+| **World** | *total:* 12 years |
+| | *male:* 12 years |
+| | *female:* 12 years (2019) |
+| **Yemen** | *total:* 9 years |
+| | *male:* 11 years |
+| | *female:* 8 years (2011) |
+| **Zimbabwe** | *total:* 11 years |
+| | *male:* 12 years |
+| | *female:* 11 years (2013) |
+

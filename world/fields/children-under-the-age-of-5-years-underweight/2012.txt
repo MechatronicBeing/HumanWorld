@@ -1,0 +1,126 @@
+CIA - The World Factbook -- Field Listing :: Children under the age of 5 years underweight   
+
+This entry gives the percent of children under five considered to be underweight. Underweight means weight-for-age is approximately 2 kg below for standard at age one, 3 kg below standard for ages two and three, and 4 kg below standard for ages four and five. This statistic is an indicator of the nutritional status of a community. Children who suffer from growth retardation as a result of poor diets and/or recurrent infections tend to have a greater risk of suffering illness and death.
+
+| Country | Children under the age of 5 years underweight(%) |
+| --- | --- |
+| **Afghanistan** | 32.9% (2004) |
+| **Albania** | 6.6% (2005) |
+| **Algeria** | 3.7% (2005) |
+| **Angola** | 27.5% (2001) |
+| **Argentina** | 2.3% (2005) |
+| **Armenia** | 4.2% (2005) |
+| **Azerbaijan** | 8.4% (2006) |
+| **Bangladesh** | 41.3% (2007) |
+| **Belarus** | 1.3% (2005) |
+| **Belize** | 4.9% (2006) |
+| **Benin** | 20.2% (2006) |
+| **Bhutan** | 12% (2008) |
+| **Bolivia** | 4.3% (2008) |
+| **Bosnia and Herzegovina** | 1.6% (2006) |
+| **Botswana** | 10.7% (2000) |
+| **Brazil** | 2.2% (2007) |
+| **Bulgaria** | 1.6% (2004) |
+| **Burkina Faso** | 37.4% (2006) |
+| **Burma** | 29.6% (2003) |
+| **Burundi** | 38.9% (2000) |
+| **Cambodia** | 28.8% (2008) |
+| **Cameroon** | 16.6% (2006) |
+| **Central African Republic** | 21.8% (2000) |
+| **Chad** | 33.9% (2004) |
+| **Chile** | 0.5% (2008) |
+| **China** | 8.7% (2000) |
+| **Colombia** | 5.1% (2005) |
+| **Comoros** | 25% (2000) |
+| **Congo, Democratic Republic of the** | 28.2% (2007) |
+| **Congo, Republic of the** | 11.8% (2005) |
+| **Cote d'Ivoire** | 16.7% (2006) |
+| **Cuba** | 3.9% (2000) |
+| **Czech Republic** | 2.1% (2002) |
+| **Djibouti** | 29.6% (2006) |
+| **Dominican Republic** | 3.4% (2007) |
+| **Ecuador** | 6.2% (2004) |
+| **Egypt** | 6.8% (2008) |
+| **El Salvador** | 6.1% (2003) |
+| **Equatorial Guinea** | 10.6% (2004) |
+| **Eritrea** | 34.5% (2002) |
+| **Ethiopia** | 34.6% (2005) |
+| **Gabon** | 8.8% (2001) |
+| **Gambia, The** | 15.8% (2006) |
+| **Georgia** | 2.3% (2005) |
+| **Germany** | 1.1% (2005) |
+| **Ghana** | 14.3% (2008) |
+| **Guatemala** | 17.7% (2002) |
+| **Guinea** | 20.8% (2008) |
+| **Guinea-Bissau** | 17.2% (2008) |
+| **Guyana** | 10.8% (2007) |
+| **Haiti** | 18.9% (2006) |
+| **Honduras** | 8.6% (2006) |
+| **India** | 43.5% (2006) |
+| **Indonesia** | 19.6% (2007) |
+| **Iraq** | 7.1% (2006) |
+| **Jamaica** | 2.2% (2007) |
+| **Kazakhstan** | 4.9% (2006) |
+| **Kenya** | 16.5% (2003) |
+| **Korea, North** | 20.6% (2004) |
+| **Kyrgyzstan** | 2.7% (2006) |
+| **Laos** | 31.6% (2006) |
+| **Lebanon** | 4.2% (2004) |
+| **Lesotho** | 16.6% (2005) |
+| **Liberia** | 20.4% (2007) |
+| **Libya** | 5.6% (2007) |
+| **Macedonia** | 1.8% (2005) |
+| **Madagascar** | 36.8% (2004) |
+| **Malawi** | 15.5% (2006) |
+| **Maldives** | 25.7% (2001) |
+| **Mali** | 27.9% (2006) |
+| **Mauritania** | 16.7% (2008) |
+| **Mexico** | 3.4% (2006) |
+| **Moldova** | 3.2% (2005) |
+| **Mongolia** | 5.3% (2005) |
+| **Montenegro** | 2.2% (2006) |
+| **Morocco** | 9.9% (2004) |
+| **Mozambique** | 21.2% (2003) |
+| **Namibia** | 17.5% (2007) |
+| **Nepal** | 38.8% (2006) |
+| **Nicaragua** | 4.3% (2004) |
+| **Niger** | 39.9% (2006) |
+| **Nigeria** | 26.7% (2008) |
+| **Pakistan** | 31.3% (2001) |
+| **Panama** | 3.9% (2008) |
+| **Papua New Guinea** | 18.1% (2005) |
+| **Peru** | 5.4% (2005) |
+| **Philippines** | 20.7% (2003) |
+| **Romania** | 3.5% (2002) |
+| **Rwanda** | 18% (2005) |
+| **Sao Tome and Principe** | 13.1% (2009) |
+| **Saudi Arabia** | 5.3% (2005) |
+| **Senegal** | 14.5% (2005) |
+| **Serbia** | 1.8% (2006) |
+| **Sierra Leone** | 21.3% (2008) |
+| **Singapore** | 3.3% (2000) |
+| **Solomon Islands** | 11.5% (2007) |
+| **Somalia** | 32.8% (2006) |
+| **Sri Lanka** | 21.1% (2007) |
+| **Sudan** | 31.7% (2006) |
+| **Swaziland** | 6.1% (2007) |
+| **Syria** | 10% (2006) |
+| **Tajikistan** | 14.9% (2005) |
+| **Tanzania** | 16.7% (2005) |
+| **Thailand** | 7% (2006) |
+| **Timor-Leste** | 40.6% (2002) |
+| **Togo** | 20.5% (2008) |
+| **Trinidad and Tobago** | 4.4% (2000) |
+| **Tunisia** | 3.3% (2006) |
+| **Turkey** | 3.5% (2004) |
+| **Tuvalu** | 1.6% (2007) |
+| **Uganda** | 16.4% (2006) |
+| **Ukraine** | 4.1% (2000) |
+| **United States** | 1.3% (2002) |
+| **Uruguay** | 6% (2004) |
+| **Uzbekistan** | 4.4% (2006) |
+| **Venezuela** | 3.7% (2007) |
+| **Vietnam** | 20.2% (2008) |
+| **Yemen** | 43.1% (2003) |
+| **Zambia** | 14.9% (2007) |
+| **Zimbabwe** | 14% (2006) |

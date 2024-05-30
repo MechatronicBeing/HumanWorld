@@ -1,0 +1,481 @@
+CIA - The World Factbook -- Field Listing - Budget
+
+| Country | Budget |
+| --- | --- |
+| **Afghanistan** | *revenues:* $715 million |
+| | *expenditures:* $2.6 billion |
+| | *note:* Afghanistan has also received $273 million from the Reconstruction Trust Fund and $63 million from the Law and Order Trust Fund (2007 est.) |
+| **Albania** | *revenues:* $2.782 billion |
+| | *expenditures:* $3.155 billion (2007 est.) |
+| **Algeria** | *revenues:* $57.03 billion |
+| | *expenditures:* $40.53 billion (2007 est.) |
+| **American Samoa** | *revenues:* $121 million (37% in local revenue and 63% in US grants) |
+| | *expenditures:* $127 million (FY96/97) |
+| **Andorra** | *revenues:* $333.5 million |
+| | *expenditures:* $386.6 million (2005) |
+| **Angola** | *revenues:* $20.18 billion |
+| | *expenditures:* $15.53 billion (2007 est.) |
+| **Anguilla** | *revenues:* $22.8 million |
+| | *expenditures:* $22.5 million (2000 est.) |
+| **Antigua and Barbuda** | *revenues:* $123.7 million |
+| | *expenditures:* $145.9 million (2000 est.) |
+| **Argentina** | *revenues:* $48.99 billion |
+| | *expenditures:* $61.23 billion (2007 est.) |
+| **Armenia** | *revenues:* $1.666 billion |
+| | *expenditures:* $1.735 billion; including capital expenditures of $NA (2007 est.) |
+| **Aruba** | *revenues:* $507.9 million |
+| | *expenditures:* $577.9 million (2005 est.) |
+| **Australia** | *revenues:* $321.9 billion |
+| | *expenditures:* $315.8 billion (2007 est.) |
+| **Austria** | *revenues:* $177.5 billion |
+| | *expenditures:* $179.9 billion (2007 est.) |
+| **Azerbaijan** | *revenues:* $6.755 billion |
+| | *expenditures:* $8.572 billion (2007 est.) |
+| **Bahamas, The** | *revenues:* $1.03 billion |
+| | *expenditures:* $1.03 billion (FY04/05) |
+| **Bahrain** | *revenues:* $5.418 billion |
+| | *expenditures:* $4.968 billion (2007 est.) |
+| **Bangladesh** | *revenues:* $7.01 billion |
+| | *expenditures:* $9.464 billion (2007 est.) |
+| **Barbados** | *revenues:* $847 million (including grants) |
+| | *expenditures:* $886 million (2000 est.) |
+| **Belarus** | *revenues:* $20.75 billion |
+| | *expenditures:* $20.87 billion (2007 est.) |
+| **Belgium** | *revenues:* $220.1 billion |
+| | *expenditures:* $221 billion (2007 est.) |
+| **Belize** | *revenues:* $307 million |
+| | *expenditures:* $344 million (2007 est.) |
+| **Benin** | *revenues:* $959.2 million |
+| | *expenditures:* $1.211 billion (2007 est.) |
+| **Bermuda** | *revenues:* $738 million |
+| | *expenditures:* $665 million (FY04/05) |
+| **Bhutan** | *revenues:* $272 million |
+| | *expenditures:* $350 million |
+| | *note:* the government of India finances nearly three-fifths of Bhutan's budget expenditures (2005) |
+| **Bolivia** | *revenues:* $5.723 billion |
+| | *expenditures:* $5.495 billion (2007 est.) |
+| **Bosnia and Herzegovina** | *revenues:* $7.094 billion |
+| | *expenditures:* $7.137 billion (2007 est.) |
+| **Botswana** | *revenues:* $4.741 billion |
+| | *expenditures:* $3.816 billion (2007 est.) |
+| **Brazil** | *revenues:* $244 billion |
+| | *expenditures:* $219.9 billion (FY07) |
+| **British Virgin Islands** | *revenues:* $204.7 million |
+| | *expenditures:* $180.4 million (2004) |
+| **Brunei** | *revenues:* $3.765 billion |
+| | *expenditures:* $4.815 billion (2004 est.) |
+| **Bulgaria** | *revenues:* $16.84 billion |
+| | *expenditures:* $15.35 billion (2007 est.) |
+| **Burkina Faso** | *revenues:* $1.415 billion |
+| | *expenditures:* $1.847 billion (2007 est.) |
+| **Burma** | *revenues:* NA |
+| | *expenditures:* NA (2007 est.) |
+| **Burundi** | *revenues:* $264.2 million |
+| | *expenditures:* $335.4 million; including capital expenditures of $NA (2007 est.) |
+| **Cambodia** | *revenues:* $1.015 billion |
+| | *expenditures:* $1.168 billion (2007 est.) |
+| **Cameroon** | *revenues:* $4.179 billion |
+| | *expenditures:* $3.297 billion (2007 est.) |
+| **Canada** | *revenues:* $569.3 billion |
+| | *expenditures:* $556.2 billion (2007 est.) |
+| **Cape Verde** | *revenues:* $436.1 million |
+| | *expenditures:* $449.7 million (2007 est.) |
+| **Cayman Islands** | *revenues:* $423.8 million |
+| | *expenditures:* $392.6 million (2004) |
+| **Central African Republic** | *revenues:* $250 million |
+| | *expenditures:* $273 million (2007 est.) |
+| **Chad** | *revenues:* $1.864 billion |
+| | *expenditures:* $1.749 billion (2007 est.) |
+| **Chile** | *revenues:* $44.96 billion |
+| | *expenditures:* $30.51 billion (2007 est.) |
+| **China** | *revenues:* $674.3 billion |
+| | *expenditures:* $651.6 billion (2007 est.) |
+| **Christmas Island** | *revenues:* $NA |
+| | *expenditures:* $NA |
+| **Cocos (Keeling) Islands** | *revenues:* $NA |
+| | *expenditures:* $NA |
+| **Colombia** | *revenues:* $63.69 billion |
+| | *expenditures:* $64.96 billion; including capital expenditures of $NA (2007 est.) |
+| **Comoros** | *revenues:* $27.6 million |
+| | *expenditures:* $NA (2001 est.) |
+| **Congo, Democratic Republic of the** | *revenues:* $700 million |
+| | *expenditures:* $2 billion (2006 est.) |
+| **Congo, Republic of the** | *revenues:* $3.295 billion |
+| | *expenditures:* $2.444 billion (2007 est.) |
+| **Cook Islands** | *revenues:* $70.95 million |
+| | *expenditures:* $69.05 million (FY05/06) |
+| **Costa Rica** | *revenues:* $3.976 billion |
+| | *expenditures:* $3.808 billion (2007 est.) |
+| **Cote d'Ivoire** | *revenues:* $3.884 billion |
+| | *expenditures:* $4.106 billion (2007 est.) |
+| **Croatia** | *revenues:* $22.56 billion |
+| | *expenditures:* $23.92 billion (2007 est.) |
+| **Cuba** | *revenues:* $41.84 billion |
+| | *expenditures:* $43.9 billion (2007 est.) |
+| **Cyprus** | *revenues::* $9.996 billion |
+| | *expenditures::* $9.304 billion (2007 est.) |
+| **Czech Republic** | *revenues:* $72.1 billion |
+| | *expenditures:* $74.98 billion (2007 est.) |
+| **Denmark** | *revenues:* $170.6 billion |
+| | *expenditures:* $156.8 billion (2007 est.) |
+| **Djibouti** | *revenues:* $135 million |
+| | *expenditures:* $182 million (1999 est.) |
+| **Dominica** | *revenues:* $73.9 million |
+| | *expenditures:* $84.4 million (2001) |
+| **Dominican Republic** | *revenues:* $7.423 billion |
+| | *expenditures:* $7.259 billion (2007 est.) |
+| **Ecuador** | *revenues:* $13.46 billion |
+| | *expenditures:* planned $11.96 billion (2007 est.) |
+| **Egypt** | *revenues:* $35.05 billion |
+| | *expenditures:* $44.83 billion (2007 est.) |
+| **El Salvador** | *revenues:* $3.659 billion |
+| | *expenditures:* $3.709 billion (2007 est.) |
+| **Equatorial Guinea** | *revenues:* $4.963 billion |
+| | *expenditures:* $2.494 billion (2007 est.) |
+| **Eritrea** | *revenues:* $234.6 million |
+| | *expenditures:* $471.4 million (2007 est.) |
+| **Estonia** | *revenues:* $7.854 billion |
+| | *expenditures:* $7.171 billion (2007 est.) |
+| **Ethiopia** | *revenues:* $3.231 billion |
+| | *expenditures:* $3.785 billion (2007 est.) |
+| **Falkland Islands (Islas Malvinas)** | *revenues:* $66.2 million |
+| | *expenditures:* $67.9 million (FY98/99 est.) |
+| **Faroe Islands** | *revenues:* $588 million |
+| | *expenditures:* $623 million (2005) |
+| **Fiji** | *revenues:* $1.363 billion |
+| | *expenditures:* $1.376 billion (2006) |
+| **Finland** | *revenues:* $62.02 billion |
+| | *expenditures:* $58.16 billion (2007) |
+| **France** | *revenues:* $1.287 trillion |
+| | *expenditures:* $1.356 trillion (2007 est.) |
+| **French Polynesia** | *revenues:* $865 million |
+| | *expenditures:* $644.1 million (1999) |
+| **Gabon** | *revenues:* $3.536 billion |
+| | *expenditures:* $2.347 billion (2007 est.) |
+| **Gambia, The** | *revenues:* $181.1 million |
+| | *expenditures:* $163.4 million (2007 est.) |
+| **Gaza Strip** | *revenues:* $1.149 billion |
+| | *expenditures:* $2.31 billion |
+| | *note:* includes West Bank (2006) |
+| **Georgia** | *revenues:* $3.68 billion |
+| | *expenditures:* $3.08 billion (2007 est.) |
+| **Germany** | *revenues:* $1.454 trillion |
+| | *expenditures:* $1.453 trillion (2007 est.) |
+| **Ghana** | *revenues:* $4.262 billion |
+| | *expenditures:* $5.481 billion (2007 est.) |
+| **Gibraltar** | *revenues:* $455.1 million |
+| | *expenditures:* $423.6 million (2005 est.) |
+| **Greece** | *revenues:* $115.2 billion |
+| | *expenditures:* $124.1 billion (2007 est.) |
+| **Greenland** | *revenues:* $1.36 billion |
+| | *expenditures:* $1.27 billion (2005) |
+| **Grenada** | *revenues:* $85.8 million |
+| | *expenditures:* $102.1 million (1997) |
+| **Guam** | *revenues:* $319.6 million |
+| | *expenditures:* $427.8 million (2002 est.) |
+| **Guatemala** | *revenues:* $4.38 billion |
+| | *expenditures:* $4.872 billion (2007 est.) |
+| **Guernsey** | *revenues:* $563.6 million |
+| | *expenditures:* $530.9 million (2005) |
+| **Guinea** | *revenues:* $347.1 million |
+| | *expenditures:* $742.7 million (2007 est.) |
+| **Guinea-Bissau** | *revenues:* $NA |
+| | *expenditures:* $NA |
+| **Guyana** | *revenues:* $446.2 million |
+| | *expenditures:* $531.2 million (2007 est.) |
+| **Haiti** | *revenues:* $815.9 million |
+| | *expenditures:* $802.2 million (2007 est.) |
+| **Holy See (Vatican City)** | *revenues:* $310 million |
+| | *expenditures:* $307 million (2006) |
+| **Honduras** | *revenues:* $2.344 billion |
+| | *expenditures:* $2.631 billion; including capital expenditures of $106 million (2007 est.) |
+| **Hong Kong** | *revenues:* $36.9 billion |
+| | *expenditures:* $29.4 billion (FY07-08 est.) |
+| **Hungary** | *revenues:* $64 billion |
+| | *expenditures:* $71.87 billion (2007 est.) |
+| **Iceland** | *revenues:* $9.64 billion |
+| | *expenditures:* $8.602 billion (2007 est.) |
+| **India** | *revenues:* $141.2 billion |
+| | *expenditures:* $172.6 billion (2007 est.) |
+| **Indonesia** | *revenues:* $79.56 billion |
+| | *expenditures:* $84.87 billion (2007 est.) |
+| **Iran** | *revenues:* $104 billion |
+| | *expenditures:* $101 billion (2008 est.) |
+| **Iraq** | *revenues:* $42.3 billion |
+| | *expenditures:* $48.4 billion (FY08 est.) |
+| **Ireland** | *revenues:* $93.22 billion |
+| | *expenditures:* $92.46 billion (2007 est.) |
+| **Isle of Man** | *revenues:* $965 million |
+| | *expenditures:* $943 million (FY05/06 est.) |
+| **Israel** | *revenues:* $53.6 billion |
+| | *expenditures:* $53.63 billion (2007 est.) |
+| **Italy** | *revenues:* $991.2 billion |
+| | *expenditures:* $1.031 trillion (2007 est.) |
+| **Jamaica** | *revenues:* $3.716 billion |
+| | *expenditures:* $4.261 billion (2007 est.) |
+| **Japan** | *revenues:* $1.462 trillion |
+| | *expenditures:* $1.567 trillion (2007 est.) |
+| **Jersey** | *revenues:* $829 million |
+| | *expenditures:* $851 million (2005) |
+| **Jordan** | *revenues:* $5.117 billion |
+| | *expenditures:* $6.468 billion (2007 est.) |
+| **Kazakhstan** | *revenues:* $23.58 billion |
+| | *expenditures:* $25.33 billion (2007 est.) |
+| **Kenya** | *revenues:* $5.924 billion |
+| | *expenditures:* $6.878 billion (2007 est.) |
+| **Kiribati** | *revenues:* $55.52 million |
+| | *expenditures:* $59.71 million (FY05) |
+| **Korea, North** | *revenues:* $2.88 billion $NA |
+| | *expenditures:* $2.98 billion $NA |
+| **Korea, South** | *revenues:* $262.2 billion |
+| | *expenditures:* $225.8 billion (2007 est.) |
+| **Kosovo** | *revenues:* $1.364 billion |
+| | *expenditures:* $1.008 billion (2007 est.) |
+| **Kuwait** | *revenues:* $85.28 billion |
+| | *expenditures:* $37.77 billion (2007 est.) |
+| **Kyrgyzstan** | *revenues:* $964.6 million |
+| | *expenditures:* $961.1 million (2007 est.) |
+| **Laos** | *revenues:* $473.1 million |
+| | *expenditures:* $647.2 million (2007 est.) |
+| **Latvia** | *revenues:* $10.47 billion |
+| | *expenditures:* $10.29 billion (2007 est.) |
+| **Lebanon** | *revenues:* $6.178 billion |
+| | *expenditures:* $8.35 billion (2007 est.) |
+| **Lesotho** | *revenues:* $779.9 million |
+| | *expenditures:* $696.9 million (2007 est.) |
+| **Liberia** | *revenues:* NA |
+| | *expenditures:* NA |
+| **Libya** | *revenues:* $39.88 billion |
+| | *expenditures:* $19.48 billion (2007 est.) |
+| **Liechtenstein** | *revenues:* $424.2 million |
+| | *expenditures:* $414.1 million (1998 est.) |
+| **Lithuania** | *revenues:* $13.28 billion |
+| | *expenditures:* $13.75 billion (2007 est.) |
+| **Luxembourg** | *revenues:* $19.78 billion |
+| | *expenditures:* $18.9 billion (2007 est.) |
+| **Macau** | *revenues:* $4.6 billion |
+| | *expenditures:* $3.4 billion (2006) |
+| **Macedonia** | *revenues:* $2.508 billion |
+| | *expenditures:* $2.487 billion (2007 est.) |
+| **Madagascar** | *revenues:* $1.319 billion |
+| | *expenditures:* $1.629 billion (2007 est.) |
+| **Malawi** | *revenues:* $1.128 billion |
+| | *expenditures:* $1.185 billion (2007 est.) |
+| **Malaysia** | *revenues:* $40.69 billion |
+| | *expenditures:* $46.7 billion (2007 est.) |
+| **Maldives** | *revenues:* $508 million (including foreign grants) |
+| | *expenditures:* $671 million (2006 est.) |
+| **Mali** | *revenues:* $1.5 billion |
+| | *expenditures:* $1.8 billion (2006 est.) |
+| **Malta** | *revenues:* $3.485 billion |
+| | *expenditures:* $3.554 billion (2007 est.) |
+| **Marshall Islands** | *revenues:* $42 million |
+| | *expenditures:* $40 million (1999) |
+| **Mauritania** | *revenues:* $421 million |
+| | *expenditures:* $378 million (2002 est.) |
+| **Mauritius** | *revenues:* $1.344 billion |
+| | *expenditures:* $1.773 billion; including capital expenditures of $NA (2007 est.) |
+| **Mayotte** | *revenues:* $420 million |
+| | *expenditures:* $394 million (2005) |
+| **Mexico** | *revenues:* $227.5 billion |
+| | *expenditures:* $227.2 billion (2007 est.) |
+| **Micronesia, Federated States of** | *revenues:* $127.3 million ($69 million less grants) |
+| | *expenditures:* $144.2 million (FY05 est.) |
+| **Moldova** | *revenues:* $1.83 billion |
+| | *expenditures:* $1.841 billion (2007 est.) |
+| **Monaco** | *revenues:* $863 million |
+| | *expenditures:* $920.6 million (2005 est.) |
+| **Mongolia** | *revenues:* $1.58 billion |
+| | *expenditures:* $1.497 billion (2007) |
+| **Montenegro** | *revenues:* NA |
+| | *expenditures:* NA |
+| **Montserrat** | *revenues:* $31.4 million |
+| | *expenditures:* $31.6 million (1997 est.) |
+| **Morocco** | *revenues:* $20.49 billion |
+| | *expenditures:* $21.85 billion (2007 est.) |
+| **Mozambique** | *revenues:* $2.302 billion |
+| | *expenditures:* $2.63 billion (2007 est.) |
+| **Namibia** | *revenues:* $2.765 billion |
+| | *expenditures:* $2.515 billion (2007 est.) |
+| **Nauru** | *revenues:* $13.5 million |
+| | *expenditures:* $13.5 million (2005) |
+| **Nepal** | *revenues:* $1.153 billion |
+| | *expenditures:* $1.927 billion (FY06/07) |
+| **Netherlands** | *revenues:* $359.5 billion |
+| | *expenditures:* $356.5 billion (2007 est.) |
+| **Netherlands Antilles** | *revenues:* $757.9 million |
+| | *expenditures:* $949.5 million (2004) |
+| **New Caledonia** | *revenues:* $996 million |
+| | *expenditures:* $1.072 billion (2001 est.) |
+| **New Zealand** | *revenues:* $58.31 billion |
+| | *expenditures:* $53.5 billion (2007 est.) |
+| **Nicaragua** | *revenues:* $1.115 billion |
+| | *expenditures:* $1.291 billion (2007 est.) |
+| **Niger** | *revenues:* $320 million (includes $134 million from foreign sources) |
+| | *expenditures:* $320 million (2002 est.) |
+| **Nigeria** | *revenues:* $19.43 billion |
+| | *expenditures:* $20.36 billion (2007 est.) |
+| **Niue** | *revenues:* $15.07 million |
+| | *expenditures:* $16.33 million (FY0405) |
+| **Norfolk Island** | *revenues:* $4.6 million |
+| | *expenditures:* $4.8 million (FY99/00) |
+| **Northern Mariana Islands** | *revenues:* $193 million |
+| | *expenditures:* $223 million (FY01/02 est.) |
+| **Norway** | *revenues:* $226.3 billion |
+| | *expenditures:* $158.7 billion (2007 est.) |
+| **Oman** | *revenues:* $14.02 billion |
+| | *expenditures:* $13.68 billion (2007 est.) |
+| **Pakistan** | *revenues:* $18.25 billion |
+| | *expenditures:* $24.69 billion (2007 est.) |
+| **Palau** | *revenues:* $72.07 million |
+| | *expenditures:* $72.43 million (FY04/05 est.) |
+| **Panama** | *revenues:* $5.505 billion |
+| | *expenditures:* $4.822 billion (2007 est.) |
+| **Papua New Guinea** | *revenues:* $2.363 billion |
+| | *expenditures:* $2.21 billion (2007 est.) |
+| **Paraguay** | *revenues:* $2.159 billion |
+| | *expenditures:* $2.042 billion (2007 est.) |
+| **Peru** | *revenues:* $32.54 billion |
+| | *expenditures:* $29.15 billion (2007 est.) |
+| **Philippines** | *revenues:* $24.63 billion |
+| | *expenditures:* $24.9 billion (2007 est.) |
+| **Pitcairn Islands** | *revenues:* $746,000 |
+| | *expenditures:* $1.028 million (FY04/05) |
+| **Poland** | *revenues:* $85.39 billion |
+| | *expenditures:* $91.16 billion (2007 est.) |
+| **Portugal** | *revenues:* $96.01 billion |
+| | *expenditures:* $101.9 billion (2007 est.) |
+| **Puerto Rico** | *revenues:* $6.7 billion |
+| | *expenditures:* $9.6 billion (FY99/00) |
+| **Qatar** | *revenues:* $27.12 billion |
+| | *expenditures:* $22.55 billion (2007 est.) |
+| **Romania** | *revenues:* $52.13 billion |
+| | *expenditures:* $56.01 billion (2007 est.) |
+| **Russia** | *revenues:* $299 billion |
+| | *expenditures:* $262 billion (2007 est.) |
+| **Rwanda** | *revenues:* $801.8 million |
+| | *expenditures:* $878.3 million; including capital expenditures of $NA (2007 est.) |
+| **Saint Helena** | *revenues:* $13.09 million |
+| | *expenditures:* $32.16 million |
+| | *note:* revenue data reflect locally raised revenues only; the budget deficit is resolved by grant aid from the United Kingdom (FY06/07 est.) |
+| **Saint Kitts and Nevis** | *revenues:* $89.7 million |
+| | *expenditures:* $128.2 million (2003 est.) |
+| **Saint Lucia** | *revenues:* $141.2 million |
+| | *expenditures:* $146.7 million (2000 est.) |
+| **Saint Pierre and Miquelon** | *revenues:* $70 million |
+| | *expenditures:* $60 million (1996 est.) |
+| **Saint Vincent and the Grenadines** | *revenues:* $94.6 million |
+| | *expenditures:* $85.8 million (2000 est.) |
+| **Samoa** | *revenues:* $171.3 million |
+| | *expenditures:* $78.1 million (FY04/05 est.) |
+| **San Marino** | *revenues:* $709.6 million |
+| | *expenditures:* $672.3 million (2004) |
+| **Sao Tome and Principe** | *revenues:* $63.21 million |
+| | *expenditures:* $54.94 million (2007 est.) |
+| **Saudi Arabia** | *revenues:* $163 billion |
+| | *expenditures:* $118.3 billion (2007 est.) |
+| **Senegal** | *revenues:* $2.614 billion |
+| | *expenditures:* $3.036 billion (2007 est.) |
+| **Serbia** | *revenues:* $9.6 billion |
+| | *expenditures:* $9.8 billion (2007 est.) |
+| **Seychelles** | *revenues:* $372.3 million |
+| | *expenditures:* $362.2 million (2007 est.) |
+| **Sierra Leone** | *revenues:* $96 million |
+| | *expenditures:* $351 million (2000 est.) |
+| **Singapore** | *revenues:* $27 billion |
+| | *expenditures:* $21.5 billion (2007 est.) |
+| **Slovakia** | *revenues:* $34.34 billion |
+| | *expenditures:* $35.99 billion (2007 est.) |
+| **Slovenia** | *revenues:* $19.17 billion |
+| | *expenditures:* $19.04 billion (2007 est.) |
+| **Solomon Islands** | *revenues:* $49.7 million |
+| | *expenditures:* $75.1 million (2003) |
+| **Somalia** | *revenues:* $NA |
+| | *expenditures:* $NA |
+| **South Africa** | *revenues:* $83.47 billion |
+| | *expenditures:* $82.02 billion (2007 est.) |
+| **Spain** | *revenues:* $588.5 billion |
+| | *expenditures:* $556.5 billion (2007 est.) |
+| **Sri Lanka** | *revenues:* $5.384 billion |
+| | *expenditures:* $7.608 billion (2007 est.) |
+| **Sudan** | *revenues:* $9.201 billion |
+| | *expenditures:* $10.62 billion (2007 est.) |
+| **Suriname** | *revenues:* $392.6 million |
+| | *expenditures:* $425.9 million (2004) |
+| **Svalbard** | *revenues:* $25.07 million |
+| | *expenditures:* $NA (2004 est.) |
+| **Swaziland** | *revenues:* $1.13 billion |
+| | *expenditures:* $1.143 billion (2007 est.) |
+| **Sweden** | *revenues:* $249.1 billion |
+| | *expenditures:* $233.5 billion (2007 est.) |
+| **Switzerland** | *revenues:* $150.6 billion |
+| | *expenditures:* $141.5 billion (2007 est.) |
+| **Syria** | *revenues:* $8.393 billion |
+| | *expenditures:* $11.21 billion (2007 est.) |
+| **Taiwan** | *revenues:* $76.2 billion |
+| | *expenditures:* $75.65 billion (2007 est.) |
+| **Tajikistan** | *revenues:* $712.1 million |
+| | *expenditures:* $674.5 million (2007 est.) |
+| **Tanzania** | *revenues:* $3.561 billion |
+| | *expenditures:* $3.594 billion (2007 est.) |
+| **Thailand** | *revenues:* $44.14 billion |
+| | *expenditures:* $49.83 billion (2007 est.) |
+| **Timor-Leste** | *revenues:* $733 million |
+| | *expenditures:* $309 million |
+| | *note:* the government passed a transitional budget to cover the latter half of 2007 and has moved the fiscal cycle to a calendar year, starting with the budget they passed for 2008 (FY06/07 est.) |
+| **Togo** | *revenues:* $466.8 million |
+| | *expenditures:* $514.7 million (2007 est.) |
+| **Tokelau** | *revenues:* $430,800 |
+| | *expenditures:* $2.8 million (1987 est.) |
+| **Tonga** | *revenues:* $80.48 million |
+| | *expenditures:* $109.8 million (FY07/08) |
+| **Trinidad and Tobago** | *revenues:* $6.332 billion |
+| | *expenditures:* $5.969 billion (2007 est.) |
+| **Tunisia** | *revenues:* $8.466 billion |
+| | *expenditures:* $9.475 billion (2007 est.) |
+| **Turkey** | *revenues:* $145.5 billion |
+| | *expenditures:* $156.1 billion (2007 est.) |
+| **Turkmenistan** | *revenues:* $1.664 billion |
+| | *expenditures:* $1.624 billion (2007 est.) |
+| **Turks and Caicos Islands** | *revenues:* $47 million |
+| | *expenditures:* $33.6 million (1997-98 est.) |
+| **Tuvalu** | *revenues:* $21.54 million |
+| | *expenditures:* $23.05 million (2006) |
+| **Uganda** | *revenues:* $2.211 billion |
+| | *expenditures:* $2.443 billion; including capital expenditures of $NA (2007 est.) |
+| **Ukraine** | *revenues:* $43.54 billion |
+| | *expenditures:* $45.06 billion; note - this is the planned, consolidated budget (2007 est.) |
+| **United Arab Emirates** | *revenues:* $68.27 billion |
+| | *expenditures:* $38.06 billion (2007 est.) |
+| **United Kingdom** | *revenues:* $1.154 trillion |
+| | *expenditures:* $1.239 trillion (2007 est.) |
+| **United States** | *revenues:* $2.568 trillion |
+| | *expenditures:* $2.73 trillion (2007 est.) |
+| **Uruguay** | *revenues:* $6.701 billion |
+| | *expenditures:* $6.807 billion (2007 est.) |
+| **Uzbekistan** | *revenues:* $6.478 billion |
+| | *expenditures:* $6.5 billion (2007 est.) |
+| **Vanuatu** | *revenues:* $78.7 million |
+| | *expenditures:* $72.23 million (2005) |
+| **Venezuela** | *revenues:* $65.83 billion |
+| | *expenditures:* $58.9 billion (2007 est.) |
+| **Vietnam** | *revenues:* $18.62 billion |
+| | *expenditures:* $19.71 billion (2007 est.) |
+| **Virgin Islands** | *revenues:* $NA |
+| | *expenditures:* $NA |
+| **Wallis and Futuna** | *revenues:* $29,730 |
+| | *expenditures:* $31,330 (2004) |
+| **West Bank** | *revenues:* $1.149 billion |
+| | *expenditures:* $2.31 billion |
+| | *note:* includes Gaza Strip (2006) |
+| **Western Sahara** | *revenues:* $NA |
+| | *expenditures:* $NA |
+| **Yemen** | *revenues:* $7.576 billion |
+| | *expenditures:* $8.391 billion (2007 est.) |
+| **Zambia** | *revenues:* $2.655 billion |
+| | *expenditures:* $2.8 billion (2007 est.) |
+| **Zimbabwe** | *revenues:* $2.442 billion |
+| | *expenditures:* $3.017 billion (2007 est.) |
+
+This page was last updated on 18 December 2008
+ 

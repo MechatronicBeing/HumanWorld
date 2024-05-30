@@ -1,0 +1,460 @@
+CIA - The World Factbook -- Field Listing :: Inflation rate (consumer prices)   
+
+This entry furnishes the annual percent change in consumer prices compared with the previous year's consumer prices.
+
+| Country | Inflation rate (consumer prices)(%) |
+| --- | --- |
+| **Afghanistan** | 6.8% (2012 est.) |
+| | 5.7% (2011 est.) |
+| **Albania** | 2% (2012 est.) |
+| | 3.5% (2011 est.) |
+| **Algeria** | 8.9% (2012 est.) |
+| | 4.5% (2011 est.) |
+| **American Samoa** | NA% |
+| **Andorra** | 1.1% (2012 est.) |
+| | -2.5% (2011 est.) |
+| **Angola** | 10.3% (2012 est.) |
+| | 13.5% (2011 est.) |
+| **Anguilla** | 4.4% (2012 est.) |
+| | 6.1% (2011 est.) |
+| **Antigua and Barbuda** | 3.4% (2012 est.) |
+| | 3.3% (2011 est.) |
+| **Argentina** | 25.3% (2012 est.) |
+| | 24.4% (2011 est.) |
+| | *note:* data are derived from private estimates |
+| **Armenia** | 2.6% (2012 est.) |
+| | 7.6% (2011 est.) |
+| **Aruba** | 0.6% (2012 est.) |
+| | 4.4% (2011 est.) |
+| **Australia** | 1.8% (2012 est.) |
+| | 3.3% (2011 est.) |
+| **Austria** | 1.1% (2012 est.) |
+| | -2.5% (2011 est.) |
+| **Azerbaijan** | 1.1% (2012 est.) |
+| | 7.8% (2011 est.) |
+| **Bahamas, The** | 2% (2012 est.) |
+| | 3.2% (2011 est.) |
+| **Bahrain** | 2.8% (2012 est.) |
+| | -0.4% (2011 est.) |
+| **Bangladesh** | 6.6% (2012 est.) |
+| | 10.3% (2011 est.) |
+| **Barbados** | 4.8% (2012 est.) |
+| | 9.4% (2011 est.) |
+| **Belarus** | 59.1% (2012 est.) |
+| | 53.3% (2011 est.) |
+| **Belgium** | 2.6% (2012 est.) |
+| | 3.4% (2011 est.) |
+| **Belize** | 1.3% (2012 est.) |
+| | -3.6% (2011 est.) |
+| **Benin** | 6.8% (2012 est.) |
+| | 2.7% (2011 est.) |
+| **Bermuda** | 2.4% (2012 est.) |
+| | 2.7% (2011 est.) |
+| **Bhutan** | 10.9% (2012 est.) |
+| | 8.9% (2011 est.) |
+| **Bolivia** | 4.5% (2012 est.) |
+| | 9.9% (2011 est.) |
+| **Bosnia and Herzegovina** | 2.1% (2012 est.) |
+| | 3.7% (2011 est.) |
+| **Botswana** | 7.5% (2012 est.) |
+| | 8.5% (2011 est.) |
+| **Brazil** | 5.4% (2012 est.) |
+| | 6.6% (2011 est.) |
+| **British Virgin Islands** | 2.2% (2012 est.) |
+| | 2.5% (2011 est.) |
+| **Brunei** | 0.5% (2012 est.) |
+| | 2.1% (2011 est.) |
+| **Bulgaria** | 3% (2012 est.) |
+| | 4.2% (2011 est.) |
+| **Burkina Faso** | 3.8% (2012 est.) |
+| | 2.8% (2011 est.) |
+| **Burma** | 1.5% (2012 est.) |
+| | 5% (2011 est.) |
+| **Burundi** | 18% (2012 est.) |
+| | 9.7% (2011 est.) |
+| **Cabo Verde** | 2.5% (2012 est.) |
+| | 4.5% (2011 est.) |
+| **Cambodia** | 2.9% (2012 est.) |
+| | 5.5% (2011 est.) |
+| **Cameroon** | 2.9% (2012 est.) |
+| | 2.9% (2011 est.) |
+| **Canada** | 1.5% (2012 est.) |
+| | 2.9% (2011 est.) |
+| **Cayman Islands** | 1.2% (2012 est.) |
+| | 1.3% (2011 est.) |
+| **Central African Republic** | 5.8% (2012 est.) |
+| | 1.3% (2011 est.) |
+| **Chad** | 10.2% (2012 est.) |
+| | -4.9% (2011 est.) |
+| **Chile** | 3% (2012 est.) |
+| | 3.3% (2011 est.) |
+| **China** | 2.6% (2012 est.) |
+| | 5.5% (2011 est.) |
+| **Colombia** | 3.2% (2012 est.) |
+| | 3.4% (2011 est.) |
+| **Comoros** | 6.3% (2012 est.) |
+| | 6.8% (2011 est.) |
+| **Congo, Democratic Republic of the** | 9.5% (2012 est.) |
+| | 15.5% (2011 est.) |
+| **Congo, Republic of the** | 3.9% (2012 est.) |
+| | 1.3% (2011 est.) |
+| **Cook Islands** | 2.2% (2011 est.) |
+| | 2.2% (2011 est.) |
+| **Costa Rica** | 4.5% (2012 est.) |
+| | 4.9% (2011 est.) |
+| **Cote d'Ivoire** | 1.3% (2012 est.) |
+| | 5.1% (2011 est.) |
+| **Croatia** | 3.4% (2012 est.) |
+| | 2.3% (2011 est.) |
+| **Cuba** | 5.5% (2012 est.) |
+| | 4.8% (2011 est.) |
+| **Curacao** | 2.3% (2011 est.) |
+| | 1.3% (2010 est.) |
+| **Cyprus** | 2.4% (2012 est.) |
+| | 3.3% (2011 est.) |
+| **Czech Republic** | 3.3% (2012 est.) |
+| | 1.9% (2011 est.) |
+| **Denmark** | 2.4% (2012 est.) |
+| | 2.8% (2011 est.) |
+| **Djibouti** | 7.9% (2012 est.) |
+| | 4.4% (2011 est.) |
+| **Dominica** | 1.4% (2012 est.) |
+| | 2.4% (2011 est.) |
+| **Dominican Republic** | 3.7% (2012 est.) |
+| | 8.5% (2011 est.) |
+| **Ecuador** | 5.1% (2012 est.) |
+| | 4.5% (2011 est.) |
+| **Egypt** | 7.1% (2012 est.) |
+| | 10.1% (2011 est.) |
+| **El Salvador** | 1.8% (2012 est.) |
+| | 5.1% (2011 est.) |
+| **Equatorial Guinea** | 6.1% (2012 est.) |
+| | 7% (2011 est.) |
+| **Eritrea** | 17% (2012 est.) |
+| | 20% (2011 est.) |
+| **Estonia** | 3.9% (2012 est.) |
+| | 5% (2011 est.) |
+| **Ethiopia** | 22.9% (2012 est.) |
+| | 33.1% (2011 est.) |
+| **European Union** | 2.6% (2012 est.) |
+| | 1.8% (2011 est.) |
+| **Falkland Islands (Islas Malvinas)** | 1.2% (2003) |
+| | 3.6% (1998) |
+| **Faroe Islands** | 2.3% (2011) |
+| | 0.4% (2010) |
+| **Fiji** | 4.4% (2012 est.) |
+| | 8.7% (2011 est.) |
+| **Finland** | 3.2% (2012 est.) |
+| | 3.3% (2011 est.) |
+| **France** | 2.2% (2012 est.) |
+| | 2.3% (2011 est.) |
+| **French Polynesia** | 1.1% (2007) |
+| | 1.1% (2006 est.) |
+| **Gabon** | 2.7% (2012 est.) |
+| | 1.3% (2011 est.) |
+| **Gambia, The** | 4.6% (2012 est.) |
+| | 4.8% (2011 est.) |
+| **Gaza Strip** | 2.8% (2012 est.) |
+| | 2.9% (2011 est.) |
+| | *note:* includes West Bank |
+| **Georgia** | -0.9% (2012 est.) |
+| | 8.5% (2011 est.) |
+| **Germany** | 2.1% (2012 est.) |
+| | 2.5% (2011 est.) |
+| **Ghana** | 9.2% (2012 est.) |
+| | 8.7% (2011 est.) |
+| **Gibraltar** | 2.8% (2008) |
+| | 2.6% (2006) |
+| **Greece** | 1.5% (2012 est.) |
+| | 3.3% (2011 est.) |
+| **Greenland** | 2.8% (2011 est.) |
+| | 1.7% (2010 est.) |
+| **Grenada** | 2.4% (2012 est.) |
+| | 3% (2011 est.) |
+| **Guam** | 4% (2011 est.) |
+| **Guatemala** | 3.8% (2012 est.) |
+| | 6.2% (2011 est.) |
+| **Guernsey** | 3.4% (June 2006) |
+| **Guinea** | 15.2% (2012 est.) |
+| | 21.4% (2011 est.) |
+| **Guinea-Bissau** | 2.1% (2012 est.) |
+| | 5% (2011 est.) |
+| **Guyana** | 2.4% (2012 est.) |
+| | 5% (2011 est.) |
+| **Haiti** | 6.3% (2012 est.) |
+| | 8.4% (2011 est.) |
+| **Honduras** | 5.2% (2012 est.) |
+| | 6.8% (2011 est.) |
+| **Hong Kong** | 4.1% (2012 est.) |
+| | 5.3% (2011 est.) |
+| **Hungary** | 5.7% (2012 est.) |
+| | 3.9% (2011 est.) |
+| **Iceland** | 5.2% (2012 est.) |
+| | 4% (2011 est.) |
+| **India** | 9.7% (2012 est.) |
+| | 9.6% (2011 est.) |
+| **Indonesia** | 4.3% (2012 est.) |
+| | 5.4% (2011 est.) |
+| **Iran** | 19.9% (2012 est.) |
+| | 20.6% (2011 est.) |
+| | *note:* official Iranian estimate |
+| **Iraq** | 6.1% (2012 est.) |
+| | 5.6% (2011 est.) |
+| **Ireland** | 1.7% (2012 est.) |
+| | 2.6% (2011 est.) |
+| **Isle of Man** | 5% (2010 est.) |
+| | 3.1% (2006) |
+| **Israel** | 1.7% (2012 est.) |
+| | 3.5% (2011 est.) |
+| **Italy** | 3.3% (2012 est.) |
+| | 2.9% (2011 est.) |
+| **Jamaica** | 6.9% (2012 est.) |
+| | 7.5% (2011 est.) |
+| **Japan** | 0% (2012 est.) |
+| | -0.3% (2011 est.) |
+| **Jersey** | 3.7% (2006) |
+| **Jordan** | 4.8% (2012 est.) |
+| | 4.4% (2011 est.) |
+| **Kazakhstan** | 5.1% (2012 est.) |
+| | 8.4% (2011 est.) |
+| **Kenya** | 9.4% (2012 est.) |
+| | 14% (2011 est.) |
+| **Kiribati** | 0.2% (2007 est.) |
+| **Korea, North** | NA% |
+| **Korea, South** | 2.2% (2012 est.) |
+| | 4% (2011 est.) |
+| **Kosovo** | 8.3% (2011 est.) |
+| | 3.5% (2010 est.) |
+| **Kuwait** | 2.9% (2012 est.) |
+| | 4.7% (2011 est.) |
+| **Kyrgyzstan** | 2.7% (2012 est.) |
+| | 16.5% (2011 est.) |
+| **Laos** | 4.3% (2012 est.) |
+| | 7.6% (2011 est.) |
+| **Latvia** | 2.3% (2012 est.) |
+| | 4.4% (2011 est.) |
+| **Lebanon** | 6.4% (2012 est.) |
+| | 5.1% (2011 est.) |
+| **Lesotho** | 6.1% (2012 est.) |
+| | 5% (2011 est.) |
+| **Liberia** | 6.8% (2012 est.) |
+| | 8.5% (2011 est.) |
+| **Libya** | 6.1% (2012 est.) |
+| | 15.9% (2011 est.) |
+| **Liechtenstein** | 0.2% (2011) |
+| | 0.7% (2010) |
+| **Lithuania** | 3.1% (2012 est.) |
+| | 4.1% (2011 est.) |
+| **Luxembourg** | 2.7% (2012 est.) |
+| | 3.4% (2011 est.) |
+| **Macau** | 6.1% (2012 est.) |
+| | 5.8% (2011 est.) |
+| **Macedonia** | 3.3% (2012 est.) |
+| | 3.9% (2011 est.) |
+| **Madagascar** | 6.4% (2012 est.) |
+| | 9.5% (2011 est.) |
+| **Malawi** | 21.4% (2012 est.) |
+| | 7.6% (2011 est.) |
+| **Malaysia** | 1.7% (2012 est.) |
+| | 3.2% (2011 est.) |
+| | *note:* approximately 30% of goods are price-controlled |
+| **Maldives** | 5.1% (2012 est.) |
+| | 16.7% (2011 est.) |
+| **Mali** | 5.4% (2012 est.) |
+| | 2.9% (2011 est.) |
+| **Malta** | 2.4% (2012 est.) |
+| | 2.7% (2011 est.) |
+| **Marshall Islands** | 12.9% (2008 est.) |
+| | 3% (2005 est.) |
+| **Mauritania** | 4.9% (2012 est.) |
+| | 5.6% (2011 est.) |
+| **Mauritius** | 3.9% (2012 est.) |
+| | 6.5% (2011 est.) |
+| **Mexico** | 4.1% (2012 est.) |
+| | 3.4% (2011 est.) |
+| **Micronesia, Federated States of** | 3.4% (2011 est.) |
+| | 3.5% (2010 est.) |
+| **Moldova** | 4.5% (2012 est.) |
+| | 7.6% (2011 est.) |
+| **Monaco** | 1.5% (2010) |
+| **Mongolia** | 15% (2012 est.) |
+| | 9.5% (2011 est.) |
+| **Montenegro** | 4% (2012) |
+| | 3% (2011) |
+| **Montserrat** | 4.8% (2012 est.) |
+| | 3.7% (2011 est.) |
+| **Morocco** | 1.2% (2012 est.) |
+| | 0.9% (2011 est.) |
+| **Mozambique** | 2.1% (2012 est.) |
+| | 10.4% (2011 est.) |
+| **Namibia** | 6.5% (2012 est.) |
+| | 5% (2011 est.) |
+| **Nauru** | NA% (2011 est.) |
+| **Nepal** | 9.5% (2012 est.) |
+| | 9.5% (2011 est.) |
+| **Netherlands** | 2.8% (2012 est.) |
+| | 2.5% (2011 est.) |
+| **New Caledonia** | 1.7% (2012 est.) |
+| | 2.4% (2011 est.) |
+| **New Zealand** | 1.1% (2012 est.) |
+| | 4% (2011 est.) |
+| **Nicaragua** | 7.2% (2012 est.) |
+| | 8.1% (2011 est.) |
+| **Niger** | 0.5% (2012 est.) |
+| | 2.9% (2011 est.) |
+| **Nigeria** | 12.2% (2012 est.) |
+| | 10.8% (2011 est.) |
+| **Niue** | 4% (2005) |
+| **Northern Mariana Islands** | -2.7% (2012 est.) |
+| **Norway** | 0.7% (2012 est.) |
+| | 1.3% (2011 est.) |
+| **Oman** | 2.9% (2012 est.) |
+| | 4% (2011 est.) |
+| **Pakistan** | 9.7% (2012 est.) |
+| | 11.9% (2011 est.) |
+| **Palau** | 2.7% (2011 est.) |
+| | 1.6% (2010 est.) |
+| **Panama** | 5.7% (2012 est.) |
+| | 5.9% (2011 est.) |
+| **Papua New Guinea** | 2.3% (2012 est.) |
+| | 8.4% (2011 est.) |
+| **Paraguay** | 3.7% (2012 est.) |
+| | 8.3% (2011 est.) |
+| **Peru** | 3.7% (2012 est.) |
+| | 3.4% (2011 est.) |
+| | *note:* data are for metropolitan Lima, annual average |
+| **Philippines** | 3.2% (2012 est.) |
+| | 4.7% (2011 est.) |
+| **Poland** | 3.7% (2012 est.) |
+| | 4.2% (2011 est.) |
+| **Portugal** | 2.8% (2012 est.) |
+| | 3.7% (2011 est.) |
+| **Puerto Rico** | 2.6% (2012 est.) |
+| | 1.8% (2011 est.) |
+| **Qatar** | 1.9% (2012 est.) |
+| | 1.9% (2011 est.) |
+| **Romania** | 3.3% (2012 est.) |
+| | 5.8% (2011 est.) |
+| **Russia** | 5.1% (2012 est.) |
+| | 8.4% (2011 est.) |
+| **Rwanda** | 6.3% (2012 est.) |
+| | 5.7% (2011 est.) |
+| **Saint Helena, Ascension, and Tristan da Cunha** | 4% (2012 est.) |
+| **Saint Kitts and Nevis** | 1.4% (2012 est.) |
+| | 7.1% (2011 est.) |
+| **Saint Lucia** | 4.2% (2012 est.) |
+| | 2.8% (2011 est.) |
+| **Saint Pierre and Miquelon** | 4.5% (2010) |
+| | 8.1% (2005) |
+| **Saint Vincent and the Grenadines** | 2.6% (2012 est.) |
+| | 3.2% (2011 est.) |
+| **Samoa** | 2.1% (2012 est.) |
+| | 5.2% (2011 est.) |
+| **San Marino** | 2.5% (2012) |
+| | 3.1% (December 2011) |
+| **Sao Tome and Principe** | 10.6% (2012 est.) |
+| | 14.3% (2011 est.) |
+| **Saudi Arabia** | 2.9% (2012 est.) |
+| | 3.9% (2011 est.) |
+| **Senegal** | 1.4% (2012 est.) |
+| | 3.4% (2011 est.) |
+| **Serbia** | 7.3% (2012 est.) |
+| | 11.2% (2011 est.) |
+| **Seychelles** | 7.1% (2012 est.) |
+| | 2.6% (2011 est.) |
+| **Sierra Leone** | 12.9% (2012 est.) |
+| | 16.2% (2011 est.) |
+| **Singapore** | 4.6% (2012 est.) |
+| | 5.2% (2011 est.) |
+| **Sint Maarten** | 4% (2012 est.) |
+| | 0.7% (2009 est.) |
+| **Slovakia** | 3.6% (2012 est.) |
+| | 3.9% (2011 est.) |
+| **Slovenia** | 2.6% (2012 est.) |
+| | 1.8% (2011 est.) |
+| **Solomon Islands** | 2.6% (2012 est.) |
+| | 7.4% (2011 est.) |
+| **Somalia** | NA% |
+| | *note:* businesses print their own money, so inflation rates cannot be easily determined |
+| **South Africa** | 5.7% (2012 est.) |
+| | 5% (2011 est.) |
+| **South Sudan** | 79% (May 2012 est.) |
+| **Spain** | 2.4% (2012 est.) |
+| | 3% (2011 est.) |
+| **Sri Lanka** | 7.5% (2012 est.) |
+| | 6.7% (2011 est.) |
+| **Sudan** | 37.4% (2012 est.) |
+| | 22.1% (2011 est.) |
+| **Suriname** | 5% (2012 est.) |
+| | 17.7% (2011 est.) |
+| **Swaziland** | 8.9% (2012 est.) |
+| | 6.1% (2011 est.) |
+| **Sweden** | 0.9% (2012 est.) |
+| | 3% (2011 est.) |
+| **Switzerland** | -0.7% (2012 est.) |
+| | 0.2% (2011 est.) |
+| **Syria** | 36.9% (2012 est.) |
+| | 4.8% (2011 est.) |
+| **Taiwan** | 1.9% (2012 est.) |
+| | 1.4% (2011 est.) |
+| **Tajikistan** | 5.8% (2012 est.) |
+| | 12.4% (2011 est.) |
+| **Tanzania** | 16% (2012 est.) |
+| | 12.7% (2011 est.) |
+| **Thailand** | 3% (2012 est.) |
+| | 3.8% (2011 est.) |
+| **Timor-Leste** | 11.8% (2012 est.) |
+| | 13.5% (2011 est.) |
+| **Togo** | 2.6% (2012 est.) |
+| | 3.6% (2011 est.) |
+| **Tokelau** | NA% |
+| **Tonga** | 1.2% (2012 est.) |
+| | 6.3% (2011 est.) |
+| **Trinidad and Tobago** | 9.2% (2012 est.) |
+| | 5.1% (2011 est.) |
+| **Tunisia** | 5.6% (2012 est.) |
+| | 3.5% (2011 est.) |
+| **Turkey** | 8.9% (2012 est.) |
+| | 6.5% (2011 est.) |
+| **Turkmenistan** | 8.5% (2012 est.) |
+| | 12% (2011 est.) |
+| **Turks and Caicos Islands** | 2.5% (2012 est.) |
+| | 2.2% (2011 est.) |
+| **Tuvalu** | 3.8% (2006 est.) |
+| **Uganda** | 14% (2012 est.) |
+| | 18.7% (2011 est.) |
+| **Ukraine** | 0.6% (2012 est.) |
+| | 8% (2011 est.) |
+| **United Arab Emirates** | 0.7% (2012 est.) |
+| | 0.9% (2011 est.) |
+| **United Kingdom** | 2.8% (2012 est.) |
+| | 4.5% (2011 est.) |
+| **United States** | 2.1% (2012 est.) |
+| | 3.1% (2011 est.) |
+| **Uruguay** | 8.1% (2012 est.) |
+| | 8.1% (2011 est.) |
+| **Uzbekistan** | 11.4% (2012 est.) |
+| | 12.8% (2011 est.) |
+| | *note:* official data; based on independent analysis of consumer prices, inflation reached 22% in 2012 |
+| **Vanuatu** | 1.4% (2012 est.) |
+| | 0.9% (2011 est.) |
+| **Venezuela** | 21.1% (2012 est.) |
+| | 26.1% (2011 est.) |
+| **Vietnam** | 9.1% (2012 est.) |
+| | 18.7% (2011 est.) |
+| **Virgin Islands** | 2.2% (2003) |
+| **Wallis and Futuna** | 2.8% (2005) |
+| **West Bank** | 2.8% (2012 est.) |
+| | 2.9% (2011 est.) |
+| | *note:* includes Gaza Strip |
+| **Western Sahara** | NA% |
+| **World** | world average 4.1% (2012 est.) |
+| | developed countries 2.3% (2012 est.) |
+| | developing countries 5.1% (2012 est.) |
+| | *note:* the above estimates are weighted averages; inflation in developed countries is 0% to 4% typically, in developing countries, 5% to 10% typically; national inflation rates vary widely in individual cases; inflation rates have declined for most countries for the last several years, held in check by increasing international competition from several low wage countries, and by soft demand as a result of the world financial crisis (2011 est.) |
+| **Yemen** | 9.9% (2012 est.) |
+| | 19.5% (2011 est.) |
+| **Zambia** | 6.6% (2012 est.) |
+| | 8.7% (2011 est.) |
+| **Zimbabwe** | 8.2% (2012 est.) |
+| | 5.4% (2011 est.) |

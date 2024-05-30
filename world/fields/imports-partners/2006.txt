@@ -1,0 +1,239 @@
+CIA - The World Factbook -- Field Listing - Imports - partners
+
+| Country | Imports - partners (%) |
+| --- | --- |
+| **Afghanistan** | Pakistan 23.9%, US 11.8%, Germany 6.8%, India 6.5%, Turkey 5.1%, Turkmenistan 5%, Russia 4.7%, Kenya 4.4% (2005) |
+| **Albania** | Italy 29.3%, Greece 16.4%, Turkey 7.5%, China 6.6%, Germany 5.4%, Russia 4% (2005) |
+| **Algeria** | France 28.2%, Italy 7.8%, Spain 7.1%, China 6.6%, Germany 6.3%, US 5.5% (2005) |
+| **American Samoa** | Australia 66%, Samoa 13.8%, NZ 10.8% (2005) |
+| **Andorra** | Spain 51.5%, France 22.3%, US 0.3% (2004) |
+| **Angola** | South Korea 20.8%, Portugal 13.6%, US 12.7%, South Africa 7.5%, Brazil 5.6%, France 5.3%, China 5.1% (2005) |
+| **Anguilla** | US, Puerto Rico, UK (2004) |
+| **Antigua and Barbuda** | US 21.1%, China 16.4%, Germany 13.3%, Singapore 12.7%, Spain 6.5% (2005) |
+| **Argentina** | Brazil 34.6%, US 16.8%, China 5.4%, Germany 5.3% (2005) |
+| **Armenia** | Russia 13.5%, Belgium 8%, Germany 7.9%, Ukraine 7%, Turkmenistan 6.3%, US 6.2%, Israel 5.8%, Iran 5%, Romania 4.2% (2005) |
+| **Aruba** | US 55.9%, Netherlands 12.9%, UK 3.8% (2005) |
+| **Australia** | US 13.9%, China 13.7%, Japan 11%, Singapore 5.6%, Germany 5.6% (2005) |
+| **Austria** | Germany 45.9%, Italy 6.6%, Switzerland 4.5% (2005) |
+| **Azerbaijan** | Russia 17%, UK 9.1%, Singapore 9.1%, Turkey 7.4%, Germany 6.1%, Turkmenistan 5.8%, Ukraine 5.4%, China 4.1% (2005) |
+| **Bahamas, The** | US 22.5%, South Korea 20.2%, Spain 7.8%, Brazil 7.1%, Italy 6.5%, Germany 5.4% (2005) |
+| **Bahrain** | Saudi Arabia 36.4%, Japan 6.6%, Germany 6.4%, US 5.4%, UK 5%, UAE 4.1% (2005) |
+| **Bangladesh** | India 14.1%, China 13.5%, Kuwait 8.5%, Singapore 6.2%, Japan 4.1%, Hong Kong 4.1% (2005) |
+| **Barbados** | NZ 45.9%, US 20.3%, Trinidad and Tobago 12% (2005) |
+| **Belarus** | Russia 57.9%, Germany 9.7%, Ukraine 6.4%, Poland 5.2% (2005) |
+| **Belgium** | Netherlands 17.8%, Germany 17.2%, France 11.4%, UK 6.8%, Ireland 6.5%, US 5.4% (2005) |
+| **Belize** | US 31%, Mexico 11.6%, Russia 8.8%, Cuba 6%, Guatemala 5.6%, China 4.6%, Spain 4.4% (2005) |
+| **Benin** | France 21.8%, Ghana 7.1%, Cote d'Ivoire 7%, China 6.7%, UK 5.2%, Belgium 4.9%, Togo 4.5%, Thailand 4.2%, Nigeria 4% (2005) |
+| **Bermuda** | Kazakhstan 51%, France 19%, South Korea 10.2%, US 7.6% (2005) |
+| **Bhutan** | Hong Kong 68.4%, Mexico 20.8%, France 3.9% (2005) |
+| **Bolivia** | Brazil 21.9%, Argentina 16.7%, US 13.8%, Chile 6.9%, Peru 6.5%, Japan 6.1%, China 5.8% (2005) |
+| **Bosnia and Herzegovina** | Croatia 24.7%, Germany 13.7%, Slovenia 13.1%, Italy 11%, Austria 6.9%, Hungary 5.5% (2005) |
+| **Botswana** | Southern African Customs Union (SACU) 74%, EFTA 17%, Zimbabwe 4% (2004) |
+| **Brazil** | US 19.7%, Germany 8.7%, Argentina 8.2%, China 6.2%, Nigeria 6.1% (2005) |
+| **British Virgin Islands** | Virgin Islands (US), Puerto Rico, US (2004) |
+| **Brunei** | Singapore 32.7%, Malaysia 23.3%, Japan 6.9%, UK 5.3%, Thailand 4.5%, South Korea 4.1% (2005) |
+| **Bulgaria** | Russia 15.6%, Germany 13.6%, Italy 9%, Turkey 6.1%, Greece 5%, France 4.7% (2005) |
+| **Burkina Faso** | France 24.2%, Cote d'Ivoire 23.7%, Togo 6.8% (2005) |
+| **Burma** | China 28.8%, Thailand 21.8%, Singapore 18.3%, Malaysia 7.6% (2005) |
+| **Burundi** | Kenya 12.9%, Tanzania 10.6%, Belgium 10.4%, Italy 8.1%, France 5.4%, Uganda 5.3%, China 5%, India 4.1% (2005) |
+| **Cambodia** | Hong Kong 16.1%, China 13.6%, France 12.1%, Thailand 11.2%, Taiwan 10.2%, South Korea 7.5%, Vietnam 7.1%, Singapore 4.9%, Japan 4.1% (2005) |
+| **Cameroon** | France 25%, Nigeria 12.5%, Belgium 6.6%, China 5.8%, US 5.3%, Thailand 4.7%, Germany 4.4% (2005) |
+| **Canada** | US 56.7%, China 7.8%, Mexico 3.8% (2005) |
+| **Cape Verde** | Portugal 41.5%, Italy 8%, Netherlands 7.3%, Spain 5.5%, France 4.8%, Belgium 4.7%, Brazil 4.3% (2005) |
+| **Cayman Islands** | US, Netherlands Antilles, Japan (2004) |
+| **Central African Republic** | France 16.7%, Netherlands 10.4%, Cameroon 9.8%, US 7.4% (2005) |
+| **Chad** | France 21.1%, Cameroon 15.5%, US 12.1%, Belgium 6.8%, Portugal 4.6%, Saudi Arabia 4.3%, Netherlands 4.1% (2005) |
+| **Chile** | Argentina 14.8%, US 14.6%, Brazil 11.7%, China 7.8%, South Korea 4.8%, Yemen 4.4% (2005) |
+| **China** | Japan 15.2%, South Korea 11.6%, Taiwan 11.2%, US 7.4%, Germany 4.6% (2005) |
+| **Christmas Island** | principally Australia (2004) |
+| **Cocos (Keeling) Islands** | Australia (2004) |
+| **Colombia** | US 28.5%, Mexico 8.3%, China 7.6%, Brazil 6.5%, Venezuela 5.7% (2005) |
+| **Comoros** | France 20.5%, South Africa 11.7%, UAE 9.1%, Kenya 8%, Pakistan 5%, Mauritius 4.4%, Belgium 4.3%, India 4.1% (2005) |
+| **Congo, Democratic Republic of the** | South Africa 16.5%, Belgium 16.1%, France 9.1%, Zambia 6.9%, Kenya 5.7%, Germany 4.6%, US 4.5%, Cote d'Ivoire 4.3%, Netherlands 4.1% (2005) |
+| **Congo, Republic of the** | France 25.6%, China 11.3%, US 8.1%, India 8%, Italy 7.5%, Belgium 5.1%, Netherlands 4.2% (2005) |
+| **Cook Islands** | New Zealand 61%, Fiji 19%, US 9%, Australia 6%, Japan 2% (2004) |
+| **Costa Rica** | US 41.3%, Japan 5.6%, Venezuela 4.8%, Mexico 4.8%, Ireland 4.3%, Brazil 4.2%, China 4.2% (2005) |
+| **Cote d'Ivoire** | France 27.7%, Nigeria 24.5%, Singapore 6.6% (2005) |
+| **Croatia** | Italy 15.9%, Germany 14.9%, Russia 9.1%, Slovenia 6.8%, Austria 5.8%, China 4.7%, France 4.2% (2005) |
+| **Cuba** | China 14.9%, Spain 13.9%, Canada 8.6%, US 8.5%, Germany 7.4%, Italy 5.7%, Mexico 5.2%, Japan 4.1% (2005) |
+| **Cyprus** | Greece 17.3%, Italy 10.3%, UK 9%, Germany 8.4%, Israel 7.1% (2005) |
+| **Czech Republic** | Germany 30%, Russia 5.7%, Slovakia 5.4%, China 5.1%, Poland 5%, Italy 4.8%, France 4.5%, Netherlands 4% (2005) |
+| **Denmark** | Germany 20.5%, Sweden 13.8%, Norway 6.6%, Netherlands 6.6%, UK 6%, China 4.7%, France 4.2%, Italy 4.1% (2005) |
+| **Djibouti** | Saudi Arabia 21.7%, India 18.5%, China 10%, Ethiopia 4.8%, France 4.5%, US 4.3%, Japan 4.2% (2005) |
+| **Dominica** | US 25.3%, China 20.3%, Trinidad and Tobago 12.3%, South Korea 7.1%, Japan 4.6%, UK 4.4% (2005) |
+| **Dominican Republic** | US 50.2%, Colombia 6.2%, Mexico 5.8% (2005) |
+| **Ecuador** | US 22.3%, Colombia 14.9%, Venezuela 7.8%, Brazil 6%, China 5.3% (2005) |
+| **Egypt** | US 10.6%, Germany 7%, China 6.5%, France 6.3%, Italy 5.7%, Saudi Arabia 4.8% (2005) |
+| **El Salvador** | US 43.4%, Guatemala 8.2%, Mexico 7.8% (2005) |
+| **Equatorial Guinea** | US 24.6%, Italy 20.7%, France 12.1%, Spain 10.8%, Cote d'Ivoire 8.7%, UK 7% (2005) |
+| **Eritrea** | Germany 22.2%, Italy 20.3%, France 15.9%, US 12.8%, Ireland 8.2% (2005) |
+| **Estonia** | Finland 19.8%, Germany 13.8%, Russia 9.4%, Sweden 8.8%, Lithuania 6.1%, Latvia 4.7% (2005) |
+| **Ethiopia** | Saudi Arabia 14.7%, China 12.6%, US 12.4%, **COUNTRY** 9.6%, India 6.7%, Italy 4.6% (2005) |
+| **European Union** | US 15.3%, China 12.4%, Russia 7.8%, Japan 7.2% (2004) |
+| **Falkland Islands (Islas Malvinas)** | UK 72.5%, US 15.1%, Netherlands 8.5% (2005) |
+| **Faroe Islands** | Denmark 46.2%, Norway 18.2%, Germany 8.2%, Spain 7.5%, Iceland 4.8% (2005) |
+| **Fiji** | Singapore 27.4%, Australia 23.6%, NZ 18.9%, Thailand 4.5% (2005) |
+| **Finland** | Germany 16.2%, Sweden 14.1%, Russia 13.9%, Netherlands 6.2%, Denmark 4.6%, UK 4.3%, China 4.2% (2005) |
+| **France** | Germany 18.9%, Belgium 10.7%, Italy 8.2%, Spain 7%, Netherlands 6.5%, UK 5.9%, US 5.1% (2005) |
+| **French Guiana** | France 63%, US, Trinidad and Tobago, Italy (2004) |
+| **French Polynesia** | France 52.7%, Singapore 14.9%, NZ 6.8%, US 6.6% (2005) |
+| **Gabon** | France 40.6%, US 6.4%, Cameroon 4.2% (2005) |
+| **Gambia, The** | China 21.3%, Senegal 11.3%, Cote d'Ivoire 8.4%, Brazil 6%, US 5.2%, UK 5.1%, Netherlands 4.1% (2005) |
+| **Gaza Strip** | Israel, Egypt, West Bank (2004) |
+| **Georgia** | Russia 15.4%, Turkey 11.4%, Azerbaijan 9.4%, Ukraine 8.8%, Germany 8.3%, US 6% (2005) |
+| **Germany** | France 8.7%, Netherlands 8.5%, US 6.6%, China 6.4%, UK 6.3%, Italy 5.7%, Belgium 5%, Austria 4% (2005) |
+| **Ghana** | Nigeria 15.4%, China 12.7%, US 6.4%, UK 5.3%, Netherlands 4.1%, South Africa 4.1% (2005) |
+| **Gibraltar** | Spain 23.4%, Russia 12.3%, Italy 12%, UK 9%, France 8.9%, Netherlands 6.8%, US 4.7% (2005) |
+| **Greece** | Germany 12.7%, Italy 12.4%, Russia 7.8%, France 5.7%, Netherlands 5.5%, Saudi Arabia 4.1% (2005) |
+| **Greenland** | Denmark 66.8%, Sweden 19.3%, Ireland 3.6% (2005) |
+| **Grenada** | Trinidad and Tobago 27.8%, US 27%, UK 6% (2005) |
+| **Guadeloupe** | France 63%, Germany 4%, US 3%, Japan 2%, Netherlands Antilles 2% (2004) |
+| **Guam** | Singapore 50%, South Korea 21.4%, Japan 14%, Hong Kong 4.6% (2005) |
+| **Guatemala** | US 38.1%, Mexico 7.6%, El Salvador 4.8%, South Korea 4.8%, Panama 4.4% (2005) |
+| **Guernsey** | UK; note - regarded as internal trade (2004) |
+| **Guinea** | China 8.5%, US 7.3%, France 7.2%, Cote d'Ivoire 5.2%, Italy 4.7%, Belgium 4.1% (2005) |
+| **Guinea-Bissau** | Italy 25.3%, Senegal 18.6%, Portugal 15.8%, Cote d'Ivoire 4.3% (2005) |
+| **Guyana** | US 26.7%, Trinidad and Tobago 23.9%, Cuba 6.6%, UK 5%, China 4.1% (2005) |
+| **Haiti** | US 49.3%, Netherlands Antilles 12%, Colombia 3.2% (2005) |
+| **Honduras** | US 53.1%, Guatemala 6.5%, El Salvador 4.1% (2005) |
+| **Hong Kong** | China 45%, Japan 11%, Taiwan 7.2%, Singapore 5.8%, US 5.1%, South Korea 4.4% (2005) |
+| **Hungary** | Germany 27.2%, Russia 7.5%, China 7.2%, Austria 6.7%, Italy 4.9%, France 4.8%, Netherlands 4.3% (2005) |
+| **Iceland** | Germany 13.4%, US 9.1%, Sweden 8.6%, Denmark 7.3%, Norway 7.2%, UK 5.9%, China 5.3%, Netherlands 5%, Japan 4.7% (2005) |
+| **India** | China 7.3%, US 5.6%, Switzerland 4.7% (2005) |
+| **Indonesia** | Singapore 16.4%, Japan 12%, China 10.1%, US 6.7%, Thailand 6%, South Korea 5%, Saudi Arabia 4.7%, Australia 4.4% (2005) |
+| **Iran** | Germany 13.8%, UAE 8.3%, China 8.3%, Italy 7%, France 6.2%, South Korea 5.4%, Russia 4.8% (2005) |
+| **Iraq** | Turkey 23.2%, Syria 23%, US 11.6%, Jordan 5.1% (2005) |
+| **Ireland** | UK 37%, US 13.8%, Germany 9.2%, Netherlands 4.5% (2005) |
+| **Isle of Man** | UK (2004) |
+| **Israel** | US 13.4%, Belgium 10.1%, Germany 6.4%, UK 5.7%, Switzerland 5.5%, China 4.2% (2005) |
+| **Italy** | Germany 17.2%, France 9.9%, Netherlands 5.7%, China 4.6%, Belgium 4.5%, Spain 4.2% (2005) |
+| **Jamaica** | US 41.4%, Trinidad and Tobago 14%, Venezuela 5.5%, Japan 4.6% (2005) |
+| **Japan** | China 21%, US 12.7%, Saudi Arabia 5.5%, UAE 4.9%, Australia 4.7%, South Korea 4.7%, Indonesia 4% (2005) |
+| **Jersey** | UK (2004) |
+| **Jordan** | Saudi Arabia 20.9%, China 8%, Germany 7.1%, US 6.2%, South Korea 4.1% (2005) |
+| **Kazakhstan** | Russia 35.9%, China 21.4%, Germany 7.1% (2005) |
+| **Kenya** | UAE 13.6%, Saudi Arabia 9.9%, US 9.8%, India 8.3%, South Africa 7.9%, China 7.1%, UK 5.4% (2005) |
+| **Kiribati** | Australia 33%, Fiji 27.1%, Japan 18.1%, NZ 6.9% (2005) |
+| **Korea, North** | China 32.9%, Thailand 10.7%, Japan 4.8% (2004) |
+| **Korea, South** | Japan 18.5%, China 14.8%, US 11.8%, Saudi Arabia 6.2% (2005) |
+| **Kuwait** | US 14%, Germany 10.7%, Japan 8.4%, Saudi Arabia 6.2%, UK 5.6%, France 4.8%, China 4.5% (2005) |
+| **Kyrgyzstan** | China 43.2%, Russia 19.8%, Kazakhstan 11.9%, Turkey 4.5% (2005) |
+| **Laos** | Thailand 66.1%, China 9%, Vietnam 6.7% (2005) |
+| **Latvia** | Germany 13.9%, Lithuania 13.6%, Russia 8.6%, Estonia 7.9%, Poland 6.4%, Finland 5.9%, Belarus 5.8%, Sweden 5.1% (2005) |
+| **Lebanon** | Italy 11.1%, Syria 10.7%, France 9.2%, Germany 6.5%, China 5.4%, US 5.3%, UK 4.4%, Saudi Arabia 4.3% (2005) |
+| **Lesotho** | US 84%, Belgium 12.8%, Canada 2.4% (2005) |
+| **Liberia** | South Korea 37.9%, Japan 21.1%, Singapore 14.2%, Croatia 4.7% (2005) |
+| **Libya** | Italy 21.5%, Germany 10.4%, Tunisia 5.6%, Turkey 4.9%, UK 4.9%, France 4.8%, South Korea 4.7%, China 4.6% (2005) |
+| **Liechtenstein** | EU, Switzerland (2004) |
+| **Lithuania** | Russia 27.9%, Germany 15.2%, Poland 8.3% (2005) |
+| **Luxembourg** | Belgium 28.2%, Germany 21.8%, China 12.8%, France 9.6%, Netherlands 5.1% (2005) |
+| **Macau** | China 43.1%, Japan 10.9%, Hong Kong 10%, Singapore 5.2%, US 4.1%, Taiwan 4% (2005) |
+| **Macedonia** | Russia 13.2%, Germany 10.4%, Greece 9.2%, Bulgaria 7.3%, Italy 6% (2005) |
+| **Madagascar** | France 16.6%, China 10.6%, Iran 7.9%, Mauritius 6.5%, South Africa 5.9%, Hong Kong 5% (2005) |
+| **Malawi** | South Africa 37.9%, Zambia 8.7%, Mozambique 7.8%, Zimbabwe 7.3%, India 6.4%, Tanzania 4.6% (2005) |
+| **Malaysia** | Japan 14.6%, US 13%, Singapore 11.8%, China 11.6%, Taiwan 5.6%, Thailand 5.3%, South Korea 5%, Germany 4.5% (2005) |
+| **Maldives** | Singapore 24.1%, UAE 15.7%, India 11.3%, Malaysia 7.2%, Sri Lanka 5.7%, UK 4.5% (2005) |
+| **Mali** | France 13.1%, Senegal 13.1%, Cote d'Ivoire 8.5% (2005) |
+| **Malta** | Italy 32.3%, UK 11.5%, France 9.6%, Germany 8%, US 5.5%, Singapore 4.1% (2005) |
+| **Marshall Islands** | US, Japan, Australia, NZ, Singapore, Fiji, China, Philippines (2004) |
+| **Martinique** | France 62%, Venezuela 6%, Germany 4%, Italy 4%, US 3% (2004) |
+| **Mauritania** | France 18.5%, UK 7.2%, US 7%, China 6%, Spain 5%, Belgium 4.3% (2005) |
+| **Mauritius** | France 12.1%, South Africa 11%, India 7.2%, Finland 6.1%, China 6%, Germany 5.3%, Bahrain 5.2%, Singapore 4.1% (2005) |
+| **Mayotte** | France 66%, Africa 14%, Southeast Asia 11% (2004) |
+| **Mexico** | US 53.4%, China 8%, Japan 5.9% (2005) |
+| **Micronesia, Federated States of** | US, Japan, Hong Kong (2004) |
+| **Moldova** | Ukraine 20.9%, Russia 11.7%, Romania 11.2%, Germany 8.3%, Italy 6.6%, Turkey 4.1% (2005) |
+| **Mongolia** | Russia 35.8%, China 25.7%, Japan 6.3%, South Korea 6%, Germany 4.2% (2005) |
+| **Montenegro** | Greece 10.2%, Italy 10.2%, Germany 9.6%, Bosnia and Herzegovina 9.2% (2003) |
+| **Montserrat** | US, UK, Trinidad and Tobago, Japan, Canada (2004) |
+| **Morocco** | France 18.2%, Spain 11%, Saudi Arabia 6.8%, Russia 6.8%, Italy 6.1%, China 5.2%, Germany 4.7% (2005) |
+| **Mozambique** | South Africa 36.3%, Australia 12.8%, India 5.1% (2005) |
+| **Namibia** | South Africa 85.2%, US (2004) |
+| **Nauru** | South Korea 43.8%, Australia 36.2%, US 5.9%, Germany 4.3% (2005) |
+| **Nepal** | India 47.5%, UAE 11.2%, China 10.7%, Saudi Arabia 4.9%, Kuwait 4.1% (2005) |
+| **Netherlands** | Germany 16.6%, Belgium 9.3%, China 8.8%, US 7.6%, UK 5.8%, France 4.7%, Russia 4.4% (2005) |
+| **Netherlands Antilles** | Venezuela 52.3%, US 21.4%, Italy 4.9%, Netherlands 4.6% (2005) |
+| **New Caledonia** | France 39%, Singapore 17.4%, Australia 13%, NZ 5.3% (2005) |
+| **New Zealand** | Australia 20.9%, US 11%, Japan 11%, China 10.9%, Germany 4.9% (2005) |
+| **Nicaragua** | US 19.6%, Mexico 10.3%, Venezuela 9.5%, Costa Rica 8.5%, Guatemala 6.7%, El Salvador 4.5%, South Korea 4.1% (2005) |
+| **Niger** | France 14.5%, US 10.7%, French Polynesia 7.5%, Nigeria 7.4%, Italy 6.7%, Cote d'Ivoire 5.1%, Belgium 4.6%, Germany 4.5%, China 4.5% (2005) |
+| **Nigeria** | China 10.4%, US 7.3%, UK 6.7%, Netherlands 6%, France 5.9%, Germany 4.2% (2005) |
+| **Niue** | New Zealand mainly, Fiji, Japan, Samoa, Australia, US (2004) |
+| **Norfolk Island** | Australia, other Pacific island countries, NZ, Asia, Europe (2004) |
+| **Northern Mariana Islands** | US, Japan (2004) |
+| **Norway** | Sweden 14.6%, Germany 13.6%, Denmark 7.3%, UK 6.8%, China 5.5%, US 5%, France 4% (2005) |
+| **Oman** | UAE 22.4%, Japan 15.7%, UK 7.7%, US 6.7%, Germany 5.8%, India 4.2% (2005) |
+| **Pakistan** | China 13.8%, Saudi Arabia 10.3%, UAE 8.8%, Japan 6.1%, US 5%, Kuwait 5%, Germany 4.8% (2005) |
+| **Palau** | US, Singapore, Japan, South Korea (2004) |
+| **Panama** | US 27.5%, Netherlands Antilles 11.4%, Costa Rica 4.7%, Japan 4.5% (2005) |
+| **Papua New Guinea** | Australia 54.6%, Singapore 13.4%, Japan 4.3%, Malaysia 4.2% (2005) |
+| **Paraguay** | Brazil 26.8%, Argentina 21.1%, US 20.8%, China 9.5% (2005) |
+| **Peru** | US 18.2%, China 8.5%, Brazil 8%, Ecuador 7.4%, Colombia 6.1%, Argentina 5.1%, Chile 5.1%, Venezuela 4.1% (2005) |
+| **Philippines** | US 19.2%, Japan 17%, Singapore 7.9%, Taiwan 7.5%, China 6.3%, South Korea 4.8%, Saudi Arabia 4.6%, Hong Kong 4.1% (2005) |
+| **Poland** | Germany 29.6%, Russia 8.7%, Italy 6.6%, Netherlands 5.9%, France 5.7% (2005) |
+| **Portugal** | Spain 29%, Germany 13.4%, France 8.5%, Italy 5.2%, Netherlands 4.3%, UK 4.2% (2005) |
+| **Puerto Rico** | US 55.0%, Ireland 23.7%, Japan 5.4% (2004) |
+| **Qatar** | France 11.5%, Japan 10.5%, US 10.4%, Germany 8.4%, Saudi Arabia 7.3%, UK 7%, Italy 6.5%, South Korea 5.5%, UAE 4.8% (2005) |
+| **Reunion** | France 64%, Bahrain 3%, Germany 3%, Italy 3% (2004) |
+| **Romania** | Italy 15.5%, Germany 14%, Russia 8.3%, France 6.8%, Turkey 4.9%, China 4.1% (2005) |
+| **Russia** | Germany 13.6%, Ukraine 8%, China 7.4%, Japan 6%, Belarus 4.7%, US 4.7%, Italy 4.6%, South Korea 4.1% (2005) |
+| **Rwanda** | Kenya 23.8%, Uganda 6.2%, Belgium 5.4%, Germany 5.3% (2005) |
+| **Saint Helena** | UK 53.5%, South Africa 14.3%, Spain 10.3%, Tanzania 8.5%, US 4.6% (2005) |
+| **Saint Kitts and Nevis** | US 46.9%, Trinidad and Tobago 13.7%, UK 5.4%, France 4.5%, Japan 4.2% (2005) |
+| **Saint Lucia** | US 24.1%, Trinidad and Tobago 15.5%, Netherlands 14.5%, Venezuela 5.6%, UK 5.6%, France 4.7% (2005) |
+| **Saint Pierre and Miquelon** | France 51.3%, Canada 31.8%, Belgium 4.1% (2005) |
+| **Saint Vincent and the Grenadines** | France 36.1%, Singapore 12.5%, Italy 11.9%, Trinidad and Tobago 7.9%, US 7.2% (2005) |
+| **Samoa** | NZ 31%, Australia 22.6%, US 13.5%, Japan 7.5%, Fiji 6%, China 4.6% (2005) |
+| **Sao Tome and Principe** | UK 94.2%, Portugal 2.7%, US 1% (2005) |
+| **Saudi Arabia** | US 13%, Germany 9.5%, Japan 7.9%, China 7.3%, France 4.7%, Italy 4.2% (2005) |
+| **Senegal** | France 22.8%, Nigeria 11.4%, Brazil 4.5%, Thailand 4.3%, US 4.2%, UK 4% (2005) |
+| **Seychelles** | Saudi Arabia 16.7%, Spain 14.9%, Singapore 7.6%, France 7.5%, Italy 6.2%, South Africa 6.2% (2005) |
+| **Sierra Leone** | Germany 18.9%, Cote d'Ivoire 11.2%, UK 8.5%, US 6.9%, China 5.6%, Netherlands 5.4%, South Africa 4.1% (2005) |
+| **Singapore** | Malaysia 14.4%, US 12.4%, China 10.8%, Japan 10.1%, Indonesia 5.5%, Saudi Arabia 4.7%, South Korea 4.5% (2005) |
+| **Slovakia** | Germany 25.1%, Czech Republic 19.3%, Russia 10.5%, Austria 6.1%, Poland 4.7%, Hungary 4.6%, Italy 4.5% (2005) |
+| **Slovenia** | Germany 19.5%, Italy 18.6%, Austria 12%, France 7.2%, Croatia 4.2% (2005) |
+| **Solomon Islands** | Australia 25.8%, Singapore 25.3%, NZ 4.6%, Fiji 4.2%, Papua New Guinea 4.1% (2005) |
+| **Somalia** | Djibouti 30.1%, Kenya 13.7%, Brazil 8.4%, India 8%, Oman 5.3%, UAE 5% (2005) |
+| **South Africa** | Germany 14.9%, US 7%, China 6.9%, UK 6.8%, Saudi Arabia 6.5%, Japan 5.9%, Iran 5.8%, France 4.3% (2005) |
+| **Spain** | Germany 15%, France 14.5%, Italy 8.5%, UK 5.8%, Netherlands 4.9%, China 4.3% (2005) |
+| **Sri Lanka** | India 19.7%, China 9.9%, Singapore 7.2%, Iran 5.5%, Malaysia 4.6%, Hong Kong 4.5% (2005) |
+| **Sudan** | China 20.7%, Saudi Arabia 9.4%, UAE 5.9%, Egypt 5.5%, Japan 5.1%, India 4.8% (2005) |
+| **Suriname** | US 29.3%, Netherlands 17.5%, Trinidad and Tobago 12.7%, China 6.5%, Japan 5.2% (2005) |
+| **Swaziland** | South Africa 95.6%, EU 0.9%, Japan 0.9%, Singapore 0.3% (2004) |
+| **Sweden** | Germany 17.5%, Denmark 8.9%, Norway 7.8%, UK 6.6%, Netherlands 6.2%, Finland 5.8%, France 5% (2005) |
+| **Switzerland** | Germany 31.6%, Italy 10.5%, France 10%, US 5.6%, Netherlands 4.8%, Austria 4.6%, UK 4.4% (2005) |
+| **Syria** | Saudi Arabia 10.6%, China 5.6%, Egypt 5.4%, Italy 5.3%, UAE 5.2%, Ukraine 4.2%, Germany 4.1% (2005) |
+| **Taiwan** | Japan 25.3%, US 11.6%, China 11%, South Korea 7.3%, Saudi Arabia 4.1% (2005) |
+| **Tajikistan** | Russia 19.3%, Kazakhstan 12.7%, Uzbekistan 11.5%, Azerbaijan 8.6%, China 7%, Ukraine 6.2%, Romania 4.6%, Turkmenistan 4% (2005) |
+| **Tanzania** | South Africa 12.2%, China 9.6%, India 7%, UAE 6.1%, Kenya 5.2%, UK 4.1% (2005) |
+| **Thailand** | Japan 22%, China 9.4%, US 7.4%, Malaysia 6.8%, UAE 4.8%, Singapore 4.5% (2005) |
+| **Togo** | France 17.8%, China 13.3%, Cote d'Ivoire 6.5%, Italy 4.5%, Spain 4.3% (2005) |
+| **Tokelau** | New Zealand (2004) |
+| **Tonga** | NZ 33.4%, Fiji 26.7%, Australia 10.5%, US 8.4% (2005) |
+| **Trinidad and Tobago** | US 27.7%, Venezuela 13.3%, Brazil 11.8%, Japan 5.5%, Canada 4.2% (2005) |
+| **Tunisia** | France 25.5%, Italy 22.9%, Germany 9.5%, Spain 5.5% (2005) |
+| **Turkey** | Germany 11.7%, Russia 11%, Italy 6.5%, China 5.9%, France 5%, US 4.6%, UK 4% (2005) |
+| **Turkmenistan** | UAE 12.4%, Azerbaijan 10.9%, US 9.4%, Russia 8.9%, Ukraine 7.4%, Turkey 7.2%, Iran 6.1%, Germany 5.3%, Kazakhstan 4.2% (2005) |
+| **Turks and Caicos Islands** | US, UK (2004) |
+| **Tuvalu** | Fiji 46.1%, Japan 18.9%, China 18.2%, Australia 7.7%, NZ 4.1% (2005) |
+| **Uganda** | Kenya 32%, UAE 8.6%, South Africa 6.4%, India 5.7%, China 5.2%, UK 4.4%, US 4.1%, Japan 4% (2005) |
+| **Ukraine** | Russia 35.5%, Germany 9.4%, Turkmenistan 7.4%, China 5% (2005) |
+| **United Arab Emirates** | UK 10%, China 9.7%, US 9.4%, India 9.2%, Germany 5.9%, Japan 5.4%, France 4.7%, Singapore 4.1% (2005) |
+| **United Kingdom** | Germany 12.8%, US 8.7%, France 7.1%, Netherlands 6.6%, China 5%, Norway 4.7%, Belgium 4.6%, Italy 4% (2005) |
+| **United States** | Canada 16.9%, China 15%, Mexico 10%, Japan 8.2%, Germany 5% (2005) |
+| **Uruguay** | Argentina 18.9%, Brazil 18.5%, Paraguay 14%, US 8.6%, China 6.2% (2005) |
+| **Uzbekistan** | Russia 26.7%, South Korea 15.3%, Germany 8.9%, China 7.2%, Kazakhstan 6.4%, Turkey 4.7%, Ukraine 4.7% (2005) |
+| **Vanuatu** | Australia 18.4%, Japan 16.6%, Singapore 14.7%, Poland 8.5%, NZ 7.2%, Fiji 6.3% (2005) |
+| **Venezuela** | US 31.6%, Colombia 11%, Brazil 9.1%, Mexico 6.9% (2005) |
+| **Vietnam** | China 16.3%, Singapore 12.8%, Taiwan 11.7%, Japan 10.4%, South Korea 9.9%, Thailand 6.8% (2005) |
+| **Virgin Islands** | US, Puerto Rico (2004) |
+| **Wallis and Futuna** | France 97%, Australia 2%, NZ 1% (2004) |
+| **West Bank** | Israel, Jordan, Gaza Strip (2004) |
+| **Western Sahara** | Morocco claims and administers Western Sahara, so trade partners are included in overall Moroccan accounts (2004) |
+| **World** | China 9.3%, US 9%, Germany 9%, Japan 6.1%, France 4.2% (2005) |
+| **Yemen** | UAE 14.6%, Saudi Arabia 11.6%, China 9.1%, Kuwait 5%, India 4.5% (2005) |
+| **Zambia** | South Africa 47.6%, UK 12.6%, Zimbabwe 4.3% (2005) |
+| **Zimbabwe** | South Africa 42.9%, China 4.6%, Botswana 3.3% (2005) |
+
+This page was last updated on 19 December, 2006
+ 

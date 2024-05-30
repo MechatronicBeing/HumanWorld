@@ -1,0 +1,503 @@
+Field Listing :: Major infectious diseases :: The World Factbook
+
+This entry lists major infectious diseases likely to be encountered in countries where the risk of such diseases is assessed to be very high as compared to the United States. These infectious diseases represent risks to US government personnel traveling to the specified country for a period of less than three years. The degree of risk is assessed by considering the foreign nature of these infectious diseases, their severity, and the probability of being affected by the diseases present. The diseases listed do not necessarily represent the total disease burden experienced by the local population.
+The risk to an individual traveler varies considerably by the specific location, visit duration, type of activities, type of accommodations, time of year, and other factors. Consultation with a travel medicine physician is needed to evaluate individual risk and recommend appropriate preventive measures such as vaccines.
+Diseases are organized into the following six exposure categories shown in italics and listed in typical descending order of risk. Note: The sequence of exposure categories listed in individual country entries may vary according to local conditions.
+food or waterborne diseases acquired through eating or drinking on the local economy:
+Hepatitis A - viral disease that interferes with the functioning of the liver; spread through consumption of food or water contaminated with fecal matter, principally in areas of poor sanitation; victims exhibit fever, jaundice, and diarrhea; 15% of victims will experience prolonged symptoms over 6-9 months; vaccine available.
+Hepatitis E - water-borne viral disease that interferes with the functioning of the liver; most commonly spread through fecal contamination of drinking water; victims exhibit jaundice, fatigue, abdominal pain, and dark colored urine.
+Typhoid fever - bacterial disease spread through contact with food or water contaminated by fecal matter or sewage; victims exhibit sustained high fevers; left untreated, mortality rates can reach 20%.
+vectorborne diseases acquired through the bite of an infected arthropod:
+Malaria - caused by single-cell parasitic protozoa Plasmodium; transmitted to humans via the bite of the female Anopheles mosquito; parasites multiply in the liver attacking red blood cells resulting in cycles of fever, chills, and sweats accompanied by anemia; death due to damage to vital organs and interruption of blood supply to the brain; endemic in 100, mostly tropical, countries with 90% of cases and the majority of 0.4-0.8 million estimated annual deaths occurring in sub-Saharan Africa.
+Dengue fever - mosquito-borne (Aedes aegypti) viral disease associated with urban environments; manifests as sudden onset of fever and severe headache; occasionally produces shock and hemorrhage leading to death in 5% of cases.
+Yellow fever - mosquito-borne (in urban areas Aedes aegypti) viral disease; severity ranges from influenza-like symptoms to severe hepatitis and hemorrhagic fever; occurs only in tropical South America and sub-Saharan Africa, where most cases are reported; fatality rate is less than 20%.
+Japanese Encephalitis - mosquito-borne (Culex tritaeniorhynchus) viral disease associated with rural areas in Asia; acute encephalitis can progress to paralysis, coma, and death; fatality rates 30%.
+African Trypanosomiasis - caused by the parasitic protozoa Trypanosoma; transmitted to humans via the bite of bloodsucking Tsetse flies; infection leads to malaise and irregular fevers and, in advanced cases when the parasites invade the central nervous system, coma and death; endemic in 36 countries of sub-Saharan Africa; cattle and wild animals act as reservoir hosts for the parasites.
+Cutaneous Leishmaniasis - caused by the parasitic protozoa leishmania; transmitted to humans via the bite of sandflies; results in skin lesions that may become chronic; endemic in 88 countries; 90% of cases occur in Iran, Afghanistan, Syria, Saudi Arabia, Brazil, and Peru; wild and domesticated animals as well as humans can act as reservoirs of infection.
+Plague - bacterial disease transmitted by fleas normally associated with rats; person-to-person airborne transmission also possible; recent plague epidemics occurred in areas of Asia, Africa, and South America associated with rural areas or small towns and villages; manifests as fever, headache, and painfully swollen lymph nodes; disease progresses rapidly and without antibiotic treatment leads to pneumonic form with a death rate in excess of 50%.
+Crimean-Congo hemorrhagic fever - tick-borne viral disease; infection may also result from exposure to infected animal blood or tissue; geographic distribution includes Africa, Asia, the Middle East, and Eastern Europe; sudden onset of fever, headache, and muscle aches followed by hemorrhaging in the bowels, urine, nose, and gums; mortality rate is approximately 30%.
+Rift Valley fever - viral disease affecting domesticated animals and humans; transmission is by mosquito and other biting insects; infection may also occur through handling of infected meat or contact with blood; geographic distribution includes eastern and southern Africa where cattle and sheep are raised; symptoms are generally mild with fever and some liver abnormalities, but the disease may progress to hemorrhagic fever, encephalitis, or ocular disease; fatality rates are low at about 1% of cases.
+Chikungunya - mosquito-borne (Aedes aegypti) viral disease associated with urban environments, similar to Dengue Fever; characterized by sudden onset of fever, rash, and severe joint pain usually lasting 3-7 days, some cases result in persistent arthritis.
+water contact diseases acquired through swimming or wading in freshwater lakes, streams, and rivers:
+Leptospirosis - bacterial disease that affects animals and humans; infection occurs through contact with water, food, or soil contaminated by animal urine; symptoms include high fever, severe headache, vomiting, jaundice, and diarrhea; untreated, the disease can result in kidney damage, liver failure, meningitis, or respiratory distress; fatality rates are low but left untreated recovery can take months.
+Schistosomiasis - caused by parasitic trematode flatworm Schistosoma; fresh water snails act as intermediate host and release larval form of parasite that penetrates the skin of people exposed to contaminated water; worms mature and reproduce in the blood vessels, liver, kidneys, and intestines releasing eggs, which become trapped in tissues triggering an immune response; may manifest as either urinary or intestinal disease resulting in decreased work or learning capacity; mortality, while generally low, may occur in advanced cases usually due to bladder cancer; endemic in 74 developing countries with 80% of infected people living in sub-Saharan Africa; humans act as the reservoir for this parasite.
+aerosolized dust or soil contact disease acquired through inhalation of aerosols contaminated with rodent urine:
+Lassa fever - viral disease carried by rats of the genus Mastomys; endemic in portions of West Africa; infection occurs through direct contact with or consumption of food contaminated by rodent urine or fecal matter containing virus particles; fatality rate can reach 50% in epidemic outbreaks.
+respiratory disease acquired through close contact with an infectious person:
+Meningococcal meningitis - bacterial disease causing an inflammation of the lining of the brain and spinal cord; one of the most important bacterial pathogens is Neisseria meningitidis because of its potential to cause epidemics; symptoms include stiff neck, high fever, headaches, and vomiting; bacteria are transmitted from person to person by respiratory droplets and facilitated by close and prolonged contact resulting from crowded living conditions, often with a seasonal distribution; death occurs in 5-15% of cases, typically within 24-48 hours of onset of symptoms; highest burden of meningococcal disease occurs in the hyperendemic region of sub-Saharan Africa known as the "Meningitis Belt" which stretches from Senegal east to Ethiopia.
+animal contact disease acquired through direct contact with local animals:
+Rabies - viral disease of mammals usually transmitted through the bite of an infected animal, most commonly dogs; virus affects the central nervous system causing brain alteration and death; symptoms initially are non-specific fever and headache progressing to neurological symptoms; death occurs within days of the onset of symptoms.
+
+| Country | Major infectious diseases |
+| --- | --- |
+| **Afghanistan** | *degree of risk:* intermediate (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* Crimea-Congo hemorrhagic fever, malaria |
+| **Angola** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, typhoid fever |
+| | *vectorborne diseases:* dengue fever, malaria |
+| | *water contact diseases:* schistosomiasis |
+| | *animal contact diseases:* rabies |
+| **Argentina** | *note:* widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Argentina; as of 8 December 2020, Argentina has reported a total of 1,454,631 cases of COVID-19 or 32,185 cumulative cases of COVID-19 per 1 million population with 874 cumulative deaths per 1 million population |
+| **Bangladesh** | *degree of risk:* high (2020) |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever |
+| | *vectorborne diseases:* dengue fever and malaria are high risks in some locations |
+| | *water contact diseases:* leptospirosis |
+| | *animal contact diseases:* rabies |
+| | *note:* widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Bangladesh; as of 8 December 2020, Bangladesh has reported a total of 475,879 cases of COVID-19 or 2,890 cumulative cases of COVID-19 per 1 million population with 41 cumulative deaths per 1 million population |
+| **Benin** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever andÂ malaria |
+| | *animal contact diseases:* rabies |
+| | *respiratory diseases:* meningococcal meningitis |
+| **Bolivia** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea and hepatitis A |
+| | *vectorborne diseases:* dengue fever andÂ malaria |
+| **Botswana** | *degree of risk:* high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria |
+| **Brazil** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea and hepatitis A |
+| | *vectorborne diseases:* dengue fever and malaria |
+| | *water contact diseases:* schistosomiasis |
+| | *note:* widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Brazil; as of 8 December 2020, Brazil has reported a total of 6,533,968 cases of COVID-19 or 30,739 cumulative cases of COVID-19 per 1 million population with 828 cumulative deaths per 1 million population; the Department of Homeland Security has issued instructions requiring US passengers who have been in Brazil to travel through select airports where the US Government has implemented enhanced screening procedures |
+| **Burkina Faso** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever andÂ malaria |
+| | *water contact diseases:* schistosomiasis |
+| | *animal contact diseases:* rabies |
+| | *respiratory diseases:* meningococcal meningitis |
+| **Burma** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever, malaria, and Japanese encephalitis |
+| | *animal contact diseases:* rabies |
+| **Burundi** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and dengue fever |
+| | *water contact diseases:* schistosomiasis |
+| | *animal contact diseases:* rabies |
+| **Cambodia** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever, Japanese encephalitis, and malaria |
+| **Cameroon** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria andÂ dengue fever |
+| | *water contact diseases:* schistosomiasis |
+| | *animal contact diseases:* rabies |
+| | *respiratory diseases:* meningococcal meningitis |
+| **Central African Republic** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever |
+| | *vectorborne diseases:* malaria and dengue fever |
+| | *water contact diseases:* schistosomiasis |
+| | *animal contact diseases:* rabies |
+| | *respiratory diseases:* meningococcal meningitis |
+| **Chad** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever |
+| | *vectorborne diseases:* malaria and dengue fever |
+| | *water contact diseases:* schistosomiasis |
+| | *animal contact diseases:* rabies |
+| | *respiratory diseases:* meningococcal meningitis |
+| **China** | *degree of risk:* high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* Crimean-Congo hemorrhagic fever, Japanese encephalitis |
+| | *soil contact diseases:* hantaviral hemorrhagic fever with renal syndrome (HFRS) |
+| | *note:*Â a new coronavirus is causing an outbreak of respiratory illness (COVID-19) in China; illness with this virus has ranged from mild to severe with fatalities reported; the US Department of State has issued a do not travel advisory for China due to COVID-19; the Centers for Disease Control and Prevention has also recommended against travel to China and published additional guidance at https://wwwnc.cdc.gov/travel/notices/warning/novel-coronavirus-china; the US Department of Homeland Security has issued instructions requiring US passengers who have been in China to travel through select airports where the US Government has implemented enhanced screening procedures; as of 8 December 2020, China has reported 94,160 confirmed cases of COVID-19 with 4,753 deaths to the World Health Organization |
+| **Colombia** | *degree of risk:* high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea |
+| | *vectorborne diseases:* dengue fever, malaria, and yellow fever |
+| | *note:* widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Colombia; as of 8 December 2020, Colombia has reported a total of 1,352,607 cases of COVID-19 or 26,583 cumulative cases of COVID-19 per 1 million population with 736 cumulative deaths per 1 million population |
+| **Congo, Democratic Republic of the** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria, dengue fever, and trypanosomiasis-gambiense (African sleeping sickness) |
+| | *water contact diseases:* schistosomiasis |
+| | *animal contact diseases:* rabies |
+| | note - on 18 October 2019, the Centers for Disease Control and Prevention issued a Travel Health Notice for an Ebola outbreak in the South Kivu (Kivu Sud), North Kivu (Kivu Nord), and Ituri provinces in the northeastern part of the Democratic Republic of the Congo; travelers to this area could be infected with Ebola if they come into contact with an infected personâ€™s blood or other body fluids; travelers should seek medical care immediately if they develop fever, muscle pain, sore throat, diarrhea, weakness, vomiting, stomach pain, orÂ unexplained bleeding or bruisingÂ during or after travel |
+| **Congo, Republic of the** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and dengue fever |
+| | *water contact diseases:* schistosomiasis |
+| | *animal contact diseases:* rabies |
+| **Cook Islands** | *degree of risk:* high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea |
+| | *vectorborne diseases:* malaria |
+| **Costa Rica** | *degree of risk:* intermediate (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea |
+| | *vectorborne diseases:* dengue fever |
+| **Cote d'Ivoire** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria, dengue fever, and yellow fever |
+| | *water contact diseases:* schistosomiasis |
+| | *animal contact diseases:* rabies |
+| | *respiratory diseases:* meningococcal meningitis |
+| **Croatia** | *degree of risk:* intermediate (2020) |
+| | *vectorborne diseases:* tickborne encephalitis |
+| **Cuba** | *degree of risk:* intermediate (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea and hepatitis A |
+| | *vectorborne diseases:* dengue fever |
+| **Djibouti** | *degree of risk:* high (2020) |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever |
+| **Dominican Republic** | *degree of risk:* high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever |
+| **Ecuador** | *degree of risk:* high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever and malaria |
+| **Egypt** | *degree of risk:* intermediate (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *water contact diseases:* schistosomiasis |
+| | *note:* clusters of cases of a respiratory illness caused by the novel coronavirus (COVID-19) are occurring throughout Egypt; as of 8 December 2020, Egypt has reported a total of 118,014 cases of COVID-19 or 1,153 cumulative cases of COVID-19 per 1 million population with 66 cumulative deaths per 1 million population |
+| **El Salvador** | *degree of risk:* high (2020) |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea |
+| | *vectorborne diseases:* dengue fever |
+| **Equatorial Guinea** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and dengue fever |
+| | *animal contact diseases:* rabies |
+| **Eritrea** | *degree of risk:* high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and dengue fever |
+| **Estonia** | *degree of risk:* intermediate (2020) |
+| | *vectorborne diseases:* tickborne encephalitis |
+| **Eswatini** | *degree of risk:* intermediate (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria |
+| | *water contact diseases:* schistosomiasis |
+| **Ethiopia** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and dengue fever |
+| | *water contact diseases:* schistosomiasis |
+| | *animal contact diseases:* rabies |
+| | *respiratory diseases:* meningococcal meningitis |
+| **European Union** | *note:* widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring regionally; the US Department of Homeland Security has issued instructions requiring US passengers who have been in the European Unionâ€™s Schengen Area (comprised of the following 26 European states: Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, and Switzerland) to travel through select airports where the US Government has implemented enhanced screening procedures |
+| **Fiji** | *degree of risk:* high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea |
+| | *vectorborne diseases:* malaria |
+| **France** | *note:* widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout France; as of 8 December 2020, France has reported a total of 2,241,830 cases of COVID-19 or 34,345 cumulative cases of COVID-19 per 1 million population with 837 cumulative deaths per 1 million population |
+| **French Polynesia** | *degree of risk:* high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea |
+| | *vectorborne diseases:* malaria |
+| **Gabon** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and dengue fever |
+| | *water contact diseases:* schistosomiasis |
+| | *animal contact diseases:* rabies |
+| **Gambia, The** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and dengue fever |
+| | *water contact diseases:* schistosomiasis |
+| | *animal contact diseases:* rabies |
+| | *respiratory diseases:* meningococcal meningitis |
+| **Ghana** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria, dengue fever, and yellow fever |
+| | *water contact diseases:* schistosomiasis |
+| | *animal contact diseases:* rabies |
+| | *respiratory diseases:* meningococcal meningitis |
+| **Guatemala** | *degree of risk:* high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever and malaria |
+| **Guinea** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria, dengue fever, and yellow fever |
+| | *water contact diseases:* schistosomiasis |
+| | *animal contact diseases:* rabies |
+| | *aerosolized dust or soil contact diseases:* Lassa fever (2016) |
+| **Guinea-Bissau** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria, dengue fever, and yellow fever |
+| | *water contact diseases:* schistosomiasis |
+| | *animal contact diseases:* rabies |
+| **Guyana** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever and malaria |
+| **Haiti** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever |
+| | *vectorborne diseases:* dengue fever and malaria |
+| **Honduras** | *degree of risk:* high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever and malaria |
+| **Hungary** | *degree of risk:* intermediate (2016) |
+| | *vectorborne diseases:* tickborne encephalitis (2016) |
+| **India** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A and E, and typhoid fever |
+| | *vectorborne diseases:* dengue fever, Crimean-Congo hemorrhagic fever, Japanese encephalitis, and malaria |
+| | *water contact diseases:* leptospirosis |
+| | *animal contact diseases:* rabies |
+| | *note:* clusters of cases of a respiratory illness caused by the novel coronavirus (COVID-19) are being reported across 27 States and Union Territories in India; as of 8 December 2020, India has reported a total of 9,644,222 cases of COVID-19 or 6,989 cumulative cases of COVID-19 per 1 million population with 102 cumulative deaths per 1 million population; on 16 March 2020, the government proposed extensive social distancing measures, including closure of all schools, museums, and cultural and social centers; prohibited gatherings of more than 50 people; and called on the public to avoid all non-essential travel; international commercial passenger flights remain suspended |
+| **Indonesia** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever and malaria |
+| **Iran** | *degree of risk:* intermediate (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea |
+| | *vectorborne diseases:* Crimean-Congo hemorrhagic fever |
+| | *note:* a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Iran; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 8 December 2020, Iran has reported a total of 1,028,986 cases of COVID-19 or 12,251 cumulative cases of COVID-19 per 1 million population with 595 cumulative deaths per 1 million population |
+| **Iraq** | *degree of risk:* intermediate (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *note:* widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Iraq; as of 8 December 2020, Iraq has reported a total of 562,520 cases of COVID-19 or 13,985 cumulative cases of COVID-19 per 1 million population with 309 cumulative deaths per 1 million population |
+| **Italy** | *respiratory diseases:* Covid-19 (see note) (2020) |
+| | *note:* a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Italy; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 8 December 2020, Italy has reported a total of 1,709,991 cases of COVID-19 or 28,282 cumulative cases of COVID-19 per 1 million population with 984 cumulative deaths per 1 million population; the US Department of State has issued a Travel Advisory to reconsider travel to Italy due to the recent outbreak of COVID-19; the Centers for Disease Control and Prevention has also recommended postponing nonessential travel to Italy at this time and published additional guidance at https://wwwnc.cdc.gov/travel/notices/alert/coronavirus-italy; the US Department of Homeland Security has issued instructions requiring US passengers who have been in Italy to travel through select airports where the US Government has implemented enhanced screening procedures |
+| **Japan** | *respiratory diseases:* Covid-19 (see note) (2020) |
+| | *note:* clusters of cases of respiratory illness caused by a new coronavirus (COVID-19) in Japan; illness with this virus has ranged from mild to severe with fatalities reported; as of 8 December 2020, Japan has reported 160,098 confirmed cases of COVID19 with 2,315 deaths; the US Department of State has issued a Travel Advisory recommending increased caution in Japan due to the recent outbreak of COVID-19; the Centers for Disease Control and Prevention has recommended postponing nonessential international travel at this time and published additional guidance at https://wwwnc.cdc.gov/travel/notices/alert/ ; on 25 May 2020, Japan ended its state of emergency |
+| **Kenya** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria, dengue fever, and Rift Valley fever |
+| | *water contact diseases:* schistosomiasis |
+| | *animal contact diseases:* rabies |
+| **Kiribati** | *degree of risk:* high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea |
+| | *vectorborne diseases:* malaria |
+| **Korea, South** | *respiratory diseases:* Covid-19 (see note) (2020) |
+| | *note:*Â a novel coronavirus is causing an outbreak of respiratory illness (COVID-19) in South Korea; illness with this virus has ranged from mild to severe with fatalities reported; the US Department of State has issued a Travel Advisory recommending avoiding all international travelÂ due to COVID-19; the Centers for Disease Control and Prevention has recommended against all international travel and published additional guidance at https://wwwnc.cdc.gov/travel/notices/warning/ ; as of 8 December 2020, South Korea has reported 37,546 confirmed cases of COVID19 with 545 deaths |
+| **Laos** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever and malaria |
+| **Latvia** | *degree of risk:* intermediate (2020) |
+| | *vectorborne diseases:* tickborne encephalitis |
+| **Lesotho** | *degree of risk:* intermediate (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| **Liberia** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria, dengue fever, and yellow fever |
+| | *water contact diseases:* schistosomiasis |
+| | *animal contact diseases:* rabies |
+| | *aerosolized dust or soil contact diseases:* Lassa fever |
+| **Lithuania** | *degree of risk:* intermediate (2020) |
+| | *vectorborne diseases:* tickborne encephalitis |
+| **Madagascar** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and dengue fever |
+| | *water contact diseases:* schistosomiasis |
+| | *animal contact diseases:* rabies |
+| **Malawi** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and dengue fever |
+| | *water contact diseases:* schistosomiasis |
+| | *animal contact diseases:* rabies |
+| **Malaysia** | *degree of risk:* intermediate (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea |
+| | *vectorborne diseases:* dengue fever |
+| | *water contact diseases:* leptospirosis |
+| **Mali** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and dengue fever |
+| | *water contact diseases:* schistosomiasis |
+| | *animal contact diseases:* rabies |
+| | *respiratory diseases:* meningococcal meningitis |
+| **Marshall Islands** | *degree of risk:* high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea |
+| | *vectorborne diseases:* malaria |
+| **Mauritania** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and dengue fever |
+| | *animal contact diseases:* rabies |
+| | *respiratory diseases:* meningococcal meningitis |
+| **Mexico** | *degree of risk:* intermediate (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea and hepatitis A |
+| | *vectorborne diseases:* dengue fever |
+| | *note:* a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Mexico; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 5 August 2020, Mexico has reported 443,813 confirmed cases of COVID19 with 48,012Â deaths |
+| **Micronesia, Federated States of** | *degree of risk:* high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea |
+| | *vectorborne diseases:* malaria |
+| **Montenegro** | *degree of risk:* intermediate (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea |
+| | *vectorborne diseases:* Crimean-Congo hemorrhagic fever |
+| **Morocco** | *note:* clusters of cases of a respiratory illness caused by the novel coronavirus (COVID-19) are occurring in Morocco; as of 8 December 2020, Morocco has reported a total of 376,738 cases of COVID-19 or 10,207 cumulative cases of COVID-19 per 1 million population with 168 cumulative deaths per 1 million population |
+| **Mozambique** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and dengue fever |
+| | *water contact diseases:* schistosomiasis |
+| | *animal contact diseases:* rabies |
+| **Namibia** | *degree of risk:* high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria |
+| | *water contact diseases:* schistosomiasis |
+| **Nauru** | *degree of risk:* high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea |
+| | *vectorborne diseases:* malaria |
+| **Nepal** | *degree of risk:* high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A and E, and typhoid fever |
+| | *vectorborne diseases:* Japanese encephalitis, malaria, and dengue fever |
+| **New Caledonia** | *degree of risk:* high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea |
+| | *vectorborne diseases:* malaria |
+| **Nicaragua** | *degree of risk:* high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever and malaria |
+| **Niger** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and dengue fever |
+| | *water contact diseases:* schistosomiasis |
+| | *animal contact diseases:* rabies |
+| | *respiratory diseases:* meningococcal meningitis |
+| **Nigeria** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever |
+| | *vectorborne diseases:* malaria, dengue fever, and yellow fever |
+| | *water contact diseases:* leptospirosis and schistosomiasis |
+| | *animal contact diseases:* rabies |
+| | *respiratory diseases:* meningococcal meningitis |
+| | *aerosolized dust or soil contact diseases:* Lassa fever |
+| | *note:* on 7 October 2019, the Centers for Disease Control and Prevention issued a Travel Health Notice for a Yellow Fever outbreak in Nigeria;Â a large, ongoing outbreak of yellow fever in Nigeria began in September 2017; the outbreak is now spread throughout the country with the Nigerian Ministry of Health reporting cases of the disease in all 36 states and the Federal Capital Territory; the CDC recommends travelers going to Nigeria should receive vaccination against yellow fever at least 10 days before travel and should take steps to prevent mosquito bites while there; those never vaccinated against yellow fever should avoid travel to Nigeria during the outbreak |
+| | *note:* widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Nigeria; as of 8 December 2020, Nigeria has reported a total of 68,937 cases of COVID-19 or 334 cumulative cases of COVID-19 per 1 million population with 6 cumulative deaths per 1 million population; as of 19 March 2020, the Government of Nigeria has restricted entry into Nigeria for travelers from the following high incidence countries: China, Italy, Iran, Norway, South Korea, Spain, Japan, France, Germany, US, UK, Netherlands, and Switzerland |
+| **Niue** | *degree of risk:* high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea |
+| | *vectorborne diseases:* malaria |
+| **Pakistan** | *degree of risk:* high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A and E, and typhoid fever |
+| | *vectorborne diseases:* dengue fever and malaria |
+| | *animal contact diseases:* rabies |
+| | *note:* widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Pakistan; as of 8 December 2020, Pakistan has reported a total of 413,191 cases of COVID-19 or 1,871 cumulative cases of COVID-19 per 1 million population with 38 cumulative deaths per 1 million population; the Government of Pakistan will permit commercial outbound passenger flights from all international airports except Gwadar and Turbat effective 30 May 2020, but inbound passenger flights remain suspended; limited domestic flight operations from five major airports â€“ Islamabad, Karachi, Lahore, Peshawar, and Quetta are available; on 7 May 2020, the Government of Pakistan announced an ease in some of the nationwide lockdown restrictions; additionally, the Islamabad Capital Territory and Sindh, Punjab, Balochistan, and Khyber Pakhtunkhwa provinces have varying degrees of lockdowns |
+| **Palau** | *degree of risk:* high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea |
+| | *vectorborne diseases:* malaria |
+| **Panama** | *degree of risk:* intermediate (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea |
+| | *vectorborne diseases:* dengue fever |
+| **Papua New Guinea** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever and malaria |
+| **Paraguay** | *degree of risk:* intermediate (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever |
+| **Peru** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever, malaria, and Bartonellosis (Oroya fever) |
+| | *note:* widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Peru; as of 8 December 2020, Peru has reported a total of 970,860 cases of COVID-19 or 29,445 cumulative cases of COVID-19 per 1 million population with 1,098 cumulative deaths per 1 million population; at this time, there are no specific limitations or quarantine requirements for US citizens and Lawful Permanent Residents entering the US from Peru; on 3 June 2020, Peruvian President MartÃ­n VIZCARRA signed a supreme decree extending Peruâ€™s Health State of Emergency for 90 days beginning Wednesday, 10 June 2020; this is not an extension of the national quarantine, although social distancing and the use of facemasks will be required for the foreseeable future |
+| **Philippines** | *degree of risk:* high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever and malaria |
+| | *water contact diseases:* leptospirosis |
+| | note - on 8 October 2019, the Centers for Disease Control and Prevention issued a Travel Health Notice regarding aÂ polio outbreak in the Philippines; CDC recommends that all travelers toÂ the PhilippinesÂ be vaccinated fully against polio; before traveling to the Philippines, adults who completed their routine polio vaccine series as children should receive a single, lifetime adult booster dose of polio vaccine |
+| **Pitcairn Islands** | *degree of risk:* high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea |
+| | *vectorborne diseases:* malaria |
+| **Poland** | *degree of risk:* intermediate (2016) |
+| | *vectorborne diseases:* tickborne encephalitis (2016) |
+| **Russia** | *degree of risk:* intermediate (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea |
+| | *vectorborne diseases:* Crimean-Congo hemorrhagic fever, tickborne encephalitis |
+| | *note:* widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the Russia; as of 8 December 2020, Russia has reported a total of 2,460,770 cases of COVID-19 or 16,862 cumulative cases of COVID-19 per 1 million population with 296 cumulative deaths per 1 million population |
+| **Rwanda** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and dengue fever |
+| | *animal contact diseases:* rabies |
+| **Samoa** | *degree of risk:* high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea |
+| | *vectorborne diseases:* malaria |
+| **Sao Tome and Principe** | *degree of risk:* high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and dengue fever |
+| | *water contact diseases:* schistosomiasis |
+| **Saudi Arabia** | *note:* sporadic cases of a respiratory illness caused by the novel coronavirus (COVID-19) are occurring throughout Saudi Arabia; as of 8 December 2020, Saudi Arabia has reported a total of 358,526 cases of COVID-19 or 10,298 cumulative cases of COVID-19 per 1 million population with 171 cumulative deaths per 1 million population |
+| **Senegal** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and dengue fever |
+| | *water contact diseases:* schistosomiasis |
+| | *animal contact diseases:* rabies |
+| | *respiratory diseases:* meningococcal meningitis |
+| **Serbia** | *degree of risk:* intermediate (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea |
+| **Sierra Leone** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria andÂ dengue fever |
+| | *water contact diseases:* schistosomiasis |
+| | *animal contact diseases:* rabies |
+| | *aerosolized dust or soil contact diseases:* Lassa fever |
+| **Solomon Islands** | *degree of risk:* high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea |
+| | *vectorborne diseases:* malaria |
+| **Somalia** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever |
+| | *vectorborne diseases:* dengue fever, malaria, and Rift Valley fever |
+| | *water contact diseases:* schistosomiasis |
+| | *animal contact diseases:* rabies |
+| **South Africa** | *degree of risk:* intermediate (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *water contact diseases:* schistosomiasis |
+| | *note:* widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout South Africa; as of 8 December 2020, South Africa has reported a total of 810,449 cases of COVID-19 or 13,665 cumulative cases of COVID-19 per 1 million population with 372 cumulative deaths per 1 million population; on 24 May 2020, the Government of South Africa announced the lockdown alert level for South Africa will be lowered to level 3 with effect on 1 June 2020, except for some areas designated as â€œcoronavirus hotspotsâ€?; per the lockdown, all airports in South Africa are closed to commercial traffic |
+| **South Sudan** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever |
+| | *vectorborne diseases:* malaria, dengue fever, Trypanosomiasis-Gambiense (African sleeping sickness) |
+| | *water contact diseases:* schistosomiasis |
+| | *animal contact diseases:* rabies |
+| | *respiratory diseases:* meningococcal meningitis |
+| **Spain** | *respiratory diseases:* Covid-19 (see note) (2020) |
+| | *note:* widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Spain; as of 8 December 2020, Spain has reported a total of 1,684,647 cases of COVID-19 or 36,032 cumulative cases of COVID-19 per 1 million population with 989 cumulative deaths per 1 million population; the Spanish Government is gradually relaxing confinement measures in phases over the next several weeks; these measures will vary from region to region within Spain; the Department of Homeland Security has issued instructions requiring US passengers who have been in Spain to travel through select airports where the US Government has implemented enhanced screening procedures |
+| **Sri Lanka** | *degree of risk:* |
+| | intermediate |
+| | (2020) |
+| | *vectorborne diseases:* dengue fever |
+| | *water contact diseases:* leptospirosis |
+| | *animal contact diseases:* rabies |
+| **Sudan** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever |
+| | *vectorborne diseases:* malaria, dengue fever, and Rift Valley fever |
+| | *water contact diseases:* schistosomiasis |
+| | *animal contact diseases:* rabies |
+| | *respiratory diseases:* meningococcal meningitis |
+| **Suriname** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever and malaria |
+| **Tajikistan** | *degree of risk:* high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria |
+| **Tanzania** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria, dengue fever, and Rift Valley fever |
+| | *water contact diseases:* schistosomiasis |
+| | *animal contact diseases:* rabies |
+| **Thailand** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea |
+| | *vectorborne diseases:* dengue fever, Japanese encephalitis, and malaria |
+| **Timor-Leste** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever and malaria |
+| **Togo** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria, dengue fever, and yellow fever |
+| | *water contact diseases:* schistosomiasis |
+| | *animal contact diseases:* rabies |
+| | *respiratory diseases:* meningococcal meningitis |
+| **Tokelau** | *degree of risk:* high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea |
+| | *vectorborne diseases:* malaria |
+| **Tonga** | *degree of risk:* high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea |
+| | *vectorborne diseases:* malaria |
+| **Turkey** | *respiratory diseases:* Covid-19 (2020) |
+| | *note:* widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Turkey; as of 8 December 2020, Turkey has reported a total of 533,198 cases of COVID-19 or 6,322 cumulative cases of COVID-19 per 1 million population with 174 cumulative deaths per 1 million population |
+| **Uganda** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A and E, and typhoid fever |
+| | *vectorborne diseases:* malaria, dengue fever, and Trypanosomiasis-Gambiense (African sleeping sickness) |
+| | *water contact diseases:* schistosomiasis |
+| | *animal contact diseases:* rabies |
+| **United Kingdom** | *respiratory diseases:* Covid-19 (see note) (2020) |
+| | *note:* widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the UK; as of 8 December 2020, the UK has reported a total of 1,705,975 cases of COVID-19 or 25,130 cumulative cases of COVID-19 per 1 million population with 899 cumulative deaths per 1 million population; individuals arriving in the UK must self-isolate for 14 days and may be contacted to verify compliance; new arrivals will be required to provide UK officials with contact and travel information prior to arrival; the US Department of Homeland Security has issued instructions requiring US passengers who have been in the UK to travel through select airports where the US Government has implemented enhanced screening procedures |
+| **Vanuatu** | *degree of risk:* high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea |
+| | *vectorborne diseases:* malaria |
+| **Venezuela** | *degree of risk:* high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea and hepatitis A |
+| | *vectorborne diseases:* dengue fever and malaria |
+| **Vietnam** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever, malaria, and Japanese encephalitis |
+| **Wallis and Futuna** | *degree of risk:* high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea |
+| | *vectorborne diseases:* malaria |
+| **World** | *note:* widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring globally; older adults and people of any age with serious chronic medical conditions are at increased risk for severe disease; some health care systems are becoming overwhelmed and there may be limited access to adequate medical care in affected areas; many countries are implementing travel restrictions and mandatory quarantines, closing borders, and prohibiting non-citizens from entry with little advance notice; US residents may have difficulty returning to the United States; as of 8 December 2020, 65,872,391 confirmed cases of COVID-19 and 1,523,656 deaths have been reported to the World Health Organization |
+| **Yemen** | *degree of risk:* high (2020) |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever and malaria |
+| | *water contact diseases:* schistosomiasis |
+| **Zambia** | *degree of risk:* very high (2020) |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and dengue fever |
+| | *water contact diseases:* schistosomiasis |
+| | *animal contact diseases:* rabies |
+| **Zimbabwe** | *degree of risk:* high (2020) |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and dengue fever |
+| | *water contact diseases:* schistosomiasis |
+| | *animal contact diseases:* rabies |
+

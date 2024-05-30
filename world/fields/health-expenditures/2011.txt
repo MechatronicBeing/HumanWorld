@@ -1,0 +1,195 @@
+CIA - The World Factbook -- Field Listing :: Health expenditures   
+
+This entry provides the total expenditure on health as a percentage of GDP. Health expenditures are broadly defined as activities performed either by institutions or individuals through the application of medical, paramedical, and/or nursing knowledge and technology, the primary purpose of which is to promote, restore, or maintain health.
+
+| Country | Health expenditures(% of GDP) |
+| --- | --- |
+| **Afghanistan** | 7.4% of GDP (2009) |
+| **Albania** | 6.9% of GDP (2009) |
+| **Algeria** | 5.8% of GDP (2009) |
+| **Andorra** | 7.7% of GDP (2009) |
+| **Angola** | 4.6% of GDP (2009) |
+| **Antigua and Barbuda** | 5.1% of GDP (2009) |
+| **Argentina** | 9.5% of GDP (2009) |
+| **Armenia** | 4.7% of GDP (2009) |
+| **Australia** | 8.5% of GDP (2009) |
+| **Austria** | 11% of GDP (2009) |
+| **Azerbaijan** | 5.8% of GDP (2009) |
+| **Bahamas, The** | 7.2% of GDP (2009) |
+| **Bahrain** | 4.5% of GDP (2009) |
+| **Bangladesh** | 3.4% of GDP (2009) |
+| **Barbados** | 6.8% of GDP (2009) |
+| **Belarus** | 5.8% of GDP (2009) |
+| **Belgium** | 11.8% of GDP (2009) |
+| **Belize** | 3.3% of GDP (2009) |
+| **Benin** | 4.2% of GDP (2009) |
+| **Bhutan** | 5.5% of GDP (2009) |
+| **Bolivia** | 4.8% of GDP (2009) |
+| **Bosnia and Herzegovina** | 10.9% of GDP (2009) |
+| **Botswana** | 10.3% of GDP (2009) |
+| **Brazil** | 9% of GDP (2009) |
+| **Brunei** | 3% of GDP (2009) |
+| **Bulgaria** | 7.4% of GDP (2009) |
+| **Burkina Faso** | 6.4% of GDP (2009) |
+| **Burma** | 2% of GDP (2009) |
+| **Burundi** | 13.1% of GDP (2009) |
+| **Cambodia** | 5.8% of GDP (2009) |
+| **Cameroon** | 5.6% of GDP (2009) |
+| **Canada** | 10.9% of GDP (2009) |
+| **Cape Verde** | 3.9% of GDP (2009) |
+| **Central African Republic** | 4.3% of GDP (2009) |
+| **Chad** | 7% of GDP (2009) |
+| **Chile** | 8.2% of GDP (2009) |
+| **China** | 4.6% of GDP (2009) |
+| **Colombia** | 6.4% of GDP (2009) |
+| **Comoros** | 3.4% of GDP (2009) |
+| **Congo, Democratic Republic of the** | 11.2% of GDP (2009) |
+| **Congo, Republic of the** | 3% of GDP (2009) |
+| **Cook Islands** | 4.4% of GDP (2009) |
+| **Costa Rica** | 10.5% of GDP (2009) |
+| **Cote d'Ivoire** | 5.1% of GDP (2009) |
+| **Croatia** | 7.8% of GDP (2009) |
+| **Cuba** | 11.8% of GDP (2009) |
+| **Cyprus** | 6% of GDP (2009) |
+| **Czech Republic** | 7.6% of GDP (2009) |
+| **Denmark** | 7% of GDP (2009) |
+| **Djibouti** | 6.4% of GDP (2009) |
+| **Dominica** | 5.9% of GDP (2009) |
+| **Dominican Republic** | 6.1% of GDP (2009) |
+| **Ecuador** | 5% of GDP (2009) |
+| **Egypt** | 6.4% of GDP (2009) |
+| **El Salvador** | 3.9% of GDP (2009) |
+| **Equatorial Guinea** | 2.2% of GDP (2009) |
+| **Eritrea** | 7% of GDP (2009) |
+| **Estonia** | 4.3% of GDP (2009) |
+| **Ethiopia** | 3.6% of GDP (2009) |
+| **Fiji** | 9.7% of GDP (2009) |
+| **Finland** | 11.7% of GDP (2009) |
+| **France** | 3.5% of GDP (2009) |
+| **Gabon** | 6% of GDP (2009) |
+| **Gambia, The** | 10.1% of GDP (2009) |
+| **Georgia** | 11.3% of GDP (2009) |
+| **Germany** | 8.1% of GDP (2009) |
+| **Ghana** | 10.6% of GDP (2009) |
+| **Greece** | 7.4% of GDP (2009) |
+| **Grenada** | 7.1% of GDP (2009) |
+| **Guatemala** | 5.7% of GDP (2009) |
+| **Guinea** | 6.1% of GDP (2009) |
+| **Guinea-Bissau** | 8.1% of GDP (2009) |
+| **Guyana** | 6.1% of GDP (2009) |
+| **Haiti** | 6% of GDP (2009) |
+| **Honduras** | 7.3% of GDP (2009) |
+| **Hungary** | 8.2% of GDP (2009) |
+| **Iceland** | 4.2% of GDP (2009) |
+| **India** | 2.4% of GDP (2009) |
+| **Indonesia** | 5.5% of GDP (2009) |
+| **Iran** | 3.9% of GDP (2009) |
+| **Iraq** | 9.7% of GDP (2009) |
+| **Ireland** | 7.6% of GDP (2009) |
+| **Israel** | 9.5% of GDP (2009) |
+| **Italy** | 5.1% of GDP (2009) |
+| **Jamaica** | 8.3% of GDP (2009) |
+| **Japan** | 9.3% of GDP (2009) |
+| **Jordan** | 4.5% of GDP (2009) |
+| **Kazakhstan** | 4.3% of GDP (2009) |
+| **Kenya** | 12.2% of GDP (2009) |
+| **Kiribati** | 3.3% of GDP (2009) |
+| **Korea, North** | 2% of GDP (2009) |
+| **Korea, South** | 6.5% of GDP (2009) |
+| **Kuwait** | 6.8% of GDP (2009) |
+| **Kyrgyzstan** | 4.1% of GDP (2009) |
+| **Laos** | 6.5% of GDP (2009) |
+| **Latvia** | 8.1% of GDP (2009) |
+| **Lebanon** | 8.2% of GDP (2009) |
+| **Lesotho** | 13.2% of GDP (2009) |
+| **Liberia** | 3.9% of GDP (2009) |
+| **Libya** | 6.6% of GDP (2009) |
+| **Lithuania** | 7.8% of GDP (2009) |
+| **Luxembourg** | 4.1% of GDP (2009) |
+| **Macedonia** | 6.9% of GDP (2009) |
+| **Madagascar** | 6.2% of GDP (2009) |
+| **Malawi** | 4.8% of GDP (2009) |
+| **Malaysia** | 8% of GDP (2009) |
+| **Maldives** | 5.6% of GDP (2009) |
+| **Mali** | 7.5% of GDP (2009) |
+| **Malta** | 16.5% of GDP (2009) |
+| **Marshall Islands** | 2.5% of GDP (2009) |
+| **Mauritania** | 5.7% of GDP (2009) |
+| **Mauritius** | 6.5% of GDP (2009) |
+| **Mexico** | 13.8% of GDP (2009) |
+| **Micronesia, Federated States of** | 3.9% of GDP (2009) |
+| **Moldova** | 11.9% of GDP (2009) |
+| **Monaco** | 4.7% of GDP (2009) |
+| **Mongolia** | 9.3% of GDP (2009) |
+| **Morocco** | 5.5% of GDP (2009) |
+| **Mozambique** | 5.7% of GDP (2009) |
+| **Namibia** | 5.9% of GDP (2009) |
+| **Nauru** | 12.1% of GDP (2009) |
+| **Nepal** | 5.8% of GDP (2009) |
+| **Netherlands** | 10.8% of GDP (2009) |
+| **New Zealand** | 9.7% of GDP (2009) |
+| **Nicaragua** | 9.5% of GDP (2009) |
+| **Niger** | 6.1% of GDP (2009) |
+| **Nigeria** | 5.8% of GDP (2009) |
+| **Niue** | 13.5% of GDP (2009) |
+| **Norway** | 9.7% of GDP (2009) |
+| **Oman** | 3% of GDP (2009) |
+| **Pakistan** | 2.6% of GDP (2009) |
+| **Palau** | 11.2% of GDP (2009) |
+| **Panama** | 8.3% of GDP (2009) |
+| **Papua New Guinea** | 3.1% of GDP (2009) |
+| **Paraguay** | 7.1% of GDP (2009) |
+| **Peru** | 4.6% of GDP (2009) |
+| **Philippines** | 3.8% of GDP (2009) |
+| **Poland** | 7.1% of GDP (2009) |
+| **Portugal** | 11.3% of GDP (2009) |
+| **Qatar** | 2.5% of GDP (2009) |
+| **Romania** | 5.4% of GDP (2009) |
+| **Russia** | 5.4% of GDP (2009) |
+| **Rwanda** | 9% of GDP (2009) |
+| **Saint Kitts and Nevis** | 6% of GDP (2009) |
+| **Saint Lucia** | 8.1% of GDP (2009) |
+| **Saint Vincent and the Grenadines** | 5.6% of GDP (2009) |
+| **Samoa** | 7% of GDP (2009) |
+| **San Marino** | 7.1% of GDP (2009) |
+| **Sao Tome and Principe** | 7.1% of GDP (2009) |
+| **Saudi Arabia** | 5% of GDP (2009) |
+| **Senegal** | 5.7% of GDP (2009) |
+| **Serbia** | 9.9% of GDP (2009) |
+| **Seychelles** | 4% of GDP (2009) |
+| **Sierra Leone** | 13.1% of GDP (2009) |
+| **Singapore** | 3.9% of GDP (2009) |
+| **Slovakia** | 8.5% of GDP (2009) |
+| **Slovenia** | 9.1% of GDP (2009) |
+| **Solomon Islands** | 5.4% of GDP (2009) |
+| **South Africa** | 8.5% of GDP (2009) |
+| **Spain** | 9.7% of GDP (2009) |
+| **Sri Lanka** | 4% of GDP (2009) |
+| **Sudan** | 7.3% of GDP (2009) |
+| **Suriname** | 7.6% of GDP (2009) |
+| **Swaziland** | 6.3% of GDP (2009) |
+| **Sweden** | 9.9% of GDP (2009) |
+| **Switzerland** | 11.3% of GDP (2009) |
+| **Syria** | 2.9% of GDP (2009) |
+| **Tajikistan** | 5.3% of GDP (2009) |
+| **Tanzania** | 5.1% of GDP (2009) |
+| **Thailand** | 4.3% of GDP (2009) |
+| **Timor-Leste** | 12.3% of GDP (2009) |
+| **Togo** | 5.9% of GDP (2009) |
+| **Tonga** | 6.2% of GDP (2009) |
+| **Trinidad and Tobago** | 5.6% of GDP (2009) |
+| **Tunisia** | 6.2% of GDP (2009) |
+| **Turkey** | 6.7% of GDP (2009) |
+| **Turkmenistan** | 2.3% of GDP (2009) |
+| **Tuvalu** | 9.9% of GDP (2009) |
+| **Uganda** | 8.2% of GDP (2009) |
+| **Ukraine** | 7% of GDP (2009) |
+| **United Arab Emirates** | 2.8% of GDP (2009) |
+| **United Kingdom** | 9.3% of GDP (2009) |
+| **United States** | 16.2% of GDP (2009) |
+| **Uruguay** | 7.4% of GDP (2009) |
+| **Uzbekistan** | 5.2% of GDP (2009) |
+| **Vanuatu** | 4% of GDP (2009) |
+| **Vietnam** | 7.2% of GDP (2009) |
+| **Yemen** | 5.6% of GDP (2009) |
+| **Zambia** | 4.8% of GDP (2009) |

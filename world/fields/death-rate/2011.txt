@@ -1,0 +1,242 @@
+CIA - The World Factbook -- Field Listing :: Death rate   
+
+This entry gives the average annual number of deaths during a year per 1,000 population at midyear; also known as crude death rate. The death rate, while only a rough indicator of the mortality situation in a country, accurately indicates the current mortality impact on population growth. This indicator is significantly affected by age distribution, and most countries will eventually show a rise in the overall death rate, in spite of continued decline in mortality at all ages, as declining fertility results in an aging population.
+
+| Country | Death rate(deaths/1,000 population) |
+| --- | --- |
+| **Afghanistan** | 17.39 deaths/1,000 population (July 2011 est.) |
+| **Albania** | 6.15 deaths/1,000 population (July 2011 est.) |
+| **Algeria** | 4.69 deaths/1,000 population (July 2011 est.) |
+| **American Samoa** | 4.1 deaths/1,000 population (July 2011 est.) |
+| **Andorra** | 6.35 deaths/1,000 population (July 2011 est.) |
+| **Angola** | 23.4 deaths/1,000 population (July 2011 est.) |
+| **Anguilla** | 4.44 deaths/1,000 population (July 2011 est.) |
+| **Antigua and Barbuda** | 5.73 deaths/1,000 population (July 2011 est.) |
+| **Argentina** | 7.38 deaths/1,000 population (July 2011 est.) |
+| **Armenia** | 8.46 deaths/1,000 population (July 2011 est.) |
+| **Aruba** | 7.84 deaths/1,000 population (July 2011 est.) |
+| **Australia** | 6.88 deaths/1,000 population (July 2011 est.) |
+| **Austria** | 10.14 deaths/1,000 population (July 2011 est.) |
+| **Azerbaijan** | 8.25 deaths/1,000 population (July 2011 est.) |
+| **Bahamas, The** | 6.88 deaths/1,000 population (July 2011 est.) |
+| **Bahrain** | 2.61 deaths/1,000 population (July 2011 est.) |
+| **Bangladesh** | 5.75 deaths/1,000 population (July 2011 est.) |
+| **Barbados** | 8.39 deaths/1,000 population (July 2011 est.) |
+| **Belarus** | 13.77 deaths/1,000 population (July 2011 est.) |
+| **Belgium** | 10.57 deaths/1,000 population (July 2011 est.) |
+| **Belize** | 5.87 deaths/1,000 population (July 2011 est.) |
+| **Benin** | 9 deaths/1,000 population (July 2011 est.) |
+| **Bermuda** | 7.57 deaths/1,000 population (July 2011 est.) |
+| **Bhutan** | 7.12 deaths/1,000 population (July 2011 est.) |
+| **Bolivia** | 6.85 deaths/1,000 population (July 2011 est.) |
+| **Bosnia and Herzegovina** | 8.8 deaths/1,000 population (July 2011 est.) |
+| **Botswana** | 10.57 deaths/1,000 population (July 2011 est.) |
+| **Brazil** | 6.36 deaths/1,000 population (July 2011 est.) |
+| **British Virgin Islands** | 4.49 deaths/1,000 population (July 2011 est.) |
+| **Brunei** | 3.35 deaths/1,000 population (July 2011 est.) |
+| **Bulgaria** | 14.32 deaths/1,000 population (July 2011 est.) |
+| **Burkina Faso** | 12.74 deaths/1,000 population (July 2011 est.) |
+| **Burma** | 8.16 deaths/1,000 population (July 2011 est.) |
+| **Burundi** | 9.61 deaths/1,000 population (July 2011 est.) |
+| **Cambodia** | 8.07 deaths/1,000 population (July 2011 est.) |
+| **Cameroon** | 11.83 deaths/1,000 population (July 2011 est.) |
+| **Canada** | 7.98 deaths/1,000 population (July 2011 est.) |
+| **Cape Verde** | 6.34 deaths/1,000 population (July 2011 est.) |
+| **Cayman Islands** | 5.1 deaths/1,000 population (July 2011 est.) |
+| **Central African Republic** | 15.01 deaths/1,000 population (July 2011 est.) |
+| **Chad** | 15.47 deaths/1,000 population (July 2011 est.) |
+| **Chile** | 5.97 deaths/1,000 population (July 2011 est.) |
+| **China** | 7.03 deaths/1,000 population (July 2011 est.) |
+| **Christmas Island** | NA |
+| **Cocos (Keeling) Islands** | NA |
+| **Colombia** | 5.26 deaths/1,000 population (July 2011 est.) |
+| **Comoros** | 7.23 deaths/1,000 population (July 2011 est.) |
+| **Congo, Democratic Republic of the** | 11.06 deaths/1,000 population (July 2011 est.) |
+| **Congo, Republic of the** | 11.49 deaths/1,000 population (July 2011 est.) |
+| **Cook Islands** | 7.37 deaths/1,000 population NA (July 2011 est.) |
+| **Costa Rica** | 4.33 deaths/1,000 population (July 2011 est.) |
+| **Cote d'Ivoire** | 10.16 deaths/1,000 population (July 2011 est.) |
+| **Croatia** | 11.91 deaths/1,000 population (July 2011 est.) |
+| **Cuba** | 7.47 deaths/1,000 population (July 2011 est.) |
+| **Curacao** | 8 deaths/1,000 population (2009) |
+| **Cyprus** | 6.45 deaths/1,000 population (July 2011 est.) |
+| **Czech Republic** | 10.86 deaths/1,000 population (July 2011 est.) |
+| **Denmark** | 10.19 deaths/1,000 population (July 2011 est.) |
+| **Djibouti** | 8.23 deaths/1,000 population (July 2011 est.) |
+| **Dominica** | 8.06 deaths/1,000 population (July 2011 est.) |
+| **Dominican Republic** | 4.35 deaths/1,000 population (July 2011 est.) |
+| **Ecuador** | 5 deaths/1,000 population (July 2011 est.) |
+| **Egypt** | 4.82 deaths/1,000 population (July 2011 est.) |
+| **El Salvador** | 5.62 deaths/1,000 population (July 2011 est.) |
+| **Equatorial Guinea** | 9.03 deaths/1,000 population (July 2011 est.) |
+| **Eritrea** | 8.08 deaths/1,000 population (July 2011 est.) |
+| **Estonia** | 13.55 deaths/1,000 population (July 2011 est.) |
+| **Ethiopia** | 11.04 deaths/1,000 population (July 2011 est.) |
+| **European Union** | 10.33 deaths/1,000 population (July 2010 est.) |
+| **Falkland Islands (Islas Malvinas)** | NA |
+| **Faroe Islands** | 8.67 deaths/1,000 population (July 2011 est.) |
+| **Fiji** | 5.9 deaths/1,000 population (July 2011 est.) |
+| **Finland** | 10.24 deaths/1,000 population (July 2011 est.) |
+| **France** | 8.76 deaths/1,000 population (July 2011 est.) |
+| **French Polynesia** | 4.87 deaths/1,000 population (July 2011 est.) |
+| **Gabon** | 13 deaths/1,000 population (July 2011 est.) |
+| **Gambia, The** | 7.65 deaths/1,000 population (July 2011 est.) |
+| **Gaza Strip** | 3.29 deaths/1,000 population (July 2011 est.) |
+| **Georgia** | 9.92 deaths/1,000 population (July 2011 est.) |
+| **Germany** | 10.92 deaths/1,000 population (July 2011 est.) |
+| **Ghana** | 8.75 deaths/1,000 population (July 2011 est.) |
+| **Gibraltar** | 8.18 deaths/1,000 population (July 2011 est.) |
+| **Greece** | 10.7 deaths/1,000 population (July 2011 est.) |
+| **Greenland** | 8.12 deaths/1,000 population (July 2011 est.) |
+| **Grenada** | 7.94 deaths/1,000 population (July 2011 est.) |
+| **Guam** | 4.71 deaths/1,000 population (July 2011 est.) |
+| **Guatemala** | 4.98 deaths/1,000 population (July 2011 est.) |
+| **Guernsey** | 8.44 deaths/1,000 population (July 2011 est.) |
+| **Guinea** | 10.45 deaths/1,000 population (July 2011 est.) |
+| **Guinea-Bissau** | 15.27 deaths/1,000 population (July 2011 est.) |
+| **Guyana** | 7.2 deaths/1,000 population (July 2011 est.) |
+| **Haiti** | 8.21 deaths/1,000 population |
+| | *note:* the preliminary 2011 numbers differ significantly from those of 2010, which were strongly influenced by the demographic effect of the January 2010 earthquake; the latest figures more closely correspond to those of 2009 (July 2011 est.) |
+| **Honduras** | 5.02 deaths/1,000 population (July 2011 est.) |
+| **Hong Kong** | 7.07 deaths/1,000 population (July 2011 est.) |
+| **Hungary** | 12.68 deaths/1,000 population (July 2011 est.) |
+| **Iceland** | 6.96 deaths/1,000 population (July 2011 est.) |
+| **India** | 7.48 deaths/1,000 population (July 2011 est.) |
+| **Indonesia** | 6.26 deaths/1,000 population (July 2011 est.) |
+| **Iran** | 5.94 deaths/1,000 population (July 2011 est.) |
+| **Iraq** | 4.82 deaths/1,000 population (July 2011 est.) |
+| **Ireland** | 6.34 deaths/1,000 population (July 2011 est.) |
+| **Isle of Man** | 9.92 deaths/1,000 population (July 2011 est.) |
+| **Israel** | 5.47 deaths/1,000 population (July 2011 est.) |
+| **Italy** | 9.84 deaths/1,000 population (July 2011 est.) |
+| **Jamaica** | 6.54 deaths/1,000 population (July 2011 est.) |
+| **Japan** | 10.09 deaths/1,000 population (July 2011 est.) |
+| **Jersey** | 7.52 deaths/1,000 population (July 2011 est.) |
+| **Jordan** | 2.69 deaths/1,000 population (July 2011 est.) |
+| **Kazakhstan** | 9.38 deaths/1,000 population (July 2011 est.) |
+| **Kenya** | 8.93 deaths/1,000 population (July 2011 est.) |
+| **Kiribati** | 7.4 deaths/1,000 population (July 2011 est.) |
+| **Korea, North** | 9.08 deaths/1,000 population (July 2011 est.) |
+| **Korea, South** | 6.26 deaths/1,000 population (July 2011 est.) |
+| **Kuwait** | 2.11 deaths/1,000 population (July 2011 est.) |
+| **Kyrgyzstan** | 6.79 deaths/1,000 population (July 2011 est.) |
+| **Laos** | 8.13 deaths/1,000 population (July 2011 est.) |
+| **Latvia** | 13.6 deaths/1,000 population (July 2011 est.) |
+| **Lebanon** | 6.54 deaths/1,000 population (July 2011 est.) |
+| **Lesotho** | 15.19 deaths/1,000 population (July 2011 est.) |
+| **Liberia** | 10.62 deaths/1,000 population (July 2011 est.) |
+| **Libya** | 3.4 deaths/1,000 population (July 2011 est.) |
+| **Liechtenstein** | 7.61 deaths/1,000 population (July 2011 est.) |
+| **Lithuania** | 11.33 deaths/1,000 population (July 2011 est.) |
+| **Luxembourg** | 8.48 deaths/1,000 population (July 2011 est.) |
+| **Macau** | 3.72 deaths/1,000 population (July 2011 est.) |
+| **Macedonia** | 8.91 deaths/1,000 population (July 2011 est.) |
+| **Madagascar** | 7.79 deaths/1,000 population (July 2011 est.) |
+| **Malawi** | 13.22 deaths/1,000 population (July 2011 est.) |
+| **Malaysia** | 4.93 deaths/1,000 population (July 2011 est.) |
+| **Maldives** | 3.71 deaths/1,000 population (July 2011 est.) |
+| **Mali** | 14.29 deaths/1,000 population (July 2011 est.) |
+| **Malta** | 8.6 deaths/1,000 population (July 2011 est.) |
+| **Marshall Islands** | 4.38 deaths/1,000 population (July 2011 est.) |
+| **Mauritania** | 8.83 deaths/1,000 population (July 2011 est.) |
+| **Mauritius** | 6.68 deaths/1,000 population (July 2011 est.) |
+| **Mexico** | 4.86 deaths/1,000 population (July 2011 est.) |
+| **Micronesia, Federated States of** | 4.35 deaths/1,000 population (July 2011 est.) |
+| **Moldova** | 10.74 deaths/1,000 population (July 2011 est.) |
+| **Monaco** | 8.28 deaths/1,000 population (July 2011 est.) |
+| **Mongolia** | 6.04 deaths/1,000 population (July 2011 est.) |
+| **Montenegro** | 8.89 deaths/1,000 population (July 2011 est.) |
+| **Montserrat** | 7.2 deaths/1,000 population (July 2011 est.) |
+| **Morocco** | 4.75 deaths/1,000 population (July 2011 est.) |
+| **Mozambique** | 13 deaths/1,000 population (July 2011 est.) |
+| **Namibia** | 12.95 deaths/1,000 population (July 2011 est.) |
+| **Nauru** | 6.11 deaths/1,000 population (July 2011 est.) |
+| **Nepal** | 6.81 deaths/1,000 population (July 2011 est.) |
+| **Netherlands** | 8.85 deaths/1,000 population (July 2011 est.) |
+| **New Caledonia** | 5.28 deaths/1,000 population (July 2011 est.) |
+| **New Zealand** | 7.15 deaths/1,000 population (July 2011 est.) |
+| **Nicaragua** | 5.03 deaths/1,000 population (July 2011 est.) |
+| **Niger** | 14.11 deaths/1,000 population (July 2011 est.) |
+| **Nigeria** | 16.06 deaths/1,000 population (July 2011 est.) |
+| **Niue** | NA |
+| **Norfolk Island** | NA |
+| **Northern Mariana Islands** | 3.28 deaths/1,000 population (July 2011 est.) |
+| **Norway** | 9.24 deaths/1,000 population (July 2011 est.) |
+| **Oman** | 3.45 deaths/1,000 population (July 2011 est.) |
+| **Pakistan** | 6.92 deaths/1,000 population (July 2011 est.) |
+| **Palau** | 7.87 deaths/1,000 population (July 2011 est.) |
+| **Panama** | 4.65 deaths/1,000 population (July 2011 est.) |
+| **Papua New Guinea** | 6.58 deaths/1,000 population (July 2011 est.) |
+| **Paraguay** | 4.57 deaths/1,000 population (July 2011 est.) |
+| **Peru** | 5.93 deaths/1,000 population (July 2011 est.) |
+| **Philippines** | 5.02 deaths/1,000 population (July 2011 est.) |
+| **Pitcairn Islands** | NA |
+| **Poland** | 10.17 deaths/1,000 population (July 2011 est.) |
+| **Portugal** | 10.8 deaths/1,000 population (July 2011 est.) |
+| **Puerto Rico** | 7.95 deaths/1,000 population (July 2011 est.) |
+| **Qatar** | 2.43 deaths/1,000 population (July 2011 est.) |
+| **Romania** | 11.81 deaths/1,000 population (July 2011 est.) |
+| **Russia** | 16.04 deaths/1,000 population (July 2011 est.) |
+| **Rwanda** | 9.88 deaths/1,000 population (July 2011 est.) |
+| **Saint Helena, Ascension, and Tristan da Cunha** | 6.88 deaths/1,000 population (July 2011 est.) |
+| **Saint Kitts and Nevis** | 7.1 deaths/1,000 population (July 2011 est.) |
+| **Saint Lucia** | 7 deaths/1,000 population (July 2011 est.) |
+| **Saint Pierre and Miquelon** | 8.83 deaths/1,000 population (July 2011 est.) |
+| **Saint Vincent and the Grenadines** | 6.98 deaths/1,000 population (July 2011 est.) |
+| **Samoa** | 5.34 deaths/1,000 population (July 2011 est.) |
+| **San Marino** | 7.89 deaths/1,000 population (July 2011 est.) |
+| **Sao Tome and Principe** | 8.18 deaths/1,000 population (July 2011 est.) |
+| **Saudi Arabia** | 3.33 deaths/1,000 population (July 2011 est.) |
+| **Senegal** | 9.26 deaths/1,000 population (July 2011 est.) |
+| **Serbia** | 13.85 deaths/1,000 population (July 2011 est.) |
+| **Seychelles** | 6.91 deaths/1,000 population (July 2011 est.) |
+| **Sierra Leone** | 11.73 deaths/1,000 population (July 2011 est.) |
+| **Singapore** | 4.95 deaths/1,000 population (July 2011 est.) |
+| **Sint Maarten** | 3 deaths/1,000 population (2009) |
+| **Slovakia** | 9.6 deaths/1,000 population (July 2011 est.) |
+| **Slovenia** | 10.87 deaths/1,000 population (July 2011 est.) |
+| **Solomon Islands** | 3.93 deaths/1,000 population (July 2011 est.) |
+| **Somalia** | 14.87 deaths/1,000 population (July 2011 est.) |
+| **South Africa** | 17.09 deaths/1,000 population (July 2011 est.) |
+| **Spain** | 8.8 deaths/1,000 population (July 2011 est.) |
+| **Sri Lanka** | 5.92 deaths/1,000 population (July 2011 est.) |
+| **Sudan** | 11 deaths/1,000 population (July 2011 est.) |
+| **Suriname** | 5.54 deaths/1,000 population (July 2011 est.) |
+| **Svalbard** | NA |
+| **Swaziland** | 14.6 deaths/1,000 population (July 2011 est.) |
+| **Sweden** | 10.2 deaths/1,000 population (July 2011 est.) |
+| **Switzerland** | 8.72 deaths/1,000 population (July 2011 est.) |
+| **Syria** | 3.68 deaths/1,000 population (July 2011 est.) |
+| **Taiwan** | 7 deaths/1,000 population (July 2011 est.) |
+| **Tajikistan** | 6.6 deaths/1,000 population (July 2011 est.) |
+| **Tanzania** | 12.09 deaths/1,000 population (July 2011 est.) |
+| **Thailand** | 7.29 deaths/1,000 population (July 2011 est.) |
+| **Timor-Leste** | 5.89 deaths/1,000 population (July 2011 est.) |
+| **Togo** | 7.96 deaths/1,000 population (July 2011 est.) |
+| **Tokelau** | NA |
+| **Tonga** | 4.9 deaths/1,000 population (July 2011 est.) |
+| **Trinidad and Tobago** | 8.29 deaths/1,000 population (July 2011 est.) |
+| **Tunisia** | 5.83 deaths/1,000 population (July 2011 est.) |
+| **Turkey** | 6.1 deaths/1,000 population (July 2011 est.) |
+| **Turkmenistan** | 6.24 deaths/1,000 population (July 2011 est.) |
+| **Turks and Caicos Islands** | 2.99 deaths/1,000 population (July 2011 est.) |
+| **Tuvalu** | 9.2 deaths/1,000 population (July 2011 est.) |
+| **Uganda** | 11.71 deaths/1,000 population (July 2011 est.) |
+| **Ukraine** | 15.74 deaths/1,000 population (July 2011 est.) |
+| **United Arab Emirates** | 2.06 deaths/1,000 population (July 2011 est.) |
+| **United Kingdom** | 9.33 deaths/1,000 population (July 2011 est.) |
+| **United States** | 8.38 deaths/1,000 population (July 2011 est.) |
+| **Uruguay** | 9.58 deaths/1,000 population (July 2011 est.) |
+| **Uzbekistan** | 5.29 deaths/1,000 population (July 2011 est.) |
+| **Vanuatu** | 7.43 deaths/1,000 population (July 2011 est.) |
+| **Venezuela** | 5.17 deaths/1,000 population (July 2011 est.) |
+| **Vietnam** | 5.96 deaths/1,000 population (July 2011 est.) |
+| **Virgin Islands** | 7.17 deaths/1,000 population (July 2011 est.) |
+| **Wallis and Futuna** | 4.68 deaths/1,000 population NA (July 2011 est.) |
+| **West Bank** | 3.58 deaths/1,000 population (July 2011 est.) |
+| **Western Sahara** | 8.96 deaths/1,000 population (July 2011 est.) |
+| **World** | 8.12 deaths/1,000 population |
+| | *note:* this rate results in about 107 worldwide deaths per minute or 1.8 deaths every second (July 2011 est.) |
+| **Yemen** | 7.02 deaths/1,000 population (July 2011 est.) |
+| **Zambia** | 12.61 deaths/1,000 population (July 2011 est.) |
+| **Zimbabwe** | 13.58 deaths/1,000 population (July 2011 est.) |

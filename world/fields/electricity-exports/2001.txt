@@ -1,0 +1,223 @@
+CIA -- The World Factbook -- Electricity - exports
+
+| Country | Electricity - exports |
+| --- | --- |
+| **Afghanistan** | 0 kWh (1999) |
+| **Albania** | 100 million kWh (1999) |
+| **Algeria** | 307 million kWh (1999) |
+| **American Samoa** | 0 kWh (1999) |
+| **Andorra** | NA kWh |
+| **Angola** | 0 kWh (1999) |
+| **Antigua and Barbuda** | 0 kWh (1999) |
+| **Argentina** | 1.08 billion kWh (1999) |
+| **Armenia** | 0 kWh (1999) |
+| **Aruba** | 0 kWh (1999) |
+| **Australia** | 0 kWh (1999) |
+| **Austria** | 13.507 billion kWh (1999) |
+| **Azerbaijan** | 600 million kWh (1999) |
+| **Bahamas, The** | 0 kWh (1999) |
+| **Bahrain** | 0 kWh (1999) |
+| **Bangladesh** | 0 kWh (1999) |
+| **Barbados** | 0 kWh (1999) |
+| **Belarus** | 2.62 billion kWh (1999) |
+| **Belgium** | 8.207 billion kWh (1999) |
+| **Belize** | 0 kWh (1999) |
+| **Benin** | 0 kWh (1999) |
+| **Bermuda** | 0 kWh (1999) |
+| **Bhutan** | 1.55 billion kWh (1999) |
+| **Bolivia** | 4 million kWh (1999) |
+| **Bosnia and Herzegovina** | 150 million kWh (1999) |
+| **Botswana** | 0 kWh (1999) |
+| **Brazil** | 5 million kWh (1999) |
+| **British Virgin Islands** | 0 kWh (1999) |
+| **Brunei** | 0 kWh (1999) |
+| **Bulgaria** | 2.2 billion kWh (1999) |
+| **Burkina Faso** | 0 kWh (1999) |
+| **Burma** | 0 kWh (1999) |
+| **Burundi** | 0 kWh (1999) |
+| **Cambodia** | 0 kWh (1999) |
+| **Cameroon** | 0 kWh (1999) |
+| **Canada** | 42.911 billion kWh (1999) |
+| **Cape Verde** | 0 kWh (1999) |
+| **Cayman Islands** | 0 kWh (1999) |
+| **Central African Republic** | 0 kWh (1999) |
+| **Chad** | 0 kWh (1999) |
+| **Chile** | 0 kWh (1999) |
+| **China** | 7.2 billion kWh (1999) |
+| **Colombia** | 27 million kWh (1999) |
+| **Comoros** | 0 kWh (1999) |
+| **Congo, Democratic Republic of the** | 404 million kWh (1999) |
+| **Congo, Republic of the** | 0 kWh (1999) |
+| **Cook Islands** | 0 kWh (1999) |
+| **Costa Rica** | 165 million kWh (1999) |
+| **Cote d'Ivoire** | 593 million kWh (1999) |
+| **Croatia** | 1 billion kWh (1999) |
+| **Cuba** | 0 kWh (1999) |
+| **Cyprus** | 0 kWh (1999) |
+| **Czech Republic** | 18.744 billion kWh (2000) |
+| **Denmark** | 7.28 billion kWh (1999) |
+| **Djibouti** | 0 kWh (1999) |
+| **Dominica** | 0 kWh (1999) |
+| **Dominican Republic** | 0 kWh (1999) |
+| **Ecuador** | 0 kWh (1999) |
+| **Egypt** | 0 kWh (1999) |
+| **El Salvador** | 208 million kWh (1999) |
+| **Equatorial Guinea** | 0 kWh (1999) |
+| **Eritrea** | 0 kWh NA kWh (1999) |
+| **Estonia** | 530 million kWh (1999) |
+| **Ethiopia** | 0 kWh (1999) |
+| **Falkland Islands (Islas Malvinas)** | 0 kWh (1999) |
+| **Faroe Islands** | 0 kWh (1999) |
+| **Fiji** | 0 kWh (1999) |
+| **Finland** | 232 million kWh (1999) |
+| **France** | 68.7 billion kWh (1999) |
+| **French Guiana** | 0 kWh (1999) |
+| **French Polynesia** | 0 kWh (1999) |
+| **Gabon** | 0 kWh (1999) |
+| **Gambia, The** | 0 kWh (1999) |
+| **Gaza Strip** | 0 kWh (1999) |
+| **Georgia** | 850 million kWh (1999) |
+| **Germany** | 39.5 billion kWh (1999) |
+| **Ghana** | 400 million kWh (1999) |
+| **Gibraltar** | 0 kWh (1999) |
+| **Greece** | 1.65 billion kWh (1999) |
+| **Greenland** | 0 kWh (1999) |
+| **Grenada** | 0 kWh (1999) |
+| **Guadeloupe** | 0 kWh (1999) |
+| **Guam** | 0 kWh (1999) |
+| **Guatemala** | 435 million kWh (1999) |
+| **Guernsey** | NA kWh |
+| **Guinea** | 0 kWh (1999) |
+| **Guinea-Bissau** | 0 kWh (1999) |
+| **Guyana** | 0 kWh (1999) |
+| **Haiti** | 0 kWh (1999) |
+| **Honduras** | 0 kWh (1999) |
+| **Hong Kong** | 633 million kWh (1999) |
+| **Hungary** | 2.35 billion kWh (1999) |
+| **Iceland** | 0 kWh (1999) |
+| **India** | 200 million kWh (1999) |
+| **Indonesia** | 0 kWh (1999) |
+| **Iran** | 0 kWh (1999) |
+| **Iraq** | 0 kWh (1999) |
+| **Ireland** | 50 million kWh (1999) |
+| **Israel** | 1.061 billion kWh (1999) |
+| **Italy** | 530 million kWh (1999) |
+| **Jamaica** | 0 kWh (1999) |
+| **Japan** | 0 kWh (1999) |
+| **Jordan** | 4 million kWh (1999) |
+| **Kazakhstan** | 200 million kWh (1999) |
+| **Kenya** | 0 kWh (1999) |
+| **Kiribati** | 0 kWh (1999) |
+| **Korea, North** | 0 kWh (1999) |
+| **Korea, South** | 0 kWh (1999) |
+| **Kuwait** | 0 kWh (1999) |
+| **Kyrgyzstan** | 2.02 billion kWh (1999) |
+| **Laos** | 705 million kWh (1999) |
+| **Latvia** | 400 million kWh (1999) |
+| **Lebanon** | 0 kWh (1999) |
+| **Lesotho** | 0 kWh (1999) |
+| **Liberia** | 0 kWh (1999) |
+| **Libya** | 0 kWh (1999) |
+| **Liechtenstein** | NA kWh |
+| **Lithuania** | 3.2 billion kWh (1999) |
+| **Luxembourg** | 655 million kWh (1999) |
+| **Macau** | 3 million kWh (1999) |
+| **Macedonia, The Former Yugoslav Republic of** | 30 million kWh (1999) |
+| **Madagascar** | 0 kWh (1999) |
+| **Malawi** | 3 million kWh (1999) |
+| **Malaysia** | 50 million kWh (1999) |
+| **Maldives** | 0 kWh (1999) |
+| **Mali** | 0 kWh (1999) |
+| **Malta** | 0 kWh (1999) |
+| **Martinique** | 0 kWh (1999) |
+| **Mauritania** | 0 kWh (1999) |
+| **Mauritius** | 0 kWh (1999) |
+| **Mexico** | 11 million kWh (1999) |
+| **Moldova** | 0 kWh (1999) |
+| **Mongolia** | 80 million kWh (1999) |
+| **Montserrat** | 0 kWh (1999) |
+| **Morocco** | 0 kWh (1999) |
+| **Mozambique** | 1.9 billion kWh (1999) |
+| **Namibia** | 56 million kWh (1999) |
+| **Nauru** | 0 kWh (1999) |
+| **Nepal** | 68 million kWh (1999) |
+| **Netherlands** | 3.97 billion kWh (1999) |
+| **Netherlands Antilles** | 0 kWh (1999) |
+| **New Caledonia** | 0 kWh (1999) |
+| **New Zealand** | 0 kWh (1999) |
+| **Nicaragua** | 20 million kWh (1999) |
+| **Niger** | 0 kWh (1999) |
+| **Nigeria** | 19 million kWh (1999) |
+| **Niue** | 0 kWh (1999) |
+| **Norway** | 8.28 billion kWh (1999) |
+| **Oman** | 0 kWh (1999) |
+| **Pakistan** | 0 kWh (1999) |
+| **Panama** | 95 million kWh (1999) |
+| **Papua New Guinea** | 0 kWh (1999) |
+| **Paraguay** | 46.03 billion kWh (1999) |
+| **Peru** | 0 kWh (1999) |
+| **Philippines** | 0 kWh (1999) |
+| **Poland** | 8.43 billion kWh (1999) |
+| **Portugal** | 4.49 billion kWh (1999) |
+| **Puerto Rico** | 0 kWh (1999) |
+| **Qatar** | 0 kWh (1999) |
+| **Reunion** | 0 kWh (1999) |
+| **Romania** | 1.935 billion kWh (1999) |
+| **Russia** | 20 billion kWh (1999) |
+| **Rwanda** | 1 million kWh (1999) |
+| **Saint Helena** | 0 kWh (1999) |
+| **Saint Kitts and Nevis** | 0 kWh (1999) |
+| **Saint Lucia** | 0 kWh (1999) |
+| **Saint Pierre and Miquelon** | 0 kWh (1999) |
+| **Saint Vincent and the Grenadines** | 0 kWh (1999) |
+| **Samoa** | 0 kWh (1999) |
+| **San Marino** | 0 kWh |
+| | *note:*  electric power supplied by Italy (1999) |
+| **Sao Tome and Principe** | 0 kWh (1999) |
+| **Saudi Arabia** | 0 kWh (1999) |
+| **Senegal** | 0 kWh (1999) |
+| **Seychelles** | 0 kWh (1999) |
+| **Sierra Leone** | 0 kWh (1999) |
+| **Singapore** | 0 kWh (1999) |
+| **Slovakia** | 930 million kWh (1999) |
+| **Slovenia** | 2.2 billion kWh (1999) |
+| **Solomon Islands** | 0 kWh (1999) |
+| **Somalia** | 0 kWh (1999) |
+| **South Africa** | 3.884 billion kWh (1999) |
+| **Spain** | 6.23 billion kWh (1999) |
+| **Sri Lanka** | 0 kWh (1999) |
+| **Sudan** | 0 kWh (1999) |
+| **Suriname** | 0 kWh (1999) |
+| **Swaziland** | 852 million kWh (1999) |
+| **Sweden** | 15.9 billion kWh (1999) |
+| **Switzerland** | 31.955 billion kWh (1999) |
+| **Syria** | 0 kWh (1999) |
+| **Tajikistan** | 3.9 billion kWh (1999) |
+| **Tanzania** | 0 kWh (1999) |
+| **Thailand** | 200 million kWh (1999) |
+| **Togo** | 0 kWh (1999) |
+| **Tonga** | 0 kWh (1999) |
+| **Trinidad and Tobago** | 0 kWh (1999) |
+| **Tunisia** | 19 million kWh (1999) |
+| **Turkey** | 350 million kWh (2000 est.) |
+| **Turkmenistan** | 4.1 billion kWh (1999) |
+| **Turks and Caicos Islands** | 0 kWh (1999) |
+| **Uganda** | 174 million kWh (1999) |
+| **Ukraine** | 2.3 billion kWh (1999) |
+| **United Arab Emirates** | 0 kWh (1999) |
+| **United Kingdom** | 265 million kWh (1999) |
+| **United States** | 14 billion kWh (1999) |
+| **Uruguay** | 215 million kWh (1999) |
+| **Uzbekistan** | 3.92 billion kWh (1999) |
+| **Vanuatu** | 0 kWh (1999) |
+| **Venezuela** | 0 kWh (1999) |
+| **Vietnam** | 0 kWh (1999) |
+| **Virgin Islands** | 0 kWh (1999) |
+| **Western Sahara** | 0 kWh (1999) |
+| **Yemen** | 0 kWh (1999) |
+| **Yugoslavia** | 960 million kWh (1999) |
+| **Zambia** | 1.6 billion kWh (1999) |
+| **Zimbabwe** | 0 kWh (1999) |
+| **Taiwan** | 0 kWh (1999) |
+
+

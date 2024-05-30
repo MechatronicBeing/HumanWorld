@@ -1,0 +1,238 @@
+CIA -- The World Factbook -- Imports - partners
+
+| Country | Background |
+| --- | --- |
+| **Afghanistan** | FSU, Pakistan, Iran, Japan, Singapore, India, South Korea, Germany |
+| **Albania** | Italy 37%, Greece 28%, Turkey 6%, Germany 6%, Bulgaria 3% (2000) |
+| **Algeria** | France 30%, Italy 9%, Germany 7%, Spain 6%, US 5%, Turkey 5% (1999) |
+| **American Samoa** | US 62%, Japan 9%, NZ 7%, Australia 11%, Fiji 4%, other 7% |
+| **Andorra** | Spain 48%, France 35%, US 2.3% (1998) |
+| **Angola** | South Korea 16%, Portugal 15%, US 13%, South Africa 10%, France 8% (1999) |
+| **Anguilla** | NA |
+| **Antigua and Barbuda** | US 27%, UK 16%, Canada 4%, OECS 3% |
+| **Argentina** | EU 28%, US 22%, Brazil 21% (1999 est.) |
+| **Armenia** | Russia 17%, US 11%, Belgium 11%, Iran 10%, UK, Turkey (1999) |
+| **Aruba** | US 63%, Netherlands 11%, Netherlands Antilles 3%, Japan (1999) |
+| **Australia** | EU 24%, US 22%, Japan 14%, ASEAN 13% (1999) |
+| **Austria** | EU 70.3% (Germany 42.5%, Italy 7.9%, France 5.3%), US 5.4%, Switzerland 3.0%, Hungary 2.8% (1999) |
+| **Azerbaijan** | Russia, Turkey, Ukraine, UAE, Iran |
+| **Bahamas, The** | US 27.3%, Italy 26.5%, Japan 10%, Denmark 4.2% (1998) |
+| **Bahrain** | France 20%, US 14%, UK 8%, Saudi Arabia 7%, Japan 5% (1999) |
+| **Bangladesh** | India 12.2%, Singapore 7.8%, Japan 6.7%, China 6.4%, US 5.3% (1999) |
+| **Barbados** | US 30.7%, Trinidad and Tobago 10.2%, Japan 8.3%, UK 7.7%, Canada 2.2% (1998) |
+| **Belarus** | Russia 54%, Ukraine, Germany, Poland, Lithuania (1998) |
+| **Belgium** | EU 71% (Germany 18%, Netherlands 17%, France 14%, UK 9%) (1999) |
+| **Belize** | US 58%, Mexico 12%, UK 5% EU 5%, Central America 5%, Caricom 4% (1998) |
+| **Benin** | France 38%, China 16%, UK 9%, Cote d'Ivoire 5% (1999) |
+| **Bermuda** | US 34%, UK 9%, Mexico 8% (1997) |
+| **Bhutan** | India 77%, Japan, UK, Germany, US |
+| **Bolivia** | US 32%, Japan 24%, Brazil 12%, Argentina 12%, Chile 7%, Peru 4%, Germany 3%, other 6% (1998) |
+| **Bosnia and Herzegovina** | Croatia, Slovenia, Germany, Italy |
+| **Botswana** | Southern African Customs Union (SACU) 76%, Europe 10%, South Korea 5% (1998) |
+| **Brazil** | US 24%, Argentina 12%, Germany 10%, Japan 5%, Italy 5% (1999) |
+| **British Virgin Islands** | Virgin Islands (US), Puerto Rico, US |
+| **Brunei** | Singapore 34%, UK 15%, Malaysia 15%, US 5% (1999) |
+| **Bulgaria** | Russia 24%, Germany 14%, Italy 8%, Greece 5%, France 5%, Romania 4%, Turkey 3%, US 3% (2000) |
+| **Burkina Faso** | Cote d'Ivoire 30%, France 28%, Spain 3%, Benelux 3% (1999) |
+| **Burma** | Singapore 28%, Thailand 12%, China 10%, Japan 10%, South Korea 9% (1999 est.) |
+| **Burundi** | Belgium 20%, Zambia 11%, Kenya 8%, South Africa 5%, France 4% (1999) |
+| **Cambodia** | Thailand 16%, Vietnam 9%, Japan 7%, Hong Kong 5%, China 5% (1997) |
+| **Cameroon** | France 29%, Germany 7%, US 6%, Japan 6% (2000 est.) |
+| **Canada** | US 76%, Japan 3%, UK, Germany, France, Mexico, Taiwan, South Korea (1999) |
+| **Cape Verde** | Portugal, Netherlands, France, UK, Spain, US |
+| **Cayman Islands** | US, Trinidad and Tobago, UK, Netherlands Antilles, Japan |
+| **Central African Republic** | France 35%, Cameroon 13%, Benelux, Cote d'Ivoire, Germany, Japan (1999) |
+| **Chad** | France 40%, Cameroon 13%, Nigeria 12%, India 5% (1999) |
+| **Chile** | US 24%, EU 23%, Argentina 11%, Brazil 6%, Japan 6%, Mexico 5% (1998) |
+| **China** | Japan 18%, Taiwan 11%, US 10%, South Korea 10%, Germany, Hong Kong, Russia, Malaysia (2000) |
+| **Christmas Island** | principally Australia |
+| **Cocos (Keeling) Islands** | Australia |
+| **Colombia** | US 35%, EU 16%, Andean Community of Nations 15%, Japan 5% (2000 est.) |
+| **Comoros** | France 38%, Pakistan 13%, South Africa 8%, Kenya 8% (1998) |
+| **Congo, Democratic Republic of the** | South Africa 28%, Benelux 14%, Nigeria 9%, Kenya 7%, China (1999) |
+| **Congo, Republic of the** | France 23%, US 9%, Belgium 8%, UK 7%, Italy (1997 est.) |
+| **Cook Islands** | NZ 70%, Australia 8% (1999) |
+| **Costa Rica** | US 56.4%, EU 9%, Mexico 5.4%, Japan 4.7%, (1999) |
+| **Cote d'Ivoire** | France 26%, Nigeria 10%, China 7%, Italy 5%, Germany 4% (1999) |
+| **Croatia** | Germany 18.5%, Italy 15.9%, Russia 8.6%, Slovenia 7.9%, Austria 7.1% (1999) |
+| **Cuba** | Spain 18%, Venezuela 13%, Canada 8% (1999) |
+| **Cyprus** | *Greek Cypriot area:* UK 11.2%, US 10.6%, Italy 8.8%, Greece 8.2%, Germany 6.7% (1999); Turkish Cypriot area: Turkey 58.6%, UK 12.5%, other EU 13% (1999) |
+| **Czech Republic** | Germany 37.5%, Slovakia 6.7%, Austria 6.2%, Italy 5.9%, France 5.4% (1999) |
+| **Denmark** | EU 72.1% (Germany 21.6%, Sweden 12.4%, UK 8.0%, Netherlands 8.0%, France 5.8%), Norway 4.2%, US 4.5% (1999) |
+| **Djibouti** | France 13%, Ethiopia 12%, Italy 9%, Saudi Arabia 6%, UK 6% (1998) |
+| **Dominica** | US 41%, Caricom countries 25%, UK 13%, Netherlands, Canada (1996 est.) |
+| **Dominican Republic** | US 25.7%, Venezuela 9.2%, Mexico 4%, Japan 3%, Panama 2.6% (1999 est.) |
+| **Ecuador** | US 30%, Colombia 13%, Venezuela 6%, Japan 5%, Venezuela 6%, Mexico 3% (1998) |
+| **Egypt** | EU 36%, US 14%, Afro-Asian countries 14%, Middle East 6% (1999) |
+| **El Salvador** | US 52%, Guatemala 9%, Mexico 6%, Costa Rica 3% (1999) |
+| **Equatorial Guinea** | US 35%, France 15%, Spain 10%, Cameroon 10%, UK 6% (1997) |
+| **Eritrea** | Italy 17.4%, UAE 16.2%, Germany 5.7%, UK 4.5%, Korea 4.4% (1998) |
+| **Estonia** | Finland 22.8%, Russia 13.5%, Sweden 9.3%, Germany 9.3%, Japan 4.7% (1999) |
+| **Ethiopia** | Saudi Arabia 28%, Italy 10%, Russia 7%, US 6% (1999 est.) |
+| **Falkland Islands (Islas Malvinas)** | UK, Japan, Chile, NZ |
+| **Faroe Islands** | Denmark 28%, Norway 26%, Germany 7%, UK 6% Sweden 5%, Iceland 4%, US (1999) |
+| **Fiji** | Australia 41.9%, US 14%, NZ 13.3%, Japan 4.8%, Taiwan 1.9% (1999) |
+| **Finland** | EU 60% (Germany 15%, Sweden 11%, UK 7%), US 8%, Russia 7%, Japan 6% (1999) |
+| **France** | EU 62% (Germany 16%, Belgium-Luxembourg 11%, Italy 9%, UK 8%), US 7% (2000 est.) |
+| **French Guiana** | France 52%, US 14%, Trinidad and Tobago 6% (1997) |
+| **French Polynesia** | France 53%, US 13%, Australia 10% (1999) |
+| **Gabon** | France 64%, US 4%, UK 2%, Netherlands 2%, (1999) |
+| **Gambia, The** | China (including Hong Kong) 49%, UK 15%, Netherlands 11.6%, Brazil 10%, Senegal 10% (1997) |
+| **Gaza Strip** | Israel, Egypt, West Bank |
+| **Georgia** | EU 22%, Russia 19%, Turkey 12%, US 12% (1999) |
+| **Germany** | EU 52.2% (France 10.5%, Netherlands 7.6%, Italy 7.4%, UK 6.9%, Belgium/Luxembourg 5.6%), US 8.1%, Japan 4.9% (1999) |
+| **Ghana** | UK, Nigeria, US, Germany, Italy, Spain (1998) |
+| **Gibraltar** | UK, Spain, Japan, Netherlands |
+| **Greece** | EU 66% (Italy 15%, Germany 15%, France 9%, UK 6%) (1999) |
+| **Greenland** | EU (mostly Denmark), Norway, US, Canada |
+| **Grenada** | US 31.2%, Caricom 23.6%, UK 13.8%, Japan 7.1% (1991) |
+| **Guadeloupe** | France 63%, Germany 4%, US 3%, Japan 2%, Netherlands Antilles 2% (1997) |
+| **Guam** | US 23%, Japan 19% |
+| **Guatemala** | US 42.8%, Mexico 9.9%, Japan 4.8%, El Salvador 4.3%, Venezuela 3.8% (1998) |
+| **Guernsey** | UK (regarded as internal trade) |
+| **Guinea** | France, Belgium, US, Cote d'Ivoire (1999) |
+| **Guinea-Bissau** | Portugal 26%, France 8%, Senegal 8%, Netherlands 7% (1998) |
+| **Guyana** | US 29%, Trinidad and Tobago 18%, Netherlands Antilles 16%, UK 7%, Japan (1999) |
+| **Haiti** | US 60%, EU 13% (1999) |
+| **Honduras** | US 47.1%, Guatemala 7.4%, El Salvador 5.9%, Mexico 4.8%, Japan 4.7% (1999) |
+| **Hong Kong** | China 44%, Japan 12%, US 7%, Taiwan 7%, South Korea, Singapore (1999) |
+| **Hungary** | Germany 25%, Russia 8%, Austria 7%, Italy 7% (2000) |
+| **Iceland** | EU 56% (Germany 12%, UK 9%, Denmark 8%, Sweden 6%), US 11%, Norway 10% (1999) |
+| **India** | US 9%, Benelux 8%, UK 6%, Saudi Arabia 6%, Japan 6%, Germany 5% (1999) |
+| **Indonesia** | Japan 12%, US 12%, Singapore 10%, Germany 6%, Australia 6%, South Korea 6%, Taiwan, China (1999 est.) |
+| **Iran** | Germany, South Korea, Italy, UAE, France, Japan |
+| **Iraq** | Egypt, Russia, France, Vietnam (2000) |
+| **Ireland** | EU 54% (UK 29%, Germany 6%, France 5%), US 18%, Japan 5%, Singapore 4% (2000) |
+| **Israel** | US 20%, Benelux 11%, Germany 8%, UK 8%, Switzerland 6%, Italy 5% (1999) |
+| **Italy** | EU 61% (Germany 19.3%, France 12.6%, Netherlands 6.3%, Spain 4.4%), US 5.0% (1999) |
+| **Jamaica** | US 47.8%, Caricom countries 12.4%, Latin America 7.2%, EU (excluding UK) 4.7% (1999) |
+| **Japan** | US 19%, China 14.5%, South Korea 5.4%, Taiwan 4.8%, Indonesia 4.3%, Australia 3.9% (2000 est.) |
+| **Jersey** | UK |
+| **Jordan** | Iraq, Germany, US, Japan, UK, Italy, Turkey, Malaysia, Syria, China |
+| **Kazakhstan** | Russia 37%, US, Uzbekistan, Turkey, UK, Germany, Ukraine, South Korea (1999) |
+| **Kenya** | UK 12%, UAE 8%, Japan 8%, US 7% (1999) |
+| **Kiribati** | Australia, Fiji, Japan, NZ, China (1999) |
+| **Korea, North** | China 33%, Japan 17%, Russia 5%, South Korea 4%, Germany 3% (1995) |
+| **Korea, South** | US 20.8%, Japan 20.2%, China 7.4%, Saudi Arabia 4.7%, Australia 3.9% (1999) |
+| **Kuwait** | US 15%, Japan 10%, UK 7%, Germany 7% (1999) |
+| **Kyrgyzstan** | Russia 18%, Kazakhstan 12%, US 9%, Germany 8%, Uzbekistan 8%, China (1999) |
+| **Laos** | Thailand, Japan, Vietnam, China, Singapore, Hong Kong |
+| **Latvia** | Russia 15%, Germany 10%, Finland 9%, Sweden 7% (1999) |
+| **Lebanon** | Italy 13%, France 11%, Germany 8%, US 7%, Switzerland 6%, Japan, UK, Syria (1999) |
+| **Lesotho** | South African Customs Union 90%, Asia 7% (1998) |
+| **Liberia** | South Korea 30%, Italy 24%, Japan 15%, Germany 9% (1999) |
+| **Libya** | Italy 24%, Germany 12%, Tunisia 9%, UK 7%, France 6%, South Korea 5% (1999) |
+| **Liechtenstein** | EU countries, Switzerland (1996) |
+| **Lithuania** | Russia 20.4%, Germany 16.5%, Denmark 3.8%, Belarus 2.2%, Latvia 2% (1999) |
+| **Luxembourg** | EU 81% (Belgium 35%, Germany 26%, France 12%, Netherlands 4%), US 9% (1999) |
+| **Macau** | China 36%, Hong Kong 18%, EU 13%, Taiwan 10%, Japan 7% (1999) |
+| **Macedonia, The Former Yugoslav Republic of** | Germany 13%, Ukraine 13%, Russia 10%, Yugoslavia 8%, Greece 8% (2000) |
+| **Madagascar** | France 34%, Hong Kong 6%, China 6%, Japan 5%, Singapore 4% (1999) |
+| **Malawi** | South Africa 43%, Zimbabwe 14%, UK 5%, Germany 5%, Zambia, Japan, US (1999) |
+| **Malaysia** | Japan 21%, US 17%, Singapore 14%, Taiwan 6%, South Korea 5%, Thailand 4%, China 4% (2000 est.) |
+| **Maldives** | Singapore, India, Sri Lanka, Japan, Canada |
+| **Mali** | Cote d'Ivoire 19%, France 19%, Senegal 4%, Benelux 3% (1999) |
+| **Malta** | France 19.1%, Italy 16.7%, UK 10.9%, Germany 10.0%, US 8.5% (1999) |
+| **Man, Isle of** | UK |
+| **Marshall Islands** | US, Japan, Australia, NZ, Guam, Singapore |
+| **Martinique** | France 62%, Venezuela 6%, Germany 4%, Italy 4%, US 3% (1997) |
+| **Mauritania** | France 27%, Benelux 9%, Germany 7%, Spain 7% (1998) |
+| **Mauritius** | France 14%, South Africa 11%, India 8%, UK 5% (1999 est.) |
+| **Mayotte** | France 66%, Africa 14%, Southeast Asia 11% (1997) |
+| **Mexico** | US 73.6%, Japan 3.7%, Germany 3.3%, Canada 2.3%, South Korea 2%, China 1.6%, Taiwan 1.2%, Italy 1%, Brazil 1% (2000 est.) |
+| **Micronesia, Federated States of** | US, Japan, Australia |
+| **Moldova** | Russia 21%, Romania 16%, Ukraine 14%, Germany 12%, Italy 6%, Belarus (1999) |
+| **Mongolia** | Russia 33%, China 21%, Japan 12%, South Korea 10%, US 4% (1999) |
+| **Montserrat** | US, UK, Trinidad and Tobago, Japan, Canada (1993) |
+| **Morocco** | France 32%, Spain 12%, Italy 7%, Germany 6%, UK 6% (1999) |
+| **Mozambique** | South Africa 44%, EU 16%, US 6.5%, Japan 6.5%, Pakistan 3%, India 3% (1999 est.) |
+| **Namibia** | South Africa 81%, US 4%, Germany 2% (1997 est.) |
+| **Nauru** | Australia, UK, NZ, Japan |
+| **Nepal** | India 31%, China/Hong Kong 16%, Singapore 14% (FY97/98) |
+| **Netherlands** | EU 56% (Germany 18%, Belgium-Luxembourg 10%, UK 5%, France 6%), US 9%, Central and Eastern Europe (2000) |
+| **Netherlands Antilles** | Venezuela 35.3%, US 21%, Mexico 9.8%, Italy 5.4%, Netherlands 4.8%, Brazil 3.1% (1998) |
+| **New Caledonia** | France 49%, Australia 14%, Singapore 6%, New Zealand 5%, US 5% (1999) |
+| **New Zealand** | Australia 24%, US 17%, Japan 12%, UK 4% (1999) |
+| **Nicaragua** | US 34.5%, Costa Rica 11.4%, Guatemala 7.3%, Panama 6.9%, Venezuela 5.9%, El Salvador 5.5% (1999) |
+| **Niger** | France 22%, Cote d'Ivoire 15%, Nigeria 8%, US 3% (1999) |
+| **Nigeria** | UK 11%, Germany 10%, US 9%, France 8%, China 6% (1999) |
+| **Niue** | NZ 59%, Fiji 20%, Japan 13%, Samoa, Australia, US |
+| **Norfolk Island** | Australia, other Pacific island countries, NZ, Asia, Europe |
+| **Northern Mariana Islands** | US, Japan |
+| **Norway** | EU 66% (Sweden 15%, Germany 12%, UK 9%, Denmark 7%), US 10%, Japan (1999) |
+| **Oman** | UAE 26% (largely reexports), Japan 16%, UK 9%, Italy 7%, Germany 6%, US (1999) |
+| **Pakistan** | Saudi Arabia 8%, UAE 8%, US 6%, Japan 6%, Malaysia 4% (FY99/00) |
+| **Palau** | US |
+| **Panama** | US 39%, Colon Free Zone 14%, Japan 8%, Ecuador 6%, Mexico 5% (1999) |
+| **Papua New Guinea** | Australia 53%, Singapore 13%, Japan 6%, US 4%, New Zealand 4%, Malaysia 4% (1999) |
+| **Paraguay** | Brazil, US, Argentina, Uruguay, EU, Hong Kong |
+| **Peru** | US 32%, EU 21%, Andean Community 6%, Mercosur 8%, Japan 5% (1999) |
+| **Philippines** | US 22%, Japan 20%, South Korea 8%, Singapore 6%, Taiwan 5%, Hong Kong 4% (1998 est.) |
+| **Pitcairn Islands** | NA |
+| **Poland** | Germany 25.2%, Italy 9.4%, France 6.8%, Russia 5.8%, UK 4.6%, Netherlands 3.7% (1999) |
+| **Portugal** | EU 78% (Spain 25%, Germany 15%, France 11%, Italy 8%, UK 7%, Netherlands 5%), US 3%, Japan 3% (1998) |
+| **Puerto Rico** | US 60% (2000) |
+| **Qatar** | UK 10%, Japan 8%, Germany 6%, US 6%, Italy 6% (1998) |
+| **Reunion** | France 64%, Bahrain 3%, Germany 3%, Italy 3% (1994) |
+| **Romania** | Italy 20%, Germany 19%, France 7%, Russia 6% (1999) |
+| **Russia** | Germany 13.8%, Belarus 10.7%, Ukraine 8.3%, US 7.9%, Kazakhstan 4.6%, Italy 3.8% (1999) |
+| **Rwanda** | Kenya, Tanzania, US, Benelux, France, India |
+| **Saint Helena** | UK, South Africa |
+| **Saint Kitts and Nevis** | US 42.4%, Caricom countries 17.2%, UK 11.3% (1995 est.) |
+| **Saint Lucia** | US 36%, Caricom countries 22%, UK 11%, Japan 5%, Canada 4% (1995) |
+| **Saint Pierre and Miquelon** | France 44%, Canada 40% (1999) |
+| **Saint Vincent and the Grenadines** | US 36%, Caricom countries 28%, UK 13% (1995) |
+| **Samoa** | New Zealand 37%, Australia 24%, Fiji 14%, US 14% (2000 est.) |
+| **Sao Tome and Principe** | Portugal 42%, US 20%, South Africa 6% (1998) |
+| **Saudi Arabia** | US 25%, Japan 10%, Germany 7%, Italy 5%, France, UK (1999) |
+| **Senegal** | France 30%, Nigeria 7%, Italy 6%, Thailand 5%, Germany 4%, US 4% (1999) |
+| **Seychelles** | South Africa, UK, China, Singapore, France, Italy |
+| **Sierra Leone** | UK 34%, US 8%, Italy 7%, Nigeria 5% (1999) |
+| **Singapore** | US 17%, Japan 17%, Malaysia 16%, Thailand 5%, China 5%, Taiwan 4%, Germany 3%, Saudi Arabia 3% (1999) |
+| **Slovakia** | EU 51.4% (Germany 26%, Italy 7.1%), Czech Republic 16.6%, Russia 11.9% (1999) |
+| **Slovenia** | Germany 21%, Italy 17%, France 11%, Austria 8%, Croatia 4%, Hungary, Russia (1999) |
+| **Solomon Islands** | Australia 38.5%, Singapore 15%, Japan 10.6%, NZ 6.2% (1999) |
+| **Somalia** | Djibouti 24%, Kenya 14%, Brazil 13%, Saudi Arabia 10%, India 9% (1999) |
+| **South Africa** | Germany, US, UK, Japan |
+| **Spain** | EU 68% (France 18%, Germany 16%, Italy 9%, UK 7%, Benelux 8%), US 8%, OPEC 5%, Latin America 4%, Japan 3% (1999) |
+| **Sri Lanka** | Japan 10%, India 9%, Hong Kong 8%, Singapore 8%, South Korea 6% (1999) |
+| **Sudan** | China 14.7%, Libya 14.7%, Saudi Arabia 8.9%, UK 8.7%, France 6.7% (1999) |
+| **Suriname** | US 35%, Netherlands 15%, Trinidad and Tobago 12%, Japan, UK, Brazil (1999) |
+| **Swaziland** | South Africa 84%, EU 5%, Japan 2%, Singapore 2% (1998) |
+| **Sweden** | EU 67% (Germany 18%, UK 10%, Denmark 7%, France 6%), Norway 8%, US 6% (1999) |
+| **Switzerland** | EU 77.7% (Germany 31.0%, France 12.0%, Italy 9.7%, Netherlands 5.1%, UK 5.7%), US 7.1%, Japan 2.9% (1999) |
+| **Syria** | France 11%, Italy 8%, Germany 7%, Turkey 5%, China 4% (1999 est.) |
+| **Tajikistan** | Europe 32.3%, Uzbekistan 29%, Russia 13.6% (1998) |
+| **Tanzania** | South Africa 8%, Japan 8%, UK 8%, Kenya 7%, India 6%, US 5% (1998) |
+| **Thailand** | Japan 26%, US 14%, Singapore 6%, China 5%, Malaysia 5%, Taiwan 5% (1999) |
+| **Togo** | Ghana, China, France, Cote d'Ivoire (1999) |
+| **Tokelau** | NZ |
+| **Tonga** | NZ 30%, Australia 19%, US 11%, UK 11%, Japan 3% (1997 est.) |
+| **Trinidad and Tobago** | US 39.8%, Venezuela 11.9%, EU 11%, Caricom 4.8% (1999) |
+| **Tunisia** | France 23%, Germany 23%, Italy 15%, Belgium 3% (1999) |
+| **Turkey** | Germany 13.1%, Italy 7.9%, US 7.2%, Russia 7.0%, France 6.6%, UK 5.0% (2000 est.) |
+| **Turkmenistan** | Ukraine, Turkey, Russia, Germany, US, Kazakhstan, Uzbekistan |
+| **Turks and Caicos Islands** | US, UK |
+| **Tuvalu** | Fiji, Australia, NZ |
+| **Uganda** | Kenya 27.5%, US 21.2%, France 19.3, UK 5%, India 4% (1999) |
+| **Ukraine** | Russia 42%, Europe 29%, US 3% (2000 est.) |
+| **United Arab Emirates** | Japan 9%, US 8%, UK 8%, Italy 6%, Germany, South Korea (1999) |
+| **United Kingdom** | EU 53% (Germany 14%, France 9%, Netherlands 7%), US 13%, Japan 5% (1999) |
+| **United States** | Canada 19%, Japan 11%, Mexico 11%, China 8%, Germany 5%, UK, Taiwan (2000) |
+| **Uruguay** | MERCOSUR partners 43%, EU 20%, US 11% (1999 est.) |
+| **Uzbekistan** | Russia 14%, South Korea 14%, Germany 11%, US 8%, Turkey 4%, Kazakhstan 4% (1999) |
+| **Vanuatu** | Japan 52%, Australia 20%, New Caledonia, Singapore, New Zealand, France, Fiji (1997 est.) |
+| **Venezuela** | US 53%, Japan, Colombia, Italy, Germany, France, Brazil, Canada (1999) |
+| **Vietnam** | Japan, Singapore, South Korea, Taiwan, China, Thailand, Hong Kong, Malaysia, Indonesia, France, US, Sweden |
+| **Virgin Islands** | US, Puerto Rico |
+| **Wallis and Futuna** | France 97%, Australia 2%, New Zealand 1% |
+| **West Bank** | Israel, Jordan, Gaza Strip |
+| **Western Sahara** | Morocco claims and administers Western Sahara, so trade partners are included in overall Moroccan accounts |
+| **World** | in value, about 75% of imports by the developed countries |
+| **Yemen** | Saudi Arabia 10%, UAE 8%, US 7%, France 7%, Italy 6% (1999) |
+| **Yugoslavia** | Germany, Italy, Russia, The Former Yugoslav Republic of Macedonia (1998) |
+| **Zambia** | South Africa 48%, Saudi Arabia, UK, Zimbabwe (1997) |
+| **Zimbabwe** | South Africa 46%, UK 6%, China 4%, Germany 4%, US 3% (1999 est.) |
+| **Taiwan** | Japan 27.5%, US 17.9%, Europe 13.6% (2000) |
+
+

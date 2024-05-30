@@ -1,0 +1,225 @@
+Field Listing :: Electricity - installed generating capacity :: The World Factbook
+
+This entry is the total capacity of currently installed generators, expressed in kilowatts (kW), to produce electricity. A 10-kilowatt (kW) generator will produce 10 kilowatt hours (kWh) of electricity, if it runs continuously for one hour.
+
+| Country | Electricity - installed generating capacity |
+| --- | --- |
+| **Afghanistan** | 634,100 kW (2016 est.) |
+| **Albania** | 2.109 million kW (2016 est.) |
+| **Algeria** | 19.27 million kW (2016 est.) |
+| **American Samoa** | 43,000 kW (2016 est.) |
+| **Andorra** | 520,000 kW (2010 est.) |
+| **Angola** | 2.613 million kW (2016 est.) |
+| **Antigua and Barbuda** | 124,000 kW (2016 est.) |
+| **Argentina** | 38.35 million kW (2016 est.) |
+| **Armenia** | 4.08 million kW (2016 est.) |
+| **Aruba** | 296,000 kW (2016 est.) |
+| **Australia** | 65.56 million kW (2016 est.) |
+| **Austria** | 24.79 million kW (2016 est.) |
+| **Azerbaijan** | 7.876 million kW (2016 est.) |
+| **Bahamas, The** | 577,000 kW (2016 est.) |
+| **Bahrain** | 3.928 million kW (2016 est.) |
+| **Bangladesh** | 11.9 million kW (2016 est.) |
+| **Barbados** | 269,000 kW (2016 est.) |
+| **Belarus** | 10.04 million kW (2016 est.) |
+| **Belgium** | 21.56 million kW (2016 est.) |
+| **Belize** | 198,000 kW (2016 est.) |
+| **Benin** | 321,000 kW (2016 est.) |
+| **Bermuda** | 171,000 kW (2016 est.) |
+| **Bhutan** | 1.632 million kW (2016 est.) |
+| **Bolivia** | 2.764 million kW (2016 est.) |
+| **Bosnia and Herzegovina** | 4.676 million kW (2016 est.) |
+| **Botswana** | 735,000 kW (2016 est.) |
+| **Brazil** | 150.8 million kW (2016 est.) |
+| **British Virgin Islands** | 45,200 kW (2016 est.) |
+| **Brunei** | 821,000 kW (2016 est.) |
+| **Bulgaria** | 10.75 million kW (2016 est.) |
+| **Burkina Faso** | 342,400 kW (2016 est.) |
+| **Burma** | 5.205 million kW (2016 est.) |
+| **Burundi** | 68,000 kW (2016 est.) |
+| **Cabo Verde** | 162,500 kW (2016 est.) |
+| **Cambodia** | 1.697 million kW (2016 est.) |
+| **Cameroon** | 1.558 million kW (2016 est.) |
+| **Canada** | 143.5 million kW (2016 est.) |
+| **Cayman Islands** | 132,000 kW (2016 est.) |
+| **Central African Republic** | 38,300 kW (2016 est.) |
+| **Chad** | 48,200 kW (2016 est.) |
+| **Chile** | 24.53 million kW (2016 est.) |
+| **China** | 1.653 billion kW (2016 est.) |
+| **Colombia** | 16.89 million kW (2016 est.) |
+| **Comoros** | 27,000 kW (2016 est.) |
+| **Congo, Democratic Republic of the** | 2.587 million kW (2016 est.) |
+| **Congo, Republic of the** | 591,500 kW (2016 est.) |
+| **Cook Islands** | 14,000 kW (2016 est.) |
+| **Costa Rica** | 3.584 million kW (2016 est.) |
+| **Cote d'Ivoire** | 1.914 million kW (2016 est.) |
+| **Croatia** | 4.921 million kW (2016 est.) |
+| **Cuba** | 6.998 million kW (2016 est.) |
+| **Cyprus** | 1.77 million kW (2016 est.) |
+| **Czechia** | 21.63 million kW (2016 est.) |
+| **Denmark** | 14.34 million kW (2016 est.) |
+| **Djibouti** | 130,300 kW (2016 est.) |
+| **Dominica** | 27,800 kW (2016 est.) |
+| **Dominican Republic** | 3.839 million kW (2016 est.) |
+| **Ecuador** | 8.192 million kW (2016 est.) |
+| **Egypt** | 45.12 million kW (2016 est.) |
+| **El Salvador** | 1.983 million kW (2016 est.) |
+| **Equatorial Guinea** | 331,000 kW (2016 est.) |
+| **Eritrea** | 160,700 kW (2016 est.) |
+| **Estonia** | 2.578 million kW (2016 est.) |
+| **Eswatini** | 295,900 kW (2016 est.) |
+| **Ethiopia** | 2.784 million kW (2016 est.) |
+| **European Union** | 975 million kW (2015 est.) |
+| **Falkland Islands (Islas Malvinas)** | 12,100 kW (2016 est.) |
+| **Faroe Islands** | 128,300 kW (2016 est.) |
+| **Fiji** | 338,000 kW (2016 est.) |
+| **Finland** | 16.27 million kW (2016 est.) |
+| **France** | 130.8 million kW (2016 est.) |
+| **French Polynesia** | 253,000 kW (2016 est.) |
+| **Gabon** | 671,000 kW (2016 est.) |
+| **Gambia, The** | 117,000 kW (2016 est.) |
+| **Georgia** | 4.641 million kW (2016 est.) |
+| **Germany** | 208.5 million kW (2016 est.) |
+| **Ghana** | 3.801 million kW (2016 est.) |
+| **Gibraltar** | 43,000 kW (2016 est.) |
+| **Greece** | 19.17 million kW (2016 est.) |
+| **Greenland** | 187,000 kW (2016 est.) |
+| **Grenada** | 51,100 kW (2016 est.) |
+| **Guam** | 560,000 kW (2016 est.) |
+| **Guatemala** | 4.605 million kW (2016 est.) |
+| **Guinea** | 550,000 kW (2016 est.) |
+| **Guinea-Bissau** | 28,300 kW (2016 est.) |
+| **Guyana** | 428,000 kW (2016 est.) |
+| **Haiti** | 332,000 kW (2016 est.) |
+| **Honduras** | 2.546 million kW (2016 est.) |
+| **Hong Kong** | 12.63 million kW (2016 est.) |
+| **Hungary** | 8.639 million kW (2016 est.) |
+| **Iceland** | 2.772 million kW (2016 est.) |
+| **India** | 367.8 million kW (2016 est.) |
+| **Indonesia** | 61.43 million kW (2016 est.) |
+| **Iran** | 77.6 million kW (2016 est.) |
+| **Iraq** | 27.09 million kW (2016 est.) |
+| **Ireland** | 9.945 million kW (2016 est.) |
+| **Israel** | 17.59 million kW (2016 est.) |
+| **Italy** | 114.2 million kW (2016 est.) |
+| **Jamaica** | 1.078 million kW (2016 est.) |
+| **Japan** | 295.9 million kW (2016 est.) |
+| **Jordan** | 4.764 million kW (2016 est.) |
+| **Kazakhstan** | 20.15 million kW (2016 est.) |
+| **Kenya** | 2.401 million kW (2016 est.) |
+| **Kiribati** | 11,000 kW (2016 est.) |
+| **Korea, North** | 10.01 million kW (2016 est.) |
+| **Korea, South** | 111.2 million kW (2016 est.) |
+| **Kosovo** | 1.573 million kW (2016 est.) |
+| **Kuwait** | 18.89 million kW (2016 est.) |
+| **Kyrgyzstan** | 4.046 million kW (2016 est.) |
+| **Laos** | 6.94 million kW (2016 est.) |
+| **Latvia** | 2.932 million kW (2016 est.) |
+| **Lebanon** | 2.346 million kW (2016 est.) |
+| **Lesotho** | 80,400 kW (2016 est.) |
+| **Liberia** | 151,000 kW (2016 est.) |
+| **Libya** | 9.46 million kW (2016 est.) |
+| **Lithuania** | 3.71 million kW (2016 est.) |
+| **Luxembourg** | 1.709 million kW (2016 est.) |
+| **Macau** | 472,000 kW (2016 est.) |
+| **Madagascar** | 675,400 kW (2016 est.) |
+| **Malawi** | 375,000 kW (2016 est.) |
+| **Malaysia** | 33 million kW (2016 est.) |
+| **Maldives** | 278,000 kW (2016 est.) |
+| **Mali** | 590,000 kW (2016 est.) |
+| **Malta** | 575,100 kW (2016 est.) |
+| **Marshall Islands** | 52,000 kW (2016 est.) |
+| **Mauritania** | 558,000 kW (2016 est.) |
+| **Mauritius** | 894,000 kW (2016 est.) |
+| **Mexico** | 72.56 million kW (2016 est.) |
+| **Micronesia, Federated States of** | 18,000 kW (2015 est.) |
+| **Moldova** | 515,000 kW (2016 est.) |
+| | *note:* excludes Transnistria |
+| **Mongolia** | 1.134 million kW (2016 est.) |
+| **Montenegro** | 890,000 kW (2016 est.) |
+| **Montserrat** | 5,000 kW (2016 est.) |
+| **Morocco** | 8.303 million kW (2016 est.) |
+| **Mozambique** | 2.626 million kW (2016 est.) |
+| **Namibia** | 535,500 kW (2016 est.) |
+| **Nauru** | 7,000 kW (2016 est.) |
+| **Nepal** | 943,100 kW (2016 est.) |
+| **Netherlands** | 34.17 million kW (2016 est.) |
+| **New Caledonia** | 996,200 kW (2016 est.) |
+| **New Zealand** | 9.301 million kW (2016 est.) |
+| **Nicaragua** | 1.551 million kW (2016 est.) |
+| **Niger** | 184,000 kW (2016 est.) |
+| **Nigeria** | 10.52 million kW (2016 est.) |
+| **Niue** | 2,300 kW (2016 est.) |
+| **North Macedonia** | 1.828 million kW (2016 est.) |
+| **Norway** | 33.86 million kW (2016 est.) |
+| **Oman** | 8.167 million kW (2016 est.) |
+| **Pakistan** | 26.9 million kW (2016 est.) |
+| **Panama** | 3.4 million kW (2016 est.) |
+| **Papua New Guinea** | 900,900 kW (2016 est.) |
+| **Paraguay** | 8.87 million kW (2016 est.) |
+| **Peru** | 14.73 million kW (2016 est.) |
+| **Philippines** | 22.13 million kW (2016 est.) |
+| **Poland** | 38.11 million kW (2016 est.) |
+| **Portugal** | 20.56 million kW (2016 est.) |
+| **Puerto Rico** | 6.294 million kW (2016 est.) |
+| **Qatar** | 8.796 million kW (2016 est.) |
+| **Romania** | 23.94 million kW (2016 est.) |
+| **Russia** | 244.9 million kW (2016 est.) |
+| **Rwanda** | 191,000 kW (2016 est.) |
+| **Saint Helena, Ascension, and Tristan da Cunha** | 8,000 kW (2016 est.) |
+| **Saint Kitts and Nevis** | 64,200 kW (2016 est.) |
+| **Saint Lucia** | 89,000 kW (2016 est.) |
+| **Saint Pierre and Miquelon** | 27,600 kW (2016 est.) |
+| **Saint Vincent and the Grenadines** | 54,000 kW (2016 est.) |
+| **Samoa** | 45,000 kW (2016 est.) |
+| **Sao Tome and Principe** | 18,100 kW (2016 est.) |
+| **Saudi Arabia** | 82.94 million kW (2016 est.) |
+| **Senegal** | 977,000 kW (2016 est.) |
+| **Serbia** | 7.342 million kW (2016 est.) |
+| **Seychelles** | 88,000 kW (2016 est.) |
+| **Sierra Leone** | 113,300 kW (2016 est.) |
+| **Singapore** | 13.35 million kW (2016 est.) |
+| **Slovakia** | 7.644 million kW (2016 est.) |
+| **Slovenia** | 3.536 million kW (2016 est.) |
+| **Solomon Islands** | 38,000 kW (2016 est.) |
+| **Somalia** | 85,000 kW (2016 est.) |
+| **South Africa** | 50.02 million kW (2016 est.) |
+| **South Sudan** | 80,400 kW (2016 est.) |
+| **Spain** | 105.9 million kW (2016 est.) |
+| **Sri Lanka** | 3.998 million kW (2016 est.) |
+| **Sudan** | 3.437 million kW (2016 est.) |
+| **Suriname** | 504,000 kW (2016 est.) |
+| **Sweden** | 40.29 million kW (2016 est.) |
+| **Switzerland** | 20.84 million kW (2016 est.) |
+| **Syria** | 9.058 million kW (2016 est.) |
+| **Taiwan** | 49.52 million kW (2016 est.) |
+| **Tajikistan** | 5.508 million kW (2016 est.) |
+| **Tanzania** | 1.457 million kW (2016 est.) |
+| **Thailand** | 44.89 million kW (2016 est.) |
+| **Timor-Leste** | 600 kW NA (2016 est.) |
+| **Togo** | 230,000 kW (2016 est.) |
+| **Tonga** | 20,300 kW (2016 est.) |
+| **Trinidad and Tobago** | 2.608 million kW (2016 est.) |
+| **Tunisia** | 5.768 million kW (2016 est.) |
+| **Turkey** | 78.5 million kW (2016 est.) |
+| **Turkmenistan** | 4.001 million kW (2016 est.) |
+| **Turks and Caicos Islands** | 82,000 kW (2016 est.) |
+| **Tuvalu** | 5,100 kW (2011 est.) |
+| **Uganda** | 1.02 million kW (2016 est.) |
+| **Ukraine** | 57.28 million kW (2016 est.) |
+| **United Arab Emirates** | 28.91 million kW (2016 est.) |
+| **United Kingdom** | 97.06 million kW (2016 est.) |
+| **United States** | 1.087 billion kW (2016 est.) |
+| **Uruguay** | 4.808 million kW (2016 est.) |
+| **Uzbekistan** | 12.96 million kW (2016 est.) |
+| **Vanuatu** | 37,000 kW (2016 est.) |
+| **Venezuela** | 31 million kW (2016 est.) |
+| **Vietnam** | 40.77 million kW (2016 est.) |
+| **Virgin Islands** | 325,000 kW (2016 est.) |
+| **West Bank** | 170,000 kW (2016 est.) |
+| | *note:* includes Gaza Strip |
+| **World** | 6.386 billion kW (2015 est.) |
+| **Yemen** | 1.819 million kW (2016 est.) |
+| **Zambia** | 2.573 million kW (2016 est.) |
+| **Zimbabwe** | 2.122 million kW (2016 est.) |
+

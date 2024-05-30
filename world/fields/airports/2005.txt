@@ -1,0 +1,265 @@
+CIA - The World Factbook -- Field Listing - Airports
+
+| Country | Airports |
+| --- | --- |
+| **Afghanistan** | 47 (2004 est.) |
+| **Albania** | 11 (2004 est.) |
+| **Algeria** | 137 (2004 est.) |
+| **American Samoa** | 3 (2004 est.) |
+| **Andorra** | none (2004 est.) |
+| **Angola** | 243 (2004 est.) |
+| **Anguilla** | 3 (2004 est.) |
+| **Antarctica** | there are no developed public access airports or landing facilities; 30 stations, operated by 16 national governments party to the Antarctic Treaty, have restricted aircraft landing facilities for either helicopters or fixed-wing aircraft; commercial enterprises operate two additional aircraft landing facilities; helicopter pads are available at 27 stations; runways at 15 locations are gravel, sea-ice, blue-ice, or compacted snow suitable for landing wheeled, fixed-wing aircraft; of these, one is greater than 3 km in length, six are between 2 km and 3 km in length, three are between 1 km and 2 km in length, three are less than 1 km in length, and two are of unknown length; snow surface skiways, limited to use by ski-equipped, fixed-wing aircraft, are available at another 15 locations; of these, four are greater than 3 km in length, three are between 2 km and 3 km in length, two are between 1 km and 2 km in length, two are less than 1 km in length, and four are of unknown length; aircraft landing facilities generally subject to severe restrictions and limitations resulting from extreme seasonal and geographic conditions; aircraft landing facilities do not meet ICAO standards; advance approval from the respective governmental or nongovernmental operating organization required for using their facilities; landed aircraft are subject to inspection in accordance with Article 7, Antarctic Treaty; guidelines for the operation of aircraft near concentrations of birds in Antarctica were adopted in 2004; relevant legal instruments and authorization procedures adopted by states party to the Antarctic Treaty regulating access to the Antarctic Treaty area, that is to all areas between 60 and 90 degrees of latitude South, have to be complied with (see information under "Legal System"); an Antarctic Flight Information Manual (AFIM) providing up-to-date details of Antarctic air facilities and procedures is maintained and published by the Council of Managers of National Antarctic Programs (2004 est.) |
+| **Antigua and Barbuda** | 3 (2004 est.) |
+| **Argentina** | 1,334 (2004 est.) |
+| **Armenia** | 16 (2004 est.) |
+| **Aruba** | 1 (2004 est.) |
+| **Australia** | 448 (2004 est.) |
+| **Austria** | 55 (2004 est.) |
+| **Azerbaijan** | 50 (2004 est.) |
+| **Bahamas, The** | 63 (2004 est.) |
+| **Bahrain** | 4 (2004 est.) |
+| **Baker Island** | 1 abandoned World War II runway of 1,665 m, completely covered with vegetation and unusable (2004 est.) |
+| **Bangladesh** | 16 (2004 est.) |
+| **Barbados** | 1 (2004 est.) |
+| **Belarus** | 133 (2004 est.) |
+| **Belgium** | 43 (2004 est.) |
+| **Belize** | 43 (2004 est.) |
+| **Benin** | 5 (2004 est.) |
+| **Bermuda** | 1 (2004 est.) |
+| **Bhutan** | 2 (2004 est.) |
+| **Bolivia** | 1,065 (2004 est.) |
+| **Bosnia and Herzegovina** | 27 (2004 est.) |
+| **Botswana** | 85 (2004 est.) |
+| **Brazil** | 4,136 (2004 est.) |
+| **British Indian Ocean Territory** | 1 (2004 est.) |
+| **British Virgin Islands** | 3 (2004 est.) |
+| **Brunei** | 2 (2004 est.) |
+| **Bulgaria** | 213 (2004 est.) |
+| **Burkina Faso** | 33 (2004 est.) |
+| **Burma** | 78 (2004 est.) |
+| **Burundi** | 8 (2004 est.) |
+| **Cambodia** | 20 (2004 est.) |
+| **Cameroon** | 47 (2004 est.) |
+| **Canada** | 1,326 (2004 est.) |
+| **Cape Verde** | 7 |
+| | *note:* 3 airports are reported to be nonoperational (2004 est.) |
+| **Cayman Islands** | 3 (2004 est.) |
+| **Central African Republic** | 50 (2004 est.) |
+| **Chad** | 50 (2004 est.) |
+| **Chile** | 364 (2004 est.) |
+| **China** | 472 (2004 est.) |
+| **Christmas Island** | 1 (2004 est.) |
+| **Cocos (Keeling) Islands** | 1 (2004 est.) |
+| **Colombia** | 980 (2004 est.) |
+| **Comoros** | 4 (2004 est.) |
+| **Congo, Democratic Republic of the** | 230 (2004 est.) |
+| **Congo, Republic of the** | 32 (2004 est.) |
+| **Cook Islands** | 9 (2004 est.) |
+| **Costa Rica** | 149 (2004 est.) |
+| **Cote d'Ivoire** | 37 (2004 est.) |
+| **Croatia** | 68 (2004 est.) |
+| **Cuba** | 170 (2004 est.) |
+| **Cyprus** | 17 (2004 est.) |
+| **Czech Republic** | 120 (2004 est.) |
+| **Denmark** | 97 (2004 est.) |
+| **Djibouti** | 13 (2004 est.) |
+| **Dominica** | 2 (2004 est.) |
+| **Dominican Republic** | 31 (2004 est.) |
+| **East Timor** | 8 (2004 est.) |
+| **Ecuador** | 205 (2004 est.) |
+| **Egypt** | 87 (2004 est.) |
+| **El Salvador** | 73 (2004 est.) |
+| **Equatorial Guinea** | 4 (2004 est.) |
+| **Eritrea** | 17 (2004 est.) |
+| **Estonia** | 29 (2004 est.) |
+| **Ethiopia** | 83 (2004 est.) |
+| **Europa Island** | 1 (2004 est.) |
+| **European Union** | 3,130 (2004 est.) |
+| **Falkland Islands (Islas Malvinas)** | 5 (2004 est.) |
+| **Faroe Islands** | 1 (2004 est.) |
+| **Fiji** | 28 (2004 est.) |
+| **Finland** | 148 (2004 est.) |
+| **France** | 478 (2004 est.) |
+| **French Guiana** | 11 (2004 est.) |
+| **French Polynesia** | 50 (2004 est.) |
+| **French Southern and Antarctic Lands** | none (2004 est.) |
+| **Gabon** | 56 (2004 est.) |
+| **Gambia, The** | 1 (2004 est.) |
+| **Gaza Strip** | 2 (2001) |
+| | *note:* includes Gaza International Airport (GIA), inaugurated on 24 November 1998 as part of agreements stipulated in the September 1995 Oslo II Accord and the 23 October 1998 Wye River Memorandum; GIA has been largely closed since October 2000 by Israeli orders and its runway was destroyed by the Israeli Defense Forces in December 2001 (2004 est.) |
+| **Georgia** | 30 (2004 est.) |
+| **Germany** | 550 (2004 est.) |
+| **Ghana** | 12 (2004 est.) |
+| **Gibraltar** | 1 (2004 est.) |
+| **Glorioso Islands** | 1 (2004 est.) |
+| **Greece** | 80 (2004 est.) |
+| **Greenland** | 14 (2004 est.) |
+| **Grenada** | 3 (2004 est.) |
+| **Guadeloupe** | 9 (2004 est.) |
+| **Guam** | 5 (2004 est.) |
+| **Guatemala** | 452 (2004 est.) |
+| **Guernsey** | 2 (2004 est.) |
+| **Guinea** | 16 (2004 est.) |
+| **Guinea-Bissau** | 28 (2004 est.) |
+| **Guyana** | 49 (2004 est.) |
+| **Haiti** | 13 (2004 est.) |
+| **Holy See (Vatican City)** | none (2004 est.) |
+| **Honduras** | 115 (2004 est.) |
+| **Hong Kong** | 4 (2004 est.) |
+| **Howland Island** | airstrip constructed in 1937 for scheduled refueling stop on the round-the-world flight of Amelia EARHART and Fred NOONAN - they left Lae, New Guinea, for Howland Island, but were never seen again; the airstrip is no longer serviceable (2004 est.) |
+| **Hungary** | 44 (2004 est.) |
+| **Iceland** | 98 (2004 est.) |
+| **India** | 333 (2004 est.) |
+| **Indonesia** | 667 (2004 est.) |
+| **Iran** | 305 (2004 est.) |
+| **Iraq** | 111; note - unknown number were damaged during the March-April 2003 war (2004 est.) |
+| **Ireland** | 36 (2004 est.) |
+| **Israel** | 51 (2004 est.) |
+| **Italy** | 134 (2004 est.) |
+| **Jamaica** | 35 (2004 est.) |
+| **Jan Mayen** | 1 (2004 est.) |
+| **Japan** | 174 (2004 est.) |
+| **Jersey** | 1 (2004 est.) |
+| **Johnston Atoll** | 1 (2004 est.) |
+| **Jordan** | 17 (2004 est.) |
+| **Juan de Nova Island** | 1 (2004 est.) |
+| **Kazakhstan** | 314 (2004 est.) |
+| **Kenya** | 221 (2004 est.) |
+| **Kingman Reef** | lagoon was used as a halfway station between Hawaii and American Samoa by Pan American Airways for flying boats in 1937 and 1938 (2004 est.) |
+| **Kiribati** | 20 (2004 est.) |
+| **Korea, North** | 78 (2004 est.) |
+| **Korea, South** | 179 (2004 est.) |
+| **Kuwait** | 7 (2004 est.) |
+| **Kyrgyzstan** | 52 (2004 est.) |
+| **Laos** | 44 (2004 est.) |
+| **Latvia** | 50 (2004 est.) |
+| **Lebanon** | 8 (2004 est.) |
+| **Lesotho** | 28 (2004 est.) |
+| **Liberia** | 53 (2004 est.) |
+| **Libya** | 139 (2004 est.) |
+| **Liechtenstein** | none (2004 est.) |
+| **Lithuania** | 102 (2004 est.) |
+| **Luxembourg** | 2 (2004 est.) |
+| **Macau** | 1 (2004 est.) |
+| **Macedonia** | 17 (2004 est.) |
+| **Madagascar** | 116 (2004 est.) |
+| **Malawi** | 42 (2004 est.) |
+| **Malaysia** | 117 (2004 est.) |
+| **Maldives** | 5 (2004 est.) |
+| **Mali** | 28 (2004 est.) |
+| **Malta** | 1 (2004 est.) |
+| **Man, Isle of** | 1 (2004 est.) |
+| **Marshall Islands** | 15 (2004 est.) |
+| **Martinique** | 2 (2004 est.) |
+| **Mauritania** | 24 (2004 est.) |
+| **Mauritius** | 6 (2004 est.) |
+| **Mayotte** | 1 (2004 est.) |
+| **Mexico** | 1,833 (2004 est.) |
+| **Micronesia, Federated States of** | 6 (2004 est.) |
+| **Midway Islands** | 3 (2004 est.) |
+| **Moldova** | 23 (2004 est.) |
+| **Monaco** | none; linked to the airport at Nice, France by helicopter service (2004 est.) |
+| **Mongolia** | 46 (2004 est.) |
+| **Montserrat** | 1 (2004 est.) |
+| **Morocco** | 63 (2004 est.) |
+| **Mozambique** | 158 (2004 est.) |
+| **Namibia** | 136 (2004 est.) |
+| **Nauru** | 1 (2004 est.) |
+| **Nepal** | 46 (2004 est.) |
+| **Netherlands** | 27 (2004 est.) |
+| **Netherlands Antilles** | 5 (2004 est.) |
+| **New Caledonia** | 25 (2004 est.) |
+| **New Zealand** | 116 (2004 est.) |
+| **Nicaragua** | 176 (2004 est.) |
+| **Niger** | 27 (2004 est.) |
+| **Nigeria** | 70 (2004 est.) |
+| **Niue** | 1 (2004 est.) |
+| **Norfolk Island** | 1 (2004 est.) |
+| **Northern Mariana Islands** | 5 (2004 est.) |
+| **Norway** | 101 (2004 est.) |
+| **Oman** | 136 (2004 est.) |
+| **Pakistan** | 131 (2004 est.) |
+| **Palau** | 3 (2004 est.) |
+| **Palmyra Atoll** | 1 (2004 est.) |
+| **Panama** | 105 (2004 est.) |
+| **Papua New Guinea** | 571 (2004 est.) |
+| **Paracel Islands** | 1 (2004 est.) |
+| **Paraguay** | 878 (2004 est.) |
+| **Peru** | 234 (2004 est.) |
+| **Philippines** | 255 (2004 est.) |
+| **Pitcairn Islands** | none (2004 est.) |
+| **Poland** | 123 (2004 est.) |
+| **Portugal** | 65 (2004 est.) |
+| **Puerto Rico** | 30 (2004 est.) |
+| **Qatar** | 4 (2004 est.) |
+| **Reunion** | 2 (2004 est.) |
+| **Romania** | 61 (2004 est.) |
+| **Russia** | 2,586 (2004 est.) |
+| **Rwanda** | 9 (2004 est.) |
+| **Saint Helena** | 1 (2004 est.) |
+| **Saint Kitts and Nevis** | 2 (2004 est.) |
+| **Saint Lucia** | 2 (2004 est.) |
+| **Saint Pierre and Miquelon** | 2 (2004 est.) |
+| **Saint Vincent and the Grenadines** | 6 (2004 est.) |
+| **Samoa** | 4 (2004 est.) |
+| **San Marino** | none (2004 est.) |
+| **Sao Tome and Principe** | 2 (2004 est.) |
+| **Saudi Arabia** | 201 (2004 est.) |
+| **Senegal** | 20 (2004 est.) |
+| **Serbia and Montenegro** | 44 (2004 est.) |
+| **Seychelles** | 15 (2004 est.) |
+| **Sierra Leone** | 10 (2004 est.) |
+| **Singapore** | 10 (2004 est.) |
+| **Slovakia** | 34 (2004 est.) |
+| **Slovenia** | 14 (2004 est.) |
+| **Solomon Islands** | 33 (2004 est.) |
+| **Somalia** | 60 (2004 est.) |
+| **South Africa** | 728 (2004 est.) |
+| **South Georgia and the South Sandwich Islands** | none (2004 est.) |
+| **Spain** | 156 (2004 est.) |
+| **Spratly Islands** | 3 (2004 est.) |
+| **Sri Lanka** | 14 (2004 est.) |
+| **Sudan** | 75 (2004 est.) |
+| **Suriname** | 46 (2004 est.) |
+| **Svalbard** | 4 (2004 est.) |
+| **Swaziland** | 18 (2004 est.) |
+| **Sweden** | 254 (2004 est.) |
+| **Switzerland** | 65 (2004 est.) |
+| **Syria** | 92 (2004 est.) |
+| **Taiwan** | 40 (2004 est.) |
+| **Tajikistan** | 55 (2004 est.) |
+| **Tanzania** | 123 (2004 est.) |
+| **Thailand** | 109 (2004 est.) |
+| **Togo** | 9 (2004 est.) |
+| **Tokelau** | none; lagoon landings are possible by amphibious aircraft (2004 est.) |
+| **Tonga** | 6 (2004 est.) |
+| **Trinidad and Tobago** | 6 (2004 est.) |
+| **Tromelin Island** | 1 (2004 est.) |
+| **Tunisia** | 30 (2004 est.) |
+| **Turkey** | 119 (2004 est.) |
+| **Turkmenistan** | 53 (2004 est.) |
+| **Turks and Caicos Islands** | 8 (2004 est.) |
+| **Tuvalu** | 1 (2004 est.) |
+| **Uganda** | 29 (2004 est.) |
+| **Ukraine** | 656 (2004 est.) |
+| **United Arab Emirates** | 35 (2004 est.) |
+| **United Kingdom** | 471 (2004 est.) |
+| **United States** | 14,857 (2004 est.) |
+| **Uruguay** | 64 (2004 est.) |
+| **Uzbekistan** | 226 (2004 est.) |
+| **Vanuatu** | 30 (2004 est.) |
+| **Venezuela** | 369 (2004 est.) |
+| **Vietnam** | 24 (2004 est.) |
+| **Virgin Islands** | 2 (2004 est.) |
+| **Wake Island** | 1 (2004 est.) |
+| **Wallis and Futuna** | 2 (2004 est.) |
+| **West Bank** | 3 (2004 est.) |
+| **Western Sahara** | 11 (2004 est.) |
+| **World** | 49,973 (2004) |
+| **Yemen** | 44 (2004 est.) |
+| **Zambia** | 109 (2004 est.) |
+| **Zimbabwe** | 404 (2004 est.) |
+
+This page was last updated on 20 October, 2005
+ 

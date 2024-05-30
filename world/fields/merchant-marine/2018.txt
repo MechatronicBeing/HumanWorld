@@ -1,0 +1,367 @@
+Field Listing :: Merchant marine :: The World Factbook - Central Intelligence Agency
+
+Merchant marine may be defined as all ships engaged in the carriage of goods; or all commercial vessels (as opposed to all nonmilitary ships), which excludes tugs, fishing vessels, offshore oil rigs, etc. This entry contains information in four fields - total, ships by type, foreign-owned, and registered in other countries.
+Total includes the number of ships (1,000 GRT or over), total DWT for those ships, and total GRT for those ships. DWT or dead weight tonnage is the total weight of cargo, plus bunkers, stores, etc., that a ship can carry when immersed to the appropriate load line. GRT or gross register tonnage is a figure obtained by measuring the entire sheltered volume of a ship available for cargo and passengers and converting it to tons on the basis of 100 cubic feet per ton; there is no stable relationship between GRT and DWT.
+Ships by type includes a listing of barge carriers, bulk cargo ships, cargo ships, chemical tankers, combination bulk carriers, combination ore/oil carriers, container ships, liquefied gas tankers, livestock carriers, multifunctional large-load carriers, petroleum tankers, passenger ships, passenger/cargo ships, railcar carriers, refrigerated cargo ships, roll-on/roll-off cargo ships, short-sea passenger ships, specialized tankers, and vehicle carriers.
+Foreign-owned are ships that fly the flag of one country but belong to owners in another.
+Registered in other countries are ships that belong to owners in one country but fly the flag of another.
+
+| Country | Merchant marine |
+| --- | --- |
+| **Albania** | *total:* 57 (2017) |
+| | *by type:* bulk carrier 1, general cargo 49, other 7 (2017) |
+| **Algeria** | *total:* 110 (2017) |
+| | *by type:* bulk carrier 3, general cargo 13, oil tanker 9, other 85 (2017) |
+| **Angola** | *total:* 55 (2017) |
+| | *by type:* general cargo 14, oil tanker 9, other 32 (2017) |
+| **Anguilla** | *total:* 1 (2017) |
+| | *by type:* other 1 (2017) |
+| **Antigua and Barbuda** | *total:* 964 (2017) |
+| | *by type:* bulk carrier 36, container ship 238, general cargo 615, oil tanker 2, other 73 (2017) |
+| **Argentina** | *total:* 161 (2017) |
+| | *by type:* container ship 1, general cargo 9, oil tanker 27, other 124 (2017) |
+| **Australia** | *total:* 549 (2017) |
+| | *by type:* bulk carrier 4, general cargo 83, oil tanker 10, other 452 (2017) |
+| **Azerbaijan** | *total:* 311 (2017) |
+| | *by type:* general cargo 48, oil tanker 48, other 215 (2017) |
+| **Bahamas, The** | *total:* 1,440 (2017) |
+| | *by type:* bulk carrier 335, container ship 53, general cargo 98, oil tanker 284, other 670 (2017) |
+| **Bahrain** | *total:* 260 (2017) |
+| | *by type:* container ship 3, general cargo 11, oil tanker 4, other 242 (2017) |
+| **Bangladesh** | *total:* 306 (2017) |
+| | *by type:* bulk carrier 28, container ship 4, general cargo 75, oil tanker 110, other 89 (2017) |
+| **Barbados** | *total:* 112 (2017) |
+| | *by type:* bulk carrier 18, general cargo 71, oil tanker 2, other 21 (2017) |
+| **Belarus** | *total:* 4 (2017) |
+| | *by type:* other 4 (2017) |
+| **Belgium** | *total:* 185 (2017) |
+| | *by type:* bulk carrier 15, general cargo 15, oil tanker 20, other 135 (2017) |
+| **Belize** | *total:* 756 (2017) |
+| | *by type:* bulk carrier 53, container ship 3, general cargo 373, oil tanker 55, other 272 (2017) |
+| **Benin** | *total:* 6 (2017) |
+| | *by type:* other 6 (2017) |
+| **Bermuda** | *total:* 160 (2017) |
+| | *by type:* bulk carrier 10, container ship 8, general cargo 1, oil tanker 18, other 123 (2017) |
+| **Bolivia** | *total:* 55 (2017) |
+| | *by type:* general cargo 41, oil tanker 3, other 11 (2017) |
+| **Brazil** | *total:* 775 (2017) |
+| | *by type:* bulk carrier 20, container ship 18, general cargo 48, oil tanker 38, other 651 (2017) |
+| **British Virgin Islands** | *total:* 20 (2017) |
+| | *by type:* general cargo 4, other 16 (2017) |
+| **Brunei** | *total:* 106 (2018) |
+| | *by type:* general cargo 20, LNG tanker 5, other 81 (2018) |
+| **Bulgaria** | *total:* 80 (2017) |
+| | *by type:* bulk carrier 2, general cargo 18, oil tanker 8, other 52 (2017) |
+| **Burma** | *total:* 97 (2017) |
+| | *by type:* bulk carrier 1, general cargo 43, oil tanker 5, other 48 (2017) |
+| **Cabo Verde** | *total:* 42 (2017) |
+| | *by type:* general cargo 19, oil tanker 2, other 21 (2017) |
+| **Cambodia** | *total:* 442 (2017) |
+| | *by type:* container ship 3, general cargo 328, oil tanker 26, other 85 (2017) |
+| **Cameroon** | *total:* 19 (2017) |
+| | *by type:* general cargo 4, other 15 (2017) |
+| **Canada** | *total:* 639 (2017) |
+| | *by type:* bulk carrier 16, container ship 1, general cargo 88, oil tanker 15, other 519 (2017) |
+| **Cayman Islands** | *total:* 161 (2017) |
+| | *by type:* bulk carrier 29, general cargo 4, oil tanker 16, other 112 (2017) |
+| **Chile** | *total:* 211 (2017) |
+| | *by type:* bulk carrier 10, container ship 5, general cargo 54, oil tanker 12, other 130 (2017) |
+| **China** | *total:* 4,287 (2017) |
+| | *by type:* bulk carrier 1069, container ship 198, general cargo 697, oil tanker 480, other 1843 (2017) |
+| **Colombia** | *total:* 103 (2017) |
+| | *by type:* general cargo 17, oil tanker 9, other 77 (2017) |
+| **Comoros** | *total:* 203 (2017) |
+| | *by type:* bulk carrier 4, container ship 1, general cargo 86, oil tanker 26, other 86 (2017) |
+| **Congo, Democratic Republic of the** | *total:* 33 (2017) |
+| | *by type:* general cargo 18, oil tanker 1, other 14 (2017) |
+| **Congo, Republic of the** | *total:* 40 (2017) |
+| | *by type:* general cargo 27, oil tanker 2, other 11 (2017) |
+| **Cook Islands** | *total:* 218 (2017) |
+| | *by type:* bulk carrier 27, container ship 5, general cargo 102, oil tanker 17, other 67 (2017) |
+| **Costa Rica** | *total:* 10 (2017) |
+| | *by type:* general cargo 2, other 8 (2017) |
+| **Cote d'Ivoire** | *total:* 9 (2017) |
+| | *by type:* oil tanker 2, other 7 (2017) |
+| **Croatia** | *total:* 288 (2017) |
+| | *by type:* bulk carrier 17, general cargo 39, oil tanker 18, other 214 (2017) |
+| **Cuba** | *total:* 43 (2017) |
+| | *by type:* general cargo 11, oil tanker 3, other 29 (2017) |
+| **Curacao** | *total:* 92 (2017) |
+| | *by type:* general cargo 18, oil tanker 1, other 73 (2017) |
+| **Cyprus** | *total:* 1,022 (2017) |
+| | *by type:* bulk carrier 307, container ship 183, general cargo 164, oil tanker 57, other 311 (2017) |
+| **Denmark** | *total:* 654 (2017) |
+| | *by type:* bulk carrier 7, container ship 114, general cargo 77, oil tanker 75, other 381 (2017) |
+| **Djibouti** | *total:* 18 (2017) |
+| | *by type:* oil tanker 2, other 16 (2017) |
+| **Dominica** | *total:* 76 (2017) |
+| | *by type:* general cargo 24, oil tanker 15, other 37 (2017) |
+| **Dominican Republic** | *total:* 23 (2017) |
+| | *by type:* general cargo 2, other 21 (2017) |
+| **Ecuador** | *total:* 138 (2017) |
+| | *by type:* general cargo 6, oil tanker 37, other 95 (2017) |
+| **Egypt** | *total:* 399 (2017) |
+| | *by type:* bulk carrier 14, container ship 8, general cargo 33, oil tanker 36, other 308 (2017) |
+| **El Salvador** | *total:* 2 (2017) |
+| | *by type:* other 2 (2017) |
+| **Equatorial Guinea** | *total:* 40 (2017) |
+| | *by type:* container ship 1, general cargo 7, oil tanker 8, other 24 (2017) |
+| **Eritrea** | *total:* 9 (2017) |
+| | *by type:* general cargo 4, oil tanker 1, other 4 (2017) |
+| **Estonia** | *total:* 78 (2017) |
+| | *by type:* general cargo 7, oil tanker 5, other 66 (2017) |
+| **Ethiopia** | *total:* 11 (2017) |
+| | *by type:* general cargo 9, oil tanker 2 (2017) |
+| **Falkland Islands (Islas Malvinas)** | *total:* 3 (2017) |
+| | *by type:* general cargo 1, other 2 (2017) |
+| **Faroe Islands** | *total:* 96 (2017) |
+| | *by type:* container ship 2, general cargo 41, oil tanker 1, other 52 (2017) |
+| **Fiji** | *total:* 68 (2017) |
+| | *by type:* bulk carrier 6, general cargo 25, oil tanker 2, other 35 (2017) |
+| **Finland** | *total:* 267 (2017) |
+| | *by type:* bulk carrier 7, container ship 1, general cargo 92, oil tanker 5, other 162 (2017) |
+| **France** | *total:* 555 (2017) |
+| | *by type:* container ship 24, general cargo 72, oil tanker 28, other 431 (2017) |
+| | *note:* includes Monaco |
+| **French Polynesia** | *total:* 17 (2017) |
+| | *by type:* general cargo 8, other 9 (2017) |
+| **Gabon** | *total:* 27 (2017) |
+| | *by type:* general cargo 11, oil tanker 1, other 15 (2017) |
+| **Gambia, The** | *total:* 8 (2017) |
+| | *by type:* other 8 (2017) |
+| **Georgia** | *total:* 84 (2017) |
+| | *by type:* bulk carrier 1, general cargo 24, oil tanker 2, other 57 (2017) |
+| **Germany** | *total:* 614 (2017) |
+| | *by type:* bulk carrier 1, container ship 117, general cargo 87, oil tanker 34, other 375 (2017) |
+| **Ghana** | *total:* 44 (2017) |
+| | *by type:* general cargo 6, oil tanker 2, other 36 (2017) |
+| **Gibraltar** | *total:* 291 (2017) |
+| | *by type:* bulk carrier 8, container ship 31, general cargo 116, oil tanker 20, other 116 (2017) |
+| **Greece** | *total:* 1,364 (2017) |
+| | *by type:* bulk carrier 207, container ship 7, general cargo 127, oil tanker 423, other 600 (2017) |
+| **Greenland** | *total:* 8 (2017) |
+| | *by type:* general cargo 1, other 7 (2017) |
+| **Grenada** | *total:* 6 (2017) |
+| | *by type:* general cargo 3, other 3 (2017) |
+| **Guam** | *total:* 3 (2017) |
+| | *by type:* other 3 (2017) |
+| **Guatemala** | *total:* 9 (2017) |
+| | *by type:* oil tanker 1, other 8 (2017) |
+| **Guinea** | *total:* 1 (2017) |
+| | *by type:* other 1 (2017) |
+| **Guinea-Bissau** | *total:* 9 (2017) |
+| | *by type:* general cargo 5, other 4 (2017) |
+| **Guyana** | *total:* 55 (2017) |
+| | *by type:* general cargo 26, oil tanker 6, other 23 (2017) |
+| **Haiti** | *total:* 4 (2017) |
+| | *by type:* general cargo 3, other 1 (2017) |
+| **Honduras** | *total:* 552 (2017) |
+| | *by type:* container ship 1, general cargo 250, oil tanker 90, other 211 (2017) |
+| **Hong Kong** | *total:* 2,576 (2017) |
+| | *by type:* bulk carrier 1142, container ship 471, general cargo 226, oil tanker 346, other 391 (2017) |
+| **Iceland** | *total:* 33 (2017) |
+| | *by type:* general cargo 6, oil tanker 1, other 26 (2017) |
+| **India** | *total:* 1,674 (2017) |
+| | *by type:* bulk carrier 74, container ship 20, general cargo 571, oil tanker 126, other 883 (2017) |
+| **Indonesia** | *total:* 8,782 (2017) |
+| | *by type:* bulk carrier 81, container ship 194, general cargo 2142, oil tanker 544, other 5821 (2017) |
+| **Iran** | *total:* 739 (2017) |
+| | *by type:* bulk carrier 32, container ship 28, general cargo 340, oil tanker 26, other 313 (2017) |
+| **Iraq** | *total:* 77 (2017) |
+| | *by type:* general cargo 1, oil tanker 6, other 70 (2017) |
+| **Ireland** | *total:* 83 (2017) |
+| | *by type:* bulk carrier 9, general cargo 28, oil tanker 1, other 45 (2017) |
+| **Israel** | *total:* 42 (2017) |
+| | *by type:* container ship 5, general cargo 4, oil tanker 3, other 30 (2017) |
+| **Italy** | *total:* 1,430 (2017) |
+| | *by type:* bulk carrier 65, container ship 10, general cargo 145, oil tanker 135, other 1075 (2017) |
+| **Jamaica** | *total:* 41 (2017) |
+| | *by type:* bulk carrier 3, container ship 8, general cargo 11, other 19 (2017) |
+| **Japan** | *total:* 5,289 (2017) |
+| | *by type:* bulk carrier 150, container ship 20, general cargo 1963, oil tanker 714, other 2442 (2017) |
+| **Jordan** | *total:* 31 (2017) |
+| | *by type:* general cargo 9, oil tanker 1, other 21 (2017) |
+| **Kazakhstan** | *total:* 119 (2017) |
+| | *by type:* general cargo 4, oil tanker 10, other 105 (2017) |
+| **Kenya** | *total:* 20 (2017) |
+| | *by type:* oil tanker 2, other 18 (2017) |
+| **Kiribati** | *total:* 133 (2017) |
+| | *by type:* bulk carrier 5, general cargo 51, oil tanker 22, other 55 (2017) |
+| **Korea, North** | *total:* 248 (2017) |
+| | *by type:* bulk carrier 6, container ship 3, general cargo 184, oil tanker 25, other 30 (2017) |
+| **Korea, South** | *total:* 1,907 (2017) |
+| | *by type:* bulk carrier 100, container ship 89, general cargo 394, oil tanker 201, other 1123 (2017) |
+| **Kuwait** | *total:* 161 (2017) |
+| | *by type:* container ship 1, general cargo 18, oil tanker 27, other 115 (2017) |
+| **Laos** | *total:* 1 (2017) |
+| | *by type:* general cargo 1 (2017) |
+| **Latvia** | *total:* 65 (2017) |
+| | *by type:* general cargo 15, oil tanker 8, other 42 (2017) |
+| **Lebanon** | *total:* 54 (2017) |
+| | *by type:* bulk carrier 1, container ship 1, general cargo 39, oil tanker 1, other 12 (2017) |
+| **Liberia** | *total:* 3,296 (2017) |
+| | *by type:* bulk carrier 984, container ship 892, general cargo 120, oil tanker 750, other 550 (2017) |
+| **Libya** | *total:* 98 (2017) |
+| | *by type:* general cargo 2, oil tanker 16, other 80 (2017) |
+| **Lithuania** | *total:* 60 (2017) |
+| | *by type:* container ship 2, general cargo 27, oil tanker 2, other 29 (2017) |
+| **Luxembourg** | *total:* 152 (2017) |
+| | *by type:* bulk carrier 3, container ship 21, general cargo 2, other 126 (2017) |
+| **Macau** | *total:* 1 (2017) |
+| | *by type:* other 1 (2017) |
+| **Madagascar** | *total:* 28 (2017) |
+| | *by type:* general cargo 15, oil tanker 3, other 10 (2017) |
+| **Malaysia** | *total:* 1,690 (2017) |
+| | *by type:* bulk carrier 12, container ship 26, general cargo 188, oil tanker 129, other 1335 (2017) |
+| **Maldives** | *total:* 66 (2017) |
+| | *by type:* bulk carrier 1, container ship 1, general cargo 27, oil tanker 14, other 23 (2017) |
+| **Malta** | *total:* 2,170 (2017) |
+| | *by type:* bulk carrier 660, container ship 285, general cargo 317, oil tanker 330, other 578 (2017) |
+| **Marshall Islands** | *total:* 3,199 (2017) |
+| | *by type:* bulk carrier 1263, container ship 260, general cargo 80, oil tanker 775, other 821 (2017) |
+| **Mauritania** | *total:* 6 (2017) |
+| | *by type:* bulk carrier 1, general cargo 2, other 3 (2017) |
+| **Mauritius** | *total:* 28 (2017) |
+| | *by type:* general cargo 2, oil tanker 3, other 23 (2017) |
+| **Mexico** | *total:* 622 (2017) |
+| | *by type:* bulk carrier 5, general cargo 9, oil tanker 32, other 576 (2017) |
+| **Micronesia, Federated States of** | *total:* 88 (2017) |
+| | *by type:* bulk carrier 2, general cargo 63, oil tanker 6, other 17 (2017) |
+| **Moldova** | *total:* 172 (2017) |
+| | *by type:* bulk carrier 5, container ship 2, general cargo 130, oil tanker 8, other 27 (2017) |
+| **Mongolia** | *total:* 261 (2017) |
+| | *by type:* bulk carrier 8, container ship 5, general cargo 101, oil tanker 67, other 80 (2017) |
+| **Montenegro** | *total:* 12 (2017) |
+| | *by type:* bulk carrier 4, other 8 (2017) |
+| **Morocco** | *total:* 82 (2017) |
+| | *by type:* container ship 6, general cargo 6, oil tanker 1, other 69 (2017) |
+| **Mozambique** | *total:* 27 (2017) |
+| | *by type:* general cargo 10, other 17 (2017) |
+| **Namibia** | *total:* 9 (2017) |
+| | *by type:* general cargo 1, other 8 (2017) |
+| **Netherlands** | *total:* 1,244 (2017) |
+| | *by type:* bulk carrier 11, container ship 42, general cargo 597, oil tanker 15, other 579 (2017) |
+| **New Caledonia** | *total:* 9 (2017) |
+| | *by type:* general cargo 2, other 7 (2017) |
+| **New Zealand** | *total:* 103 (2017) |
+| | *by type:* general cargo 16, oil tanker 4, other 83 (2017) |
+| **Nicaragua** | *total:* 5 (2017) |
+| | *by type:* general cargo 1, oil tanker 1, other 3 (2017) |
+| **Niger** | *total:* 2 (2017) |
+| | *by type:* oil tanker 1, other 1 (2017) |
+| **Nigeria** | *total:* 583 (2017) |
+| | *by type:* general cargo 14, oil tanker 83, other 486 (2017) |
+| **Norway** | *total:* 1,585 (2017) |
+| | *by type:* bulk carrier 99, general cargo 240, oil tanker 80, other 1166 (2017) |
+| **Oman** | *total:* 51 (2017) |
+| | *by type:* general cargo 9, other 42 (2017) |
+| **Pakistan** | *total:* 52 (2017) |
+| | *by type:* bulk carrier 5, oil tanker 6, other 41 (2017) |
+| **Panama** | *total:* 8,052 (2017) |
+| | *by type:* bulk carrier 2665, container ship 617, general cargo 1293, oil tanker 809, other 2668 (2017) |
+| **Papua New Guinea** | *total:* 173 (2017) |
+| | *by type:* container ship 8, general cargo 80, oil tanker 3, other 82 (2017) |
+| **Paraguay** | *total:* 78 |
+| | *by type:* container ship 3, general cargo 22, oil tanker 6, other 47 |
+| | *note:* as of 2017, Paraguay registered 2,012 fluvial vessels of which 1,741 were commercial barges |
+| **Peru** | *total:* 88 (2017) |
+| | *by type:* container ship 2, oil tanker 12, other 74 (2017) |
+| **Philippines** | *total:* 1,508 (2017) |
+| | *by type:* bulk carrier 64, container ship 33, general cargo 627, oil tanker 184, other 600 (2017) |
+| **Poland** | *total:* 152 (2017) |
+| | *by type:* container ship 1, general cargo 13, oil tanker 7, other 131 (2017) |
+| **Portugal** | *total:* 466 (2017) |
+| | *by type:* bulk carrier 52, container ship 165, general cargo 57, oil tanker 7, other 185 (2017) |
+| **Qatar** | *total:* 143 (2017) |
+| | *by type:* bulk carrier 8, container ship 6, general cargo 5, oil tanker 6, other 118 (2017) |
+| **Romania** | *total:* 114 (2017) |
+| | *by type:* general cargo 13, oil tanker 7, other 94 (2017) |
+| **Russia** | *total:* 2,572 (2017) |
+| | *by type:* bulk carrier 16, container ship 13, general cargo 874, oil tanker 411, other 1258 (2017) |
+| **Saint Kitts and Nevis** | *total:* 274 (2017) |
+| | *by type:* bulk carrier 6, container ship 5, general cargo 58, oil tanker 60, other 145 (2017) |
+| **Saint Vincent and the Grenadines** | *total:* 882 (2017) |
+| | *by type:* bulk carrier 22, container ship 12, general cargo 198, oil tanker 17, other 633 (2017) |
+| **Samoa** | *total:* 10 (2017) |
+| | *by type:* general cargo 4, other 6 (2017) |
+| **Sao Tome and Principe** | *total:* 16 (2017) |
+| | *by type:* general cargo 12, other 4 (2017) |
+| **Saudi Arabia** | *total:* 357 (2017) |
+| | *by type:* bulk carrier 5, container ship 1, general cargo 19, oil tanker 31, other 301 (2017) |
+| **Senegal** | *total:* 26 (2017) |
+| | *by type:* general cargo 3, oil tanker 1, other 22 (2017) |
+| **Seychelles** | *total:* 24 (2017) |
+| | *by type:* general cargo 4, oil tanker 6, other 14 (2017) |
+| **Sierra Leone** | *total:* 451 (2017) |
+| | *by type:* bulk carrier 20, container ship 10, general cargo 252, oil tanker 59, other 110 (2017) |
+| **Singapore** | *total:* 3,558 (2017) |
+| | *by type:* bulk carrier 592, container ship 504, general cargo 134, oil tanker 722, other 1606 (2017) |
+| **Slovenia** | *total:* 7 (2017) |
+| | *by type:* other 7 (2017) |
+| **Solomon Islands** | *total:* 22 (2017) |
+| | *by type:* general cargo 6, other 16 (2017) |
+| **Somalia** | *total:* 5 (2017) |
+| | *by type:* general cargo 2, other 3 (2017) |
+| **South Africa** | *total:* 82 (2017) |
+| | *by type:* bulk carrier 2, general cargo 1, oil tanker 5, other 74 (2017) |
+| **Spain** | *total:* 472 (2017) |
+| | *by type:* bulk carrier 1, general cargo 44, oil tanker 28, other 399 (2017) |
+| **Sri Lanka** | *total:* 82 (2017) |
+| | *by type:* bulk carrier 8, container ship 1, general cargo 9, oil tanker 10, other 54 (2017) |
+| **Sudan** | *total:* 17 (2017) |
+| | *by type:* general cargo 1, other 16 (2017) |
+| **Suriname** | *total:* 10 (2017) |
+| | *by type:* general cargo 5, oil tanker 3, other 2 (2017) |
+| **Sweden** | *total:* 368 (2017) |
+| | *by type:* general cargo 71, oil tanker 23, other 274 (2017) |
+| **Switzerland** | *total:* 51 (2017) |
+| | *by type:* bulk carrier 30, general cargo 12, oil tanker 1, other 8 (2017) |
+| **Syria** | *total:* 21 (2017) |
+| | *by type:* bulk carrier 1, general cargo 7, other 13 (2017) |
+| **Taiwan** | *total:* 350 (2017) |
+| | *by type:* bulk carrier 26, container ship 38, general cargo 59, oil tanker 24, other 203 (2017) |
+| **Tanzania** | *total:* 279 (2017) |
+| | *by type:* bulk carrier 10, container ship 9, general cargo 147, oil tanker 29, other 84 (2017) |
+| **Thailand** | *total:* 781 (2017) |
+| | *by type:* bulk carrier 25, container ship 23, general cargo 94, oil tanker 240, other 399 (2017) |
+| **Togo** | *total:* 308 (2017) |
+| | *by type:* bulk carrier 11, container ship 3, general cargo 199, oil tanker 44, other 51 (2017) |
+| **Tonga** | *total:* 34 (2017) |
+| | *by type:* bulk carrier 1, container ship 1, general cargo 14, oil tanker 1, other 17 (2017) |
+| **Trinidad and Tobago** | *total:* 105 (2017) |
+| | *by type:* general cargo 1, other 104 (2017) |
+| **Tunisia** | *total:* 62 (2017) |
+| | *by type:* general cargo 13, oil tanker 1, other 48 (2017) |
+| **Turkey** | *total:* 1,285 (2017) |
+| | *by type:* bulk carrier 78, container ship 50, general cargo 432, oil tanker 121, other 604 (2017) |
+| **Turkmenistan** | *total:* 73 (2017) |
+| | *by type:* general cargo 8, oil tanker 8, other 57 (2017) |
+| **Turks and Caicos Islands** | *total:* 4 (2017) |
+| | *by type:* general cargo 1, other 3 (2017) |
+| **Tuvalu** | *total:* 245 (2017) |
+| | *by type:* bulk carrier 18, container ship 2, general cargo 36, oil tanker 27, other 162 (2017) |
+| **Uganda** | *total:* 1 (2017) |
+| | *by type:* bulk carrier 1 (2017) |
+| **Ukraine** | *total:* 419 (2017) |
+| | *by type:* general cargo 91, oil tanker 15, other 313 (2017) |
+| **United Arab Emirates** | *total:* 618 (2017) |
+| | *by type:* general cargo 97, oil tanker 26, other 495 (2017) |
+| **United Kingdom** | *total:* 1,551 (2017) |
+| | *by type:* bulk carrier 117, container ship 112, general cargo 175, oil tanker 173, other 974 (2017) |
+| **United States** | *total:* 3,611 (2017) |
+| | *by type:* bulk carrier 5, container ship 61, general cargo 114, oil tanker 66, other 3365 (2017) |
+| **Uruguay** | *total:* 56 (2017) |
+| | *by type:* container ship 1, general cargo 6, oil tanker 4, other 45 (2017) |
+| **Vanuatu** | *total:* 421 (2017) |
+| | *by type:* bulk carrier 22, container ship 1, general cargo 27, other 371 (2017) |
+| **Venezuela** | *total:* 267 (2017) |
+| | *by type:* bulk carrier 4, container ship 1, general cargo 31, oil tanker 24, other 207 (2017) |
+| **Vietnam** | *total:* 1,818 (2017) |
+| | *by type:* bulk carrier 81, container ship 34, general cargo 1259, oil tanker 109, other 335 (2017) |
+| **World** | *total:* 91,557 (2017) |
+| | *by type:* bulk carrier 10872, container ship 5137, general cargo 19160, oil tanker 9995, other 46396 (2017) |
+| **Yemen** | *total:* 31 (2017) |
+| | *by type:* general cargo 3, oil tanker 4, other 24 (2017) |
+| **Zambia** | *total:* 1 (2017) |
+| | *by type:* other 1 (2017) |
+

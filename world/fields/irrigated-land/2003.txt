@@ -1,0 +1,272 @@
+CIA - The World Factbook -- Field Listing - Irrigated land
+
+| Country | Irrigated land (sq km) |
+| --- | --- |
+| **Afghanistan** | 23,860 sq km (1998 est.) |
+| **Albania** | 3,400 sq km (1998 est.) |
+| **Algeria** | 5,600 sq km (1998 est.) |
+| **American Samoa** | NA sq km |
+| **Andorra** | NA sq km |
+| **Angola** | 750 sq km (1998 est.) |
+| **Anguilla** | NA sq km |
+| **Antarctica** | 0 sq km (1998 est.) |
+| **Antigua and Barbuda** | NA sq km |
+| **Argentina** | 15,610 sq km (1998 est.) |
+| **Armenia** | 2,870 sq km (1998 est.) |
+| **Aruba** | 0.01 sq km (1998 est.) |
+| **Ashmore and Cartier Islands** | 0 sq km (1998 est.) |
+| **Australia** | 24,000 sq km (1998 est.) |
+| **Austria** | 457 sq km (2000 est.) |
+| **Azerbaijan** | 14,550 sq km (1998 est.) |
+| **Bahamas, The** | NA sq km |
+| **Bahrain** | 50 sq km (1998 est.) |
+| **Baker Island** | 0 sq km (1998 est.) |
+| **Bangladesh** | 38,440 sq km (1998 est.) |
+| **Barbados** | 10 sq km (1998 est.) |
+| **Bassas da India** | 0 sq km (1998 est.) |
+| **Belarus** | 1,150 sq km (1998 est.) |
+| **Belgium** | 40 sq km (includes Luxembourg) (1998 est.) |
+| **Belize** | 30 sq km (1998 est.) |
+| **Benin** | 120 sq km (1998 est.) |
+| **Bermuda** | NA sq km |
+| **Bhutan** | 400 sq km (1998 est.) |
+| **Bolivia** | 1,280 sq km (1998 est.) |
+| **Bosnia and Herzegovina** | 20 sq km (1998 est.) |
+| **Botswana** | 10 sq km (1998 est.) |
+| **Bouvet Island** | 0 sq km (1998 est.) |
+| **Brazil** | 26,560 sq km (1998 est.) |
+| **British Indian Ocean Territory** | 0 sq km (1998 est.) |
+| **British Virgin Islands** | NA sq km |
+| **Brunei** | 10 sq km (1998 est.) |
+| **Bulgaria** | 8,000 sq km (1998 est.) |
+| **Burkina Faso** | 250 sq km (1998 est.) |
+| **Burma** | 15,920 sq km (1998 est.) |
+| **Burundi** | 740 sq km (1998 est.) |
+| **Cambodia** | 2,700 sq km (1998 est.) |
+| **Cameroon** | 330 sq km (1998 est.) |
+| **Canada** | 7,200 sq km (1998 est.) |
+| **Cape Verde** | 30 sq km (1998 est.) |
+| **Cayman Islands** | NA sq km |
+| **Central African Republic** | NA sq km |
+| **Chad** | 200 sq km (1998 est.) |
+| **Chile** | 18,000 sq km (1998 est.) |
+| **China** | 525,800 sq km (1998 est.) |
+| **Christmas Island** | NA sq km |
+| **Clipperton Island** | 0 sq km (1998 est.) |
+| **Cocos (Keeling) Islands** | NA sq km |
+| **Colombia** | 8,500 sq km (1998 est.) |
+| **Comoros** | NA sq km |
+| **Congo, Democratic Republic of the** | 110 sq km (1998 est.) |
+| **Congo, Republic of the** | 10 sq km (1998 est.) |
+| **Cook Islands** | NA sq km |
+| **Coral Sea Islands** | 0 sq km (1998 est.) |
+| **Costa Rica** | 1,260 sq km (1998 est.) |
+| **Cote d'Ivoire** | 730 sq km (1998 est.) |
+| **Croatia** | 30 sq km (1998 est.) |
+| **Cuba** | 870 sq km (1998 est.) |
+| **Cyprus** | 400 sq km (1998 est.) |
+| **Czech Republic** | 240 sq km (1998 est.) |
+| **Denmark** | 4,760 sq km (1998 est.) |
+| **Djibouti** | 10 sq km (1998 est.) |
+| **Dominica** | NA sq km |
+| **Dominican Republic** | 2,590 sq km (1998 est.) |
+| **East Timor** | 1,065 sq km (est.) |
+| **Ecuador** | 8,650 sq km (1998 est.) |
+| **Egypt** | 33,000 sq km (1998 est.) |
+| **El Salvador** | 360 sq km (1998 est.) |
+| **Equatorial Guinea** | NA sq km |
+| **Eritrea** | 220 sq km (1998 est.) |
+| **Estonia** | 40 sq km (1998 est.) |
+| **Ethiopia** | 1,900 sq km (1998 est.) |
+| **Europa Island** | 0 sq km (1998 est.) |
+| **Falkland Islands (Islas Malvinas)** | NA sq km |
+| **Faroe Islands** | 0 sq km (1998 est.) |
+| **Fiji** | 30 sq km (1998 est.) |
+| **Finland** | 640 sq km (1998 est.) |
+| **France** | 20,000 sq km (1998 est.) |
+| **French Guiana** | 20 sq km (1998 est.) |
+| **French Polynesia** | NA sq km |
+| **French Southern and Antarctic Lands** | 0 sq km (1998 est.) |
+| **Gabon** | 150 sq km (1998 est.) |
+| **Gambia, The** | 20 sq km (1998 est.) |
+| **Gaza Strip** | 120 sq km (1998 est.) |
+| **Georgia** | 4,700 sq km (1998 est.) |
+| **Germany** | 4,850 sq km (1998 est.) |
+| **Ghana** | 110 sq km (1998 est.) |
+| **Gibraltar** | NA sq km |
+| **Glorioso Islands** | 0 sq km (1998 est.) |
+| **Greece** | 14,220 sq km (1998 est.) |
+| **Greenland** | NA sq km |
+| **Grenada** | NA sq km |
+| **Guadeloupe** | 20 sq km (1998 est.) |
+| **Guam** | NA sq km |
+| **Guatemala** | 1,250 sq km (1998 est.) |
+| **Guernsey** | NA sq km |
+| **Guinea** | 950 sq km (1998 est.) |
+| **Guinea-Bissau** | 170 sq km (1998 est.) |
+| **Guyana** | 1,500 sq km (1998 est.) |
+| **Haiti** | 750 sq km (1998 est.) |
+| **Heard Island and McDonald Islands** | 0 sq km (1998 est.) |
+| **Holy See (Vatican City)** | 0 sq km (1998 est.) |
+| **Honduras** | 760 sq km (1998 est.) |
+| **Hong Kong** | 20 sq km (1998 est.) |
+| **Howland Island** | 0 sq km (1998 est.) |
+| **Hungary** | 2,100 sq km (1998 est.) |
+| **Iceland** | NA sq km |
+| **India** | 590,000 sq km (1998 est.) |
+| **Indonesia** | 48,150 sq km (1998 est.) |
+| **Iran** | 75,620 sq km (1998 est.) |
+| **Iraq** | 35,250 sq km (1998 est.) |
+| **Ireland** | NA sq km |
+| **Israel** | 1,990 sq km (1998 est.) |
+| **Italy** | 26,980 sq km (1998 est.) |
+| **Jamaica** | 250 sq km (1998 est.) |
+| **Jan Mayen** | 0 sq km (1998 est.) |
+| **Japan** | 26,790 sq km (1998 est.) |
+| **Jarvis Island** | 0 sq km (1998 est.) |
+| **Jersey** | NA sq km |
+| **Johnston Atoll** | 0 sq km (1998 est.) |
+| **Jordan** | 750 sq km (1998 est.) |
+| **Juan de Nova Island** | 0 sq km (1998 est.) |
+| **Kazakhstan** | 23,320 sq km (1998 est.) |
+| **Kenya** | 670 sq km (1998 est.) |
+| **Kingman Reef** | 0 sq km (1998 est.) |
+| **Kiribati** | NA sq km |
+| **Korea, North** | 14,600 sq km (1998 est.) |
+| **Korea, South** | 11,590 sq km (1998 est.) |
+| **Kuwait** | 60 sq km (1998 est.) |
+| **Kyrgyzstan** | 10,740 sq km (1998 est.) |
+| **Laos** | 1,640 sq km |
+| | *note:* rainy season irrigation - 2,169 sq km; dry season irrigation - 750 sq km (1998 est.) |
+| **Latvia** | 200 sq km |
+| | *note:* land in Latvia is often too wet, and in need of drainage, not irrigation; approximately 16,000 sq km or 85% of agricultural land has been improved by drainage (1998 est.) |
+| **Lebanon** | 1,200 sq km (1998 est.) |
+| **Lesotho** | 10 sq km (1998 est.) |
+| **Liberia** | 30 sq km (1998 est.) |
+| **Libya** | 4,700 sq km (1998 est.) |
+| **Liechtenstein** | NA sq km |
+| **Lithuania** | 90 sq km (1998 est.) |
+| **Luxembourg** | 40 sq km (includes Belgium) (1998 est.) |
+| **Macau** | NA sq km |
+| **Macedonia, The Former Yugoslav Republic of** | 550 sq km (1998 est.) |
+| **Madagascar** | 10,900 sq km (1998 est.) |
+| **Malawi** | 280 sq km (1998 est.) |
+| **Malaysia** | 3,650 sq km (1998 est.) |
+| **Maldives** | NA sq km |
+| **Mali** | 1,380 sq km (1998 est.) |
+| **Malta** | 20 sq km (1998 est.) |
+| **Man, Isle of** | 0 sq km (1998 est.) |
+| **Marshall Islands** | 0 sq km |
+| **Martinique** | 30 sq km (1998 est.) |
+| **Mauritania** | 490 sq km (1998 est.) |
+| **Mauritius** | 200 sq km (1998 est.) |
+| **Mayotte** | NA sq km |
+| **Mexico** | 65,000 sq km (1998 est.) |
+| **Micronesia, Federated States of** | NA sq km |
+| **Midway Islands** | 0 sq km (1998 est.) |
+| **Moldova** | 3,070 sq km (1998 est.) |
+| **Monaco** | NA sq km |
+| **Mongolia** | 840 sq km (1998 est.) |
+| **Montserrat** | NA sq km |
+| **Morocco** | 12,910 sq km (1998 est.) |
+| **Mozambique** | 1,070 sq km (1998 est.) |
+| **Namibia** | 70 sq km (1998 est.) |
+| **Nauru** | NA sq km |
+| **Navassa Island** | 0 sq km (1998 est.) |
+| **Nepal** | 11,350 sq km (1998 est.) |
+| **Netherlands** | 5,650 sq km (1998 est.) |
+| **Netherlands Antilles** | NA sq km |
+| **New Caledonia** | 160 sq km (1991) |
+| **New Zealand** | 2,850 sq km (1998 est.) |
+| **Nicaragua** | 880 sq km (1998 est.) |
+| **Niger** | 660 sq km (1998 est.) |
+| **Nigeria** | 2,330 sq km (1998 est.) |
+| **Niue** | NA sq km |
+| **Norfolk Island** | NA sq km |
+| **Northern Mariana Islands** | NA sq km |
+| **Norway** | 1,270 sq km (1998 est.) |
+| **Oman** | 620 sq km (1998 est.) |
+| **Pakistan** | 180,000 sq km (1998 est.) |
+| **Palau** | NA sq km |
+| **Palmyra Atoll** | 0 sq km (1998 est.) |
+| **Panama** | 320 sq km (1998 est.) |
+| **Papua New Guinea** | NA sq km |
+| **Paracel Islands** | 0 sq km (1998 est.) |
+| **Paraguay** | 670 sq km (1998 est.) |
+| **Peru** | 11,950 sq km (1998 est.) |
+| **Philippines** | 15,500 sq km (1998 est.) |
+| **Pitcairn Islands** | NA sq km |
+| **Poland** | 1,000 sq km (1998 est.) |
+| **Portugal** | 6,320 sq km (1998 est.) |
+| **Puerto Rico** | 400 sq km (1998 est.) |
+| **Qatar** | 130 sq km (1998 est.) |
+| **Reunion** | 120 sq km (1998 est.) |
+| **Romania** | 28,800 sq km (1998 est.) |
+| **Russia** | 46,630 sq km (1998 est.) |
+| **Rwanda** | 40 sq km (1998 est.) |
+| **Saint Helena** | NA sq km |
+| **Saint Kitts and Nevis** | NA sq km |
+| **Saint Lucia** | 30 sq km (1998 est.) |
+| **Saint Pierre and Miquelon** | NA sq km |
+| **Saint Vincent and the Grenadines** | 10 sq km (1998 est.) |
+| **Samoa** | NA sq km |
+| **San Marino** | NA sq km |
+| **Sao Tome and Principe** | 100 sq km (1998 est.) |
+| **Saudi Arabia** | 16,200 sq km (1998 est.) |
+| **Senegal** | 710 sq km (1998 est.) |
+| **Serbia and Montenegro** | 570 sq km |
+| **Seychelles** | NA sq km |
+| **Sierra Leone** | 290 sq km (1998 est.) |
+| **Singapore** | NA sq km |
+| **Slovakia** | 1,740 sq km (1998 est.) |
+| **Slovenia** | 20 sq km (1998 est.) |
+| **Solomon Islands** | NA sq km |
+| **Somalia** | 2,000 sq km (1998 est.) |
+| **South Africa** | 13,500 sq km (1998 est.) |
+| **South Georgia and the South Sandwich Islands** | 0 sq km (1998 est.) |
+| **Spain** | 36,400 sq km (1998 est.) |
+| **Spratly Islands** | 0 sq km (1998 est.) |
+| **Sri Lanka** | 6,510 sq km (1998 est.) |
+| **Sudan** | 19,500 sq km (1998 est.) |
+| **Suriname** | 490 sq km (1998 est.) |
+| **Svalbard** | NA sq km |
+| **Swaziland** | 690 sq km (1998 est.) |
+| **Sweden** | 1,150 sq km (1998 est.) |
+| **Switzerland** | 250 sq km (1998 est.) |
+| **Syria** | 12,130 sq km (1998 est.) |
+| **Taiwan** | NA sq km |
+| **Tajikistan** | 7,200 sq km (1998 est.) |
+| **Tanzania** | 1,550 sq km (1998 est.) |
+| **Thailand** | 47,490 sq km (1998 est.) |
+| **Togo** | 70 sq km (1998 est.) |
+| **Tokelau** | NA sq km |
+| **Tonga** | NA sq km |
+| **Trinidad and Tobago** | 30 sq km (1998 est.) |
+| **Tromelin Island** | 0 sq km (1998 est.) |
+| **Tunisia** | 3,800 sq km (1998 est.) |
+| **Turkey** | 42,000 sq km (1998 est.) |
+| **Turkmenistan** | 17,500 sq km (2003 est.) |
+| **Turks and Caicos Islands** | NA sq km |
+| **Tuvalu** | NA sq km |
+| **Uganda** | 90 sq km (1998 est.) |
+| **Ukraine** | 24,540 sq km (1998 est.) |
+| **United Arab Emirates** | 720 sq km (1998 est.) |
+| **United Kingdom** | 1,080 sq km (1998 est.) |
+| **United States** | 214,000 sq km (1998 est.) |
+| **Uruguay** | 1,800 sq km (1998 est.) |
+| **Uzbekistan** | 42,810 sq km (1998 est.) |
+| **Vanuatu** | NA sq km |
+| **Venezuela** | 540 sq km (1998 est.) |
+| **Vietnam** | 30,000 sq km (1998 est.) |
+| **Virgin Islands** | NA sq km |
+| **Wake Island** | 0 sq km (1998 est.) |
+| **Wallis and Futuna** | NA sq km |
+| **West Bank** | NA sq km |
+| **Western Sahara** | NA sq km |
+| **World** | 2,714,320 sq km (1998 est.) |
+| **Yemen** | 4,900 sq km (1998 est.) |
+| **Zambia** | 460 sq km (1998 est.) |
+| **Zimbabwe** | 1,170 sq km (1998 est.) |
+
+This page was last updated on 18 December, 2003
+ 

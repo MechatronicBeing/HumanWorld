@@ -1,0 +1,718 @@
+Field Listing :: Infant mortality rate :: The World Factbook
+
+This entry gives the number of deaths of infants under one year old in a given year per 1,000 live births in the same year. This rate is often used as an indicator of the level of health in a country.
+
+| Country | Infant mortality rate |
+| --- | --- |
+| **Afghanistan** | *total:* 104.3 deaths/1,000 live births |
+| | *male:* 111.3 deaths/1,000 live births |
+| | *female:* 96.9 deaths/1,000 live births (2020 est.) |
+| **Albania** | *total:* 10.8 deaths/1,000 live births |
+| | *male:* 12.1 deaths/1,000 live births |
+| | *female:* 9.5 deaths/1,000 live births (2020 est.) |
+| **Algeria** | *total:* 17.6 deaths/1,000 live births |
+| | *male:* 19.1 deaths/1,000 live births |
+| | *female:* 16 deaths/1,000 live births (2020 est.) |
+| **American Samoa** | *total:* 9.9 deaths/1,000 live births |
+| | *male:* 11.7 deaths/1,000 live births |
+| | *female:* 8 deaths/1,000 live births (2020 est.) |
+| **Andorra** | *total:* 3.5 deaths/1,000 live births |
+| | *male:* 3.5 deaths/1,000 live births |
+| | *female:* 3.5 deaths/1,000 live births (2020 est.) |
+| **Angola** | *total:* 62.3 deaths/1,000 live births |
+| | *male:* 67.8 deaths/1,000 live births |
+| | *female:* 56.8 deaths/1,000 live births (2020 est.) |
+| **Anguilla** | *total:* 3.3 deaths/1,000 live births |
+| | *male:* 3.6 deaths/1,000 live births |
+| | *female:* 2.9 deaths/1,000 live births (2020 est.) |
+| **Antigua and Barbuda** | *total:* 11.1 deaths/1,000 live births |
+| | *male:* 12.7 deaths/1,000 live births |
+| | *female:* 9.3 deaths/1,000 live births (2020 est.) |
+| **Argentina** | *total:* 9 deaths/1,000 live births |
+| | *male:* 9.9 deaths/1,000 live births |
+| | *female:* 8.1 deaths/1,000 live births (2020 est.) |
+| **Armenia** | *total:* 11.5 deaths/1,000 live births |
+| | *male:* 12.9 deaths/1,000 live births |
+| | *female:* 10 deaths/1,000 live births (2020 est.) |
+| **Aruba** | *total:* 9.8 deaths/1,000 live births |
+| | *male:* 12.7 deaths/1,000 live births |
+| | *female:* 6.8 deaths/1,000 live births (2020 est.) |
+| **Australia** | *total:* 3.1 deaths/1,000 live births |
+| | *male:* 3.3 deaths/1,000 live births |
+| | *female:* 2.9 deaths/1,000 live births (2020 est.) |
+| **Austria** | *total:* 3.3 deaths/1,000 live births |
+| | *male:* 3.7 deaths/1,000 live births |
+| | *female:* 3 deaths/1,000 live births (2020 est.) |
+| **Azerbaijan** | *total:* 21.3 deaths/1,000 live births |
+| | *male:* 22.3 deaths/1,000 live births |
+| | *female:* 20.3 deaths/1,000 live births (2020 est.) |
+| **Bahamas, The** | *total:* 10.6 deaths/1,000 live births |
+| | *male:* 10.6 deaths/1,000 live births |
+| | *female:* 10.6 deaths/1,000 live births (2020 est.) |
+| **Bahrain** | *total:* 8.3 deaths/1,000 live births |
+| | *male:* 9.2 deaths/1,000 live births |
+| | *female:* 7.4 deaths/1,000 live births (2020 est.) |
+| **Bangladesh** | *total:* 28.3 deaths/1,000 live births |
+| | *male:* 30.6 deaths/1,000 live births |
+| | *female:* 26 deaths/1,000 live births (2020 est.) |
+| **Barbados** | *total:* 9.6 deaths/1,000 live births |
+| | *male:* 10.7 deaths/1,000 live births |
+| | *female:* 8.4 deaths/1,000 live births (2020 est.) |
+| **Belarus** | *total:* 3.5 deaths/1,000 live births |
+| | *male:* 3.9 deaths/1,000 live births |
+| | *female:* 3.1 deaths/1,000 live births (2020 est.) |
+| **Belgium** | *total:* 3.3 deaths/1,000 live births |
+| | *male:* 3.7 deaths/1,000 live births |
+| | *female:* 2.9 deaths/1,000 live births (2020 est.) |
+| **Belize** | *total:* 11.2 deaths/1,000 live births |
+| | *male:* 12.4 deaths/1,000 live births |
+| | *female:* 10 deaths/1,000 live births (2020 est.) |
+| **Benin** | *total:* 58.7 deaths/1,000 live births |
+| | *male:* 63.9 deaths/1,000 live births |
+| | *female:* 53.3 deaths/1,000 live births (2020 est.) |
+| **Bermuda** | *total:* 2.5 deaths/1,000 live births |
+| | *male:* 2.6 deaths/1,000 live births |
+| | *female:* 2.4 deaths/1,000 live births (2020 est.) |
+| **Bhutan** | *total:* 27 deaths/1,000 live births |
+| | *male:* 27.1 deaths/1,000 live births |
+| | *female:* 27 deaths/1,000 live births (2020 est.) |
+| **Bolivia** | *total:* 32.2 deaths/1,000 live births |
+| | *male:* 35.5 deaths/1,000 live births |
+| | *female:* 28.8 deaths/1,000 live births (2020 est.) |
+| **Bosnia and Herzegovina** | *total:* 5.2 deaths/1,000 live births |
+| | *male:* 5.3 deaths/1,000 live births |
+| | *female:* 5.1 deaths/1,000 live births (2020 est.) |
+| **Botswana** | *total:* 26.8 deaths/1,000 live births |
+| | *male:* 29.2 deaths/1,000 live births |
+| | *female:* 24.2 deaths/1,000 live births (2020 est.) |
+| **Brazil** | *total:* 15.9 deaths/1,000 live births |
+| | *male:* 18.8 deaths/1,000 live births |
+| | *female:* 12.9 deaths/1,000 live births (2020 est.) |
+| **British Virgin Islands** | *total:* 11 deaths/1,000 live births |
+| | *male:* 12.5 deaths/1,000 live births |
+| | *female:* 9.4 deaths/1,000 live births (2020 est.) |
+| **Brunei** | *total:* 8.8 deaths/1,000 live births |
+| | *male:* 10.4 deaths/1,000 live births |
+| | *female:* 7.1 deaths/1,000 live births (2020 est.) |
+| **Bulgaria** | *total:* 8.1 deaths/1,000 live births |
+| | *male:* 9 deaths/1,000 live births |
+| | *female:* 7 deaths/1,000 live births (2020 est.) |
+| **Burkina Faso** | *total:* 52 deaths/1,000 live births |
+| | *male:* 56.4 deaths/1,000 live births |
+| | *female:* 47.5 deaths/1,000 live births (2020 est.) |
+| **Burma** | *total:* 31.7 deaths/1,000 live births |
+| | *male:* 34.4 deaths/1,000 live births |
+| | *female:* 28.7 deaths/1,000 live births (2020 est.) |
+| **Burundi** | *total:* 40.1 deaths/1,000 live births |
+| | *male:* 44.4 deaths/1,000 live births |
+| | *female:* 35.7 deaths/1,000 live births (2020 est.) |
+| **Cabo Verde** | *total:* 19.7 deaths/1,000 live births |
+| | *male:* 22.7 deaths/1,000 live births |
+| | *female:* 16.7 deaths/1,000 live births (2020 est.) |
+| **Cambodia** | *total:* 43.7 deaths/1,000 live births |
+| | *male:* 49.8 deaths/1,000 live births |
+| | *female:* 37.3 deaths/1,000 live births (2020 est.) |
+| **Cameroon** | *total:* 51.5 deaths/1,000 live births |
+| | *male:* 56.5 deaths/1,000 live births |
+| | *female:* 46.3 deaths/1,000 live births (2020 est.) |
+| **Canada** | *total:* 4.3 deaths/1,000 live births |
+| | *male:* 4.5 deaths/1,000 live births |
+| | *female:* 4.1 deaths/1,000 live births (2020 est.) |
+| **Cayman Islands** | *total:* 5.5 deaths/1,000 live births |
+| | *male:* 6.3 deaths/1,000 live births |
+| | *female:* 4.8 deaths/1,000 live births (2020 est.) |
+| **Central African Republic** | *total:* 80.6 deaths/1,000 live births |
+| | *male:* 87.7 deaths/1,000 live births |
+| | *female:* 73.2 deaths/1,000 live births (2020 est.) |
+| **Chad** | *total:* 68.6 deaths/1,000 live births |
+| | *male:* 74.5 deaths/1,000 live births |
+| | *female:* 62.5 deaths/1,000 live births (2020 est.) |
+| **Chile** | *total:* 6.2 deaths/1,000 live births |
+| | *male:* 6.6 deaths/1,000 live births |
+| | *female:* 5.7 deaths/1,000 live births (2020 est.) |
+| **China** | *total:* 11.4 deaths/1,000 live births |
+| | *male:* 11.9 deaths/1,000 live births |
+| | *female:* 10.9 deaths/1,000 live births (2020 est.) |
+| **Christmas Island** | *total:* NA (2018) |
+| | *male:* NA |
+| | *female:* NA |
+| **Cocos (Keeling) Islands** | *total:* NA (2018) |
+| | *male:* NA |
+| | *female:* NA |
+| **Colombia** | *total:* 12.3 deaths/1,000 live births |
+| | *male:* 14.9 deaths/1,000 live births |
+| | *female:* 9.5 deaths/1,000 live births (2020 est.) |
+| **Comoros** | *total:* 55 deaths/1,000 live births |
+| | *male:* 64.8 deaths/1,000 live births |
+| | *female:* 45.1 deaths/1,000 live births (2020 est.) |
+| **Congo, Democratic Republic of the** | *total:* 64.5 deaths/1,000 live births |
+| | *male:* 70.3 deaths/1,000 live births |
+| | *female:* 58.4 deaths/1,000 live births (2020 est.) |
+| **Congo, Republic of the** | *total:* 50.7 deaths/1,000 live births |
+| | *male:* 55.3 deaths/1,000 live births |
+| | *female:* 45.9 deaths/1,000 live births (2020 est.) |
+| **Cook Islands** | *total:* 11.9 deaths/1,000 live births |
+| | *male:* 14.4 deaths/1,000 live births |
+| | *female:* 9.2 deaths/1,000 live births (2020 est.) |
+| **Costa Rica** | *total:* 7.5 deaths/1,000 live births |
+| | *male:* 8.2 deaths/1,000 live births |
+| | *female:* 6.7 deaths/1,000 live births (2020 est.) |
+| **Cote d'Ivoire** | *total:* 59.1 deaths/1,000 live births |
+| | *male:* 66.7 deaths/1,000 live births |
+| | *female:* 51.2 deaths/1,000 live births (2020 est.) |
+| **Croatia** | *total:* 8.6 deaths/1,000 live births |
+| | *male:* 8.4 deaths/1,000 live births |
+| | *female:* 8.9 deaths/1,000 live births (2020 est.) |
+| **Cuba** | *total:* 4.3 deaths/1,000 live births |
+| | *male:* 4.8 deaths/1,000 live births |
+| | *female:* 3.8 deaths/1,000 live births (2020 est.) |
+| **Curacao** | *total:* 7 deaths/1,000 live births |
+| | *male:* 7.5 deaths/1,000 live births |
+| | *female:* 6.5 deaths/1,000 live births (2020 est.) |
+| **Cyprus** | *total:* 7.4 deaths/1,000 live births |
+| | *male:* 8.6 deaths/1,000 live births |
+| | *female:* 6.1 deaths/1,000 live births (2020 est.) |
+| **Czechia** | *total:* 2.6 deaths/1,000 live births |
+| | *male:* 2.8 deaths/1,000 live births |
+| | *female:* 2.5 deaths/1,000 live births (2020 est.) |
+| **Denmark** | *total:* 3.2 deaths/1,000 live births |
+| | *male:* 3.6 deaths/1,000 live births |
+| | *female:* 2.7 deaths/1,000 live births (2020 est.) |
+| **Djibouti** | *total:* 41.6 deaths/1,000 live births |
+| | *male:* 47.9 deaths/1,000 live births |
+| | *female:* 35.2 deaths/1,000 live births (2020 est.) |
+| **Dominica** | *total:* 9.7 deaths/1,000 live births |
+| | *male:* 12.7 deaths/1,000 live births |
+| | *female:* 6.5 deaths/1,000 live births (2020 est.) |
+| **Dominican Republic** | *total:* 20.9 deaths/1,000 live births |
+| | *male:* 23.1 deaths/1,000 live births |
+| | *female:* 18.7 deaths/1,000 live births (2020 est.) |
+| **Ecuador** | *total:* 15 deaths/1,000 live births |
+| | *male:* 17.8 deaths/1,000 live births |
+| | *female:* 12 deaths/1,000 live births (2020 est.) |
+| **Egypt** | *total:* 17.1 deaths/1,000 live births |
+| | *male:* 18.2 deaths/1,000 live births |
+| | *female:* 15.8 deaths/1,000 live births (2020 est.) |
+| **El Salvador** | *total:* 11.8 deaths/1,000 live births |
+| | *male:* 13.4 deaths/1,000 live births |
+| | *female:* 10.2 deaths/1,000 live births (2020 est.) |
+| **Equatorial Guinea** | *total:* 59.7 deaths/1,000 live births |
+| | *male:* 60.8 deaths/1,000 live births |
+| | *female:* 58.6 deaths/1,000 live births (2020 est.) |
+| **Eritrea** | *total:* 43.3 deaths/1,000 live births |
+| | *male:* 50.3 deaths/1,000 live births |
+| | *female:* 36.1 deaths/1,000 live births (2020 est.) |
+| **Estonia** | *total:* 3.7 deaths/1,000 live births |
+| | *male:* 3.6 deaths/1,000 live births |
+| | *female:* 3.8 deaths/1,000 live births (2020 est.) |
+| **Eswatini** | *total:* 42.8 deaths/1,000 live births |
+| | *male:* 47.3 deaths/1,000 live births |
+| | *female:* 38.2 deaths/1,000 live births (2020 est.) |
+| **Ethiopia** | *total:* 35.8 deaths/1,000 live births |
+| | *male:* 40.8 deaths/1,000 live births |
+| | *female:* 30.5 deaths/1,000 live births (2020 est.) |
+| **European Union** | *total:* 3.7 deaths/1,000 live births |
+| | *male:* 4 deaths/1,000 live births |
+| | *female:* 3.3 deaths/1,000 live births (2020 est.) |
+| **Falkland Islands (Islas Malvinas)** | *total:* NA (2018) |
+| | *male:* NA |
+| | *female:* NA |
+| **Faroe Islands** | *total:* 5.1 deaths/1,000 live births |
+| | *male:* 5.4 deaths/1,000 live births |
+| | *female:* 4.8 deaths/1,000 live births (2020 est.) |
+| **Fiji** | *total:* 8.8 deaths/1,000 live births |
+| | *male:* 9.7 deaths/1,000 live births |
+| | *female:* 7.9 deaths/1,000 live births (2020 est.) |
+| **Finland** | *total:* 2.5 deaths/1,000 live births |
+| | *male:* 2.7 deaths/1,000 live births |
+| | *female:* 2.4 deaths/1,000 live births (2020 est.) |
+| **France** | *total:* 3.2 deaths/1,000 live births |
+| | *male:* 3.5 deaths/1,000 live births |
+| | *female:* 2.9 deaths/1,000 live births (2020 est.) |
+| **French Polynesia** | *total:* 4.5 deaths/1,000 live births |
+| | *male:* 5 deaths/1,000 live births |
+| | *female:* 4 deaths/1,000 live births (2020 est.) |
+| **Gabon** | *total:* 30.4 deaths/1,000 live births |
+| | *male:* 33.6 deaths/1,000 live births |
+| | *female:* 27 deaths/1,000 live births (2020 est.) |
+| **Gambia, The** | *total:* 54.9 deaths/1,000 live births |
+| | *male:* 60.1 deaths/1,000 live births |
+| | *female:* 49.6 deaths/1,000 live births (2020 est.) |
+| **Gaza Strip** | *total:* 14.9 deaths/1,000 live births |
+| | *male:* 16 deaths/1,000 live births |
+| | *female:* 13.9 deaths/1,000 live births (2020 est.) |
+| **Georgia** | *total:* 13.8 deaths/1,000 live births |
+| | *male:* 15.8 deaths/1,000 live births |
+| | *female:* 11.7 deaths/1,000 live births (2020 est.) |
+| **Germany** | *total:* 3.3 deaths/1,000 live births |
+| | *male:* 3.6 deaths/1,000 live births |
+| | *female:* 3 deaths/1,000 live births (2020 est.) |
+| **Ghana** | *total:* 32.1 deaths/1,000 live births |
+| | *male:* 35.9 deaths/1,000 live births |
+| | *female:* 28.2 deaths/1,000 live births (2020 est.) |
+| **Gibraltar** | *total:* 5.6 deaths/1,000 live births |
+| | *male:* 6.2 deaths/1,000 live births |
+| | *female:* 5 deaths/1,000 live births (2020 est.) |
+| **Greece** | *total:* 3.7 deaths/1,000 live births |
+| | *male:* 4 deaths/1,000 live births |
+| | *female:* 3.3 deaths/1,000 live births (2020 est.) |
+| **Greenland** | *total:* 8.3 deaths/1,000 live births |
+| | *male:* 9.5 deaths/1,000 live births |
+| | *female:* 7.1 deaths/1,000 live births (2020 est.) |
+| **Grenada** | *total:* 8.9 deaths/1,000 live births |
+| | *male:* 8.6 deaths/1,000 live births |
+| | *female:* 9.4 deaths/1,000 live births (2020 est.) |
+| **Guam** | *total:* 10.8 deaths/1,000 live births |
+| | *male:* 10.7 deaths/1,000 live births |
+| | *female:* 10.8 deaths/1,000 live births (2020 est.) |
+| **Guatemala** | *total:* 21.8 deaths/1,000 live births |
+| | *male:* 24 deaths/1,000 live births |
+| | *female:* 19.6 deaths/1,000 live births (2020 est.) |
+| **Guernsey** | *total:* 3.3 deaths/1,000 live births |
+| | *male:* 3.6 deaths/1,000 live births |
+| | *female:* 3 deaths/1,000 live births (2020 est.) |
+| **Guinea** | *total:* 52.4 deaths/1,000 live births |
+| | *male:* 57.3 deaths/1,000 live births |
+| | *female:* 47.3 deaths/1,000 live births (2020 est.) |
+| **Guinea-Bissau** | *total:* 51.9 deaths/1,000 live births |
+| | *male:* 57.9 deaths/1,000 live births |
+| | *female:* 45.7 deaths/1,000 live births (2020 est.) |
+| **Guyana** | *total:* 27.6 deaths/1,000 live births |
+| | *male:* 31.3 deaths/1,000 live births |
+| | *female:* 23.8 deaths/1,000 live births (2020 est.) |
+| **Haiti** | *total:* 42.6 deaths/1,000 live births |
+| | *male:* 48.5 deaths/1,000 live births |
+| | *female:* 36.6 deaths/1,000 live births (2020 est.) |
+| **Honduras** | *total:* 14.6 deaths/1,000 live births |
+| | *male:* 16.6 deaths/1,000 live births |
+| | *female:* 12.4 deaths/1,000 live births (2020 est.) |
+| **Hong Kong** | *total:* 2.7 deaths/1,000 live births |
+| | *male:* 2.9 deaths/1,000 live births |
+| | *female:* 2.5 deaths/1,000 live births (2020 est.) |
+| **Hungary** | *total:* 4.7 deaths/1,000 live births |
+| | *male:* 5 deaths/1,000 live births |
+| | *female:* 4.4 deaths/1,000 live births (2020 est.) |
+| **Iceland** | *total:* 2.1 deaths/1,000 live births |
+| | *male:* 2.3 deaths/1,000 live births |
+| | *female:* 2 deaths/1,000 live births (2020 est.) |
+| **India** | *total:* 35.4 deaths/1,000 live births |
+| | *male:* 34.4 deaths/1,000 live births |
+| | *female:* 36.5 deaths/1,000 live births (2020 est.) |
+| **Indonesia** | *total:* 20.4 deaths/1,000 live births |
+| | *male:* 24 deaths/1,000 live births |
+| | *female:* 16.7 deaths/1,000 live births (2020 est.) |
+| **Iran** | *total:* 14.9 deaths/1,000 live births |
+| | *male:* 15.8 deaths/1,000 live births |
+| | *female:* 13.8 deaths/1,000 live births (2020 est.) |
+| **Iraq** | *total:* 19.5 deaths/1,000 live births |
+| | *male:* 20.9 deaths/1,000 live births |
+| | *female:* 18.2 deaths/1,000 live births (2020 est.) |
+| **Ireland** | *total:* 3.6 deaths/1,000 live births |
+| | *male:* 3.9 deaths/1,000 live births |
+| | *female:* 3.2 deaths/1,000 live births (2020 est.) |
+| **Isle of Man** | *total:* 3.9 deaths/1,000 live births |
+| | *male:* 3.9 deaths/1,000 live births |
+| | *female:* 3.9 deaths/1,000 live births (2020 est.) |
+| **Israel** | *total:* 3.3 deaths/1,000 live births |
+| | *male:* 3.3 deaths/1,000 live births |
+| | *female:* 3.3 deaths/1,000 live births (2020 est.) |
+| **Italy** | *total:* 3.2 deaths/1,000 live births |
+| | *male:* 3.4 deaths/1,000 live births |
+| | *female:* 3 deaths/1,000 live births (2020 est.) |
+| **Jamaica** | *total:* 11.6 deaths/1,000 live births |
+| | *male:* 13 deaths/1,000 live births |
+| | *female:* 10.1 deaths/1,000 live births (2020 est.) |
+| **Japan** | *total:* 1.9 deaths/1,000 live births |
+| | *male:* 2.1 deaths/1,000 live births |
+| | *female:* 1.7 deaths/1,000 live births (2020 est.) |
+| **Jersey** | *total:* 3.6 deaths/1,000 live births |
+| | *male:* 3.9 deaths/1,000 live births |
+| | *female:* 3.4 deaths/1,000 live births (2020 est.) |
+| **Jordan** | *total:* 12.8 deaths/1,000 live births |
+| | *male:* 13.6 deaths/1,000 live births |
+| | *female:* 12 deaths/1,000 live births (2020 est.) |
+| **Kazakhstan** | *total:* 17.9 deaths/1,000 live births |
+| | *male:* 20.4 deaths/1,000 live births |
+| | *female:* 15.5 deaths/1,000 live births (2020 est.) |
+| **Kenya** | *total:* 29.8 deaths/1,000 live births |
+| | *male:* 33 deaths/1,000 live births |
+| | *female:* 26.6 deaths/1,000 live births (2020 est.) |
+| **Kiribati** | *total:* 29.2 deaths/1,000 live births |
+| | *male:* 30.3 deaths/1,000 live births |
+| | *female:* 27.9 deaths/1,000 live births (2020 est.) |
+| **Korea, North** | *total:* 20 deaths/1,000 live births |
+| | *male:* 22.3 deaths/1,000 live births |
+| | *female:* 17.6 deaths/1,000 live births (2020 est.) |
+| **Korea, South** | *total:* 3 deaths/1,000 live births |
+| | *male:* 3.2 deaths/1,000 live births |
+| | *female:* 2.8 deaths/1,000 live births (2020 est.) |
+| **Kosovo** | *total:* 30.2 deaths/1,000 live births |
+| | *male:* 31.3 deaths/1,000 live births |
+| | *female:* 28.9 deaths/1,000 live births (2020 est.) |
+| **Kuwait** | *total:* 6.5 deaths/1,000 live births |
+| | *male:* 6.4 deaths/1,000 live births |
+| | *female:* 6.7 deaths/1,000 live births (2020 est.) |
+| **Kyrgyzstan** | *total:* 23.3 deaths/1,000 live births |
+| | *male:* 27.2 deaths/1,000 live births |
+| | *female:* 19.2 deaths/1,000 live births (2020 est.) |
+| **Laos** | *total:* 45.6 deaths/1,000 live births |
+| | *male:* 50.5 deaths/1,000 live births |
+| | *female:* 40.4 deaths/1,000 live births (2020 est.) |
+| **Latvia** | *total:* 5 deaths/1,000 live births |
+| | *male:* 5.4 deaths/1,000 live births |
+| | *female:* 4.6 deaths/1,000 live births (2020 est.) |
+| **Lebanon** | *total:* 6.8 deaths/1,000 live births |
+| | *male:* 7.2 deaths/1,000 live births |
+| | *female:* 6.4 deaths/1,000 live births (2020 est.) |
+| **Lesotho** | *total:* 41.5 deaths/1,000 live births |
+| | *male:* 44.8 deaths/1,000 live births |
+| | *female:* 38.1 deaths/1,000 live births (2020 est.) |
+| **Liberia** | *total:* 47.4 deaths/1,000 live births |
+| | *male:* 51.7 deaths/1,000 live births |
+| | *female:* 43.1 deaths/1,000 live births (2020 est.) |
+| **Libya** | *total:* 11.5 deaths/1,000 live births |
+| | *male:* 12.9 deaths/1,000 live births |
+| | *female:* 10 deaths/1,000 live births (2020 est.) |
+| **Liechtenstein** | *total:* 4.2 deaths/1,000 live births |
+| | *male:* 4.5 deaths/1,000 live births |
+| | *female:* 3.8 deaths/1,000 live births (2020 est.) |
+| **Lithuania** | *total:* 3.8 deaths/1,000 live births |
+| | *male:* 4.2 deaths/1,000 live births |
+| | *female:* 3.3 deaths/1,000 live births (2020 est.) |
+| **Luxembourg** | *total:* 3.3 deaths/1,000 live births |
+| | *male:* 3.7 deaths/1,000 live births |
+| | *female:* 3 deaths/1,000 live births (2020 est.) |
+| **Macau** | *total:* 3.1 deaths/1,000 live births |
+| | *male:* 3.2 deaths/1,000 live births |
+| | *female:* 2.9 deaths/1,000 live births (2020 est.) |
+| **Madagascar** | *total:* 37.8 deaths/1,000 live births |
+| | *male:* 41.5 deaths/1,000 live births |
+| | *female:* 34.1 deaths/1,000 live births (2020 est.) |
+| **Malawi** | *total:* 39.5 deaths/1,000 live births |
+| | *male:* 45.8 deaths/1,000 live births |
+| | *female:* 33.2 deaths/1,000 live births (2020 est.) |
+| **Malaysia** | *total:* 11.4 deaths/1,000 live births |
+| | *male:* 13.2 deaths/1,000 live births |
+| | *female:* 9.6 deaths/1,000 live births (2020 est.) |
+| **Maldives** | *total:* 19.8 deaths/1,000 live births |
+| | *male:* 22 deaths/1,000 live births |
+| | *female:* 17.5 deaths/1,000 live births (2020 est.) |
+| **Mali** | *total:* 64 deaths/1,000 live births |
+| | *male:* 69.6 deaths/1,000 live births |
+| | *female:* 58.3 deaths/1,000 live births (2020 est.) |
+| **Malta** | *total:* 4.6 deaths/1,000 live births |
+| | *male:* 4.5 deaths/1,000 live births |
+| | *female:* 4.7 deaths/1,000 live births (2020 est.) |
+| **Marshall Islands** | *total:* 17.4 deaths/1,000 live births |
+| | *male:* 19.7 deaths/1,000 live births |
+| | *female:* 15.1 deaths/1,000 live births (2020 est.) |
+| **Mauritania** | *total:* 47.9 deaths/1,000 live births |
+| | *male:* 52.5 deaths/1,000 live births |
+| | *female:* 43.1 deaths/1,000 live births (2020 est.) |
+| **Mauritius** | *total:* 9 deaths/1,000 live births |
+| | *male:* 10.7 deaths/1,000 live births |
+| | *female:* 7.3 deaths/1,000 live births (2020 est.) |
+| **Mexico** | *total:* 10.7 deaths/1,000 live births |
+| | *male:* 12 deaths/1,000 live births |
+| | *female:* 9.2 deaths/1,000 live births (2020 est.) |
+| **Micronesia, Federated States of** | *total:* 17.8 deaths/1,000 live births |
+| | *male:* 19.8 deaths/1,000 live births |
+| | *female:* 15.8 deaths/1,000 live births (2020 est.) |
+| **Moldova** | *total:* 11.1 deaths/1,000 live births |
+| | *male:* 12.8 deaths/1,000 live births |
+| | *female:* 9.3 deaths/1,000 live births (2020 est.) |
+| **Monaco** | *total:* 1.9 deaths/1,000 live births |
+| | *male:* 2.1 deaths/1,000 live births |
+| | *female:* 1.6 deaths/1,000 live births (2020 est.) |
+| **Mongolia** | *total:* 19.2 deaths/1,000 live births |
+| | *male:* 22.2 deaths/1,000 live births |
+| | *female:* 16.2 deaths/1,000 live births (2020 est.) |
+| **Montenegro** | *total:* 3.4 deaths/1,000 live births |
+| | *male:* 2.8 deaths/1,000 live births |
+| | *female:* 4 deaths/1,000 live births (2020 est.) |
+| **Montserrat** | *total:* 11.1 deaths/1,000 live births |
+| | *male:* 8.9 deaths/1,000 live births |
+| | *female:* 13.4 deaths/1,000 live births (2020 est.) |
+| **Morocco** | *total:* 18.2 deaths/1,000 live births |
+| | *male:* 20.2 deaths/1,000 live births |
+| | *female:* 16.1 deaths/1,000 live births (2020 est.) |
+| **Mozambique** | *total:* 64.7 deaths/1,000 live births |
+| | *male:* 66.8 deaths/1,000 live births |
+| | *female:* 62.6 deaths/1,000 live births (2020 est.) |
+| **Namibia** | *total:* 31.4 deaths/1,000 live births |
+| | *male:* 33.5 deaths/1,000 live births |
+| | *female:* 29.2 deaths/1,000 live births (2020 est.) |
+| **Nauru** | *total:* 7.4 deaths/1,000 live births |
+| | *male:* 9.4 deaths/1,000 live births |
+| | *female:* 5.7 deaths/1,000 live births (2020 est.) |
+| **Nepal** | *total:* 25.1 deaths/1,000 live births |
+| | *male:* 26.3 deaths/1,000 live births |
+| | *female:* 23.8 deaths/1,000 live births (2020 est.) |
+| **Netherlands** | *total:* 3.5 deaths/1,000 live births |
+| | *male:* 3.7 deaths/1,000 live births |
+| | *female:* 3.2 deaths/1,000 live births (2020 est.) |
+| **New Caledonia** | *total:* 5 deaths/1,000 live births |
+| | *male:* 5.9 deaths/1,000 live births |
+| | *female:* 4.1 deaths/1,000 live births (2020 est.) |
+| **New Zealand** | *total:* 3.5 deaths/1,000 live births |
+| | *male:* 3.7 deaths/1,000 live births |
+| | *female:* 3.4 deaths/1,000 live births (2020 est.) |
+| **Nicaragua** | *total:* 16.5 deaths/1,000 live births |
+| | *male:* 19 deaths/1,000 live births |
+| | *female:* 13.9 deaths/1,000 live births (2020 est.) |
+| **Niger** | *total:* 67.7 deaths/1,000 live births |
+| | *male:* 72 deaths/1,000 live births |
+| | *female:* 63.3 deaths/1,000 live births (2020 est.) |
+| **Nigeria** | *total:* 59.8 deaths/1,000 live births |
+| | *male:* 65.4 deaths/1,000 live births |
+| | *female:* 54 deaths/1,000 live births (2020 est.) |
+| **Niue** | *total:* NA (2018) |
+| | *male:* NA |
+| | *female:* NA |
+| **Norfolk Island** | *total:* NA (2018) |
+| | *male:* NA |
+| | *female:* NA |
+| **North Macedonia** | *total:* 7.4 deaths/1,000 live births |
+| | *male:* 8.2 deaths/1,000 live births |
+| | *female:* 6.5 deaths/1,000 live births (2020 est.) |
+| **Northern Mariana Islands** | *total:* 11.5 deaths/1,000 live births |
+| | *male:* 13.7 deaths/1,000 live births |
+| | *female:* 9 deaths/1,000 live births (2020 est.) |
+| **Norway** | *total:* 2.5 deaths/1,000 live births |
+| | *male:* 2.8 deaths/1,000 live births |
+| | *female:* 2.2 deaths/1,000 live births (2020 est.) |
+| **Oman** | *total:* 11.7 deaths/1,000 live births |
+| | *male:* 12 deaths/1,000 live births |
+| | *female:* 11.4 deaths/1,000 live births (2020 est.) |
+| **Pakistan** | *total:* 52.3 deaths/1,000 live births |
+| | *male:* 55.9 deaths/1,000 live births |
+| | *female:* 48.5 deaths/1,000 live births (2020 est.) |
+| **Palau** | *total:* 9.8 deaths/1,000 live births |
+| | *male:* 11.2 deaths/1,000 live births |
+| | *female:* 8.3 deaths/1,000 live births (2020 est.) |
+| **Panama** | *total:* 9.1 deaths/1,000 live births |
+| | *male:* 9.8 deaths/1,000 live births |
+| | *female:* 8.4 deaths/1,000 live births (2020 est.) |
+| **Papua New Guinea** | *total:* 33.2 deaths/1,000 live births |
+| | *male:* 36.4 deaths/1,000 live births |
+| | *female:* 29.8 deaths/1,000 live births (2020 est.) |
+| **Paraguay** | *total:* 16.9 deaths/1,000 live births |
+| | *male:* 20 deaths/1,000 live births |
+| | *female:* 13.7 deaths/1,000 live births (2020 est.) |
+| **Peru** | *total:* 16.7 deaths/1,000 live births |
+| | *male:* 18.7 deaths/1,000 live births |
+| | *female:* 14.6 deaths/1,000 live births (2020 est.) |
+| **Philippines** | *total:* 20 deaths/1,000 live births |
+| | *male:* 22.9 deaths/1,000 live births |
+| | *female:* 17 deaths/1,000 live births (2020 est.) |
+| **Pitcairn Islands** | *total:* NA (2018) |
+| | *male:* NA |
+| | *female:* NA |
+| **Poland** | *total:* 4.3 deaths/1,000 live births |
+| | *male:* 4.6 deaths/1,000 live births |
+| | *female:* 3.9 deaths/1,000 live births (2020 est.) |
+| **Portugal** | *total:* 2.6 deaths/1,000 live births |
+| | *male:* 3 deaths/1,000 live births |
+| | *female:* 2.3 deaths/1,000 live births (2020 est.) |
+| **Puerto Rico** | *total:* 6 deaths/1,000 live births |
+| | *male:* 6.6 deaths/1,000 live births |
+| | *female:* 5.4 deaths/1,000 live births (2020 est.) |
+| **Qatar** | *total:* 5.7 deaths/1,000 live births |
+| | *male:* 6 deaths/1,000 live births |
+| | *female:* 5.4 deaths/1,000 live births (2020 est.) |
+| **Romania** | *total:* 8.7 deaths/1,000 live births |
+| | *male:* 9.9 deaths/1,000 live births |
+| | *female:* 7.4 deaths/1,000 live births (2020 est.) |
+| **Russia** | *total:* 6.5 deaths/1,000 live births |
+| | *male:* 7.3 deaths/1,000 live births |
+| | *female:* 5.6 deaths/1,000 live births (2020 est.) |
+| **Rwanda** | *total:* 28 deaths/1,000 live births |
+| | *male:* 30.6 deaths/1,000 live births |
+| | *female:* 25.3 deaths/1,000 live births (2020 est.) |
+| **Saint Barthelemy** | *total:* 5.6 deaths/1,000 live births |
+| | *male:* 6.4 deaths/1,000 live births |
+| | *female:* 4.8 deaths/1,000 live births (2020 est.) |
+| **Saint Helena, Ascension, and Tristan da Cunha** | *total:* 12 deaths/1,000 live births |
+| | *male:* 14.1 deaths/1,000 live births |
+| | *female:* 9.7 deaths/1,000 live births (2020 est.) |
+| **Saint Kitts and Nevis** | *total:* 7.8 deaths/1,000 live births |
+| | *male:* 5.7 deaths/1,000 live births |
+| | *female:* 10 deaths/1,000 live births (2020 est.) |
+| **Saint Lucia** | *total:* 10.1 deaths/1,000 live births |
+| | *male:* 9.8 deaths/1,000 live births |
+| | *female:* 10.4 deaths/1,000 live births (2020 est.) |
+| **Saint Martin** | *total:* 5.6 deaths/1,000 live births |
+| | *male:* 6.4 deaths/1,000 live births |
+| | *female:* 4.8 deaths/1,000 live births (2020 est.) |
+| **Saint Pierre and Miquelon** | *total:* 6.1 deaths/1,000 live births |
+| | *male:* 7 deaths/1,000 live births |
+| | *female:* 5.1 deaths/1,000 live births (2020 est.) |
+| **Saint Vincent and the Grenadines** | *total:* 11 deaths/1,000 live births |
+| | *male:* 12 deaths/1,000 live births |
+| | *female:* 10 deaths/1,000 live births (2020 est.) |
+| **Samoa** | *total:* 17 deaths/1,000 live births |
+| | *male:* 20 deaths/1,000 live births |
+| | *female:* 13.9 deaths/1,000 live births (2020 est.) |
+| **San Marino** | *total:* 4.2 deaths/1,000 live births |
+| | *male:* 4.4 deaths/1,000 live births |
+| | *female:* 4 deaths/1,000 live births (2020 est.) |
+| **Sao Tome and Principe** | *total:* 41.7 deaths/1,000 live births |
+| | *male:* 43.6 deaths/1,000 live births |
+| | *female:* 39.8 deaths/1,000 live births (2020 est.) |
+| **Saudi Arabia** | *total:* 11.3 deaths/1,000 live births |
+| | *male:* 12.2 deaths/1,000 live births |
+| | *female:* 10.4 deaths/1,000 live births (2020 est.) |
+| **Senegal** | *total:* 45.7 deaths/1,000 live births |
+| | *male:* 51.3 deaths/1,000 live births |
+| | *female:* 40 deaths/1,000 live births (2020 est.) |
+| **Serbia** | *total:* 5.6 deaths/1,000 live births |
+| | *male:* 6.4 deaths/1,000 live births |
+| | *female:* 4.7 deaths/1,000 live births (2020 est.) |
+| **Seychelles** | *total:* 9.3 deaths/1,000 live births |
+| | *male:* 11.5 deaths/1,000 live births |
+| | *female:* 6.9 deaths/1,000 live births (2020 est.) |
+| **Sierra Leone** | *total:* 63.6 deaths/1,000 live births |
+| | *male:* 71.6 deaths/1,000 live births |
+| | *female:* 55.4 deaths/1,000 live births (2020 est.) |
+| **Singapore** | *total:* 2.3 deaths/1,000 live births |
+| | *male:* 2.4 deaths/1,000 live births |
+| | *female:* 2 deaths/1,000 live births (2020 est.) |
+| **Sint Maarten** | *total:* 7.5 deaths/1,000 live births |
+| | *male:* 8.2 deaths/1,000 live births |
+| | *female:* 6.8 deaths/1,000 live births (2020 est.) |
+| **Slovakia** | *total:* 4.9 deaths/1,000 live births |
+| | *male:* 5.5 deaths/1,000 live births |
+| | *female:* 4.3 deaths/1,000 live births (2020 est.) |
+| **Slovenia** | *total:* 1.7 deaths/1,000 live births |
+| | *male:* 1.8 deaths/1,000 live births |
+| | *female:* 1.6 deaths/1,000 live births (2020 est.) |
+| **Solomon Islands** | *total:* 13.4 deaths/1,000 live births |
+| | *male:* 15.3 deaths/1,000 live births |
+| | *female:* 11.4 deaths/1,000 live births (2020 est.) |
+| **Somalia** | *total:* 89.5 deaths/1,000 live births |
+| | *male:* 97.8 deaths/1,000 live births |
+| | *female:* 81 deaths/1,000 live births (2020 est.) |
+| **South Africa** | *total:* 27.8 deaths/1,000 live births |
+| | *male:* 31 deaths/1,000 live births |
+| | *female:* 24.6 deaths/1,000 live births (2020 est.) |
+| **South Sudan** | *total:* 69.9 deaths/1,000 live births |
+| | *male:* 76 deaths/1,000 live births |
+| | *female:* 63.5 deaths/1,000 live births (2020 est.) |
+| **Spain** | *total:* 3.2 deaths/1,000 live births |
+| | *male:* 3.5 deaths/1,000 live births |
+| | *female:* 2.9 deaths/1,000 live births (2020 est.) |
+| **Sri Lanka** | *total:* 7.8 deaths/1,000 live births |
+| | *male:* 8.8 deaths/1,000 live births |
+| | *female:* 6.9 deaths/1,000 live births (2020 est.) |
+| **Sudan** | *total:* 41.8 deaths/1,000 live births |
+| | *male:* 46.7 deaths/1,000 live births |
+| | *female:* 36.6 deaths/1,000 live births (2020 est.) |
+| **Suriname** | *total:* 22.1 deaths/1,000 live births |
+| | *male:* 25.8 deaths/1,000 live births |
+| | *female:* 18.2 deaths/1,000 live births (2020 est.) |
+| **Svalbard** | *total:* NA (2018) |
+| | *male:* NA |
+| | *female:* NA |
+| **Sweden** | *total:* 2.6 deaths/1,000 live births |
+| | *male:* 2.9 deaths/1,000 live births |
+| | *female:* 2.3 deaths/1,000 live births (2020 est.) |
+| **Switzerland** | *total:* 3.5 deaths/1,000 live births |
+| | *male:* 3.8 deaths/1,000 live births |
+| | *female:* 3.2 deaths/1,000 live births (2020 est.) |
+| **Syria** | *total:* 16.5 deaths/1,000 live births |
+| | *male:* 18.1 deaths/1,000 live births |
+| | *female:* 14.7 deaths/1,000 live births (2020 est.) |
+| **Taiwan** | *total:* 4.2 deaths/1,000 live births |
+| | *male:* 4.6 deaths/1,000 live births |
+| | *female:* 3.8 deaths/1,000 live births (2020 est.) |
+| **Tajikistan** | *total:* 28.8 deaths/1,000 live births |
+| | *male:* 32.7 deaths/1,000 live births |
+| | *female:* 24.8 deaths/1,000 live births (2020 est.) |
+| **Tanzania** | *total:* 36.4 deaths/1,000 live births |
+| | *male:* 38.5 deaths/1,000 live births |
+| | *female:* 34.4 deaths/1,000 live births (2020 est.) |
+| **Thailand** | *total:* 8.6 deaths/1,000 live births |
+| | *male:* 9.5 deaths/1,000 live births |
+| | *female:* 7.6 deaths/1,000 live births (2020 est.) |
+| **Timor-Leste** | *total:* 31.7 deaths/1,000 live births |
+| | *male:* 34.3 deaths/1,000 live births |
+| | *female:* 28.9 deaths/1,000 live births (2020 est.) |
+| **Togo** | *total:* 38.5 deaths/1,000 live births |
+| | *male:* 44.5 deaths/1,000 live births |
+| | *female:* 32.3 deaths/1,000 live births (2020 est.) |
+| **Tokelau** | *total:* NA (2018) |
+| | *male:* NA |
+| | *female:* NA |
+| **Tonga** | *total:* 10.3 deaths/1,000 live births |
+| | *male:* 10.7 deaths/1,000 live births |
+| | *female:* 9.9 deaths/1,000 live births (2020 est.) |
+| **Trinidad and Tobago** | *total:* 20.1 deaths/1,000 live births |
+| | *male:* 21.3 deaths/1,000 live births |
+| | *female:* 18.8 deaths/1,000 live births (2020 est.) |
+| **Tunisia** | *total:* 11 deaths/1,000 live births |
+| | *male:* 12 deaths/1,000 live births |
+| | *female:* 9.8 deaths/1,000 live births (2020 est.) |
+| **Turkey** | *total:* 15.8 deaths/1,000 live births |
+| | *male:* 16.9 deaths/1,000 live births |
+| | *female:* 14.6 deaths/1,000 live births (2020 est.) |
+| **Turkmenistan** | *total:* 30.8 deaths/1,000 live births |
+| | *male:* 37.2 deaths/1,000 live births |
+| | *female:* 24.2 deaths/1,000 live births (2020 est.) |
+| **Turks and Caicos Islands** | *total:* 9.3 deaths/1,000 live births |
+| | *male:* 11.5 deaths/1,000 live births |
+| | *female:* 7 deaths/1,000 live births (2020 est.) |
+| **Tuvalu** | *total:* 26.6 deaths/1,000 live births |
+| | *male:* 28.8 deaths/1,000 live births |
+| | *female:* 24.2 deaths/1,000 live births (2020 est.) |
+| **Uganda** | *total:* 32.6 deaths/1,000 live births |
+| | *male:* 36.1 deaths/1,000 live births |
+| | *female:* 28.9 deaths/1,000 live births (2020 est.) |
+| **Ukraine** | *total:* 7.4 deaths/1,000 live births |
+| | *male:* 8.3 deaths/1,000 live births |
+| | *female:* 6.4 deaths/1,000 live births (2020 est.) |
+| **United Arab Emirates** | *total:* 5.3 deaths/1,000 live births |
+| | *male:* 5.8 deaths/1,000 live births |
+| | *female:* 4.7 deaths/1,000 live births (2020 est.) |
+| **United Kingdom** | *total:* 4.1 deaths/1,000 live births |
+| | *male:* 4.5 deaths/1,000 live births |
+| | *female:* 3.7 deaths/1,000 live births (2020 est.) |
+| **United States** | *total:* 5.3 deaths/1,000 live births |
+| | *male:* 5.7 deaths/1,000 live births |
+| | *female:* 4.9 deaths/1,000 live births (2020 est.) |
+| **Uruguay** | *total:* 7.8 deaths/1,000 live births |
+| | *male:* 8.6 deaths/1,000 live births |
+| | *female:* 6.9 deaths/1,000 live births (2020 est.) |
+| **Uzbekistan** | *total:* 16.3 deaths/1,000 live births |
+| | *male:* 19.4 deaths/1,000 live births |
+| | *female:* 13.1 deaths/1,000 live births (2020 est.) |
+| **Vanuatu** | *total:* 12.7 deaths/1,000 live births |
+| | *male:* 13.6 deaths/1,000 live births |
+| | *female:* 11.9 deaths/1,000 live births (2020 est.) |
+| **Venezuela** | *total:* 27.9 deaths/1,000 live births |
+| | *male:* 31.1 deaths/1,000 live births |
+| | *female:* 24.5 deaths/1,000 live births (2020 est.) |
+| **Vietnam** | *total:* 15.7 deaths/1,000 live births |
+| | *male:* 16 deaths/1,000 live births |
+| | *female:* 15.3 deaths/1,000 live births (2020 est.) |
+| **Virgin Islands** | *total:* 7.4 deaths/1,000 live births |
+| | *male:* 8.4 deaths/1,000 live births |
+| | *female:* 6.3 deaths/1,000 live births (2020 est.) |
+| **Wallis and Futuna** | *total:* 4.2 deaths/1,000 live births |
+| | *male:* 4.4 deaths/1,000 live births |
+| | *female:* 3.9 deaths/1,000 live births (2020 est.) |
+| **West Bank** | *total:* 12.8 deaths/1,000 live births |
+| | *male:* 14.4 deaths/1,000 live births |
+| | *female:* 11.1 deaths/1,000 live births (2020 est.) |
+| **World** | *total:* 30.8 deaths/1,000 live births |
+| | *male:* 32.8 deaths/1,000 live births |
+| | *female:* 28.6 deaths/1,000 live births (2020 est.) |
+| **Yemen** | *total:* 41.9 deaths/1,000 live births |
+| | *male:* 45.7 deaths/1,000 live births |
+| | *female:* 37.9 deaths/1,000 live births (2020 est.) |
+| **Zambia** | *total:* 56 deaths/1,000 live births |
+| | *male:* 61.1 deaths/1,000 live births |
+| | *female:* 50.7 deaths/1,000 live births (2020 est.) |
+| **Zimbabwe** | *total:* 30.3 deaths/1,000 live births |
+| | *male:* 34.2 deaths/1,000 live births |
+| | *female:* 26.4 deaths/1,000 live births (2020 est.) |
+

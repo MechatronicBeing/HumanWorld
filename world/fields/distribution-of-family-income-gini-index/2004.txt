@@ -1,0 +1,121 @@
+CIA - The World Factbook -- Field Listing - Distribution of family income - Gini index
+
+| Country | Distribution of family income - Gini index |
+| --- | --- |
+| **Algeria** | 35.3 (1995) |
+| **Armenia** | 44.4 (1996) |
+| **Australia** | 35.2 (1994) |
+| **Austria** | 31 (1995) |
+| **Azerbaijan** | 36 (1995) |
+| **Bangladesh** | 33.6 (FY95/96) |
+| **Belarus** | 21.7 (1998) |
+| **Belgium** | 28.7 (1996) |
+| **Bolivia** | 44.7 (1999) |
+| **Brazil** | 60.7 (1998) |
+| **Bulgaria** | 26.4 (2001) |
+| **Burkina Faso** | 48.2 (1994) |
+| **Burundi** | 42.5 (1998) |
+| **Cambodia** | 40.4 (1997) |
+| **Cameroon** | 47.7 (1996) |
+| **Canada** | 31.5 (1994) |
+| **Central African Republic** | 61.3 (1993) |
+| **Chile** | 56.7 (2000) |
+| **China** | 40 (2001) |
+| **Colombia** | 57.1 (1996) |
+| **Costa Rica** | 45.9 (1997) |
+| **Cote d'Ivoire** | 36.7 (1995) |
+| **Croatia** | 29 (1998) |
+| **Czech Republic** | 25.4 (1996) |
+| **Denmark** | 24.7 (1992) |
+| **Dominican Republic** | 47.4 (1998) |
+| **East Timor** | 38 (2002 est.) |
+| **Ecuador** | 43.7 (1995) |
+| **Egypt** | 34.4 (1999) |
+| **El Salvador** | 52.2 (1998) |
+| **Estonia** | 37 (1999) |
+| **Ethiopia** | 40 (1995) |
+| **European Union** | 31.1 (2003 est.) |
+| **Finland** | 25.6 (1991) |
+| **France** | 32.7 (1995) |
+| **Georgia** | 37.1 (1996) |
+| **Germany** | 30 (1994) |
+| **Ghana** | 40.7 (1999) |
+| **Greece** | 32.7 (1993) |
+| **Guatemala** | 55.8 (1998) |
+| **Guinea** | 40.3 (1994) |
+| **Honduras** | 56.3 (1998) |
+| **Hungary** | 24.4 (1998) |
+| **India** | 37.8 (1997) |
+| **Indonesia** | 37 (2001) |
+| **Ireland** | 35.9 (1987) |
+| **Israel** | 35.5 (2001) |
+| **Italy** | 27.3 (1995) |
+| **Jamaica** | 37.9 (2000) |
+| **Japan** | 24.9 (1993) |
+| **Jordan** | 36.4 (1997) |
+| **Kazakhstan** | 35.4 (1996) |
+| **Kenya** | 44.9 (1997) |
+| **Korea, South** | 31.6 (1993) |
+| **Kyrgyzstan** | 34.6 (1999) |
+| **Laos** | 37 (1997) |
+| **Latvia** | 32 (1999) |
+| **Lesotho** | 56 (1986-87) |
+| **Lithuania** | 34 (1999) |
+| **Madagascar** | 38.1 (1999) |
+| **Malaysia** | 49.2 (1997) |
+| **Mali** | 50.5 (1994) |
+| **Mauritania** | 37.3 (1995) |
+| **Mauritius** | 37 (1987 est.) |
+| **Mexico** | 53.1 (1998) |
+| **Moldova** | 40.6 (1997) |
+| **Mongolia** | 44 (1998) |
+| **Morocco** | 39.5 (1998-99) |
+| **Mozambique** | 39.6 (1996-97) |
+| **Namibia** | 70 (2003) |
+| **Nepal** | 36.7 (FY95/96) |
+| **Netherlands** | 32.6 (1994) |
+| **Nicaragua** | 60.3 (1998) |
+| **Niger** | 50.5 (1995) |
+| **Nigeria** | 50.6 (1996-97) |
+| **Norway** | 25.8 (1995) |
+| **Pakistan** | 41 (FY98/99) |
+| **Panama** | 48.5 (1997) |
+| **Papua New Guinea** | 50.9 (1996) |
+| **Paraguay** | 57.7 (1998) |
+| **Peru** | 46.2 (1996) |
+| **Philippines** | 48.1 (2000) |
+| **Poland** | 31.6 (1998) |
+| **Portugal** | 35.6 (1994-95) |
+| **Romania** | 31.1 (1998) |
+| **Russia** | 39.9 (2001) |
+| **Rwanda** | 28.9 (1985) |
+| **Senegal** | 41.3 (1995) |
+| **Sierra Leone** | 62.9 (1989) |
+| **Slovakia** | 26.3 (1996) |
+| **Slovenia** | 28.4 (1998) |
+| **South Africa** | 59.3 (1993-94) |
+| **Spain** | 32.5 (1990) |
+| **Sri Lanka** | 34.4 (1995) |
+| **Sweden** | 25 (1992) |
+| **Switzerland** | 33.1 (1992) |
+| **Taiwan** | |
+| **Tajikistan** | 34.7 (1998) |
+| **Tanzania** | 38.2 (1993) |
+| **Thailand** | 41.4 (1998) |
+| **Tunisia** | 41.7 (1995) |
+| **Turkey** | 44 (2002) |
+| **Turkmenistan** | 40.8 (1998) |
+| **Uganda** | 37.4 (1996) |
+| **Ukraine** | 29 (1999) |
+| **United Kingdom** | 36.8 (1995) |
+| **United States** | 45 (1997) |
+| **Uruguay** | 44.8 (1999) |
+| **Uzbekistan** | 44.7 (1998) |
+| **Venezuela** | 49.5 (1998) |
+| **Vietnam** | 36.1 (1998) |
+| **Yemen** | 33.4 (1998) |
+| **Zambia** | 52.6 (1998) |
+| **Zimbabwe** | 50.1 (1995) |
+
+This page was last updated on 10 February, 2005
+ 

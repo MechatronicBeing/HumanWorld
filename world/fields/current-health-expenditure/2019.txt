@@ -1,0 +1,200 @@
+Field Listing :: Current Health Expenditure :: The World Factbook - Central Intelligence Agency
+
+Current Health Expenditure (CHE) describes the share of spending on health in each country relative to the size of its economy.  It includes expenditures corresponding to the final consumption of health care goods and services and excludes investment, exports, and intermediate consumption.  CHE shows the importance of the health sector in the economy and indicates the priority given to health in monetary terms.  Note: Current Health Expenditure replaces the former Health Expenditures field and is calculated differently.
+
+| Country | Current Health Expenditure |
+| --- | --- |
+| **Afghanistan** | 10.2% (2016) |
+| **Albania** | 6.7% (2016) |
+| **Algeria** | 6.6% (2016) |
+| **Andorra** | 10.4% (2016) |
+| **Angola** | 2.9% (2016) |
+| **Antigua and Barbuda** | 4.3% (2016) |
+| **Argentina** | 7.5% (2016) |
+| **Armenia** | 9.9% (2016) |
+| **Australia** | 9.3% (2016) |
+| **Austria** | 10.4% (2016) |
+| **Azerbaijan** | 6.9% (2016) |
+| **Bahamas, The** | 6.4% (2016) |
+| **Bahrain** | 4.9% (2016) |
+| **Bangladesh** | 2.4% (2016) |
+| **Barbados** | 7% (2016) |
+| **Belarus** | 6.3% (2016) |
+| **Belgium** | 10% (2016) |
+| **Belize** | 6.1% (2016) |
+| **Benin** | 3.9% (2016) |
+| **Bhutan** | 3.5% (2016) |
+| **Bolivia** | 6.9% (2016) |
+| **Bosnia and Herzegovina** | 9.2% (2016) |
+| **Botswana** | 5.5% (2016) |
+| **Brazil** | 11.8% (2016) |
+| **Brunei** | 2.3% (2016) |
+| **Bulgaria** | 8.2% (2016) |
+| **Burkina Faso** | 6.8% (2016) |
+| **Burma** | 5.1% (2016) |
+| **Burundi** | 6.2% (2016) |
+| **Cabo Verde** | 5.2% (2016) |
+| **Cambodia** | 6.1% (2016) |
+| **Cameroon** | 4.7% (2016) |
+| **Canada** | 10.5% (2016) |
+| **Central African Republic** | 4.3% (2016) |
+| **Chad** | 4.5% (2016) |
+| **Chile** | 8.5% (2016) |
+| **China** | 5% (2016) |
+| **Colombia** | 5.9% (2016) |
+| **Comoros** | 7.6% (2016) |
+| **Congo, Democratic Republic of the** | 3.9% (2016) |
+| **Congo, Republic of the** | 4.6% (2016) |
+| **Cook Islands** | 2.7% (2015) |
+| **Costa Rica** | 7.6% (2016) |
+| **Cote d'Ivoire** | 4.4% (2016) |
+| **Croatia** | 7.2% (2016) |
+| **Cuba** | 12.2% (2016) |
+| **Cyprus** | 6.9% (2016) |
+| **Czechia** | 7.1% (2016) |
+| **Denmark** | 10.4% (2016) |
+| **Djibouti** | 3.5% (2016) |
+| **Dominica** | 5.3% (2016) |
+| **Dominican Republic** | 6.2% (2016) |
+| **Ecuador** | 8.4% (2016) |
+| **Egypt** | 4.6% (2016) |
+| **El Salvador** | 7% (2016) |
+| **Equatorial Guinea** | 3.4% (2016) |
+| **Eritrea** | 3% (2016) |
+| **Estonia** | 6.7% (2016) |
+| **Eswatini** | 7.7% (2016) |
+| **Ethiopia** | 4% (2016) |
+| **European Union** | 9.9% (2016) |
+| **Fiji** | 3.5% (2016) |
+| **Finland** | 9.5% (2016) |
+| **France** | 11.5% (2016) |
+| **Gabon** | 3.1% (2016) |
+| **Gambia, The** | 4.4% (2016) |
+| **Georgia** | 8.4% (2016) |
+| **Germany** | 11.1% (2016) |
+| **Ghana** | 4.4% (2016) |
+| **Greece** | 8.5% (2016) |
+| **Grenada** | 5.2% (2016) |
+| **Guatemala** | 5.8% (2016) |
+| **Guernsey** | |
+| **Guinea** | 5.5% (2016) |
+| **Guinea-Bissau** | 6.1% (2016) |
+| **Guyana** | 4.2% (2016) |
+| **Haiti** | 5.4% (2016) |
+| **Honduras** | 8.4% (2016) |
+| **Hungary** | 7.4% (2016) |
+| **Iceland** | 8.3% (2016) |
+| **India** | 3.7% (2016) |
+| **Indonesia** | 3.1% (2016) |
+| **Iran** | 8.1% (2016) |
+| **Iraq** | 3.3% (2016) |
+| **Ireland** | 7.4% (2016) |
+| **Israel** | 7.3% (2016) |
+| **Italy** | 8.9% (2016) |
+| **Jamaica** | 6.1% (2016) |
+| **Japan** | 10.9% (2016) |
+| **Jordan** | 5.5% (2016) |
+| **Kazakhstan** | 3.5% (2016) |
+| **Kenya** | 4.5% (2016) |
+| **Kiribati** | 11.9% (2016) |
+| **Korea, South** | 7.3% (2016) |
+| **Kuwait** | 3.9% (2016) |
+| **Kyrgyzstan** | 6.6% (2016) |
+| **Laos** | 2.4% (2016) |
+| **Latvia** | 6.2% (2016) |
+| **Lebanon** | 8% (2016) |
+| **Lesotho** | 8.1% (2016) |
+| **Liberia** | 9.6% (2016) |
+| **Lithuania** | 6.7% (2016) |
+| **Luxembourg** | 6.2% (2016) |
+| **Madagascar** | 6% (2016) |
+| **Malawi** | 9.8% (2016) |
+| **Malaysia** | 3.8% (2016) |
+| **Maldives** | 10.6% (2016) |
+| **Mali** | 3.8% (2016) |
+| **Malta** | 9.3% (2016) |
+| **Marshall Islands** | 23.3% (2016) |
+| **Mauritania** | 4.2% (2016) |
+| **Mauritius** | 5.7% (2016) |
+| **Mexico** | 5.5% (2016) |
+| **Micronesia, Federated States of** | 12.6% (2016) |
+| **Moldova** | 9% (2016) |
+| **Monaco** | 1.7% (2016) |
+| **Mongolia** | 3.8% (2016) |
+| **Montenegro** | 7.6% (2016) |
+| **Morocco** | 5.8% (2016) |
+| **Mozambique** | 5.1% (2016) |
+| **Namibia** | 9.1% (2016) |
+| **Nauru** | 11.1% (2016) |
+| **Nepal** | 6.3% (2016) |
+| **Netherlands** | 10.4% (2016) |
+| **New Zealand** | 9.2% (2016) |
+| **Nicaragua** | 8.7% (2016) |
+| **Niger** | 6.2% (2016) |
+| **Nigeria** | 3.6% (2016) |
+| **Niue** | 6.3% (2015) |
+| **North Macedonia** | 6.3% (2016) |
+| **Norway** | 10.5% (2016) |
+| **Oman** | 4.3% (2016) |
+| **Pakistan** | 2.8% (2016) |
+| **Palau** | 11.7% (2016) |
+| **Panama** | 7.3% (2016) |
+| **Papua New Guinea** | 2% (2016) |
+| **Paraguay** | 8% (2016) |
+| **Peru** | 5.1% (2016) |
+| **Philippines** | 4.4% (2016) |
+| **Poland** | 6.5% (2016) |
+| **Portugal** | 9.1% (2016) |
+| **Qatar** | 3.1% (2016) |
+| **Romania** | 5% (2016) |
+| **Russia** | 5.3% (2016) |
+| **Rwanda** | 6.8% (2016) |
+| **Saint Kitts and Nevis** | 5.7% (2016) |
+| **Saint Lucia** | 5.3% (2016) |
+| **Saint Vincent and the Grenadines** | 3.6% (2016) |
+| **Samoa** | 5.5% (2016) |
+| **San Marino** | 6.4% (2016) |
+| **Sao Tome and Principe** | 6% (2016) |
+| **Saudi Arabia** | 5.7% (2016) |
+| **Senegal** | 5.5% (2016) |
+| **Serbia** | 9.1% (2016) |
+| **Seychelles** | 3.9% (2013) |
+| **Sierra Leone** | 16.5% (2016) |
+| **Singapore** | 4.3% (2016) |
+| **Slovakia** | 7.1% (2016) |
+| **Slovenia** | 8.5% (2016) |
+| **Solomon Islands** | 5.2% (2016) |
+| **South Africa** | 8.1% (2016) |
+| **South Sudan** | 2.5% (2015) |
+| **Spain** | 9% (2016) |
+| **Sri Lanka** | 3.9% (2016) |
+| **Sudan** | 5.7% (2016) |
+| **Suriname** | 6.1% (201) |
+| **Sweden** | 10.9% (2016) |
+| **Switzerland** | 12.2% (2016) |
+| **Tajikistan** | 7% (2016) |
+| **Tanzania** | 4.1% (2016) |
+| **Thailand** | 3.7% (2016) |
+| **Timor-Leste** | 4% (2016) |
+| **Togo** | 6.6% (2016) |
+| **Tonga** | 5.3% (2016) |
+| **Trinidad and Tobago** | 6.5% (2016) |
+| **Tunisia** | 7% (2016) |
+| **Turkey** | 4.3% (2016) |
+| **Turkmenistan** | 6.6% (2016) |
+| **Tuvalu** | 15.5% (2016) |
+| **Uganda** | 6.2% (2016) |
+| **Ukraine** | 6.7% (2016) |
+| **United Arab Emirates** | 3.5% (2016) |
+| **United Kingdom** | 9.8% (2016) |
+| **United States** | 17.1% (2016) |
+| **Uruguay** | 9.1% (2016) |
+| **Uzbekistan** | 6.3% (2016) |
+| **Vanuatu** | 3.7% (2016) |
+| **Venezuela** | 3.2% (2016) |
+| **Vietnam** | 5.7% (2016) |
+| **World** | 10% (2016) |
+| **Yemen** | 5.6% (2015) |
+| **Zambia** | 4.5% (2016) |
+| **Zimbabwe** | 9.4% (2016) |
+

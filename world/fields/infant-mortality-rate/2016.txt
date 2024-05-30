@@ -1,0 +1,708 @@
+FIELD LISTING :: INFANT MORTALITY RATE
+
+This entry gives the number of deaths of infants under one year old in a given year per 1,000 live births in the same year. This rate is often used as an indicator of the level of health in a country.
+
+| Country | INFANT MORTALITY RATE(DEATHS/1,000 LIVE BIRTHS) |
+| --- | --- |
+| **Afghanistan** | *total:* 112.8 deaths/1,000 live births |
+| | *male:* 120.3 deaths/1,000 live births |
+| | *female:* 105 deaths/1,000 live births (2016 est.) |
+| **Albania** | *total:* 12.3 deaths/1,000 live births |
+| | *male:* 13.7 deaths/1,000 live births |
+| | *female:* 10.8 deaths/1,000 live births (2016 est.) |
+| **Algeria** | *total:* 20.3 deaths/1,000 live births |
+| | *male:* 21.9 deaths/1,000 live births |
+| | *female:* 18.5 deaths/1,000 live births (2016 est.) |
+| **American Samoa** | *total:* 8.5 deaths/1,000 live births |
+| | *male:* 10.9 deaths/1,000 live births |
+| | *female:* 6 deaths/1,000 live births (2016 est.) |
+| **Andorra** | *total:* 3.6 deaths/1,000 live births |
+| | *male:* 3.6 deaths/1,000 live births |
+| | *female:* 3.6 deaths/1,000 live births (2016 est.) |
+| **Angola** | *total:* 76.5 deaths/1,000 live births |
+| | *male:* 80.1 deaths/1,000 live births |
+| | *female:* 72.6 deaths/1,000 live births (2016 est.) |
+| **Anguilla** | *total:* 3.4 deaths/1,000 live births |
+| | *male:* 3.8 deaths/1,000 live births |
+| | *female:* 2.9 deaths/1,000 live births (2016 est.) |
+| **Antigua and Barbuda** | *total:* 12.5 deaths/1,000 live births |
+| | *male:* 14.4 deaths/1,000 live births |
+| | *female:* 10.5 deaths/1,000 live births (2016 est.) |
+| **Argentina** | *total:* 10.1 deaths/1,000 live births |
+| | *male:* 11 deaths/1,000 live births |
+| | *female:* 9 deaths/1,000 live births (2016 est.) |
+| **Armenia** | *total:* 13.1 deaths/1,000 live births |
+| | *male:* 14.5 deaths/1,000 live births |
+| | *female:* 11.5 deaths/1,000 live births (2016 est.) |
+| **Aruba** | *total:* 11 deaths/1,000 live births |
+| | *male:* 14.5 deaths/1,000 live births |
+| | *female:* 7.5 deaths/1,000 live births (2016 est.) |
+| **Australia** | *total:* 4.3 deaths/1,000 live births |
+| | *male:* 4.6 deaths/1,000 live births |
+| | *female:* 4 deaths/1,000 live births (2016 est.) |
+| **Austria** | *total:* 3.4 deaths/1,000 live births |
+| | *male:* 3.8 deaths/1,000 live births |
+| | *female:* 3.1 deaths/1,000 live births (2016 est.) |
+| **Azerbaijan** | *total:* 24.7 deaths/1,000 live births |
+| | *male:* 25.6 deaths/1,000 live births |
+| | *female:* 23.8 deaths/1,000 live births (2016 est.) |
+| **Bahamas, The** | *total:* 11.7 deaths/1,000 live births |
+| | *male:* 11.8 deaths/1,000 live births |
+| | *female:* 11.7 deaths/1,000 live births (2016 est.) |
+| **Bahrain** | *total:* 9.2 deaths/1,000 live births |
+| | *male:* 10.2 deaths/1,000 live births |
+| | *female:* 8.1 deaths/1,000 live births (2016 est.) |
+| **Bangladesh** | *total:* 32.9 deaths/1,000 live births |
+| | *male:* 35.2 deaths/1,000 live births |
+| | *female:* 30.4 deaths/1,000 live births (2016 est.) |
+| **Barbados** | *total:* 10.5 deaths/1,000 live births |
+| | *male:* 11.6 deaths/1,000 live births |
+| | *female:* 9.4 deaths/1,000 live births (2016 est.) |
+| **Belarus** | *total:* 3.6 deaths/1,000 live births |
+| | *male:* 4 deaths/1,000 live births |
+| | *female:* 3.2 deaths/1,000 live births (2016 est.) |
+| **Belgium** | *total:* 3.4 deaths/1,000 live births |
+| | *male:* 3.8 deaths/1,000 live births |
+| | *female:* 3 deaths/1,000 live births (2016 est.) |
+| **Belize** | *total:* 19.3 deaths/1,000 live births |
+| | *male:* 21.6 deaths/1,000 live births |
+| | *female:* 16.9 deaths/1,000 live births (2016 est.) |
+| **Benin** | *total:* 54.2 deaths/1,000 live births |
+| | *male:* 57.3 deaths/1,000 live births |
+| | *female:* 51 deaths/1,000 live births (2016 est.) |
+| **Bermuda** | *total:* 2.5 deaths/1,000 live births |
+| | *male:* 2.6 deaths/1,000 live births |
+| | *female:* 2.4 deaths/1,000 live births (2016 est.) |
+| **Bhutan** | *total:* 33.9 deaths/1,000 live births |
+| | *male:* 34.2 deaths/1,000 live births |
+| | *female:* 33.6 deaths/1,000 live births (2016 est.) |
+| **Bolivia** | *total:* 36.4 deaths/1,000 live births |
+| | *male:* 39.9 deaths/1,000 live births |
+| | *female:* 32.7 deaths/1,000 live births (2016 est.) |
+| **Bosnia and Herzegovina** | *total:* 5.6 deaths/1,000 live births |
+| | *male:* 5.7 deaths/1,000 live births |
+| | *female:* 5.5 deaths/1,000 live births (2016 est.) |
+| **Botswana** | *total:* 8.6 deaths/1,000 live births |
+| | *male:* 8.9 deaths/1,000 live births |
+| | *female:* 8.3 deaths/1,000 live births (2016 est.) |
+| **Brazil** | *total:* 18 deaths/1,000 live births |
+| | *male:* 21.2 deaths/1,000 live births |
+| | *female:* 14.7 deaths/1,000 live births (2016 est.) |
+| **British Virgin Islands** | *total:* 12.6 deaths/1,000 live births |
+| | *male:* 14.3 deaths/1,000 live births |
+| | *female:* 10.7 deaths/1,000 live births (2016 est.) |
+| **Brunei** | *total:* 9.9 deaths/1,000 live births |
+| | *male:* 11.7 deaths/1,000 live births |
+| | *female:* 7.9 deaths/1,000 live births (2016 est.) |
+| **Bulgaria** | *total:* 8.5 deaths/1,000 live births |
+| | *male:* 9.6 deaths/1,000 live births |
+| | *female:* 7.4 deaths/1,000 live births (2016 est.) |
+| **Burkina Faso** | *total:* 73.8 deaths/1,000 live births |
+| | *male:* 80.9 deaths/1,000 live births |
+| | *female:* 66.4 deaths/1,000 live births (2016 est.) |
+| **Burma** | *total:* 42.2 deaths/1,000 live births |
+| | *male:* 48.3 deaths/1,000 live births |
+| | *female:* 35.7 deaths/1,000 live births (2016 est.) |
+| **Burundi** | *total:* 60.4 deaths/1,000 live births |
+| | *male:* 66.9 deaths/1,000 live births |
+| | *female:* 53.6 deaths/1,000 live births (2016 est.) |
+| **Cabo Verde** | *total:* 22.7 deaths/1,000 live births |
+| | *male:* 26 deaths/1,000 live births |
+| | *female:* 19.2 deaths/1,000 live births (2016 est.) |
+| **Cambodia** | *total:* 48.7 deaths/1,000 live births |
+| | *male:* 55.2 deaths/1,000 live births |
+| | *female:* 41.9 deaths/1,000 live births (2016 est.) |
+| **Cameroon** | *total:* 52.2 deaths/1,000 live births |
+| | *male:* 55.8 deaths/1,000 live births |
+| | *female:* 48.5 deaths/1,000 live births (2016 est.) |
+| **Canada** | *total:* 4.6 deaths/1,000 live births |
+| | *male:* 4.9 deaths/1,000 live births |
+| | *female:* 4.3 deaths/1,000 live births (2016 est.) |
+| **Cayman Islands** | *total:* 6 deaths/1,000 live births |
+| | *male:* 6.8 deaths/1,000 live births |
+| | *female:* 5.1 deaths/1,000 live births (2016 est.) |
+| **Central African Republic** | *total:* 88.4 deaths/1,000 live births |
+| | *male:* 95.9 deaths/1,000 live births |
+| | *female:* 80.7 deaths/1,000 live births (2016 est.) |
+| **Chad** | *total:* 87 deaths/1,000 live births |
+| | *male:* 92.5 deaths/1,000 live births |
+| | *female:* 81.3 deaths/1,000 live births (2016 est.) |
+| **Chile** | *total:* 6.7 deaths/1,000 live births |
+| | *male:* 7.2 deaths/1,000 live births |
+| | *female:* 6.2 deaths/1,000 live births (2016 est.) |
+| **China** | *total:* 12.2 deaths/1,000 live births |
+| | *male:* 12.4 deaths/1,000 live births |
+| | *female:* 12 deaths/1,000 live births (2016 est.) |
+| **Christmas Island** | *total:* NA |
+| | *male:* NA |
+| | *female:* NA |
+| **Cocos (Keeling) Islands** | *total:* NA |
+| | *male:* NA |
+| | *female:* NA |
+| **Colombia** | *total:* 14.1 deaths/1,000 live births |
+| | *male:* 17.1 deaths/1,000 live births |
+| | *female:* 10.9 deaths/1,000 live births (2016 est.) |
+| **Comoros** | *total:* 61.8 deaths/1,000 live births |
+| | *male:* 72.2 deaths/1,000 live births |
+| | *female:* 51 deaths/1,000 live births (2016 est.) |
+| **Congo, Democratic Republic of the** | *total:* 69.8 deaths/1,000 live births |
+| | *male:* 73.4 deaths/1,000 live births |
+| | *female:* 66.2 deaths/1,000 live births (2016 est.) |
+| **Congo, Republic of the** | *total:* 56.4 deaths/1,000 live births |
+| | *male:* 61.4 deaths/1,000 live births |
+| | *female:* 51.3 deaths/1,000 live births (2016 est.) |
+| **Cook Islands** | *total:* 13.5 deaths/1,000 live births |
+| | *male:* 16.3 deaths/1,000 live births |
+| | *female:* 10.4 deaths/1,000 live births (2016 est.) |
+| **Costa Rica** | *total:* 8.3 deaths/1,000 live births |
+| | *male:* 9 deaths/1,000 live births |
+| | *female:* 7.4 deaths/1,000 live births (2016 est.) |
+| **Cote d'Ivoire** | *total:* 57.2 deaths/1,000 live births |
+| | *male:* 63.1 deaths/1,000 live births |
+| | *female:* 51.1 deaths/1,000 live births (2016 est.) |
+| **Croatia** | *total:* 9.5 deaths/1,000 live births |
+| | *male:* 9.2 deaths/1,000 live births |
+| | *female:* 9.8 deaths/1,000 live births (2016 est.) |
+| **Cuba** | *total:* 4.5 deaths/1,000 live births |
+| | *male:* 5 deaths/1,000 live births |
+| | *female:* 4 deaths/1,000 live births (2016 est.) |
+| **Curacao** | *total:* 7.7 deaths/1,000 live births |
+| | *male:* 8.3 deaths/1,000 live births |
+| | *female:* 7.1 deaths/1,000 live births (2016 est.) |
+| **Cyprus** | *total:* 8.1 deaths/1,000 live births |
+| | *male:* 9.6 deaths/1,000 live births |
+| | *female:* 6.6 deaths/1,000 live births (2016 est.) |
+| **Czechia** | *total:* 2.6 deaths/1,000 live births |
+| | *male:* 2.8 deaths/1,000 live births |
+| | *female:* 2.5 deaths/1,000 live births (2016 est.) |
+| **Denmark** | *total:* 4 deaths/1,000 live births |
+| | *male:* 4.1 deaths/1,000 live births |
+| | *female:* 3.9 deaths/1,000 live births (2016 est.) |
+| **Djibouti** | *total:* 47.2 deaths/1,000 live births |
+| | *male:* 54.1 deaths/1,000 live births |
+| | *female:* 40.1 deaths/1,000 live births (2016 est.) |
+| **Dominica** | *total:* 10.9 deaths/1,000 live births |
+| | *male:* 14.5 deaths/1,000 live births |
+| | *female:* 7.2 deaths/1,000 live births (2016 est.) |
+| **Dominican Republic** | *total:* 18.1 deaths/1,000 live births |
+| | *male:* 20 deaths/1,000 live births |
+| | *female:* 16.2 deaths/1,000 live births (2016 est.) |
+| **Ecuador** | *total:* 16.9 deaths/1,000 live births |
+| | *male:* 19.9 deaths/1,000 live births |
+| | *female:* 13.7 deaths/1,000 live births (2016 est.) |
+| **Egypt** | *total:* 19.7 deaths/1,000 live births |
+| | *male:* 21 deaths/1,000 live births |
+| | *female:* 18.3 deaths/1,000 live births (2016 est.) |
+| **El Salvador** | *total:* 17.3 deaths/1,000 live births |
+| | *male:* 19.4 deaths/1,000 live births |
+| | *female:* 15.1 deaths/1,000 live births (2016 est.) |
+| **Equatorial Guinea** | *total:* 67.2 deaths/1,000 live births |
+| | *male:* 68.2 deaths/1,000 live births |
+| | *female:* 66.1 deaths/1,000 live births (2016 est.) |
+| **Eritrea** | *total:* 45.6 deaths/1,000 live births |
+| | *male:* 52.6 deaths/1,000 live births |
+| | *female:* 38.5 deaths/1,000 live births (2016 est.) |
+| **Estonia** | *total:* 3.8 deaths/1,000 live births |
+| | *male:* 3.7 deaths/1,000 live births |
+| | *female:* 3.9 deaths/1,000 live births (2016 est.) |
+| **Ethiopia** | *total:* 51.1 deaths/1,000 live births |
+| | *male:* 58.5 deaths/1,000 live births |
+| | *female:* 43.4 deaths/1,000 live births (2016 est.) |
+| **European Union** | *total:* 4 deaths/1,000 live births |
+| | *male:* 4.4 deaths/1,000 live births |
+| | *female:* 3.6 deaths/1,000 live births (2016 est.) |
+| **Falkland Islands (Islas Malvinas)** | *total:* NA |
+| | *male:* NA |
+| | *female:* NA |
+| **Faroe Islands** | *total:* 5.5 deaths/1,000 live births |
+| | *male:* 5.8 deaths/1,000 live births |
+| | *female:* 5.2 deaths/1,000 live births (2016 est.) |
+| **Fiji** | *total:* 9.7 deaths/1,000 live births |
+| | *male:* 10.7 deaths/1,000 live births |
+| | *female:* 8.7 deaths/1,000 live births (2016 est.) |
+| **Finland** | *total:* 2.5 deaths/1,000 live births |
+| | *male:* 2.7 deaths/1,000 live births |
+| | *female:* 2.4 deaths/1,000 live births (2016 est.) |
+| **France** | *total:* 3.3 deaths/1,000 live births |
+| | *male:* 3.6 deaths/1,000 live births |
+| | *female:* 2.9 deaths/1,000 live births (2016 est.) |
+| **French Polynesia** | *total:* 4.7 deaths/1,000 live births |
+| | *male:* 5.2 deaths/1,000 live births |
+| | *female:* 4.1 deaths/1,000 live births (2016 est.) |
+| **Gabon** | *total:* 45.1 deaths/1,000 live births |
+| | *male:* 52 deaths/1,000 live births |
+| | *female:* 38 deaths/1,000 live births (2016 est.) |
+| **Gambia, The** | *total:* 62 deaths/1,000 live births |
+| | *male:* 67.4 deaths/1,000 live births |
+| | *female:* 56.5 deaths/1,000 live births (2016 est.) |
+| **Gaza Strip** | *total:* 17.1 deaths/1,000 live births |
+| | *male:* 18.2 deaths/1,000 live births |
+| | *female:* 15.9 deaths/1,000 live births (2016 est.) |
+| **Georgia** | *total:* 15.6 deaths/1,000 live births |
+| | *male:* 17.8 deaths/1,000 live births |
+| | *female:* 13.4 deaths/1,000 live births (2016 est.) |
+| **Germany** | *total:* 3.4 deaths/1,000 live births |
+| | *male:* 3.7 deaths/1,000 live births |
+| | *female:* 3.1 deaths/1,000 live births (2016 est.) |
+| **Ghana** | *total:* 36.3 deaths/1,000 live births |
+| | *male:* 40.2 deaths/1,000 live births |
+| | *female:* 32.2 deaths/1,000 live births (2016 est.) |
+| **Gibraltar** | *total:* 6 deaths/1,000 live births |
+| | *male:* 6.7 deaths/1,000 live births |
+| | *female:* 5.3 deaths/1,000 live births (2016 est.) |
+| **Greece** | *total:* 4.6 deaths/1,000 live births |
+| | *male:* 5.1 deaths/1,000 live births |
+| | *female:* 4.2 deaths/1,000 live births (2016 est.) |
+| **Greenland** | *total:* 9 deaths/1,000 live births |
+| | *male:* 10.3 deaths/1,000 live births |
+| | *female:* 7.7 deaths/1,000 live births (2016 est.) |
+| **Grenada** | *total:* 9.9 deaths/1,000 live births |
+| | *male:* 9.4 deaths/1,000 live births |
+| | *female:* 10.6 deaths/1,000 live births (2016 est.) |
+| **Guam** | *total:* 5.3 deaths/1,000 live births |
+| | *male:* 5.7 deaths/1,000 live births |
+| | *female:* 4.9 deaths/1,000 live births (2016 est.) |
+| **Guatemala** | *total:* 22 deaths/1,000 live births |
+| | *male:* 23.9 deaths/1,000 live births |
+| | *female:* 19.9 deaths/1,000 live births (2016 est.) |
+| **Guernsey** | *total:* 3.4 deaths/1,000 live births |
+| | *male:* 3.7 deaths/1,000 live births |
+| | *female:* 3.1 deaths/1,000 live births (2016 est.) |
+| **Guinea-Bissau** | *total:* 87.5 deaths/1,000 live births |
+| | *male:* 96.9 deaths/1,000 live births |
+| | *female:* 77.7 deaths/1,000 live births (2016 est.) |
+| **Guinea** | *total:* 51.7 deaths/1,000 live births |
+| | *male:* 54.4 deaths/1,000 live births |
+| | *female:* 48.9 deaths/1,000 live births (2016 est.) |
+| **Guyana** | *total:* 31.5 deaths/1,000 live births |
+| | *male:* 35.4 deaths/1,000 live births |
+| | *female:* 27.3 deaths/1,000 live births (2016 est.) |
+| **Haiti** | *total:* 48.2 deaths/1,000 live births |
+| | *male:* 54.6 deaths/1,000 live births |
+| | *female:* 41.8 deaths/1,000 live births (2016 est.) |
+| **Honduras** | *total:* 17.7 deaths/1,000 live births |
+| | *male:* 20 deaths/1,000 live births |
+| | *female:* 15.2 deaths/1,000 live births (2016 est.) |
+| **Hong Kong** | *total:* 2.7 deaths/1,000 live births |
+| | *male:* 3 deaths/1,000 live births |
+| | *female:* 2.5 deaths/1,000 live births (2016 est.) |
+| **Hungary** | *total:* 5 deaths/1,000 live births |
+| | *male:* 5.2 deaths/1,000 live births |
+| | *female:* 4.7 deaths/1,000 live births (2016 est.) |
+| **Iceland** | *total:* 2.1 deaths/1,000 live births |
+| | *male:* 2.2 deaths/1,000 live births |
+| | *female:* 1.9 deaths/1,000 live births (2016 est.) |
+| **India** | *total:* 40.5 deaths/1,000 live births |
+| | *male:* 39.2 deaths/1,000 live births |
+| | *female:* 41.8 deaths/1,000 live births (2016 est.) |
+| **Indonesia** | *total:* 23.5 deaths/1,000 live births |
+| | *male:* 27.5 deaths/1,000 live births |
+| | *female:* 19.2 deaths/1,000 live births (2016 est.) |
+| **Iran** | *total:* 37.1 deaths/1,000 live births |
+| | *male:* 37.6 deaths/1,000 live births |
+| | *female:* 36.5 deaths/1,000 live births (2016 est.) |
+| **Iraq** | *total:* 37.5 deaths/1,000 live births |
+| | *male:* 40.6 deaths/1,000 live births |
+| | *female:* 34.2 deaths/1,000 live births (2016 est.) |
+| **Ireland** | *total:* 3.7 deaths/1,000 live births |
+| | *male:* 4 deaths/1,000 live births |
+| | *female:* 3.3 deaths/1,000 live births (2016 est.) |
+| **Isle of Man** | *total:* 4.1 deaths/1,000 live births |
+| | *male:* 4 deaths/1,000 live births |
+| | *female:* 4.1 deaths/1,000 live births (2016 est.) |
+| **Israel** | *total:* 3.5 deaths/1,000 live births |
+| | *male:* 3.5 deaths/1,000 live births |
+| | *female:* 3.5 deaths/1,000 live births (2016 est.) |
+| **Italy** | *total:* 3.3 deaths/1,000 live births |
+| | *male:* 3.5 deaths/1,000 live births |
+| | *female:* 3.1 deaths/1,000 live births (2016 est.) |
+| **Jamaica** | *total:* 13.1 deaths/1,000 live births |
+| | *male:* 13.7 deaths/1,000 live births |
+| | *female:* 12.5 deaths/1,000 live births (2016 est.) |
+| **Japan** | *total:* 2 deaths/1,000 live births |
+| | *male:* 2.3 deaths/1,000 live births |
+| | *female:* 1.8 deaths/1,000 live births (2016 est.) |
+| **Jersey** | *total:* 3.8 deaths/1,000 live births |
+| | *male:* 4 deaths/1,000 live births |
+| | *female:* 3.6 deaths/1,000 live births (2016 est.) |
+| **Jordan** | *total:* 14.7 deaths/1,000 live births |
+| | *male:* 15.5 deaths/1,000 live births |
+| | *female:* 13.8 deaths/1,000 live births (2016 est.) |
+| **Kazakhstan** | *total:* 20.3 deaths/1,000 live births |
+| | *male:* 22.9 deaths/1,000 live births |
+| | *female:* 17.8 deaths/1,000 live births (2016 est.) |
+| **Kenya** | *total:* 38.3 deaths/1,000 live births |
+| | *male:* 42.7 deaths/1,000 live births |
+| | *female:* 33.7 deaths/1,000 live births (2016 est.) |
+| **Kiribati** | *total:* 33.2 deaths/1,000 live births |
+| | *male:* 34.4 deaths/1,000 live births |
+| | *female:* 31.9 deaths/1,000 live births (2016 est.) |
+| **Korea, North** | *total:* 22.9 deaths/1,000 live births |
+| | *male:* 25.4 deaths/1,000 live births |
+| | *female:* 20.2 deaths/1,000 live births (2016 est.) |
+| **Korea, South** | *total:* 3 deaths/1,000 live births |
+| | *male:* 3.2 deaths/1,000 live births |
+| | *female:* 2.8 deaths/1,000 live births (2016 est.) |
+| **Kuwait** | *total:* 7.1 deaths/1,000 live births |
+| | *male:* 6.9 deaths/1,000 live births |
+| | *female:* 7.4 deaths/1,000 live births (2016 est.) |
+| **Kyrgyzstan** | *total:* 26.8 deaths/1,000 live births |
+| | *male:* 30.9 deaths/1,000 live births |
+| | *female:* 22.4 deaths/1,000 live births (2016 est.) |
+| **Laos** | *total:* 51.4 deaths/1,000 live births |
+| | *male:* 56.8 deaths/1,000 live births |
+| | *female:* 45.8 deaths/1,000 live births (2016 est.) |
+| **Latvia** | *total:* 5.3 deaths/1,000 live births |
+| | *male:* 5.7 deaths/1,000 live births |
+| | *female:* 4.9 deaths/1,000 live births (2016 est.) |
+| **Lebanon** | *total:* 7.6 deaths/1,000 live births |
+| | *male:* 8 deaths/1,000 live births |
+| | *female:* 7.1 deaths/1,000 live births (2016 est.) |
+| **Lesotho** | *total:* 47.6 deaths/1,000 live births |
+| | *male:* 51.2 deaths/1,000 live births |
+| | *female:* 43.8 deaths/1,000 live births (2016 est.) |
+| **Liberia** | *total:* 65.8 deaths/1,000 live births |
+| | *male:* 69.9 deaths/1,000 live births |
+| | *female:* 61.5 deaths/1,000 live births (2016 est.) |
+| **Libya** | *total:* 11.1 deaths/1,000 live births |
+| | *male:* 12 deaths/1,000 live births |
+| | *female:* 10.2 deaths/1,000 live births (2016 est.) |
+| **Liechtenstein** | *total:* 4.3 deaths/1,000 live births |
+| | *male:* 4.6 deaths/1,000 live births |
+| | *female:* 3.9 deaths/1,000 live births (2016 est.) |
+| **Lithuania** | *total:* 3.8 deaths/1,000 live births |
+| | *male:* 4.3 deaths/1,000 live births |
+| | *female:* 3.4 deaths/1,000 live births (2016 est.) |
+| **Luxembourg** | *total:* 3.4 deaths/1,000 live births |
+| | *male:* 3.8 deaths/1,000 live births |
+| | *female:* 3 deaths/1,000 live births (2016 est.) |
+| **Macau** | *total:* 3.1 deaths/1,000 live births |
+| | *male:* 3.3 deaths/1,000 live births |
+| | *female:* 2.9 deaths/1,000 live births (2016 est.) |
+| **Macedonia** | *total:* 7.5 deaths/1,000 live births |
+| | *male:* 7.8 deaths/1,000 live births |
+| | *female:* 7.2 deaths/1,000 live births (2016 est.) |
+| **Madagascar** | *total:* 42.4 deaths/1,000 live births |
+| | *male:* 46.3 deaths/1,000 live births |
+| | *female:* 38.5 deaths/1,000 live births (2016 est.) |
+| **Malawi** | *total:* 44.8 deaths/1,000 live births |
+| | *male:* 51.5 deaths/1,000 live births |
+| | *female:* 38 deaths/1,000 live births (2016 est.) |
+| **Malaysia** | *total:* 12.9 deaths/1,000 live births |
+| | *male:* 14.9 deaths/1,000 live births |
+| | *female:* 10.8 deaths/1,000 live births (2016 est.) |
+| **Maldives** | *total:* 22.9 deaths/1,000 live births |
+| | *male:* 25.2 deaths/1,000 live births |
+| | *female:* 20.4 deaths/1,000 live births (2016 est.) |
+| **Mali** | *total:* 100 deaths/1,000 live births |
+| | *male:* 106.6 deaths/1,000 live births |
+| | *female:* 93.2 deaths/1,000 live births (2016 est.) |
+| **Malta** | *total:* 3.5 deaths/1,000 live births |
+| | *male:* 3.9 deaths/1,000 live births |
+| | *female:* 3.1 deaths/1,000 live births (2016 est.) |
+| **Marshall Islands** | *total:* 20 deaths/1,000 live births |
+| | *male:* 22.5 deaths/1,000 live births |
+| | *female:* 17.3 deaths/1,000 live births (2016 est.) |
+| **Mauritania** | *total:* 53.3 deaths/1,000 live births |
+| | *male:* 58.1 deaths/1,000 live births |
+| | *female:* 48.2 deaths/1,000 live births (2016 est.) |
+| **Mauritius** | *total:* 10 deaths/1,000 live births |
+| | *male:* 11.9 deaths/1,000 live births |
+| | *female:* 8.1 deaths/1,000 live births (2016 est.) |
+| **Mexico** | *total:* 11.9 deaths/1,000 live births |
+| | *male:* 13.3 deaths/1,000 live births |
+| | *female:* 10.4 deaths/1,000 live births (2016 est.) |
+| **Micronesia, Federated States of** | *total:* 20.5 deaths/1,000 live births |
+| | *male:* 22.7 deaths/1,000 live births |
+| | *female:* 18.1 deaths/1,000 live births (2016 est.) |
+| **Moldova** | *total:* 12.3 deaths/1,000 live births |
+| | *male:* 14.1 deaths/1,000 live births |
+| | *female:* 10.3 deaths/1,000 live births (2016 est.) |
+| **Monaco** | *total:* 1.8 deaths/1,000 live births |
+| | *male:* 2.1 deaths/1,000 live births |
+| | *female:* 1.6 deaths/1,000 live births (2016 est.) |
+| **Mongolia** | *total:* 21.8 deaths/1,000 live births |
+| | *male:* 24.9 deaths/1,000 live births |
+| | *female:* 18.5 deaths/1,000 live births (2016 est.) |
+| **Montserrat** | *total:* 12.7 deaths/1,000 live births |
+| | *male:* 9.9 deaths/1,000 live births |
+| | *female:* 15.6 deaths/1,000 live births (2016 est.) |
+| **Morocco** | *total:* 22.7 deaths/1,000 live births |
+| | *male:* 26.9 deaths/1,000 live births |
+| | *female:* 18.3 deaths/1,000 live births (2016 est.) |
+| **Mozambique** | *total:* 67.9 deaths/1,000 live births |
+| | *male:* 70 deaths/1,000 live births |
+| | *female:* 65.9 deaths/1,000 live births (2016 est.) |
+| **Namibia** | *total:* 36.4 deaths/1,000 live births |
+| | *male:* 38.7 deaths/1,000 live births |
+| | *female:* 34.1 deaths/1,000 live births (2016 est.) |
+| **Nauru** | *total:* 7.9 deaths/1,000 live births |
+| | *male:* 10.2 deaths/1,000 live births |
+| | *female:* 6.1 deaths/1,000 live births (2016 est.) |
+| **Nepal** | *total:* 28.9 deaths/1,000 live births |
+| | *male:* 30.2 deaths/1,000 live births |
+| | *female:* 27.5 deaths/1,000 live births (2016 est.) |
+| **Netherlands** | *total:* 3.6 deaths/1,000 live births |
+| | *male:* 3.9 deaths/1,000 live births |
+| | *female:* 3.3 deaths/1,000 live births (2016 est.) |
+| **New Caledonia** | *total:* 5.3 deaths/1,000 live births |
+| | *male:* 6.2 deaths/1,000 live births |
+| | *female:* 4.3 deaths/1,000 live births (2016 est.) |
+| **New Zealand** | *total:* 4.5 deaths/1,000 live births |
+| | *male:* 5 deaths/1,000 live births |
+| | *female:* 3.9 deaths/1,000 live births (2016 est.) |
+| **Nicaragua** | *total:* 19 deaths/1,000 live births |
+| | *male:* 21.8 deaths/1,000 live births |
+| | *female:* 16 deaths/1,000 live births (2016 est.) |
+| **Nigeria** | *total:* 71.2 deaths/1,000 live births |
+| | *male:* 76 deaths/1,000 live births |
+| | *female:* 66.2 deaths/1,000 live births (2016 est.) |
+| **Niger** | *total:* 82.8 deaths/1,000 live births |
+| | *male:* 87.3 deaths/1,000 live births |
+| | *female:* 78.2 deaths/1,000 live births (2016 est.) |
+| **Niue** | *total:* NA |
+| | *male:* NA |
+| | *female:* NA |
+| **Norfolk Island** | *total:* NA |
+| | *male:* NA |
+| | *female:* NA |
+| **Northern Mariana Islands** | *total:* 5.3 deaths/1,000 live births |
+| | *male:* 5.7 deaths/1,000 live births |
+| | *female:* 4.9 deaths/1,000 live births (2016 est.) |
+| **Norway** | *total:* 2.5 deaths/1,000 live births |
+| | *male:* 2.8 deaths/1,000 live births |
+| | *female:* 2.2 deaths/1,000 live births (2016 est.) |
+| **Oman** | *total:* 13.2 deaths/1,000 live births |
+| | *male:* 13.5 deaths/1,000 live births |
+| | *female:* 12.8 deaths/1,000 live births (2016 est.) |
+| **Pakistan** | *total:* 53.9 deaths/1,000 live births |
+| | *male:* 57 deaths/1,000 live births |
+| | *female:* 50.6 deaths/1,000 live births (2016 est.) |
+| **Palau** | *total:* 10.9 deaths/1,000 live births |
+| | *male:* 12.4 deaths/1,000 live births |
+| | *female:* 9.3 deaths/1,000 live births (2016 est.) |
+| **Panama** | *total:* 10.1 deaths/1,000 live births |
+| | *male:* 10.9 deaths/1,000 live births |
+| | *female:* 9.4 deaths/1,000 live births (2016 est.) |
+| **Papua New Guinea** | *total:* 37.4 deaths/1,000 live births |
+| | *male:* 40.9 deaths/1,000 live births |
+| | *female:* 33.8 deaths/1,000 live births (2016 est.) |
+| **Paraguay** | *total:* 19.4 deaths/1,000 live births |
+| | *male:* 22.8 deaths/1,000 live births |
+| | *female:* 15.7 deaths/1,000 live births (2016 est.) |
+| **Peru** | *total:* 19 deaths/1,000 live births |
+| | *male:* 21.1 deaths/1,000 live births |
+| | *female:* 16.7 deaths/1,000 live births (2016 est.) |
+| **Philippines** | *total:* 21.9 deaths/1,000 live births |
+| | *male:* 24.8 deaths/1,000 live births |
+| | *female:* 18.8 deaths/1,000 live births (2016 est.) |
+| **Pitcairn Islands** | *total:* NA |
+| | *male:* NA |
+| | *female:* NA |
+| **Poland** | *total:* 4.5 deaths/1,000 live births |
+| | *male:* 4.8 deaths/1,000 live births |
+| | *female:* 4 deaths/1,000 live births (2016 est.) |
+| **Portugal** | *total:* 4.4 deaths/1,000 live births |
+| | *male:* 4.8 deaths/1,000 live births |
+| | *female:* 3.9 deaths/1,000 live births (2016 est.) |
+| **Puerto Rico** | *total:* 7.4 deaths/1,000 live births |
+| | *male:* 8.2 deaths/1,000 live births |
+| | *female:* 6.6 deaths/1,000 live births (2016 est.) |
+| **Qatar** | *total:* 6.2 deaths/1,000 live births |
+| | *male:* 6.4 deaths/1,000 live births |
+| | *female:* 6 deaths/1,000 live births (2016 est.) |
+| **Romania** | *total:* 9.6 deaths/1,000 live births |
+| | *male:* 11 deaths/1,000 live births |
+| | *female:* 8.2 deaths/1,000 live births (2016 est.) |
+| **Russia** | *total:* 6.9 deaths/1,000 live births |
+| | *male:* 7.7 deaths/1,000 live births |
+| | *female:* 6 deaths/1,000 live births (2016 est.) |
+| **Rwanda** | *total:* 56.8 deaths/1,000 live births |
+| | *male:* 60.2 deaths/1,000 live births |
+| | *female:* 53.2 deaths/1,000 live births (2016 est.) |
+| **Saint Helena, Ascension, and Tristan da Cunha** | *total:* 13.7 deaths/1,000 live births |
+| | *male:* 16.2 deaths/1,000 live births |
+| | *female:* 11.1 deaths/1,000 live births (2016 est.) |
+| **Saint Kitts and Nevis** | *total:* 8.6 deaths/1,000 live births |
+| | *male:* 6 deaths/1,000 live births |
+| | *female:* 11.2 deaths/1,000 live births (2016 est.) |
+| **Saint Lucia** | *total:* 11.2 deaths/1,000 live births |
+| | *male:* 10.7 deaths/1,000 live births |
+| | *female:* 11.7 deaths/1,000 live births (2016 est.) |
+| **Saint Pierre and Miquelon** | *total:* 6.6 deaths/1,000 live births |
+| | *male:* 7.7 deaths/1,000 live births |
+| | *female:* 5.5 deaths/1,000 live births (2016 est.) |
+| **Saint Vincent and the Grenadines** | *total:* 12.3 deaths/1,000 live births |
+| | *male:* 13.5 deaths/1,000 live births |
+| | *female:* 11.2 deaths/1,000 live births (2016 est.) |
+| **Samoa** | *total:* 19 deaths/1,000 live births |
+| | *male:* 22.4 deaths/1,000 live births |
+| | *female:* 15.5 deaths/1,000 live births (2016 est.) |
+| **San Marino** | *total:* 4.4 deaths/1,000 live births |
+| | *male:* 4.6 deaths/1,000 live births |
+| | *female:* 4.2 deaths/1,000 live births (2016 est.) |
+| **Sao Tome and Principe** | *total:* 46.6 deaths/1,000 live births |
+| | *male:* 48.5 deaths/1,000 live births |
+| | *female:* 44.6 deaths/1,000 live births (2016 est.) |
+| **Saudi Arabia** | *total:* 13.6 deaths/1,000 live births |
+| | *male:* 15.6 deaths/1,000 live births |
+| | *female:* 11.5 deaths/1,000 live births (2016 est.) |
+| **Senegal** | *total:* 50.3 deaths/1,000 live births |
+| | *male:* 56.3 deaths/1,000 live births |
+| | *female:* 44.2 deaths/1,000 live births (2016 est.) |
+| **Serbia** | *total:* 5.9 deaths/1,000 live births |
+| | *male:* 6.8 deaths/1,000 live births |
+| | *female:* 5 deaths/1,000 live births (2016 est.) |
+| **Seychelles** | *total:* 10.2 deaths/1,000 live births |
+| | *male:* 12.8 deaths/1,000 live births |
+| | *female:* 7.6 deaths/1,000 live births (2016 est.) |
+| **Sierra Leone** | *total:* 70 deaths/1,000 live births |
+| | *male:* 78.4 deaths/1,000 live births |
+| | *female:* 61.4 deaths/1,000 live births (2016 est.) |
+| **Singapore** | *total:* 2.4 deaths/1,000 live births |
+| | *male:* 2.6 deaths/1,000 live births |
+| | *female:* 2.2 deaths/1,000 live births (2016 est.) |
+| **Sint Maarten** | *total:* 8.3 deaths/1,000 live births |
+| | *male:* 9.1 deaths/1,000 live births |
+| | *female:* 7.6 deaths/1,000 live births (2016 est.) |
+| **Slovakia** | *total:* 5.2 deaths/1,000 live births |
+| | *male:* 5.8 deaths/1,000 live births |
+| | *female:* 4.5 deaths/1,000 live births (2016 est.) |
+| **Slovenia** | *total:* 4 deaths/1,000 live births |
+| | *male:* 4.5 deaths/1,000 live births |
+| | *female:* 3.4 deaths/1,000 live births (2016 est.) |
+| **Solomon Islands** | *total:* 15.2 deaths/1,000 live births |
+| | *male:* 17.3 deaths/1,000 live births |
+| | *female:* 12.9 deaths/1,000 live births (2016 est.) |
+| **Somalia** | *total:* 96.6 deaths/1,000 live births |
+| | *male:* 105.2 deaths/1,000 live births |
+| | *female:* 87.7 deaths/1,000 live births (2016 est.) |
+| **South Africa** | *total:* 32 deaths/1,000 live births |
+| | *male:* 35.5 deaths/1,000 live births |
+| | *female:* 28.4 deaths/1,000 live births (2016 est.) |
+| **South Sudan** | *total:* 64.6 deaths/1,000 live births |
+| | *male:* 69.1 deaths/1,000 live births |
+| | *female:* 59.8 deaths/1,000 live births (2016 est.) |
+| **Spain** | *total:* 3.3 deaths/1,000 live births |
+| | *male:* 3.6 deaths/1,000 live births |
+| | *female:* 2.9 deaths/1,000 live births (2016 est.) |
+| **Sri Lanka** | *total:* 8.6 deaths/1,000 live births |
+| | *male:* 9.5 deaths/1,000 live births |
+| | *female:* 7.6 deaths/1,000 live births (2016 est.) |
+| **Sudan** | *total:* 50.2 deaths/1,000 live births |
+| | *male:* 55.4 deaths/1,000 live births |
+| | *female:* 44.6 deaths/1,000 live births (2016 est.) |
+| **Suriname** | *total:* 25.3 deaths/1,000 live births |
+| | *male:* 29.5 deaths/1,000 live births |
+| | *female:* 20.9 deaths/1,000 live births (2016 est.) |
+| **Svalbard** | *total:* NA |
+| | *male:* NA |
+| | *female:* NA |
+| **Swaziland** | *total:* 50.4 deaths/1,000 live births |
+| | *male:* 54.4 deaths/1,000 live births |
+| | *female:* 46.4 deaths/1,000 live births (2016 est.) |
+| **Sweden** | *total:* 2.6 deaths/1,000 live births |
+| | *male:* 2.9 deaths/1,000 live births |
+| | *female:* 2.3 deaths/1,000 live births (2016 est.) |
+| **Switzerland** | *total:* 3.6 deaths/1,000 live births |
+| | *male:* 4 deaths/1,000 live births |
+| | *female:* 3.3 deaths/1,000 live births (2016 est.) |
+| **Syria** | *total:* 15.2 deaths/1,000 live births |
+| | *male:* 17.5 deaths/1,000 live births |
+| | *female:* 12.8 deaths/1,000 live births (2016 est.) |
+| **Taiwan** | *total:* 4.4 deaths/1,000 live births |
+| | *male:* 4.8 deaths/1,000 live births |
+| | *female:* 4 deaths/1,000 live births (2016 est.) |
+| **Tajikistan** | *total:* 32.8 deaths/1,000 live births |
+| | *male:* 37.1 deaths/1,000 live births |
+| | *female:* 28.4 deaths/1,000 live births (2016 est.) |
+| **Tanzania** | *total:* 41.2 deaths/1,000 live births |
+| | *male:* 43.2 deaths/1,000 live births |
+| | *female:* 39.1 deaths/1,000 live births (2016 est.) |
+| **Thailand** | *total:* 9.4 deaths/1,000 live births |
+| | *male:* 10.4 deaths/1,000 live births |
+| | *female:* 8.4 deaths/1,000 live births (2016 est.) |
+| **Timor-Leste** | *total:* 36.3 deaths/1,000 live births |
+| | *male:* 39.2 deaths/1,000 live births |
+| | *female:* 33.2 deaths/1,000 live births (2016 est.) |
+| **Togo** | *total:* 43.7 deaths/1,000 live births |
+| | *male:* 50.1 deaths/1,000 live births |
+| | *female:* 37 deaths/1,000 live births (2016 est.) |
+| **Tokelau** | *total:* NA |
+| | *male:* NA |
+| | *female:* NA |
+| **Tonga** | *total:* 11.6 deaths/1,000 live births |
+| | *male:* 12 deaths/1,000 live births |
+| | *female:* 11.2 deaths/1,000 live births (2016 est.) |
+| **Trinidad and Tobago** | *total:* 23 deaths/1,000 live births |
+| | *male:* 24.4 deaths/1,000 live births |
+| | *female:* 21.7 deaths/1,000 live births (2016 est.) |
+| **Tunisia** | *total:* 21.6 deaths/1,000 live births |
+| | *male:* 24.8 deaths/1,000 live births |
+| | *female:* 18.1 deaths/1,000 live births (2016 est.) |
+| **Turkey** | *total:* 18.2 deaths/1,000 live births |
+| | *male:* 19.4 deaths/1,000 live births |
+| | *female:* 16.9 deaths/1,000 live births (2016 est.) |
+| **Turkmenistan** | *total:* 35.5 deaths/1,000 live births |
+| | *male:* 42.7 deaths/1,000 live births |
+| | *female:* 28.1 deaths/1,000 live births (2016 est.) |
+| **Turks and Caicos Islands** | *total:* 10.4 deaths/1,000 live births |
+| | *male:* 12.9 deaths/1,000 live births |
+| | *female:* 7.7 deaths/1,000 live births (2016 est.) |
+| **Tuvalu** | *total:* 29.9 deaths/1,000 live births |
+| | *male:* 32.5 deaths/1,000 live births |
+| | *female:* 27.2 deaths/1,000 live births (2016 est.) |
+| **Uganda** | *total:* 57.6 deaths/1,000 live births |
+| | *male:* 66.7 deaths/1,000 live births |
+| | *female:* 48.4 deaths/1,000 live births (2016 est.) |
+| **Ukraine** | *total:* 8 deaths/1,000 live births |
+| | *male:* 8.9 deaths/1,000 live births |
+| | *female:* 7 deaths/1,000 live births (2016 est.) |
+| **United Arab Emirates** | *total:* 10.3 deaths/1,000 live births |
+| | *male:* 12 deaths/1,000 live births |
+| | *female:* 8.5 deaths/1,000 live births (2016 est.) |
+| **United Kingdom** | *total:* 4.3 deaths/1,000 live births |
+| | *male:* 4.7 deaths/1,000 live births |
+| | *female:* 3.9 deaths/1,000 live births (2016 est.) |
+| **United States** | *total:* 5.8 deaths/1,000 live births |
+| | *male:* 6.3 deaths/1,000 live births |
+| | *female:* 5.3 deaths/1,000 live births (2016 est.) |
+| **Uruguay** | *total:* 8.5 deaths/1,000 live births |
+| | *male:* 9.5 deaths/1,000 live births |
+| | *female:* 7.6 deaths/1,000 live births (2016 est.) |
+| **Uzbekistan** | *total:* 18.6 deaths/1,000 live births |
+| | *male:* 22.1 deaths/1,000 live births |
+| | *female:* 14.9 deaths/1,000 live births (2016 est.) |
+| **Vanuatu** | *total:* 15.1 deaths/1,000 live births |
+| | *male:* 16.1 deaths/1,000 live births |
+| | *female:* 14 deaths/1,000 live births (2016 est.) |
+| **Venezuela** | *total:* 12.5 deaths/1,000 live births |
+| | *male:* 13.1 deaths/1,000 live births |
+| | *female:* 11.9 deaths/1,000 live births (2016 est.) |
+| **Vietnam** | *total:* 17.8 deaths/1,000 live births |
+| | *male:* 18.2 deaths/1,000 live births |
+| | *female:* 17.4 deaths/1,000 live births (2016 est.) |
+| **Virgin Islands** | *total:* 6.5 deaths/1,000 live births |
+| | *male:* 7.2 deaths/1,000 live births |
+| | *female:* 5.8 deaths/1,000 live births (2016 est.) |
+| **Wallis and Futuna** | *total:* 4.4 deaths/1,000 live births |
+| | *male:* 4.6 deaths/1,000 live births |
+| | *female:* 4.1 deaths/1,000 live births (2016 est.) |
+| **West Bank** | *total:* 14.6 deaths/1,000 live births |
+| | *male:* 16.4 deaths/1,000 live births |
+| | *female:* 12.7 deaths/1,000 live births (2016 est.) |
+| **Western Sahara** | *total:* 53.3 deaths/1,000 live births |
+| | *male:* 58.1 deaths/1,000 live births |
+| | *female:* 48.2 deaths/1,000 live births (2016 est.) |
+| **World** | *total:* 34.1 deaths/1,000 live births |
+| | *male:* 36.1 deaths/1,000 live births |
+| | *female:* 32.1 deaths/1,000 live births (2016 est.) |
+| **Yemen** | *total:* 47.4 deaths/1,000 live births |
+| | *male:* 51.6 deaths/1,000 live births |
+| | *female:* 43.1 deaths/1,000 live births (2016 est.) |
+| **Zambia** | *total:* 62.9 deaths/1,000 live births |
+| | *male:* 68.3 deaths/1,000 live births |
+| | *female:* 57.3 deaths/1,000 live births (2016 est.) |
+| **Zimbabwe** | *total:* 25.9 deaths/1,000 live births |
+| | *male:* 28.1 deaths/1,000 live births |
+| | *female:* 23.6 deaths/1,000 live births (2016 est.) |

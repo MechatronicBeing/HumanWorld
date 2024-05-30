@@ -1,0 +1,485 @@
+FIELD LISTING :: BUDGET
+
+This entry includes revenues, expenditures, and capital expenditures. These figures are calculated on an exchange rate basis, i.e., not in purchasing power parity (PPP) terms.
+
+| Country | BUDGET |
+| --- | --- |
+| **Afghanistan** | *revenues:* $4.91 billion |
+| | *expenditures:* $5.037 billion (2013 est.) |
+| **Albania** | *revenues:* $3.495 billion |
+| | *expenditures:* $4.342 billion (2014 est.) |
+| **Algeria** | *revenues:* $79.53 billion |
+| | *expenditures:* $89.21 billion (2014 est.) |
+| **American Samoa** | *revenues:* $241.2 million |
+| | *expenditures:* $243.7 million (2013 est.) |
+| **Andorra** | *revenues:* $1.029 billion |
+| | *expenditures:* $1.041 billion (2012) |
+| **Angola** | *revenues:* $51.51 billion |
+| | *expenditures:* $57.7 billion (2014 est.) |
+| **Anguilla** | *revenues:* $64.22 million |
+| | *expenditures:* $65.11 million (2014 est.) |
+| **Antigua and Barbuda** | *revenues:* $240.3 million |
+| | *expenditures:* $206.7 million (2014 est.) |
+| **Argentina** | *revenues:* $117.2 billion |
+| | *expenditures:* $130.5 billion (2014 est.) |
+| **Armenia** | *revenues:* $2.825 billion |
+| | *expenditures:* $3.01 billion (2014 est.) |
+| **Aruba** | *revenues:* $622.5 million |
+| | *expenditures:* $808.2 million (2014 est.) |
+| **Australia** | *revenues:* $493.1 billion |
+| | *expenditures:* $521.3 billion (2014 est.) |
+| **Austria** | *revenues:* $218.1 billion |
+| | *expenditures:* $228.6 billion (2014 est.) |
+| **Azerbaijan** | *revenues:* $24.25 billion |
+| | *expenditures:* $25.24 billion (2014 est.) |
+| **Bahamas, The** | *revenues:* $1.7 billion |
+| | *expenditures:* $2.1 billion (2014 est.) |
+| **Bahrain** | *revenues:* $7.808 billion |
+| | *expenditures:* $8.896 billion (2013 est.) |
+| **Bangladesh** | *revenues:* $18.09 billion |
+| | *expenditures:* $24.33 billion (2014 est.) |
+| **Barbados** | *revenues:* $1.1 billion (2013 est.) |
+| | *expenditures:* $1.5 billion (2014 est.) |
+| **Belarus** | *revenues:* $26.55 billion |
+| | *expenditures:* $26.71 billion (2014 est.) |
+| **Belgium** | *revenues:* $267.9 billion |
+| | *expenditures:* $280.8 billion (2014 est.) |
+| **Belize** | *revenues:* $450 million |
+| | *expenditures:* $500 million (2014 est.) |
+| **Benin** | *revenues:* $1.885 billion |
+| | *expenditures:* $2.074 billion (2014 est.) |
+| **Bermuda** | *revenues:* $901.7 million |
+| | *expenditures:* $1.169 billion (FY14/15 est.) |
+| **Bhutan** | *revenues:* $407.1 million |
+| | *expenditures:* $614 million |
+| | *note:* the government of India finances nearly one-quarter of Bhutan's budget expenditures (2014 est.) |
+| **Bolivia** | *revenues:* $16.59 billion |
+| | *expenditures:* $16.76 billion (2014 est.) |
+| **Bosnia and Herzegovina** | *revenues:* $8.672 billion |
+| | *expenditures:* $9.363 billion (2014 est.) |
+| **Botswana** | *revenues:* $5.442 billion |
+| | *expenditures:* $5.164 billion (2014 est.) |
+| **Brazil** | *revenues:* $861.4 billion |
+| | *expenditures:* $834.4 billion (2014 est.) |
+| **British Virgin Islands** | *revenues:* $300 million |
+| | *expenditures:* $300 million (2014 est.) |
+| **Brunei** | *revenues:* $8.762 billion |
+| | *expenditures:* $6.27 billion (2014 est.) |
+| **Bulgaria** | *revenues:* $19.62 billion |
+| | *expenditures:* $21.25 billion (2014 est.) |
+| **Burkina Faso** | *revenues:* $3.234 billion |
+| | *expenditures:* $3.724 billion (2014 est.) |
+| **Burma** | *revenues:* $2.931 billion |
+| | *expenditures:* $4.835 billion (2014 est.) |
+| **Burundi** | *revenues:* $847.3 million |
+| | *expenditures:* $933.2 million (2014 est.) |
+| **Cabo Verde** | *revenues:* $478.3 million |
+| | *expenditures:* $617.6 million (2014 est.) |
+| **Cambodia** | *revenues:* $2.673 billion |
+| | *expenditures:* $3.386 billion (2014 est.) |
+| **Cameroon** | *revenues:* $5.503 billion |
+| | *expenditures:* $6.92 billion (2014 est.) |
+| **Canada** | *revenues:* $675.1 billion |
+| | *expenditures:* $717.1 billion (2014 est.) |
+| **Cayman Islands** | *revenues:* $788.1 million |
+| | *expenditures:* $763.4 million (2014 est.) |
+| **Central African Republic** | *revenues:* $157.7 million |
+| | *expenditures:* $205.4 million (2014 est.) |
+| **Chad** | *revenues:* $2.884 billion |
+| | *expenditures:* $3.713 billion (2014 est.) |
+| **Chile** | *revenues:* $50.67 billion |
+| | *expenditures:* $56.32 billion (2014 est.) |
+| **China** | *revenues:* $2.285 trillion |
+| | *expenditures:* $2.469 trillion (2014 est.) |
+| **Christmas Island** | *revenues:* $NA |
+| | *expenditures:* $NA |
+| **Cocos (Keeling) Islands** | *revenues:* $NA |
+| | *expenditures:* $NA |
+| **Colombia** | *revenues:* $114.1 billion |
+| | *expenditures:* $120.2 billion (2014 est.) |
+| **Comoros** | *revenues:* $175.6 million |
+| | *expenditures:* $183.3 million (2014 est.) |
+| **Congo, Democratic Republic of the** | *revenues:* $4.711 billion |
+| | *expenditures:* $4.814 billion (2014 est.) |
+| **Congo, Republic of the** | *revenues:* $6.508 billion |
+| | *expenditures:* $5.982 billion (2014 est.) |
+| **Cook Islands** | *revenues:* $70.95 million |
+| | *expenditures:* $69.05 million (FY05/06) |
+| **Costa Rica** | *revenues:* $6.931 billion |
+| | *expenditures:* $9.728 billion (2014 est.) |
+| **Cote d'Ivoire** | *revenues:* $7.218 billion |
+| | *expenditures:* $8.173 billion (2014 est.) |
+| **Croatia** | *revenues:* $19.85 billion |
+| | *expenditures:* $22.3 billion (2014 est.) |
+| **Cuba** | *revenues:* $1.879 billion |
+| | *expenditures:* $1.994 billion (2013 est.) |
+| **Cyprus** | *revenues::* $8.381 billion |
+| | *expenditures::* $9.448 billion (2014 est.) |
+| **Czech Republic** | *revenues:* $81.98 billion |
+| | *expenditures:* $85.32 billion (2014 est.) |
+| **Denmark** | *revenues:* $192.6 billion |
+| | *expenditures:* $197.5 billion (2014 est.) |
+| **Djibouti** | *revenues:* $563.3 million |
+| | *expenditures:* $647.7 million (2014 est.) |
+| **Dominica** | *revenues:* $148.1 million |
+| | *expenditures:* $185.2 million (2013 est.) |
+| **Dominican Republic** | *revenues:* $10.11 billion |
+| | *expenditures:* $11.77 billion (2014 est.) |
+| **Ecuador** | *revenues:* $39.5 billion |
+| | *expenditures:* $44.7 billion (2014 est.) |
+| **Egypt** | *revenues:* $65.48 billion |
+| | *expenditures:* $99.14 billion (2014 est.) |
+| **El Salvador** | *revenues:* $5.098 billion |
+| | *expenditures:* $5.977 billion (2014 est.) |
+| **Equatorial Guinea** | *revenues:* $5.2 billion |
+| | *expenditures:* $6.262 billion (2014 est.) |
+| **Eritrea** | *revenues:* $1.144 billion |
+| | *expenditures:* $1.638 billion (2014 est.) |
+| **Estonia** | *revenues:* $9.811 billion |
+| | *expenditures:* $9.877 billion (2014 est.) |
+| **Ethiopia** | *revenues:* $7.582 billion |
+| | *expenditures:* $9.025 billion (2014 est.) |
+| **Falkland Islands (Islas Malvinas)** | *revenues:* $67.1 million |
+| | *expenditures:* $75.3 million (FY09/10) |
+| **Faroe Islands** | *revenues:* $1.025 billion |
+| | *expenditures:* $1.301 billion |
+| | *note:* Denmark supplies the Faroe Islands with almost one-third of their public funds (2010 est.) |
+| **Fiji** | *revenues:* $1.369 billion |
+| | *expenditures:* $1.451 billion (2014 est.) |
+| **Finland** | *revenues:* $146.3 billion |
+| | *expenditures:* $156.1 billion |
+| | *note:* Central Government Budget (2014 est.) |
+| **France** | *revenues:* $1.507 trillion |
+| | *expenditures:* $1.631 trillion (2014 est.) |
+| **French Polynesia** | *revenues:* $1.891 billion |
+| | *expenditures:* $1.833 billion (2012) |
+| **Gabon** | *revenues:* $5.695 billion |
+| | *expenditures:* $5.908 billion (2014 est.) |
+| **Gambia, The** | *revenues:* $177.6 million |
+| | *expenditures:* $242.6 million (2014 est.) |
+| **Gaza Strip** | see entry for West Bank |
+| **Georgia** | *revenues:* $4.594 billion |
+| | *expenditures:* $5.048 billion (2014 est.) |
+| **Germany** | *revenues:* $1.68 trillion |
+| | *expenditures:* $1.664 trillion (2014 est.) |
+| **Ghana** | *revenues:* $8.226 billion |
+| | *expenditures:* $11.63 billion (2014 est.) |
+| **Gibraltar** | *revenues:* $475.8 million |
+| | *expenditures:* $452.3 million (2008 est.) |
+| **Greece** | *revenues:* $119.5 billion |
+| | *expenditures:* $127.9 billion (2014 est.) |
+| **Greenland** | *revenues:* $1.72 billion |
+| | *expenditures:* $1.68 billion (2010) |
+| **Grenada** | *revenues:* $173.3 million |
+| | *expenditures:* $208.6 million (2012 est.) |
+| **Guam** | *revenues:* $1.147 billion |
+| | *expenditures:* $1.188 billion (2013 est.) |
+| **Guatemala** | *revenues:* $6.785 billion |
+| | *expenditures:* $8.137 billion (2014 est.) |
+| **Guernsey** | *revenues:* $563.6 million |
+| | *expenditures:* $530.9 million (2005) |
+| **Guinea-Bissau** | *revenues:* $142.5 million |
+| | *expenditures:* $177.6 million (2014 est.) |
+| **Guinea** | *revenues:* $1.52 billion |
+| | *expenditures:* $1.812 billion (2014 est.) |
+| **Guyana** | *revenues:* $732.2 million |
+| | *expenditures:* $874.3 million (2014 est.) |
+| **Haiti** | *revenues:* $1.786 billion |
+| | *expenditures:* $2.373 billion (2014 est.) |
+| **Holy See (Vatican City)** | *revenues:* $308 million |
+| | *expenditures:* $326.4 million (2011) |
+| **Honduras** | *revenues:* $3.354 billion |
+| | *expenditures:* $4.335 billion (2014 est.) |
+| **Hong Kong** | *revenues:* $57.78 billion |
+| | *expenditures:* $55.84 billion (2014 est.) |
+| **Hungary** | *revenues:* $66.28 billion |
+| | *expenditures:* $70.15 billion (2014 est.) |
+| **Iceland** | *revenues:* $7.332 billion |
+| | *expenditures:* $7.315 billion (2014 est.) |
+| **India** | *revenues:* $185.7 billion |
+| | *expenditures:* $288.8 billion (2014 est.) |
+| **Indonesia** | *revenues:* $134.7 billion |
+| | *expenditures:* $155.2 billion (2014 est.) |
+| **Iran** | *revenues:* $60.46 billion |
+| | *expenditures:* $63.25 billion (2014 est.) |
+| **Iraq** | *revenues:* $101.4 billion |
+| | *expenditures:* $94.58 billion (2014 est.) |
+| **Ireland** | *revenues:* $80.65 billion |
+| | *expenditures:* $91.87 billion (2014 est.) |
+| **Isle of Man** | *revenues:* $965 million |
+| | *expenditures:* $943 million (FY05/06 est.) |
+| **Israel** | *revenues:* $73.44 billion |
+| | *expenditures:* $81.82 billion (2014 est.) |
+| **Italy** | *revenues:* $990.7 billion |
+| | *expenditures:* $1.055 trillion (2014 est.) |
+| **Jamaica** | *revenues:* $3.834 billion |
+| | *expenditures:* $3.956 billion (2014 est.) |
+| **Japan** | *revenues:* $1.512 trillion |
+| | *expenditures:* $1.84 trillion (2014 est.) |
+| **Jersey** | *revenues:* $829 million |
+| | *expenditures:* $851 million (2005) |
+| **Jordan** | *revenues:* $9.845 billion |
+| | *expenditures:* $11.42 billion (2014 est.) |
+| **Kazakhstan** | *revenues:* $42.02 billion |
+| | *expenditures:* $45.7 billion (2014 est.) |
+| **Kenya** | *revenues:* $11.78 billion |
+| | *expenditures:* $15.05 billion (2014 est.) |
+| **Kiribati** | *revenues:* $197.9 million |
+| | *expenditures:* $179.9 million (2013 est.) |
+| **Korea, North** | *revenues:* $3.2 billion |
+| | *expenditures:* $3.3 billion (2007 est.) |
+| **Korea, South** | *revenues:* $350.7 billion |
+| | *expenditures:* $337.9 billion (2014 est.) |
+| **Kosovo** | *revenues:* $1.396 billion |
+| | *expenditures:* $1.61 billion (2014 est.) |
+| **Kuwait** | *revenues:* $125 billion |
+| | *expenditures:* $79.45 billion (2014 est.) |
+| **Kyrgyzstan** | *revenues:* $2.036 billion |
+| | *expenditures:* $2.214 billion (2014 est.) |
+| **Laos** | *revenues:* $2.742 billion |
+| | *expenditures:* $3.297 billion (2014 est.) |
+| **Latvia** | *revenues:* $11.96 billion |
+| | *expenditures:* $11.97 billion (2014 est.) |
+| **Lebanon** | *revenues:* $10.24 billion |
+| | *expenditures:* $14.89 billion (2014 est.) |
+| **Lesotho** | *revenues:* $1.358 billion |
+| | *expenditures:* $1.406 billion (2014 est.) |
+| **Liberia** | *revenues:* $490.5 million |
+| | *expenditures:* $581.7 million (2014 est.) |
+| **Libya** | *revenues:* $18.24 billion |
+| | *expenditures:* $25.22 billion (2014 est.) |
+| **Liechtenstein** | *revenues:* $995.3 million |
+| | *expenditures:* $890.4 million (2012 est.) |
+| **Lithuania** | *revenues:* $15.68 billion |
+| | *expenditures:* $16.58 billion (2014 est.) |
+| **Luxembourg** | *revenues:* $27.95 billion |
+| | *expenditures:* $27.82 billion (2014 est.) |
+| **Macau** | *revenues:* $23.3 billion |
+| | *expenditures:* $4.931 billion (2014 est.) |
+| **Macedonia** | *revenues:* $2.89 billion |
+| | *expenditures:* $3.328 billion (2014 est.) |
+| **Madagascar** | *revenues:* $2.375 billion |
+| | *expenditures:* $2.741 billion (2014 est.) |
+| **Malawi** | *revenues:* $1.264 billion |
+| | *expenditures:* $1.573 billion (2014 est.) |
+| **Malaysia** | *revenues:* $68.09 billion |
+| | *expenditures:* $79.63 billion (2014 est.) |
+| **Maldives** | *revenues:* $762 million |
+| | *expenditures:* $876 million (2013 est.) |
+| **Mali** | *revenues:* $2.698 billion |
+| | *expenditures:* $3.265 billion (2014 est.) |
+| **Malta** | *revenues:* $4.721 billion |
+| | *expenditures:* $4.918 billion (2015 est.) |
+| **Marshall Islands** | *revenues:* $116.7 million |
+| | *expenditures:* $113.9 million (2013 est.) |
+| **Mauritania** | *revenues:* $1.953 billion |
+| | *expenditures:* $1.999 billion (2014 est.) |
+| **Mauritius** | *revenues:* $2.797 billion |
+| | *expenditures:* $3.263 billion (2014 est.) |
+| **Mexico** | *revenues:* $300.8 billion |
+| | *expenditures:* $348.4 billion (2014 est.) |
+| **Micronesia, Federated States of** | *revenues:* $213.8 million |
+| | *expenditures:* $192.1 million (FY12/13 est.) |
+| **Moldova** | *revenues:* $2.922 billion |
+| | *expenditures:* $3.15 billion |
+| | *note:* National Public Budget (2014 est.) |
+| **Monaco** | *revenues:* $1.06 billion |
+| | *expenditures:* $1.128 billion (2011 est.) |
+| **Mongolia** | *revenues:* $3.524 billion |
+| | *expenditures:* $3.735 billion (2014 est.) |
+| **Montenegro** | *revenues:* $1.56 billion |
+| | *expenditures:* $1.63 billion (2014 est.) |
+| **Montserrat** | *revenues:* $0 |
+| | *expenditures:* $37.04 million (2014 est.) |
+| **Morocco** | *revenues:* $29.4 billion |
+| | *expenditures:* $34.99 billion (2014 est.) |
+| **Mozambique** | *revenues:* $5.324 billion |
+| | *expenditures:* $6.967 billion (2014 est.) |
+| **Namibia** | *revenues:* $5.021 billion |
+| | *expenditures:* $5.659 billion (2014 est.) |
+| **Nauru** | *revenues:* $57.8 million |
+| | *expenditures:* $51.8 million (2010 est.) |
+| **Nepal** | *revenues:* $4.085 billion |
+| | *expenditures:* $3.834 billion (2014 est.) |
+| **Netherlands** | *revenues:* $413.8 billion |
+| | *expenditures:* $437.3 billion (2014 est.) |
+| **New Caledonia** | *revenues:* $996 million |
+| | *expenditures:* $1.072 billion (2001 est.) |
+| **New Zealand** | *revenues:* $82.63 billion |
+| | *expenditures:* $84.37 billion (2014 est.) |
+| **Nicaragua** | *revenues:* $2.903 billion |
+| | *expenditures:* $3.131 billion (2014 est.) |
+| **Nigeria** | *revenues:* $22.77 billion |
+| | *expenditures:* $34.62 billion (2014 est.) |
+| **Niger** | *revenues:* $1.761 billion |
+| | *expenditures:* $2.807 billion (2014 est.) |
+| **Niue** | *revenues:* $15.07 million |
+| | *expenditures:* $16.33 million (FY04/05) |
+| **Norfolk Island** | *revenues:* $4.6 million |
+| | *expenditures:* $4.8 million (FY99/00) |
+| **Northern Mariana Islands** | *revenues:* $246.4 million |
+| | *expenditures:* $249.8 million (2013 est.) |
+| **Norway** | *revenues:* $294.3 billion |
+| | *expenditures:* $230.5 billion (2014 est.) |
+| **Oman** | *revenues:* $40.09 billion |
+| | *expenditures:* $37.65 billion (2014 est.) |
+| **Pakistan** | *revenues:* $36.92 billion |
+| | *expenditures:* $51.02 billion (FY2014 est.) |
+| **Palau** | *revenues:* $123.6 million |
+| | *expenditures:* $97.53 million (2012 est.) |
+| **Panama** | *revenues:* $10.86 billion |
+| | *expenditures:* $12.69 billion (2014 est.) |
+| **Papua New Guinea** | *revenues:* $4.464 billion |
+| | *expenditures:* $5.592 billion (2014 est.) |
+| **Paraguay** | *revenues:* $5.222 billion |
+| | *expenditures:* $5.651 billion (2014 est.) |
+| **Peru** | *revenues:* $64.25 billion |
+| | *expenditures:* $64.49 billion (2014 est.) |
+| **Philippines** | *revenues:* $42.98 billion |
+| | *expenditures:* $44.63 billion (2014 est.) |
+| **Pitcairn Islands** | *revenues:* $746,000 |
+| | *expenditures:* $1.028 million (FY04/05) |
+| **Poland** | *revenues:* $92.96 billion |
+| | *expenditures:* $101.5 billion (2014 est.) |
+| **Portugal** | *revenues:* $99.6 billion |
+| | *expenditures:* $110.7 billion (2014 est.) |
+| **Puerto Rico** | *revenues:* $9.033 billion |
+| | *expenditures:* $9.128 billion (2014 est.) |
+| **Qatar** | *revenues:* $91.07 billion |
+| | *expenditures:* $67.32 billion (2014 est.) |
+| **Romania** | *revenues:* $63.85 billion |
+| | *expenditures:* $67.58 billion (2014 est.) |
+| **Russia** | *revenues:* $416.5 billion |
+| | *expenditures:* $408.3 billion (2014 est.) |
+| **Rwanda** | *revenues:* $1.953 billion |
+| | *expenditures:* $2.249 billion (2014 est.) |
+| **Saint Helena, Ascension, and Tristan da Cunha** | *revenues:* $10.89 million |
+| | *expenditures:* $26.75 million |
+| | *note:* revenue data reflect locally raised revenues only; the budget deficit is resolved by grant aid from the UK (FY06/07 est.) |
+| **Saint Kitts and Nevis** | *revenues:* $259.3 million |
+| | *expenditures:* $222.2 million (2014 est.) |
+| **Saint Lucia** | *revenues:* $185.2 million |
+| | *expenditures:* $222.2 million (2011 est.) |
+| **Saint Pierre and Miquelon** | *revenues:* $70 million |
+| | *expenditures:* $60 million (1996 est.) |
+| **Saint Vincent and the Grenadines** | *revenues:* $185.2 million |
+| | *expenditures:* $185.2 million (2014 est.) |
+| **Samoa** | *revenues:* $214.7 million |
+| | *expenditures:* $257.6 million (2014 est.) |
+| **San Marino** | *revenues:* $667.7 million |
+| | *expenditures:* $719.5 million (2011 est.) |
+| **Sao Tome and Principe** | *revenues:* $98.29 million |
+| | *expenditures:* $135.2 million (2014 est.) |
+| **Saudi Arabia** | *revenues:* $278.9 billion |
+| | *expenditures:* $293.3 billion (2014 est.) |
+| **Senegal** | *revenues:* $3.844 billion |
+| | *expenditures:* $4.662 billion (2014 est.) |
+| **Serbia** | *revenues:* $16.38 billion |
+| | *expenditures:* $19.32 billion |
+| | *note:* this is the consolidated budget, including both central government and local goverment budgets (2014 est.) |
+| **Seychelles** | *revenues:* $498.4 million |
+| | *expenditures:* $474.3 million (2014 est.) |
+| **Sierra Leone** | *revenues:* $730.3 million |
+| | *expenditures:* $908.8 million (2014 est.) |
+| **Singapore** | *revenues:* $47.45 billion |
+| | *expenditures:* $50.37 billion |
+| | *note:* expenditures include both operational and development expenditures (2015 est.) |
+| **Slovakia** | *revenues:* $36.45 billion |
+| | *expenditures:* $39.36 billion (2014 est.) |
+| **Slovenia** | *revenues:* $20.03 billion |
+| | *expenditures:* $22.03 billion (2014 est.) |
+| **Solomon Islands** | *revenues:* $450.3 million |
+| | *expenditures:* $450.3 million (2014 est.) |
+| **Somalia** | *revenues:* $NA |
+| | *expenditures:* $NA |
+| **South Africa** | *revenues:* $87.1 billion |
+| | *expenditures:* $102.2 billion (2014 est.) |
+| **South Sudan** | *revenues:* $437 million |
+| | *expenditures:* $2.259 billion (FY 2013 est.) |
+| **Spain** | *revenues:* $529.7 billion |
+| | *expenditures:* $608.8 billion (2014 est.) |
+| **Sri Lanka** | *revenues:* $9.978 billion |
+| | *expenditures:* $14.14 billion (2014 est.) |
+| **Sudan** | *revenues:* $7.313 billion |
+| | *expenditures:* $9.119 billion (2014 est.) |
+| **Suriname** | *revenues:* $1.156 billion |
+| | *expenditures:* $1.383 billion (2014 est.) |
+| **Svalbard** | *revenues:* $NA |
+| | *expenditures:* $NA |
+| **Swaziland** | *revenues:* $1.349 billion |
+| | *expenditures:* $1.406 billion (2014 est.) |
+| **Sweden** | *revenues:* $291.4 billion |
+| | *expenditures:* $304 billion (2014 est.) |
+| **Switzerland** | *revenues:* $228.1 billion |
+| | *expenditures:* $226 billion |
+| | *note:* includes federal, cantonal, and municipal budgets (2014 est.) |
+| **Syria** | *revenues:* $1.73 billion |
+| | *expenditures:* $5.5 billion (2014 est.) |
+| **Taiwan** | *revenues:* $85.12 billion |
+| | *expenditures:* $91.72 billion (2014 est.) |
+| **Tajikistan** | *revenues:* $2.828 billion |
+| | *expenditures:* $2.868 billion (2014 est.) |
+| **Tanzania** | *revenues:* $6.44 billion |
+| | *expenditures:* $8.626 billion (2014 est.) |
+| **Thailand** | *revenues:* $76.43 billion |
+| | *expenditures:* $84.75 billion (2014 est.) |
+| **Timor-Leste** | *revenues:* $400 million |
+| | *expenditures:* $1.8 billion (2014 est.) |
+| **Togo** | *revenues:* $1.086 billion |
+| | *expenditures:* $1.322 billion (2014 est.) |
+| **Tokelau** | *revenues:* $430,800 |
+| | *expenditures:* $2.8 million (1987 est.) |
+| **Tonga** | *revenues:* $144.1 million |
+| | *expenditures:* $146.5 million (FY13/14 est.) |
+| **Trinidad and Tobago** | *revenues:* $8.669 billion |
+| | *expenditures:* $9.451 billion (2014 est.) |
+| **Tunisia** | *revenues:* $12.43 billion |
+| | *expenditures:* $15.53 billion (2014 est.) |
+| **Turkey** | *revenues:* $189.9 billion |
+| | *expenditures:* $209.7 billion (2014 est.) |
+| **Turkmenistan** | *revenues:* $7.047 billion |
+| | *expenditures:* $6.699 billion (2014 est.) |
+| **Turks and Caicos Islands** | *revenues:* $451.5 million |
+| | *expenditures:* $468.2 million (2014 est.) |
+| **Tuvalu** | *revenues:* $42.68 million |
+| | *expenditures:* $32.46 million (2013 est.) |
+| **Uganda** | *revenues:* $3.434 billion |
+| | *expenditures:* $4.431 billion (2014 est.) |
+| **Ukraine** | *revenues:* $39.14 billion |
+| | *expenditures:* $45.85 billion |
+| | *note:* this is the planned, consolidated budget (2014 est.) |
+| **United Arab Emirates** | *revenues:* $140.6 billion |
+| | *expenditures:* $116 billion |
+| | *note:* the UAE federal budget does not account for emirate-level spending in Abu Dhabi and Dubai (2014 est.) |
+| **United Kingdom** | *revenues:* $936.2 billion |
+| | *expenditures:* $1.106 trillion (2014 est.) |
+| **United States** | *revenues:* $3.029 trillion |
+| | *expenditures:* $3.52 trillion |
+| | *note:* for the US, revenues exclude social contributions of approximately $1.0 trillion; expenditures exclude social benefits of approximately $2.3 trillion (2014 est.) |
+| **Uruguay** | *revenues:* $16.8 billion |
+| | *expenditures:* $18.71 billion (2014 est.) |
+| **Uzbekistan** | *revenues:* $18.67 billion |
+| | *expenditures:* $19.27 billion (2014 est.) |
+| **Vanuatu** | *revenues:* $159.9 million |
+| | *expenditures:* $175.2 million (2014 est.) |
+| **Venezuela** | *revenues:* $142.6 billion |
+| | *expenditures:* $204 billion (2014 est.) |
+| **Vietnam** | *revenues:* $43.2 billion |
+| | *expenditures:* $51.91 billion (2014 est.) |
+| **Virgin Islands** | *revenues:* $1.223 billion |
+| | *expenditures:* $1.551 billion (2013) |
+| **Wallis and Futuna** | *revenues:* $29,730 |
+| | *expenditures:* $31,330 (2004) |
+| **West Bank** | *revenues:* $2.742 billion |
+| | *expenditures:* $4.279 billion |
+| | *note:* includes Palestinian Authority expenditures in the Gaza Strip (2014 est.) |
+| **Western Sahara** | *revenues:* $NA |
+| | *expenditures:* $NA |
+| **World** | *revenues:* $21.88 trillion |
+| | *expenditures:* $23.83 trillion (2014 est.) |
+| **Yemen** | *revenues:* $10.26 billion |
+| | *expenditures:* $14.34 billion (2014 est.) |
+| **Zambia** | *revenues:* $5.233 billion |
+| | *expenditures:* $6.751 billion (2014 est.) |
+| **Zimbabwe** | *revenues:* $3.732 billion |
+| | *expenditures:* $4.615 billion (2014) |

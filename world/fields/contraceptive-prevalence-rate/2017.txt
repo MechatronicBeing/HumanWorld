@@ -1,0 +1,159 @@
+FIELD LISTING :: CONTRACEPTIVE PREVALENCE RATE
+
+| Country | CONTRACEPTIVE PREVALENCE RATE(%) |
+| --- | --- |
+| **Afghanistan** | 22.5% (2015/16) |
+| **Albania** | 69.3% (2008/09) |
+| **Algeria** | 57.1% (2012/13) |
+| **Angola** | 13.7% (2015/16) |
+| **Argentina** | 81.3% (2013) |
+| **Armenia** | 57.1% (2015/16) |
+| **Australia** | 67.8% |
+| | *note:* percent of women aged 18-45 (2011) |
+| **Austria** | 65.7% |
+| | *note:* percent of women aged 18-49 (2012/13) |
+| **Bangladesh** | 62.3% (2014) |
+| **Barbados** | 59.2% (2012) |
+| **Belarus** | 63.1% (2012) |
+| **Belgium** | 66.8% |
+| | *note:* percent of women aged 15-54 (2013) |
+| **Belize** | 51.4% (2015) |
+| **Benin** | 17.9% (2014) |
+| **Bhutan** | 65.6% (2010) |
+| **Bolivia** | 60.5% (2008) |
+| **Bosnia and Herzegovina** | 45.8% (2011/12) |
+| **Botswana** | 52.8% |
+| | *note:* percent of women aged 12-49 (2007/08) |
+| **Brazil** | 80.2% (2013) |
+| **Bulgaria** | 69.2% |
+| | *note:* percent of women age 20-49 (2007) |
+| **Burkina Faso** | 25.5% (2016) |
+| **Burma** | 52.2% (2015/16) |
+| **Burundi** | 31.7% (2012) |
+| **Cambodia** | 56.3% (2014) |
+| **Cameroon** | 34.4% (2014) |
+| **Central African Republic** | 15.2% (2010/11) |
+| **Chad** | 5.7% (2014/15) |
+| **Colombia** | 79.1% (2009/10) |
+| **Comoros** | 19.4% (2012) |
+| **Congo, Democratic Republic of the** | 20.4% (2013/14) |
+| **Congo, Republic of the** | 30.1% (2014/15) |
+| **Costa Rica** | 76.2% (2011) |
+| **Cote d'Ivoire** | 18.2% (2011/12) |
+| **Cuba** | 73.7% (2014) |
+| **Czechia** | 86.3% |
+| | *note:* percent of women aged 18-44 (2008) |
+| **Djibouti** | 19% (2012) |
+| **Dominican Republic** | 69.5% (2014) |
+| **Ecuador** | 80.1% (2007/12) |
+| **Egypt** | 58.5% (2014) |
+| **El Salvador** | 72% (2014) |
+| **Equatorial Guinea** | 12.6% (2011) |
+| **Eritrea** | 8.4% (2010) |
+| **Ethiopia** | 39.2% (2016) |
+| **France** | 83% (2010/11) |
+| **Gabon** | 31.1% (2012) |
+| **Gambia, The** | 9% (2013) |
+| **Gaza Strip** | 57.2% (includes Gaza Strip and West Bank) (2014) |
+| **Georgia** | 53.4% |
+| | *note:* percent of women aged 15-44 (2010) |
+| **Ghana** | 30.6% (2016) |
+| **Guatemala** | 60.6% (2014/15) |
+| **Guinea-Bissau** | 16% (2014) |
+| **Guinea** | 5.6% (2012) |
+| **Guyana** | 33.9% (2014) |
+| **Haiti** | 34.5% (2012) |
+| **Honduras** | 73.2% (2011/12) |
+| **Hong Kong** | 74.8% (2012) |
+| **India** | 53.5% (2015/16) |
+| **Indonesia** | 61.1% (2015) |
+| **Iran** | 77.4% (2010/11) |
+| **Iraq** | 52.5% (2011) |
+| **Jamaica** | 72.5% (2008/09) |
+| **Japan** | 40.4% |
+| | *note:* percent of women aged 20-49 (2015) |
+| **Jordan** | 61.2% (2012) |
+| **Kazakhstan** | 55.7% (2015) |
+| **Kenya** | 66.3% (2015) |
+| **Kiribati** | 22.3% (2009) |
+| **Korea, North** | 78.2% |
+| | *note:* percent of women aged 20-49 (2014) |
+| **Korea, South** | 80% |
+| | *note:* percent of women aged 15-44 (2009) |
+| **Kyrgyzstan** | 42% (2014) |
+| **Laos** | 49.8% (2011/12) |
+| **Lebanon** | 54.5% (2009) |
+| **Lesotho** | 60.2% (2014) |
+| **Liberia** | 20.2% (2013) |
+| **Libya** | 41.9% (2007) |
+| **Macedonia** | 40.2% (2011) |
+| **Madagascar** | 39.9% (2008/09) |
+| **Malawi** | 59.2% (2015/16) |
+| **Malaysia** | 52.2% (2014) |
+| **Maldives** | 34.7% (2009) |
+| **Mali** | 15.6% (2015) |
+| **Marshall Islands** | 44.6% (2007) |
+| **Mauritania** | 17.8% (2015) |
+| **Mauritius** | 63.8% (2014) |
+| **Mexico** | 66.9% (2015) |
+| **Moldova** | 59.5% (2012) |
+| **Mongolia** | 54.6% (2013) |
+| **Montenegro** | 23.3% (2013) |
+| **Morocco** | 67.4% (2010/11) |
+| **Mozambique** | 11.6% (2011) |
+| **Namibia** | 56.1% (2013) |
+| **Nauru** | 35.6% (2007) |
+| **Nepal** | 49.6% (2014) |
+| **Netherlands** | 73% |
+| | *note:* percent of women aged 18-45 (2013) |
+| **Nicaragua** | 80.4% (2011/12) |
+| **Nigeria** | 20.4% (2016) |
+| **Niger** | 16.9% (2016) |
+| **Oman** | 29.7% (2014) |
+| **Pakistan** | 35.4% (2012/13) |
+| **Panama** | 62.8% (2013) |
+| **Paraguay** | 79.4% |
+| | *note:* percent of women aged 15-44 (2008) |
+| **Peru** | 74.6% (2014) |
+| **Philippines** | 55.1% (2013) |
+| **Portugal** | 73.9% (2014) |
+| **Qatar** | 37.5% (2012) |
+| **Russia** | 68% |
+| | *note:* percent of women aged 15-44 (2011) |
+| **Rwanda** | 53.2% (2014/15) |
+| **Saint Lucia** | 55.5% (2011/12) |
+| **Samoa** | 26.9% (2014) |
+| **Sao Tome and Principe** | 40.6% (2014) |
+| **Saudi Arabia** | 24.6% (2016) |
+| **Senegal** | 23.3% (2015) |
+| **Serbia** | 58.4% (2014) |
+| **Sierra Leone** | 16.6% (2013) |
+| **South Sudan** | 4% (2010) |
+| **Sudan** | 12.2% (2014) |
+| **Suriname** | 47.6% (2010) |
+| **Swaziland** | 66.1% (2014) |
+| **Switzerland** | 72.9% (2012) |
+| **Syria** | 53.9% (2009/10) |
+| **Tajikistan** | 27.9% (2012) |
+| **Tanzania** | 38.4% (2015/16) |
+| **Thailand** | 79.3% (2012) |
+| **Timor-Leste** | 22.3% (2009/10) |
+| **Togo** | 19.9% (2013/14) |
+| **Tonga** | 34.1% (2012) |
+| **Tunisia** | 62.5% (2011/12) |
+| **Turkey** | 73.5% (2013) |
+| **Turkmenistan** | 50.2% (2015/16) |
+| **Tuvalu** | 30.5% (2007) |
+| **Uganda** | 36.9% (2016) |
+| **Ukraine** | 65.4% (2012) |
+| **United Kingdom** | 84% |
+| | *note:* percent of women aged 16-49 (2008/09) |
+| **United States** | 74.1% |
+| | *note:* percent of women aged 15-44 (2011/13) |
+| **Vanuatu** | 49% (2013) |
+| **Venezuela** | 75% (2010) |
+| **Vietnam** | 75.7% (2015) |
+| **West Bank** | 57.2% (includes Gaza Strip and West Bank) (2014) |
+| **Yemen** | 33.5% (2013) |
+| **Zambia** | 49% (2013/14) |
+| **Zimbabwe** | 66.8% (2015) |

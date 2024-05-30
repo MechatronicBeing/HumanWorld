@@ -1,0 +1,383 @@
+CIA - The World Factbook -- Field Listing :: Stock of domestic credit   
+
+This entry is the total quantity of credit, denominated in the domestic currency, provided by banks to nonbanking institutions. The national currency units have been converted to US dollars at the closing exchange rate on the date of the information.
+
+| Country | Stock of domestic credit |
+| --- | --- |
+| **Afghanistan** | $363.6 million (31 December 2008) |
+| | $12.04 million (31 December 2007) |
+| **Albania** | $8.176 billion (31 December 2008) |
+| | $7.247 billion (31 December 2007) |
+| **Algeria** | $NA (31 December 2008) |
+| | $NA (31 December 2007) |
+| **Angola** | $7.893 billion (31 December 2008) |
+| | $1.166 billion (31 December 2007) |
+| **Anguilla** | $529.6 million (31 December 2008) |
+| | $447.7 million (31 December 2007) |
+| **Antigua and Barbuda** | $1.13 billion (31 December 2008) |
+| | $1.002 billion (31 December 2007) |
+| **Argentina** | $NA (31 December 2008) |
+| | $72.55 billion (31 December 2007) |
+| **Armenia** | $1.98 billion (31 December 2008) |
+| | $1.256 billion (31 December 2007) |
+| **Aruba** | $1.321 billion (31 December 2008) |
+| | $1.348 billion (31 December 2007) |
+| **Australia** | $NA (31 December 2008) |
+| | $1.312 trillion (31 December 2007) |
+| **Austria** | $606.2 billion (31 December 2008) |
+| | $504.8 billion (31 December 2007) |
+| **Azerbaijan** | $8.135 billion (31 December 2008) |
+| | $5.726 billion (31 December 2007) |
+| **Bahamas, The** | $7.883 billion (31 December 2008) |
+| | $7.395 billion (31 December 2007) |
+| **Bahrain** | $NA (31 December 2008) |
+| | $10.32 billion (31 December 2007) |
+| **Bangladesh** | $47.03 billion (31 December 2008) |
+| | $40.1 billion (31 December 2007) |
+| **Barbados** | $4.554 billion (31 December 2008) |
+| | $3.533 billion (31 December 2007) |
+| **Belarus** | $18.42 billion (31 December 2008) |
+| | $12.16 billion (31 December 2007) |
+| **Belgium** | $767.1 billion (31 December 2008) |
+| | $552 billion (31 December 2007) |
+| **Belize** | $955 million (31 December 2008) |
+| | $877.6 million (31 December 2007) |
+| **Benin** | $NA (31 December 2008) |
+| | $520.6 million (31 December 2007) |
+| **Bhutan** | $NA (31 December 2008) |
+| | $169.9 million (31 December 2007) |
+| **Bolivia** | $5.433 billion (31 December 2008) |
+| | $4.759 billion (31 December 2007) |
+| **Bosnia and Herzegovina** | $10.26 billion (31 December 2008) |
+| | $8.895 billion (31 December 2007) |
+| **Botswana** | $NA (31 December 2008) |
+| | $NA (31 December 2007) |
+| **Brazil** | $1.249 trillion (31 December 2008) |
+| | $1.377 trillion (31 December 2007) |
+| **Brunei** | $1.274 billion (31 December 2008) |
+| | $2.38 billion (31 December 2007) |
+| **Bulgaria** | $32.04 billion (31 December 2008) |
+| | $25.18 billion (31 December 2007) |
+| **Burkina Faso** | $NA (31 December 2008) |
+| | $905.1 million (31 December 2007) |
+| **Burma** | $NA (31 December 2008) |
+| | $887.7 billion (31 December 2007) |
+| **Burundi** | $370 million (31 December 2008) |
+| | $342 million (31 December 2007) |
+| **Cambodia** | $1.67 billion (31 December 2008) |
+| | $1.131 billion (31 December 2007) |
+| **Cameroon** | $NA (31 December 2008) |
+| | $1.3 billion (31 December 2007) |
+| **Canada** | $2.335 trillion (31 December 2008) |
+| | $2.382 trillion (31 December 2007) |
+| **Cape Verde** | $1.153 billion (31 December 2008) |
+| | $1.049 billion (31 December 2007) |
+| **Central African Republic** | $NA (31 December 2008) |
+| | $320.2 million (31 December 2007) |
+| **Chad** | $NA (31 December 2008) |
+| | $82.81 million (31 December 2007) |
+| **Chile** | $116.4 billion (31 December 2008) |
+| | $127.1 billion (31 December 2007) |
+| **China** | $5.555 trillion (31 December 2008) |
+| | $4.653 trillion (31 December 2007) |
+| **Colombia** | $89.69 billion (31 December 2008) |
+| | $85.34 billion (31 December 2007) |
+| **Comoros** | $79.52 million (31 December 2008) |
+| | $45.09 million (31 December 2007) |
+| **Congo, Democratic Republic of the** | $NA (31 December 2008) |
+| | $559.5 million (31 December 2007) |
+| **Congo, Republic of the** | $NA (31 December 2008) |
+| | $NA (31 December 2007) |
+| **Costa Rica** | $15.15 billion (31 December 2008) |
+| | $12.91 billion (31 December 2007) |
+| **Cote d'Ivoire** | $NA (31 December 2008) |
+| | $4.404 billion (31 December 2007) |
+| **Croatia** | $49.79 billion (31 December 2008) |
+| | $45.7 billion (31 December 2007) |
+| **Cuba** | $NA |
+| **Cyprus** | $80.68 billion (31 December 2008) |
+| | $52.09 billion (31 December 2007) |
+| **Czech Republic** | $110.5 billion (31 December 2008) |
+| | $103.9 billion (31 December 2007) |
+| **Denmark** | $695.8 billion (31 December 2008) |
+| | $684.7 billion (31 December 2007) |
+| **Djibouti** | $269.9 million (31 December 2008) |
+| | $224.7 million (31 December 2007) |
+| **Dominica** | $213.6 million (31 December 2008) |
+| | $193.1 million (31 December 2007) |
+| **Dominican Republic** | $17.37 billion (31 December 2008) |
+| | $15.92 billion (31 December 2007) |
+| **Ecuador** | $10.13 billion (31 December 2008) |
+| | $8.926 billion (31 December 2007) |
+| **Egypt** | $126.5 billion (31 December 2008) |
+| | $113.9 billion (31 December 2007) |
+| **El Salvador** | $1.19 billion (31 December 2008) |
+| | $1.15 billion (31 December 2007) |
+| **Equatorial Guinea** | $NA (31 December 2008) |
+| | $NA (31 December 2007) |
+| **Eritrea** | $1.851 billion (31 December 2008) |
+| | $1.711 billion (31 December 2007) |
+| **Estonia** | $22.02 billion (31 December 2008) |
+| | $21.35 billion (31 December 2007) |
+| **Ethiopia** | $NA (31 December 2008) |
+| | $6.694 billion (31 December 2006) |
+| **European Union** | $21.17 trillion (31 December 2008) |
+| | $20.94 trillion (31 December 2007) |
+| | *note:* this figure refers to the euro area only; it excludes credit data for non-euro-area members of the EU |
+| **Fiji** | $NA (31 December 2008) |
+| | $1.948 billion (31 December 2007) |
+| **Finland** | $241.1 billion (31 December 2008) |
+| | $225.4 billion (31 December 2007) |
+| **France** | $4.102 trillion (31 December 2008) |
+| | $3.397 trillion (31 December 2007) |
+| **Gabon** | $NA (31 December 2008) |
+| | $359.8 million (31 December 2007) |
+| **Gambia, The** | $NA (31 December 2008) |
+| | $169.9 million (31 December 2007) |
+| **Gaza Strip** | $1.367 billion (31 December 2008) |
+| | $368.2 million (31 December 2007) |
+| **Georgia** | $3.754 billion (31 December 2008) |
+| | $3.374 billion (31 December 2007) |
+| **Germany** | $5.019 trillion (31 December 2008) |
+| | $4.457 trillion (31 December 2007) |
+| **Ghana** | $4.179 billion (31 December 2006) |
+| **Greece** | $394.6 billion (31 December 2008) |
+| | $365.9 billion (31 December 2007) |
+| **Grenada** | $658 million (31 December 2008) |
+| | $575.8 million (31 December 2007) |
+| **Guatemala** | $14.82 billion (31 December 2008) |
+| | $13.96 billion (31 December 2007) |
+| **Guinea** | $422.1 million (31 December 2005) |
+| **Guinea-Bissau** | $NA (31 December 2008) |
+| | $46.44 million (31 December 2007) |
+| **Guyana** | $829.4 million (31 December 2008) |
+| | $739.3 million (31 December 2007) |
+| **Haiti** | $NA (31 December 2008) |
+| | $1.537 billion (31 December 2007) |
+| **Honduras** | $7.172 billion (31 December 2008) |
+| | $6.298 billion (31 December 2007) |
+| **Hong Kong** | $NA (31 December 2008) |
+| | $259.7 billion (31 December 2007) |
+| **Hungary** | $114.3 billion (31 December 2008) |
+| | $109.5 billion (31 December 2007) |
+| **Iceland** | $NA (31 December 2008) |
+| | $49.67 billion (31 December 2006) |
+| **India** | $NA (31 December 2008) |
+| | $769.3 billion (31 December 2007) |
+| **Indonesia** | $166.2 billion (31 December 2008) |
+| | $170.2 billion (31 December 2007) |
+| **Iran** | $NA (31 December 2008) |
+| | $109.7 billion (31 December 2007) |
+| **Iraq** | $NA (31 December 2008) |
+| | $NA (31 December 2007) |
+| **Ireland** | $738.6 billion (31 December 2008) |
+| | $545.2 billion (31 December 2007) |
+| **Israel** | $NA (31 December 2008) |
+| | $113.4 billion (31 December 2006) |
+| **Italy** | $3.046 trillion (31 December 2008) |
+| | $2.932 trillion (31 December 2007) |
+| **Jamaica** | $7.175 billion (31 December 2008) |
+| | $6.609 billion (31 December 2007) |
+| **Japan** | $12.34 trillion (31 December 2008) |
+| | $9.653 trillion (31 December 2007) |
+| **Jordan** | $25.05 billion (31 December 2008) |
+| | $19.53 billion (31 December 2007) |
+| **Kazakhstan** | $44.53 billion (31 December 2008) |
+| | $43.75 billion (31 December 2007) |
+| **Kenya** | $10.83 billion (31 December 2008) |
+| | $10.67 billion (31 December 2007) |
+| **Korea, South** | $937 billion (31 December 2008) |
+| | $1.061 trillion (31 December 2007) |
+| **Kuwait** | $88.77 billion (31 December 2008) |
+| | $78.25 billion (31 December 2007) |
+| **Kyrgyzstan** | $NA (31 December 2008) |
+| | $558.3 million (31 December 2007) |
+| **Laos** | $NA (31 December 2008) |
+| | $285.8 million (31 December 2007) |
+| **Latvia** | $28.96 billion (31 December 2008) |
+| | $27.56 billion (31 December 2007) |
+| **Lebanon** | $NA (31 December 2008) |
+| | $45.51 billion (31 December 2007) |
+| **Lesotho** | $NA (31 December 2008) |
+| | $NA (31 December 2007) |
+| **Liberia** | $NA (31 December 2008) |
+| | $1.157 billion (31 December 2007) |
+| **Libya** | $NA (31 December 2008) |
+| | $NA (31 December 2007) |
+| **Lithuania** | $29.21 billion (31 December 2008) |
+| | $25.05 billion (31 December 2007) |
+| **Luxembourg** | $369.6 billion (31 December 2008) |
+| | $100.9 billion (31 December 2007) |
+| **Macau** | $11.5 billion (31 December 2008) |
+| | $NA (31 December 2007) |
+| **Macedonia** | $3.906 billion (31 December 2008) |
+| | $2.924 billion (31 December 2007) |
+| **Madagascar** | $820.3 million (31 December 2008) |
+| | $767.5 million (31 December 2007) |
+| **Malawi** | $NA (31 December 2008) |
+| | $406.2 million (31 December 2007) |
+| **Malaysia** | $246.7 billion (31 December 2008) |
+| | $220 billion (31 December 2007) |
+| **Maldives** | $1.548 billion (31 December 2008) |
+| | $1.08 billion (31 December 2007) |
+| **Mali** | $NA (31 December 2008) |
+| | $1.099 billion (31 December 2007) |
+| **Malta** | $16.17 billion (31 December 2008 est.) |
+| | $10.99 billion (31 December 2007) |
+| **Mauritania** | $NA (31 December 2008) |
+| **Mauritius** | $9.323 billion (31 December 2008) |
+| | $8.582 billion (31 December 2007) |
+| **Mexico** | $287 billion (31 December 2008) |
+| | $349.1 billion (31 December 2007) |
+| **Micronesia, Federated States of** | $NA (31 December 2008) |
+| | $NA (31 December 2007) |
+| **Moldova** | $2.406 billion (31 December 2008) |
+| | $1.896 billion (31 December 2007) |
+| **Mongolia** | $1.743 billion (31 December 2008) |
+| | $1.183 billion (31 December 2007) |
+| **Montenegro** | $NA (31 December 2008) |
+| | $3.083 billion (31 December 2007) |
+| **Montserrat** | $9.93 million (31 December 2008) |
+| | $5.537 million (31 December 2007) |
+| **Morocco** | $NA (31 December 2008) |
+| | $71.9 billion (31 December 2007) |
+| **Mozambique** | $1.315 billion (31 December 2008) |
+| | $877.2 million (31 December 2007) |
+| **Namibia** | $3.43 billion (31 December 2008) |
+| | $4.446 billion (31 December 2007) |
+| **Nepal** | $5.556 billion (31 December 2008) |
+| | $5.636 billion (31 December 2007) |
+| **Netherlands** | $1.824 trillion (31 December 2008) |
+| | $1.684 trillion (31 December 2007) |
+| **Netherlands Antilles** | $NA (31 December 2008) |
+| | $2.927 billion (31 December 2007) |
+| **New Zealand** | $164.4 billion (31 December 2008) |
+| | $200.1 billion (31 December 2007) |
+| **Nicaragua** | $4.272 billion (31 December 2008) |
+| | $4.133 billion (31 December 2007) |
+| **Niger** | $NA (31 December 2008) |
+| | $318.9 million (31 December 2007) |
+| **Nigeria** | $49.51 billion (31 December 2008) |
+| | $35.68 billion (31 December 2007) |
+| **Norway** | $NA |
+| **Oman** | $17.83 billion (31 December 2008) |
+| | $13.88 billion (31 December 2007) |
+| **Pakistan** | $NA (31 December 2008) |
+| | $65.05 billion (31 December 2007) |
+| **Panama** | $19.8 billion (31 December 2008) |
+| | $17.4 billion (31 December 2007) |
+| **Papua New Guinea** | $2.065 billion (31 December 2008) |
+| | $1.486 billion (31 December 2007) |
+| **Paraguay** | $3.098 billion (31 December 2008) |
+| | $2.457 billion (31 December 2007) |
+| **Peru** | $21.98 billion (31 December 2008) |
+| | $17.88 billion (31 December 2007) |
+| **Philippines** | $NA (31 December 2008) |
+| | $65.66 billion (31 December 2007) |
+| **Poland** | $258.3 billion (31 December 2008) |
+| | $223.2 billion (31 December 2007) |
+| **Portugal** | $491 billion (31 December 2008) |
+| | $412.7 billion (31 December 2007) |
+| **Qatar** | $59.43 billion (31 December 2008) |
+| | $30.52 billion (31 December 2007) |
+| **Romania** | $72.85 billion (31 December 2008) |
+| | $58.76 billion (31 December 2007) |
+| **Russia** | $367.2 billion (31 December 2008) |
+| | $339.1 billion (31 December 2007) |
+| **Rwanda** | $NA (31 December 2008) |
+| | $209.2 million (31 December 2005) |
+| **Saint Kitts and Nevis** | $790.8 million (31 December 2008) |
+| | $782.4 million (31 December 2007) |
+| **Saint Lucia** | $1.378 billion (31 December 2008) |
+| | $1.217 billion (31 December 2007) |
+| **Saint Vincent and the Grenadines** | $417.4 million (31 December 2008) |
+| | $387.8 million (31 December 2007) |
+| **Samoa** | $208.5 million (31 December 2008) |
+| | $215.1 million (31 December 2007) |
+| **San Marino** | $NA (31 December 2008) |
+| | $7.511 billion (31 December 2007) |
+| **Sao Tome and Principe** | $20.42 million (31 December 2008) |
+| | $31.84 million (31 December 2007) |
+| **Saudi Arabia** | $NA (31 December 2008) |
+| | $66.94 billion (31 December 2007) |
+| **Senegal** | $NA (31 December 2008) |
+| | $2.97 billion (31 December 2007) |
+| **Serbia** | $17.06 billion (31 December 2008) |
+| | $13.44 billion (31 December 2007) |
+| **Seychelles** | $375.6 million (31 December 2008) |
+| | $660.2 million (31 December 2007) |
+| **Sierra Leone** | $NA (31 December 2008) |
+| | $162.9 million (31 December 2007) |
+| **Singapore** | $143.6 billion (31 December 2008) |
+| | $129.2 billion (31 December 2007) |
+| **Slovakia** | $50.94 billion (31 December 2008) |
+| | $41.76 billion (31 December 2007) |
+| **Slovenia** | $50.31 billion (31 December 2008) |
+| | $41.63 billion (31 December 2007) |
+| **Solomon Islands** | $166.1 million (31 December 2008) |
+| | $126.5 million (31 December 2007) |
+| **South Africa** | $214.8 billion (31 December 2008) |
+| | $254.9 billion (31 December 2007) |
+| **Spain** | $3.45 trillion (31 December 2008) |
+| | $2.976 trillion (31 December 2007) |
+| **Sri Lanka** | $15.92 billion (30 September 2008) |
+| | $14.82 billion (31 December 2007) |
+| **Sudan** | $NA (31 December 2008) |
+| | $8.659 billion (31 December 2007) |
+| **Suriname** | $793.1 million (31 December 2008) |
+| | $651 million (31 December 2007) |
+| **Swaziland** | $51.55 million (31 December 2008) |
+| | $204.1 million (31 December 2007) |
+| **Sweden** | $549 billion (31 December 2008) |
+| | $630.8 billion (31 December 2007) |
+| **Switzerland** | $864.4 billion (31 December 2008 est.) |
+| | $855.4 billion (31 December 2007) |
+| **Syria** | $84.31 billion (31 December 2008) |
+| | $15.19 billion (31 December 2007) |
+| **Taiwan** | $677.8 billion (November 2008) |
+| | $NA (31 December 2007) |
+| **Tajikistan** | $889 million (31 December 2008) |
+| | $NA (31 December 2007) |
+| **Tanzania** | $3.297 billion (31 December 2008) |
+| | $2.501 billion (31 December 2007) |
+| **Thailand** | $274.1 billion (31 December 2008) |
+| | $263.5 billion (31 December 2007) |
+| **Timor-Leste** | $NA (31 December 2008) |
+| | $NA (31 December 2007) |
+| **Togo** | $674,300 (31 December 2008) |
+| | $590.7 million (31 December 2007) |
+| **Tonga** | $NA (31 December 2008) |
+| | $163.1 million (31 December 2007) |
+| **Trinidad and Tobago** | $3.423 billion (31 December 2008) |
+| | $3.73 billion (31 December 2007) |
+| **Tunisia** | $26.5 billion (31 December 2008) |
+| | $25.23 billion (31 December 2007) |
+| **Turkey** | $326.4 billion (31 December 2008) |
+| | $355 billion (31 December 2007) |
+| **Uganda** | $1.464 billion (31 December 2008) |
+| | $640.3 million (31 December 2007) |
+| **Ukraine** | $101.1 billion (31 December 2008) |
+| | $87.13 billion (31 December 2007) |
+| **United Arab Emirates** | $NA (31 December 2008) |
+| | $155.4 billion (31 December 2007) |
+| **United Kingdom** | $NA (31 December 2008) |
+| | $5.277 trillion (31 December 2007) |
+| **United States** | $15.06 trillion (31 December 2008) |
+| | $14.21 trillion (31 December 2007) |
+| **Uruguay** | $9.096 billion (31 December 2008) |
+| | $6.396 billion (31 December 2007) |
+| **Vanuatu** | $274 million (31 December 2008) |
+| | $229.5 million (31 December 2007) |
+| **Venezuela** | $62.42 billion (31 December 2008) |
+| | $50.24 billion (31 December 2007) |
+| **Vietnam** | $NA (31 December 2008) |
+| | $68.27 billion (31 December 2007) |
+| **West Bank** | $1.367 billion (31 December 2008) |
+| | $368.2 million (31 December 2007) |
+| **World** | $69.9 trillion (31 December 2007) |
+| **Yemen** | $NA (31 December 2008) |
+| | $2.224 billion (31 December 2007) |
+| **Zambia** | $2.138 billion (31 December 2008) |
+| | $1.968 billion (31 December 2007) |
+| **Zimbabwe** | $NA (31 December 2008) |
+| | $24.91 billion (31 December 2007) |

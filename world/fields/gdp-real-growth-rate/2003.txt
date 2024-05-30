@@ -1,0 +1,243 @@
+CIA - The World Factbook -- Field Listing - GDP - real growth rate
+
+| Country | GDP - real growth rate (%) |
+| --- | --- |
+| **Afghanistan** | NA% |
+| **Albania** | 7.3% (2002 est.) |
+| **Algeria** | 3.3% (2002 est.) |
+| **American Samoa** | NA% |
+| **Andorra** | 3.8% (2000 est.) |
+| **Angola** | 9.4% (2002 est.) |
+| **Anguilla** | 2.8% (2001 est.) |
+| **Antigua and Barbuda** | 3% (2002 est.) |
+| **Argentina** | -10.9% (2002 est.) |
+| **Armenia** | 12.9% (2002 est.) |
+| **Aruba** | -1.5% (2002 est.) |
+| **Australia** | 3.6% (2002 est.) |
+| **Austria** | 1.1% (2002 est.) |
+| **Azerbaijan** | 10.6% (2002 est.) |
+| **Bahamas, The** | 0.1% (2002 est.) |
+| **Bahrain** | 2.9% (2002 est.) |
+| **Bangladesh** | 4.8% (2002 est.) |
+| **Barbados** | -2.8% (2002 est.) |
+| **Belarus** | 4.7% (2002 est.) |
+| **Belgium** | 0.7% (2002 est.) |
+| **Belize** | 3.7% (2002 est.) |
+| **Benin** | 6% (2002 est.) |
+| **Bermuda** | 0.5% (2002 est.) |
+| **Bhutan** | 7.7% (2002 est.) |
+| **Bolivia** | 2.8% (2002 est.) |
+| **Bosnia and Herzegovina** | 2.3% (2002 est.) |
+| **Botswana** | 4.2% (2002 est.) |
+| **Brazil** | 1.5% (2002 est.) |
+| **British Virgin Islands** | 1% (2002 est.) |
+| **Brunei** | 3% (2002 est.) |
+| **Bulgaria** | 4.8% (2002 est.) |
+| **Burkina Faso** | 4.6% (2002 est.) |
+| **Burma** | 5.3% (2002 est.) |
+| **Burundi** | 4.5% (2002 est.) |
+| **Cambodia** | 4.5% (2002 est.) |
+| **Cameroon** | 4% (2002 est.) |
+| **Canada** | 3.3% (2002 est.) |
+| **Cape Verde** | 4% (2002 est.) |
+| **Cayman Islands** | 1.7% (2002 est.) |
+| **Central African Republic** | 1.5% (2002 est.) |
+| **Chad** | 7.4% (2002 est.) |
+| **Chile** | 2.1% (2002 est.) |
+| **China** | 8% (official data) (2002 est.) |
+| **Christmas Island** | NA% |
+| **Cocos (Keeling) Islands** | NA% |
+| **Colombia** | 1.5% (2002 est.) |
+| **Comoros** | 2% (2002 est.) |
+| **Congo, Democratic Republic of the** | 3.5% (2002 est.) |
+| **Congo, Republic of the** | 0% (2002 est.) |
+| **Cook Islands** | 7.1% (2001 est.) |
+| **Costa Rica** | 2.8% (2002 est.) |
+| **Cote d'Ivoire** | -1.6% (2002 est.) |
+| **Croatia** | 5.2% (2002 est.) |
+| **Cuba** | 1.1% (2002 est.) |
+| **Cyprus** | *Greek Cypriot area:* 1.7% (2001 est.); Turkish Cypriot area: 2.6% (2002 est.) |
+| **Czech Republic** | 2% (2002 est.) |
+| **Denmark** | 1.6% (2002 est.) |
+| **Djibouti** | 3.5% (2002 est.) |
+| **Dominica** | 1.2% (2002 est.) |
+| **Dominican Republic** | 4.1% (2002 est.) |
+| **East Timor** | 18% (2001 est.) |
+| **Ecuador** | 3.4% (2002 est.) |
+| **Egypt** | 3.2% (2002 est.) |
+| **El Salvador** | 2.1% (2002 est.) |
+| **Equatorial Guinea** | 20% (2002 est.) |
+| **Eritrea** | 2% (2002 est.) |
+| **Estonia** | 6% (2002 est.) |
+| **Ethiopia** | 3% (2002 est.) |
+| **Falkland Islands (Islas Malvinas)** | NA% |
+| **Faroe Islands** | 10% (2001 est.) |
+| **Fiji** | 4.6% (2002 est.) |
+| **Finland** | 1.6% (2002 est.) |
+| **France** | 1.2% (2002 est.) |
+| **French Guiana** | NA% |
+| **French Polynesia** | 4% (2001 est.) |
+| **Gabon** | 0.2% (2002 est.) |
+| **Gambia, The** | 5.7% (2001 est.) |
+| **Gaza Strip** | -15% (2002 est.) |
+| **Georgia** | 5.4% (2002 est.) |
+| **Germany** | 0.2% (2002 est.) |
+| **Ghana** | 4.5% (2002 est.) |
+| **Gibraltar** | NA% |
+| **Greece** | 4% (2002 est.) |
+| **Greenland** | 1.8% (2001 est.) |
+| **Grenada** | 2.5% (2002 est.) |
+| **Guadeloupe** | NA% |
+| **Guam** | NA% |
+| **Guatemala** | 2.2% (2002 est.) |
+| **Guernsey** | 5.7% (1999 est.) |
+| **Guinea** | 3.7% (2002 est.) |
+| **Guinea-Bissau** | -4.3% (2002 est.) |
+| **Guyana** | 1.1% (2002 est.) |
+| **Haiti** | -0.9% (2002 est.) |
+| **Honduras** | 2.5% (2002 est.) |
+| **Hong Kong** | 2.3% (2002 est.) |
+| **Hungary** | 3.3% (2002 est.) |
+| **Iceland** | -0.6% (2002 est.) |
+| **India** | 4.3% (2002 est.) |
+| **Indonesia** | 3.7% (2002 est.) |
+| **Iran** | 7.6% (2002 est.) |
+| **Iraq** | -3% (2002 est.) |
+| **Ireland** | 6.9% (2002 est.) |
+| **Israel** | -0.8% (2002 est.) |
+| **Italy** | 0.4% (2002 est.) |
+| **Jamaica** | 1% (2002 est.) |
+| **Japan** | 0.2% (2002 est.) |
+| **Jersey** | NA% |
+| **Jordan** | 4.9% (2002 est.) |
+| **Kazakhstan** | 9.5% (2002 est.) |
+| **Kenya** | 1.1% (2002 est.) |
+| **Kiribati** | 1.5% (2001 est.) |
+| **Korea, North** | 1% (2002 est.) |
+| **Korea, South** | 6.3% (2002 est.) |
+| **Kuwait** | -2% (2002 est.) |
+| **Kyrgyzstan** | 5.3% (2002 est.) |
+| **Laos** | 5.7% (2002 est.) |
+| **Latvia** | 6.1% (2002 est.) |
+| **Lebanon** | 2% (2002 est.) |
+| **Lesotho** | 4% (2002 est.) |
+| **Liberia** | 2% (2002 est.) |
+| **Libya** | 1.2% (2002 est.) |
+| **Liechtenstein** | 11% (1999 est.) |
+| **Lithuania** | 6.7% (2002 est.) |
+| **Luxembourg** | 0.4% (2002 est.) |
+| **Macau** | 9.5% (2002 est.) |
+| **Macedonia, The Former Yugoslav Republic of** | 0.7% (2002 est.) |
+| **Madagascar** | -11.9% (2002 est.) |
+| **Malawi** | 1.7% (2002 est.) |
+| **Malaysia** | 4.1% (2002 est.) |
+| **Maldives** | 2.3% (2002 est.) |
+| **Mali** | 4.5% (2002 est.) |
+| **Malta** | 1.2% (2002 est.) |
+| **Man, Isle of** | 13.5% |
+| **Marshall Islands** | 1% (2001 est.) |
+| **Martinique** | NA% |
+| **Mauritania** | 3.3% (2002 est.) |
+| **Mauritius** | 2.3% (2002 est.) |
+| **Mayotte** | NA% |
+| **Mexico** | 0.7% (2002 est.) |
+| **Micronesia, Federated States of** | 1% (2002 est.) |
+| **Moldova** | 6.5% (2002 est.) |
+| **Monaco** | NA% |
+| **Mongolia** | 3.9% (2002 est.) |
+| **Montserrat** | -1% (2002 est.) |
+| **Morocco** | 4.6% (2002 est.) |
+| **Mozambique** | 7.7% (2002 est.) |
+| **Namibia** | 2.3% (2002 est.) |
+| **Nauru** | NA% |
+| **Nepal** | -0.6% (2002 est.) |
+| **Netherlands** | 0.2% (2002 est.) |
+| **Netherlands Antilles** | 0% (2002 est.) |
+| **New Caledonia** | NA |
+| **New Zealand** | 3.3% (2002 est.) |
+| **Nicaragua** | 1.1% (2002 est.) |
+| **Niger** | 2.9% (2002 est.) |
+| **Nigeria** | 3.2% (2002 est.) |
+| **Niue** | -0.3% (2000 est.) |
+| **Norfolk Island** | NA% |
+| **Northern Mariana Islands** | NA% |
+| **Norway** | 1% (2002 est.) |
+| **Oman** | 2.2% (2002 est.) |
+| **Pakistan** | 4.4% (FY01/02 est.) |
+| **Palau** | 1% (2001 est.) |
+| **Panama** | 0.7% (2002 est.) |
+| **Papua New Guinea** | -3.1% (2002 est.) |
+| **Paraguay** | -2.7% (2002 est.) |
+| **Peru** | 5.3% (2002 est.) |
+| **Philippines** | 4.4% (2002 est.) |
+| **Pitcairn Islands** | NA% |
+| **Poland** | 1.4% (2002 est.) |
+| **Portugal** | 0.4% (2002 est.) |
+| **Puerto Rico** | -0.2% (2002 est.) |
+| **Qatar** | 4.6% (2002 est.) |
+| **Reunion** | 2.5% (2002 est.) |
+| **Romania** | 4.9% (2002 est.) |
+| **Russia** | 4.3% (2002 est.) |
+| **Rwanda** | 9.7% (2002 est.) |
+| **Saint Helena** | NA% |
+| **Saint Kitts and Nevis** | -1.9% (2002 est.) |
+| **Saint Lucia** | 3.3% (2002 est.) |
+| **Saint Pierre and Miquelon** | NA% |
+| **Saint Vincent and the Grenadines** | -0.5% (2002 est.) |
+| **Samoa** | 5% (2002 est.) |
+| **San Marino** | 7.5% (2001 est.) |
+| **Sao Tome and Principe** | 4% (2002 est.) |
+| **Saudi Arabia** | 1% (2002 est.) |
+| **Senegal** | 2.4% (2002 est.) |
+| **Serbia and Montenegro** | 4% (2002 est.) |
+| **Seychelles** | 1.5% (2002 est.) |
+| **Sierra Leone** | 6.6% (2002 est.) |
+| **Singapore** | 2.2% (2002 est.) |
+| **Slovakia** | 4.4% (2002 est.) |
+| **Slovenia** | 3.2% (2002 est.) |
+| **Solomon Islands** | -10% (2001 est.) |
+| **Somalia** | 3.5% (2002 est.) |
+| **South Africa** | 3% (2002 est.) |
+| **Spain** | 2% (2002 est.) |
+| **Sri Lanka** | 3.2% (2002 est.) |
+| **Sudan** | 5.1% (2002 est.) |
+| **Suriname** | 1.2% (2002 est.) |
+| **Svalbard** | NA% |
+| **Swaziland** | 1.6% (2002 est.) |
+| **Sweden** | 1.9% (2002 est.) |
+| **Switzerland** | 0.1% (2002 est.) |
+| **Syria** | 3.6% (2002 est.) |
+| **Taiwan** | 3.5% (2002 est.) |
+| **Tajikistan** | 9.1% (2002 est.) |
+| **Tanzania** | 6.1% (2002 est.) |
+| **Thailand** | 5.3% (2002 est.) |
+| **Togo** | 2.9% (2002 est.) |
+| **Tokelau** | NA% |
+| **Tonga** | 3% (2001 est.) |
+| **Trinidad and Tobago** | 3.2% (2002 est.) |
+| **Tunisia** | 4.8% (2002 est.) |
+| **Turkey** | 7.8% (2002 est.) |
+| **Turkmenistan** | 21.1% (2002 est.) |
+| **Turks and Caicos Islands** | 4.9% (2000 est.) |
+| **Tuvalu** | 3% (2000 est.) |
+| **Uganda** | 5.5% (2002 est.) |
+| **Ukraine** | 4.8% (2002 est.) |
+| **United Arab Emirates** | 1.8% (2002 est.) |
+| **United Kingdom** | 1.8% (2002 est.) |
+| **United States** | 2.4% (2002 est.) |
+| **Uruguay** | -10.8% (2002 est.) |
+| **Uzbekistan** | 4.2% (2002 est.) |
+| **Vanuatu** | -0.3% (2002 est.) |
+| **Venezuela** | -8.9% (2002 est.) |
+| **Vietnam** | 7% (2002 est.) |
+| **Virgin Islands** | 2% (2001 est.) |
+| **Wallis and Futuna** | NA% |
+| **West Bank** | -22% (2002 est.) |
+| **Western Sahara** | NA% |
+| **World** | 2.7% (2001 est.) |
+| **Yemen** | 4.1% (2002 est.) |
+| **Zambia** | 2.3% (2002 est.) |
+| **Zimbabwe** | -13% (2002 est.) |
+
+This page was last updated on 18 December, 2003
+ 

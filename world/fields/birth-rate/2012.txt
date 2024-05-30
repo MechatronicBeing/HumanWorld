@@ -1,0 +1,241 @@
+CIA - The World Factbook -- Field Listing :: Birth rate   
+
+This entry gives the average annual number of births during a year per 1,000 persons in the population at midyear; also known as crude birth rate. The birth rate is usually the dominant factor in determining the rate of population growth. It depends on both the level of fertility and the age structure of the population.
+
+| Country | Birth rate(births/1,000 population) |
+| --- | --- |
+| **Afghanistan** | 39.3 births/1,000 population (2012 est.) |
+| **Albania** | 12.38 births/1,000 population (2012 est.) |
+| **Algeria** | 24.4 births/1,000 population (2012 est.) |
+| **American Samoa** | 22.9 births/1,000 population (2012 est.) |
+| **Andorra** | 9.26 births/1,000 population (2012 est.) |
+| **Angola** | 39.36 births/1,000 population (2012 est.) |
+| **Anguilla** | 12.9 births/1,000 population (2012 est.) |
+| **Antigua and Barbuda** | 16.19 births/1,000 population (2012 est.) |
+| **Argentina** | 17.34 births/1,000 population (2012 est.) |
+| **Armenia** | 12.9 births/1,000 population (2012 est.) |
+| **Aruba** | 12.76 births/1,000 population (2012 est.) |
+| **Australia** | 12.28 births/1,000 population (2012 est.) |
+| **Austria** | 8.69 births/1,000 population (2012 est.) |
+| **Azerbaijan** | 17.3 births/1,000 population (2012 est.) |
+| **Bahamas, The** | 15.95 births/1,000 population (2012 est.) |
+| **Bahrain** | 14.41 births/1,000 population (2012 est.) |
+| **Bangladesh** | 22.53 births/1,000 population (2012 est.) |
+| **Barbados** | 12.23 births/1,000 population (2012 est.) |
+| **Belarus** | 11.1 births/1,000 population (2012 est.) |
+| **Belgium** | 10.03 births/1,000 population (2012 est.) |
+| **Belize** | 26.02 births/1,000 population (2012 est.) |
+| **Benin** | 37.55 births/1,000 population (2012 est.) |
+| **Bermuda** | 11.42 births/1,000 population (2012 est.) |
+| **Bhutan** | 18.75 births/1,000 population (2012 est.) |
+| **Bolivia** | 24.24 births/1,000 population (2012 est.) |
+| **Bosnia and Herzegovina** | 8.9 births/1,000 population (2012 est.) |
+| **Botswana** | 22.02 births/1,000 population (2012 est.) |
+| **Brazil** | 15.2 births/1,000 population (2012 est.) |
+| **British Virgin Islands** | 10.69 births/1,000 population (2012 est.) |
+| **Brunei** | 17.74 births/1,000 population (2012 est.) |
+| **Bulgaria** | 9.2 births/1,000 population (2012 est.) |
+| **Burkina Faso** | 43.2 births/1,000 population (2012 est.) |
+| **Burma** | 19.11 births/1,000 population (2012 est.) |
+| **Burundi** | 40.58 births/1,000 population (2012 est.) |
+| **Cambodia** | 25.17 births/1,000 population (2012 est.) |
+| **Cameroon** | 32.49 births/1,000 population (2012 est.) |
+| **Canada** | 10.28 births/1,000 population (2012 est.) |
+| **Cape Verde** | 21.21 births/1,000 population (2012 est.) |
+| **Cayman Islands** | 12.21 births/1,000 population (2012 est.) |
+| **Central African Republic** | 36.13 births/1,000 population (2012 est.) |
+| **Chad** | 38.7 births/1,000 population (2012 est.) |
+| **Chile** | 14.3 births/1,000 population (2012 est.) |
+| **China** | 12.31 births/1,000 population (2012 est.) |
+| **Christmas Island** | -9 births/1,000 population |
+| **Cocos (Keeling) Islands** | -9 births/1,000 population |
+| **Colombia** | 17.23 births/1,000 population (2012 est.) |
+| **Comoros** | 31.49 births/1,000 population (2012 est.) |
+| **Congo, Democratic Republic of the** | 37.05 births/1,000 population (2012 est.) |
+| **Congo, Republic of the** | 40.09 births/1,000 population (2012 est.) |
+| **Cook Islands** | 15.22 births/1,000 population (2012 est.) |
+| **Costa Rica** | 16.4 births/1,000 population (2012 est.) |
+| **Cote d'Ivoire** | 30.4 births/1,000 population (2012 est.) |
+| **Croatia** | 9.57 births/1,000 population (2012 est.) |
+| **Cuba** | 9.96 births/1,000 population (2012 est.) |
+| **Curacao** | NA |
+| **Cyprus** | 11.44 births/1,000 population (2012 est.) |
+| **Czech Republic** | 8.62 births/1,000 population (2012 est.) |
+| **Denmark** | 10.22 births/1,000 population (2012 est.) |
+| **Djibouti** | 24.91 births/1,000 population (2012 est.) |
+| **Dominica** | 15.6 births/1,000 population (2012 est.) |
+| **Dominican Republic** | 19.44 births/1,000 population (2012 est.) |
+| **Ecuador** | 19.6 births/1,000 population (2012 est.) |
+| **Egypt** | 24.22 births/1,000 population (2012 est.) |
+| **El Salvador** | 17.44 births/1,000 population (2012 est.) |
+| **Equatorial Guinea** | 34.88 births/1,000 population (2012 est.) |
+| **Eritrea** | 32.1 births/1,000 population (2012 est.) |
+| **Estonia** | 10.43 births/1,000 population (2012 est.) |
+| **Ethiopia** | 38.5 births/1,000 population (2012 est.) |
+| **European Union** | 10.27 births/1,000 population (2012 est.) |
+| **Falkland Islands (Islas Malvinas)** | NA |
+| **Faroe Islands** | 13.14 births/1,000 population (2012 est.) |
+| **Fiji** | 20.7 births/1,000 population (2012 est.) |
+| **Finland** | 10.36 births/1,000 population (2012 est.) |
+| **France** | 12.7 births/1,000 population (2012 est.) |
+| **French Polynesia** | 15.92 births/1,000 population (2012 est.) |
+| **Gabon** | 35 births/1,000 population (2012 est.) |
+| **Gambia, The** | 33.41 births/1,000 population (2012 est.) |
+| **Gaza Strip** | 34.3 births/1,000 population (2012 est.) |
+| **Georgia** | 10.75 births/1,000 population (2012 est.) |
+| **Germany** | 8.33 births/1,000 population (2012 est.) |
+| **Ghana** | 32 births/1,000 population (2012 est.) |
+| **Gibraltar** | 14.22 births/1,000 population (2012 est.) |
+| **Greece** | 9.08 births/1,000 population (2012 est.) |
+| **Greenland** | 14.58 births/1,000 population (2012 est.) |
+| **Grenada** | 16.81 births/1,000 population (2012 est.) |
+| **Guam** | 17.5 births/1,000 population (2012 est.) |
+| **Guatemala** | 26.48 births/1,000 population (2012 est.) |
+| **Guernsey** | 10.04 births/1,000 population (2012 est.) |
+| **Guinea** | 36.6 births/1,000 population (2012 est.) |
+| **Guinea-Bissau** | 34.72 births/1,000 population (2012 est.) |
+| **Guyana** | 16.69 births/1,000 population (2012 est.) |
+| **Haiti** | 23.87 births/1,000 population (2012 est.) |
+| **Honduras** | 24.66 births/1,000 population (2012 est.) |
+| **Hong Kong** | 7.54 births/1,000 population (2012 est.) |
+| **Hungary** | 9.49 births/1,000 population (2012 est.) |
+| **Iceland** | 13.23 births/1,000 population (2012 est.) |
+| **India** | 20.6 births/1,000 population (2012 est.) |
+| **Indonesia** | 17.7 births/1,000 population (2012 est.) |
+| **Iran** | 18.52 births/1,000 population (2012 est.) |
+| **Iraq** | 28.19 births/1,000 population (2012 est.) |
+| **Ireland** | 15.81 births/1,000 population (2012 est.) |
+| **Isle of Man** | 11.36 births/1,000 population (2012 est.) |
+| **Israel** | 18.97 births/1,000 population (2012 est.) |
+| **Italy** | 9.06 births/1,000 population (2012 est.) |
+| **Jamaica** | 18.89 births/1,000 population (2012 est.) |
+| **Japan** | 8.39 births/1,000 population (2012 est.) |
+| **Jersey** | 11.12 births/1,000 population (2012 est.) |
+| **Jordan** | 26.52 births/1,000 population (2012 est.) |
+| **Kazakhstan** | 20.44 births/1,000 population (2012 est.) |
+| **Kenya** | 31.93 births/1,000 population (2012 est.) |
+| **Kiribati** | 22.45 births/1,000 population (2012 est.) |
+| **Korea, North** | 14.51 births/1,000 population (2012 est.) |
+| **Korea, South** | 8.42 births/1,000 population (2012 est.) |
+| **Kuwait** | 20.96 births/1,000 population (2012 est.) |
+| **Kyrgyzstan** | 23.9 births/1,000 population (2012 est.) |
+| **Laos** | 25.68 births/1,000 population (2012 est.) |
+| **Latvia** | 9.97 births/1,000 population (2012 est.) |
+| **Lebanon** | 14.92 births/1,000 population (2012 est.) |
+| **Lesotho** | 26.65 births/1,000 population (2012 est.) |
+| **Liberia** | 36.45 births/1,000 population (2012 est.) |
+| **Libya** | 17.5 births/1,000 population (2012 est.) |
+| **Liechtenstein** | 10.76 births/1,000 population (2012 est.) |
+| **Lithuania** | 9.34 births/1,000 population (2012 est.) |
+| **Luxembourg** | 11.7 births/1,000 population (2012 est.) |
+| **Macau** | 9.05 births/1,000 population (2012 est.) |
+| **Macedonia** | 11.8 births/1,000 population (2012 est.) |
+| **Madagascar** | 34 births/1,000 population (2012 est.) |
+| **Malawi** | 40.42 births/1,000 population (2012 est.) |
+| **Malaysia** | 20.74 births/1,000 population (2012 est.) |
+| **Maldives** | 15.12 births/1,000 population (2012 est.) |
+| **Mali** | 46.6 births/1,000 population (2012 est.) |
+| **Malta** | 10.31 births/1,000 population (2012 est.) |
+| **Marshall Islands** | 28.14 births/1,000 population (2012 est.) |
+| **Mauritania** | 32.78 births/1,000 population (2012 est.) |
+| **Mauritius** | 13.78 births/1,000 population (2012 est.) |
+| **Mexico** | 18.87 births/1,000 population (2012 est.) |
+| **Micronesia, Federated States of** | 21.85 births/1,000 population (2012 est.) |
+| **Moldova** | 12.5 births/1,000 population (2012 est.) |
+| **Monaco** | 6.85 births/1,000 population (2012 est.) |
+| **Mongolia** | 20.7 births/1,000 population (2012 est.) |
+| **Montenegro** | 10.89 births/1,000 population (2012 est.) |
+| **Montserrat** | 11.62 births/1,000 population (2012 est.) |
+| **Morocco** | 18.97 births/1,000 population (2012 est.) |
+| **Mozambique** | 39.34 births/1,000 population (2012 est.) |
+| **Namibia** | 21.11 births/1,000 population (2012 est.) |
+| **Nauru** | 27.08 births/1,000 population (2012 est.) |
+| **Nepal** | 21.85 births/1,000 population (2012 est.) |
+| **Netherlands** | 10.89 births/1,000 population (2012 est.) |
+| **New Caledonia** | 16.05 births/1,000 population (2012 est.) |
+| **New Zealand** | 13.57 births/1,000 population (2012 est.) |
+| **Nicaragua** | 19.12 births/1,000 population (2012 est.) |
+| **Niger** | 47.6 births/1,000 population (2012 est.) |
+| **Nigeria** | 39.23 births/1,000 population (2012 est.) |
+| **Niue** | -9 births/1,000 population NA |
+| **Norfolk Island** | -9 births/1,000 population NA |
+| **Northern Mariana Islands** | 20.2 births/1,000 population (2012 est.) |
+| **Norway** | 10.8 births/1,000 population (2012 est.) |
+| **Oman** | 24.33 births/1,000 population (2012 est.) |
+| **Pakistan** | 24.3 births/1,000 population (2012 est.) |
+| **Palau** | 10.79 births/1,000 population (2012 est.) |
+| **Panama** | 19.17 births/1,000 population (2012 est.) |
+| **Papua New Guinea** | 25.92 births/1,000 population (2012 est.) |
+| **Paraguay** | 17.22 births/1,000 population (2012 est.) |
+| **Peru** | 19.13 births/1,000 population (2012 est.) |
+| **Philippines** | 24.98 births/1,000 population (2012 est.) |
+| **Pitcairn Islands** | -9 births/1,000 population NA |
+| **Poland** | 9.96 births/1,000 population (2012 est.) |
+| **Portugal** | 9.76 births/1,000 population (2012 est.) |
+| **Puerto Rico** | 11.3 births/1,000 population (2012 est.) |
+| **Qatar** | 10.23 births/1,000 population (2012 est.) |
+| **Romania** | 9.49 births/1,000 population (2012 est.) |
+| **Russia** | 12.3 births/1,000 population (2012 est.) |
+| **Rwanda** | 36.14 births/1,000 population (2012 est.) |
+| **Saint Helena, Ascension, and Tristan da Cunha** | 10.48 births/1,000 population (2012 est.) |
+| **Saint Kitts and Nevis** | 13.9 births/1,000 population (2012 est.) |
+| **Saint Lucia** | 14.42 births/1,000 population (2012 est.) |
+| **Saint Pierre and Miquelon** | 8.06 births/1,000 population (2012 est.) |
+| **Saint Vincent and the Grenadines** | 14.36 births/1,000 population (2012 est.) |
+| **Samoa** | 22.1 births/1,000 population (2012 est.) |
+| **San Marino** | 8.9 births/1,000 population (2012 est.) |
+| **Sao Tome and Principe** | 37.02 births/1,000 population (2012 est.) |
+| **Saudi Arabia** | 19.19 births/1,000 population (2012 est.) |
+| **Senegal** | 36.19 births/1,000 population (2012 est.) |
+| **Serbia** | 9.17 births/1,000 population (2012 est.) |
+| **Seychelles** | 15.1 births/1,000 population (2012 est.) |
+| **Sierra Leone** | 38.12 births/1,000 population (2012 est.) |
+| **Singapore** | 7.72 births/1,000 population (2012 est.) |
+| **Sint Maarten** | NA |
+| **Slovakia** | 10.38 births/1,000 population (2012 est.) |
+| **Slovenia** | 8.76 births/1,000 population (2012 est.) |
+| **Solomon Islands** | 27.46 births/1,000 population (2012 est.) |
+| **Somalia** | 42.12 births/1,000 population (2012 est.) |
+| **South Africa** | 19.32 births/1,000 population (2012 est.) |
+| **Spain** | 10.4 births/1,000 population (2012 est.) |
+| **Sri Lanka** | 17.04 births/1,000 population (2012 est.) |
+| **Sudan** | 31.7 births/1,000 population (2012 est.) |
+| **Suriname** | 17.44 births/1,000 population (2012 est.) |
+| **Svalbard** | -9 births/1,000 population NA |
+| **Swaziland** | 26.16 births/1,000 population (2012 est.) |
+| **Sweden** | 10.24 births/1,000 population (2012 est.) |
+| **Switzerland** | 10.4 births/1,000 population (2012 est.) |
+| **Syria** | 23.52 births/1,000 population (2012 est.) |
+| **Taiwan** | 8.7 births/1,000 population (2012 est.) |
+| **Tajikistan** | 25.93 births/1,000 population (2012 est.) |
+| **Tanzania** | 37.7 births/1,000 population (2012 est.) |
+| **Thailand** | 12.81 births/1,000 population (2012 est.) |
+| **Timor-Leste** | 35.2 births/1,000 population (2012 est.) |
+| **Togo** | 35.26 births/1,000 population (2012 est.) |
+| **Tokelau** | -9 births/1,000 population NA |
+| **Tonga** | 24.7 births/1,000 population (2012 est.) |
+| **Trinidad and Tobago** | 14.25 births/1,000 population (2012 est.) |
+| **Tunisia** | 17.28 births/1,000 population (2012 est.) |
+| **Turkey** | 17.58 births/1,000 population (2012 est.) |
+| **Turkmenistan** | 19.55 births/1,000 population (2012 est.) |
+| **Turks and Caicos Islands** | 17.44 births/1,000 population (2012 est.) |
+| **Tuvalu** | 23.35 births/1,000 population (2012 est.) |
+| **Uganda** | 45.8 births/1,000 population (2012 est.) |
+| **Ukraine** | 9.59 births/1,000 population (2012 est.) |
+| **United Arab Emirates** | 15.76 births/1,000 population (2012 est.) |
+| **United Kingdom** | 12.27 births/1,000 population (2012 est.) |
+| **United States** | 13.7 births/1,000 population (2012 est.) |
+| **Uruguay** | 13.4 births/1,000 population (2012 est.) |
+| **Uzbekistan** | 17.33 births/1,000 population (2012 est.) |
+| **Vanuatu** | 27 births/1,000 population (2012 est.) |
+| **Venezuela** | 19.88 births/1,000 population (2012 est.) |
+| **Vietnam** | 16.83 births/1,000 population (2012 est.) |
+| **Virgin Islands** | 10.9 births/1,000 population (2012 est.) |
+| **Wallis and Futuna** | 13.91 births/1,000 population (2012 est.) |
+| **West Bank** | 24.19 births/1,000 population (2012 est.) |
+| **Western Sahara** | 31.65 births/1,000 population (2012 est.) |
+| **World** | 19.14 births/1,000 population |
+| | *note:* this rate results in about 252 worldwide births per minute or 4.2 births every second (2012 est.) |
+| **Yemen** | 32.57 births/1,000 population (2012 est.) |
+| **Zambia** | 43.1 births/1,000 population (2012 est.) |
+| **Zimbabwe** | 32.19 births/1,000 population (2012 est.) |

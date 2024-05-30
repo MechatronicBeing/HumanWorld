@@ -1,0 +1,394 @@
+FIELD LISTING :: UNEMPLOYMENT, YOUTH AGES 15-24
+
+This entry gives the percent of the total labor force ages 15-24 unemployed during a specified year.
+
+| Country | UNEMPLOYMENT, YOUTH AGES 15-24(%) |
+| --- | --- |
+| **Albania** | *total:* 22.5% |
+| | *male:* 23.8% |
+| | *female:* 20.7% (2010 est.) |
+| **Algeria** | *total:* 22.4% |
+| | *male:* 19.1% |
+| | *female:* 38.2% (2011 est.) |
+| **Argentina** | *total:* 18.3% |
+| | *male:* 15.3% |
+| | *female:* 23.1% (2012 est.) |
+| **Armenia** | *total:* 39.2% |
+| | *male:* 35% |
+| | *female:* 45% (2011 est.) |
+| **Aruba** | *total:* 23.2% |
+| | *male:* 23.5% |
+| | *female:* 22.9% (2007 est.) |
+| **Australia** | *total:* 11.7% |
+| | *male:* 12.4% |
+| | *female:* 11% (2012 est.) |
+| **Austria** | *total:* 8.7% |
+| | *male:* 8.8% |
+| | *female:* 8.7% (2012 est.) |
+| **Azerbaijan** | *total:* 14.2% |
+| | *male:* 12.2% |
+| | *female:* 16.3% (2012 est.) |
+| **Bahamas, The** | *total:* 30.8% |
+| | *male:* 29.6% |
+| | *female:* 32.2% (2012 est.) |
+| **Bahrain** | *total:* 5% |
+| | *male:* 2.5% |
+| | *female:* 11.6% (2010 est.) |
+| **Bangladesh** | *total:* 9.3% |
+| | *male:* 8% |
+| | *female:* 13.6% (2005 est.) |
+| **Belarus** | *total:* 12.6% |
+| | *male:* 12.4% |
+| | *female:* 12.6% (2009 est.) |
+| **Belgium** | *total:* 19.8% |
+| | *male:* 20.4% |
+| | *female:* 19.8% (2012 est.) |
+| **Belize** | *total:* 19.5% |
+| | *male:* 13.8% |
+| | *female:* 28.8% (2005 est.) |
+| **Bhutan** | *total:* 7.2% |
+| | *male:* 7.3% |
+| | *female:* 7.2% (2012 est.) |
+| **Bolivia** | *total:* 6.2% |
+| | *male:* 4.8% |
+| | *female:* 7.8% (2009 est.) |
+| **Bosnia and Herzegovina** | *total:* 62.8% |
+| | *male:* 62.8% |
+| | *female:* 62.8% (2012 est.) |
+| **Brazil** | *total:* 15.4% |
+| | *male:* 12.2% |
+| | *female:* 19.8% (2011 est.) |
+| **Bulgaria** | *total:* 28.1% |
+| | *male:* 29.5% |
+| | *female:* 26% (2012 est.) |
+| **Burkina Faso** | *total:* 3.8% |
+| | *male:* 4.6% |
+| | *female:* 2.9% (2006 est.) |
+| **Cambodia** | *total:* 3.4% |
+| | *male:* 3.5% |
+| | *female:* 3.3% (2008 est.) |
+| **Canada** | *total:* 14.3% |
+| | *male:* 15.9% |
+| | *female:* 12.6% (2012 est.) |
+| **Cayman Islands** | *total:* 13.5% |
+| | *male:* 13.6% |
+| | *female:* 13.3% (2008 est.) |
+| **Chile** | *total:* 16.3% |
+| | *male:* 14.3% |
+| | *female:* 19.1% (2012 est.) |
+| **Colombia** | *total:* 21.9% |
+| | *male:* 17% |
+| | *female:* 28.9% (2011 est.) |
+| **Costa Rica** | *total:* 18.4% |
+| | *male:* 15% |
+| | *female:* 24.2% (2012 est.) |
+| **Croatia** | *total:* 43.1% |
+| | *male:* 42.3% |
+| | *female:* 44.3% (2012 est.) |
+| **Cuba** | *total:* 3.1% |
+| | *male:* 2.8% |
+| | *female:* 3.5% (2008 est.) |
+| **Cyprus** | *total:* 27.8% |
+| | *male:* 28.8% |
+| | *female:* 26.6% (2012 est.) |
+| **Czech Republic** | *total:* 19.5% |
+| | *male:* 19.9% |
+| | *female:* 19% (2012 est.) |
+| **Denmark** | *total:* 14.2% |
+| | *male:* 14.8% |
+| | *female:* 14.1% (2012 est.) |
+| **Dominican Republic** | *total:* 29.4% |
+| | *male:* 22.6% |
+| | *female:* 40.8% (2011 est.) |
+| **Ecuador** | *total:* 11.1% |
+| | *male:* 9% |
+| | *female:* 15% (2011 est.) |
+| **Egypt** | *total:* 24.8% |
+| | *male:* 14.7% |
+| | *female:* 54.1% (2010 est.) |
+| **El Salvador** | *total:* 12.4% |
+| | *male:* 12.8% |
+| | *female:* 11.7% (2012 est.) |
+| **Estonia** | *total:* 20.9% |
+| | *male:* 23.4% |
+| | *female:* 17.9% (2012 est.) |
+| **Ethiopia** | *total:* 24.9% |
+| | *male:* 19.5% |
+| | *female:* 29.4% (2006 est.) |
+| **Faroe Islands** | *total:* 9.4% |
+| | *male:* 6.9% |
+| | *female:* 12.5% (2005 est.) |
+| **Finland** | *total:* 17.7% |
+| | *male:* 17.6% |
+| | *female:* 17.9% (2012 est.) |
+| **France** | *total:* 23.8% |
+| | *male:* 23.9% |
+| | *female:* 23.7% (2012 est.) |
+| **Gaza Strip** | *total:* 38.8% |
+| | *male:* 34.5% |
+| | *female:* 62.2% |
+| | *note:* includes West Bank (2012 est.) |
+| **Georgia** | *total:* 33.3% (2012 est.) |
+| **Germany** | *total:* 8.1% |
+| | *male:* 8.8% |
+| | *female:* 7.4% (2012 est.) |
+| **Greece** | *total:* 55.3% |
+| | *male:* 48.4% |
+| | *female:* 63.2% (2012 est.) |
+| **Guam** | *total:* 29.4% |
+| | *male:* 29.7% |
+| | *female:* 28.9% (2011 est.) |
+| **Guatemala** | *total:* 7.5% |
+| | *male:* 4.5% |
+| | *female:* 13.6% (2011 est.) |
+| **Guyana** | *total:* 46.05% |
+| | *male:* 43.59% |
+| | *female:* 50% (2011 est.) |
+| **Honduras** | *total:* 8% |
+| | *male:* 5.5% |
+| | *female:* 13.8% (2011 est.) |
+| **Hong Kong** | *total:* 9.3% |
+| | *male:* 10.9% |
+| | *female:* 7.8% (2012 est.) |
+| **Hungary** | *total:* 28.1% |
+| | *male:* 28.8% |
+| | *female:* 27.3% (2012 est.) |
+| **Iceland** | *total:* 13.6% |
+| | *male:* 14.7% |
+| | *female:* 12.4% (2012 est.) |
+| **India** | *total:* 10.7% |
+| | *male:* 10.4% |
+| | *female:* 11.6% (2012 est.) |
+| **Indonesia** | *total:* 22.2% |
+| | *male:* 21.6% |
+| | *female:* 23% (2009 est.) |
+| **Iran** | *total:* 23% |
+| | *male:* 20.2% |
+| | *female:* 33.9% (2008 est.) |
+| **Ireland** | *total:* 24% |
+| | *male:* 36.4% |
+| | *female:* 24% (2012 est.) |
+| **Isle of Man** | *total:* 7.2% |
+| | *male:* 9.5% |
+| | *female:* 5.1% (2006 est.) |
+| **Israel** | *total:* 12.1% |
+| | *male:* 11.6% |
+| | *female:* 12.7% (2012 est.) |
+| **Italy** | *total:* 35.3% |
+| | *male:* 33.7% |
+| | *female:* 37.5% (2012 est.) |
+| **Jamaica** | *total:* 34% |
+| | *male:* 27.1% |
+| | *female:* 42.6% (2012 est.) |
+| **Japan** | *total:* 7.9% |
+| | *male:* 8.7% |
+| | *female:* 7.1% (2012 est.) |
+| **Jordan** | *total:* 29.3% |
+| | *male:* 25.2% |
+| | *female:* 48.8% (2012 est.) |
+| **Kazakhstan** | *total:* 3.9% |
+| | *male:* 2.9% |
+| | *female:* 5.1% (2012 est.) |
+| **Korea, South** | *total:* 9% |
+| | *male:* 9.7% |
+| | *female:* 8.5% (2012 est.) |
+| **Kosovo** | *total:* 55.3% |
+| | *male:* 52% |
+| | *female:* 63.8% (2012 est.) |
+| **Kuwait** | *total:* 11.3% |
+| | *male:* 11.8% |
+| | *female:* 10% (2005 est.) |
+| **Kyrgyzstan** | *total:* 14.6% |
+| | *male:* 13.6% |
+| | *female:* 16.2% (2006 est.) |
+| **Latvia** | *total:* 28.4% |
+| | *male:* 27.6% |
+| | *female:* 29.3% (2012 est.) |
+| **Lebanon** | *total:* 16.8% |
+| | *male:* 14.6% |
+| | *female:* 22.3% (2009 est.) |
+| **Lesotho** | *total:* 34.4% |
+| | *male:* 29% |
+| | *female:* 41.9% (2008 est.) |
+| **Liberia** | *total:* 5.1% |
+| | *male:* 3.4% |
+| | *female:* 6.6% (2010 est.) |
+| **Lithuania** | *total:* 26.4% |
+| | *male:* 29.9% |
+| | *female:* 21.8% (2012 est.) |
+| **Luxembourg** | *total:* 18.8% |
+| | *male:* 18.9% |
+| | *female:* 18.6% (2012 est.) |
+| **Macau** | *total:* 5.8% |
+| | *male:* 7% |
+| | *female:* 4.7% (2011 est.) |
+| **Macedonia** | *total:* 53.9% |
+| | *male:* 55.2% |
+| | *female:* 51.7% (2012 est.) |
+| **Madagascar** | *total:* 2.3% |
+| | *male:* 1.7% |
+| | *female:* 2.8% (2005 est.) |
+| **Malaysia** | *total:* 10.3% |
+| | *male:* 9.8% |
+| | *female:* 11% (2012 est.) |
+| **Maldives** | *total:* 22.2% |
+| | *male:* 15.5% |
+| | *female:* 30.5% (2006 est.) |
+| **Malta** | *total:* 14.2% |
+| | *male:* 14% |
+| | *female:* 14.5% (2012 est.) |
+| **Mauritius** | *total:* 23.7% |
+| | *male:* 20.4% |
+| | *female:* 28.4% (2012 est.) |
+| **Mexico** | *total:* 9.4% |
+| | *male:* 9.1% |
+| | *female:* 9.9% (2012 est.) |
+| **Moldova** | *total:* 13.1% |
+| | *male:* 12.8% |
+| | *female:* 13.4% (2012 est.) |
+| **Mongolia** | *total:* 11.9% |
+| | *male:* 10.7% |
+| | *female:* 13.2% (2011 est.) |
+| **Montenegro** | *total:* 41.1% |
+| | *male:* 42.3% |
+| | *female:* 39.7% (2012 est.) |
+| **Morocco** | *total:* 18.6% |
+| | *male:* 18.4% |
+| | *female:* 19.2% (2012 est.) |
+| **Namibia** | *total:* 34.3% |
+| | *male:* 29.4% |
+| | *female:* 40.1% (2012 est.) |
+| **Netherlands** | *total:* 9.5% |
+| | *male:* 8.9% |
+| | *female:* 10% (2012 est.) |
+| **New Zealand** | *total:* 17.7% |
+| | *male:* 17.3% |
+| | *female:* 18.1% (2012 est.) |
+| **Nicaragua** | *total:* 8.6% |
+| | *male:* 8.1% |
+| | *female:* 9.7% (2006 est.) |
+| **Norway** | *total:* 8.6% |
+| | *male:* 10% |
+| | *female:* 7.2% (2012 est.) |
+| **Pakistan** | *total:* 7.7% |
+| | *male:* 7% |
+| | *female:* 10.5% (2008 est.) |
+| **Panama** | *total:* 10.3% |
+| | *male:* 8.7% |
+| | *female:* 13.3% (2012 est.) |
+| **Paraguay** | *total:* 11.2% |
+| | *male:* 9% |
+| | *female:* 14.6% (2012 est.) |
+| **Peru** | *total:* 9.5% |
+| | *male:* 9.4% |
+| | *female:* 9.7% (2011 est.) |
+| **Philippines** | *total:* 16.3% |
+| | *male:* 15.2% |
+| | *female:* 18.3% (2011 est.) |
+| **Poland** | *total:* 26.5% |
+| | *male:* 24.1% |
+| | *female:* 30% (2012 est.) |
+| **Portugal** | *total:* 37.6% |
+| | *male:* 36.4% |
+| | *female:* 39.1% (2012 est.) |
+| **Puerto Rico** | *total:* 26.6% |
+| | *male:* 28.9% |
+| | *female:* 23.1% (2012 est.) |
+| **Qatar** | *total:* 1.3% |
+| | *male:* 0.4% |
+| | *female:* 8.9% (2011 est.) |
+| **Romania** | *total:* 22.7% |
+| | *male:* 22.3% |
+| | *female:* 23.2% (2012 est.) |
+| **Russia** | *total:* 14.8% |
+| | *male:* 14.5% |
+| | *female:* 15.1% (2012 est.) |
+| **Saint Lucia** | *total:* 40.8% |
+| | *male:* 37.1% |
+| | *female:* 45.5% (2004 est.) |
+| **Samoa** | *total:* 16.1% |
+| | *male:* 13.8% |
+| | *female:* 22.2% (2011 est.) |
+| **Saudi Arabia** | *total:* 28.3% |
+| | *male:* 20.8% |
+| | *female:* 54.4% (2012 est.) |
+| **Senegal** | *total:* 14.8% |
+| | *male:* 11.9% |
+| | *female:* 20.1% (2006 est.) |
+| **Serbia** | *total:* 51.1% (2012 est.) |
+| **Singapore** | *total:* 6.7% (2012 est.) |
+| **Slovakia** | *total:* 34% |
+| | *male:* 35% |
+| | *female:* 32.5% (2012 est.) |
+| **Slovenia** | *total:* 20.6% |
+| | *male:* 20.3% |
+| | *female:* 21% (2012 est.) |
+| **South Africa** | *total:* 51.5% |
+| | *male:* 47.1% |
+| | *female:* 56.9% (2012 est.) |
+| **Spain** | *total:* 53.2% |
+| | *male:* 54.4% |
+| | *female:* 51.8% (2012 est.) |
+| **Sri Lanka** | *total:* 17.3% |
+| | *male:* 14% |
+| | *female:* 23.5% (2012 est.) |
+| **Suriname** | *total:* 21.5% (2004 est.) |
+| **Sweden** | *total:* 23.7% |
+| | *male:* 25% |
+| | *female:* 22.3% (2012 est.) |
+| **Switzerland** | *total:* 8.4% |
+| | *male:* 8.8% |
+| | *female:* 8.1% (2012 est.) |
+| **Syria** | *total:* 19.2% |
+| | *male:* 15.3% |
+| | *female:* 40.2% (2010 est.) |
+| **Tajikistan** | *total:* 16.7% |
+| | *male:* 19.2% |
+| | *female:* 13.7% (2009 est.) |
+| **Tanzania** | *total:* 7.1% (2011 est.) |
+| **Thailand** | *total:* 2.8% |
+| | *male:* 2.5% |
+| | *female:* 3.1% (2012 est.) |
+| **Timor-Leste** | *total:* 14.8% |
+| | *male:* 10.4% |
+| | *female:* 22.7% (2010 est.) |
+| **Trinidad and Tobago** | *total:* 10.5% |
+| | *male:* 8.8% |
+| | *female:* 12.9% (2008 est.) |
+| **Tunisia** | *total:* 42.3% (2011 est.) |
+| **Turkey** | *total:* 17.5% |
+| | *male:* 16.3% |
+| | *female:* 19.9% (2012 est.) |
+| **Uganda** | *total:* 5.4% (2009 est.) |
+| **Ukraine** | *total:* 17.3% |
+| | *male:* 18.1% |
+| | *female:* 16.1% (2012 est.) |
+| **United Arab Emirates** | *total:* 12.1% |
+| | *male:* 7.9% |
+| | *female:* 21.8% (2008 est.) |
+| **United Kingdom** | *total:* 21% |
+| | *male:* 23.8% |
+| | *female:* 17.9% (2012 est.) |
+| **United States** | *total:* 17.3% |
+| | *male:* 18.7% |
+| | *female:* 15.7% (2011 est.) |
+| **Uruguay** | *total:* 18.5% |
+| | *male:* 14.7% |
+| | *female:* 23.6% (2012 est.) |
+| **Venezuela** | *total:* 17.1% |
+| | *male:* 14.3% |
+| | *female:* 22.6% (2012 est.) |
+| **Vietnam** | *total:* 5.5% |
+| | *male:* 4.6% |
+| | *female:* 6.5% (2012 est.) |
+| **West Bank** | *total:* 38.8% |
+| | *male:* 34.5% |
+| | *female:* 62.2% |
+| | *note:* includes Gaza Strip (2012 est.) |
+| **Yemen** | *total:* 33.7% |
+| | *male:* 26% |
+| | *female:* 74% (2010 est.) |
+| **Zambia** | *total:* 23.4% (2005 est.) |
+| **Zimbabwe** | *total:* 7.6% |
+| | *male:* 7.6% |
+| | *female:* 7.6% (2004 est.) |

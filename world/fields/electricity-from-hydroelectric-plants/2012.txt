@@ -1,0 +1,215 @@
+CIA - The World Factbook -- Field Listing :: Electricity - from hydroelectric plants   
+
+This entry measures the capacity of plants that generate electricity by water-driven turbines, expressed as a share of the country's total generating capacity.
+
+| Country | Electricity - from hydroelectric plants(% of total installed capacity) |
+| --- | --- |
+| **Afghanistan** | 76.5% of total installed capacity (2009 est.) |
+| **Albania** | 90.1% of total installed capacity (2009 est.) |
+| **Algeria** | 2.7% of total installed capacity (2009 est.) |
+| **American Samoa** | 0% of total installed capacity (2009 est.) |
+| **Angola** | 43.1% of total installed capacity (2009 est.) |
+| **Antigua and Barbuda** | 0% of total installed capacity (2009 est.) |
+| **Argentina** | 28.3% of total installed capacity (2009 est.) |
+| **Armenia** | 34.7% of total installed capacity (2009 est.) |
+| **Aruba** | 0% of total installed capacity (2009 est.) |
+| **Australia** | 13.7% of total installed capacity (2009 est.) |
+| **Austria** | 38.7% of total installed capacity (2009 est.) |
+| **Azerbaijan** | 17.7% of total installed capacity (2009 est.) |
+| **Bahamas, The** | 0% of total installed capacity (2009 est.) |
+| **Bahrain** | 0% of total installed capacity (2009 est.) |
+| **Bangladesh** | 4% of total installed capacity (2009 est.) |
+| **Barbados** | 0% of total installed capacity (2009 est.) |
+| **Belarus** | 0.2% of total installed capacity (2009 est.) |
+| **Belgium** | 0.6% of total installed capacity (2009 est.) |
+| **Belize** | 37.2% of total installed capacity (2009 est.) |
+| **Benin** | 1.7% of total installed capacity (2009 est.) |
+| **Bermuda** | 0% of total installed capacity (2009 est.) |
+| **Bhutan** | 98.9% of total installed capacity (2009 est.) |
+| **Bolivia** | 31.7% of total installed capacity (2009 est.) |
+| **Bosnia and Herzegovina** | 55.5% of total installed capacity (2009 est.) |
+| **Botswana** | 0% of total installed capacity (2009 est.) |
+| **Brazil** | 74.7% of total installed capacity (2010 est.) |
+| **British Virgin Islands** | 0% of total installed capacity (2009 est.) |
+| **Brunei** | 0% of total installed capacity (2009 est.) |
+| **Bulgaria** | 22.2% of total installed capacity (2009 est.) |
+| **Burkina Faso** | 12.7% of total installed capacity (2009 est.) |
+| **Burma** | 32.3% of total installed capacity (2009 est.) |
+| **Burundi** | 98.1% of total installed capacity (2009 est.) |
+| **Cambodia** | 3.3% of total installed capacity (2009 est.) |
+| **Cameroon** | 72.2% of total installed capacity (2009 est.) |
+| **Canada** | 57% of total installed capacity (2009 est.) |
+| **Cape Verde** | 0% of total installed capacity (2009 est.) |
+| **Cayman Islands** | 0% of total installed capacity (2009 est.) |
+| **Central African Republic** | 54.3% of total installed capacity (2009 est.) |
+| **Chad** | 0% of total installed capacity (2009 est.) |
+| **Chile** | 34.8% of total installed capacity (2009 est.) |
+| **China** | 21.8% of total installed capacity (2011 est.) |
+| **Colombia** | 66.6% of total installed capacity (2009 est.) |
+| **Comoros** | 16.7% of total installed capacity (2009 est.) |
+| **Congo, Democratic Republic of the** | 98.7% of total installed capacity (2009 est.) |
+| **Congo, Republic of the** | 80.4% of total installed capacity (2009 est.) |
+| **Cook Islands** | 0% of total installed capacity (2009 est.) |
+| **Costa Rica** | 61.5% of total installed capacity (2009 est.) |
+| **Cote d'Ivoire** | 49.4% of total installed capacity (2009 est.) |
+| **Croatia** | 44.7% of total installed capacity (2009 est.) |
+| **Cuba** | 1.1% of total installed capacity (2009 est.) |
+| **Cyprus** | 0% of total installed capacity (2009 est.) |
+| **Czech Republic** | 5.7% of total installed capacity (2009 est.) |
+| **Denmark** | 0.1% of total installed capacity (2009 est.) |
+| **Djibouti** | 0% of total installed capacity (2009 est.) |
+| **Dominica** | 27% of total installed capacity (2009 est.) |
+| **Dominican Republic** | 16.6% of total installed capacity (2009 est.) |
+| **Ecuador** | 41.7% of total installed capacity (2009 est.) |
+| **Egypt** | 11.4% of total installed capacity (2009 est.) |
+| **El Salvador** | 31.4% of total installed capacity (2009 est.) |
+| **Equatorial Guinea** | 3.2% of total installed capacity (2009 est.) |
+| **Eritrea** | 0% of total installed capacity (2009 est.) |
+| **Estonia** | 0.3% of total installed capacity (2009 est.) |
+| **Ethiopia** | 82.1% of total installed capacity (2009 est.) |
+| **Falkland Islands (Islas Malvinas)** | 0% of total installed capacity (2009 est.) |
+| **Faroe Islands** | 31% of total installed capacity (2009 est.) |
+| **Fiji** | 38.8% of total installed capacity (2009 est.) |
+| **Finland** | 19.1% of total installed capacity (2009 est.) |
+| **France** | 17.6% of total installed capacity (2009 est.) |
+| **French Polynesia** | 33.6% of total installed capacity (2009 est.) |
+| **Gabon** | 41% of total installed capacity (2009 est.) |
+| **Gambia, The** | 0% of total installed capacity (2009 est.) |
+| **Georgia** | 62.8% of total installed capacity (2009 est.) |
+| **Germany** | 3% of total installed capacity (2011 est.) |
+| **Ghana** | 59.4% of total installed capacity (2009 est.) |
+| **Gibraltar** | 0% of total installed capacity (2009 est.) |
+| **Greece** | 17% of total installed capacity (2009 est.) |
+| **Greenland** | 0% of total installed capacity (2009 est.) |
+| **Grenada** | 0% of total installed capacity (2009 est.) |
+| **Guam** | 0% of total installed capacity (2009 est.) |
+| **Guatemala** | 29.1% of total installed capacity (2009 est.) |
+| **Guinea** | 31.3% of total installed capacity (2009 est.) |
+| **Guinea-Bissau** | 0% of total installed capacity (2009 est.) |
+| **Guyana** | 0.3% of total installed capacity (2009 est.) |
+| **Haiti** | 25.8% of total installed capacity (2009 est.) |
+| **Honduras** | 30.8% of total installed capacity (2009 est.) |
+| **Hong Kong** | 0% of total installed capacity (2009 est.) |
+| **Hungary** | 1% of total installed capacity (2011 est.) |
+| **Iceland** | 72.9% of total installed capacity (2009 est.) |
+| **India** | 20.9% of total installed capacity (2009 est.) |
+| **Indonesia** | 14.9% of total installed capacity (2009 est.) |
+| **Iran** | 13.7% of total installed capacity (2009 est.) |
+| **Iraq** | 31% of total installed capacity (2012 est.) |
+| **Ireland** | 3.2% of total installed capacity (2009 est.) |
+| **Israel** | 0.1% of total installed capacity (2009 est.) |
+| **Italy** | 18% of total installed capacity (2011 est.) |
+| **Jamaica** | 1.8% of total installed capacity (2009 est.) |
+| **Japan** | 7.7% of total installed capacity (2009 est.) |
+| **Jordan** | 0.5% of total installed capacity (2009 est.) |
+| **Kazakhstan** | 11.8% of total installed capacity (2009 est.) |
+| **Kenya** | 43.8% of total installed capacity (2009 est.) |
+| **Kiribati** | 0% of total installed capacity (2009 est.) |
+| **Korea, North** | 52.6% of total installed capacity (2009 est.) |
+| **Korea, South** | 2% of total installed capacity (2009 est.) |
+| **Kuwait** | 0% of total installed capacity (2009 est.) |
+| **Kyrgyzstan** | 79.9% of total installed capacity (2009 est.) |
+| **Laos** | 97.3% of total installed capacity (2009 est.) |
+| **Latvia** | 71% of total installed capacity (2009 est.) |
+| **Lebanon** | 12.1% of total installed capacity (2009 est.) |
+| **Lesotho** | 100% of total installed capacity (2009 est.) |
+| **Liberia** | 0% of total installed capacity (2009 est.) |
+| **Libya** | 0% of total installed capacity (2009 est.) |
+| **Lithuania** | 2.4% of total installed capacity (2009 est.) |
+| **Luxembourg** | 2% of total installed capacity (2009 est.) |
+| **Macau** | 0% of total installed capacity (2009 est.) |
+| **Macedonia** | 34.3% of total installed capacity (2009 est.) |
+| **Madagascar** | 30.5% of total installed capacity (2009 est.) |
+| **Malawi** | 94.3% of total installed capacity (2009 est.) |
+| **Malaysia** | 8.3% of total installed capacity (2009 est.) |
+| **Maldives** | 0% of total installed capacity (2009 est.) |
+| **Mali** | 51.6% of total installed capacity (2009 est.) |
+| **Malta** | 0% of total installed capacity (2010 est.) |
+| **Mauritania** | 38.3% of total installed capacity (2009 est.) |
+| **Mauritius** | 6.7% of total installed capacity (2009 est.) |
+| **Mexico** | 19.4% of total installed capacity (2009 est.) |
+| **Moldova** | 11.6% of total installed capacity (2009 est.) |
+| **Mongolia** | 0% of total installed capacity (2009 est.) |
+| **Montenegro** | 75.8% of total installed capacity (2009 est.) |
+| **Montserrat** | 0% of total installed capacity (2009 est.) |
+| **Morocco** | 20.8% of total installed capacity (2009 est.) |
+| **Mozambique** | 89.7% of total installed capacity (2009 est.) |
+| **Namibia** | 63.4% of total installed capacity (2009 est.) |
+| **Nauru** | 0% of total installed capacity (2009 est.) |
+| **Nepal** | 92.1% of total installed capacity (2009 est.) |
+| **Netherlands** | 0.1% of total installed capacity (2009 est.) |
+| **New Caledonia** | 18.5% of total installed capacity (2009 est.) |
+| **New Zealand** | 56.7% of total installed capacity (2009 est.) |
+| **Nicaragua** | 9.5% of total installed capacity (2009 est.) |
+| **Niger** | 0% of total installed capacity (2009 est.) |
+| **Nigeria** | 32.9% of total installed capacity (2009 est.) |
+| **Niue** | 0% of total installed capacity (2009 est.) |
+| **Norway** | 91.1% of total installed capacity (2009 est.) |
+| **Oman** | 0% of total installed capacity (2009 est.) |
+| **Pakistan** | 32.5% of total installed capacity (2009 est.) |
+| **Panama** | 48.4% of total installed capacity (2009 est.) |
+| **Papua New Guinea** | 30.9% of total installed capacity (2009 est.) |
+| **Paraguay** | 99.9% of total installed capacity (2009 est.) |
+| **Peru** | 41% of total installed capacity (2009 est.) |
+| **Philippines** | 21.1% of total installed capacity (2009 est.) |
+| **Poland** | 2.8% of total installed capacity (2009 est.) |
+| **Portugal** | 23.3% of total installed capacity (2009 est.) |
+| **Puerto Rico** | 2.8% of total installed capacity (2009 est.) |
+| **Qatar** | 0% of total installed capacity (2009 est.) |
+| **Romania** | 31.1% of total installed capacity (2009 est.) |
+| **Russia** | 20.9% of total installed capacity (2009 est.) |
+| **Rwanda** | 46.2% of total installed capacity (2009 est.) |
+| **Saint Helena, Ascension, and Tristan da Cunha** | 0% of total installed capacity (2009 est.) |
+| **Saint Kitts and Nevis** | 0% of total installed capacity (2009 est.) |
+| **Saint Lucia** | 0% of total installed capacity (2009 est.) |
+| **Saint Pierre and Miquelon** | 0% of total installed capacity (2009 est.) |
+| **Saint Vincent and the Grenadines** | 18.4% of total installed capacity (2009 est.) |
+| **Samoa** | 29.2% of total installed capacity (2009 est.) |
+| **Sao Tome and Principe** | 42.9% of total installed capacity (2009 est.) |
+| **Saudi Arabia** | 0% of total installed capacity (2009 est.) |
+| **Senegal** | 0% of total installed capacity (2009 est.) |
+| **Serbia** | 26.6% of total installed capacity (2009 est.) |
+| **Seychelles** | 0% of total installed capacity (2009 est.) |
+| **Sierra Leone** | 7.7% of total installed capacity (2009 est.) |
+| **Singapore** | 0% of total installed capacity (2009 est.) |
+| **Slovakia** | 22% of total installed capacity (2009 est.) |
+| **Slovenia** | 34.5% of total installed capacity (2009 est.) |
+| **Solomon Islands** | 0% of total installed capacity (2009 est.) |
+| **Somalia** | 6.3% of total installed capacity (2009 est.) |
+| **South Africa** | 1.5% of total installed capacity (2009 est.) |
+| **Spain** | 13.7% of total installed capacity (2009 est.) |
+| **Sri Lanka** | 52.5% of total installed capacity (2010 est.) |
+| **Sudan** | 66.3% of total installed capacity (2009 est.) |
+| **Suriname** | 48.6% of total installed capacity (2009 est.) |
+| **Swaziland** | 32.3% of total installed capacity (2009 est.) |
+| **Sweden** | 46.9% of total installed capacity (2009 est.) |
+| **Switzerland** | 69.2% of total installed capacity (2009 est.) |
+| **Syria** | 15.2% of total installed capacity (2009 est.) |
+| **Taiwan** | 4.7% of total installed capacity (2009 est.) |
+| **Tajikistan** | 91.2% of total installed capacity (2009 est.) |
+| **Tanzania** | 60.5% of total installed capacity (2009 est.) |
+| **Thailand** | 7.4% of total installed capacity (2009 est.) |
+| **Togo** | 78.8% of total installed capacity (2009 est.) |
+| **Tonga** | 0% of total installed capacity (2009 est.) |
+| **Trinidad and Tobago** | 0% of total installed capacity (2009 est.) |
+| **Tunisia** | 1.7% of total installed capacity (2009 est.) |
+| **Turkey** | 32.5% of total installed capacity (2009 est.) |
+| **Turkmenistan** | 0% of total installed capacity (2009 est.) |
+| **Turks and Caicos Islands** | 0% of total installed capacity (2009 est.) |
+| **Uganda** | 59.5% of total installed capacity (2009 est.) |
+| **Ukraine** | 10% of total installed capacity (2009 est.) |
+| **United Arab Emirates** | 0% of total installed capacity (2009 est.) |
+| **United Kingdom** | 1.9% of total installed capacity (2009 est.) |
+| **United States** | 7.7% of total installed capacity (2010 est.) |
+| **Uruguay** | 61.1% of total installed capacity (2009 est.) |
+| **Uzbekistan** | 14.8% of total installed capacity (2009 est.) |
+| **Vanuatu** | 0% of total installed capacity (2009 est.) |
+| **Venezuela** | 58.9% of total installed capacity (2009 est.) |
+| **Vietnam** | 36.2% of total installed capacity (2009 est.) |
+| **Virgin Islands** | 0% of total installed capacity (2009 est.) |
+| **West Bank** | 0% of total installed capacity (2009 est.) |
+| **Western Sahara** | 0% of total installed capacity (2009 est.) |
+| **World** | 18.5% of total installed capacity (2009 est.) |
+| **Yemen** | 0% of total installed capacity (2009 est.) |
+| **Zambia** | 99.6% of total installed capacity (2009 est.) |
+| **Zimbabwe** | 33.9% of total installed capacity (2009 est.) |

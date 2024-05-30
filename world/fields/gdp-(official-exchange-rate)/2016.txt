@@ -1,0 +1,241 @@
+FIELD LISTING :: GDP (OFFICIAL EXCHANGE RATE)
+
+| Country | GDP (OFFICIAL EXCHANGE RATE) |
+| --- | --- |
+| **Afghanistan** | $20.84 billion (2014 est.) |
+| **Albania** | $11.54 billion (2015 est.) |
+| **Algeria** | $172.3 billion (2015 est.) |
+| **American Samoa** | $748.6 million (2005) |
+| **Andorra** | $4.8 billion (2012 est.) |
+| **Angola** | $103 billion (2015 est.) |
+| **Anguilla** | $175.4 million (2009 est.) |
+| **Antigua and Barbuda** | $1.287 billion (2015 est.) |
+| **Argentina** | $585.6 billion (2015 est.) |
+| **Armenia** | $10.57 billion (2015 est.) |
+| **Aruba** | $2.516 billion (2009 est.) |
+| **Australia** | $1.224 trillion (2015 est.) |
+| **Austria** | $374.1 billion (2015 est.) |
+| **Azerbaijan** | $54.05 billion (2015 est.) |
+| **Bahamas, The** | $8.705 billion (2015 est.) |
+| **Bahrain** | $30.41 billion (2015 est.) |
+| **Bangladesh** | $202.3 billion (2015 est.) |
+| **Barbados** | $4.412 billion (2015 est.) |
+| **Belarus** | $54.61 billion (2015 est.) |
+| **Belgium** | $454.7 billion (2015 est.) |
+| **Belize** | $1.763 billion (2015 est.) |
+| **Benin** | $8.471 billion (2015 est.) |
+| **Bermuda** | $5.198 billion (2013 est.) |
+| **Bhutan** | $2.214 billion (2015 est.) |
+| **Bolivia** | $33.21 billion (2015 est.) |
+| **Bosnia and Herzegovina** | $15.79 billion (2015 est.) |
+| **Botswana** | $12.86 billion (2015 est.) |
+| **Brazil** | $1.773 trillion (2015 est.) |
+| **British Virgin Islands** | $1.095 billion (2008) |
+| **Brunei** | $11.79 billion (2015 est.) |
+| **Bulgaria** | $47.17 billion (2015 est.) |
+| **Burkina Faso** | $11.01 billion (2015 est.) |
+| **Burma** | $66.98 billion (2015 est.) |
+| **Burundi** | $2.881 billion (2015 est.) |
+| **Cabo Verde** | $1.595 billion (2015 est.) |
+| **Cambodia** | $18.16 billion (2015 est.) |
+| **Cameroon** | $28.48 billion (2015 est.) |
+| **Canada** | $1.552 trillion (2015 est.) |
+| **Cayman Islands** | $2.25 billion (2008 est.) |
+| **Central African Republic** | $1.605 billion (2015 est.) |
+| **Chad** | $10.89 billion (2015 est.) |
+| **Chile** | $240.2 billion (2015 est.) |
+| **China** | $10.98 trillion (2015 est.) |
+| | *note:* because China's exchange rate is determined by fiat rather than by market forces, the official exchange rate measure of GDP is not an accurate measure of China's output; GDP at the official exchange rate substantially understates the actual level of China's output vis-a-vis the rest of the world; in China's situation, GDP at purchasing power parity provides the best measure for comparing output across countries |
+| **Colombia** | $293.2 billion (2015 est.) |
+| **Comoros** | $589 million (2015 est.) |
+| **Congo, Democratic Republic of the** | $38.87 billion (2015 est.) |
+| **Congo, Republic of the** | $8.878 billion (2015 est.) |
+| **Cook Islands** | $244.1 million (2010 est.) |
+| **Costa Rica** | $52.9 billion (2015 est.) |
+| **Cote d'Ivoire** | $31.17 billion (2015 est.) |
+| **Croatia** | $48.85 billion (2015 est.) |
+| **Cuba** | $77.15 billion (2013 est.) |
+| | *note:* data are in Cuban Pesos at CUP 1 = US$ Official Exchange Rate |
+| **Curacao** | $5.6 billion (2012 est.) |
+| **Cyprus** | $19.33 billion (2015 est.) |
+| **Czechia** | $181.9 billion (2015 est.) |
+| **Denmark** | $295 billion (2015 est.) |
+| **Djibouti** | $1.727 billion (2015 est.) |
+| **Dominica** | $497 million (2015 est.) |
+| **Dominican Republic** | $67.49 billion (2015 est.) |
+| **Ecuador** | $98.83 billion (2015 est.) |
+| **Egypt** | $330.8 billion (2015 est.) |
+| **El Salvador** | $25.77 billion (2015 est.) |
+| **Equatorial Guinea** | $9.403 billion (2015 est.) |
+| **Eritrea** | $4.666 billion (2015 est.) |
+| **Estonia** | $22.7 billion (2015 est.) |
+| **Ethiopia** | $61.63 billion (2015 est.) |
+| **European Union** | $16.27 trillion (2015 est.) |
+| **Falkland Islands (Islas Malvinas)** | $164.5 million (2007 est.) |
+| **Faroe Islands** | $2.32 billion (2010 est.) |
+| **Fiji** | $4.782 billion (2015 est.) |
+| **Finland** | $229.7 billion (2015 est.) |
+| **France** | $2.422 trillion (2015 est.) |
+| **French Polynesia** | $7.15 billion (2012 est.) |
+| **Gabon** | $14.35 billion (2015 est.) |
+| **Gambia, The** | $893 million (2015 est.) |
+| **Gaza Strip** | $2.938 billion (2014 est.) |
+| | *note:* excludes the West Bank |
+| **Georgia** | $14.01 billion (2015 est.) |
+| **Germany** | $3.358 trillion (2015 est.) |
+| **Ghana** | $36.04 billion (2015 est.) |
+| **Gibraltar** | $1.85 billion (2013 est.) |
+| **Greece** | $195.3 billion (2015 est.) |
+| **Greenland** | $2.16 billion (2011 est.) |
+| **Grenada** | $954 million (2015 est.) |
+| **Guam** | $4.6 billion (2010 est.) |
+| **Guatemala** | $63.91 billion (2015 est.) |
+| **Guernsey** | $2.742 billion (2005 est.) |
+| **Guinea-Bissau** | $1.057 billion (2015 est.) |
+| **Guinea** | $6.696 billion (2015 est.) |
+| **Guyana** | $3.164 billion (2015 est.) |
+| **Haiti** | $8.618 billion (2015 est.) |
+| **Honduras** | $20.3 billion (2015 est.) |
+| **Hong Kong** | $309.9 billion (2015 est.) |
+| **Hungary** | $120.6 billion (2015 est.) |
+| **Iceland** | $16.72 billion (2015 est.) |
+| **India** | $2.091 trillion (2015 est.) |
+| **Indonesia** | $859 billion (2015 est.) |
+| **Iran** | $387.6 billion (2015 est.) |
+| **Iraq** | $169.5 billion (2015 est.) |
+| **Ireland** | $238 billion (2015 est.) |
+| **Isle of Man** | $4.076 billion (2007 est.) |
+| **Israel** | $296.1 billion (2015 est.) |
+| **Italy** | $1.816 trillion (2015 est.) |
+| **Jamaica** | $13.92 billion (2015 est.) |
+| **Japan** | $4.123 trillion (2015 est.) |
+| **Jersey** | $5.771 billion (FY 2012/13 est.) |
+| **Jordan** | $37.62 billion (2015 est.) |
+| **Kazakhstan** | $173.2 billion (2015 est.) |
+| **Kenya** | $61.41 billion (2015 est.) |
+| **Kiribati** | $162 million (2015 est.) |
+| **Korea, North** | $28 billion (2013 est.) |
+| **Korea, South** | $1.377 trillion (2015 est.) |
+| **Kosovo** | $6.355 billion (2015 est.) |
+| **Kuwait** | $120.7 billion (2015 est.) |
+| **Kyrgyzstan** | $6.65 billion (2015 est.) |
+| **Laos** | $12.5 billion (2015 est.) |
+| **Latvia** | $27.05 billion (2015 est.) |
+| **Lebanon** | $51.17 billion (2015 est.) |
+| **Lesotho** | $2.032 billion (2015 est.) |
+| **Liberia** | $2.035 billion (2015 est.) |
+| **Libya** | $38.3 billion (2015 est.) |
+| **Liechtenstein** | $5.113 billion (2010 est.) |
+| **Lithuania** | $41.27 billion (2015 est.) |
+| **Luxembourg** | $57.42 billion (2015 est.) |
+| **Macau** | $46.18 billion (2015 est.) |
+| **Macedonia** | $9.922 billion (2015 est.) |
+| **Madagascar** | $9.737 billion (2015 est.) |
+| **Malawi** | $6.416 billion (2015 est.) |
+| **Malaysia** | $296.2 billion (2015 est.) |
+| **Maldives** | $3.13 billion (2015 est.) |
+| **Mali** | $13.07 billion (2015 est.) |
+| **Malta** | $9.801 billion (2015 est.) |
+| **Marshall Islands** | $183 million (2015 est.) |
+| **Mauritania** | $4.752 billion (2015 est.) |
+| **Mauritius** | $11.61 billion (2015 est.) |
+| **Mexico** | $1.144 trillion (2015 est.) |
+| **Micronesia, Federated States of** | $318 million (2015 est.) |
+| **Moldova** | $6.414 billion (2015 est.) |
+| **Monaco** | $6.063 billion (2013 est.) |
+| **Mongolia** | $11.74 billion (2015 est.) |
+| **Montenegro** | $4.039 billion (2015 est.) |
+| **Montserrat** | $NA |
+| **Morocco** | $103.1 billion (2015 est.) |
+| **Mozambique** | $14.97 billion (2015 est.) |
+| **Namibia** | $12.83 billion (2015 est.) |
+| **Nauru** | $150.8 million (2015 est.) |
+| **Nepal** | $21.36 billion (2015 est.) |
+| **Netherlands** | $738.4 billion (2015 est.) |
+| **New Caledonia** | $11.1 billion (2014 est.) |
+| **New Zealand** | $172.2 billion (2015 est.) |
+| **Nicaragua** | $12.22 billion (2015 est.) |
+| **Nigeria** | $490.2 billion (2015 est.) |
+| **Niger** | $7.151 billion (2015 est.) |
+| **Niue** | $10.01 million (2003) |
+| **Northern Mariana Islands** | $1.232 billion (2013 est.) |
+| **Norway** | $389.5 billion (2015 est.) |
+| **Oman** | $58.49 billion (2015 est.) |
+| **Pakistan** | $270 billion (2015 est.) |
+| **Palau** | $287 million (2015 est.) |
+| **Panama** | $52.13 billion (2015 est.) |
+| **Papua New Guinea** | $16.09 billion (2015 est.) |
+| **Paraguay** | $28.08 billion (2015 est.) |
+| **Peru** | $192.1 billion (2015 est.) |
+| **Philippines** | $292 billion (2015 est.) |
+| **Poland** | $474.9 billion (2015 est.) |
+| **Portugal** | $199.1 billion (2015 est.) |
+| **Puerto Rico** | $101.6 billion (2015 est.) |
+| **Qatar** | $185.4 billion (2015 est.) |
+| **Romania** | $177.3 billion (2015 est.) |
+| **Russia** | $1.325 trillion (2015 est.) |
+| **Rwanda** | $8.267 billion (2015 est.) |
+| **Saint Helena, Ascension, and Tristan da Cunha** | $NA |
+| **Saint Kitts and Nevis** | $896 million (2015 est.) |
+| **Saint Lucia** | $1.416 billion (2015 est.) |
+| **Saint Martin** | $561.5 million (2005 est.) |
+| **Saint Pierre and Miquelon** | $215.3 million (2006 est.) |
+| **Saint Vincent and the Grenadines** | $757 million (2015 est.) |
+| **Samoa** | $838 million (2015 est.) |
+| **San Marino** | $1.566 billion (2015 est.) |
+| **Sao Tome and Principe** | $318 million (2015 est.) |
+| **Saudi Arabia** | $653.2 billion (2015 est.) |
+| **Senegal** | $13.67 billion (2015 est.) |
+| **Serbia** | $36.51 billion (2015 est.) |
+| **Seychelles** | $1.375 billion (2015 est.) |
+| **Sierra Leone** | $4.167 billion (2015 est.) |
+| **Singapore** | $292.7 billion (2015 est.) |
+| **Sint Maarten** | $304.1 billion (2014 est.) |
+| **Slovakia** | $86.63 billion (2015 est.) |
+| **Slovenia** | $42.77 billion (2015 est.) |
+| **Solomon Islands** | $1.147 billion (2015 est.) |
+| **Somalia** | $5.8 billion (2014 est.) |
+| **South Africa** | $313 billion (2015 est.) |
+| **South Sudan** | $2.627 billion (2015 est.) |
+| **Spain** | $1.2 trillion (2015 est.) |
+| **Sri Lanka** | $82.1 billion (2015 est.) |
+| **Sudan** | $83.61 billion (2015 est.) |
+| **Suriname** | $5.192 billion (2015 est.) |
+| **Swaziland** | $4.028 billion (2015 est.) |
+| **Sweden** | $492.6 billion (2015 est.) |
+| **Switzerland** | $664.6 billion (2015 est.) |
+| **Syria** | $24.6 billion (2014 est.) |
+| **Taiwan** | $523.6 billion (2015 est.) |
+| **Tajikistan** | $7.816 billion (2015 est.) |
+| **Tanzania** | $44.9 billion (2015 est.) |
+| **Thailand** | $395.3 billion (2015 est.) |
+| **Timor-Leste** | $2.62 billion (2015 est.) |
+| | *note:* non-oil GDP |
+| **Togo** | $4.165 billion (2015 est.) |
+| **Tokelau** | $NA |
+| **Tonga** | $414 million (2015 est.) |
+| **Trinidad and Tobago** | $25.43 billion (2015 est.) |
+| **Tunisia** | $43.58 billion (2015 est.) |
+| **Turkey** | $733.6 billion (2015 est.) |
+| **Turkmenistan** | $35.68 billion (2015 est.) |
+| **Turks and Caicos Islands** | $NA |
+| **Tuvalu** | $33 million (2015 est.) |
+| **Uganda** | $24.74 billion (2015 est.) |
+| **Ukraine** | $90.52 billion (2015 est.) |
+| **United Arab Emirates** | $345.5 billion (2015 est.) |
+| **United Kingdom** | $2.849 trillion (2015 est.) |
+| **United States** | $17.95 trillion (2015 est.) |
+| **Uruguay** | $53.79 billion (2015 est.) |
+| **Uzbekistan** | $65.68 billion (2015 est.) |
+| **Vanuatu** | $765 million (2015 est.) |
+| **Venezuela** | $239.6 billion (2015 est.) |
+| **Vietnam** | $191.5 billion (2015 est.) |
+| **Virgin Islands** | $5.075 billion (2013) |
+| **Wallis and Futuna** | $NA |
+| **West Bank** | $9.828 billion (2014 est.) |
+| | *note:* excludes Gaza Strip |
+| **Western Sahara** | $NA |
+| **World** | *SGWP (gross world product):* $73.7 trillion (2015 est.) |
+| **Yemen** | $36.85 billion (2015 est.) |
+| **Zambia** | $21.89 billion (2015 est.) |
+| **Zimbabwe** | $14.27 billion (2015 est.) |

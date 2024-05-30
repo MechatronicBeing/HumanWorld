@@ -1,0 +1,178 @@
+CIA - The World Factbook -- Field Listing :: Maternal mortality rate   
+
+The maternal mortality rate (MMR) is the annual number of female deaths per 100,000 live births from any cause related to or aggravated by pregnancy or its management (excluding accidental or incidental causes). The MMR includes deaths during pregnancy, childbirth, or within 42 days of termination of pregnancy, irrespective of the duration and site of the pregnancy, for a specified year.
+
+| Country | Maternal mortality rate(deaths/100,000 live births) |
+| --- | --- |
+| **Afghanistan** | 1,400 deaths/100,000 live births (2008) |
+| **Albania** | 31 deaths/100,000 live births (2008) |
+| **Algeria** | 120 deaths/100,000 live births (2008) |
+| **Angola** | 610 deaths/100,000 live births (2008) |
+| **Argentina** | 70 deaths/100,000 live births (2008) |
+| **Armenia** | 29 deaths/100,000 live births (2008) |
+| **Australia** | 8 deaths/100,000 live births (2008) |
+| **Austria** | 5 deaths/100,000 live births (2008) |
+| **Azerbaijan** | 38 deaths/100,000 live births (2008) |
+| **Bahamas, The** | 49 deaths/100,000 live births (2008) |
+| **Bahrain** | 19 deaths/100,000 live births (2008) |
+| **Bangladesh** | 340 deaths/100,000 live births (2008) |
+| **Barbados** | 64 deaths/100,000 live births (2008) |
+| **Belarus** | 15 deaths/100,000 live births (2008) |
+| **Belgium** | 5 deaths/100,000 live births (2008) |
+| **Belize** | 94 deaths/100,000 live births (2008) |
+| **Benin** | 410 deaths/100,000 live births (2008) |
+| **Bhutan** | 200 deaths/100,000 live births (2008) |
+| **Bolivia** | 180 deaths/100,000 live births (2008) |
+| **Bosnia and Herzegovina** | 9 deaths/100,000 live births (2008) |
+| **Botswana** | 190 deaths/100,000 live births (2008) |
+| **Brazil** | 58 deaths/100,000 live births (2008) |
+| **Brunei** | 21 deaths/100,000 live births (2008) |
+| **Bulgaria** | 13 deaths/100,000 live births (2008) |
+| **Burkina Faso** | 560 deaths/100,000 live births (2008) |
+| **Burma** | 240 deaths/100,000 live births (2008) |
+| **Burundi** | 970 deaths/100,000 live births (2008) |
+| **Cambodia** | 290 deaths/100,000 live births (2008) |
+| **Cameroon** | 600 deaths/100,000 live births (2008) |
+| **Canada** | 12 deaths/100,000 live births (2008) |
+| **Cape Verde** | 94 deaths/100,000 live births (2008) |
+| **Central African Republic** | 850 deaths/100,000 live births (2008) |
+| **Chad** | 1,200 deaths/100,000 live births (2008) |
+| **Chile** | 26 deaths/100,000 live births (2008) |
+| **China** | 38 deaths/100,000 live births (2008) |
+| **Colombia** | 85 deaths/100,000 live births (2008) |
+| **Comoros** | 340 deaths/100,000 live births (2008) |
+| **Congo, Democratic Republic of the** | 670 deaths/100,000 live births (2008) |
+| **Congo, Republic of the** | 580 deaths/100,000 live births (2008) |
+| **Costa Rica** | 44 deaths/100,000 live births (2008) |
+| **Cote d'Ivoire** | 470 deaths/100,000 live births (2008) |
+| **Croatia** | 14 deaths/100,000 live births (2008) |
+| **Cuba** | 53 deaths/100,000 live births (2008) |
+| **Cyprus** | 10 deaths/100,000 live births (2008) |
+| **Czech Republic** | 8 deaths/100,000 live births (2008) |
+| **Denmark** | 5 deaths/100,000 live births (2008) |
+| **Djibouti** | 300 deaths/100,000 live births (2008) |
+| **Dominican Republic** | 100 deaths/100,000 live births (2008) |
+| **Ecuador** | 140 deaths/100,000 live births (2008) |
+| **Egypt** | 82 deaths/100,000 live births (2008) |
+| **El Salvador** | 110 deaths/100,000 live births (2008) |
+| **Equatorial Guinea** | 280 deaths/100,000 live births (2008) |
+| **Eritrea** | 280 deaths/100,000 live births (2008) |
+| **Estonia** | 12 deaths/100,000 live births (2008) |
+| **Ethiopia** | 470 deaths/100,000 live births (2008) |
+| **Fiji** | 26 deaths/100,000 live births (2008) |
+| **Finland** | 8 deaths/100,000 live births (2008) |
+| **France** | 8 deaths/100,000 live births (2008) |
+| **Gabon** | 260 deaths/100,000 live births (2008) |
+| **Gambia, The** | 400 deaths/100,000 live births (2008) |
+| **Georgia** | 48 deaths/100,000 live births (2008) |
+| **Germany** | 7 deaths/100,000 live births (2008) |
+| **Ghana** | 350 deaths/100,000 live births (2008) |
+| **Greece** | 2 deaths/100,000 live births (2008) |
+| **Guatemala** | 110 deaths/100,000 live births (2008) |
+| **Guinea** | 680 deaths/100,000 live births (2008) |
+| **Guinea-Bissau** | 1,000 deaths/100,000 live births (2008) |
+| **Guyana** | 270 deaths/100,000 live births (2008) |
+| **Haiti** | 300 deaths/100,000 live births (2008) |
+| **Honduras** | 110 deaths/100,000 live births (2008) |
+| **Hungary** | 13 deaths/100,000 live births (2008) |
+| **Iceland** | 5 deaths/100,000 live births (2008) |
+| **India** | 230 deaths/100,000 live births (2008) |
+| **Indonesia** | 240 deaths/100,000 live births (2008) |
+| **Iran** | 30 deaths/100,000 live births (2008) |
+| **Iraq** | 75 deaths/100,000 live births (2008) |
+| **Ireland** | 3 deaths/100,000 live births (2008) |
+| **Israel** | 7 deaths/100,000 live births (2008) |
+| **Italy** | 5 deaths/100,000 live births (2008) |
+| **Jamaica** | 89 deaths/100,000 live births (2008) |
+| **Japan** | 6 deaths/100,000 live births (2008) |
+| **Jordan** | 59 deaths/100,000 live births (2008) |
+| **Kazakhstan** | 45 deaths/100,000 live births (2008) |
+| **Kenya** | 530 deaths/100,000 live births (2008) |
+| **Kiribati** | 9 deaths/100,000 live births (2008) |
+| **Korea, North** | 250 deaths/100,000 live births (2008) |
+| **Korea, South** | 18 deaths/100,000 live births (2008) |
+| **Kyrgyzstan** | 81 deaths/100,000 live births (2008) |
+| **Laos** | 580 deaths/100,000 live births (2008) |
+| **Latvia** | 20 deaths/100,000 live births (2008) |
+| **Lebanon** | 26 deaths/100,000 live births (2008) |
+| **Lesotho** | 530 deaths/100,000 live births (2008) |
+| **Liberia** | 990 deaths/100,000 live births (2008) |
+| **Libya** | 64 deaths/100,000 live births (2008) |
+| **Lithuania** | 13 deaths/100,000 live births (2008) |
+| **Luxembourg** | 17 deaths/100,000 live births (2008) |
+| **Macedonia** | 9 deaths/100,000 live births (2008) |
+| **Madagascar** | 440 deaths/100,000 live births (2008) |
+| **Malawi** | 510 deaths/100,000 live births (2008) |
+| **Malaysia** | 31 deaths/100,000 live births (2008) |
+| **Maldives** | 37 deaths/100,000 live births (2008) |
+| **Mali** | 830 deaths/100,000 live births (2008) |
+| **Malta** | 8 deaths/100,000 live births (2008) |
+| **Mauritania** | 550 deaths/100,000 live births (2008) |
+| **Mauritius** | 36 deaths/100,000 live births (2008) |
+| **Mexico** | 85 deaths/100,000 live births (2008) |
+| **Moldova** | 32 deaths/100,000 live births (2008) |
+| **Mongolia** | 65 deaths/100,000 live births (2008) |
+| **Montenegro** | 15 deaths/100,000 live births (2008) |
+| **Morocco** | 110 deaths/100,000 live births (2008) |
+| **Mozambique** | 550 deaths/100,000 live births (2008) |
+| **Namibia** | 180 deaths/100,000 live births (2008) |
+| **Nepal** | 380 deaths/100,000 live births (2008) |
+| **Netherlands** | 9 deaths/100,000 live births (2008) |
+| **New Zealand** | 14 deaths/100,000 live births (2008) |
+| **Nicaragua** | 100 deaths/100,000 live births (2008) |
+| **Niger** | 820 deaths/100,000 live births (2008) |
+| **Nigeria** | 840 deaths/100,000 live births (2008) |
+| **Norway** | 7 deaths/100,000 live births (2008) |
+| **Oman** | 20 deaths/100,000 live births (2008) |
+| **Pakistan** | 260 deaths/100,000 live births (2008) |
+| **Panama** | 71 deaths/100,000 live births (2008) |
+| **Papua New Guinea** | 250 deaths/100,000 live births (2008) |
+| **Paraguay** | 95 deaths/100,000 live births (2008) |
+| **Peru** | 98 deaths/100,000 live births (2008) |
+| **Philippines** | 94 deaths/100,000 live births (2008) |
+| **Poland** | 6 deaths/100,000 live births (2008) |
+| **Portugal** | 7 deaths/100,000 live births (2008) |
+| **Puerto Rico** | 18 deaths/100,000 live births (2008) |
+| **Qatar** | 8 deaths/100,000 live births (2008) |
+| **Romania** | 27 deaths/100,000 live births (2008) |
+| **Russia** | 39 deaths/100,000 live births (2008) |
+| **Rwanda** | 540 deaths/100,000 live births (2008) |
+| **Saudi Arabia** | 24 deaths/100,000 live births (2008) |
+| **Senegal** | 410 deaths/100,000 live births (2008) |
+| **Serbia** | 8 deaths/100,000 live births (2008) |
+| **Sierra Leone** | 970 deaths/100,000 live births (2008) |
+| **Singapore** | 9 deaths/100,000 live births (2008) |
+| **Slovakia** | 6 deaths/100,000 live births (2008) |
+| **Slovenia** | 18 deaths/100,000 live births (2008) |
+| **Solomon Islands** | 100 deaths/100,000 live births (2008) |
+| **Somalia** | 1,200 deaths/100,000 live births (2008) |
+| **South Africa** | 410 deaths/100,000 live births (2008) |
+| **Spain** | 6 deaths/100,000 live births (2008) |
+| **Sri Lanka** | 39 deaths/100,000 live births (2008) |
+| **Sudan** | 750 deaths/100,000 live births (2008) |
+| **Suriname** | 100 deaths/100,000 live births (2008) |
+| **Swaziland** | 420 deaths/100,000 live births (2008) |
+| **Sweden** | 5 deaths/100,000 live births (2008) |
+| **Switzerland** | 10 deaths/100,000 live births (2008) |
+| **Syria** | 46 deaths/100,000 live births (2008) |
+| **Tajikistan** | 64 deaths/100,000 live births (2008) |
+| **Tanzania** | 790 deaths/100,000 live births (2008) |
+| **Thailand** | 48 deaths/100,000 live births (2008) |
+| **Timor-Leste** | 370 deaths/100,000 live births (2008) |
+| **Togo** | 350 deaths/100,000 live births (2008) |
+| **Trinidad and Tobago** | 55 deaths/100,000 live births (2008) |
+| **Tunisia** | 60 deaths/100,000 live births (2008) |
+| **Turkey** | 23 deaths/100,000 live births (2008) |
+| **Turkmenistan** | 77 deaths/100,000 live births (2008) |
+| **Uganda** | 430 deaths/100,000 live births (2008) |
+| **Ukraine** | 26 deaths/100,000 live births (2008) |
+| **United Arab Emirates** | 10 deaths/100,000 live births (2008) |
+| **United Kingdom** | 12 deaths/100,000 live births (2008) |
+| **United States** | 24 deaths/100,000 live births (2008) |
+| **Uruguay** | 27 deaths/100,000 live births (2008) |
+| **Uzbekistan** | 30 deaths/100,000 live births (2008) |
+| **Venezuela** | 68 deaths/100,000 live births (2008) |
+| **Vietnam** | 56 deaths/100,000 live births (2008) |
+| **Yemen** | 210 deaths/100,000 live births (2008) |
+| **Zambia** | 470 deaths/100,000 live births (2008) |
+| **Zimbabwe** | 790 deaths/100,000 live births (2008) |

@@ -1,0 +1,18 @@
+CIA - The World Factbook -- Field Listing :: Drinking water source   
+
+This entry provides information about access to improved or unimproved drinking water sources available to segments of the population of a country. improved drinking water - use of any of the following sources: piped water into dwelling, yard, or plot; public tap or standpipe; tubewell or borehole; protected dug well; protected spring; or rainwater collection. unimproved drinking water - use of any of the following sources: unprotected dug well; unprotected spring; cart with small tank or drum; tanker truck; surface water, which includes rivers, dams, lakes, ponds, streams, canals or irrigation channels; or bottled water.
+
+| Country | Drinking water source(% of population) |
+| --- | --- |
+| **Afghanistan** | *Improved:* |
+| | *urban:* 78% of population |
+| | *rural:* 39% of population |
+| | *total:* 48% of population |
+| | *Unimproved:* |
+| | *urban:* 22% of population |
+| | *rural:* 61% of population |
+| | *total:* 52% of population (2008) |
+| **South Sudan** | *improved:* |
+| | *urban:* 67% of population |
+| | *rural:* 53% of population |
+| | *total:* 55% of population |

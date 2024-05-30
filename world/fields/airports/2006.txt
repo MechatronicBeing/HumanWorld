@@ -1,0 +1,266 @@
+CIA - The World Factbook -- Field Listing - Airports
+
+| Country | Airports |
+| --- | --- |
+| **Afghanistan** | 46 (2006) |
+| **Albania** | 11 (2006) |
+| **Algeria** | 142 (2006) |
+| **American Samoa** | 3 (2006) |
+| **Angola** | 244 (2006) |
+| **Anguilla** | 3 (2006) |
+| **Antarctica** | 20 |
+| | *note:* there are no developed public access airports or landing facilities; 28 stations or remote field locations, operated by 11 National Antarctic Programs from nations party to the Antarctic Treaty, have restricted aircraft landing facilities comprising a total of 11 runways and 22 skiways for fixed-wing aircraft; some stations have both runways and skiways; commercial enterprises operate two aircraft landing facilities at one station; helicopter pads are available at all 37 year-round and 15 seasonal stations operated by National Antarctic Programs; the 11 runways are suitable for wheeled, fixed-wing aircraft: three are gravel, four blue-ice, two sea-ice and two compacted snow; of these, five are 3 km in length, two are between 2 km and 3 km in length, three are between 1 km and 2 km in length and one is less than 1 km in length; the 22 snow surface skiways are limited to use by ski-equipped, fixed-wing aircraft; of these, three are equal to or greater than 3 km in length, one is between 2 km and 3 km in length, nine are between 1 km and 2 km in length, five are less than 1 km in length, and four are of unknown or variable length; snow surface skiways are generally prepared and maintained during specific periods only and during summer; all aircraft landing facilities subject to severe restrictions and limitations resulting from extreme seasonal and geographic conditions; aircraft landing facilities do not meet ICAO standards; advance approval from the respective governmental or nongovernmental operating organization required for using their facilities; landed aircraft are subject to inspection in accordance with Article 7, Antarctic Treaty; guidelines for the operation of aircraft near concentrations of birds in Antarctica were adopted in 2004; relevant legal instruments and authorization procedures adopted by states party to the Antarctic Treaty regulating access to the Antarctic Treaty area, that is to all areas between 60 and 90 degrees of latitude South, have to be complied with (see information under "Legal System"); an Antarctic Flight Information Manual (AFIM) providing up-to-date details of Antarctic air facilities and procedures is maintained and published by the Council of Managers of National Antarctic Programs (2006) |
+| **Antigua and Barbuda** | 3 (2006) |
+| **Argentina** | 1,381 (2006) |
+| **Armenia** | 13 (2006) |
+| **Aruba** | 1 (2006) |
+| **Australia** | 455 (2006) |
+| **Austria** | 55 (2006) |
+| **Azerbaijan** | 36 (2006) |
+| **Bahamas, The** | 64 (2006) |
+| **Bahrain** | 3 (2006) |
+| **Baker Island** | one abandoned World War II runway of 1,665 m covered with vegetation and unusable (2006) |
+| **Bangladesh** | 16 (2006) |
+| **Barbados** | 1 (2006) |
+| **Belarus** | 86 (2006) |
+| **Belgium** | 43 (2006) |
+| **Belize** | 43 (2006) |
+| **Benin** | 5 (2006) |
+| **Bermuda** | 1 (2006) |
+| **Bhutan** | 2 (2006) |
+| **Bolivia** | 1,084 (2006) |
+| **Bosnia and Herzegovina** | 28 (2006) |
+| **Botswana** | 85 (2006) |
+| **Brazil** | 4,276 (2006) |
+| **British Indian Ocean Territory** | 1 (2006) |
+| **British Virgin Islands** | 3 (2006) |
+| **Brunei** | 2 (2006) |
+| **Bulgaria** | 217 (2006) |
+| **Burkina Faso** | 34 (2006) |
+| **Burma** | 85 (2006) |
+| **Burundi** | 8 (2006) |
+| **Cambodia** | 20 (2006) |
+| **Cameroon** | 47 (2006) |
+| **Canada** | 1,337 (2006) |
+| **Cape Verde** | 7 (2006) |
+| **Cayman Islands** | 3 (2006) |
+| **Central African Republic** | 50 (2006) |
+| **Chad** | 52 (2006) |
+| **Chile** | 363 (2006) |
+| **China** | 486 (2006) |
+| **Christmas Island** | 1 (2006) |
+| **Cocos (Keeling) Islands** | 1 (2006) |
+| **Colombia** | 984 (2006) |
+| **Comoros** | 4 (2006) |
+| **Congo, Democratic Republic of the** | 234 (2006) |
+| **Congo, Republic of the** | 32 (2006) |
+| **Cook Islands** | 9 (2006) |
+| **Costa Rica** | 157 (2006) |
+| **Cote d'Ivoire** | 35 (2006) |
+| **Croatia** | 68 (2006) |
+| **Cuba** | 170 (2006) |
+| **Cyprus** | 16 (2006) |
+| **Czech Republic** | 121 (2006) |
+| **Denmark** | 92 (2006) |
+| **Djibouti** | 13 (2006) |
+| **Dominica** | 2 (2006) |
+| **Dominican Republic** | 33 (2006) |
+| **East Timor** | 8 (2006) |
+| **Ecuador** | 359 (2006) |
+| **Egypt** | 88 (2006) |
+| **El Salvador** | 75 (2006) |
+| **Equatorial Guinea** | 4 (2006) |
+| **Eritrea** | 17 (2006) |
+| **Estonia** | 24 (2006) |
+| **Ethiopia** | 84 (2006) |
+| **Europa Island** | 1 (2006) |
+| **European Union** | 3,115 (2006) |
+| **Falkland Islands (Islas Malvinas)** | 5 (2006) |
+| **Faroe Islands** | 1 (2006) |
+| **Fiji** | 28 (2006) |
+| **Finland** | 148 (2006) |
+| **France** | 477 (2006) |
+| **French Guiana** | 11 (2006) |
+| **French Polynesia** | 51 (2006) |
+| **Gabon** | 56 (2006) |
+| **Gambia, The** | 1 (2006) |
+| **Gaza Strip** | 2 |
+| | *note:* includes Gaza International Airport closed since its runway was destroyed by the Israeli Defense Forces in December 2001 (2006) |
+| **Georgia** | 23 (2006) |
+| **Germany** | 554 (2006) |
+| **Ghana** | 12 (2006) |
+| **Gibraltar** | 1 (2006) |
+| **Glorioso Islands** | 1 (2006) |
+| **Greece** | 82 (2006) |
+| **Greenland** | 14 (2006) |
+| **Grenada** | 3 (2006) |
+| **Guadeloupe** | 9 (2006) |
+| **Guam** | 5 (2006) |
+| **Guatemala** | 450 (2006) |
+| **Guernsey** | 2 (one on Alderney) (2006) |
+| **Guinea** | 16 (2006) |
+| **Guinea-Bissau** | 28 (2006) |
+| **Guyana** | 90 (2006) |
+| **Haiti** | 12 (2006) |
+| **Honduras** | 116 (2006) |
+| **Hong Kong** | 3 (2006) |
+| **Howland Island** | one airstrip constructed in 1937 for scheduled refueling stop on the round-the-world flight of Amelia EARHART and Fred NOONAN - they left Lae, New Guinea, for Howland Island, but were never seen again; the airstrip is no longer serviceable (2006) |
+| **Hungary** | 46 (2006) |
+| **Iceland** | 98 (2006) |
+| **Iles Eparses** | 4 (2006) |
+| **India** | 341 (2006) |
+| **Indonesia** | 662 (2006) |
+| **Iran** | 321 (2006) |
+| **Iraq** | 110 (2006) |
+| **Ireland** | 36 (2006) |
+| **Isle of Man** | 1 (2006) |
+| **Israel** | 53 (2006) |
+| **Italy** | 133 (2006) |
+| **Jamaica** | 35 (2006) |
+| **Jan Mayen** | 1 (2006) |
+| **Japan** | 175 (2006) |
+| **Jersey** | 1 (2006) |
+| **Johnston Atoll** | 1 |
+| | *note:* non-operational (2006) |
+| **Jordan** | 17 (2006) |
+| **Juan de Nova Island** | 1 (2006) |
+| **Kazakhstan** | 150 (2006) |
+| **Kenya** | 225 (2006) |
+| **Kingman Reef** | lagoon was used as a halfway station between Hawaii and American Samoa by Pan American Airways for flying boats in 1937 and 1938 (2006) |
+| **Kiribati** | 19 (2006) |
+| **Korea, North** | 77 (2006) |
+| **Korea, South** | 107 (2006) |
+| **Kuwait** | 7 (2006) |
+| **Kyrgyzstan** | 37 (2006) |
+| **Laos** | 44 (2006) |
+| **Latvia** | 46 (2006) |
+| **Lebanon** | 7 (2006) |
+| **Lesotho** | 28 (2006) |
+| **Liberia** | 53 (2006) |
+| **Libya** | 141 (2006) |
+| **Lithuania** | 91 (2006) |
+| **Luxembourg** | 2 (2006) |
+| **Macau** | 1 (2006) |
+| **Macedonia** | 17 (2006) |
+| **Madagascar** | 116 (2006) |
+| **Malawi** | 42 (2006) |
+| **Malaysia** | 117 (2006) |
+| **Maldives** | 5 (2006) |
+| **Mali** | 29 (2006) |
+| **Malta** | 1 (2006) |
+| **Marshall Islands** | 15 (2006) |
+| **Martinique** | 2 (2006) |
+| **Mauritania** | 25 (2006) |
+| **Mauritius** | 6 (2006) |
+| **Mayotte** | 1 (2006) |
+| **Mexico** | 1,839 (2006) |
+| **Micronesia, Federated States of** | 6 (2006) |
+| **Midway Islands** | 3; note - only one operational (2006) |
+| **Moldova** | 12 (2006) |
+| **Mongolia** | 44 (2006) |
+| **Montenegro** | 5 (2006) |
+| **Montserrat** | 2 (2006) |
+| **Morocco** | 60 (2006) |
+| **Mozambique** | 158 (2006) |
+| **Namibia** | 137 (2006) |
+| **Nauru** | 1 (2006) |
+| **Nepal** | 48 (2006) |
+| **Netherlands** | 27 (2006) |
+| **Netherlands Antilles** | 5 (2006) |
+| **New Caledonia** | 25 (2006) |
+| **New Zealand** | 118 (2006) |
+| **Nicaragua** | 176 (2006) |
+| **Niger** | 28 (2006) |
+| **Nigeria** | 69 (2006) |
+| **Niue** | 1 (2006) |
+| **Norfolk Island** | 1 (2006) |
+| **Northern Mariana Islands** | 5 (2006) |
+| **Norway** | 99 (2006) |
+| **Oman** | 137 (2006) |
+| **Pakistan** | 139 (2006) |
+| **Palau** | 3 (2006) |
+| **Palmyra Atoll** | 1 (2006) |
+| **Panama** | 117 (2006) |
+| **Papua New Guinea** | 582 (2006) |
+| **Paracel Islands** | 1 (2006) |
+| **Paraguay** | 881 (2006) |
+| **Peru** | 268 (2006) |
+| **Philippines** | 256 (2006) |
+| **Poland** | 122 (2006) |
+| **Portugal** | 66 (2006) |
+| **Puerto Rico** | 30 (2006) |
+| **Qatar** | 5 (2006) |
+| **Reunion** | 2 (2006) |
+| **Romania** | 61 (2006) |
+| **Russia** | 1,623 (2006) |
+| **Rwanda** | 9 (2006) |
+| **Saint Helena** | 1 |
+| | *note:* Wideawake Field on Ascension Island (2006) |
+| **Saint Kitts and Nevis** | 2 (2006) |
+| **Saint Lucia** | 2 (2006) |
+| **Saint Pierre and Miquelon** | 2 (2006) |
+| **Saint Vincent and the Grenadines** | 6 (2006) |
+| **Samoa** | 4 (2006) |
+| **Sao Tome and Principe** | 2 (2006) |
+| **Saudi Arabia** | 208 (2006) |
+| **Senegal** | 20 (2006) |
+| **Serbia** | 39 (2006) |
+| **Seychelles** | 15 (2006) |
+| **Sierra Leone** | 10 (2006) |
+| **Singapore** | 9 (2006) |
+| **Slovakia** | 36 (2006) |
+| **Slovenia** | 14 (2006) |
+| **Solomon Islands** | 35 (2006) |
+| **Somalia** | 65 (2006) |
+| **South Africa** | 731 (2006) |
+| **Spain** | 157 (2006) |
+| **Spratly Islands** | 3 (2006) |
+| **Sri Lanka** | 16 (2006) |
+| **Sudan** | 88 (2006) |
+| **Suriname** | 47 (2006) |
+| **Svalbard** | 4 (2006) |
+| **Swaziland** | 18 (2006) |
+| **Sweden** | 255 (2006) |
+| **Switzerland** | 65 (2006) |
+| **Syria** | 92 (2006) |
+| **Taiwan** | 42 (2006) |
+| **Tajikistan** | 40 (2006) |
+| **Tanzania** | 124 (2006) |
+| **Thailand** | 108 (2006) |
+| **Togo** | 9 (2006) |
+| **Tonga** | 6 (2006) |
+| **Trinidad and Tobago** | 6 (2006) |
+| **Tromelin Island** | 1 (2006) |
+| **Tunisia** | 30 (2006) |
+| **Turkey** | 117 (2006) |
+| **Turkmenistan** | 29 (2006) |
+| **Turks and Caicos Islands** | 8 (2006) |
+| **Tuvalu** | 1 (2006) |
+| **Uganda** | 31 (2006) |
+| **Ukraine** | 499 (2006) |
+| **United Arab Emirates** | 37 (2006) |
+| **United Kingdom** | 471 (2006) |
+| **United States** | 14,858 (2006) |
+| **United States Pacific Island Wildlife Refuges** | *Baker Island:* one abandoned World War II runway of 1,665 m covered with vegetation and unusable |
+| | *Howland Island:* airstrip constructed in 1937 for scheduled refueling stop on the round-the-world flight of Amelia EARHART and Fred NOONAN; the aviators left Lae, New Guinea, for Howland Island but were never seen again; the airstrip is no longer serviceable |
+| | *Johnston Atoll:* 1 - closed and not maintained |
+| | *Kingman Reef:* lagoon was used as a halfway station between Hawaii and American Samoa by Pan American Airways for flying boats in 1937 and 1938 |
+| | *Midway Islands:* 3 - one operational (2,409 m paved); no fuel for sale except emergencies |
+| | *Palmyra Atoll:* 1 - 1,846 m unpaved runway; privately owned (2006) |
+| **Uruguay** | 64 (2006) |
+| **Uzbekistan** | 61 (2006) |
+| **Vanuatu** | 31 (2006) |
+| **Venezuela** | 375 (2006) |
+| **Vietnam** | 32 (2006) |
+| **Virgin Islands** | 2 (2006) |
+| **Wake Island** | 1 (2006) |
+| **Wallis and Futuna** | 2 (2006) |
+| **West Bank** | 3 (2006) |
+| **Western Sahara** | 11 (2006) |
+| **World** | 49,024 (2006) |
+| **Yemen** | 46 (2006) |
+| **Zambia** | 111 (2006) |
+| **Zimbabwe** | 403 (2006) |
+
+This page was last updated on 19 December, 2006
+ 

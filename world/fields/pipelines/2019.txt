@@ -1,0 +1,137 @@
+Field Listing :: Pipelines :: The World Factbook - Central Intelligence Agency
+
+This entry gives the lengths and types of pipelines for transporting products like natural gas, crude oil, or petroleum products.
+
+| Country | Pipelines |
+| --- | --- |
+| **Afghanistan** | 466 km gas (2013) |
+| **Albania** | 498 km gas (a majority of the network is in disrepair and parts of it are missing), 249 km oil (2015) |
+| **Algeria** | 2600 km condensate, 16415 km gas, 3447 km liquid petroleum gas, 7036 km oil, 144 km refined products (2013) |
+| **Angola** | 352 km gas, 85 km liquid petroleum gas, 1065 km oil, 5 km oil/gas/water (2013) |
+| **Argentina** | 29930 km gas, 41 km liquid petroleum gas, 6248 km oil, 3631 km refined products (2013) |
+| **Armenia** | 3838 km gas (high and medium pressure) (2017) |
+| **Australia** | 637 km condensate/gas, 30054 km gas, 240 km liquid petroleum gas, 3609 km oil, 110 km oil/gas/water, 72 km refined products (2013) |
+| **Austria** | 1888 km gas, 594 km oil, 157 km refined products (2017) |
+| **Azerbaijan** | 89 km condensate, 3890 km gas, 2446 km oil (2013) |
+| **Bahrain** | 20 km gas, 54 km oil (2013) |
+| **Bangladesh** | 2950 km gas (2013) |
+| **Barbados** | 33 km gas, 64 km oil, 6 km refined products (2013) |
+| **Belarus** | 5386 km gas, 1589 km oil, 1730 km refined products (2013) |
+| **Belgium** | 3139 km gas, 154 km oil, 535 km refined products (2013) |
+| **Benin** | 134 km gas |
+| **Bolivia** | 5457 km gas, 51 km liquid petroleum gas, 2511 km oil, 1627 km refined products (2013) |
+| **Bosnia and Herzegovina** | 147 km gas, 9 km oil (2013) |
+| **Brazil** | 5959 km refined petroleum product (1,165 km distribution, 4,794 km transport), 11696 km natural gas (2,274 km distribution, 9,422 km transport), 1985 km crude oil (distribution), 77 km ethanol/petrochemical (37 km distribution, 40 km transport) (2016) |
+| **Brunei** | 33 km condensate, 86 km condensate/gas, 628 km gas, 492 km oil (2013) |
+| **Bulgaria** | 2765 km gas, 346 km oil, 378 km refined products (2017) |
+| **Burma** | 3739 km gas, 1321 km oil (2017) |
+| **Cameroon** | 53 km gas, 5 km liquid petroleum gas, 1107 km oil, 35 km water (2013) |
+| **Canada** | 110000 km gas and liquid petroleum (2017) |
+| **Chad** | 582 km oil (2013) |
+| **Chile** | 3160 km gas, 781 km liquid petroleum gas, 985 km oil, 722 km refined products (2013) |
+| **China** | 76000 km gas, 30400 km crude oil, 27700 km refined petroleum products, 797000 km water (2018) |
+| **Colombia** | 4991 km gas, 6796 km oil, 3429 km refined products (2013) |
+| **Congo, Democratic Republic of the** | 62 km gas, 77 km oil, 756 km refined products (2013) |
+| **Congo, Republic of the** | 232 km gas, 4 km liquid petroleum gas, 982 km oil (2013) |
+| **Costa Rica** | 662 km refined products (2013) |
+| **Cote d'Ivoire** | 101 km condensate, 256 km gas, 118 km oil, 5 km oil/gas/water, 7 km water (2013) |
+| **Croatia** | 2410 km gas, 610 km oil (2011) |
+| **Cuba** | 41 km gas, 230 km oil (2013) |
+| **Cyprus** | 0 km oil |
+| **Czechia** | 7,160 km gas, 675 km oil, 94 km refined products (2016) |
+| **Denmark** | 1536 km gas, 330 km oil (2015) |
+| **Dominican Republic** | 27 km gas, 103 km oil (2013) |
+| **Ecuador** | 485 km extra heavy crude, 123 km gas, 2131 km oil, 1526 km refined products (2017) |
+| **Egypt** | 486 km condensate, 74 km condensate/gas, 7986 km gas, 957 km liquid petroleum gas, 5225 km oil, 37 km oil/gas/water, 895 km refined products, 65 km water (2013) |
+| **Equatorial Guinea** | 42 km condensate, 5 km condensate/gas, 79 km gas, 71 km oil (2013) |
+| **Estonia** | 2360 km gas (2016) |
+| **Finland** | 1288 km gas transmission pipes, 1976 km distribution pipes (2016) |
+| **France** | 15322 km gas, 2939 km oil, 5084 km refined products (2013) |
+| **Gabon** | 807 km gas, 1639 km oil, 3 km water (2013) |
+| **Georgia** | 1596 km gas, 1175 km oil (2013) |
+| **Germany** | 37 km condensate, 26985 km gas, 2400 km oil, 4479 km refined products, 8 km water (2013) |
+| **Ghana** | 394 km gas, 20 km oil, 361 km refined products (2013) |
+| **Greece** | 1329 km gas, 94 km oil (2013) |
+| **Guatemala** | 480 km oil (2013) |
+| **Hungary** | 5874 km gas (high-pressure transmission system), 83732 km gas (low-pressure distribution network), 850 km oil, 1200 km refined products (2016) |
+| **India** | 9 km condensate/gas, 13581 km gas, 2054 km liquid petroleum gas, 8943 km oil, 20 km oil/gas/water, 11069 km refined products (2013) |
+| **Indonesia** | 1064 km condensate, 150 km condensate/gas, 11702 km gas, 119 km liquid petroleum gas, 7767 km oil, 77 km oil/gas/water, 728 km refined products, 53 km unknown, 44 km water (2013) |
+| **Iran** | 7 km condensate, 973 km condensate/gas, 20794 km gas, 570 km liquid petroleum gas, 8625 km oil, 7937 km refined products (2013) |
+| **Iraq** | 2455 km gas, 913 km liquid petroleum gas, 5432 km oil, 1637 km refined products (2013) |
+| **Ireland** | 2,427 km gas (2017) |
+| **Israel** | 763 km gas, 442 km oil, 261 km refined products (2013) |
+| **Italy** | 20223 km gas, 1393 km oil, 1574 km refined products (2013) |
+| **Japan** | 4456 km gas, 174 km oil, 104 km oil/gas/water (2013) |
+| **Jordan** | 473 km gas, 49 km oil (2013) |
+| **Kazakhstan** | 658 km condensate, 15,256 km gas (2017), 8,013 km oil (2017), 1,095 km refined products, 1,975 km water (2016) (2017) |
+| **Kenya** | 4 km oil, 1,432 km refined products (2018) |
+| **Korea, North** | 6 km oil (2013) |
+| **Korea, South** | 3790 km gas, 16 km oil, 889 km refined products (2017) |
+| **Kuwait** | 261 km gas, 540 km oil, 57 km refined products (2013) |
+| **Kyrgyzstan** | 3566 km gas (2018), 16 km oil (2013) |
+| **Laos** | 540 km refined products (2013) |
+| **Latvia** | 1,213 km gas, 417 km refined products (2018) |
+| **Lebanon** | 88 km gas (2013) |
+| **Liberia** | 4 km oil (2013) |
+| **Libya** | 882 km condensate, 3743 km gas, 7005 km oil (2013) |
+| **Liechtenstein** | 434.5 km gas (2018) |
+| **Lithuania** | 1921 km gas, 121 km refined products (2013) |
+| **Luxembourg** | 142 km gas, 27 km refined products (2013) |
+| **Malaysia** | 354 km condensate, 6439 km gas, 155 km liquid petroleum gas, 1937 km oil, 43 km oil/gas/water, 114 km refined products, 26 km water (2013) |
+| **Mexico** | 15,986 km natural gas (2019), 10,365 km oil (2017), 8,946 km refined products (2016) |
+| **Moldova** | 1916 km gas (2014) |
+| **Morocco** | 944 km gas, 270 km oil, 175 km refined products (2013) |
+| **Mozambique** | 972 km gas, 278 km refined products (2013) |
+| **Netherlands** | 14000 km gas, 2500 km oil and refined products, 3000 km chemicals (2016) |
+| **New Zealand** | 331 km condensate, 2500 km gas, 172 km liquid petroleum gas, 288 km oil, 198 km refined products (2018) |
+| **Nicaragua** | 54 km oil (2013) |
+| **Niger** | 464 km oil |
+| **Nigeria** | 124 km condensate, 4045 km gas, 164 km liquid petroleum gas, 4441 km oil, 3940 km refined products (2013) |
+| **North Macedonia** | 262 km gas, 120 km oil (2017) |
+| **Norway** | 8520 km gas, 1304 km oil/condensate (2017) |
+| **Oman** | 106 km condensate, 4224 km gas, 3558 km oil, 33 km oil/gas/water, 264 km refined products (2013) |
+| **Pakistan** | 12,984 km gas, 3,470 km oil, 1,170 km refined products (2019) |
+| **Panama** | 128 km oil (2013) |
+| **Papua New Guinea** | 264 km oil (2013) |
+| **Peru** | 786 km extra heavy crude, 1526 km gas, 679 km liquid petroleum gas, 1033 km oil, 15 km refined products (2013) |
+| **Philippines** | 530 km gas, 138 km oil (non-operational), 185 km refined products (2017) |
+| **Poland** | 14198 km gas, 1374 km oil, 2483 km refined products (2016) |
+| **Portugal** | 1344 km gas, 11 km oil, 188 km refined products (2013) |
+| **Qatar** | 288 km condensate, 221 km condensate/gas, 2383 km gas, 90 km liquid petroleum gas, 745 km oil, 103 km refined products (2013) |
+| **Romania** | 3726 km gas, 2451 km oil (2013) |
+| **Russia** | 177700 km gas, 54800 km oil, 19300 km refined products (2016) |
+| **Saudi Arabia** | 209 km condensate, 2940 km gas, 1183 km liquid petroleum gas, 5117 km oil, 1151 km refined products (2013) |
+| **Senegal** | 43 km gas, 8 km refined products (2017) |
+| **Serbia** | 1936 km gas, 413 km oil |
+| **Singapore** | 3220 km domestic gas (2014), 1122 km cross-border pipelines (2017), 8 km refined products (2013) |
+| **Slovakia** | 2270 km gas transmission pipelines, 6278 km high-pressure gas distribution pipelines, 27023 km mid- and low-pressure gas distribution pipelines (2016), 510 km oil (2015) |
+| **Slovenia** | 1155 km gas, 5 km oil (2017) |
+| **South Africa** | 94 km condensate, 1293 km gas, 992 km oil, 1460 km refined products (2013) |
+| **Spain** | 10481 km gas, 358 km oil, 4378 km refined products (2017) |
+| **Sri Lanka** | 7 km refined products |
+| **Sudan** | 156 km gas, 4070 km oil, 1613 km refined products (2013) |
+| **Suriname** | 50 km oil (2013) |
+| **Sweden** | 1626 km gas (2013) |
+| **Switzerland** | 1,800 km gas, 94 km oil (of which 60 are inactive), 17 km refined products (2017) |
+| **Syria** | 3170 km gas, 2029 km oil (2013) |
+| **Taiwan** | 25 km condensate, 2,200 km gas, 13,500 km oil (2018) |
+| **Tajikistan** | 549 km gas, 38 km oil (2013) |
+| **Tanzania** | 311 km gas, 891 km oil, 8 km refined products (2013) |
+| **Thailand** | 2 km condensate, 5900 km gas, 85 km liquid petroleum gas, 1 km oil, 1097 km refined products (2013) |
+| **Togo** | 62 km gas |
+| **Trinidad and Tobago** | 257 km condensate, 11 km condensate/gas, 1567 km gas, 587 km oil (2013) |
+| **Tunisia** | 68 km condensate, 3111 km gas, 1381 km oil, 453 km refined products (2013) |
+| **Turkey** | 14,666 km gas, 3,293 km oil (2017) |
+| **Turkmenistan** | 7500 km gas, 1501 km oil (2013) |
+| **Ukraine** | 36720 km gas, 4514 km oil, 4363 km refined products (2013) |
+| **United Arab Emirates** | 533 km condensate, 3277 km gas, 300 km liquid petroleum gas, 3287 km oil, 24 km oil/gas/water, 218 km refined products, 99 km water (2013) |
+| **United Kingdom** | 502 km condensate, 9 km condensate/gas, 28603 km gas, 59 km liquid petroleum gas, 5256 km oil, 175 km oil/gas/water, 4919 km refined products, 255 km water (2013) |
+| **United States** | 1,984,321 km natural gas, 240,711 km petroleum products (2013) |
+| **Uruguay** | 257 km gas, 160 km oil (2013) |
+| **Uzbekistan** | 13,700 km gas, 944 km oil (2016) |
+| **Venezuela** | 981 km extra heavy crude, 5941 km gas, 7588 km oil, 1778 km refined products (2013) |
+| **Vietnam** | 72 km condensate, 398 km condensate/gas, 955 km gas, 128 km oil, 33 km oil/gas/water, 206 km refined products, 13 km water (2013) |
+| **Yemen** | 641 km gas, 22 km liquid petroleum gas, 1370 km oil (2013) |
+| **Zambia** | 771 km oil (2013) |
+| **Zimbabwe** | 270 km refined products (2013) |
+

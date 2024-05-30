@@ -1,0 +1,241 @@
+FIELD LISTING :: TELEVISION BROADCAST STATIONS
+
+| Country | |
+| --- | --- |
+| **Afghanistan** | 16 (1 state-run station and 15 registered private stations) (2009) |
+| **Akrotiri** | 0 (British Forces Broadcasting Service (BFBS) provides multi-channel satellite service to Akrotiri, Dhekelia, and Nicosia) (2006) |
+| **Albania** | 65 (3 national, 62 local); 2 cable networks (2005) |
+| **Algeria** | 46 (plus 216 repeaters) (1995) |
+| **American Samoa** | 1 (2006) |
+| **Andorra** | 1 (2009) |
+| **Angola** | 6 (2000) |
+| **Anguilla** | 1 (1997) |
+| **Antarctica** | 1 (cable system with 6 channels; American Forces Antarctic Network-McMurdo - information for US bases only) (2002) |
+| **Antigua and Barbuda** | 2 (1997) |
+| **Argentina** | 42 (plus 444 repeaters) (1997) |
+| **Armenia** | 48 (private television stations alongside 2 public networks; major Russian channels widely available) (2006) |
+| **Aruba** | 1 (1997) |
+| **Australia** | 104 (1997) |
+| **Austria** | 9 (2010) |
+| **Azerbaijan** | 10 (2010) |
+| **Bahamas, The** | 2 (2006) |
+| **Bahrain** | 4 (1997) |
+| **Bangladesh** | 17 (2009) |
+| **Barbados** | 1 (plus 2 cable channels) (2004) |
+| **Belarus** | 47 (plus 27 repeaters) (1995) |
+| **Belgium** | 25 (plus 10 repeaters) (1997) |
+| **Belize** | 7 (2008) |
+| **Benin** | 6 (2007) |
+| **Bermuda** | 3 (2005) |
+| **Bhutan** | 1 (2007) |
+| **Bolivia** | 48 (1997) |
+| **Bosnia and Herzegovina** | 33 (1995) |
+| **Botswana** | 2 (1 state-owned, 1 private) (2007) |
+| **Brazil** | 138 (1997) |
+| **British Indian Ocean Territory** | 1 (1997) |
+| **British Virgin Islands** | 1 (plus 1 cable company) (1997) |
+| **Brunei** | 4 (includes 2 UHF stations broadcasting a subscription service) (2006) |
+| **Bulgaria** | 39 (plus 1,242 repeaters) (2001) |
+| **Burkina Faso** | 3 (1 national, 2 private) |
+| **Burma** | 4 (2008) |
+| **Burundi** | 1 (2001) |
+| **Cabo Verde** | 1 (plus 7 repeaters) (2001) |
+| **Cambodia** | 9 (2009) |
+| **Cameroon** | 1 (2001) |
+| **Canada** | 148 (2007) |
+| **Cayman Islands** | 4 with cable system (2004) |
+| **Central African Republic** | 1 (2001) |
+| **Chad** | 1 (2001) |
+| **Chile** | 63 (plus 121 repeaters) (1997) |
+| **China** | 3,240 (of which 209 are operated by China Central Television, 31 are provincial TV stations, and nearly 3,000 are local city stations) (1997) |
+| **Christmas Island** | 0 (TV broadcasts received via satellite from mainland Australia) (2006) |
+| **Cocos (Keeling) Islands** | 4 (2007) |
+| **Colombia** | 60 (1997) |
+| **Comoros** | NA |
+| **Congo, Democratic Republic of the** | 4 (2001) |
+| **Congo, Republic of the** | 1 (2001) |
+| **Cook Islands** | 1 (outer islands receive satellite broadcasts) (2004) |
+| **Costa Rica** | 20 (plus 43 repeaters) (2002) |
+| **Cote d'Ivoire** | 14 (1998) |
+| **Croatia** | 36 (plus 321 repeaters) (1995) |
+| **Cuba** | 58 (1997) |
+| **Cyprus** | *area under government control:* 8 |
+| | *area administered by Turkish Cypriots:* 2 (plus 4 relay) (2004) |
+| **Czech Republic** | 71 (2008) |
+| **Denmark** | 172 (2008) |
+| **Dhekelia** | 0 (British Forces Broadcasting Service (BFBS) provides multi-channel satellite service to Akrotiri, Dhekelia, and Nicosia) (2006) |
+| **Djibouti** | 1 (2001) |
+| **Dominica** | 1 (2004) |
+| **Dominican Republic** | 25 (2003) |
+| **Ecuador** | 7 (plus 14 repeaters) (2000) |
+| **Egypt** | 64 (2010) |
+| **El Salvador** | 5 (1997) |
+| **Equatorial Guinea** | 1 (2001) |
+| **Eritrea** | 2 (2006) |
+| **Estonia** | 15 (2008) |
+| **Ethiopia** | 1 (plus 24 repeaters) (2001) |
+| **European Union** | 2,700 (1995); note - sum of individual country television broadcast stations excluding repeaters; there is also a European-wide station (Eurovision) |
+| **Falkland Islands (Islas Malvinas)** | 2 (British Forces Broadcasting Service (BFBS) provides multi-channel satellite service to members of UK Forces as well as islanders); cable television is available in Stanley (2006) |
+| **Faroe Islands** | 3 (plus 43 repeaters) (September 1995) |
+| **Fiji** | NA |
+| **Finland** | 120 (plus 431 repeaters) (1999); note - on 1 September 2007, Finland began broadcasting all television signals digitally; analog broadcasts via cable networks were discontinued 29 February 2008 |
+| **France** | 584 (plus 9,676 repeaters) (1995) |
+| **French Polynesia** | 7 (plus 17 repeaters) (1997) |
+| **Gabon** | 4 (plus 4 repeaters) (2001) |
+| **Gambia, The** | 1 (government-owned) (1997) |
+| **Gaza Strip** | 1 (2008) |
+| **Georgia** | 12 (plus repeaters) (1998) |
+| **Germany** | 373 (plus 8,042 repeaters) (1995) |
+| **Ghana** | 7 (2007) |
+| **Gibraltar** | 1 (plus 3 repeaters) (1997) |
+| **Greece** | 36 (plus 1,341 repeaters); also 2 stations in the American Armed Forces Radio and Television Service (1995) |
+| **Greenland** | 1 (plus some local low-power stations, and 3 American Forces Radio and Television Service (AFRTS) stations (1997) |
+| **Grenada** | 2 (2009) |
+| **Guam** | 3 (2006) |
+| **Guatemala** | 26 (plus 27 repeaters) (1997) |
+| **Guernsey** | 1 (1997) |
+| **Guinea-Bissau** | 1 (2007) |
+| **Guinea** | 6 (2001) |
+| **Guyana** | 3 (1 public station; 2 private stations which relay US satellite services) (1997) |
+| **Haiti** | 2 (plus a cable TV service) (1997) |
+| **Holy See (Vatican City)** | 1 (2008) |
+| **Honduras** | 11 (plus 17 repeaters) (1997) |
+| **Hong Kong** | 2 (2 TV networks, each broadcasting on 2 channels) (2009) |
+| **Hungary** | 95 (2008) |
+| **Iceland** | 14 (plus 156 repeaters) (1997) |
+| **India** | 1,400 (2009) |
+| **Indonesia** | 54 local TV stations (11 national TV networks; each with its group of local transmitters) (2006) |
+| **Iran** | 29 (plus 450 repeaters) (1997) |
+| **Iraq** | 28 (2009) |
+| **Ireland** | 4 (many repeaters) (2008) |
+| **Isle of Man** | 0 (receives broadcasts from the UK and satellite) (1999) |
+| **Israel** | 7 (2009) |
+| **Italy** | 358 (plus 4,728 repeaters) (1995) |
+| **Jamaica** | 7 (1997) |
+| **Japan** | 211; note - in addition, US Forces are served by 3 TV stations and 2 TV cable services (1999) |
+| **Jersey** | 2 (UK television carried by local relays with a switch to digital broadcasts scheduled for 2010) (2008) |
+| **Jordan** | 4 (2009) |
+| **Kazakhstan** | 12 (plus 9 repeaters) (1998) |
+| **Kenya** | 8 (2008) |
+| **Kiribati** | 1 (possibly inactive) (2002) |
+| **Korea, North** | 4 (includes Korean Central Television, Mansudae Television, Korean Educational and Cultural Network, and Kaesong Television targeting South Korea) (2003) |
+| **Korea, South** | 57 (plus 103 cable operators and 119 relay cable operators) (2008) |
+| **Kuwait** | 13 (plus several satellite channels) (1997) |
+| **Kyrgyzstan** | 8 (2 countrywide and 6 regional stations; state-owned); note - there are about 20 private TV stations, most of which rebroadcast other channels (2007) |
+| **Laos** | 28 (2010) |
+| **Latvia** | 37 (plus 31 repeaters) (2008) |
+| **Lebanon** | 12 (2009) |
+| **Lesotho** | 1 (2007) |
+| **Liberia** | 5 (plus 4 repeaters) (2007) |
+| **Libya** | 12 (plus 1 repeater) (1999) |
+| **Liechtenstein** | NA (linked to Swiss networks) (1997) |
+| **Lithuania** | 44 (may have as many as 100 transmitters, including repeater stations) (2008) |
+| **Luxembourg** | 5 (1999) |
+| **Macau** | 1 (2009) |
+| **Macedonia** | 76 (2009) |
+| **Madagascar** | 1 (plus 36 repeaters) (2001) |
+| **Malawi** | 1 (2001) |
+| **Malaysia** | 88 (mainland Malaysia 51, Sabah 16, and Sarawak 21) (2006) |
+| **Maldives** | 2 (2009) |
+| **Mali** | 2 (plus repeaters) (2007) |
+| **Malta** | 6 (2009) |
+| **Marshall Islands** | 2 (both are US military stations; Marshalls Broadcasting Service, a cable company, operates on Majuro) (2005) |
+| **Mauritania** | 1 (2002) |
+| **Mauritius** | 2 (plus several repeaters) (1997) |
+| **Mexico** | 729 (2009) |
+| **Micronesia, Federated States of** | 3 (cable TV also available) (2004) |
+| **Moldova** | 40 (2006) |
+| **Monaco** | 5 (1998) |
+| **Mongolia** | 99 (2009) |
+| **Montenegro** | 13 (2004) |
+| **Montserrat** | 1 (1997) |
+| **Morocco** | 8 (2009) |
+| **Mozambique** | 4 (2008) |
+| **Namibia** | 2 (2007) |
+| **Nauru** | 1 (1997) |
+| **Nepal** | 9 (plus 9 repeaters) (2008) |
+| **Netherlands** | 342 (2009) |
+| **New Caledonia** | 6 (plus 25 repeaters) (1997) |
+| **New Zealand** | 41 (plus about 700 repeaters) (1997) |
+| **Nicaragua** | 16 (2009) |
+| **Nigeria** | 3 (the government controls 2 of the broadcasting stations and 15 repeater stations) (2001) |
+| **Niger** | 5 (2007) |
+| **Niue** | 1 (1997) |
+| **Norfolk Island** | 1 (local programming station plus 2 repeaters that air Australian programs by satellite) (2005) |
+| **Northern Mariana Islands** | 1 (on Saipan; in addition, 2 cable services on Saipan provide varied programming from satellite networks) (2006) |
+| **Norway** | 69 (2008) |
+| **Oman** | 13 (plus 25 repeaters) (1999) |
+| **Pakistan** | 20 (5 state-run channels and 15 privately-owned satellite channels) (2006) |
+| **Palau** | 1 (cable) (2005) |
+| **Panama** | 38 (including repeaters) (1998) |
+| **Papua New Guinea** | 3 (all in the Port Moresby area; stations at Mt. Hagen, Goroka, Lae, and Rabaul are planned) (2004) |
+| **Paraguay** | 6 (2009) |
+| **Peru** | 13 (plus 112 repeaters) (1997) |
+| **Philippines** | 297 (plus 873 CATV networks) (2008) |
+| **Poland** | 75 (2008) |
+| **Portugal** | 42 (2008) |
+| **Puerto Rico** | 34 (2008) |
+| **Qatar** | 1 (plus 3 repeaters) (2001) |
+| **Romania** | 623 (plus 200 repeaters) (2006) |
+| **Russia** | 7,306 (1998) |
+| **Rwanda** | 2 (2004) |
+| **Saint Helena, Ascension, and Tristan da Cunha** | 0 (3 television channels are received via satellite and distributed by UHF) (2005) |
+| **Saint Kitts and Nevis** | 1 (plus 3 repeaters) (2003) |
+| **Saint Lucia** | 2 (1 commercial broadcast station and 1 community antenna television or CATV channel) (2003) |
+| **Saint Pierre and Miquelon** | 0 (2 repeaters rebroadcast programs from France, Canada, and the US) (1997) |
+| **Saint Vincent and the Grenadines** | 1 (plus 3 repeaters) (2004) |
+| **Samoa** | 2 (2002) |
+| **San Marino** | 1 (San Marino residents also receive broadcasts from Italy) (1997) |
+| **Sao Tome and Principe** | 2 (2001) |
+| **Saudi Arabia** | 117 (1997) |
+| **Senegal** | 7 (2008) |
+| **Serbia** | 138 (2009) |
+| **Seychelles** | 2 (plus 9 repeaters) (1997) |
+| **Sierra Leone** | 2 (1999) |
+| **Singapore** | 1 (broadcasting on 8 channels); additional reception of numerous UHF and VHF signals originating in Malaysia and Indonesia (2008) |
+| **Slovakia** | 37 (2008) |
+| **Slovenia** | 31 (2006) |
+| **Somalia** | 4 (2 in Mogadishu and 2 in Hargeisa) (2001) |
+| **South Africa** | 556 (plus 144 network repeaters) (1997) |
+| **South Georgia and South Sandwich Islands** | 0 (2003) |
+| **Spain** | 379 (2008) |
+| **Sri Lanka** | 12 (2009) |
+| **Sudan** | 3 (1997) |
+| **Suriname** | 3 (plus 7 repeaters) (2000) |
+| **Svalbard** | NA |
+| **Swaziland** | 12 (includes 7 relay stations) (2004) |
+| **Sweden** | 252 (2008) |
+| **Switzerland** | 106 (2007) |
+| **Syria** | 44 (plus 17 repeaters) (1995) |
+| **Taiwan** | 76 (5 television networks with 46 digital and 30 analog stations) (2007) |
+| **Tajikistan** | 24 (number of licensed stations with only about 15 active) (2009) |
+| **Tanzania** | 3 (1999) |
+| **Thailand** | 111 (2006) |
+| **Timor-Leste** | 1 (Timor-Leste has one national public broadcaster) |
+| **Togo** | 3 (plus 2 repeaters) (1997) |
+| **Tonga** | 3 (2004) |
+| **Trinidad and Tobago** | 6 (2005) |
+| **Tunisia** | 26 (plus 76 repeaters) (1995) |
+| **Turkey** | 251 (2009) |
+| **Turkmenistan** | 4 (government-owned and programmed) (2008) |
+| **Turks and Caicos Islands** | 0 (broadcasts received from The Bahamas; 2 cable television networks) (2003) |
+| **Tuvalu** | 0 (2004) |
+| **Uganda** | 8 (plus 1 repeater) (2001) |
+| **Ukraine** | 647 (2006) |
+| **United Arab Emirates** | 15 (2004) |
+| **United Kingdom** | 940 (2008) |
+| **United States** | 2,218 (2006) |
+| **Uruguay** | 62 (2005) |
+| **Uzbekistan** | 28 (includes 1 cable rebroadcaster in Tashkent and approximately 20 stations in regional capitals) (2006) |
+| **Vanuatu** | 1 (2004) |
+| **Venezuela** | 66 (plus 45 repeaters) (1997) |
+| **Vietnam** | 67 (includes 61 relay, provincial, and city TV stations) (2006) |
+| **Virgin Islands** | 5 (2006) |
+| **Wake Island** | 0 (2005) |
+| **Wallis and Futuna** | 2 (2000) |
+| **West Bank** | 31 (2010) |
+| **Western Sahara** | NA |
+| **World** | NA |
+| **Yemen** | 3 (including one Egypt-based station that broadcasts in Yemen); plus several repeaters (2007) |
+| **Zambia** | 9 (2001) |
+| **Zimbabwe** | 16 (1997) |

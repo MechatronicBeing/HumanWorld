@@ -1,0 +1,714 @@
+CIA - The World Factbook -- Field Listing - Age structure
+
+| Country | Age structure (%) |
+| --- | --- |
+| **Afghanistan** | *0-14 years:* 41.8% (male 6,123,971; female 5,868,013) |
+| | *15-64 years:* 55.4% (male 8,240,743; female 7,671,242) |
+| | *65 years and over:* 2.8% (male 427,710; female 385,534) (2003 est.) |
+| **Albania** | *0-14 years:* 28.1% (male 520,714; female 486,911) |
+| | *15-64 years:* 64.6% (male 1,115,887; female 1,196,477) |
+| | *65 years and over:* 7.3% (male 115,754; female 146,462) (2003 est.) |
+| **Algeria** | *0-14 years:* 32.8% (male 5,485,197; female 5,285,434) |
+| | *15-64 years:* 63% (male 10,460,475; female 10,224,389) |
+| | *65 years and over:* 4.2% (male 624,839; female 738,166) (2003 est.) |
+| **American Samoa** | *0-14 years:* 37.5% (male 13,557; female 12,818) |
+| | *15-64 years:* 57% (male 19,712; female 20,346) |
+| | *65 years and over:* 5.4% (male 2,081; female 1,746) (2003 est.) |
+| **Andorra** | *0-14 years:* 15.1% (male 5,473; female 4,974) |
+| | *15-64 years:* 71.7% (male 26,063; female 23,542) |
+| | *65 years and over:* 13.2% (male 4,543; female 4,555) (2003 est.) |
+| **Angola** | *0-14 years:* 43.5% (male 2,363,829; female 2,317,610) |
+| | *15-64 years:* 53.7% (male 2,941,999; female 2,842,923) |
+| | *65 years and over:* 2.8% (male 134,330; female 165,780) (2003 est.) |
+| **Anguilla** | *0-14 years:* 24.3% (male 1,575; female 1,526) |
+| | *15-64 years:* 68.8% (male 4,504; female 4,262) |
+| | *65 years and over:* 6.8% (male 387; female 484) (2003 est.) |
+| **Antigua and Barbuda** | *0-14 years:* 28.1% (male 9,706; female 9,371) |
+| | *15-64 years:* 67.4% (male 22,929; female 22,845) |
+| | *65 years and over:* 4.5% (male 1,218; female 1,828) (2003 est.) |
+| **Argentina** | *0-14 years:* 26.2% (male 5,185,548; female 4,955,551) |
+| | *15-64 years:* 63.4% (male 12,274,625; female 12,282,772) |
+| | *65 years and over:* 10.4% (male 1,659,641; female 2,382,670) (2003 est.) |
+| **Armenia** | *0-14 years:* 21.1% (male 356,587; female 346,648) |
+| | *15-64 years:* 68.3% (male 1,113,241; female 1,158,245) |
+| | *65 years and over:* 10.6% (male 147,156; female 204,571) (2003 est.) |
+| **Aruba** | *0-14 years:* 20.7% (male 7,540; female 7,121) |
+| | *15-64 years:* 68.3% (male 23,427; female 24,955) |
+| | *65 years and over:* 11% (male 3,215; female 4,586) (2003 est.) |
+| **Australia** | *0-14 years:* 20.2% (male 2,045,783; female 1,949,864) |
+| | *15-64 years:* 67.1% (male 6,680,531; female 6,553,141) |
+| | *65 years and over:* 12.7% (male 1,099,275; female 1,403,390) (2003 est.) |
+| **Austria** | *0-14 years:* 16.2% (male 678,944; female 646,390) |
+| | *15-64 years:* 68.3% (male 2,827,736; female 2,768,480) |
+| | *65 years and over:* 15.5% (male 490,979; female 775,678) (2003 est.) |
+| **Azerbaijan** | *0-14 years:* 27.7% (male 1,101,320; female 1,064,214) |
+| | *15-64 years:* 64.7% (male 2,468,772; female 2,601,312) |
+| | *65 years and over:* 7.6% (male 236,683; female 358,463) (2003 est.) |
+| **Bahamas, The** | *0-14 years:* 28.8% (male 42,799; female 42,730) |
+| | *15-64 years:* 65.4% (male 95,718; female 98,875) |
+| | *65 years and over:* 5.8% (male 7,092; female 10,263) (2003 est.) |
+| **Bahrain** | *0-14 years:* 28.8% (male 97,294; female 94,930) |
+| | *15-64 years:* 68% (male 266,351; female 187,473) |
+| | *65 years and over:* 3.2% (male 10,807; female 10,383) (2003 est.) |
+| **Bangladesh** | *0-14 years:* 34.1% (male 24,255,300; female 23,007,632) |
+| | *15-64 years:* 62.5% (male 44,261,739; female 42,281,331) |
+| | *65 years and over:* 3.4% (male 2,506,606; female 2,135,602) (2003 est.) |
+| **Barbados** | *0-14 years:* 21.2% (male 29,621; female 29,207) |
+| | *15-64 years:* 70% (male 94,840; female 99,230) |
+| | *65 years and over:* 8.8% (male 9,355; female 15,011) (2003 est.) |
+| **Belarus** | *0-14 years:* 16.8% (male 885,265; female 848,516) |
+| | *15-64 years:* 68.9% (male 3,456,769; female 3,652,766) |
+| | *65 years and over:* 14.3% (male 490,529; female 988,306) (2003 est.) |
+| **Belgium** | *0-14 years:* 17.2% (male 905,856; female 865,589) |
+| | *15-64 years:* 65.6% (male 3,400,419; female 3,346,182) |
+| | *65 years and over:* 17.2% (male 725,162; female 1,045,880) (2003 est.) |
+| **Belize** | *0-14 years:* 41.1% (male 55,880; female 53,706) |
+| | *15-64 years:* 55.3% (male 74,612; female 72,813) |
+| | *65 years and over:* 3.5% (male 4,571; female 4,858) (2003 est.) |
+| **Benin** | *0-14 years:* 47% (male 1,668,817; female 1,638,291) |
+| | *15-64 years:* 50.7% (male 1,739,517; female 1,834,231) |
+| | *65 years and over:* 2.3% (male 67,504; female 93,130) (2003 est.) |
+| **Bermuda** | *0-14 years:* 19.2% (male 6,195; female 6,205) |
+| | *15-64 years:* 69.3% (male 22,110; female 22,574) |
+| | *65 years and over:* 11.5% (male 3,215; female 4,183) (2003 est.) |
+| **Bhutan** | *0-14 years:* 39.6% (male 438,784; female 407,919) |
+| | *15-64 years:* 56.4% (male 621,666; female 585,550) |
+| | *65 years and over:* 4% (male 43,262; female 42,368) (2003 est.) |
+| **Bolivia** | *0-14 years:* 37.1% (male 1,624,366; female 1,562,501) |
+| | *15-64 years:* 58.4% (male 2,452,892; female 2,561,873) |
+| | *65 years and over:* 4.5% (male 172,292; female 212,519) (2003 est.) |
+| **Bosnia and Herzegovina** | *0-14 years:* 19.4% (male 397,810; female 377,005) |
+| | *15-64 years:* 70.5% (male 1,439,383; female 1,372,891) |
+| | *65 years and over:* 10.1% (male 171,643; female 230,286) (2003 est.) |
+| **Botswana** | *0-14 years:* 39.5% (male 314,764; female 307,024) |
+| | *15-64 years:* 56% (male 424,726; female 455,967) |
+| | *65 years and over:* 4.5% (male 30,599; female 40,187) (2003 est.) |
+| **Brazil** | *0-14 years:* 27.1% (male 25,151,855; female 24,196,506) |
+| | *15-64 years:* 67.2% (male 60,667,014; female 61,683,580) |
+| | *65 years and over:* 5.7% (male 4,232,784; female 6,100,865) (2003 est.) |
+| **British Virgin Islands** | *0-14 years:* 21.9% (male 2,401; female 2,358) |
+| | *15-64 years:* 73.1% (male 8,181; female 7,709) |
+| | *65 years and over:* 5% (male 578; female 503) (2003 est.) |
+| **Brunei** | *0-14 years:* 29.6% (male 54,118; female 51,902) |
+| | *15-64 years:* 67.6% (male 128,421; female 113,480) |
+| | *65 years and over:* 2.8% (male 4,804; female 5,373) (2003 est.) |
+| **Bulgaria** | *0-14 years:* 14.2% (male 549,142; female 520,057) |
+| | *15-64 years:* 68.8% (male 2,551,548; female 2,632,978) |
+| | *65 years and over:* 17% (male 535,165; female 749,039) (2003 est.) |
+| **Burkina Faso** | *0-14 years:* 46.1% (male 3,057,855; female 3,036,705) |
+| | *15-64 years:* 51% (male 3,296,726; female 3,455,817) |
+| | *65 years and over:* 2.9% (male 161,914; female 219,443) (2003 est.) |
+| **Burma** | *0-14 years:* 28.1% (male 6,091,220; female 5,840,968) |
+| | *15-64 years:* 67% (male 14,162,190; female 14,347,751) |
+| | *65 years and over:* 4.9% (male 916,702; female 1,151,706) (2003 est.) |
+| **Burundi** | *0-14 years:* 46.7% (male 1,438,759; female 1,409,567) |
+| | *15-64 years:* 50.6% (male 1,516,833; female 1,564,513) |
+| | *65 years and over:* 2.7% (male 66,355; female 100,129) (2003 est.) |
+| **Cambodia** | *0-14 years:* 39.3% (male 2,606,568; female 2,557,736) |
+| | *15-64 years:* 57.6% (male 3,599,216; female 3,962,520) |
+| | *65 years and over:* 3.1% (male 148,287; female 250,437) (2003 est.) |
+| **Cameroon** | *0-14 years:* 42.3% (male 3,372,129; female 3,291,295) |
+| | *15-64 years:* 54.5% (male 4,315,672; female 4,265,286) |
+| | *65 years and over:* 3.2% (male 227,444; female 274,353) (2003 est.) |
+| **Canada** | *0-14 years:* 18.5% (male 3,052,005; female 2,903,007) |
+| | *15-64 years:* 68.6% (male 11,099,907; female 10,984,903) |
+| | *65 years and over:* 12.9% (male 1,774,262; female 2,393,029) (2003 est.) |
+| **Cape Verde** | *0-14 years:* 41% (male 85,254; female 83,716) |
+| | *15-64 years:* 52.3% (male 103,690; female 111,992) |
+| | *65 years and over:* 6.7% (male 10,498; female 16,987) (2003 est.) |
+| **Cayman Islands** | *0-14 years:* 21.6% (male 4,525; female 4,541) |
+| | *15-64 years:* 70.6% (male 14,463; female 15,157) |
+| | *65 years and over:* 7.7% (male 1,515; female 1,733) (2003 est.) |
+| **Central African Republic** | *0-14 years:* 43.1% (male 799,241; female 788,370) |
+| | *15-64 years:* 53.5% (male 969,581; female 1,000,740) |
+| | *65 years and over:* 3.4% (male 53,322; female 72,284) (2003 est.) |
+| **Chad** | *0-14 years:* 47.9% (male 2,228,605; female 2,201,368) |
+| | *15-64 years:* 49.3% (male 2,171,169; female 2,393,184) |
+| | *65 years and over:* 2.8% (male 105,686; female 153,481) (2003 est.) |
+| **Chile** | *0-14 years:* 26.4% (male 2,112,251; female 2,018,099) |
+| | *15-64 years:* 66% (male 5,151,551; female 5,180,607) |
+| | *65 years and over:* 7.7% (male 499,441; female 703,267) (2003 est.) |
+| **China** | *0-14 years:* 23.1% (male 155,473,656; female 141,737,406) |
+| | *15-64 years:* 69.5% (male 461,223,219; female 433,154,970) |
+| | *65 years and over:* 7.4% (male 44,954,643; female 50,431,574) (2003 est.) |
+| **Christmas Island** | *0-14 years:* NA% |
+| | *15-64 years:* NA% |
+| | *65 years and over:* NA% (2003 est.) |
+| **Cocos (Keeling) Islands** | *0-14 years:* NA% |
+| | *15-64 years:* NA% |
+| | *65 years and over:* NA% (2003 est.) |
+| **Colombia** | *0-14 years:* 31.3% (male 6,601,581; female 6,447,679) |
+| | *15-64 years:* 63.7% (male 12,931,093; female 13,626,333) |
+| | *65 years and over:* 4.9% (male 913,798; female 1,141,589) (2003 est.) |
+| **Comoros** | *0-14 years:* 42.9% (male 136,060; female 135,277) |
+| | *15-64 years:* 54.2% (male 169,121; female 173,822) |
+| | *65 years and over:* 2.9% (male 8,863; female 9,805) (2003 est.) |
+| **Congo, Democratic Republic of the** | *0-14 years:* 48.3% (male 13,734,706; female 13,624,579) |
+| | *15-64 years:* 49.2% (male 13,648,155; female 14,203,077) |
+| | *65 years and over:* 2.5% (male 583,366; female 831,156) (2003 est.) |
+| **Congo, Republic of the** | *0-14 years:* 38.4% (male 570,491; female 563,079) |
+| | *15-64 years:* 58% (male 844,655; female 868,851) |
+| | *65 years and over:* 3.6% (male 44,166; female 63,016) (2003 est.) |
+| **Cook Islands** | *0-14 years:* NA% |
+| | *15-64 years:* NA% |
+| | *65 years and over:* NA% (2003 est.) |
+| **Costa Rica** | *0-14 years:* 30.1% (male 600,812; female 573,375) |
+| | *15-64 years:* 64.4% (male 1,269,667; female 1,241,097) |
+| | *65 years and over:* 5.4% (male 98,156; female 112,985) (2003 est.) |
+| **Cote d'Ivoire** | *0-14 years:* 45.4% (male 3,796,393; female 3,902,210) |
+| | *15-64 years:* 52.4% (male 4,541,997; female 4,347,531) |
+| | *65 years and over:* 2.2% (male 179,323; female 195,037) (2003 est.) |
+| **Croatia** | *0-14 years:* 18.3% (male 415,873; female 394,414) |
+| | *15-64 years:* 66.1% (male 1,465,488; female 1,454,778) |
+| | *65 years and over:* 15.6% (male 258,943; female 432,752) (2003 est.) |
+| **Cuba** | *0-14 years:* 20.1% (male 1,164,376; female 1,103,061) |
+| | *15-64 years:* 69.6% (male 3,932,604; female 3,909,523) |
+| | *65 years and over:* 10.2% (male 531,608; female 622,257) (2003 est.) |
+| **Cyprus** | *0-14 years:* 21.9% (male 86,446; female 82,769) |
+| | *15-64 years:* 67% (male 261,404; female 255,409) |
+| | *65 years and over:* 11.1% (male 37,345; female 48,284) (2003 est.) |
+| **Czech Republic** | *0-14 years:* 15.4% (male 809,697; female 768,747) |
+| | *15-64 years:* 70.6% (male 3,617,214; female 3,614,060) |
+| | *65 years and over:* 14% (male 554,922; female 884,576) (2003 est.) |
+| **Denmark** | *0-14 years:* 18.7% (male 516,872; female 490,543) |
+| | *15-64 years:* 66.3% (male 1,809,138; female 1,762,577) |
+| | *65 years and over:* 15% (male 338,141; female 467,113) (2003 est.) |
+| **Djibouti** | *0-14 years:* 43.1% (male 98,796; female 98,202) |
+| | *15-64 years:* 53.9% (male 129,492; female 116,953) |
+| | *65 years and over:* 3% (male 6,933; female 6,754) (2003 est.) |
+| **Dominica** | *0-14 years:* 27.8% (male 9,807; female 9,571) |
+| | *15-64 years:* 64.3% (male 23,024; female 21,768) |
+| | *65 years and over:* 7.9% (male 2,226; female 3,259) (2003 est.) |
+| **Dominican Republic** | *0-14 years:* 33.6% (male 1,497,777; female 1,431,104) |
+| | *15-64 years:* 61.2% (male 2,719,505; female 2,614,495) |
+| | *65 years and over:* 5.2% (male 212,045; female 240,676) (2003 est.) |
+| **East Timor** | NA (2003 est.) |
+| **Ecuador** | *0-14 years:* 34.9% (male 2,430,303; female 2,351,166) |
+| | *15-64 years:* 60.6% (male 4,116,289; female 4,198,667) |
+| | *65 years and over:* 4.5% (male 284,082; female 329,727) (2003 est.) |
+| **Egypt** | *0-14 years:* 33.9% (male 12,964,852; female 12,346,808) |
+| | *15-64 years:* 61.9% (male 23,375,037; female 22,865,190) |
+| | *65 years and over:* 4.2% (male 1,359,685; female 1,807,225) (2003 est.) |
+| **El Salvador** | *0-14 years:* 37.1% (male 1,224,024; female 1,173,667) |
+| | *15-64 years:* 57.9% (male 1,777,522; female 1,966,064) |
+| | *65 years and over:* 5.1% (male 147,482; female 181,620) (2003 est.) |
+| **Equatorial Guinea** | *0-14 years:* 42.2% (male 108,179; female 107,164) |
+| | *15-64 years:* 54% (male 132,342; female 143,509) |
+| | *65 years and over:* 3.8% (male 8,576; female 10,703) (2003 est.) |
+| **Eritrea** | *0-14 years:* 44.7% (male 977,447; female 972,068) |
+| | *15-64 years:* 52% (male 1,121,077; female 1,147,109) |
+| | *65 years and over:* 3.3% (male 71,620; female 72,933) (2003 est.) |
+| **Estonia** | *0-14 years:* 15.8% (male 113,239; female 108,876) |
+| | *15-64 years:* 68.8% (male 467,041; female 501,805) |
+| | *65 years and over:* 15.4% (male 71,512; female 146,083) (2003 est.) |
+| **Ethiopia** | *0-14 years:* 44.8% (male 14,944,168; female 14,871,164) |
+| | *15-64 years:* 52.4% (male 17,474,403; female 17,384,817) |
+| | *65 years and over:* 2.8% (male 840,057; female 1,042,944) (2003 est.) |
+| **Falkland Islands (Islas Malvinas)** | *0-14 years:* NA% |
+| | *15-64 years:* NA% |
+| | *65 years and over:* NA% |
+| **Faroe Islands** | *0-14 years:* 22% (male 5,103; female 5,077) |
+| | *15-64 years:* 64.4% (male 15,822; female 14,002) |
+| | *65 years and over:* 13.7% (male 2,842; female 3,499) (2003 est.) |
+| **Fiji** | *0-14 years:* 32% (male 141,979; female 136,378) |
+| | *15-64 years:* 64.1% (male 278,759; female 278,150) |
+| | *65 years and over:* 3.8% (male 15,329; female 17,936) (2003 est.) |
+| **Finland** | *0-14 years:* 17.7% (male 468,077; female 450,785) |
+| | *15-64 years:* 66.9% (male 1,753,760; female 1,719,253) |
+| | *65 years and over:* 15.4% (male 312,883; female 486,027) (2003 est.) |
+| **France** | *0-14 years:* 18.6% (male 5,725,170; female 5,449,991) |
+| | *15-64 years:* 65.1% (male 19,619,994; female 19,583,850) |
+| | *65 years and over:* 16.3% (male 4,006,857; female 5,794,667) (2003 est.) |
+| **French Guiana** | *0-14 years:* 29.9% (male 28,565; female 27,280) |
+| | *15-64 years:* 64.4% (male 64,836; female 55,498) |
+| | *65 years and over:* 5.7% (male 5,455; female 5,283) (2003 est.) |
+| **French Polynesia** | *0-14 years:* 28.3% (male 37,804; female 36,249) |
+| | *15-64 years:* 66.3% (male 90,421; female 83,304) |
+| | *65 years and over:* 5.4% (male 7,226; female 7,121) (2003 est.) |
+| **Gabon** | *0-14 years:* 42.3% (male 280,218; female 278,808) |
+| | *15-64 years:* 53.5% (male 352,363; female 355,315) |
+| | *65 years and over:* 4.2% (male 22,786; female 32,070) (2003 est.) |
+| **Gambia, The** | *0-14 years:* 44.9% (male 338,497; female 335,503) |
+| | *15-64 years:* 52.4% (male 390,150; female 396,763) |
+| | *65 years and over:* 2.7% (male 20,836; female 19,301) (2003 est.) |
+| **Gaza Strip** | *0-14 years:* 49.4% (male 322,658; female 307,026) |
+| | *15-64 years:* 47.9% (male 310,910; female 299,724) |
+| | *65 years and over:* 2.7% (male 14,645; female 19,905) (2003 est.) |
+| **Georgia** | *0-14 years:* 18.6% (male 466,743; female 449,440) |
+| | *15-64 years:* 68.4% (male 1,628,757; female 1,744,922) |
+| | *65 years and over:* 13% (male 252,031; female 392,520) (2003 est.) |
+| **Germany** | *0-14 years:* 14.9% (male 6,312,614; female 5,988,681) |
+| | *15-64 years:* 67.3% (male 28,213,316; female 27,240,648) |
+| | *65 years and over:* 17.8% (male 5,842,457; female 8,800,610) (2003 est.) |
+| **Ghana** | *0-14 years:* 38.9% (male 4,021,570; female 3,938,454) |
+| | *15-64 years:* 57.5% (male 5,859,940; female 5,909,910) |
+| | *65 years and over:* 3.6% (male 350,045; female 387,828) (2003 est.) |
+| **Gibraltar** | *0-14 years:* 18.3% (male 2,593; female 2,482) |
+| | *15-64 years:* 66.3% (male 9,458; female 8,946) |
+| | *65 years and over:* 15.4% (male 1,873; female 2,424) (2003 est.) |
+| **Greece** | *0-14 years:* 14.7% (male 811,080; female 761,728) |
+| | *15-64 years:* 67% (male 3,578,320; female 3,557,800) |
+| | *65 years and over:* 18.3% (male 866,425; female 1,090,636) (2003 est.) |
+| **Greenland** | *0-14 years:* 25.9% (male 7,463; female 7,161) |
+| | *15-64 years:* 68.3% (male 20,885; female 17,605) |
+| | *65 years and over:* 5.8% (male 1,508; female 1,763) (2003 est.) |
+| **Grenada** | *0-14 years:* 35.1% (male 15,840; female 15,492) |
+| | *15-64 years:* 61.3% (male 28,941; female 25,735) |
+| | *65 years and over:* 3.6% (male 1,502; female 1,748) (2003 est.) |
+| **Guadeloupe** | *0-14 years:* 24.7% (male 55,521; female 53,137) |
+| | *15-64 years:* 66.4% (male 144,764; female 147,449) |
+| | *65 years and over:* 8.9% (male 16,443; female 22,875) (2003 est.) |
+| **Guam** | *0-14 years:* 35.1% (male 30,334; female 27,264) |
+| | *15-64 years:* 58.4% (male 50,258; female 45,538) |
+| | *65 years and over:* 6.4% (male 5,269; female 5,278) (2003 est.) |
+| **Guatemala** | *0-14 years:* 42.9% (male 3,052,658; female 2,908,428) |
+| | *15-64 years:* 53.8% (male 3,779,688; female 3,706,315) |
+| | *65 years and over:* 3.3% (male 215,653; female 246,642) (2003 est.) |
+| **Guernsey** | *0-14 years:* 15.8% (male 5,216; female 5,061) |
+| | *15-64 years:* 66.8% (male 21,433; female 21,835) |
+| | *65 years and over:* 17.4% (male 4,705; female 6,568) (2003 est.) |
+| **Guinea** | *0-14 years:* 44.4% (male 2,027,970; female 1,986,300) |
+| | *15-64 years:* 52.4% (male 2,358,566; female 2,372,384) |
+| | *65 years and over:* 3.2% (male 124,382; female 160,618) (2003 est.) |
+| **Guinea-Bissau** | *0-14 years:* 41.9% (male 284,150; female 285,370) |
+| | *15-64 years:* 55.2% (male 358,891; female 392,703) |
+| | *65 years and over:* 2.9% (male 17,285; female 22,428) (2003 est.) |
+| **Guyana** | *0-14 years:* 27% (male 96,775; female 93,077) |
+| | *15-64 years:* 67.9% (male 240,305; female 236,378) |
+| | *65 years and over:* 5.1% (male 15,755; female 19,810) (2003 est.) |
+| **Haiti** | *0-14 years:* 42.7% (male 1,637,853; female 1,575,893) |
+| | *15-64 years:* 53.6% (male 1,962,975; female 2,073,353) |
+| | *65 years and over:* 3.7% (male 131,784; female 145,959) (2003 est.) |
+| **Honduras** | *0-14 years:* 41.6% (male 1,414,791; female 1,357,537) |
+| | *15-64 years:* 54.8% (male 1,811,757; female 1,843,456) |
+| | *65 years and over:* 3.6% (male 114,791; female 127,457) (2003 est.) |
+| **Hong Kong** | *0-14 years:* 17.3% (male 680,973; female 599,309) |
+| | *15-64 years:* 71.7% (male 2,619,929; female 2,679,430) |
+| | *65 years and over:* 11% (male 375,058; female 439,471) (2003 est.) |
+| **Hungary** | *0-14 years:* 16.1% (male 832,033; female 787,336) |
+| | *15-64 years:* 69% (male 3,406,046; female 3,523,118) |
+| | *65 years and over:* 14.9% (male 544,099; female 952,775) (2003 est.) |
+| **Iceland** | *0-14 years:* 22.7% (male 32,902; female 30,952) |
+| | *15-64 years:* 65.4% (male 92,519; female 91,000) |
+| | *65 years and over:* 11.9% (male 14,973; female 18,452) (2003 est.) |
+| **India** | *0-14 years:* 32.2% (male 173,973,350; female 163,979,116) |
+| | *15-64 years:* 63% (male 342,620,712; female 319,259,867) |
+| | *65 years and over:* 4.8% (male 25,281,756; female 24,585,317) (2003 est.) |
+| **Indonesia** | *0-14 years:* 29.7% (male 35,437,274; female 34,232,824) |
+| | *15-64 years:* 65.4% (male 76,743,613; female 76,845,245) |
+| | *65 years and over:* 4.9% (male 5,086,465; female 6,548,032) (2003 est.) |
+| **Iran** | *0-14 years:* 29.3% (male 10,279,588; female 9,727,668) |
+| | *15-64 years:* 65.9% (male 22,916,431; female 22,095,124) |
+| | *65 years and over:* 4.8% (male 1,625,113; female 1,634,902) (2003 est.) |
+| **Iraq** | *0-14 years:* 40.7% (male 5,103,669; female 4,946,443) |
+| | *15-64 years:* 56.3% (male 7,033,268; female 6,855,644) |
+| | *65 years and over:* 3% (male 348,790; female 395,499) (2003 est.) |
+| **Ireland** | *0-14 years:* 21.2% (male 427,017; female 404,191) |
+| | *15-64 years:* 67.4% (male 1,322,982; female 1,322,429) |
+| | *65 years and over:* 11.4% (male 194,724; female 252,797) (2003 est.) |
+| **Israel** | *0-14 years:* 26.9% (male 842,885; female 803,864) |
+| | *15-64 years:* 63.2% (male 1,941,440; female 1,922,512) |
+| | *65 years and over:* 9.9% (male 260,315; female 345,517) (2003 est.) |
+| **Italy** | *0-14 years:* 14% (male 4,193,412; female 3,947,679) |
+| | *15-64 years:* 67.2% (male 19,625,428; female 19,337,861) |
+| | *65 years and over:* 18.8% (male 4,516,995; female 6,376,978) (2003 est.) |
+| **Jamaica** | *0-14 years:* 28.6% (male 395,074; female 376,870) |
+| | *15-64 years:* 64.5% (male 870,486; female 869,431) |
+| | *65 years and over:* 6.8% (male 82,022; female 101,984) (2003 est.) |
+| **Japan** | *0-14 years:* 14.4% (male 9,368,132; female 8,906,024) |
+| | *15-64 years:* 67% (male 42,852,204; female 42,368,109) |
+| | *65 years and over:* 18.6% (male 9,945,638; female 13,774,392) (2003 est.) |
+| **Jersey** | *0-14 years:* 17.8% (male 8,292; female 7,744) |
+| | *15-64 years:* 67.2% (male 30,178; female 30,410) |
+| | *65 years and over:* 15% (male 5,858; female 7,674) (2003 est.) |
+| **Jordan** | *0-14 years:* 35.9% (male 1,001,174; female 959,157) |
+| | *15-64 years:* 60.5% (male 1,764,061; female 1,541,453) |
+| | *65 years and over:* 3.6% (male 95,566; female 98,854) (2003 est.) |
+| **Kazakhstan** | *0-14 years:* 25.4% (male 2,161,510; female 2,089,780) |
+| | *15-64 years:* 66.8% (male 5,425,545; female 5,769,457) |
+| | *65 years and over:* 7.9% (male 458,379; female 859,124) (2003 est.) |
+| **Kenya** | *0-14 years:* 41.3% (male 6,609,904; female 6,461,945) |
+| | *15-64 years:* 55.8% (male 8,900,615; female 8,766,698) |
+| | *65 years and over:* 2.9% (male 389,918; female 510,011) (2003 est.) |
+| **Kiribati** | *0-14 years:* 39.7% (male 19,839; female 19,333) |
+| | *15-64 years:* 57% (male 27,705; female 28,438) |
+| | *65 years and over:* 3.3% (male 1,385; female 1,849) (2003 est.) |
+| **Korea, North** | *0-14 years:* 25% (male 2,845,727; female 2,763,800) |
+| | *15-64 years:* 67.8% (male 7,485,310; female 7,746,603) |
+| | *65 years and over:* 7.2% (male 541,155; female 1,083,886) (2003 est.) |
+| **Korea, South** | *0-14 years:* 20.6% (male 5,256,451; female 4,703,853) |
+| | *15-64 years:* 71.5% (male 17,527,407; female 16,991,229) |
+| | *65 years and over:* 7.9% (male 1,512,157; female 2,297,940) (2003 est.) |
+| **Kuwait** | *0-14 years:* 27.9% (male 310,008; female 298,474) |
+| | *15-64 years:* 69.5% (male 970,282; female 547,753) |
+| | *65 years and over:* 2.6% (male 36,306; female 20,338) (2003 est.) |
+| **Kyrgyzstan** | *0-14 years:* 33.8% (male 836,593; female 819,615) |
+| | *15-64 years:* 59.9% (male 1,436,371; female 1,492,884) |
+| | *65 years and over:* 6.3% (male 117,405; female 189,940) (2003 est.) |
+| **Laos** | *0-14 years:* 42.2% (male 1,255,172; female 1,242,823) |
+| | *15-64 years:* 54.6% (male 1,592,697; female 1,639,431) |
+| | *65 years and over:* 3.2% (male 87,192; female 104,230) (2003 est.) |
+| **Latvia** | *0-14 years:* 15.1% (male 180,976; female 172,988) |
+| | *15-64 years:* 68.9% (male 774,133; female 844,856) |
+| | *65 years and over:* 16% (male 122,850; female 252,981) (2003 est.) |
+| **Lebanon** | *0-14 years:* 27.1% (male 514,447; female 494,166) |
+| | *15-64 years:* 66.1% (male 1,177,773; female 1,286,433) |
+| | *65 years and over:* 6.8% (male 115,693; female 139,191) (2003 est.) |
+| **Lesotho** | *0-14 years:* 37.7% (male 353,554; female 349,092) |
+| | *15-64 years:* 56.8% (male 516,017; female 541,694) |
+| | *65 years and over:* 5.5% (male 41,735; female 59,867) (2003 est.) |
+| **Liberia** | *0-14 years:* 43.4% (male 724,960; female 716,831) |
+| | *15-64 years:* 53% (male 858,191; female 898,851) |
+| | *65 years and over:* 3.6% (male 59,539; female 58,804) (2003 est.) |
+| **Libya** | *0-14 years:* 34.5% (male 970,026; female 929,174) |
+| | *15-64 years:* 61.4% (male 1,744,992; female 1,630,399) |
+| | *65 years and over:* 4.1% (male 109,262; female 115,221) (2003 est.) |
+| **Liechtenstein** | *0-14 years:* 18.1% (male 2,979; female 3,008) |
+| | *15-64 years:* 70.6% (male 11,646; female 11,740) |
+| | *65 years and over:* 11.3% (male 1,538; female 2,234) (2003 est.) |
+| **Lithuania** | *0-14 years:* 17.6% (male 323,776; female 310,087) |
+| | *15-64 years:* 68.4% (male 1,188,171; female 1,268,035) |
+| | *65 years and over:* 14% (male 169,513; female 332,979) (2003 est.) |
+| **Luxembourg** | *0-14 years:* 18.9% (male 44,182; female 41,640) |
+| | *15-64 years:* 66.9% (male 152,963; female 151,061) |
+| | *65 years and over:* 14.2% (male 26,060; female 38,251) (2003 est.) |
+| **Macau** | *0-14 years:* 20.9% (male 51,078; female 47,118) |
+| | *15-64 years:* 71.8% (male 159,500; female 178,043) |
+| | *65 years and over:* 7.3% (male 13,930; female 20,234) (2003 est.) |
+| **Macedonia, The Former Yugoslav Republic of** | *0-14 years:* 21.9% (male 235,102; female 217,574) |
+| | *15-64 years:* 67.5% (male 700,929; female 691,552) |
+| | *65 years and over:* 10.6% (male 96,039; female 121,926) (2003 est.) |
+| **Madagascar** | *0-14 years:* 45% (male 3,822,823; female 3,807,958) |
+| | *15-64 years:* 51.9% (male 4,366,748; female 4,452,686) |
+| | *65 years and over:* 3.1% (male 243,411; female 286,118) (2003 est.) |
+| **Malawi** | *0-14 years:* 46.8% (male 2,748,058; female 2,698,052) |
+| | *15-64 years:* 50.5% (male 2,911,892; female 2,973,723) |
+| | *65 years and over:* 2.7% (male 128,722; female 190,792) (2003 est.) |
+| **Malaysia** | *0-14 years:* 33.7% (male 4,001,507; female 3,777,896) |
+| | *15-64 years:* 61.9% (male 7,163,252; female 7,131,745) |
+| | *65 years and over:* 4.4% (male 447,230; female 571,310) (2003 est.) |
+| **Maldives** | *0-14 years:* 44.9% (male 75,991; female 71,826) |
+| | *15-64 years:* 52.1% (male 87,734; female 84,150) |
+| | *65 years and over:* 3% (male 5,073; female 4,910) (2003 est.) |
+| **Mali** | *0-14 years:* 47.2% (male 2,759,802; female 2,727,226) |
+| | *15-64 years:* 49.8% (male 2,771,532; female 3,017,348) |
+| | *65 years and over:* 3% (male 161,983; female 188,328) (2003 est.) |
+| **Malta** | *0-14 years:* 19.5% (male 40,448; female 37,623) |
+| | *15-64 years:* 67.5% (male 136,221; female 134,142) |
+| | *65 years and over:* 13% (male 21,730; female 30,256) (2003 est.) |
+| **Man, Isle of** | *0-14 years:* 17.5% (male 6,637; female 6,337) |
+| | *15-64 years:* 65.4% (male 24,373; female 24,165) |
+| | *65 years and over:* 17.1% (male 5,102; female 7,647) (2003 est.) |
+| **Marshall Islands** | *0-14 years:* 39.1% (male 11,233; female 10,819) |
+| | *15-64 years:* 58.2% (male 16,857; female 16,003) |
+| | *65 years and over:* 2.7% (male 726; female 791) (2003 est.) |
+| **Martinique** | *0-14 years:* 22.8% (male 49,310; female 47,908) |
+| | *15-64 years:* 66.9% (male 142,242; female 142,688) |
+| | *65 years and over:* 10.3% (male 19,656; female 24,162) (2003 est.) |
+| **Mauritania** | *0-14 years:* 46% (male 671,080; female 668,408) |
+| | *15-64 years:* 51.8% (male 743,573; female 764,358) |
+| | *65 years and over:* 2.2% (male 26,669; female 38,496) (2003 est.) |
+| **Mauritius** | *0-14 years:* 25.1% (male 153,401; female 150,399) |
+| | *15-64 years:* 68.5% (male 413,660; female 415,534) |
+| | *65 years and over:* 6.4% (male 30,673; female 46,780) (2003 est.) |
+| **Mayotte** | *0-14 years:* 46.5% (male 41,632; female 41,301) |
+| | *15-64 years:* 51.8% (male 50,373; female 42,118) |
+| | *65 years and over:* 1.7% (male 1,502; female 1,511) (2003 est.) |
+| **Mexico** | *0-14 years:* 32.3% (male 17,298,964; female 16,617,728) |
+| | *15-64 years:* 63.1% (male 32,217,513; female 33,932,603) |
+| | *65 years and over:* 4.6% (male 2,145,252; female 2,695,931) (2003 est.) |
+| **Micronesia, Federated States of** | *0-14 years:* 38.4% (male 21,163; female 20,335) |
+| | *15-64 years:* 58.5% (male 31,746; female 31,477) |
+| | *65 years and over:* 3.2% (male 1,558; female 1,864) (2003 est.) |
+| **Moldova** | *0-14 years:* 21.1% (male 477,063; female 459,992) |
+| | *15-64 years:* 68.7% (male 1,465,248; female 1,584,402) |
+| | *65 years and over:* 10.2% (male 168,068; female 284,729) (2003 est.) |
+| **Monaco** | *0-14 years:* 15.5% (male 2,551; female 2,445) |
+| | *15-64 years:* 62.1% (male 9,814; female 10,130) |
+| | *65 years and over:* 22.4% (male 2,937; female 4,253) (2003 est.) |
+| **Mongolia** | *0-14 years:* 30.7% (male 423,081; female 408,119) |
+| | *15-64 years:* 65.7% (male 890,482; female 892,140) |
+| | *65 years and over:* 3.6% (male 42,292; female 56,201) (2003 est.) |
+| **Montserrat** | *0-14 years:* 23.4% (male 1,062; female 1,041) |
+| | *15-64 years:* 65.3% (male 2,805; female 3,066) |
+| | *65 years and over:* 11.4% (male 537; female 484) (2003 est.) |
+| **Morocco** | *0-14 years:* 33.2% (male 5,360,666; female 5,162,168) |
+| | *15-64 years:* 62% (male 9,766,222; female 9,876,647) |
+| | *65 years and over:* 4.8% (male 676,357; female 847,205) (2003 est.) |
+| **Mozambique** | *0-14 years:* 42.1% (male 3,634,173; female 3,725,396) |
+| | *15-64 years:* 55.3% (male 4,712,891; female 4,945,123) |
+| | *65 years and over:* 2.6% (male 189,778; female 271,905) (2003 est.) |
+| **Namibia** | *0-14 years:* 42.5% (male 414,559; female 404,346) |
+| | *15-64 years:* 54% (male 517,469; female 522,549) |
+| | *65 years and over:* 3.5% (male 30,038; female 38,486) (2003 est.) |
+| **Nauru** | *0-14 years:* 38.9% (male 2,517; female 2,368) |
+| | *15-64 years:* 59.3% (male 3,681; female 3,779) |
+| | *65 years and over:* 1.8% (male 116; female 109) (2003 est.) |
+| **Nepal** | *0-14 years:* 39.7% (male 5,424,396; female 5,080,171) |
+| | *15-64 years:* 56.7% (male 7,692,134; female 7,320,059) |
+| | *65 years and over:* 3.6% (male 468,697; female 484,112) (2003 est.) |
+| **Netherlands** | *0-14 years:* 18.2% (male 1,501,127; female 1,436,453) |
+| | *15-64 years:* 67.9% (male 5,576,141; female 5,389,764) |
+| | *65 years and over:* 13.9% (male 929,087; female 1,317,939) (2003 est.) |
+| **Netherlands Antilles** | *0-14 years:* 24.7% (male 27,383; female 26,122) |
+| | *15-64 years:* 67.1% (male 69,233; female 75,956) |
+| | *65 years and over:* 8.1% (male 7,244; female 10,288) (2003 est.) |
+| **New Caledonia** | *0-14 years:* 29.7% (male 31,990; female 30,695) |
+| | *15-64 years:* 64.2% (male 68,093; female 67,205) |
+| | *65 years and over:* 6.1% (male 6,016; female 6,799) (2003 est.) |
+| **New Zealand** | *0-14 years:* 21.9% (male 443,837; female 423,118) |
+| | *15-64 years:* 66.5% (male 1,318,751; female 1,307,796) |
+| | *65 years and over:* 11.6% (male 199,722; female 258,083) (2003 est.) |
+| **Nicaragua** | *0-14 years:* 37.7% (male 984,719; female 949,282) |
+| | *15-64 years:* 59.2% (male 1,510,352; female 1,527,991) |
+| | *65 years and over:* 3% (male 68,332; female 87,841) (2003 est.) |
+| **Niger** | *0-14 years:* 47.6% (male 2,686,169; female 2,581,785) |
+| | *15-64 years:* 50.2% (male 2,710,554; female 2,842,319) |
+| | *65 years and over:* 2.2% (male 125,505; female 112,258) (2003 est.) |
+| **Nigeria** | *0-14 years:* 43.6% (male 29,322,774; female 28,990,702) |
+| | *15-64 years:* 53.6% (male 36,513,700; female 35,254,333) |
+| | *65 years and over:* 2.8% (male 1,890,043; female 1,910,151) (2003 est.) |
+| **Niue** | *0-14 years:* NA% |
+| | *15-64 years:* NA% |
+| | *65 years and over:* NA% (2003 est.) |
+| **Norfolk Island** | *0-14 years:* 20.2% |
+| | *15-64 years:* 63.9% |
+| | *65 years and over:* 15.9% (2003 est.) |
+| **Northern Mariana Islands** | *0-14 years:* 23.3% (male 9,483; female 9,168) |
+| | *15-64 years:* 74.8% (male 27,839; female 32,041) |
+| | *65 years and over:* 1.8% (male 748; female 727) (2003 est.) |
+| **Norway** | *0-14 years:* 19.9% (male 465,320; female 439,095) |
+| | *15-64 years:* 65.2% (male 1,501,608; female 1,462,590) |
+| | *65 years and over:* 14.9% (male 281,554; female 395,956) (2003 est.) |
+| **Oman** | *0-14 years:* 42.2% (male 603,664; female 580,469) |
+| | *15-64 years:* 55.4% (male 934,621; female 620,158) |
+| | *65 years and over:* 2.4% (male 36,504; female 31,709) (2003 est.) |
+| **Pakistan** | *0-14 years:* 39.3% (male 30,463,958; female 28,726,776) |
+| | *15-64 years:* 56.5% (male 43,571,093; female 41,651,872) |
+| | *65 years and over:* 4.2% (male 3,051,674; female 3,229,367) (2003 est.) |
+| **Palau** | *0-14 years:* 26.7% (male 2,714; female 2,552) |
+| | *15-64 years:* 68.7% (male 7,352; female 6,197) |
+| | *65 years and over:* 4.6% (male 429; female 473) (2003 est.) |
+| **Panama** | *0-14 years:* 30.6% (male 461,670; female 443,671) |
+| | *15-64 years:* 63.3% (male 950,089; female 924,038) |
+| | *65 years and over:* 6.1% (male 86,006; female 95,310) (2003 est.) |
+| **Papua New Guinea** | *0-14 years:* 38.4% (male 1,034,219; female 1,000,505) |
+| | *15-64 years:* 57.8% (male 1,582,983; female 1,479,436) |
+| | *65 years and over:* 3.8% (male 93,604; female 105,069) (2003 est.) |
+| **Paraguay** | *0-14 years:* 38.4% (male 1,179,084; female 1,141,420) |
+| | *15-64 years:* 56.8% (male 1,721,867; female 1,707,918) |
+| | *65 years and over:* 4.7% (male 132,145; female 154,466) (2003 est.) |
+| **Peru** | *0-14 years:* 33.5% (male 4,828,531; female 4,678,008) |
+| | *15-64 years:* 61.5% (male 8,794,799; female 8,689,072) |
+| | *65 years and over:* 5% (male 652,375; female 767,112) (2003 est.) |
+| **Philippines** | *0-14 years:* 36.2% (male 15,625,480; female 15,028,498) |
+| | *15-64 years:* 59.9% (male 25,206,467; female 25,485,482) |
+| | *65 years and over:* 3.9% (male 1,427,238; female 1,846,809) (2003 est.) |
+| **Pitcairn Islands** | *0-14 years:* NA% |
+| | *15-64 years:* NA% |
+| | *65 years and over:* NA% (2003 est.) |
+| **Poland** | *0-14 years:* 17.5% (male 3,458,844; female 3,284,995) |
+| | *15-64 years:* 69.8% (male 13,407,012; female 13,547,728) |
+| | *65 years and over:* 12.7% (male 1,879,445; female 3,044,636) (2003 est.) |
+| **Portugal** | *0-14 years:* 16.8% (male 874,198; female 825,742) |
+| | *15-64 years:* 67.2% (male 3,326,957; female 3,461,425) |
+| | *65 years and over:* 16% (male 651,697; female 962,003) (2003 est.) |
+| **Puerto Rico** | *0-14 years:* 22.9% (male 454,908; female 434,555) |
+| | *15-64 years:* 65.2% (male 1,212,764; female 1,322,356) |
+| | *65 years and over:* 11.9% (male 200,669; female 260,625) (2003 est.) |
+| **Qatar** | *0-14 years:* 24.7% (male 102,938; female 98,934) |
+| | *15-64 years:* 72.4% (male 415,302; female 176,183) |
+| | *65 years and over:* 2.9% (male 17,199; female 6,496) (2003 est.) |
+| **Reunion** | *0-14 years:* 31.3% (male 121,119; female 115,501) |
+| | *15-64 years:* 62.8% (male 233,607; female 240,502) |
+| | *65 years and over:* 5.9% (male 18,036; female 26,406) (2003 est.) |
+| **Romania** | *0-14 years:* 16.9% (male 1,932,204; female 1,838,240) |
+| | *15-64 years:* 69% (male 7,634,481; female 7,739,232) |
+| | *65 years and over:* 14% (male 1,290,343; female 1,837,339) (2003 est.) |
+| **Russia** | *0-14 years:* 16% (male 11,815,360; female 11,335,715) |
+| | *15-64 years:* 70.4% (male 49,399,322; female 52,367,194) |
+| | *65 years and over:* 13.6% (male 6,394,411; female 13,214,276) (2003 est.) |
+| **Rwanda** | *0-14 years:* 42.5% (male 1,667,128; female 1,651,422) |
+| | *15-64 years:* 54.8% (male 2,128,495; female 2,148,694) |
+| | *65 years and over:* 2.7% (male 85,576; female 128,741) (2003 est.) |
+| **Saint Helena** | *0-14 years:* 18.9% (male 704; female 685) |
+| | *15-64 years:* 71.6% (male 2,732; female 2,545) |
+| | *65 years and over:* 9.5% (male 309; female 392) (2003 est.) |
+| **Saint Kitts and Nevis** | *0-14 years:* 29% (male 5,754; female 5,499) |
+| | *15-64 years:* 62.4% (male 12,098; female 12,105) |
+| | *65 years and over:* 8.5% (male 1,365; female 1,942) (2003 est.) |
+| **Saint Lucia** | *0-14 years:* 31.1% (male 25,883; female 24,569) |
+| | *15-64 years:* 63.7% (male 50,711; female 52,508) |
+| | *65 years and over:* 5.2% (male 3,147; female 5,339) (2003 est.) |
+| **Saint Pierre and Miquelon** | *0-14 years:* 25% (male 891; female 851) |
+| | *15-64 years:* 64.7% (male 2,306; female 2,210) |
+| | *65 years and over:* 10.3% (male 310; female 408) (2003 est.) |
+| **Saint Vincent and the Grenadines** | *0-14 years:* 28.2% (male 16,755; female 16,163) |
+| | *15-64 years:* 65.5% (male 39,308; female 37,149) |
+| | *65 years and over:* 6.4% (male 3,215; female 4,222) (2003 est.) |
+| **Samoa** | *0-14 years:* 29.4% (male 26,613; female 25,715) |
+| | *15-64 years:* 64.6% (male 72,135; female 42,903) |
+| | *65 years and over:* 6.1% (male 4,980; female 5,827) (2003 est.) |
+| **San Marino** | *0-14 years:* 16.3% (male 2,364; female 2,220) |
+| | *15-64 years:* 67.1% (male 9,149; female 9,731) |
+| | *65 years and over:* 16.6% (male 2,009; female 2,646) (2003 est.) |
+| **Sao Tome and Principe** | *0-14 years:* 47.7% (male 42,480; female 41,411) |
+| | *15-64 years:* 48.3% (male 41,043; female 43,986) |
+| | *65 years and over:* 4% (male 3,197; female 3,766) (2003 est.) |
+| **Saudi Arabia** | *0-14 years:* 42.3% (male 5,245,413; female 5,028,595) |
+| | *15-64 years:* 54.8% (male 7,700,121; female 5,622,099) |
+| | *65 years and over:* 2.9% (male 393,173; female 304,443) (2003 est.) |
+| **Senegal** | *0-14 years:* 43.7% (male 2,330,395; female 2,289,706) |
+| | *15-64 years:* 53.3% (male 2,707,195; female 2,929,998) |
+| | *65 years and over:* 3% (male 156,514; female 166,499) (2003 est.) |
+| **Serbia and Montenegro** | *0-14 years:* 19.3% (male 1,062,625; female 990,071) |
+| | *15-64 years:* 65.4% (male 3,422,543; female 3,548,058) |
+| | *65 years and over:* 15.3% (male 696,716; female 935,761) (2003 est.) |
+| **Seychelles** | *0-14 years:* 27.3% (male 11,116; female 10,844) |
+| | *15-64 years:* 66.5% (male 26,068; female 27,425) |
+| | *65 years and over:* 6.2% (male 1,654; female 3,362) (2003 est.) |
+| **Sierra Leone** | *0-14 years:* 44.8% (male 1,259,421; female 1,310,516) |
+| | *15-64 years:* 52% (male 1,420,900; female 1,557,597) |
+| | *65 years and over:* 3.2% (male 89,078; female 95,169) (2003 est.) |
+| **Singapore** | *0-14 years:* 17.3% (male 411,656; female 385,575) |
+| | *15-64 years:* 75.5% (male 1,687,217; female 1,793,783) |
+| | *65 years and over:* 7.2% (male 144,277; female 186,087) (2003 est.) |
+| **Slovakia** | *0-14 years:* 17.8% (male 495,316; female 471,823) |
+| | *15-64 years:* 70.5% (male 1,903,335; female 1,924,065) |
+| | *65 years and over:* 11.7% (male 238,912; female 396,582) (2003 est.) |
+| **Slovenia** | *0-14 years:* 15.3% (male 152,341; female 144,189) |
+| | *15-64 years:* 70% (male 687,939; female 666,194) |
+| | *65 years and over:* 14.7% (male 105,837; female 179,177) (2003 est.) |
+| **Solomon Islands** | *0-14 years:* 42.9% (male 111,333; female 107,062) |
+| | *15-64 years:* 54% (male 139,072; female 135,721) |
+| | *65 years and over:* 3.1% (male 7,754; female 8,248) (2003 est.) |
+| **Somalia** | *0-14 years:* 44.8% (male 1,802,154; female 1,792,749) |
+| | *15-64 years:* 52.5% (male 2,120,934; female 2,093,699) |
+| | *65 years and over:* 2.7% (male 93,682; female 121,972) (2003 est.) |
+| **South Africa** | *0-14 years:* 30% (male 6,460,273; female 6,377,090) |
+| | *15-64 years:* 65% (male 13,807,922; female 13,970,088) |
+| | *65 years and over:* 5% (male 864,441; female 1,288,864) (2003 est.) |
+| **Spain** | *0-14 years:* 14.4% (male 2,985,705; female 2,808,791) |
+| | *15-64 years:* 68% (male 13,721,053; female 13,626,121) |
+| | *65 years and over:* 17.6% (male 2,962,646; female 4,113,097) (2003 est.) |
+| **Sri Lanka** | *0-14 years:* 25.2% (male 2,543,336; female 2,431,223) |
+| | *15-64 years:* 67.9% (male 6,518,145; female 6,890,424) |
+| | *65 years and over:* 6.9% (male 641,708; female 717,603) (2003 est.) |
+| **Sudan** | *0-14 years:* 44% (male 8,562,412; female 8,195,201) |
+| | *15-64 years:* 53.8% (male 10,260,581; female 10,246,045) |
+| | *65 years and over:* 2.2% (male 468,898; female 381,023) (2003 est.) |
+| **Suriname** | *0-14 years:* 30.7% (male 68,536; female 65,165) |
+| | *15-64 years:* 63.3% (male 141,048; female 134,699) |
+| | *65 years and over:* 6% (male 11,686; female 14,315) (2003 est.) |
+| **Svalbard** | *0-14 years:* NA% |
+| | *15-64 years:* NA% |
+| | *65 years and over:* NA% (2003 est.) |
+| **Swaziland** | *0-14 years:* 41.4% (male 242,762; female 238,141) |
+| | *15-64 years:* 55.1% (male 317,526; female 321,709) |
+| | *65 years and over:* 3.5% (male 18,040; female 23,041) (2003 est.) |
+| **Sweden** | *0-14 years:* 17.7% (male 804,296; female 763,213) |
+| | *15-64 years:* 65% (male 2,933,183; female 2,835,835) |
+| | *65 years and over:* 17.3% (male 654,575; female 886,983) (2003 est.) |
+| **Switzerland** | *0-14 years:* 16.6% (male 623,428; female 591,709) |
+| | *15-64 years:* 67.8% (male 2,519,302; female 2,439,560) |
+| | *65 years and over:* 15.6% (male 470,257; female 674,382) (2003 est.) |
+| **Syria** | *0-14 years:* 38.6% (male 3,494,473; female 3,290,699) |
+| | *15-64 years:* 58.2% (male 5,238,026; female 4,991,588) |
+| | *65 years and over:* 3.2% (male 274,744; female 296,010) (2003 est.) |
+| **Taiwan** | *0-14 years:* 20.1% (male 2,366,560; female 2,175,886) |
+| | *15-64 years:* 70.6% (male 8,095,741; female 7,871,954) |
+| | *65 years and over:* 9.3% (male 1,074,112; female 1,018,747) (2003 est.) |
+| **Tajikistan** | *0-14 years:* 39.8% (male 1,376,244; female 1,353,108) |
+| | *15-64 years:* 55.5% (male 1,896,509; female 1,915,334) |
+| | *65 years and over:* 4.7% (male 140,993; female 181,564) (2003 est.) |
+| **Tanzania** | *0-14 years:* 44.3% (male 7,988,898; female 7,938,979) |
+| | *15-64 years:* 53.1% (male 9,429,959; female 9,634,102) |
+| | *65 years and over:* 2.6% (male 405,803; female 524,713) (2003 est.) |
+| **Thailand** | *0-14 years:* 24.2% (male 7,955,597; female 7,604,652) |
+| | *15-64 years:* 68.8% (male 21,819,445; female 22,362,085) |
+| | *65 years and over:* 7% (male 2,081,768; female 2,441,729) (2003 est.) |
+| **Togo** | *0-14 years:* 44.5% (male 1,211,252; female 1,203,564) |
+| | *15-64 years:* 53% (male 1,404,763; female 1,473,360) |
+| | *65 years and over:* 2.5% (male 57,535; female 78,825) (2003 est.) |
+| **Tokelau** | *0-14 years:* 42% |
+| | *15-64 years:* 53% |
+| | *65 years and over:* 5% (2003 est.) |
+| **Tonga** | *0-14 years:* 38.2% (male 21,085; female 20,265) |
+| | *15-64 years:* 57.6% (male 30,785; female 31,532) |
+| | *65 years and over:* 4.1% (male 1,973; female 2,501) (2003 est.) |
+| **Trinidad and Tobago** | *0-14 years:* 22.2% (male 125,470; female 119,270) |
+| | *15-64 years:* 70% (male 402,137; female 370,600) |
+| | *65 years and over:* 7.9% (male 38,928; female 47,804) (2003 est.) |
+| **Tunisia** | *0-14 years:* 27% (male 1,388,839; female 1,297,313) |
+| | *15-64 years:* 66.6% (male 3,306,782; female 3,299,883) |
+| | *65 years and over:* 6.4% (male 309,103; female 322,822) (2003 est.) |
+| **Turkey** | *0-14 years:* 27.2% (male 9,422,242; female 9,082,840) |
+| | *15-64 years:* 66.4% (male 22,978,251; female 22,243,477) |
+| | *65 years and over:* 6.4% (male 2,013,926; female 2,368,733) (2003 est.) |
+| **Turkmenistan** | *0-14 years:* 36.8% (male 899,954; female 855,293) |
+| | *15-64 years:* 59.2% (male 1,386,606; female 1,438,333) |
+| | *65 years and over:* 4.1% (male 74,958; female 120,400) (2003 est.) |
+| **Turks and Caicos Islands** | *0-14 years:* 32.5% (male 3,202; female 3,094) |
+| | *15-64 years:* 63.7% (male 6,484; female 5,848) |
+| | *65 years and over:* 3.7% (male 321; female 401) (2003 est.) |
+| **Tuvalu** | *0-14 years:* 31.9% (male 1,838; female 1,772) |
+| | *15-64 years:* 63% (male 3,432; female 3,687) |
+| | *65 years and over:* 5.1% (male 231; female 345) (2003 est.) |
+| **Uganda** | *0-14 years:* 50.8% (male 6,528,724; female 6,486,736) |
+| | *15-64 years:* 46.8% (male 5,985,911; female 6,024,798) |
+| | *65 years and over:* 2.4% (male 266,930; female 339,695) (2003 est.) |
+| **Ukraine** | *0-14 years:* 16.3% (male 4,004,948; female 3,832,931) |
+| | *15-64 years:* 68.7% (male 15,779,735; female 17,225,103) |
+| | *65 years and over:* 15% (male 2,419,612; female 4,793,110) (2003 est.) |
+| **United Arab Emirates** | *0-14 years:* 26.7% (male 338,245; female 324,866) |
+| | *15-64 years:* 70.4% (male 1,087,927; female 661,349) |
+| | *65 years and over:* 2.9% (male 52,059; female 20,372) (2003 est.) |
+| **United Kingdom** | *0-14 years:* 18.3% (male 5,621,590; female 5,350,319) |
+| | *15-64 years:* 66.1% (male 20,067,529; female 19,626,123) |
+| | *65 years and over:* 15.6% (male 3,987,457; female 5,441,630) (2003 est.) |
+| **United States** | *0-14 years:* 20.9% (male 31,098,473; female 29,675,712) |
+| | *15-64 years:* 66.7% (male 96,628,469; female 97,061,559) |
+| | *65 years and over:* 12.4% (male 14,888,185; female 20,990,156) (2003 est.) |
+| **Uruguay** | *0-14 years:* 24.3% (male 425,642; female 404,987) |
+| | *15-64 years:* 62.6% (male 1,057,187; female 1,079,549) |
+| | *65 years and over:* 13.1% (male 182,696; female 263,268) (2003 est.) |
+| **Uzbekistan** | *0-14 years:* 34.7% (male 4,594,721; female 4,431,653) |
+| | *15-64 years:* 60.5% (male 7,781,739; female 7,945,641) |
+| | *65 years and over:* 4.7% (male 497,692; female 730,201) (2003 est.) |
+| **Vanuatu** | *0-14 years:* 34.8% (male 35,499; female 33,992) |
+| | *15-64 years:* 61.8% (male 63,021; female 60,149) |
+| | *65 years and over:* 3.4% (male 3,605; female 3,148) (2003 est.) |
+| **Venezuela** | *0-14 years:* 31% (male 3,944,749; female 3,700,799) |
+| | *15-64 years:* 64.1% (male 7,931,194; female 7,864,697) |
+| | *65 years and over:* 4.9% (male 552,291; female 660,964) (2003 est.) |
+| **Vietnam** | *0-14 years:* 30.2% (male 12,699,002; female 11,967,674) |
+| | *15-64 years:* 64.2% (male 25,776,600; female 26,599,005) |
+| | *65 years and over:* 5.6% (male 1,902,464; female 2,679,971) (2003 est.) |
+| **Virgin Islands** | *0-14 years:* 26% (male 16,685; female 15,794) |
+| | *15-64 years:* 64.4% (male 36,241; female 44,157) |
+| | *65 years and over:* 9.5% (male 5,078; female 6,823) (2003 est.) |
+| **Wallis and Futuna** | *0-14 years:* NA% |
+| | *15-64 years:* NA% |
+| | *65 years and over:* NA% (2003 est.) |
+| **West Bank** | *0-14 years:* 44.1% (male 505,880; female 481,369) |
+| | *15-64 years:* 52.4% (male 598,992; female 572,511) |
+| | *65 years and over:* 3.5% (male 33,688; female 44,754) (2003 est.) |
+| **Western Sahara** | *0-14 years:* NA% |
+| | *15-64 years:* NA% |
+| | *65 years and over:* NA% (2003 est.) |
+| **World** | *0-14 years:* 29.2% (male 932,581,592; female 885,688,851) |
+| | *15-64 years:* 63.7% (male 2,009,997,089; female 1,964,938,201) |
+| | *65 years and over:* 7.1% (male 193,549,180; female 247,067,032) (2003 est.) |
+| | *note:* some countries do not maintain age structure information, thus a slight discrepancy exists between the total world population and the total for world age structure |
+| **Yemen** | *0-14 years:* 46.8% (male 4,606,110; female 4,446,229) |
+| | *15-64 years:* 50.4% (male 4,972,946; female 4,778,034) |
+| | *65 years and over:* 2.8% (male 272,921; female 273,641) (2003 est.) |
+| **Zambia** | *0-14 years:* 46.3% (male 2,396,313; female 2,378,567) |
+| | *15-64 years:* 50.9% (male 2,626,961; female 2,621,818) |
+| | *65 years and over:* 2.8% (male 131,196; female 152,478) (2003 est.) |
+| **Zimbabwe** | *0-14 years:* 39.7% (male 2,517,608; female 2,471,342) |
+| | *15-64 years:* 56.8% (male 3,600,832; female 3,542,497) |
+| | *65 years and over:* 3.5% (male 224,631; female 219,832) (2003 est.) |
+
+This page was last updated on 18 December, 2003
+ 

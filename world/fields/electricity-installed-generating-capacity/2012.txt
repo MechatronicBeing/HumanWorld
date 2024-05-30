@@ -1,0 +1,216 @@
+CIA - The World Factbook -- Field Listing :: Electricity - installed generating capacity   
+
+This entry is the total capacity of currently installed generators, expressed in kilowatts (kW), to produce electricity. A 10-kilowatt (kW) generator will produce 10 kilowatt hours (kWh) of electricity, if it runs continuously for one hour.
+
+| Country | Electricity - installed generating capacity(kW) |
+| --- | --- |
+| **Afghanistan** | 489,100 kW (2009 est.) |
+| **Albania** | 1.61 million kW (2009 est.) |
+| **Algeria** | 10.38 million kW (2009 est.) |
+| **American Samoa** | 60,000 kW (2009 est.) |
+| **Angola** | 1.155 million kW (2009 est.) |
+| **Antigua and Barbuda** | 27,000 kW (2009 est.) |
+| **Argentina** | 32.07 million kW (2009 est.) |
+| **Armenia** | 3.173 million kW (2009 est.) |
+| **Aruba** | 266,000 kW (2009 est.) |
+| **Australia** | 56.94 million kW (2009 est.) |
+| **Austria** | 21.11 million kW (2010 est.) |
+| **Azerbaijan** | 5.798 million kW (2009 est.) |
+| **Bahamas, The** | 493,000 kW (2009 est.) |
+| **Bahrain** | 3.168 million kW (2009 est.) |
+| **Bangladesh** | 5.819 million kW (2009 est.) |
+| **Barbados** | 239,100 kW (2009 est.) |
+| **Belarus** | 8.032 million kW (2009 est.) |
+| **Belgium** | 17.5 million kW (2009 est.) |
+| **Belize** | 102,100 kW (2009 est.) |
+| **Benin** | 60,000 kW (2009 est.) |
+| **Bermuda** | 165,000 kW (2009 est.) |
+| **Bhutan** | 1.505 million kW (2009 est.) |
+| **Bolivia** | 1.539 million kW (2009 est.) |
+| **Bosnia and Herzegovina** | 4.341 million kW (2009 est.) |
+| **Botswana** | 132,000 kW (2009 est.) |
+| **Brazil** | 106.2 million kW (2010 est.) |
+| **British Virgin Islands** | 10,000 kW (2009 est.) |
+| **Brunei** | 759,000 kW (2009 est.) |
+| **Bulgaria** | 12 million kW (2010 est.) |
+| **Burkina Faso** | 252,000 kW (2009 est.) |
+| **Burma** | 1.86 million kW (2009 est.) |
+| **Burundi** | 52,000 kW (2009 est.) |
+| **Cambodia** | 390,900 kW (2009 est.) |
+| **Cameroon** | 1.115 million kW (2009 est.) |
+| **Canada** | 131.5 million kW (2009 est.) |
+| **Cape Verde** | 89,800 kW (2009 est.) |
+| **Cayman Islands** | 152,600 kW (2009 est.) |
+| **Central African Republic** | 46,000 kW (2009 est.) |
+| **Chad** | 31,000 kW (2009 est.) |
+| **Chile** | 15.52 million kW (2009 est.) |
+| **China** | 1.056 billion kW (2011 est.) |
+| **Colombia** | 13.54 million kW (2009 est.) |
+| **Comoros** | 6,000 kW (2009 est.) |
+| **Congo, Democratic Republic of the** | 2.475 million kW (2009 est.) |
+| **Congo, Republic of the** | 148,000 kW (2009 est.) |
+| **Cook Islands** | 8,090 kW (2009 est.) |
+| **Costa Rica** | 2.49 million kW (2009 est.) |
+| **Cote d'Ivoire** | 1.222 million kW (2009 est.) |
+| **Croatia** | 4.021 million kW (2009 est.) |
+| **Cuba** | 5.522 million kW (2009 est.) |
+| **Cyprus** | 1.392 million kW (2009 est.) |
+| **Czech Republic** | 18.32 million kW (2009 est.) |
+| **Denmark** | 13.42 million kW (2009 est.) |
+| **Djibouti** | 130,000 kW (2009 est.) |
+| **Dominica** | 22,200 kW (2009 est.) |
+| **Dominican Republic** | 2.973 million kW (2009 est.) |
+| **Ecuador** | 4.939 million kW (2009 est.) |
+| **Egypt** | 24.67 million kW (2009 est.) |
+| **El Salvador** | 1.501 million kW (2009 est.) |
+| **Equatorial Guinea** | 31,000 kW (2009 est.) |
+| **Eritrea** | 139,000 kW (2009 est.) |
+| **Estonia** | 2.661 million kW (2009 est.) |
+| **Ethiopia** | 1.18 million kW (2009 est.) |
+| **Falkland Islands (Islas Malvinas)** | 10,000 kW (2009 est.) |
+| **Faroe Islands** | 100,100 kW (2009 est.) |
+| **Fiji** | 219,100 kW (2009 est.) |
+| **Finland** | 16.32 million kW (2009 est.) |
+| **France** | 119.1 million kW (2009 est.) |
+| **French Polynesia** | 140,000 kW (2009 est.) |
+| **Gabon** | 415,000 kW (2009 est.) |
+| **Gambia, The** | 53,000 kW (2009 est.) |
+| **Georgia** | 4.538 million kW (2009 est.) |
+| **Germany** | 153.2 million kW (2010 est.) |
+| **Ghana** | 1.985 million kW (2009 est.) |
+| **Gibraltar** | 36,000 kW (2009 est.) |
+| **Greece** | 14.36 million kW (2009 est.) |
+| **Greenland** | 137,000 kW (2009 est.) |
+| **Grenada** | 33,000 kW (2009 est.) |
+| **Guam** | 553,000 kW (2009 est.) |
+| **Guatemala** | 2.673 million kW (2009 est.) |
+| **Guinea** | 393,000 kW (2009 est.) |
+| **Guinea-Bissau** | 21,000 kW (2009 est.) |
+| **Guyana** | 343,000 kW (2009 est.) |
+| **Haiti** | 240,000 kW (2009 est.) |
+| **Honduras** | 1.697 million kW (2009 est.) |
+| **Hong Kong** | 12.62 million kW (2009 est.) |
+| **Hungary** | 9.9 million kW (2011 est.) |
+| **Iceland** | 2.571 million kW (2009 est.) |
+| **India** | 189.3 million kW (2009 est.) |
+| **Indonesia** | 32.8 million kW (2009 est.) |
+| **Iran** | 56.17 million kW (2009 est.) |
+| **Iraq** | 10.11 million kW (2012 est.) |
+| **Ireland** | 7.401 million kW (2009 est.) |
+| **Israel** | 12.07 million kW (2009 est.) |
+| **Italy** | 122.3 million kW (2011 est.) |
+| **Jamaica** | 1.198 million kW (2009 est.) |
+| **Japan** | 284.5 million kW (2009 est.) |
+| **Jordan** | 2.616 million kW (2009 est.) |
+| **Kazakhstan** | 18.73 million kW (2009 est.) |
+| **Kenya** | 1.706 million kW (2009 est.) |
+| **Kiribati** | 6,000 kW (2009 est.) |
+| **Korea, North** | 9.5 million kW (2009 est.) |
+| **Korea, South** | 80.59 million kW (2009 est.) |
+| **Kuwait** | 10.94 million kW (2009 est.) |
+| **Kyrgyzstan** | 3.64 million kW (2009 est.) |
+| **Laos** | 1.855 million kW (2009 est.) |
+| **Latvia** | 2.164 million kW (2009 est.) |
+| **Lebanon** | 2.314 million kW (2009 est.) |
+| **Lesotho** | 76,000 kW (2009 est.) |
+| **Liberia** | 197,000 kW (2009 est.) |
+| **Libya** | 6.766 million kW (2009 est.) |
+| **Lithuania** | 3.82 million kW (2011 est.) |
+| **Luxembourg** | 1.702 million kW (2009 est.) |
+| **Macau** | 472,000 kW (2009 est.) |
+| **Macedonia** | 1.54 million kW (2009 est.) |
+| **Madagascar** | 406,000 kW (2009 est.) |
+| **Malawi** | 299,500 kW (2009 est.) |
+| **Malaysia** | 25.24 million kW (2009 est.) |
+| **Maldives** | 62,010 kW (2009 est.) |
+| **Mali** | 304,000 kW (2009 est.) |
+| **Malta** | 573,000 kW (2010 est.) |
+| **Mauritania** | 253,000 kW (2009 est.) |
+| **Mauritius** | 885,200 kW (2009 est.) |
+| **Mexico** | 59.33 million kW (2009 est.) |
+| **Moldova** | 551,000 kW (2009 est.) |
+| **Mongolia** | 833,200 kW (2009 est.) |
+| **Montenegro** | 868,000 kW (2009 est.) |
+| **Montserrat** | 10,000 kW (2009 est.) |
+| **Morocco** | 6.164 million kW (2009 est.) |
+| **Mozambique** | 2.428 million kW (2009 est.) |
+| **Namibia** | 393,000 kW (2009 est.) |
+| **Nauru** | 11,000 kW (2009 est.) |
+| **Nepal** | 717,000 kW (2009 est.) |
+| **Netherlands** | 25.99 million kW (2009 est.) |
+| **New Caledonia** | 421,000 kW (2009 est.) |
+| **New Zealand** | 9.482 million kW (2009 est.) |
+| **Nicaragua** | 1.104 million kW (2009 est.) |
+| **Niger** | 145,000 kW (2009 est.) |
+| **Nigeria** | 5.898 million kW (2009 est.) |
+| **Niue** | 1,000 kW (2009 est.) |
+| **Norway** | 30.95 million kW (2009 est.) |
+| **Oman** | 4.202 million kW (2009 est.) |
+| **Pakistan** | 20.2 million kW (2009 est.) |
+| **Panama** | 1.815 million kW (2009 est.) |
+| **Papua New Guinea** | 700,000 kW (2009 est.) |
+| **Paraguay** | 8.816 million kW (2009 est.) |
+| **Peru** | 7.982 million kW (2009 est.) |
+| **Philippines** | 15.58 million kW (2009 est.) |
+| **Poland** | 33.03 million kW (2009 est.) |
+| **Portugal** | 17.39 million kW (2009 est.) |
+| **Puerto Rico** | 5.515 million kW (2009 est.) |
+| **Qatar** | 3.893 million kW (2009 est.) |
+| **Romania** | 21.2 million kW (2011 est.) |
+| **Russia** | 225.3 million kW (2009 est.) |
+| **Rwanda** | 56,250 kW (2009 est.) |
+| **Saint Helena, Ascension, and Tristan da Cunha** | 4,000 kW (2009 est.) |
+| **Saint Kitts and Nevis** | 22,000 kW (2009 est.) |
+| **Saint Lucia** | 76,000 kW (2009 est.) |
+| **Saint Pierre and Miquelon** | 27,000 kW (2009 est.) |
+| **Saint Vincent and the Grenadines** | 49,000 kW (2009 est.) |
+| **Samoa** | 41,100 kW (2009 est.) |
+| **Sao Tome and Principe** | 14,000 kW (2009 est.) |
+| **Saudi Arabia** | 44.49 million kW (2009 est.) |
+| **Senegal** | 638,000 kW (2009 est.) |
+| **Serbia** | 8.359 million kW (2009 est.) |
+| **Seychelles** | 95,000 kW (2009 est.) |
+| **Sierra Leone** | 52,000 kW (2009 est.) |
+| **Singapore** | 10.47 million kW (2009 est.) |
+| **Slovakia** | 7.155 million kW (2009 est.) |
+| **Slovenia** | 3.4 million kW (2010 est.) |
+| **Solomon Islands** | 14,000 kW (2009 est.) |
+| **Somalia** | 80,000 kW (2009 est.) |
+| **South Africa** | 44.26 million kW (2009 est.) |
+| **Spain** | 96.28 million kW (2009 est.) |
+| **Sri Lanka** | 3.088 million kW (2010 est.) |
+| **Sudan** | 2.338 million kW (2009 est.) |
+| **Suriname** | 389,000 kW (2009 est.) |
+| **Swaziland** | 130,000 kW (2009 est.) |
+| **Sweden** | 35.29 million kW (2009 est.) |
+| **Switzerland** | 17.7 million kW (2010 est.) |
+| **Syria** | 8.2 million kW (2009 est.) |
+| **Taiwan** | 41 million kW (2009 est.) |
+| **Tajikistan** | 4.426 million kW (2009 est.) |
+| **Tanzania** | 957,000 kW (2009 est.) |
+| **Thailand** | 47.38 million kW (2009 est.) |
+| **Togo** | 85,000 kW (2009 est.) |
+| **Tonga** | 12,000 kW (2009 est.) |
+| **Trinidad and Tobago** | 1.429 million kW (2009 est.) |
+| **Tunisia** | 3.648 million kW (2009 est.) |
+| **Turkey** | 44.76 million kW (2009 est.) |
+| **Turkmenistan** | 2.852 million kW (2009 est.) |
+| **Turks and Caicos Islands** | 50,000 kW (2009 est.) |
+| **Uganda** | 529,000 kW (2009 est.) |
+| **Ukraine** | 54.38 million kW (2009 est.) |
+| **United Arab Emirates** | 23.25 million kW (2009 est.) |
+| **United Kingdom** | 88.02 million kW (2009 est.) |
+| **United States** | 1.025 billion kW (2010 est.) |
+| **Uruguay** | 2.516 million kW (2009 est.) |
+| **Uzbekistan** | 11.58 million kW (2009 est.) |
+| **Vanuatu** | 12,000 kW (2009 est.) |
+| **Venezuela** | 24.85 million kW (2009 est.) |
+| **Vietnam** | 15.19 million kW (2009 est.) |
+| **Virgin Islands** | 323,000 kW (2009 est.) |
+| **West Bank** | 140,000 kW |
+| | *note:* includes Gaza Strip (2009 est.) |
+| **Western Sahara** | 58,000 kW (2009 est.) |
+| **World** | 5.029 billion kW (2009 est.) |
+| **Yemen** | 1.33 million kW (2009 est.) |
+| **Zambia** | 1.679 million kW (2009 est.) |
+| **Zimbabwe** | 2.005 million kW (2009 est.) |

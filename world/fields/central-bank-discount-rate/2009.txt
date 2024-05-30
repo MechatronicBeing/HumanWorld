@@ -1,0 +1,315 @@
+CIA - The World Factbook -- Field Listing :: Central bank discount rate   
+
+This entry provides the annualized interest rate a country's central bank charges commercial, depository banks for loans to meet temporary shortages of funds.
+
+| Country | Central bank discount rate(%) |
+| --- | --- |
+| **Albania** | 6.25% (31 December 2008) |
+| | 6.25% (31 December 2007) |
+| **Algeria** | 4% (31 December 2008) |
+| | 4% (31 December 2007) |
+| **Angola** | 19.57% (31 December 2008) |
+| | 19.57% (31 December 2007) |
+| **Anguilla** | 6.5% (31 December 2008) |
+| | 6.5% (31 December 2007) |
+| **Antigua and Barbuda** | 6.5% (31 December 2008) |
+| | 6.5% (31 December 2007) |
+| **Argentina** | NA |
+| **Armenia** | 7.25% (2 December 2008) |
+| | NA% (31 December 2007) |
+| | *note:* this is the Refinancing Rate, the key monetary policy instrument of the Armenian National Bank |
+| **Aruba** | 5% (31 December 2008) |
+| | 5% (31 December 2007) |
+| **Azerbaijan** | 8% (31 December 2008) |
+| | 13% (31 December 2007) |
+| | *note:* this is the Refinancing Rate, the key policy rate for the National Bank of Azerbaijan |
+| **Bahamas, The** | 5.25% (31 December 2008) |
+| | 5.25% (31 December 2007) |
+| **Bangladesh** | 5% (31 December 2008) |
+| | 5% (31 December 2007) |
+| **Barbados** | 10% (31 December 2008) |
+| | 12% (31 December 2007) |
+| **Belarus** | 12% (31 December 2008) |
+| | 10% (31 December 2007) |
+| **Belgium** | 3% (31 December 2008) |
+| | 5% (31 December 2007) |
+| | *note:* this is the European Central Bank's rate on the marginal lending facility, which offers overnight credit to banks in the euro area |
+| **Belize** | 12% (31 December 2008) |
+| | 12% (31 December 2007) |
+| **Benin** | 4.75% (31 December 2008) |
+| | 4.25% (31 December 2007) |
+| **Bolivia** | 13% (31 December 2008) |
+| | 6.5% (31 December 2007) |
+| **Botswana** | 15% (31 December 2008) |
+| | 14.5% (31 December 2007) |
+| **Brazil** | 20.48% (31 December 2008) |
+| | 17.85% (31 December 2007) |
+| **Bulgaria** | 5.77% (31 December 2008) |
+| | 4.58% (31 December 2007) |
+| **Burkina Faso** | 4.75% (31 December 2008) |
+| | 4.25% (31 December 2007) |
+| **Burma** | 12% (31 December 2008) |
+| | 12% (31 December 2007) |
+| **Burundi** | 10.08% (31 December 2008) |
+| | 10.12% (31 December 2007) |
+| **Cambodia** | NA% (31 December 2008) |
+| | 5.25% (31 December 2007) |
+| **Cameroon** | 4.75% (31 December 2008) |
+| | 5.25% (31 December 2007) |
+| **Canada** | 1.75% (31 December 2008) |
+| | 4.5% (31 December 2007) |
+| **Cape Verde** | 7.5% (31 December 2008) |
+| | 8.5% (31 December 2007) |
+| **Central African Republic** | 4.75% (31 December 2008) |
+| | 5.25% (31 December 2007) |
+| **Chad** | 4.75% (31 December 2008) |
+| | 5.25% (31 December 2007) |
+| **Chile** | 8.25% (31 December 2008) |
+| | 6% (31 December 2007) |
+| **China** | 2.79% (31 December 2008) |
+| | 3.33% (31 December 2007) |
+| **Colombia** | 11.5% (31 December 2008) |
+| | 11.5% (31 December 2007) |
+| **Comoros** | 5.36% (31 December 2008) |
+| | 5.36% (31 December 2007) |
+| **Congo, Democratic Republic of the** | NA% (31 December 2008) |
+| | 5.25% (31 December 2007) |
+| **Congo, Republic of the** | 4.75% (31 December 2008) |
+| | 5.25% (31 December 2007) |
+| **Costa Rica** | 25% (31 December 2008) |
+| | 17% (31 December 2007) |
+| **Cote d'Ivoire** | 4.75% (31 December 2008) |
+| | 4.25% (31 December 2007) |
+| **Croatia** | 9% (31 December 2008) |
+| | 9% (31 December 2007) |
+| **Cuba** | NA% |
+| **Cyprus** | 3% (31 December 2008) |
+| | 5% (31 December 2007) |
+| | *note:* this is the European Central Bank's rate on the marginal lending facility, which offers overnight credit to banks in the euro area |
+| **Czech Republic** | 2.25% (31 December 2008) |
+| | 3.5% (31 December 2007) |
+| **Denmark** | 3.5% (31 December 2008) |
+| | 4% (31 December 2007) |
+| **Dominica** | 6.5% (31 December 2008) |
+| | 6.5% (31 December 2007) |
+| **Ecuador** | 9.14% (31 December 2008) |
+| | 10.72% (31 December 2007) |
+| **Egypt** | 11.5% (31 December 2008) |
+| | 9% (31 December 2007) |
+| **Equatorial Guinea** | 4.75% (31 December 2008) |
+| | 5.25% (31 December 2007) |
+| **European Union** | 3% (31 December 2008) |
+| | 5% (31 December 2007) |
+| | *note:* this is the European Central Bank's rate on the marginal lending facility, which offers overnight credit to banks in the euro area |
+| **Fiji** | 6.32% (31 December 2008) |
+| | 9.25% (31 December 2007) |
+| **Finland** | 3% (31 December 2008) |
+| | 5% (31 December 2007) |
+| | *note:* this is the European Central Bank's rate on the marginal lending facility, which offers overnight credit to banks in the euro area |
+| **France** | 3% (31 December 2008) |
+| | 5% (31 December 2007) |
+| | *note:* this is the European Central Bank's rate on the marginal lending facility, which offers overnight credit to banks in the euro area |
+| **Gabon** | 4.75% (31 December 2008) |
+| | 5.25% (31 December 2007) |
+| **Gambia, The** | NA% (31 December 2008) |
+| | 10% (31 December 2007) |
+| **Georgia** | 8% (25 December 2008) |
+| | NA% (31 December 2007) |
+| | *note:* this is the Refinancing Rate, the key monetary policy rate of the Georgian National Bank |
+| **Germany** | 3% (31 December 2008) |
+| | 5% (31 December 2007) |
+| | *note:* this is the European Central Bank's rate on the marginal lending facility, which offers overnight credit to banks in the euro area |
+| **Ghana** | 17% (31 December 2008) |
+| | 13.5% (31 December 2007) |
+| **Greece** | 3% (31 December 2008) |
+| | 5% (31 December 2007) |
+| | *note:* this is the European Central Bank's rate on the marginal lending facility, which offers overnight credit to banks in the euro area |
+| **Grenada** | 6.5% (31 December 2008) |
+| | 6.5% (31 December 2007) |
+| **Guatemala** | NA% |
+| **Guinea** | NA% (31 December 2008) |
+| | 22.25% (31 December 2005) |
+| **Guinea-Bissau** | 4.75% (31 December 2008) |
+| | 4.25% (31 December 2007) |
+| **Guyana** | 6.75% (31 December 2008) |
+| | 6.5% (31 December 2007) |
+| **Honduras** | NA% |
+| **Hong Kong** | 0.5% (31 December 2008) |
+| | 5.75% (31 December 2007) |
+| **Hungary** | 10% (31 December 2008) |
+| | 7.5% (31 December 2007) |
+| **Iceland** | 22% (31 December 2008) |
+| | 15.25% (31 December 2007) |
+| **India** | 6% (31 December 2008) |
+| | 6% (31 December 2007) |
+| **Indonesia** | 10.83% (31 December 2008) |
+| | 8% (31 December 2007) |
+| **Iraq** | NA% (31 December 2008) |
+| | 20% (31 December 2007) |
+| **Ireland** | 3% (31 December 2008) |
+| | 5% (31 December 2007) |
+| | *note:* this is the European Central Bank's rate on the marginal lending facility, which offers overnight credit to banks in the euro area |
+| **Israel** | 2.5% (31 December 2008) |
+| | 4% (31 December 2007) |
+| **Italy** | 3% (31 December 2008) |
+| | 5% (31 December 2007) |
+| | *note:* this is the European Central Bank's rate on the marginal lending facility, which offers overnight credit to banks in the euro area |
+| **Japan** | 0.3% (31 December 2008) |
+| | 0.75% (31 December 2007) |
+| **Jordan** | 6.25% (31 December 2008) |
+| | 7% (31 December 2007) |
+| **Kazakhstan** | 10.5% (31 December 2008) |
+| | 11% (31 December 2007) |
+| **Korea, South** | 1.75% (31 December 2008) |
+| | 3.25% (31 December 2007) |
+| **Kuwait** | 3.75% (31 December 2008) |
+| | 6.25% (31 December 2007) |
+| **Laos** | 7.67% (31 December 2008) |
+| | 12.67% (31 December 2007) |
+| **Latvia** | 6% (31 December 2008) |
+| | 6% (31 December 2007) |
+| **Lebanon** | 12% (31 December 2008) |
+| | 12% (31 December 2007) |
+| **Lesotho** | 14.05% (31 December 2008) |
+| | 12.82% (31 December 2007) |
+| **Libya** | 5% (31 December 2008) |
+| | 4% (31 December 2007) |
+| **Lithuania** | 4.73% (31 December 2008) |
+| | 4.85% (31 December 2007) |
+| **Luxembourg** | 3% (31 December 2008) |
+| | 5% (31 December 2007) |
+| | *note:* this is the European Central Bank's rate on the marginal lending facility, which offers overnight credit to banks in the euro area |
+| **Macedonia** | 6.5% (31 December 2008) |
+| | 6.5% (31 December 2007) |
+| **Malawi** | 15% (31 December 2008) |
+| | 15% (31 December 2007) |
+| **Maldives** | 13% (31 December 2008) |
+| | 12.5% (31 December 2007) |
+| **Mali** | 4.75% (31 December 2008) |
+| | 4.25% (31 December 2007) |
+| **Malta** | 3% (31 December 2008) |
+| | *note:* this is the European Central Bank's rate on the marginal lending facility, which offers overnight credit to banks in the euro area |
+| **Mauritania** | NA% (31 December 2008) |
+| | 12% (31 December 2007) |
+| **Mexico** | NA% (31 December 2008) |
+| **Mongolia** | 14.78% (31 December 2008) |
+| | 9.87% (31 December 2007) |
+| **Montserrat** | 6.5% (31 December 2008) |
+| | 6.5% (31 December 2007) |
+| **Morocco** | 3.32% (31 December 2008) |
+| | 3.25% (31 December 2007) |
+| **Mozambique** | 9.95% (31 December 2008) |
+| | 9.95% (31 December 2007) |
+| **Namibia** | 10% (31 December 2008) |
+| | 10.5% (31 December 2007) |
+| **Nepal** | 6.5% (31 December 2008) |
+| | 6.25% (31 December 2007) |
+| **Netherlands** | 3% (31 December 2008) |
+| | 5% (31 December 2007) |
+| | *note:* this is the European Central Bank's rate on the marginal lending facility, which offers overnight credit to banks in the euro area |
+| **Netherlands Antilles** | NA% |
+| **New Zealand** | 5% (31 December 2008) |
+| | 8.25% (31 December 2007) |
+| **Nicaragua** | NA% |
+| **Niger** | 4.75% (31 December 2008) |
+| | 4.25% (31 December 2007) |
+| **Nigeria** | 9.75% (31 December 2008) |
+| | 9.5% (31 December 2007) |
+| **Norway** | 4% (31 December 2008) |
+| | 6.25% (31 December 2007) |
+| **Oman** | 0.91% (31 December 2008) |
+| | 1.98% (31 December 2007) |
+| **Pakistan** | 15% (31 December 2008) |
+| | 10% (31 December 2007) |
+| **Papua New Guinea** | 7% (31 December 2008) |
+| | 7.38% (31 December 2007) |
+| **Paraguay** | 20% (31 December 2008) |
+| | 20% (31 December 2007) |
+| **Peru** | 7.25% (31 December 2008) |
+| | 5.75% (31 December 2007) |
+| **Philippines** | 6% (31 December 2008) |
+| | 4.28% (31 December 2007) |
+| **Poland** | 5% (31 December 2008) |
+| | 5% (31 December 2007) |
+| **Portugal** | 3% (31 December 2008) |
+| | 5% (31 December 2007) |
+| | *note:* this is the European Central Bank's rate on the marginal lending facility, which offers overnight credit to banks in the euro area |
+| **Qatar** | 5.5% (31 December 2008) |
+| | 5.5% (31 December 2007) |
+| **Romania** | NA% |
+| **Russia** | 13% (31 December 2008) |
+| | 10% (31 December 2007) |
+| **Rwanda** | 11.25% (31 December 2008) |
+| | 12.5% (31 December 2007) |
+| **Saint Kitts and Nevis** | 6.5% (31 December 2008) |
+| | 6.5% (31 December 2007) |
+| **Saint Lucia** | 6.5% (31 December 2008) |
+| | 6.5% (31 December 2007) |
+| **Saint Vincent and the Grenadines** | 6.5% (31 December 2008) |
+| | 6.5% (31 December 2007) |
+| **Sao Tome and Principe** | 28% (31 December 2008) |
+| | 28% (31 December 2007) |
+| **Saudi Arabia** | 2.5% (31 December 2008) |
+| | NA% (31 December 2007) |
+| **Senegal** | 4.75% (31 December 2008) |
+| | 4.25% (31 December 2007) |
+| **Serbia** | 17.75% (31 December 2008) |
+| | 9.57% (31 December 2007) |
+| **Seychelles** | NA% (31 December 2008) |
+| | 5.13% (31 December 2007) |
+| **Sierra Leone** | NA% (31 December 2008) |
+| **Slovakia** | 3% (31 December 2008) |
+| | 4.25% (31 December 2007) |
+| | *note:* this is the European Central Bank's rate on the marginal lending facility, which offers overnight credit to banks from the euro area; as of 1 January 2009 Slovakia became a member of the Economic and Monetary Union (EMU) |
+| **Slovenia** | 3% (31 December 2008) |
+| | 5% (31 December 2007) |
+| | *note:* this is the European Central Bank's rate on the marginal lending facility, which offers overnight credit to banks in the euro area |
+| **South Africa** | 11.5% (31 December 2008) |
+| | 11% (31 December 2007) |
+| **Spain** | 3% (31 December 2008) |
+| | 5% (31 December 2007) |
+| | *note:* this is the European Central Bank's rate on the marginal lending facility, which offers overnight credit to banks in the euro area |
+| **Sri Lanka** | 15% (31 December 2008) |
+| | 15% (31 December 2007) |
+| **Swaziland** | 11% (31 December 2008) |
+| | 11% (31 December 2007) |
+| **Sweden** | 2% (31 December 2008) |
+| | 3.5% (31 December 2007) |
+| **Switzerland** | 0.05% (31 December 2008) |
+| | 2.05% (31 December 2007) |
+| **Syria** | NA% (31 December 2008) |
+| | 5% (31 December 2007) |
+| **Taiwan** | 1.5% (January 2009) |
+| **Tajikistan** | NA% (31 December 2008) |
+| | 15% (31 December 2007) |
+| **Tanzania** | 15.99% (31 December 2008) |
+| | 16.4% (31 December 2007) |
+| **Thailand** | 3.25% (31 December 2008) |
+| | 3.75% (31 December 2007) |
+| **Togo** | 4.75% (31 December 2008) |
+| | 4.25% (31 December 2007) |
+| **Trinidad and Tobago** | 10.75% (31 December 2008) |
+| | 10% (31 December 2007) |
+| **Turkey** | 25% (31 December 2008) |
+| | 25% (31 December 2007) |
+| **Uganda** | 19.42% (31 December 2008) |
+| | 14.68% (31 December 2007) |
+| **Ukraine** | 12% (31 December 2008) |
+| | 8% (31 December 2007) |
+| **United Arab Emirates** | NA% (31 December 2008) |
+| **United Kingdom** | 0.86% (31 December 2008) |
+| **United States** | 0.5% (31 March 2009) |
+| | 4.83% (31 December 2007) |
+| **Uruguay** | 10% (31 December 2008) |
+| | 10% (31 December 2007) |
+| **Vanuatu** | 6% (31 December 2008) |
+| | 6% (31 December 2007) |
+| **Venezuela** | 33.5% (31 December 2008) |
+| | 28.5% (31 December 2007) |
+| **Vietnam** | 10.25% (31 December 2008) |
+| | 6.5% (31 December 2007) |
+| **Yemen** | NA% |
+| **Zambia** | 14.49% (31 December 2008) |
+| | 11.73% (31 December 2007) |
+| **Zimbabwe** | NA% (31 December 2008) |
+| | 975% (31 December 2007) |

@@ -1,0 +1,76 @@
+CIA - The World Factbook -- Field Listing :: Obesity - adult prevalence rate   
+
+This entry gives the percent of a country's population considered to be obese. Obesity is defined as an adult having a Body Mass Index (BMI) greater to or equal to 30.0. BMI is calculated by taking a person's weight in kg and dividing it by the person's squared height in meters.
+
+| Country | Obesity - adult prevalence rate(%) |
+| --- | --- |
+| **American Samoa** | 74.6% (2007) |
+| **Australia** | 16.4% (2005) |
+| **Austria** | 11% (2008) |
+| **Belgium** | 10.8% (2001) |
+| **Bosnia and Herzegovina** | 21.7% (2002) |
+| **Brazil** | 11.1% (2003) |
+| **Bulgaria** | 12.4% (2001) |
+| **Canada** | 23.1% (2004) |
+| **Chile** | 21.9% (2003) |
+| **China** | 2.9% (2002) |
+| **Colombia** | 13.7% (2007) |
+| **Croatia** | 22.3% (2003) |
+| **Cuba** | 11.8% (2002) |
+| **Cyprus** | 12.3% (2003) |
+| **Czech Republic** | 15.1% (2002) |
+| **Denmark** | 11.4% (2006) |
+| **Egypt** | 30.3% (2006) |
+| **Eritrea** | 3.3% (2004) |
+| **Estonia** | 14.4% (2004) |
+| **Fiji** | 23.9% (2004) |
+| **Finland** | 15.7% (2008) |
+| **France** | 16.9% (2007) |
+| **Germany** | 12.9% (2003) |
+| **Greece** | 22.5% (2003) |
+| **Hungary** | 17.7% (2004) |
+| **Iceland** | 12.4% (2002) |
+| **Indonesia** | 2.4% (2001) |
+| **Iran** | 14.2% (2005) |
+| **Ireland** | 13% (2002) |
+| **Israel** | 22.9% (2001) |
+| **Italy** | 9.8% (2005) |
+| **Japan** | 3.1% (2000) |
+| **Jordan** | 19.5% (2004) |
+| **Kiribati** | 50.6% (2006) |
+| **Korea, South** | 3.2% (2001) |
+| **Kuwait** | 28.8% (2000) |
+| **Laos** | 1.2% (2000) |
+| **Latvia** | 15.6% (2006) |
+| **Lebanon** | 13.5% (2004) |
+| **Lithuania** | 19.7% (2006) |
+| **Madagascar** | 2.1% (2005) |
+| **Malaysia** | 16.3% (2006) |
+| **Malta** | 20.7% (2007) |
+| **Mexico** | 23.6% (2000) |
+| **Mongolia** | 9.8% (2005) |
+| **Morocco** | 16% (2000) |
+| **New Zealand** | 26.5% (2007) |
+| **Norway** | 10% (2009) |
+| **Peru** | 16.3% (2000) |
+| **Philippines** | 4.3% (2003) |
+| **Poland** | 18% (2001) |
+| **Portugal** | 14.2% (2005) |
+| **Romania** | 8.6% (2000) |
+| **Saudi Arabia** | 35.6% (2000) |
+| **Seychelles** | 25.1% (2004) |
+| **Singapore** | 6.9% (2004) |
+| **Slovakia** | 14.3% (2002) |
+| **Slovenia** | 15% (2001) |
+| **Spain** | 15.6% (2007) |
+| **Sweden** | 12% (2009) |
+| **Switzerland** | 8.2% (2007) |
+| **Thailand** | 7.8% (2003) |
+| **Tokelau** | 63.4% (2007) |
+| **Tonga** | 56% (2000) |
+| **Turkey** | 16.1% (2007) |
+| **United Arab Emirates** | 33.7% (2000) |
+| **United Kingdom** | 22.7% (2002) |
+| **United States** | 33.9% (2006) |
+| **Vietnam** | 0.5% (2000) |
+| **Zimbabwe** | 15.7% (2005) |

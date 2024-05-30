@@ -1,0 +1,463 @@
+FIELD LISTING :: IMPORTS
+
+This entry provides the total US dollar amount of merchandise imports on a c.i.f. (cost, insurance, and freight) or f.o.b. (free on board) basis. These figures are calculated on an exchange rate basis, i.e., not in purchasing power parity (PPP) terms.
+
+| Country | IMPORTS |
+| --- | --- |
+| **Afghanistan** | $12.19 billion (2013 est.) |
+| | $11.66 billion (2012 est.) |
+| **Albania** | $5.25 billion (2014 est.) |
+| | $4.894 billion (2013 est.) |
+| **Algeria** | $59.67 billion (2014 est.) |
+| | $54.99 billion (2013 est.) |
+| **American Samoa** | $564 million (2013 est.) |
+| | $508 million (2012) |
+| **Andorra** | $1.43 billion (2012 est.) |
+| | $1.501 billion (2011 est.) |
+| **Angola** | $29.24 billion (2014 est.) |
+| | $26.34 billion (2013 est.) |
+| **Anguilla** | $128.7 million (2014 est.) |
+| | $127.7 million (2013 est.) |
+| **Antigua and Barbuda** | $469.5 million (2014 est.) |
+| | $494.4 million (2013 est.) |
+| **Argentina** | $62.45 billion (2014 est.) |
+| | $70.54 billion (2013 est.) |
+| **Armenia** | $4.402 billion (2014 est.) |
+| | $4.386 billion (2013 est.) |
+| **Aruba** | $1.35 billion (2014 est.) |
+| | $1.364 billion (2013 est.) |
+| **Australia** | $240.5 billion (2014 est.) |
+| | $250 billion (2013 est.) |
+| **Austria** | $172.5 billion (2014 est.) |
+| | $173.8 billion (2013 est.) |
+| **Azerbaijan** | $9.332 billion (2014 est.) |
+| | $10.32 billion (2013 est.) |
+| **Bahamas, The** | $3.27 billion (2014 est.) |
+| | $3.166 billion (2013 est.) |
+| **Bahrain** | $13.32 billion (2014 est.) |
+| | $13.66 billion (2013 est.) |
+| **Bangladesh** | $40.1 billion (2014 est.) |
+| | $35 billion (2013 est.) |
+| **Barbados** | $1.652 billion (2014 est.) |
+| | $1.681 billion (2013 est.) |
+| **Belarus** | $38.33 billion (2014 est.) |
+| | $41.13 billion (2013 est.) |
+| **Belgium** | $330.8 billion (2014 est.) |
+| | $331.7 billion (2013 est.) |
+| **Belize** | $925.5 million (2014 est.) |
+| | $876 million (2013 est.) |
+| **Benin** | $2.736 billion (2014 est.) |
+| | $2.594 billion (2013 est.) |
+| **Bermuda** | $968 million (2014 est.) |
+| | $1.012 billion (2013 est.) |
+| **Bhutan** | $900.5 million (2014 est.) |
+| | $947.7 million (2013 est.) |
+| **Bolivia** | $9.935 billion (2014 est.) |
+| | $8.729 billion (2013 est.) |
+| **Bosnia and Herzegovina** | $9.982 billion (2014 est.) |
+| | $9.337 billion (2013 est.) |
+| **Botswana** | $7.989 billion (2014 est.) |
+| | $7.362 billion (2013 est.) |
+| **Brazil** | $230.6 billion (2014 est.) |
+| | $241.9 billion (2013 est.) |
+| **British Virgin Islands** | $290 million (2014 est.) |
+| | $320 million (2013 est.) |
+| **Brunei** | $4.231 billion (2014 est.) |
+| | $4.175 billion (2013 est.) |
+| **Bulgaria** | $31.6 billion (2014 est.) |
+| | $32.03 billion (2013 est.) |
+| **Burkina Faso** | $2.631 billion (2014 est.) |
+| | $2.899 billion (2013 est.) |
+| **Burma** | $12.17 billion (2014 est.) |
+| | $9.462 billion (2013 est.) |
+| | *note:* import figures are grossly underestimated due to the value of consumer goods, diesel fuel, and other products smuggled in from Thailand, China, Malaysia, and India |
+| **Burundi** | $923 million (2014 est.) |
+| | $843 million (2013 est.) |
+| **Cabo Verde** | $862 million (2014 est.) |
+| | $808.4 million (2013 est.) |
+| **Cambodia** | $10.62 billion (2014 est.) |
+| | $9.489 billion (2013 est.) |
+| **Cameroon** | $6.483 billion (2014 est.) |
+| | $6.174 billion (2013 est.) |
+| **Canada** | $473.8 billion (2014 est.) |
+| | $472.4 billion (2013 est.) |
+| **Cayman Islands** | $705.3 million (2014 est.) |
+| | $719 million (2013 est.) |
+| **Central African Republic** | $279.1 million (2014 est.) |
+| | $211.5 million (2013 est.) |
+| **Chad** | $4.416 billion (2014 est.) |
+| | $3.034 billion (2013 est.) |
+| **Chile** | $67.91 billion (2014 est.) |
+| | $74.66 billion (2013 est.) |
+| **China** | $1.96 trillion (2014 est.) |
+| | $1.95 trillion (2013 est.) |
+| **Christmas Island** | $NA |
+| **Cocos (Keeling) Islands** | $NA |
+| **Colombia** | $61.61 billion (2014 est.) |
+| | $57.1 billion (2013 est.) |
+| **Comoros** | $216 million (2014 est.) |
+| | $231.3 million (2013 est.) |
+| **Congo, Democratic Republic of the** | $11.98 billion (2014 est.) |
+| | $10.81 billion (2013 est.) |
+| **Congo, Republic of the** | $4.939 billion (2014 est.) |
+| | $4.789 billion (2013 est.) |
+| **Cook Islands** | $83.49 million (2011 est.) |
+| | $80.55 million (2010 est.) |
+| **Costa Rica** | $16.35 billion (2014 est.) |
+| | $17.18 billion (2013 est.) |
+| **Cote d'Ivoire** | $9.935 billion (2014 est.) |
+| | $12.48 billion (2013 est.) |
+| **Croatia** | $21.39 billion (2014 est.) |
+| | $20.57 billion (2013 est.) |
+| **Cuba** | $14.7 billion (2014 est.) |
+| | $14.77 billion (2013 est.) |
+| **Curacao** | $1.285 billion (2011 est.) |
+| | $1.275 billion (2010 est.) |
+| **Cyprus** | $7.743 billion (2014 est.) |
+| | $7.492 billion (2013 est.) |
+| **Czech Republic** | $101.9 billion (2014 est.) |
+| | $95.87 billion (2013 est.) |
+| **Denmark** | $101.3 billion (2014 est.) |
+| | $99.79 billion (2013 est.) |
+| **Djibouti** | $969.7 million (2014 est.) |
+| | $719.4 million (2013 est.) |
+| **Dominica** | $186.9 million (2014 est.) |
+| | $178.6 million (2013 est.) |
+| **Dominican Republic** | $17.29 billion (2014 est.) |
+| | $16.8 billion (2013 est.) |
+| **Ecuador** | $26.67 billion (2014 est.) |
+| | $26.18 billion (2013 est.) |
+| **Egypt** | $64.34 billion (2014 est.) |
+| | $55.81 billion (2013 est.) |
+| **El Salvador** | $9.463 billion (2014 est.) |
+| | $9.629 billion (2013 est.) |
+| **Equatorial Guinea** | $5.475 billion (2014 est.) |
+| | $5.785 billion (2013 est.) |
+| **Eritrea** | $1.15 billion (2014 est.) |
+| | $1.028 billion (2013 est.) |
+| **Estonia** | $16.39 billion (2014 est.) |
+| | $16.55 billion (2013 est.) |
+| **Ethiopia** | $11.57 billion (2014 est.) |
+| | $10.68 billion (2013 est.) |
+| **European Union** | $2.312 trillion (2012 est.) |
+| | $2.404 trillion (2011 est.) |
+| | *note:* external imports, excluding intra-EU trade |
+| **Falkland Islands (Islas Malvinas)** | $90 million (2004 est.) |
+| **Faroe Islands** | $776 million (2010) |
+| | $786 million (2009) |
+| **Fiji** | $2.403 billion (2014 est.) |
+| | $2.38 billion (2013 est.) |
+| **Finland** | $72.94 billion (2014 est.) |
+| | $73.76 billion (2013 est.) |
+| **France** | $631.1 billion (2014 est.) |
+| | $639.6 billion (2013 est.) |
+| **French Polynesia** | $1.72 billion (2013 est.) |
+| | $1.706 billion (2005 est.) |
+| **Gabon** | $3.089 billion (2014 est.) |
+| | $2.938 billion (2013 est.) |
+| **Gambia, The** | $335 million (2014 est.) |
+| | $304.1 million (2013 est.) |
+| **Gaza Strip** | see entry for West Bank |
+| **Georgia** | $8.235 billion (2014 est.) |
+| | $7.697 billion (2013 est.) |
+| **Germany** | $1.188 trillion (2014 est.) |
+| | $1.163 trillion (2013 est.) |
+| **Ghana** | $14.57 billion (2014 est.) |
+| | $17.6 billion (2013 est.) |
+| **Gibraltar** | $2.967 billion (2004 est.) |
+| **Greece** | $65.2 billion (2014 est.) |
+| | $63.32 billion (2013 est.) |
+| **Greenland** | $814.2 million (2010) |
+| | $726 million (2009) |
+| **Grenada** | $306.6 million (2014 est.) |
+| | $324.2 million (2013 est.) |
+| **Guam** | $2.501 billion (2013 est.) |
+| | $2.438 billion (2012) |
+| **Guatemala** | $17.05 billion (2014 est.) |
+| | $16.36 billion (2013 est.) |
+| **Guernsey** | $NA |
+| **Guinea-Bissau** | $227.5 million (2014 est.) |
+| | $182.8 million (2013 est.) |
+| **Guinea** | $2.175 billion (2014 est.) |
+| | $2.162 billion (2013 est.) |
+| **Guyana** | $1.834 billion (2014 est.) |
+| | $1.847 billion (2013 est.) |
+| **Haiti** | $3.392 billion (2014 est.) |
+| | $3.329 billion (2013 est.) |
+| **Honduras** | $11.07 billion (2014 est.) |
+| | $10.95 billion (2013 est.) |
+| **Hong Kong** | $549.5 billion (2014 est.) |
+| | $534.1 billion (2013 est.) |
+| **Hungary** | $96.42 billion (2014 est.) |
+| | $91.41 billion (2013 est.) |
+| **Iceland** | $4.954 billion (2014 est.) |
+| | $4.534 billion (2013 est.) |
+| **India** | $472.8 billion (2014 est.) |
+| | $482.3 billion (2013 est.) |
+| **Indonesia** | $168.4 billion (2014 est.) |
+| | $176.3 billion (2013 est.) |
+| **Iran** | $65.08 billion (2014 est.) |
+| | $61.16 billion (2013 est.) |
+| **Iraq** | $45.2 billion (2014 est.) |
+| | $49.98 billion (2013 est.) |
+| **Ireland** | $84.38 billion (2014 est.) |
+| | $66.1 billion (2013 est.) |
+| **Isle of Man** | $NA |
+| **Israel** | $71.2 billion (2014 est.) |
+| | $71.08 billion (2013 est.) |
+| **Italy** | $448.4 billion (2014 est.) |
+| | $455.4 billion (2013 est.) |
+| **Jamaica** | $5.2 billion (2014 est.) |
+| | $5.462 billion (2013 est.) |
+| **Japan** | $798.6 billion (2014 est.) |
+| | $784.5 billion (2013 est.) |
+| **Jersey** | $NA |
+| **Jordan** | $20.18 billion (2014 est.) |
+| | $19.56 billion (2013 est.) |
+| **Kazakhstan** | $43.58 billion (2014 est.) |
+| | $50.8 billion (2013 est.) |
+| **Kenya** | $17.61 billion (2014 est.) |
+| | $16.02 billion (2013 est.) |
+| **Kiribati** | $182.2 million (2013 est.) |
+| | $172.5 million (2012 est.) |
+| **Korea, North** | $4.647 billion (2013 est.) |
+| | $4.832 billion (2012 est.) |
+| **Korea, South** | $528.6 billion (2014 est.) |
+| | $535.4 billion (2013 est.) |
+| **Kosovo** | $2.687 billion (2014 est.) |
+| | $3.398 billion (2013 est.) |
+| **Kuwait** | $27.38 billion (2014 est.) |
+| | $25.66 billion (2013 est.) |
+| **Kyrgyzstan** | $5.29 billion (2014 est.) |
+| | $5.614 billion (2013 est.) |
+| **Laos** | $4.271 billion (2014 est.) |
+| | $3.02 billion (2013 est.) |
+| **Latvia** | $16.65 billion (2014 est.) |
+| | $16.41 billion (2013 est.) |
+| **Lebanon** | $18.99 billion (2014 est.) |
+| | $19.67 billion (2013 est.) |
+| **Lesotho** | $1.837 billion (2014 est.) |
+| | $1.884 billion (2013 est.) |
+| **Liberia** | $1.052 billion (2014 est.) |
+| | $1.02 billion (2013 est.) |
+| **Libya** | $20.43 billion (2014 est.) |
+| | $34.05 billion (2013 est.) |
+| **Liechtenstein** | $2.09 billion (2012 est.) |
+| | $2.218 billion (2011 est.) |
+| | *note:* trade data exclude trade with Switzerland |
+| **Lithuania** | $33.54 billion (2014 est.) |
+| | $33.11 billion (2013 est.) |
+| **Luxembourg** | $24.79 billion (2014 est.) |
+| | $25.42 billion (2013 est.) |
+| **Macau** | $10.13 billion (2013 est.) |
+| | $8.866 billion (2012 est.) |
+| **Macedonia** | $6.15 billion (2014 est.) |
+| | $5.617 billion (2013 est.) |
+| **Madagascar** | $2.927 billion (2014 est.) |
+| | $2.773 billion (2013 est.) |
+| **Malawi** | $2.808 billion (2014 est.) |
+| | $2.718 billion (2013 est.) |
+| **Malaysia** | $189.8 billion (2014 est.) |
+| | $186.7 billion (2013 est.) |
+| **Maldives** | $1.728 billion (2013 est.) |
+| | $1.55 billion (2012 est.) |
+| **Mali** | $3.14 billion (2014 est.) |
+| | $3.122 billion (2013 est.) |
+| **Malta** | $4.921 billion (2014 est.) |
+| | $5.248 billion (2013 est.) |
+| **Marshall Islands** | $133.7 million (2013 est.) |
+| | $120.9 million (2012) |
+| **Mauritania** | $2.74 billion (2014 est.) |
+| | $2.851 billion (2013 est.) |
+| **Mauritius** | $5.361 billion (2014 est.) |
+| | $5.139 billion (2013 est.) |
+| **Mexico** | $400.4 billion (2014 est.) |
+| | $381.6 billion (2013 est.) |
+| **Micronesia, Federated States of** | $258.5 million (2013 est.) |
+| | $263.4 million (2012 est.) |
+| **Moldova** | $5.264 billion (2014 est.) |
+| | $5.449 billion (2013 est.) |
+| **Monaco** | $1.162 billion (2011) |
+| | $850.2 million (2010) |
+| | *note:* full customs integration with France, which collects and rebates Monegasque trade duties; also participates in EU market system through customs union with France |
+| **Mongolia** | $5.237 billion (2014 est.) |
+| | $6.355 billion (2013 est.) |
+| **Montenegro** | $1.982 billion (2014 est.) |
+| | $2.4 billion (2012 est.) |
+| **Montserrat** | $30 million (2014 est.) |
+| | $35.5 million (2013 est.) |
+| **Morocco** | $40.27 billion (2014 est.) |
+| | $39.85 billion (2013 est.) |
+| **Mozambique** | $7.958 billion (2014 est.) |
+| | $8.48 billion (2013 est.) |
+| **Namibia** | $7.36 billion (2014 est.) |
+| | $6.617 billion (2013 est.) |
+| **Nauru** | $143.1 million (2013 est.) |
+| | $41.2 million (2012 est.) |
+| **Nepal** | $7.72 billion (2014 est.) |
+| | $6.543 billion (2013 est.) |
+| **Netherlands** | $469 billion (2014 est.) |
+| | $467.2 billion (2013 est.) |
+| **New Caledonia** | $3.323 billion (2014 est.) |
+| | $3.24 billion (2013 est.) |
+| **New Zealand** | $41 billion (2014 est.) |
+| | $38.67 billion (2013 est.) |
+| **Nicaragua** | $6.024 billion (2014 est.) |
+| | $5.802 billion (2013 est.) |
+| **Nigeria** | $61.59 billion (2014 est.) |
+| | $51.35 billion (2013 est.) |
+| **Niger** | $2.158 billion (2014 est.) |
+| | $2.083 billion (2013 est.) |
+| **Niue** | $9.038 million (2004) |
+| **Norfolk Island** | $NA |
+| **Northern Mariana Islands** | $606 million (2013) |
+| | $531 million (2012) |
+| **Norway** | $91.13 billion (2014 est.) |
+| | $93.02 billion (2013 est.) |
+| **Oman** | $27.18 billion (2014 est.) |
+| | $31.84 billion (2013 est.) |
+| **Pakistan** | $42.57 billion (2014 est.) |
+| | $41.21 billion (2013 est.) |
+| **Palau** | $177.7 million (2014 est.) |
+| | $146.5 million (2013 est.) |
+| **Panama** | $23.47 billion (2014 est.) |
+| | $24.12 billion (2013 est.) |
+| | *note:* includes the Colon Free Zone |
+| **Papua New Guinea** | $4.013 billion (2014 est.) |
+| | $5.411 billion (2013 est.) |
+| **Paraguay** | $11.86 billion (2014 est.) |
+| | $11.86 billion (2013 est.) |
+| **Peru** | $40.81 billion (2014 est.) |
+| | $42.25 billion (2013 est.) |
+| **Philippines** | $63.61 billion (2014 est.) |
+| | $62.17 billion (2013 est.) |
+| **Pitcairn Islands** | $NA |
+| **Poland** | $215 billion (2014 est.) |
+| | $198.5 billion (2013 est.) |
+| **Portugal** | $74.81 billion (2014 est.) |
+| | $72.49 billion (2013 est.) |
+| **Puerto Rico** | $47.92 billion (2014 est.) |
+| | $49 billion (2013 est.) |
+| **Qatar** | $38.23 billion (2014 est.) |
+| | $31.47 billion (2013 est.) |
+| **Romania** | $69.27 billion (2014 est.) |
+| | $65.55 billion (2013 est.) |
+| **Russia** | $308 billion (2014 est.) |
+| | $341.3 billion (2013 est.) |
+| **Rwanda** | $1.984 billion (2014 est.) |
+| | $1.852 billion (2013 est.) |
+| **Saint Helena, Ascension, and Tristan da Cunha** | $20.53 million (2010 est.) |
+| **Saint Kitts and Nevis** | $241.8 million (2014 est.) |
+| | $251.3 million (2013 est.) |
+| **Saint Lucia** | $558.8 million (2014 est.) |
+| | $496.7 million (2013 est.) |
+| **Saint Pierre and Miquelon** | $95.35 million (2010 est.) |
+| | $68.2 million (2005 est.) |
+| **Saint Vincent and the Grenadines** | $313.6 million (2014 est.) |
+| | $333.5 million (2013 est.) |
+| **Samoa** | $325.3 million (2013 est.) |
+| | $308.4 million (2012 est.) |
+| **San Marino** | $2.551 billion (2011 est.) |
+| | $2.132 billion (2010 est.) |
+| **Sao Tome and Principe** | $145.6 million (2014 est.) |
+| | $128.6 million (2013 est.) |
+| **Saudi Arabia** | $158.5 billion (2014 est.) |
+| | $153.3 billion (2013 est.) |
+| **Senegal** | $5.696 billion (2014 est.) |
+| | $5.699 billion (2013 est.) |
+| **Serbia** | $19.56 billion (2014 est.) |
+| | $19.53 billion (2013 est.) |
+| **Seychelles** | $1.081 billion (2014 est.) |
+| | $1.075 billion (2013 est.) |
+| **Sierra Leone** | $1.829 billion (2014 est.) |
+| | $2.007 billion (2013 est.) |
+| **Singapore** | $360.9 billion (2014 est.) |
+| | $367.2 billion (2013 est.) |
+| **Slovakia** | $79.78 billion (2014 est.) |
+| | $79.78 billion (2013 est.) |
+| **Slovenia** | $28.94 billion (2014 est.) |
+| | $27.87 billion (2013 est.) |
+| **Solomon Islands** | $446 million (2012 est.) |
+| | $464.5 million (2013 est.) |
+| **Somalia** | $1.263 billion (2010 est.) |
+| | $798 million (2006 est.) |
+| **South Africa** | $98.87 billion (2014 est.) |
+| | $103.8 billion (2013 est.) |
+| **Spain** | $345.6 billion (2014 est.) |
+| | $327.6 billion (2013 est.) |
+| **Sri Lanka** | $19.42 billion (2014 est.) |
+| | $18 billion (2013 est.) |
+| **Sudan** | $8.106 billion (2014 est.) |
+| | $8.728 billion (2013 est.) |
+| **Suriname** | $1.966 billion (2014 est.) |
+| | $2.126 billion (2013 est.) |
+| **Svalbard** | $NA |
+| **Swaziland** | $1.687 billion (2014 est.) |
+| | $1.692 billion (2013 est.) |
+| **Sweden** | $161.4 billion (2014 est.) |
+| | $160.1 billion (2013 est.) |
+| **Switzerland** | $272.6 billion (2014 est.) |
+| | $319.8 billion (2013 est.) |
+| **Syria** | $8.028 billion (2014 est.) |
+| | $9.04 billion (2013 est.) |
+| **Taiwan** | $269.9 billion (2014 est.) |
+| | $267.8 billion (2013 est.) |
+| **Tajikistan** | $4.509 billion (2014 est.) |
+| | $4.536 billion (2013 est.) |
+| **Tanzania** | $10.92 billion (2014 est.) |
+| | $11.03 billion (2013 est.) |
+| **Thailand** | $200.2 billion (2014 est.) |
+| | $218.7 billion (2013 est.) |
+| **Timor-Leste** | $764.2 million (2014 est.) |
+| | $696.2 million (2013 est.) |
+| **Togo** | $3.004 billion (2014 est.) |
+| | $2.573 billion (2013 est.) |
+| **Tokelau** | $969,200 (2002) |
+| **Tonga** | $152.7 million (2014 est.) |
+| | $187.7 million (2013 est.) |
+| **Trinidad and Tobago** | $8.904 billion (2014 est.) |
+| | $8.871 billion (2013 est.) |
+| **Tunisia** | $23.4 billion (2014 est.) |
+| | $22.98 billion (2013 est.) |
+| **Turkey** | $232.5 billion (2014 est.) |
+| | $241.7 billion (2013 est.) |
+| **Turkmenistan** | $15.92 billion (2014 est.) |
+| | $15.4 billion (2013 est.) |
+| **Turks and Caicos Islands** | $591.3 million (2008 est.) |
+| **Tuvalu** | $136.5 million (2013 est.) |
+| | $238.6 million (2012 est.) |
+| **Uganda** | $5.116 billion (2014 est.) |
+| | $4.974 billion (2013 est.) |
+| **Ukraine** | $58.2 billion (2014 est.) |
+| | $81.16 billion (2013 est.) |
+| **United Arab Emirates** | $239.8 billion (2014 est.) |
+| | $230 billion (2013 est.) |
+| **United Kingdom** | $802.1 billion (2014 est.) |
+| | $824.4 billion (2013 est.) |
+| **United States** | $2.374 trillion (2014 est.) |
+| | $2.295 trillion (2013 est.) |
+| **Uruguay** | $11.3 billion (2014 est.) |
+| | $11.61 billion (2013 est.) |
+| **Uzbekistan** | $12.92 billion (2014 est.) |
+| | $11.75 billion (2013 est.) |
+| **Vanuatu** | $275.5 million (2014 est.) |
+| | $267.5 million (2013 est.) |
+| **Venezuela** | $44.17 billion (2014 est.) |
+| | $52.99 billion (2013 est.) |
+| **Vietnam** | $138.1 billion (2014 est.) |
+| | $123.4 billion (2013 est.) |
+| **Virgin Islands** | $2.694 billion (2013) |
+| | $3.056 billion (2012) |
+| **Wallis and Futuna** | $61.17 million (2004) |
+| **West Bank** | $6.261 billion (2013 est.) |
+| | $5.918 billion (2012 est.) |
+| | *note:* data include the Gaza Strip |
+| **Western Sahara** | $NA |
+| **World** | $18.86 trillion (2014 est.) |
+| | $18.36 trillion (2013 est.) |
+| **Yemen** | $10.19 billion (2014 est.) |
+| | $10.76 billion (2013 est.) |
+| **Zambia** | $8.595 billion (2014 est.) |
+| | $9.195 billion (2013 est.) |
+| **Zimbabwe** | $5.135 billion (2014 est.) |
+| | $4.571 billion (2013 est.) |

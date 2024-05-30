@@ -1,0 +1,921 @@
+CIA - The World Factbook -- Field Listing - Electricity - production by source
+
+| Country | Electricity - production by source (%) |
+| --- | --- |
+| **Afghanistan** | *fossil fuel:* 36.3% |
+| | *hydro:* 63.7% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Albania** | *fossil fuel:* 2.9% |
+| | *hydro:* 97.1% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Algeria** | *fossil fuel:* 99.7% |
+| | *hydro:* 0.3% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **American Samoa** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Andorra** | *fossil fuel:* 0% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% |
+| **Angola** | *fossil fuel:* 36.4% |
+| | *hydro:* 63.6% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Anguilla** | *fossil fuel:* NA% |
+| | *hydro:* NA% |
+| | *nuclear:* NA% |
+| | *other:* NA% |
+| **Antigua and Barbuda** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Argentina** | *fossil fuel:* 52.2% |
+| | *hydro:* 40.8% |
+| | *nuclear:* 6.7% |
+| | *other:* 0.2% (2001) |
+| **Armenia** | *fossil fuel:* 42.3% |
+| | *hydro:* 27% |
+| | *nuclear:* 30.7% |
+| | *other:* 0% (2001) |
+| **Aruba** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Australia** | *fossil fuel:* 90.8% |
+| | *hydro:* 8.3% |
+| | *nuclear:* 0% |
+| | *other:* 0.9% (2001) |
+| **Austria** | *fossil fuel:* 29.3% |
+| | *hydro:* 67.2% |
+| | *nuclear:* 0% |
+| | *other:* 3.5% (2001) |
+| **Azerbaijan** | *fossil fuel:* 89.7% |
+| | *hydro:* 10.3% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Bahamas, The** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Bahrain** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Bangladesh** | *fossil fuel:* 93.7% |
+| | *hydro:* 6.3% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Barbados** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Belarus** | *fossil fuel:* 99.5% |
+| | *hydro:* 0.1% |
+| | *nuclear:* 0% |
+| | *other:* 0.4% (2001) |
+| **Belgium** | *fossil fuel:* 38.4% |
+| | *hydro:* 0.6% |
+| | *nuclear:* 59.3% |
+| | *other:* 1.8% (2001) |
+| **Belize** | *fossil fuel:* 59.9% |
+| | *hydro:* 40.1% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Benin** | *fossil fuel:* 14.2% |
+| | *hydro:* 85.8% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Bermuda** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Bhutan** | *fossil fuel:* 0.1% |
+| | *hydro:* 99.9% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Bolivia** | *fossil fuel:* 44.4% |
+| | *hydro:* 54% |
+| | *nuclear:* 0% |
+| | *other:* 1.5% (2001) |
+| **Bosnia and Herzegovina** | *fossil fuel:* 53.5% |
+| | *hydro:* 46.5% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Botswana** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Brazil** | *fossil fuel:* 8.3% |
+| | *hydro:* 82.7% |
+| | *nuclear:* 4.4% |
+| | *other:* 4.6% (2001) |
+| **British Virgin Islands** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Brunei** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Bulgaria** | *fossil fuel:* 47.8% |
+| | *hydro:* 8.1% |
+| | *nuclear:* 44.1% |
+| | *other:* 0% (2001) |
+| **Burkina Faso** | *fossil fuel:* 69.9% |
+| | *hydro:* 30.1% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Burma** | *fossil fuel:* 44.4% |
+| | *hydro:* 55.6% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Burundi** | *fossil fuel:* 0.6% |
+| | *hydro:* 99.4% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Cambodia** | *fossil fuel:* 65% |
+| | *hydro:* 35% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Cameroon** | *fossil fuel:* 2.7% |
+| | *hydro:* 97.3% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Canada** | *fossil fuel:* 28% |
+| | *hydro:* 57.9% |
+| | *nuclear:* 12.9% |
+| | *other:* 1.3% (2001) |
+| **Cape Verde** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Cayman Islands** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Central African Republic** | *fossil fuel:* 19.8% |
+| | *hydro:* 80.2% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Chad** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Chile** | *fossil fuel:* 47% |
+| | *hydro:* 51.5% |
+| | *nuclear:* 0% |
+| | *other:* 1.4% (2001) |
+| **China** | *fossil fuel:* 80.2% |
+| | *hydro:* 18.5% |
+| | *nuclear:* 1.2% |
+| | *other:* 0.1% (2001) |
+| **Christmas Island** | *fossil fuel:* NA% |
+| | *hydro:* NA% |
+| | *nuclear:* NA% |
+| | *other:* NA% |
+| **Cocos (Keeling) Islands** | *fossil fuel:* NA% |
+| | *hydro:* NA% |
+| | *nuclear:* NA% |
+| | *other:* NA% |
+| **Colombia** | *fossil fuel:* 26% |
+| | *hydro:* 72.7% |
+| | *nuclear:* 0% |
+| | *other:* 1.3% (2001) |
+| **Comoros** | *fossil fuel:* 90.6% |
+| | *hydro:* 9.4% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Congo, Democratic Republic of the** | *fossil fuel:* 1.8% |
+| | *hydro:* 98.2% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Congo, Republic of the** | *fossil fuel:* 0.3% |
+| | *hydro:* 99.7% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Cook Islands** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Costa Rica** | *fossil fuel:* 1.5% |
+| | *hydro:* 81.9% |
+| | *nuclear:* 0% |
+| | *other:* 16.6% (2001) |
+| **Cote d'Ivoire** | *fossil fuel:* 61.9% |
+| | *hydro:* 38.1% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Croatia** | *fossil fuel:* 33.6% |
+| | *hydro:* 66% |
+| | *nuclear:* 0% |
+| | *other:* 0.4% (2001) |
+| **Cuba** | *fossil fuel:* 93.9% |
+| | *hydro:* 0.6% |
+| | *nuclear:* 0% |
+| | *other:* 5.4% (2001) |
+| **Cyprus** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Czech Republic** | *fossil fuel:* 76.1% |
+| | *hydro:* 2.9% |
+| | *nuclear:* 20% |
+| | *other:* 1% (2001) |
+| **Denmark** | *fossil fuel:* 82.7% |
+| | *hydro:* 0.1% |
+| | *nuclear:* 0% |
+| | *other:* 17.3% (2001) |
+| **Djibouti** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Dominica** | *fossil fuel:* 47.1% |
+| | *hydro:* 52.9% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Dominican Republic** | *fossil fuel:* 92% |
+| | *hydro:* 7.6% |
+| | *nuclear:* 0% |
+| | *other:* 0.4% (2001) |
+| **East Timor** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Ecuador** | *fossil fuel:* 81% |
+| | *hydro:* 19% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Egypt** | *fossil fuel:* 81% |
+| | *hydro:* 19% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **El Salvador** | *fossil fuel:* 44% |
+| | *hydro:* 30.9% |
+| | *nuclear:* 0% |
+| | *other:* 25.1% (2001) |
+| **Equatorial Guinea** | *fossil fuel:* 94.3% |
+| | *hydro:* 5.7% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Eritrea** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Estonia** | *fossil fuel:* 99.8% |
+| | *hydro:* 0.1% |
+| | *nuclear:* 0% |
+| | *other:* 0.2% (2001) |
+| **Ethiopia** | *fossil fuel:* 1.3% |
+| | *hydro:* 97.6% |
+| | *nuclear:* 0% |
+| | *other:* 1.2% (2001) |
+| **Falkland Islands (Islas Malvinas)** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Faroe Islands** | *fossil fuel:* 62.4% |
+| | *hydro:* 37.6% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Fiji** | *fossil fuel:* 18.5% |
+| | *hydro:* 81.5% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Finland** | *fossil fuel:* 39% |
+| | *hydro:* 18.7% |
+| | *nuclear:* 30.4% |
+| | *other:* 11.8% (2001) |
+| **France** | *fossil fuel:* 8.2% |
+| | *hydro:* 14% |
+| | *nuclear:* 77.1% |
+| | *other:* 0.7% (2001) |
+| **French Guiana** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **French Polynesia** | *fossil fuel:* 60.7% |
+| | *hydro:* 39.3% |
+| | *nuclear:* 0% |
+| | *other:* 0%; note - sun, wind, biomass (2001) |
+| **Gabon** | *fossil fuel:* 34.5% |
+| | *hydro:* 65.5% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Gambia, The** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Georgia** | *fossil fuel:* 19.7% |
+| | *hydro:* 80.3% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Germany** | *fossil fuel:* 61.8% |
+| | *hydro:* 4.2% |
+| | *nuclear:* 29.9% |
+| | *other:* 4.1% (2001) |
+| **Ghana** | *fossil fuel:* 5% |
+| | *hydro:* 95% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Gibraltar** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Greece** | *fossil fuel:* 94.5% |
+| | *hydro:* 3.8% |
+| | *nuclear:* 0% |
+| | *other:* 1.7% (2001) |
+| **Greenland** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% |
+| | *note:* Greenland is shifting its electricity production from fossil fuel to hydropower production (2001) |
+| **Grenada** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Guadeloupe** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Guam** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Guatemala** | *fossil fuel:* 51.9% |
+| | *hydro:* 35.2% |
+| | *nuclear:* 0% |
+| | *other:* 12.9% (2001) |
+| **Guernsey** | *fossil fuel:* 0% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% |
+| **Guinea** | *fossil fuel:* 45.5% |
+| | *hydro:* 54.5% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Guinea-Bissau** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Guyana** | *fossil fuel:* 99.4% |
+| | *hydro:* 0.6% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Haiti** | *fossil fuel:* 60.3% |
+| | *hydro:* 39.7% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Honduras** | *fossil fuel:* 50.2% |
+| | *hydro:* 49.8% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Hong Kong** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Hungary** | *fossil fuel:* 60.1% |
+| | *hydro:* 0.5% |
+| | *nuclear:* 39% |
+| | *other:* 0.3% (2001) |
+| **Iceland** | *fossil fuel:* 0.1% |
+| | *hydro:* 82.5% |
+| | *nuclear:* 0% |
+| | *other:* 17.5% (2001) |
+| **India** | *fossil fuel:* 81.7% |
+| | *hydro:* 14.5% |
+| | *nuclear:* 3.4% |
+| | *other:* 0.3% (2001) |
+| **Indonesia** | *fossil fuel:* 86.9% |
+| | *hydro:* 10.5% |
+| | *nuclear:* 0% |
+| | *other:* 2.5% (2001) |
+| **Iran** | *fossil fuel:* 97.1% |
+| | *hydro:* 2.9% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Iraq** | *fossil fuel:* 98.4% |
+| | *hydro:* 1.6% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Ireland** | *fossil fuel:* 95.9% |
+| | *hydro:* 2.3% |
+| | *nuclear:* 0% |
+| | *other:* 1.7% (2001) |
+| **Israel** | *fossil fuel:* 99.9% |
+| | *hydro:* 0.1% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Italy** | *fossil fuel:* 78.6% |
+| | *hydro:* 18.4% |
+| | *nuclear:* 0% |
+| | *other:* 3% (2001) |
+| **Jamaica** | *fossil fuel:* 96.8% |
+| | *hydro:* 1.8% |
+| | *nuclear:* 0% |
+| | *other:* 1.5% (2001) |
+| **Japan** | *fossil fuel:* 60% |
+| | *hydro:* 8.4% |
+| | *nuclear:* 29.8% |
+| | *other:* 1.8% (2001) |
+| **Jordan** | *fossil fuel:* 99.4% |
+| | *hydro:* 0.6% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Kazakhstan** | *fossil fuel:* 84.3% |
+| | *hydro:* 15.7% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Kenya** | *fossil fuel:* 71% |
+| | *hydro:* 17.7% |
+| | *nuclear:* 0% |
+| | *other:* 11.3% (2001) |
+| **Kiribati** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Korea, North** | *fossil fuel:* 29% |
+| | *hydro:* 71% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Korea, South** | *fossil fuel:* 62.4% |
+| | *hydro:* 0.8% |
+| | *nuclear:* 36.6% |
+| | *other:* 0.2% (2001) |
+| **Kuwait** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Kyrgyzstan** | *fossil fuel:* 7.6% |
+| | *hydro:* 92.4% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Laos** | *fossil fuel:* 1.4% |
+| | *hydro:* 98.6% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Latvia** | *fossil fuel:* 29.1% |
+| | *hydro:* 70.9% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Lebanon** | *fossil fuel:* 97.2% |
+| | *hydro:* 2.8% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Liberia** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Libya** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Liechtenstein** | *fossil fuel:* 0% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2002) |
+| **Lithuania** | *fossil fuel:* 16.5% |
+| | *hydro:* 5.7% |
+| | *nuclear:* 77.7% |
+| | *other:* 0% (2001) |
+| **Luxembourg** | *fossil fuel:* 57.3% |
+| | *hydro:* 25.2% |
+| | *nuclear:* 0% |
+| | *other:* 17.5% (2001) |
+| **Macau** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Macedonia, The Former Yugoslav Republic of** | *fossil fuel:* 83.7% |
+| | *hydro:* 16.3% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Madagascar** | *fossil fuel:* 36.1% |
+| | *hydro:* 63.9% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Malawi** | *fossil fuel:* 3.3% |
+| | *hydro:* 96.7% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Malaysia** | *fossil fuel:* 89.5% |
+| | *hydro:* 10.5% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Maldives** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Mali** | *fossil fuel:* 41.7% |
+| | *hydro:* 58.3% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Malta** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Marshall Islands** | *fossil fuel:* 99% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 1% (solar) |
+| **Martinique** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Mauritania** | *fossil fuel:* 85.9% |
+| | *hydro:* 14.1% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Mauritius** | *fossil fuel:* 90.8% |
+| | *hydro:* 9.2% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Mayotte** | *fossil fuel:* 0% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% |
+| **Mexico** | *fossil fuel:* 78.7% |
+| | *hydro:* 14.2% |
+| | *nuclear:* 4.2% |
+| | *other:* 2.9% (2001) |
+| **Micronesia, Federated States of** | *fossil fuel:* 0% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% |
+| **Moldova** | *fossil fuel:* 90.6% |
+| | *hydro:* 9.4% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Mongolia** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Montserrat** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Morocco** | *fossil fuel:* 95.4% |
+| | *hydro:* 4.6% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Mozambique** | *fossil fuel:* 2.9% |
+| | *hydro:* 97.1% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Namibia** | *fossil fuel:* 0% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% |
+| **Nauru** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Nepal** | *fossil fuel:* 8.5% |
+| | *hydro:* 91.5% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Netherlands** | *fossil fuel:* 89.9% |
+| | *hydro:* 0.1% |
+| | *nuclear:* 4.3% |
+| | *other:* 5.7% (2001) |
+| **Netherlands Antilles** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **New Caledonia** | *fossil fuel:* 76.3% |
+| | *hydro:* 23.7% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **New Zealand** | *fossil fuel:* 31.6% |
+| | *hydro:* 57.8% |
+| | *nuclear:* 0% |
+| | *other:* 10.7% (2001) |
+| **Nicaragua** | *fossil fuel:* 83.9% |
+| | *hydro:* 7.7% |
+| | *nuclear:* 0% |
+| | *other:* 8.4% (2001) |
+| **Niger** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Nigeria** | *fossil fuel:* 61.9% |
+| | *hydro:* 38.1% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Niue** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Norfolk Island** | *fossil fuel:* 0% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2002) |
+| **Norway** | *fossil fuel:* 0.4% |
+| | *hydro:* 99.3% |
+| | *nuclear:* 0% |
+| | *other:* 0.4% (2001) |
+| **Oman** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Pakistan** | *fossil fuel:* 68.8% |
+| | *hydro:* 28.2% |
+| | *nuclear:* 3% |
+| | *other:* 0% (2001) |
+| **Palau** | 0% |
+| **Panama** | *fossil fuel:* 37% |
+| | *hydro:* 61.3% |
+| | *nuclear:* 0% |
+| | *other:* 1.7% (2001) |
+| **Papua New Guinea** | *fossil fuel:* 54.1% |
+| | *hydro:* 45.9% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Paraguay** | *fossil fuel:* 0% |
+| | *hydro:* 99.9% |
+| | *nuclear:* 0% |
+| | *other:* 0.1% (2001) |
+| **Peru** | *fossil fuel:* 14.5% |
+| | *hydro:* 84.7% |
+| | *nuclear:* 0% |
+| | *other:* 0.8% (2001) |
+| **Philippines** | *fossil fuel:* 55.6% |
+| | *hydro:* 17.5% |
+| | *nuclear:* 0% |
+| | *other:* 26.9% (2001) |
+| **Poland** | *fossil fuel:* 98.1% |
+| | *hydro:* 1.5% |
+| | *nuclear:* 0% |
+| | *other:* 0.4% (2001) |
+| **Portugal** | *fossil fuel:* 64.5% |
+| | *hydro:* 31.3% |
+| | *nuclear:* 0% |
+| | *other:* 4.1% (2001) |
+| **Puerto Rico** | *fossil fuel:* 99.2% |
+| | *hydro:* 0.8% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Qatar** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Reunion** | *fossil fuel:* 55.5% |
+| | *hydro:* 44.5% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Romania** | *fossil fuel:* 62.5% |
+| | *hydro:* 27.6% |
+| | *nuclear:* 9.9% |
+| | *other:* 0% (2001) |
+| **Russia** | *fossil fuel:* 64.3% |
+| | *hydro:* 20.5% |
+| | *nuclear:* 14.8% |
+| | *other:* 0.4% (2001) |
+| **Rwanda** | *fossil fuel:* 2.3% |
+| | *hydro:* 97.7% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Saint Helena** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Saint Kitts and Nevis** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Saint Lucia** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Saint Pierre and Miquelon** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Saint Vincent and the Grenadines** | *fossil fuel:* 69.3% |
+| | *hydro:* 30.7% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Samoa** | *fossil fuel:* 58% |
+| | *hydro:* 42% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **San Marino** | *fossil fuel:* 41.18% |
+| | *hydro:* 58.82% |
+| | *nuclear:* 0% |
+| | *other:* 0% |
+| **Sao Tome and Principe** | *fossil fuel:* 41.2% |
+| | *hydro:* 58.8% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Saudi Arabia** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Senegal** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Serbia and Montenegro** | *fossil fuel:* 62.9% |
+| | *hydro:* 37.1% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Seychelles** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Sierra Leone** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Singapore** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Slovakia** | *fossil fuel:* 30.3% |
+| | *hydro:* 16% |
+| | *nuclear:* 53.6% |
+| | *other:* 0% (2001) |
+| **Slovenia** | *fossil fuel:* 35.2% |
+| | *hydro:* 27.3% |
+| | *nuclear:* 36.8% |
+| | *other:* 0.7% (2001) |
+| **Solomon Islands** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Somalia** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **South Africa** | *fossil fuel:* 93.5% |
+| | *hydro:* 1.1% |
+| | *nuclear:* 5.5% |
+| | *other:* 0% (2001) |
+| **Spain** | *fossil fuel:* 50.4% |
+| | *hydro:* 18.2% |
+| | *nuclear:* 27.2% |
+| | *other:* 4.1% (2001) |
+| **Sri Lanka** | *fossil fuel:* 51.7% |
+| | *hydro:* 48.3% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Sudan** | *fossil fuel:* 52.1% |
+| | *hydro:* 47.9% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Suriname** | *fossil fuel:* 25.2% |
+| | *hydro:* 74.8% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Svalbard** | *fossil fuel:* 58% |
+| | *hydro:* 42% |
+| | *nuclear:* 0% |
+| | *other:* 0% |
+| **Swaziland** | *fossil fuel:* 58% |
+| | *hydro:* 42% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Sweden** | *fossil fuel:* 4% |
+| | *hydro:* 50.8% |
+| | *nuclear:* 43% |
+| | *other:* 2.3% (2001) |
+| **Switzerland** | *fossil fuel:* 1.3% |
+| | *hydro:* 59.5% |
+| | *nuclear:* 37.1% |
+| | *other:* 2% (2001) |
+| **Syria** | *fossil fuel:* 57.6% |
+| | *hydro:* 42.4% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Taiwan** | *fossil fuel:* 71.4% |
+| | *hydro:* 6% |
+| | *nuclear:* 22.6% |
+| | *other:* 0% (2001) |
+| **Tajikistan** | *fossil fuel:* 1.9% |
+| | *hydro:* 98.1% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Tanzania** | *fossil fuel:* 18.9% |
+| | *hydro:* 81.1% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Thailand** | *fossil fuel:* 91.3% |
+| | *hydro:* 6.4% |
+| | *nuclear:* 0% |
+| | *other:* 2.4% (2001) |
+| **Togo** | *fossil fuel:* 98.7% |
+| | *hydro:* 1.3% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Tokelau** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Tonga** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Trinidad and Tobago** | *fossil fuel:* 99.8% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0.2% (2001) |
+| **Tunisia** | *fossil fuel:* 99.5% |
+| | *hydro:* 0.5% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Turkey** | *fossil fuel:* 79.3% |
+| | *hydro:* 20.4% |
+| | *nuclear:* 0% |
+| | *other:* 0.3% (2001) |
+| **Turkmenistan** | *fossil fuel:* 99.9% |
+| | *hydro:* 0.1% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Turks and Caicos Islands** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Tuvalu** | *fossil fuel:* NA% |
+| | *hydro:* NA% |
+| | *nuclear:* NA% |
+| | *other:* NA% |
+| **Uganda** | *fossil fuel:* 0.9% |
+| | *hydro:* 99.1% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Ukraine** | *fossil fuel:* 48.6% |
+| | *hydro:* 7.9% |
+| | *nuclear:* 43.5% |
+| | *other:* 0% (2001) |
+| **United Arab Emirates** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **United Kingdom** | *fossil fuel:* 73.8% |
+| | *hydro:* 0.9% |
+| | *nuclear:* 23.7% |
+| | *other:* 1.6% (2001) |
+| **United States** | *fossil fuel:* 71.4% |
+| | *hydro:* 5.6% |
+| | *nuclear:* 20.7% |
+| | *other:* 2.3% (2001) |
+| **Uruguay** | *fossil fuel:* 0.7% |
+| | *hydro:* 99.1% |
+| | *nuclear:* 0% |
+| | *other:* 0.3% (2001) |
+| **Uzbekistan** | *fossil fuel:* 88.2% |
+| | *hydro:* 11.8% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Vanuatu** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Venezuela** | *fossil fuel:* 31.7% |
+| | *hydro:* 68.3% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Vietnam** | *fossil fuel:* 43.7% |
+| | *hydro:* 56.3% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Virgin Islands** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Wallis and Futuna** | *fossil fuel:* 0% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% |
+| **West Bank** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% |
+| **Western Sahara** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **World** | *fossil fuel:* NA% |
+| | *hydro:* NA% |
+| | *nuclear:* NA% |
+| | *other:* NA% |
+| **Yemen** | *fossil fuel:* 100% |
+| | *hydro:* 0% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Zambia** | *fossil fuel:* 0.5% |
+| | *hydro:* 99.5% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+| **Zimbabwe** | *fossil fuel:* 47% |
+| | *hydro:* 53% |
+| | *nuclear:* 0% |
+| | *other:* 0% (2001) |
+
+This page was last updated on 18 December, 2003
+ 

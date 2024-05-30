@@ -1,0 +1,737 @@
+CIA - The World Factbook -- Field Listing :: Airports - with unpaved runways   
+
+This entry gives the total number of airports with unpaved runways (grass, dirt, sand, or gravel surfaces) by length. For airports with more than one runway, only the longest runway is included according to the following five groups - (1) over 3,047 m (over 10,000 ft), (2) 2,438 to 3,047 m (8,000 to 10,000 ft), (3) 1,524 to 2,437 m (5,000 to 8,000 ft), (4) 914 to 1,523 m (3,000 to 5,000 ft), and (5) under 914 m (under 3,000 ft). Only airports with usable runways are included in this listing. Not all airports have facilities for refueling, maintenance, or air traffic control. The type aircraft capable of operating from a runway of a given length is dependent upon a number of factors including elevation of the runway, runway gradient, average maximum daily temperature at the airport, engine types, flap settings, and take-off weight of the aircraft.
+
+| Country | Airports - with unpaved runways |
+| --- | --- |
+| **Afghanistan** | *total:* 29 |
+| | *2,438 to 3,047 m:* 5 |
+| | *1,524 to 2,437 m:* 12 |
+| | *914 to 1,523 m:* 6 |
+| | *under 914 m:* 6 (2012) |
+| **Albania** | *total:* 1 |
+| | *914 to 1,523 m:* 1 (2012) |
+| **Algeria** | *total:* 82 |
+| | *2,438 to 3,047 m:* 2 |
+| | *1,524 to 2,437 m:* 18 |
+| | *914 to 1,523 m:* 39 |
+| | *under 914 m:* 23 (2012) |
+| **Angola** | *total:* 146 |
+| | *over 3,047 m:* 3 |
+| | *2,438 to 3,047 m:* 3 |
+| | *1,524 to 2,437 m:* 31 |
+| | *914 to 1,523 m:* 66 |
+| | *under 914 m:* 43 (2012) |
+| **Anguilla** | *total:* 2 |
+| | *under 914 m:* 2 (2012) |
+| **Antarctica** | *total:* 23 |
+| | *over 3,047 m:* 3 |
+| | *2,438 to 3,047 m:* 5 |
+| | *914 to 1,523 m:* 9 |
+| | *under 914 m:* 6 (2012) |
+| **Antigua and Barbuda** | *total:* 1 |
+| | *under 914 m:* 1 (2012) |
+| **Argentina** | *total:* 990 |
+| | *over 3,047 m:* 1 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 45 |
+| | *914 to 1,523 m:* 499 |
+| | *under 914 m:* 444 (2012) |
+| **Armenia** | *total:* 1 |
+| | *914 to 1,523 m:* 1 (2012) |
+| **Australia** | *total:* 134 |
+| | *1,524 to 2,437 m:* 19 |
+| | *914 to 1,523 m:* 101 |
+| | *under 914 m:* 14 (2012) |
+| **Austria** | *total:* 28 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 3 |
+| | *under 914 m:* 24 (2012) |
+| **Azerbaijan** | *total:* 7 |
+| | *under 914 m:* 7 (2012) |
+| **Bahamas, The** | *total:* 39 |
+| | *1,524 to 2,437 m:* 4 |
+| | *914 to 1,523 m:* 15 |
+| | *under 914 m:* 20 (2012) |
+| **Bangladesh** | *total:* 2 |
+| | *1,524 to 2,437 m:* 1 |
+| | *under 914 m:* 1 (2012) |
+| **Belarus** | *total:* 31 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 2 |
+| | *under 914 m:* 28 (2012) |
+| **Belgium** | *total:* 16 |
+| | *under 914 m:* 16 (2012) |
+| **Belize** | *total:* 37 |
+| | *2,438 to 3,047 m:* 1 |
+| | *914 to 1,523 m:* 10 |
+| | *under 914 m:* 26 (2012) |
+| **Benin** | *total:* 4 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 2 (2012) |
+| **Bhutan** | *total:* 1 |
+| | *914 to 1,523 m:* 1 (2012) |
+| **Bolivia** | *total:* 844 |
+| | *over 3,047 m:* 1 |
+| | *2,438 to 3,047 m:* 4 |
+| | *1,524 to 2,437 m:* 51 |
+| | *914 to 1,523 m:* 157 |
+| | *under 914 m:* 631 (2012) |
+| **Bosnia and Herzegovina** | *total:* 18 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 6 |
+| | *under 914 m:* 11 (2012) |
+| **Botswana** | *total:* 66 |
+| | *1,524 to 2,437 m:* 5 |
+| | *914 to 1,523 m:* 47 |
+| | *under 914 m:* 14 (2012) |
+| **Brazil** | *total:* 3,392 |
+| | *1,524 to 2,437 m:* 91 |
+| | *914 to 1,523 m:* 1,648 |
+| | *under 914 m:* 1,653 (2012) |
+| **British Virgin Islands** | *total:* 2 |
+| | *914 to 1,523 m:* 2 (2012) |
+| **Bulgaria** | *total:* 78 |
+| | *914 to 1,523 m:* 6 |
+| | *under 914 m:* 72 (2012) |
+| **Burkina Faso** | *total:* 22 |
+| | *1,524 to 2,437 m:* 4 |
+| | *914 to 1,523 m:* 12 |
+| | *under 914 m:* 6 (2012) |
+| **Burma** | *total:* 38 |
+| | *over 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 4 |
+| | *914 to 1,523 m:* 10 |
+| | *under 914 m:* 23 (2012) |
+| **Burundi** | *total:* 6 |
+| | *914 to 1,523 m:* 4 |
+| | *under 914 m:* 2 (2012) |
+| **Cambodia** | *total:* 10 |
+| | *1,524 to 2,437 m:* 2 |
+| | *914 to 1,523 m:* 7 |
+| | *under 914 m:* 1 (2012) |
+| **Cameroon** | *total:* 23 |
+| | *1,524 to 2,437 m:* 3 |
+| | *914 to 1,523 m:* 13 |
+| | *under 914 m:* 7 (2012) |
+| **Canada** | *total:* 931 |
+| | *1,524 to 2,437 m:* 72 |
+| | *914 to 1,523 m:* 387 |
+| | *under 914 m:* 472 (2012) |
+| **Cape Verde** | *total:* 1 |
+| | *under 914 m:* 1 (2010) |
+| **Cayman Islands** | *total:* 1 |
+| | *914 to 1,523 m:* 1 (2012) |
+| **Central African Republic** | *total:* 38 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 12 |
+| | *914 to 1,523 m:* 19 |
+| | *under 914 m:* 6 (2012) |
+| **Chad** | *total:* 49 |
+| | *2,438 to 3,047 m:* 2 |
+| | *1,524 to 2,437 m:* 16 |
+| | *914 to 1,523 m:* 20 |
+| | *under 914 m:* 11 (2012) |
+| **Chile** | *total:* 388 |
+| | *2,438 to 3,047 m:* 5 |
+| | *1,524 to 2,437 m:* 11 |
+| | *914 to 1,523 m:* 54 |
+| | *under 914 m:* 318 (2012) |
+| **China** | *total:* 45 |
+| | *over 3,047 m:* 2 |
+| | *2,438 to 3,047 m:* 2 |
+| | *1,524 to 2,437 m:* 10 |
+| | *914 to 1,523 m:* 10 |
+| | *under 914 m:* 21 (2012) |
+| **Colombia** | *total:* 741 |
+| | *over 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 25 |
+| | *914 to 1,523 m:* 178 |
+| | *under 914 m:* 537 (2012) |
+| **Congo, Democratic Republic of the** | *total:* 175 |
+| | *1,524 to 2,437 m:* 19 |
+| | *914 to 1,523 m:* 94 |
+| | *under 914 m:* 62 (2012) |
+| **Congo, Republic of the** | *total:* 18 |
+| | *1,524 to 2,437 m:* 8 |
+| | *914 to 1,523 m:* 9 |
+| | *under 914 m:* 1 (2012) |
+| **Cook Islands** | *total:* 10 |
+| | *1,524 to 2,437 m:* 2 |
+| | *914 to 1,523 m:* 7 |
+| | *under 914 m:* 1 (2012) |
+| **Costa Rica** | *total:* 112 |
+| | *914 to 1,523 m:* 19 |
+| | *under 914 m:* 93 (2012) |
+| **Cote d'Ivoire** | *total:* 20 |
+| | *1,524 to 2,437 m:* 6 |
+| | *914 to 1,523 m:* 11 |
+| | *under 914 m:* 3 (2012) |
+| **Croatia** | *total:* 45 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 6 |
+| | *under 914 m:* 38 (2012) |
+| **Cuba** | *total:* 71 |
+| | *914 to 1,523 m:* 12 |
+| | *under 914 m:* 59 (2012) |
+| **Cyprus** | *total:* 2 |
+| | *under 914 m:* 2 (2012) |
+| **Czech Republic** | *total:* 87 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 26 |
+| | *under 914 m:* 60 (2012) |
+| **Denmark** | *total:* 61 |
+| | *914 to 1,523 m:* 2 |
+| | *under 914 m:* 59 (2012) |
+| **Djibouti** | *total:* 10 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 7 |
+| | *under 914 m:* 2 (2012) |
+| **Dominican Republic** | *total:* 20 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 1 |
+| | *under 914 m:* 18 (2012) |
+| **Ecuador** | *total:* 330 |
+| | *914 to 1,523 m:* 40 |
+| | *under 914 m:* 290 (2012) |
+| **Egypt** | *total:* 12 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 3 |
+| | *914 to 1,523 m:* 5 |
+| | *under 914 m:* 3 (2012) |
+| **El Salvador** | *total:* 60 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 11 |
+| | *under 914 m:* 48 (2012) |
+| **Equatorial Guinea** | *total:* 1 |
+| | *2,438 to 3,047 m:* 1 (2012) |
+| **Eritrea** | *total:* 9 |
+| | *over 3,047 m:* 1 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 5 |
+| | *914 to 1,523 m:* 2 (2012) |
+| **Estonia** | *total:* 5 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 1 |
+| | *under 914 m:* 3 (2012) |
+| **Ethiopia** | *total:* 41 |
+| | *2,438 to 3,047 m:* 3 |
+| | *1,524 to 2,437 m:* 9 |
+| | *914 to 1,523 m:* 22 |
+| | *under 914 m:* 7 (2012) |
+| **European Union** | *total:* 1,361 |
+| | *over 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 14 |
+| | *914 to 1,523 m:* 249 |
+| | *under 914 m:* 1,097 (2012) |
+| **Falkland Islands (Islas Malvinas)** | *total:* 5 |
+| | *under 914 m:* 5 (2012) |
+| **Fiji** | *total:* 24 |
+| | *914 to 1,523 m:* 5 |
+| | *under 914 m:* 19 (2012) |
+| **Finland** | *total:* 73 |
+| | *914 to 1,523 m:* 3 |
+| | *under 914 m:* 70 (2012) |
+| **France** | *total:* 176 |
+| | *914 to 1,523 m:* 67 |
+| | *under 914 m:* 109 (2012) |
+| **French Polynesia** | *total:* 7 |
+| | *914 to 1,523 m:* 3 |
+| | *under 914 m:* 4 (2012) |
+| **Gabon** | *total:* 31 |
+| | *1,524 to 2,437 m:* 7 |
+| | *914 to 1,523 m:* 10 |
+| | *under 914 m:* 14 (2012) |
+| **Georgia** | *total:* 4 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 2 |
+| | *under 914 m:* 1 (2012) |
+| **Germany** | *total:* 219 |
+| | *1,524 to 2,437 m:* 2 |
+| | *914 to 1,523 m:* 32 |
+| | *under 914 m:* 185 (2012) |
+| **Ghana** | *total:* 3 |
+| | *914 to 1,523 m:* 3 (2012) |
+| **Greece** | *total:* 15 |
+| | *914 to 1,523 m:* 2 |
+| | *under 914 m:* 13 (2012) |
+| **Greenland** | *total:* 5 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 2 |
+| | *under 914 m:* 2 (2012) |
+| **Guam** | *total:* 1 |
+| | *under 914 m:* 1 (2012) |
+| **Guatemala** | *total:* 276 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 2 |
+| | *914 to 1,523 m:* 79 |
+| | *under 914 m:* 194 (2012) |
+| **Guinea** | *total:* 12 |
+| | *1,524 to 2,437 m:* 7 |
+| | *914 to 1,523 m:* 3 |
+| | *under 914 m:* 2 (2012) |
+| **Guinea-Bissau** | *total:* 6 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 2 |
+| | *under 914 m:* 3 (2012) |
+| **Guyana** | *total:* 87 |
+| | *914 to 1,523 m:* 13 |
+| | *under 914 m:* 74 (2012) |
+| **Haiti** | *total:* 10 |
+| | *914 to 1,523 m:* 2 |
+| | *under 914 m:* 8 (2012) |
+| **Honduras** | *total:* 91 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 17 |
+| | *under 914 m:* 73 (2012) |
+| **Hungary** | *total:* 21 |
+| | *1,524 to 2,437 m:* 2 |
+| | *914 to 1,523 m:* 8 |
+| | *under 914 m:* 11 (2012) |
+| **Iceland** | *total:* 93 |
+| | *1,524 to 2,437 m:* 3 |
+| | *914 to 1,523 m:* 27 |
+| | *under 914 m:* 63 (2012) |
+| **India** | *total:* 101 |
+| | *over 3,047 m:* 1 |
+| | *2,438 to 3,047 m:* 4 |
+| | *1,524 to 2,437 m:* 6 |
+| | *914 to 1,523 m:* 42 |
+| | *under 914 m:* 48 (2012) |
+| **Indonesia** | *total:* 491 |
+| | *1,524 to 2,437 m:* 5 |
+| | *914 to 1,523 m:* 24 |
+| | *under 914 m:* 462 (2012) |
+| **Iran** | *total:* 188 |
+| | *over 3,047 m:* 1 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 10 |
+| | *914 to 1,523 m:* 142 |
+| | *under 914 m:* 34 (2012) |
+| **Iraq** | *total:* 29 |
+| | *over 3,047 m:* 3 |
+| | *2,438 to 3,047 m:* 4 |
+| | *1,524 to 2,437 m:* 3 |
+| | *914 to 1,523 m:* 13 |
+| | *under 914 m:* 6 (2012) |
+| **Ireland** | *total:* 23 |
+| | *914 to 1,523 m:* 2 |
+| | *under 914 m:* 21 (2012) |
+| **Israel** | *total:* 18 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 3 |
+| | *under 914 m:* 14 (2012) |
+| **Italy** | *total:* 31 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 11 |
+| | *under 914 m:* 19 (2012) |
+| **Jamaica** | *total:* 15 |
+| | *under 914 m:* (2012) |
+| **Jan Mayen** | *total:* 1 |
+| | *1,524 to 2,437 m:* 1 (2012) |
+| **Japan** | *total:* 32 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 3 |
+| | *under 914 m:* 28 (2012) |
+| **Jordan** | *total:* 2 |
+| | *under 914 m:* 2 (2012) |
+| **Kazakhstan** | *total:* 33 |
+| | *over 3,047 m:* 5 |
+| | *2,438 to 3,047 m:* 7 |
+| | *1,524 to 2,437 m:* 3 |
+| | *914 to 1,523 m:* 5 |
+| | *under 914 m:* 13 (2012) |
+| **Kenya** | *total:* 179 |
+| | *1,524 to 2,437 m:* 14 |
+| | *914 to 1,523 m:* 110 |
+| | *under 914 m:* 55 (2012) |
+| **Kiribati** | *total:* 15 |
+| | *914 to 1,523 m:* 10 |
+| | *under 914 m:* 5 (2012) |
+| **Korea, North** | *total:* 42 |
+| | *2,438 to 3,047 m:* 3 |
+| | *1,524 to 2,437 m:* 17 |
+| | *914 to 1,523 m:* 14 |
+| | *under 914 m:* 8 (2012) |
+| **Korea, South** | *total:* 43 |
+| | *914 to 1,523 m:* 2 |
+| | *under 914 m:* 41 (2012) |
+| **Kosovo** | *total:* 4 |
+| | *under 914 m:* 4 (2012) |
+| **Kuwait** | *total:* 3 |
+| | *1,524 to 2,437 m:* 1 |
+| | *under 914 m:* 2 (2012) |
+| **Kyrgyzstan** | *total:* 10 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 1 |
+| | *under 914 m:* 8 (2012) |
+| **Laos** | *total:* 33 |
+| | *1,524 to 2,437 m:* 2 |
+| | *914 to 1,523 m:* 9 |
+| | *under 914 m:* 22 (2012) |
+| **Latvia** | *total:* 23 |
+| | *under 914 m:* 23 (2012) |
+| **Lebanon** | *total:* 2 |
+| | *914 to 1,523 m:* 2 (2012) |
+| **Lesotho** | *total:* 21 |
+| | *914 to 1,523 m:* 5 |
+| | *under 914 m:* 16 (2012) |
+| **Liberia** | *total:* 27 |
+| | *1,524 to 2,437 m:* 5 |
+| | *914 to 1,523 m:* 8 |
+| | *under 914 m:* 14 (2012) |
+| **Libya** | *total:* 80 |
+| | *over 3,047 m:* 4 |
+| | *2,438 to 3,047 m:* 3 |
+| | *1,524 to 2,437 m:* 13 |
+| | *914 to 1,523 m:* 40 |
+| | *under 914 m:* 20 (2012) |
+| **Lithuania** | *total:* 55 |
+| | *over 3,047 m:* 1 |
+| | *914 to 1,523 m:* 2 |
+| | *under 914 m:* 52 (2012) |
+| **Luxembourg** | *total:* 1 |
+| | *under 914 m:* 1 (2012) |
+| **Macedonia** | *total:* 4 |
+| | *914 to 1,523 m:* 1 |
+| | *under 914 m:* 3 (2012) |
+| **Madagascar** | *total:* 56 |
+| | *1,524 to 2,437 m:* 2 |
+| | *914 to 1,523 m:* 36 |
+| | *under 914 m:* 18 (2012) |
+| **Malawi** | *total:* 24 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 12 |
+| | *under 914 m:* 11 (2012) |
+| **Malaysia** | *total:* 78 |
+| | *914 to 1,523 m:* 7 |
+| | *under 914 m:* 71 (2012) |
+| **Maldives** | *total:* 2 |
+| | *914 to 1,523 m:* 2 (2012) |
+| **Mali** | *total:* 13 |
+| | *1,524 to 2,437 m:* 4 |
+| | *914 to 1,523 m:* 6 |
+| | *under 914 m:* 3 (2012) |
+| **Marshall Islands** | *total:* 11 |
+| | *914 to 1,523 m:* 10 |
+| | *under 914 m:* 1 (2012) |
+| **Mauritania** | *total:* 18 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 7 |
+| | *914 to 1,523 m:* 8 |
+| | *under 914 m:* 2 (2012) |
+| **Mauritius** | *total:* 3 |
+| | *914 to 1,523 m:* 2 |
+| | *under 914 m:* 1 (2012) |
+| **Mexico** | *total:* 1,475 |
+| | *over 3,047 m:* 1 |
+| | *2,438 to 3,047 m:* 2 |
+| | *1,524 to 2,437 m:* 44 |
+| | *914 to 1,523 m:* 288 |
+| | *under 914 m:* 1,140 (2012) |
+| **Midway Islands** | *total:* 1 |
+| | *914 to 1,523 m:* 1 (2012) |
+| **Moldova** | *total:* 5 |
+| | *1,524 to 2,437 m:* 1 |
+| | *under 914 m:* 4 (2012) |
+| **Mongolia** | *total:* 29 |
+| | *over 3,047 m:* 2 |
+| | *2,438 to 3,047 m:* 3 |
+| | *1,524 to 2,437 m:* 23 |
+| | *under 914 m:* 1 (2012) |
+| **Montenegro** | *total:* 1 |
+| | *914 to 1,523 m:* 1 (2010) |
+| **Morocco** | *total:* 25 |
+| | *2,438 to 3,047 m:* 2 |
+| | *1,524 to 2,437 m:* 7 |
+| | *914 to 1,523 m:* 11 |
+| | *under 914 m:* 5 (2012) |
+| **Mozambique** | *total:* 79 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 9 |
+| | *914 to 1,523 m:* 32 |
+| | *under 914 m:* 37 (2012) |
+| **Namibia** | *total:* 93 |
+| | *1,524 to 2,437 m:* 25 |
+| | *914 to 1,523 m:* 52 |
+| | *under 914 m:* 16 (2012) |
+| **Nepal** | *total:* 36 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 6 |
+| | *under 914 m:* 29 (2012) |
+| **Netherlands** | *total:* 7 |
+| | *914 to 1,523 m:* 3 |
+| | *under 914 m:* 4 (2012) |
+| **New Caledonia** | *total:* 13 |
+| | *914 to 1,523 m:* 5 |
+| | *under 914 m:* 8 (2012) |
+| **New Zealand** | *total:* 83 |
+| | *1,524 to 2,437 m:* 3 |
+| | *914 to 1,523 m:* 33 |
+| | *under 914 m:* 47 (2012) |
+| **Nicaragua** | *total:* 132 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 16 |
+| | *under 914 m:* 115 (2012) |
+| **Niger** | *total:* 20 |
+| | *1,524 to 2,437 m:* 3 |
+| | *914 to 1,523 m:* 15 |
+| | *under 914 m:* 2 (2012) |
+| **Nigeria** | *total:* 13 |
+| | *1,524 to 2,437 m:* 3 |
+| | *914 to 1,523 m:* 8 |
+| | *under 914 m:* 2 (2012) |
+| **Northern Mariana Islands** | *total:* 2 |
+| | *2,438 to 3,047 m:* 1 |
+| | *under 914 m:* 1 (2012) |
+| **Norway** | *total:* 31 |
+| | *914 to 1,523 m:* 6 |
+| | *under 914 m:* 25 (2012) |
+| **Oman** | *total:* 118 |
+| | *over 3,047 m:* 2 |
+| | *2,438 to 3,047 m:* 7 |
+| | *1,524 to 2,437 m:* 51 |
+| | *914 to 1,523 m:* 32 |
+| | *under 914 m:* 26 (2012) |
+| **Pakistan** | *total:* 44 |
+| | *1,524 to 2,437 m:* 11 |
+| | *914 to 1,523 m:* 9 |
+| | *under 914 m:* 24 (2012) |
+| **Palau** | *total:* 2 |
+| | *1,524 to 2,437 m:* 2 (2012) |
+| **Palmyra Atoll** | *total:* 1 |
+| | *1,524 to 2,437 m:* 1 (2012) |
+| **Panama** | *total:* 63 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 11 |
+| | *under 914 m:* 51 (2012) |
+| **Papua New Guinea** | *total:* 542 |
+| | *1,524 to 2,437 m:* 11 |
+| | *914 to 1,523 m:* 55 |
+| | *under 914 m:* 476 (2012) |
+| **Paraguay** | *total:* 785 |
+| | *1,524 to 2,437 m:* 23 |
+| | *914 to 1,523 m:* 289 |
+| | *under 914 m:* 473 (2012) |
+| **Peru** | *total:* 133 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 19 |
+| | *914 to 1,523 m:* 30 |
+| | *under 914 m:* 83 (2012) |
+| **Philippines** | *total:* 164 |
+| | *1,524 to 2,437 m:* 3 |
+| | *914 to 1,523 m:* 60 |
+| | *under 914 m:* 101 (2012) |
+| **Poland** | *total:* 39 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 17 |
+| | *under 914 m:* 21 (2012) |
+| **Portugal** | *total:* 22 |
+| | *914 to 1,523 m:* 1 |
+| | *under 914 m:* 21 (2012) |
+| **Puerto Rico** | *total:* 12 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 1 |
+| | *under 914 m:* 10 (2012) |
+| **Qatar** | *total:* 2 |
+| | *914 to 1,523 m:* 1 |
+| | *under 914 m:* 1 (2012) |
+| **Romania** | *total:* 27 |
+| | *914 to 1,523 m:* 6 |
+| | *under 914 m:* 21 (2012) |
+| **Russia** | *total:* 625 |
+| | *over 3,047 m:* 3 |
+| | *2,438 to 3,047 m:* 14 |
+| | *1,524 to 2,437 m:* 69 |
+| | *914 to 1,523 m:* 85 |
+| | *under 914 m:* 454 (2012) |
+| **Rwanda** | *total:* 3 |
+| | *914 to 1,523 m:* 2 |
+| | *under 914 m:* 1 (2012) |
+| **Saint Vincent and the Grenadines** | *total:* 1 |
+| | *under 914 m:* 1 (2012) |
+| **Samoa** | *total:* 3 |
+| | *under 914 m:* 3 (2012) |
+| **Saudi Arabia** | *total:* 136 |
+| | *2,438 to 3,047 m:* 8 |
+| | *1,524 to 2,437 m:* 71 |
+| | *914 to 1,523 m:* 41 |
+| | *under 914 m:* 16 (2012) |
+| **Senegal** | *total:* 11 |
+| | *1,524 to 2,437 m:* 7 |
+| | *914 to 1,523 m:* 3 |
+| | *under 914 m:* 1 (2012) |
+| **Serbia** | *total:* 19 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 10 |
+| | *under 914 m:* 8 (2012) |
+| **Seychelles** | *total:* 7 |
+| | *914 to 1,523 m:* 2 |
+| | *under 914 m:* 5 (2012) |
+| **Sierra Leone** | *total:* 7 |
+| | *914 to 1,523 m:* 7 (2012) |
+| **Slovakia** | *total:* 18 |
+| | *914 to 1,523 m:* 10 |
+| | *under 914 m:* 8 (2012) |
+| **Slovenia** | *total:* 9 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 3 |
+| | *under 914 m:* 5 (2012) |
+| **Solomon Islands** | *total:* 35 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 9 |
+| | *under 914 m:* 25 (2012) |
+| **Somalia** | *total:* 55 |
+| | *over 3,047 m:* 1 |
+| | *2,438 to 3,047 m:* 4 |
+| | *1,524 to 2,437 m:* 20 |
+| | *914 to 1,523 m:* 24 |
+| | *under 914 m:* 6 (2012) |
+| **South Africa** | *total:* 422 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 29 |
+| | *914 to 1,523 m:* 260 |
+| | *under 914 m:* 132 (2012) |
+| **South Sudan** | *total:* 81 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 12 |
+| | *914 to 1,523 m:* 34 |
+| | *under 914 m:* 34 |
+| **Spain** | *total:* 54 |
+| | *1,524 to 2,437 m:* 2 |
+| | *914 to 1,523 m:* 14 |
+| | *under 914 m:* 38 (2012) |
+| **Spratly Islands** | *total:* 1 |
+| | *914 to 1,523 m:* 1 (2012) |
+| **Sri Lanka** | *total:* 4 |
+| | *914 to 1,523 m:* 1 |
+| | *under 914 m:* 3 (2012) |
+| **Sudan** | *total:* 57 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 17 |
+| | *914 to 1,523 m:* 27 |
+| | *under 914 m:* 12 (2012) |
+| **Suriname** | *total:* 42 |
+| | *914 to 1,523 m:* 4 |
+| | *under 914 m:* 38 (2012) |
+| **Svalbard** | *total:* 3 |
+| | *under 914 m:* 3 (2012) |
+| **Swaziland** | *total:* 13 |
+| | *914 to 1,523 m:* 6 |
+| | *under 914 m:* 7 (2012) |
+| **Sweden** | *total:* 81 |
+| | *914 to 1,523 m:* 5 |
+| | *under 914 m:* 76 (2012) |
+| **Switzerland** | *total:* 23 |
+| | *under 914 m:* 23 (2012) |
+| **Syria** | *total:* 70 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 14 |
+| | *under 914 m:* 55 (2012) |
+| **Taiwan** | *total:* 3 |
+| | *1,524 to 2,437 m:* 2 |
+| | *under 914 m:* 1 (2012) |
+| **Tajikistan** | *total:* 7 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 1 |
+| | *under 914 m:* 5 (2012) |
+| **Tanzania** | *total:* 95 |
+| | *1,524 to 2,437 m:* 19 |
+| | *914 to 1,523 m:* 58 |
+| | *under 914 m:* 18 (2012) |
+| **Thailand** | *total:* 40 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 12 |
+| | *under 914 m:* 27 (2012) |
+| **Timor-Leste** | *total:* 4 |
+| | *914 to 1,523 m:* 2 |
+| | *under 914 m:* 2 (2012) |
+| **Togo** | *total:* 6 |
+| | *914 to 1,523 m:* 4 |
+| | *under 914 m:* 2 (2012) |
+| **Tonga** | *total:* 5 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 3 |
+| | *under 914 m:* 1 (2012) |
+| **Trinidad and Tobago** | *total:* 3 |
+| | *914 to 1,523 m:* 1 |
+| | *under 914 m:* 2 (2012) |
+| **Tunisia** | *total:* 14 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 5 |
+| | *under 914 m:* 8 (2012) |
+| **Turkey** | *total:* 9 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 4 |
+| | *under 914 m:* 4 (2012) |
+| **Turkmenistan** | *total:* 5 |
+| | *1,524 to 2,437 m:* 1 |
+| | *under 914 m:* 4 (2012) |
+| **Turks and Caicos Islands** | *total:* 2 |
+| | *under 914 m:* 2 (2012) |
+| **Tuvalu** | *total:* 1 |
+| | *1,524 to 2,437 m:* 1 (2012) |
+| **Uganda** | *total:* 41 |
+| | *over 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 7 |
+| | *914 to 1,523 m:* 26 |
+| | *under 914 m:* 7 (2012) |
+| **Ukraine** | *total:* 233 |
+| | *2,438 to 3,047 m:* 2 |
+| | *1,524 to 2,437 m:* 6 |
+| | *914 to 1,523 m:* 9 |
+| | *under 914 m:* 216 (2012) |
+| **United Arab Emirates** | *total:* 17 |
+| | *over 3,047 m:* 1 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 4 |
+| | *914 to 1,523 m:* 6 |
+| | *under 914 m:* 5 (2012) |
+| **United Kingdom** | *total:* 190 |
+| | *1,524 to 2,437 m:* 2 |
+| | *914 to 1,523 m:* 25 |
+| | *under 914 m:* 163 (2012) |
+| **United States** | *total:* 9,885 |
+| | *2,438 to 3,047 m:* 7 |
+| | *1,524 to 2,437 m:* 155 |
+| | *914 to 1,523 m:* 1,752 |
+| | *under 914 m:* 7,971 (2010) |
+| **Uruguay** | *total:* 83 |
+| | *1,524 to 2,437 m:* 3 |
+| | *914 to 1,523 m:* 27 |
+| | *under 914 m:* 53 (2012) |
+| **Uzbekistan** | *total:* 20 |
+| | *2,438 to 3,047 m:* 2 |
+| | *under 914 m:* 18 (2012) |
+| **Vanuatu** | *total:* 28 |
+| | *914 to 1,523 m:* 5 |
+| | *under 914 m:* 23 (2012) |
+| **Venezuela** | *total:* 364 |
+| | *2,438 to 3,047 m:* 3 |
+| | *1,524 to 2,437 m:* 55 |
+| | *914 to 1,523 m:* 113 |
+| | *under 914 m:* 193 (2012) |
+| **Vietnam** | *total:* 7 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 3 |
+| | *under 914 m:* 3 (2012) |
+| **Western Sahara** | *total:* 3 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 1 |
+| | *under 914 m:* 1 (2012) |
+| **Yemen** | *total:* 40 |
+| | *over 3,047 m:* 3 |
+| | *2,438 to 3,047 m:* 5 |
+| | *1,524 to 2,437 m:* 7 |
+| | *914 to 1,523 m:* 16 |
+| | *under 914 m:* 9 (2012) |
+| **Zambia** | *total:* 80 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 5 |
+| | *914 to 1,523 m:* 53 |
+| | *under 914 m:* 21 (2012) |
+| **Zimbabwe** | *total:* 185 |
+| | *1,524 to 2,437 m:* 2 |
+| | *914 to 1,523 m:* 110 |
+| | *under 914 m:* 73 (2012) |

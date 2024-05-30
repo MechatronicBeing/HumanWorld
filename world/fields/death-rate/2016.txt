@@ -1,0 +1,235 @@
+FIELD LISTING :: DEATH RATE
+
+This entry gives the average annual number of deaths during a year per 1,000 population at midyear; also known as crude death rate. The death rate, while only a rough indicator of the mortality situation in a country, accurately indicates the current mortality impact on population growth. This indicator is significantly affected by age distribution, and most countries will eventually show a rise in the overall death rate, in spite of continued decline in mortality at all ages, as declining fertility results in an aging population.
+
+| Country | DEATH RATE(DEATHS/1,000 POPULATION) |
+| --- | --- |
+| **Afghanistan** | 13.7 deaths/1,000 population (2016 est.) |
+| **Albania** | 6.7 deaths/1,000 population (2016 est.) |
+| **Algeria** | 4.3 deaths/1,000 population (2016 est.) |
+| **American Samoa** | 4.8 deaths/1,000 population (2016 est.) |
+| **Andorra** | 7.1 deaths/1,000 population (2016 est.) |
+| **Angola** | 11.3 deaths/1,000 population (2016 est.) |
+| **Anguilla** | 4.6 deaths/1,000 population (2016 est.) |
+| **Antigua and Barbuda** | 5.7 deaths/1,000 population (2016 est.) |
+| **Argentina** | 7.5 deaths/1,000 population (2016 est.) |
+| **Armenia** | 9.4 deaths/1,000 population (2016 est.) |
+| **Aruba** | 8.3 deaths/1,000 population (2016 est.) |
+| **Australia** | 7.2 deaths/1,000 population (2016 est.) |
+| **Austria** | 9.5 deaths/1,000 population (2016 est.) |
+| **Azerbaijan** | 7.1 deaths/1,000 population (2016 est.) |
+| **Bahamas, The** | 7.1 deaths/1,000 population (2016 est.) |
+| **Bahrain** | 2.7 deaths/1,000 population (2016 est.) |
+| **Bangladesh** | 5.3 deaths/1,000 population (2016 est.) |
+| **Barbados** | 8.5 deaths/1,000 population (2016 est.) |
+| **Belarus** | 13.3 deaths/1,000 population (2016 est.) |
+| **Belgium** | 9.7 deaths/1,000 population (2016 est.) |
+| **Belize** | 6 deaths/1,000 population (2016 est.) |
+| **Benin** | 8 deaths/1,000 population (2016 est.) |
+| **Bermuda** | 8.4 deaths/1,000 population (2016 est.) |
+| **Bhutan** | 6.6 deaths/1,000 population (2016 est.) |
+| **Bolivia** | 6.5 deaths/1,000 population (2016 est.) |
+| **Bosnia and Herzegovina** | 9.9 deaths/1,000 population (2016 est.) |
+| **Botswana** | 13.3 deaths/1,000 population (2016 est.) |
+| **Brazil** | 6.6 deaths/1,000 population (2016 est.) |
+| **British Virgin Islands** | 5.1 deaths/1,000 population (2016 est.) |
+| **Brunei** | 3.6 deaths/1,000 population (2016 est.) |
+| **Bulgaria** | 14.5 deaths/1,000 population (2016 est.) |
+| **Burkina Faso** | 11.5 deaths/1,000 population (2016 est.) |
+| **Burma** | 7.9 deaths/1,000 population (2016 est.) |
+| **Burundi** | 9 deaths/1,000 population (2016 est.) |
+| **Cabo Verde** | 6.1 deaths/1,000 population (2016 est.) |
+| **Cambodia** | 7.6 deaths/1,000 population (2016 est.) |
+| **Cameroon** | 9.8 deaths/1,000 population (2016 est.) |
+| **Canada** | 8.5 deaths/1,000 population (2016 est.) |
+| **Cayman Islands** | 5.7 deaths/1,000 population (2016 est.) |
+| **Central African Republic** | 13.5 deaths/1,000 population (2016 est.) |
+| **Chad** | 14 deaths/1,000 population (2016 est.) |
+| **Chile** | 6.1 deaths/1,000 population (2016 est.) |
+| **China** | 7.7 deaths/1,000 population (2016 est.) |
+| **Colombia** | 5.4 deaths/1,000 population (2016 est.) |
+| **Comoros** | 7.4 deaths/1,000 population (2016 est.) |
+| **Congo, Democratic Republic of the** | 9.9 deaths/1,000 population (2016 est.) |
+| **Congo, Republic of the** | 9.7 deaths/1,000 population (2016 est.) |
+| **Cook Islands** | 8.3 deaths/1,000 population (2016 est.) |
+| **Costa Rica** | 4.6 deaths/1,000 population (2016 est.) |
+| **Cote d'Ivoire** | 9.5 deaths/1,000 population (2016 est.) |
+| **Croatia** | 12.1 deaths/1,000 population (2016 est.) |
+| **Cuba** | 8.6 deaths/1,000 population (2016 est.) |
+| **Curacao** | 8.3 deaths/1,000 population (2016 est.) |
+| **Cyprus** | 6.7 deaths/1,000 population (2016 est.) |
+| **Czechia** | 10.4 deaths/1,000 population (2016 est.) |
+| **Denmark** | 10.3 deaths/1,000 population (2016 est.) |
+| **Djibouti** | 7.6 deaths/1,000 population (2016 est.) |
+| **Dominica** | 7.9 deaths/1,000 population (2016 est.) |
+| **Dominican Republic** | 4.6 deaths/1,000 population (2016 est.) |
+| **Ecuador** | 5.1 deaths/1,000 population (2016 est.) |
+| **Egypt** | 4.7 deaths/1,000 population (2016 est.) |
+| **El Salvador** | 5.7 deaths/1,000 population (2016 est.) |
+| **Equatorial Guinea** | 8 deaths/1,000 population (2016 est.) |
+| **Eritrea** | 7.3 deaths/1,000 population (2016 est.) |
+| **Estonia** | 12.5 deaths/1,000 population (2016 est.) |
+| **Ethiopia** | 7.9 deaths/1,000 population (2016 est.) |
+| **European Union** | 10.2 deaths/1,000 population (2016 est.) |
+| **Falkland Islands (Islas Malvinas)** | 4.9 deaths/1,000 population (2012 est.) |
+| **Faroe Islands** | 8.7 deaths/1,000 population (2016 est.) |
+| **Fiji** | 6.1 deaths/1,000 population (2016 est.) |
+| **Finland** | 9.9 deaths/1,000 population (2016 est.) |
+| **France** | 9.3 deaths/1,000 population (2016 est.) |
+| **French Polynesia** | 5.1 deaths/1,000 population (2016 est.) |
+| **Gabon** | 13.1 deaths/1,000 population (2016 est.) |
+| **Gambia, The** | 7.1 deaths/1,000 population (2016 est.) |
+| **Gaza Strip** | 3.2 deaths/1,000 population (2016 est.) |
+| **Georgia** | 10.9 deaths/1,000 population (2016 est.) |
+| **Germany** | 11.6 deaths/1,000 population (2016 est.) |
+| **Ghana** | 7.1 deaths/1,000 population (2016 est.) |
+| **Gibraltar** | 8.4 deaths/1,000 population (2016 est.) |
+| **Greece** | 11.2 deaths/1,000 population (2016 est.) |
+| **Greenland** | 8.6 deaths/1,000 population (2016 est.) |
+| **Grenada** | 8.1 deaths/1,000 population (2016 est.) |
+| **Guam** | 5.2 deaths/1,000 population (2016 est.) |
+| **Guatemala** | 4.7 deaths/1,000 population (2016 est.) |
+| **Guernsey** | 8.9 deaths/1,000 population (2016 est.) |
+| **Guinea-Bissau** | 14.1 deaths/1,000 population (2016 est.) |
+| **Guinea** | 9.2 deaths/1,000 population (2016 est.) |
+| **Guyana** | 7.4 deaths/1,000 population (2016 est.) |
+| **Haiti** | 7.7 deaths/1,000 population (2016 est.) |
+| **Honduras** | 5.2 deaths/1,000 population (2016 est.) |
+| **Hong Kong** | 7.2 deaths/1,000 population (2016 est.) |
+| **Hungary** | 12.8 deaths/1,000 population (2016 est.) |
+| **Iceland** | 6.3 deaths/1,000 population (2016 est.) |
+| **India** | 7.3 deaths/1,000 population (2016 est.) |
+| **Indonesia** | 6.4 deaths/1,000 population (2016 est.) |
+| **Iran** | 5.9 deaths/1,000 population (2016 est.) |
+| **Iraq** | 3.8 deaths/1,000 population (2016 est.) |
+| **Ireland** | 6.5 deaths/1,000 population (2016 est.) |
+| **Isle of Man** | 10.1 deaths/1,000 population (2016 est.) |
+| **Israel** | 5.2 deaths/1,000 population (2016 est.) |
+| **Italy** | 10.3 deaths/1,000 population (2016 est.) |
+| **Jamaica** | 6.7 deaths/1,000 population (2016 est.) |
+| **Japan** | 9.6 deaths/1,000 population (2016 est.) |
+| **Jersey** | 7.7 deaths/1,000 population (2016 est.) |
+| **Jordan** | 3.8 deaths/1,000 population (2016 est.) |
+| **Kazakhstan** | 8.2 deaths/1,000 population (2016 est.) |
+| **Kenya** | 6.8 deaths/1,000 population (2016 est.) |
+| **Kiribati** | 7.1 deaths/1,000 population (2016 est.) |
+| **Korea, North** | 9.3 deaths/1,000 population (2016 est.) |
+| **Korea, South** | 5.8 deaths/1,000 population (2016 est.) |
+| **Kuwait** | 2.2 deaths/1,000 population (2016 est.) |
+| **Kyrgyzstan** | 6.6 deaths/1,000 population (2016 est.) |
+| **Laos** | 7.5 deaths/1,000 population (2016 est.) |
+| **Latvia** | 14.4 deaths/1,000 population (2016 est.) |
+| **Lebanon** | 4.9 deaths/1,000 population (2016 est.) |
+| **Lesotho** | 14.9 deaths/1,000 population (2016 est.) |
+| **Liberia** | 9.5 deaths/1,000 population (2016 est.) |
+| **Libya** | 3.6 deaths/1,000 population (2016 est.) |
+| **Liechtenstein** | 7.3 deaths/1,000 population (2016 est.) |
+| **Lithuania** | 14.5 deaths/1,000 population (2016 est.) |
+| **Luxembourg** | 7.3 deaths/1,000 population (2016 est.) |
+| **Macau** | 4.4 deaths/1,000 population (2016 est.) |
+| **Macedonia** | 9.1 deaths/1,000 population (2016 est.) |
+| **Madagascar** | 6.7 deaths/1,000 population (2016 est.) |
+| **Malawi** | 8.1 deaths/1,000 population (2016 est.) |
+| **Malaysia** | 5.1 deaths/1,000 population (2016 est.) |
+| **Maldives** | 3.9 deaths/1,000 population (2016 est.) |
+| **Mali** | 12.6 deaths/1,000 population (2016 est.) |
+| **Malta** | 9.2 deaths/1,000 population (2016 est.) |
+| **Marshall Islands** | 4.2 deaths/1,000 population (2016 est.) |
+| **Mauritania** | 8.1 deaths/1,000 population (2016 est.) |
+| **Mauritius** | 7 deaths/1,000 population (2016 est.) |
+| **Mexico** | 5.3 deaths/1,000 population (2016 est.) |
+| **Micronesia, Federated States of** | 4.2 deaths/1,000 population (2016 est.) |
+| **Moldova** | 12.6 deaths/1,000 population (2016 est.) |
+| **Monaco** | 9.6 deaths/1,000 population (2016 est.) |
+| **Mongolia** | 6.3 deaths/1,000 population (2016 est.) |
+| **Montenegro** | 9.6 deaths/1,000 population (2016 est.) |
+| **Montserrat** | 6.3 deaths/1,000 population (2016 est.) |
+| **Morocco** | 4.8 deaths/1,000 population (2016 est.) |
+| **Mozambique** | 11.9 deaths/1,000 population (2016 est.) |
+| **Namibia** | 8.1 deaths/1,000 population (2016 est.) |
+| **Nauru** | 5.9 deaths/1,000 population (2016 est.) |
+| **Nepal** | 5.7 deaths/1,000 population (2016 est.) |
+| **Netherlands** | 8.8 deaths/1,000 population (2016 est.) |
+| **New Caledonia** | 5.6 deaths/1,000 population (2016 est.) |
+| **New Zealand** | 7.4 deaths/1,000 population (2016 est.) |
+| **Nicaragua** | 5.1 deaths/1,000 population (2016 est.) |
+| **Nigeria** | 12.7 deaths/1,000 population (2016 est.) |
+| **Niger** | 12.1 deaths/1,000 population (2016 est.) |
+| **Northern Mariana Islands** | 3.8 deaths/1,000 population (2016 est.) |
+| **Norway** | 8.1 deaths/1,000 population (2016 est.) |
+| **Oman** | 3.3 deaths/1,000 population (2016 est.) |
+| **Pakistan** | 6.4 deaths/1,000 population (2016 est.) |
+| **Palau** | 8 deaths/1,000 population (2016 est.) |
+| **Panama** | 4.9 deaths/1,000 population (2016 est.) |
+| **Papua New Guinea** | 6.5 deaths/1,000 population (2016 est.) |
+| **Paraguay** | 4.7 deaths/1,000 population (2016 est.) |
+| **Peru** | 6 deaths/1,000 population (2016 est.) |
+| **Philippines** | 6.1 deaths/1,000 population (2016 est.) |
+| **Poland** | 10.3 deaths/1,000 population (2016 est.) |
+| **Portugal** | 11.1 deaths/1,000 population (2016 est.) |
+| **Puerto Rico** | 8.8 deaths/1,000 population (2016 est.) |
+| **Qatar** | 1.5 deaths/1,000 population (2016 est.) |
+| **Romania** | 11.9 deaths/1,000 population (2016 est.) |
+| **Russia** | 13.6 deaths/1,000 population (2016 est.) |
+| **Rwanda** | 8.8 deaths/1,000 population (2016 est.) |
+| **Saint Helena, Ascension, and Tristan da Cunha** | 7.7 deaths/1,000 population (2016 est.) |
+| **Saint Kitts and Nevis** | 7.1 deaths/1,000 population (2016 est.) |
+| **Saint Lucia** | 7.6 deaths/1,000 population (2016 est.) |
+| **Saint Pierre and Miquelon** | 9.8 deaths/1,000 population (2016 est.) |
+| **Saint Vincent and the Grenadines** | 7.3 deaths/1,000 population (2016 est.) |
+| **Samoa** | 5.3 deaths/1,000 population (2016 est.) |
+| **San Marino** | 8.6 deaths/1,000 population (2016 est.) |
+| **Sao Tome and Principe** | 7 deaths/1,000 population (2016 est.) |
+| **Saudi Arabia** | 3.3 deaths/1,000 population (2016 est.) |
+| **Senegal** | 8.3 deaths/1,000 population (2016 est.) |
+| **Serbia** | 13.6 deaths/1,000 population (2016 est.) |
+| **Seychelles** | 6.9 deaths/1,000 population (2016 est.) |
+| **Sierra Leone** | 10.6 deaths/1,000 population (2016 est.) |
+| **Singapore** | 3.5 deaths/1,000 population (2016 est.) |
+| **Sint Maarten** | 5 deaths/1,000 population (2016 est.) |
+| **Slovakia** | 9.8 deaths/1,000 population (2016 est.) |
+| **Slovenia** | 11.5 deaths/1,000 population (2016 est.) |
+| **Solomon Islands** | 3.8 deaths/1,000 population (2016 est.) |
+| **Somalia** | 13.3 deaths/1,000 population (2016 est.) |
+| **South Africa** | 9.6 deaths/1,000 population (2016 est.) |
+| **South Sudan** | 8 deaths/1,000 population (2016 est.) |
+| **Spain** | 9.1 deaths/1,000 population (2016 est.) |
+| **Sri Lanka** | 6.2 deaths/1,000 population (2016 est.) |
+| **Sudan** | 7.5 deaths/1,000 population (2016 est.) |
+| **Suriname** | 6.1 deaths/1,000 population (2016 est.) |
+| **Swaziland** | 13.4 deaths/1,000 population (2016 est.) |
+| **Sweden** | 9.4 deaths/1,000 population (2016 est.) |
+| **Switzerland** | 8.2 deaths/1,000 population (2016 est.) |
+| **Syria** | 4 deaths/1,000 population (2016 est.) |
+| **Taiwan** | 7.3 deaths/1,000 population (2016 est.) |
+| **Tajikistan** | 6.1 deaths/1,000 population (2016 est.) |
+| **Tanzania** | 7.8 deaths/1,000 population (2016 est.) |
+| **Thailand** | 7.9 deaths/1,000 population (2016 est.) |
+| **Timor-Leste** | 6 deaths/1,000 population (2016 est.) |
+| **Togo** | 7.1 deaths/1,000 population (2016 est.) |
+| **Tonga** | 4.9 deaths/1,000 population (2016 est.) |
+| **Trinidad and Tobago** | 8.7 deaths/1,000 population (2016 est.) |
+| **Tunisia** | 6 deaths/1,000 population (2016 est.) |
+| **Turkey** | 5.9 deaths/1,000 population (2016 est.) |
+| **Turkmenistan** | 6.1 deaths/1,000 population (2016 est.) |
+| **Turks and Caicos Islands** | 3.2 deaths/1,000 population (2016 est.) |
+| **Tuvalu** | 8.6 deaths/1,000 population (2016 est.) |
+| **Uganda** | 10.4 deaths/1,000 population (2016 est.) |
+| **Ukraine** | 14.4 deaths/1,000 population (2016 est.) |
+| **United Arab Emirates** | 2 deaths/1,000 population (2016 est.) |
+| **United Kingdom** | 9.4 deaths/1,000 population (2016 est.) |
+| **United States** | 8.2 deaths/1,000 population (2016 est.) |
+| **Uruguay** | 9.4 deaths/1,000 population (2016 est.) |
+| **Uzbekistan** | 5.3 deaths/1,000 population (2016 est.) |
+| **Vanuatu** | 4.1 deaths/1,000 population (2016 est.) |
+| **Venezuela** | 5.2 deaths/1,000 population (2016 est.) |
+| **Vietnam** | 5.9 deaths/1,000 population (2016 est.) |
+| **Virgin Islands** | 8.9 deaths/1,000 population (2016 est.) |
+| **Wallis and Futuna** | 5.2 deaths/1,000 population (2016 est.) |
+| **West Bank** | 3.5 deaths/1,000 population (2016 est.) |
+| **Western Sahara** | 8.2 deaths/1,000 population (2016 est.) |
+| **World** | 7.8 deaths/1,000 population |
+| | *note:* this rate results in about 108 worldwide deaths per minute or 1.8 deaths every second (2016 est.) |
+| **Yemen** | 6.1 deaths/1,000 population (2016 est.) |
+| **Zambia** | 12.4 deaths/1,000 population (2016 est.) |
+| **Zimbabwe** | 9.9 deaths/1,000 population (2016 est.) |

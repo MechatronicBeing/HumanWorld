@@ -1,0 +1,461 @@
+CIA - The World Factbook -- Field Listing :: Manpower fit for military service   
+
+This entry gives the number of males and females falling in the military age range for a country (defined as being ages 16-49) and who are not otherwise disqualified for health reasons; accounts for the health situation in the country and provides a more realistic estimate of the actual number fit to serve.
+
+| Country | Manpower fit for military service |
+| --- | --- |
+| **Afghanistan** | *males age 16-49:* 4,371,193 |
+| | *females age 16-49:* 4,072,945 (2009 est.) |
+| **Albania** | *males age 16-49:* 800,665 |
+| | *females age 16-49:* 768,536 (2009 est.) |
+| **Algeria** | *males age 16-49:* 8,317,473 |
+| | *females age 16-49:* 8,367,005 (2009 est.) |
+| **American Samoa** | *males age 16-49:* 13,875 |
+| | *females age 16-49:* 13,517 (2009 est.) |
+| **Andorra** | *males age 16-49:* 18,617 |
+| | *females age 16-49:* 17,613 (2009 est.) |
+| **Angola** | *males age 16-49:* 1,467,833 |
+| | *females age 16-49:* 1,411,468 (2009 est.) |
+| **Anguilla** | *males age 16-49:* 2,955 |
+| | *females age 16-49:* 3,308 (2009 est.) |
+| **Antigua and Barbuda** | *males age 16-49:* 17,271 |
+| | *females age 16-49:* 19,586 (2009 est.) |
+| **Argentina** | *males age 16-49:* 8,264,853 |
+| | *females age 16-49:* 8,268,498 (2009 est.) |
+| **Armenia** | *males age 16-49:* 642,734 |
+| | *females age 16-49:* 729,047 (2009 est.) |
+| **Aruba** | *males age 16-49:* 20,287 |
+| | *females age 16-49:* 21,232 (2009 est.) |
+| **Australia** | *males age 16-49:* 4,341,591 |
+| | *females age 16-49:* 4,179,659 (2009 est.) |
+| **Austria** | *males age 16-49:* 1,607,456 |
+| | *females age 16-49:* 1,576,335 (2009 est.) |
+| **Azerbaijan** | *males age 16-49:* 1,727,464 |
+| | *females age 16-49:* 1,944,260 (2009 est.) |
+| **Bahamas, The** | *males age 16-49:* 50,764 |
+| | *females age 16-49:* 51,690 (2009 est.) |
+| **Bahrain** | *males age 16-49:* 171,004 |
+| | *females age 16-49:* 144,555 (2009 est.) |
+| **Bangladesh** | *males age 16-49:* 24,946,041 |
+| | *females age 16-49:* 31,409,069 (2009 est.) |
+| **Barbados** | *males age 16-49:* 58,596 |
+| | *females age 16-49:* 58,866 (2009 est.) |
+| **Belarus** | *males age 16-49:* 1,720,049 |
+| | *females age 16-49:* 2,069,898 (2009 est.) |
+| **Belgium** | *males age 16-49:* 1,962,409 |
+| | *females age 16-49:* 1,905,178 (2009 est.) |
+| **Belize** | *males age 16-49:* 56,135 |
+| | *females age 16-49:* 54,732 (2009 est.) |
+| **Benin** | *males age 16-49:* 1,279,053 |
+| | *females age 16-49:* 1,292,438 (2009 est.) |
+| **Bermuda** | *males age 16-49:* 12,496 |
+| | *females age 16-49:* 12,486 (2009 est.) |
+| **Bhutan** | *males age 16-49:* 150,210 |
+| | *females age 16-49:* 135,991 (2009 est.) |
+| **Bolivia** | *males age 16-49:* 1,666,697 |
+| | *females age 16-49:* 1,906,396 (2009 est.) |
+| **Bosnia and Herzegovina** | *males age 16-49:* 991,953 |
+| | *females age 16-49:* 959,226 (2009 est.) |
+| **Botswana** | *males age 16-49:* 341,190 |
+| | *females age 16-49:* 315,588 (2009 est.) |
+| **Brazil** | *males age 16-49:* 38,043,555 |
+| | *females age 16-49:* 44,267,520 (2009 est.) |
+| **British Virgin Islands** | *males age 16-49:* 5,979 |
+| | *females age 16-49:* 5,738 (2009 est.) |
+| **Brunei** | *males age 16-49:* 92,543 |
+| | *females age 16-49:* 95,301 (2009 est.) |
+| **Bulgaria** | *males age 16-49:* 1,351,312 |
+| | *females age 16-49:* 1,381,017 (2009 est.) |
+| **Burkina Faso** | *males age 16-49:* 2,197,557 |
+| | *females age 16-49:* 2,191,978 (2009 est.) |
+| **Burma** | *males age 16-49:* 9,146,312 |
+| | *females age 16-49:* 9,520,852 (2009 est.) |
+| **Burundi** | *males age 16-49:* 1,124,072 |
+| | *females age 16-49:* 1,102,729 (2009 est.) |
+| **Cambodia** | *males age 16-49:* 2,673,383 |
+| | *females age 16-49:* 2,763,256 (2009 est.) |
+| **Cameroon** | *males age 16-49:* 2,645,601 |
+| | *females age 16-49:* 2,574,948 (2009 est.) |
+| **Canada** | *males age 16-49:* 6,647,513 |
+| | *females age 16-49:* 6,413,748 (2009 est.) |
+| **Cape Verde** | *males age 16-49:* 84,967 |
+| | *females age 16-49:* 90,154 (2009 est.) |
+| **Cayman Islands** | *males age 16-49:* 9,735 |
+| | *females age 16-49:* 10,145 (2009 est.) |
+| **Central African Republic** | *males age 16-49:* 552,907 |
+| | *females age 16-49:* 512,611 (2009 est.) |
+| **Chad** | *males age 16-49:* 1,103,006 |
+| | *females age 16-49:* 1,315,620 (2009 est.) |
+| **Chile** | *males age 16-49:* 3,573,165 |
+| | *females age 16-49:* 3,523,649 (2009 est.) |
+| **China** | *males age 16-49:* 314,459,083 |
+| | *females age 16-49:* 296,763,134 (2009 est.) |
+| **Colombia** | *males age 16-49:* 8,212,944 |
+| | *females age 16-49:* 10,045,435 (2009 est.) |
+| **Comoros** | *males age 16-49:* 125,747 |
+| | *females age 16-49:* 135,707 (2009 est.) |
+| **Congo, Democratic Republic of the** | *males age 16-49:* 8,925,355 |
+| | *females age 16-49:* 9,047,356 (2009 est.) |
+| **Congo, Republic of the** | *males age 16-49:* 538,202 |
+| | *females age 16-49:* 527,649 (2009 est.) |
+| **Cook Islands** | *males age 16-49:* 2,334 |
+| | *females age 16-49:* 2,286 (2009 est.) |
+| **Costa Rica** | *males age 16-49:* 971,224 |
+| | *females age 16-49:* 936,978 (2009 est.) |
+| **Cote d'Ivoire** | *males age 16-49:* 3,122,106 |
+| | *females age 16-49:* 2,936,391 (2009 est.) |
+| **Croatia** | *males age 16-49:* 770,798 |
+| | *females age 16-49:* 849,957 (2009 est.) |
+| **Cuba** | *males age 16-49:* 2,532,495 |
+| | *females age 16-49:* 2,468,631 (2009 est.) |
+| **Cyprus** | *Greek Cypriot National Guard (GCNG):* |
+| | *males age 16-49:* 165,615 |
+| | *females age 16-49:* 159,362 (2009 est.) |
+| **Czech Republic** | *males age 16-49:* 2,095,038 |
+| | *females age 16-49:* 2,011,531 (2009 est.) |
+| **Denmark** | *males age 16-49:* 1,013,223 |
+| | *females age 16-49:* 998,837 (2009 est.) |
+| **Djibouti** | *males age 16-49:* 55,173 |
+| | *females age 16-49:* 52,825 (2009 est.) |
+| **Dominica** | *males age 16-49:* 15,821 |
+| | *females age 16-49:* 15,291 (2009 est.) |
+| **Dominican Republic** | *males age 16-49:* 2,056,774 |
+| | *females age 16-49:* 1,921,836 (2009 est.) |
+| **Ecuador** | *males age 16-49:* 2,708,470 |
+| | *females age 16-49:* 3,165,489 (2009 est.) |
+| **Egypt** | *males age 16-49:* 18,490,522 |
+| | *females age 16-49:* 17,719,905 (2009 est.) |
+| **El Salvador** | *males age 16-49:* 1,201,290 |
+| | *females age 16-49:* 1,547,278 (2009 est.) |
+| **Equatorial Guinea** | *males age 16-49:* 105,468 |
+| | *females age 16-49:* 107,919 (2009 est.) |
+| **Eritrea** | *males age 16-49:* 834,018 |
+| | *females age 16-49:* 887,495 (2009 est.) |
+| **Estonia** | *males age 16-49:* 216,483 |
+| | *females age 16-49:* 260,408 (2009 est.) |
+| **Ethiopia** | *males age 16-49:* 11,078,847 |
+| | *females age 16-49:* 12,017,073 (2009 est.) |
+| **Faroe Islands** | *males age 16-49:* 9,759 |
+| | *females age 16-49:* 8,311 (2009 est.) |
+| **Fiji** | *males age 16-49:* 192,363 |
+| | *females age 16-49:* 204,410 (2009 est.) |
+| **Finland** | *males age 16-49:* 962,479 |
+| | *females age 16-49:* 920,297 (2009 est.) |
+| **France** | *males age 16-49:* 12,087,606 |
+| | *females age 16-49:* 11,811,260 (2009 est.) |
+| **French Polynesia** | *males age 16-49:* 65,408 |
+| | *females age 16-49:* 64,421 (2009 est.) |
+| **Gabon** | *males age 16-49:* 195,519 |
+| | *females age 16-49:* 190,519 (2009 est.) |
+| **Gambia, The** | *males age 16-49:* 238,454 |
+| | *females age 16-49:* 253,680 (2009 est.) |
+| **Gaza Strip** | *males age 16-49:* 312,003 |
+| | *females age 16-49:* 297,380 (2009 est.) |
+| **Georgia** | *males age 16-49:* 908,282 |
+| | *females age 16-49:* 959,290 (2009 est.) |
+| **Germany** | *males age 16-49:* 15,747,493 |
+| | *females age 16-49:* 14,899,416 (2009 est.) |
+| **Ghana** | *males age 16-49:* 3,849,113 |
+| | *females age 16-49:* 3,840,083 (2009 est.) |
+| **Gibraltar** | *males age 16-49:* 5,234 |
+| | *females age 16-49:* 5,242 (2009 est.) |
+| **Greece** | *males age 16-49:* 2,067,878 |
+| | *females age 16-49:* 2,050,289 (2009 est.) |
+| **Greenland** | *males age 16-49:* 10,809 |
+| | *females age 16-49:* 11,437 (2009 est.) |
+| **Grenada** | *males age 16-49:* 20,483 |
+| | *females age 16-49:* 20,923 (2009 est.) |
+| **Guam** | *males age 16-49:* 37,563 |
+| | *females age 16-49:* 36,083 (2009 est.) |
+| **Guatemala** | *males age 16-49:* 2,401,297 |
+| | *females age 16-49:* 2,725,572 (2009 est.) |
+| **Guernsey** | *males age 16-49:* 12,447 |
+| | *females age 16-49:* 12,566 (2009 est.) |
+| **Guinea** | *males age 16-49:* 1,396,278 |
+| | *females age 16-49:* 1,435,387 (2009 est.) |
+| **Guinea-Bissau** | *males age 16-49:* 194,110 |
+| | *females age 16-49:* 200,660 (2009 est.) |
+| **Guyana** | *males age 16-49:* 150,307 |
+| | *females age 16-49:* 144,622 (2009 est.) |
+| **Haiti** | *males age 16-49:* 1,518,840 |
+| | *females age 16-49:* 1,530,043 (2009 est.) |
+| **Honduras** | *males age 16-49:* 1,397,938 |
+| | *females age 16-49:* 1,402,398 (2009 est.) |
+| **Hong Kong** | *males age 16-49:* 1,421,406 |
+| | *females age 16-49:* 1,543,443 (2009 est.) |
+| **Hungary** | *males age 16-49:* 1,887,755 |
+| | *females age 16-49:* 1,934,019 (2009 est.) |
+| **Iceland** | *males age 16-49:* 62,576 |
+| | *females age 16-49:* 61,159 (2009 est.) |
+| **India** | *males age 16-49:* 237,042,868 |
+| | *females age 16-49:* 243,276,310 (2009 est.) |
+| **Indonesia** | *males age 16-49:* 52,997,922 |
+| | *females age 16-49:* 52,503,046 (2009 est.) |
+| **Iran** | *males age 16-49:* 17,658,573 |
+| | *females age 16-49:* 17,148,290 (2009 est.) |
+| **Iraq** | *males age 16-49:* 6,203,425 |
+| | *females age 16-49:* 6,065,009 (2009 est.) |
+| **Ireland** | *males age 16-49:* 857,162 |
+| | *females age 16-49:* 854,416 (2009 est.) |
+| **Isle of Man** | *males age 16-49:* 14,691 |
+| | *females age 16-49:* 14,338 (2009 est.) |
+| **Israel** | *males age 16-49:* 1,474,966 |
+| | *females age 16-49:* 1,404,712 (2009 est.) |
+| **Italy** | *males age 16-49:* 11,197,487 |
+| | *females age 16-49:* 10,574,250 (2009 est.) |
+| **Jamaica** | *males age 16-49:* 573,520 |
+| | *females age 16-49:* 586,426 (2009 est.) |
+| **Japan** | *males age 16-49:* 22,757,136 |
+| | *females age 16-49:* 21,920,703 (2009 est.) |
+| **Jersey** | *males age 16-49:* 16,920 |
+| | *females age 16-49:* 16,826 (2009 est.) |
+| **Jordan** | *males age 16-49:* 1,593,919 |
+| | *females age 16-49:* 1,382,097 (2009 est.) |
+| **Kazakhstan** | *males age 16-49:* 2,888,931 |
+| | *females age 16-49:* 3,550,014 (2009 est.) |
+| **Kenya** | *males age 16-49:* 5,935,480 |
+| | *females age 16-49:* 5,662,755 (2009 est.) |
+| **Kiribati** | *males age 16-49:* 18,129 |
+| | *females age 16-49:* 20,643 (2009 est.) |
+| **Korea, North** | *males age 16-49:* 4,104,964 |
+| | *females age 16-49:* 4,492,374 (2009 est.) |
+| **Korea, South** | *males age 16-49:* 10,991,263 |
+| | *females age 16-49:* 10,356,604 (2009 est.) |
+| **Kosovo** | *males age 16-49:* 428,685 |
+| | *females age 16-49:* 388,848 (2009 est.) |
+| **Kuwait** | *males age 16-49:* 935,525 |
+| | *females age 16-49:* 519,854 (2009 est.) |
+| **Kyrgyzstan** | *males age 16-49:* 1,083,777 |
+| | *females age 16-49:* 1,229,406 (2009 est.) |
+| **Laos** | *males age 16-49:* 1,023,205 |
+| | *females age 16-49:* 1,085,197 (2009 est.) |
+| **Latvia** | *males age 16-49:* 410,374 |
+| | *females age 16-49:* 463,144 (2009 est.) |
+| **Lebanon** | *males age 16-49:* 948,765 |
+| | *females age 16-49:* 954,663 (2009 est.) |
+| **Lesotho** | *males age 16-49:* 267,083 |
+| | *females age 16-49:* 240,868 (2009 est.) |
+| **Liberia** | *males age 16-49:* 387,417 |
+| | *females age 16-49:* 382,334 (2009 est.) |
+| **Libya** | *males age 16-49:* 1,466,578 |
+| | *females age 16-49:* 1,409,684 (2009 est.) |
+| **Liechtenstein** | *males age 16-49:* 6,584 |
+| | *females age 16-49:* 6,801 (2009 est.) |
+| **Lithuania** | *males age 16-49:* 677,689 |
+| | *females age 16-49:* 743,468 (2009 est.) |
+| **Luxembourg** | *males age 16-49:* 95,840 |
+| | *females age 16-49:* 94,641 (2009 est.) |
+| **Macau** | *males age 16-49:* 122,962 |
+| | *females age 16-49:* 148,809 (2009 est.) |
+| **Macedonia** | *males age 16-49:* 444,247 |
+| | *females age 16-49:* 427,556 (2009 est.) |
+| **Madagascar** | *males age 16-49:* 3,150,043 |
+| | *females age 16-49:* 3,404,988 (2009 est.) |
+| **Malawi** | *males age 16-49:* 1,732,621 |
+| | *females age 16-49:* 1,562,107 (2009 est.) |
+| **Malaysia** | *males age 16-49:* 5,493,946 |
+| | *females age 16-49:* 5,409,524 (2009 est.) |
+| **Maldives** | *males age 16-49:* 138,746 |
+| | *females age 16-49:* 82,247 (2009 est.) |
+| **Mali** | *males age 16-49:* 1,649,772 |
+| | *females age 16-49:* 1,579,601 (2009 est.) |
+| **Malta** | *males age 16-49:* 80,186 |
+| | *females age 16-49:* 76,426 (2009 est.) |
+| **Marshall Islands** | *males age 16-49:* 13,041 |
+| | *females age 16-49:* 13,199 (2009 est.) |
+| **Mauritania** | *males age 16-49:* 450,289 |
+| | *females age 16-49:* 544,598 (2009 est.) |
+| **Mauritius** | *males age 16-49:* 277,690 |
+| | *females age 16-49:* 282,211 (2009 est.) |
+| **Mayotte** | *males age 16-49:* 35,849 |
+| | *females age 16-49:* 34,456 (2009 est.) |
+| **Mexico** | *males age 16-49:* 22,541,654 |
+| | *females age 16-49:* 25,149,027 (2009 est.) |
+| **Micronesia, Federated States of** | *males age 16-49:* 21,845 |
+| | *females age 16-49:* 23,401 (2009 est.) |
+| **Moldova** | *males age 16-49:* 877,665 |
+| | *females age 16-49:* 987,356 (2009 est.) |
+| **Monaco** | *males age 16-49:* 5,495 |
+| | *females age 16-49:* 5,406 (2009 est.) |
+| **Mongolia** | *males age 16-49:* 706,774 |
+| | *females age 16-49:* 740,550 (2009 est.) |
+| **Montenegro** | *males age 16-49:* 154,029 |
+| | *females age 16-49:* 136,847 (2009 est.) |
+| **Montserrat** | *males age 16-49:* 1,126 |
+| | *females age 16-49:* 1,226 (2009 est.) |
+| **Morocco** | *males age 16-49:* 7,779,589 |
+| | *females age 16-49:* 7,881,024 (2009 est.) |
+| **Mozambique** | *males age 16-49:* 2,366,897 |
+| | *females age 16-49:* 2,209,764 (2009 est.) |
+| **Namibia** | *males age 16-49:* 329,614 |
+| | *females age 16-49:* 294,490 (2009 est.) |
+| **Nauru** | *males age 16-49:* 2,592 |
+| | *females age 16-49:* 2,966 (2009 est.) |
+| **Nepal** | *males age 16-49:* 4,886,103 |
+| | *females age 16-49:* 5,525,764 (2009 est.) |
+| **Netherlands** | *males age 16-49:* 3,224,790 |
+| | *females age 16-49:* 3,143,096 (2009 est.) |
+| **Netherlands Antilles** | *males age 16-49:* 46,461 |
+| | *females age 16-49:* 47,325 (2009 est.) |
+| **New Caledonia** | *males age 16-49:* 48,288 |
+| | *females age 16-49:* 48,959 (2009 est.) |
+| **New Zealand** | *males age 16-49:* 837,553 |
+| | *females age 16-49:* 825,981 (2009 est.) |
+| **Nicaragua** | *males age 16-49:* 1,277,878 |
+| | *females age 16-49:* 1,339,413 (2009 est.) |
+| **Niger** | *males age 16-49:* 2,019,553 |
+| | *females age 16-49:* 2,046,906 (2009 est.) |
+| **Nigeria** | *males age 16-49:* 19,763,535 |
+| | *females age 16-49:* 18,850,650 (2009 est.) |
+| **Northern Mariana Islands** | *males age 16-49:* 19,209 |
+| | *females age 16-49:* 33,074 (2009 est.) |
+| **Norway** | *males age 16-49:* 888,219 |
+| | *females age 16-49:* 863,255 (2009 est.) |
+| **Oman** | *males age 16-49:* 675,454 |
+| | *females age 16-49:* 563,890 (2009 est.) |
+| **Pakistan** | *males age 16-49:* 33,690,322 |
+| | *females age 16-49:* 32,602,910 (2009 est.) |
+| **Palau** | *males age 16-49:* 5,177 |
+| | *females age 16-49:* 3,936 (2009 est.) |
+| **Panama** | *males age 16-49:* 705,160 |
+| | *females age 16-49:* 710,521 (2009 est.) |
+| **Papua New Guinea** | *males age 16-49:* 1,110,175 |
+| | *females age 16-49:* 1,127,758 (2009 est.) |
+| **Paraguay** | *males age 16-49:* 1,363,746 |
+| | *females age 16-49:* 1,390,799 (2009 est.) |
+| **Peru** | *males age 16-49:* 5,920,716 |
+| | *females age 16-49:* 6,359,803 (2009 est.) |
+| **Philippines** | *males age 16-49:* 19,169,298 |
+| | *females age 16-49:* 20,636,853 (2009 est.) |
+| **Poland** | *males age 16-49:* 7,898,892 |
+| | *females age 16-49:* 7,888,035 (2009 est.) |
+| **Portugal** | *males age 16-49:* 2,103,558 |
+| | *females age 16-49:* 2,049,032 (2009 est.) |
+| **Puerto Rico** | *males age 16-49:* 699,784 |
+| | *females age 16-49:* 790,482 (2009 est.) |
+| **Qatar** | *males age 16-49:* 318,388 |
+| | *females age 16-49:* 136,841 (2009 est.) |
+| **Romania** | *males age 16-49:* 4,542,720 |
+| | *females age 16-49:* 4,604,484 (2009 est.) |
+| **Russia** | *males age 16-49:* 21,098,306 |
+| | *females age 16-49:* 27,968,883 (2009 est.) |
+| **Rwanda** | *males age 16-49:* 1,452,768 |
+| | *females age 16-49:* 1,456,207 (2009 est.) |
+| **Saint Barthelemy** | *males age 16-49:* 1,594 |
+| | *females age 16-49:* 1,340 (2009 est.) |
+| **Saint Helena** | *males age 16-49:* 1,586 |
+| | *females age 16-49:* 1,600 (2009 est.) |
+| **Saint Kitts and Nevis** | *males age 16-49:* 8,159 |
+| | *females age 16-49:* 8,517 (2009 est.) |
+| **Saint Lucia** | *males age 16-49:* 32,094 |
+| | *females age 16-49:* 36,110 (2009 est.) |
+| **Saint Martin** | *males age 16-49:* 6,336 |
+| | *females age 16-49:* 6,925 (2009 est.) |
+| **Saint Pierre and Miquelon** | *males age 16-49:* 1,427 |
+| | *females age 16-49:* 1,406 (2009 est.) |
+| **Saint Vincent and the Grenadines** | *males age 16-49:* 22,975 |
+| | *females age 16-49:* 22,250 (2009 est.) |
+| **Samoa** | *males age 16-49:* 43,169 |
+| | *females age 16-49:* 40,957 (2009 est.) |
+| **San Marino** | *males age 16-49:* 5,343 |
+| | *females age 16-49:* 6,048 (2009 est.) |
+| **Sao Tome and Principe** | *males age 16-49:* 35,216 |
+| | *females age 16-49:* 38,329 (2009 est.) |
+| **Saudi Arabia** | *males age 16-49:* 7,486,622 |
+| | *females age 16-49:* 5,652,819 (2009 est.) |
+| **Senegal** | *males age 16-49:* 2,038,508 |
+| | *females age 16-49:* 2,207,510 (2009 est.) |
+| **Serbia** | *males age 16-49:* 1,415,007 |
+| | *females age 16-49:* 1,379,541 (2009 est.) |
+| **Seychelles** | *males age 16-49:* 19,702 |
+| | *females age 16-49:* 19,780 (2009 est.) |
+| **Sierra Leone** | *males age 16-49:* 692,469 |
+| | *females age 16-49:* 762,239 (2009 est.) |
+| **Singapore** | *males age 16-49:* 1,033,961 |
+| | *females age 16-49:* 1,104,952 (2009 est.) |
+| **Slovakia** | *males age 16-49:* 1,165,470 |
+| | *females age 16-49:* 1,152,941 (2009 est.) |
+| **Slovenia** | *males age 16-49:* 402,484 |
+| | *females age 16-49:* 390,559 (2009 est.) |
+| **Solomon Islands** | *males age 16-49:* 121,368 |
+| | *females age 16-49:* 122,821 (2009 est.) |
+| **Somalia** | *males age 16-49:* 1,301,026 |
+| | *females age 16-49:* 1,351,649 (2009 est.) |
+| **South Africa** | *males age 16-49:* 7,641,557 |
+| | *females age 16-49:* 6,518,793 (2009 est.) |
+| **Spain** | *males age 16-49:* 8,139,020 |
+| | *females age 16-49:* 7,899,157 (2009 est.) |
+| **Sri Lanka** | *males age 16-49:* 4,498,667 |
+| | *females age 16-49:* 4,693,895 (2009 est.) |
+| **Sudan** | *males age 16-49:* 5,836,971 |
+| | *females age 16-49:* 5,942,043 (2009 est.) |
+| **Suriname** | *males age 16-49:* 107,367 |
+| | *females age 16-49:* 111,000 (2009 est.) |
+| **Swaziland** | *males age 16-49:* 124,132 |
+| | *females age 16-49:* 118,570 (2009 est.) |
+| **Sweden** | *males age 16-49:* 1,705,746 |
+| | *females age 16-49:* 1,645,070 (2009 est.) |
+| **Switzerland** | *males age 16-49:* 1,510,259 |
+| | *females age 16-49:* 1,475,993 (2009 est.) |
+| **Syria** | *males age 16-49:* 4,360,934 |
+| | *females age 16-49:* 4,344,895 (2009 est.) |
+| **Taiwan** | *males age 16-49:* 5,106,730 |
+| | *females age 16-49:* 5,008,563 (2009 est.) |
+| **Tajikistan** | *males age 16-49:* 1,428,218 |
+| | *females age 16-49:* 1,603,779 (2009 est.) |
+| **Tanzania** | *males age 16-49:* 5,473,552 |
+| | *females age 16-49:* 5,493,188 (2009 est.) |
+| **Thailand** | *males age 16-49:* 13,086,106 |
+| | *females age 16-49:* 14,126,398 (2009 est.) |
+| **Timor-Leste** | *males age 16-49:* 230,534 |
+| | *females age 16-49:* 238,610 (2009 est.) |
+| **Togo** | *males age 16-49:* 929,395 |
+| | *females age 16-49:* 943,967 (2009 est.) |
+| **Tonga** | *males age 16-49:* 26,471 |
+| | *females age 16-49:* 27,715 (2009 est.) |
+| **Trinidad and Tobago** | *males age 16-49:* 276,224 |
+| | *females age 16-49:* 271,677 (2009 est.) |
+| **Tunisia** | *males age 16-49:* 2,569,403 |
+| | *females age 16-49:* 2,489,651 (2009 est.) |
+| **Turkey** | *males age 16-49:* 17,223,506 |
+| | *females age 16-49:* 16,995,299 (2009 est.) |
+| **Turkmenistan** | *males age 16-49:* 1,024,884 |
+| | *females age 16-49:* 1,147,714 (2009 est.) |
+| **Turks and Caicos Islands** | *males age 16-49:* 4,937 |
+| | *females age 16-49:* 4,648 (2009 est.) |
+| **Tuvalu** | *males age 16-49:* 2,462 |
+| | *females age 16-49:* 2,631 (2009 est.) |
+| **Uganda** | *males age 16-49:* 3,996,597 |
+| | *females age 16-49:* 3,899,717 (2009 est.) |
+| **Ukraine** | *males age 16-49:* 7,056,742 |
+| | *females age 16-49:* 9,234,591 (2009 est.) |
+| **United Arab Emirates** | *males age 16-49:* 2,081,491 |
+| | *females age 16-49:* 788,632 (2009 est.) |
+| **United Kingdom** | *males age 16-49:* 12,123,900 |
+| | *females age 16-49:* 11,616,769 (2009 est.) |
+| **United States** | *males age 16-49:* 59,764,677 |
+| | *females age 16-49:* 59,437,663 (2009 est.) |
+| **Uruguay** | *males age 16-49:* 708,545 |
+| | *females age 16-49:* 693,622 (2009 est.) |
+| **Uzbekistan** | *males age 16-49:* 6,340,446 |
+| | *females age 16-49:* 6,559,769 (2009 est.) |
+| **Vanuatu** | *males age 16-49:* 41,533 |
+| | *females age 16-49:* 42,837 (2009 est.) |
+| **Venezuela** | *males age 16-49:* 5,391,582 |
+| | *females age 16-49:* 5,873,563 (2009 est.) |
+| **Vietnam** | *males age 16-49:* 19,190,676 |
+| | *females age 16-49:* 20,768,508 (2009 est.) |
+| **Virgin Islands** | *males age 16-49:* 17,820 |
+| | *females age 16-49:* 21,193 (2009 est.) |
+| **Wallis and Futuna** | *males age 16-49:* 3,273 |
+| | *females age 16-49:* 3,297 (2009 est.) |
+| **West Bank** | *males age 16-49:* 545,653 |
+| | *females age 16-49:* 515,102 (2009 est.) |
+| **Western Sahara** | *males age 16-49:* 52,267 |
+| | *females age 16-49:* 59,221 (2009 est.) |
+| **Yemen** | *males age 16-49:* 3,733,704 |
+| | *females age 16-49:* 3,773,626 (2009 est.) |
+| **Zambia** | *males age 16-49:* 1,364,173 |
+| | *females age 16-49:* 1,245,220 (2009 est.) |
+| **Zimbabwe** | *males age 16-49:* 1,198,727 |
+| | *females age 16-49:* 1,436,232 (2009 est.) |

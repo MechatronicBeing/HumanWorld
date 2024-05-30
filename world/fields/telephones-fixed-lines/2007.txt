@@ -1,0 +1,244 @@
+CIA - The World Factbook -- Field Listing - Telephones - main lines in use
+
+| Country | Telephones - main lines in use |
+| --- | --- |
+| **Afghanistan** | 280,000 (2005) |
+| **Albania** | 353,600 (2005) |
+| **Algeria** | 2.841 million (2006) |
+| **American Samoa** | 10,400 (2004) |
+| **Andorra** | 35,400 (2005) |
+| **Angola** | 98,200 (2006) |
+| **Anguilla** | 6,200 (2002) |
+| **Antarctica** | 0; note - information for US bases only (2001) |
+| **Antigua and Barbuda** | 40,000 (2006) |
+| **Argentina** | 9.46 million (2006) |
+| **Armenia** | 594,400 (2005) |
+| **Aruba** | 38,300 (2005) |
+| **Australia** | 9.94 million (2006) |
+| **Austria** | 3.564 million (2006) |
+| **Azerbaijan** | 1.189 million (2006) |
+| **Bahamas, The** | 133,100 (2005) |
+| **Bahrain** | 193,300 (2006) |
+| **Bangladesh** | 1.134 million (2006) |
+| **Barbados** | 134,900 (2005) |
+| **Belarus** | 3.368 million (2006) |
+| **Belgium** | 4.719 million (2006) |
+| **Belize** | 33,900 (2006) |
+| **Benin** | 76,300 (2005) |
+| **Bermuda** | 57,700 (2006) |
+| **Bhutan** | 31,500 (2006) |
+| **Bolivia** | 646,300 (2005) |
+| **Bosnia and Herzegovina** | 989,000 (2006) |
+| **Botswana** | 136,900 (2006) |
+| **Brazil** | 38.8 million (2006) |
+| **British Indian Ocean Territory** | NA |
+| **British Virgin Islands** | 11,700 (2002) |
+| **Brunei** | 80,200 (2006) |
+| **Bulgaria** | 2.399 million (2006) |
+| **Burkina Faso** | 94,800 (2006) |
+| **Burma** | 503,900 (2005) |
+| **Burundi** | 31,100 (2005) |
+| **Cambodia** | 32,800 (2006) |
+| **Cameroon** | 100,300 (2005) |
+| **Canada** | 20.78 million (2005) |
+| **Cape Verde** | 71,600 (2006) |
+| **Cayman Islands** | 38,000 (2002) |
+| **Central African Republic** | 10,000 (2005) |
+| **Chad** | 13,000 (2006) |
+| **Chile** | 3.326 million (2006) |
+| **China** | 368 million (2006) |
+| **Christmas Island** | NA |
+| **Cocos (Keeling) Islands** | 287 (1992) |
+| **Colombia** | 7.865 million (2006) |
+| **Comoros** | 16,900 (2005) |
+| **Congo, Democratic Republic of the** | 9,700 (2006) |
+| **Congo, Republic of the** | 15,900 (2005) |
+| **Cook Islands** | 6,200 (2002) |
+| **Costa Rica** | 1.351 million (2006) |
+| **Cote d'Ivoire** | 260,900 (2006) |
+| **Croatia** | 1.832 million (2006) |
+| **Cuba** | 972,900 (2006) |
+| **Cyprus** | *area under government control:* 408,300 (2006); area administered by Turkish Cypriots: 86,228 (2002) |
+| **Czech Republic** | 3,217,300 (2005) |
+| **Denmark** | 3.098 million (2006) |
+| **Djibouti** | 10,800 (2005) |
+| **Dominica** | 21,000 (2004) |
+| **Dominican Republic** | 897,000 (2006) |
+| **Ecuador** | 1.754 million (2006) |
+| **Egypt** | 10.808 million (2006) |
+| **El Salvador** | 1.037 million (2006) |
+| **Equatorial Guinea** | 10,000 (2005) |
+| **Eritrea** | 37,700 (2006) |
+| **Estonia** | 541,900 (2006) |
+| **Ethiopia** | 725,000 (2006) |
+| **European Union** | 238 million (2005) |
+| **Falkland Islands (Islas Malvinas)** | 2,400 (2002) |
+| **Faroe Islands** | 23,000 (2006) |
+| **Fiji** | 112,500 (2005) |
+| **Finland** | 1.92 million (2006) |
+| **France** | 34.63 million; 33.897 million (metropolitan France) (2006) |
+| **French Polynesia** | 53,600 (2006) |
+| **Gabon** | 36,500 (2006) |
+| **Gambia, The** | 52,900 (2006) |
+| **Gaza Strip** | 349,000 (includes West Bank) (2005) |
+| **Georgia** | 553,100 (2006) |
+| **Germany** | 54.2 million (2006) |
+| **Ghana** | 356,400 (2006) |
+| **Gibraltar** | 24,512 (2002) |
+| **Greece** | 6.185 million (2006) |
+| **Greenland** | 25,300 (2002) |
+| **Grenada** | 27,700 (2006) |
+| **Guam** | 80,000 (2001) |
+| **Guatemala** | 1.355 million (2006) |
+| **Guernsey** | 45,100 (2005) |
+| **Guinea** | 26,300 (2005) |
+| **Guinea-Bissau** | 10,200 (2005) |
+| **Guyana** | 110,100 (2005) |
+| **Haiti** | 145,300 (2005) |
+| **Holy See (Vatican City)** | 5,120 (2005) |
+| **Honduras** | 708,400 (2006) |
+| **Hong Kong** | 3.85 million (2006) |
+| **Hungary** | 3.35 million (2006) |
+| **Iceland** | 193,700 (2006) |
+| **India** | 49.75 million (2005) |
+| **Indonesia** | 14.821 million (2006) |
+| **Iran** | 21.981 million (2006) |
+| **Iraq** | 1.547 million (2005) |
+| **Ireland** | 2.097 million (2006) |
+| **Isle of Man** | 51,000 (1999) |
+| **Israel** | 3.005 million (2006) |
+| **Italy** | 25.049 million (2005) |
+| **Jamaica** | 319,000 (2005) |
+| **Japan** | 55.155 million (2006) |
+| **Jersey** | 73,900 (2001) |
+| **Jordan** | 614,000 (2006) |
+| **Kazakhstan** | 2.928 million (2006) |
+| **Kenya** | 293,400 (2006) |
+| **Kiribati** | 4,500 (2002) |
+| **Korea, North** | 980,000 (2003) |
+| **Korea, South** | 26.866 million (2006) |
+| **Kuwait** | 510,300 (2005) |
+| **Kyrgyzstan** | 440,400 (2005) |
+| **Laos** | 90,067 (2006) |
+| **Latvia** | 657,400 (2006) |
+| **Lebanon** | 681,400 (2006) |
+| **Lesotho** | 48,000 (2005) |
+| **Liberia** | 6,900 (2002) |
+| **Libya** | 483,000 (2006) |
+| **Liechtenstein** | 20,000 (2005) |
+| **Lithuania** | 792,400 (2006) |
+| **Luxembourg** | 246,700 (2006) |
+| **Macau** | 176,700 (2006) |
+| **Macedonia** | 490,900 (2006) |
+| **Madagascar** | 129,800 (2006) |
+| **Malawi** | 102,700 (2005) |
+| **Malaysia** | 4.342 million (2006) |
+| **Maldives** | 32,500 (2006) |
+| **Mali** | 82,500 (2006) |
+| **Malta** | 202,300 (2006) |
+| **Marshall Islands** | 4,500 (2004) |
+| **Mauritania** | 34,900 (2006) |
+| **Mauritius** | 357,300 (2006) |
+| **Mayotte** | 10,000 (2002) |
+| **Mexico** | 19.861 million (2006) |
+| **Micronesia, Federated States of** | 12,400 (2005) |
+| **Moldova** | 1.018 million (2006) |
+| **Monaco** | 34,000 (2005) |
+| **Mongolia** | 156,000 (2005) |
+| **Montenegro** | 353,300 (2006) |
+| **Montserrat** | NA |
+| **Morocco** | 1.266 million (2006) |
+| **Mozambique** | 67,000 (2006) |
+| **Namibia** | 138,900 (2005) |
+| **Nauru** | 1,900 (2002) |
+| **Nepal** | 595,800 (2006) |
+| **Netherlands** | 7.6 million (2005) |
+| **Netherlands Antilles** | 81,000 (2001) |
+| **New Caledonia** | 55,300 (2005) |
+| **New Zealand** | 1.729 million (2005) |
+| **Nicaragua** | 247,900 (2006) |
+| **Niger** | 24,000 (2005) |
+| **Nigeria** | 1.688 million (2006) |
+| **Niue** | 1,100 (2002 est.) |
+| **Norfolk Island** | 2,532; note - a mix of analog (2500) and digital (32) circuits (2004) |
+| **Northern Mariana Islands** | 21,000 (2000) |
+| **Norway** | 2.055 million (2006) |
+| **Oman** | 278,300 (2006) |
+| **Pakistan** | 5.24 million (2006) |
+| **Palau** | 6,700 (2002) |
+| **Panama** | 432,900 (2006) |
+| **Papua New Guinea** | 63,700 (2005) |
+| **Paraguay** | 331,100 (2006) |
+| **Peru** | 2.332 million (2006) |
+| **Philippines** | 3.633 million (2006) |
+| **Pitcairn Islands** | 1 (there are 17 telephones on one party line); (2004) |
+| **Poland** | 11.475 million (2006) |
+| **Portugal** | 4.231 million (2006) |
+| **Puerto Rico** | 1.038 million (2005) |
+| **Qatar** | 228,300 (2006) |
+| **Romania** | 4.231 million (2006) |
+| **Russia** | 40.1 million (2005) |
+| **Rwanda** | 22,000 (2005) |
+| **Saint Helena** | 2,200 (2002) |
+| **Saint Kitts and Nevis** | 25,000 (2004) |
+| **Saint Lucia** | 51,100 (2002) |
+| **Saint Pierre and Miquelon** | 4,800 (2002) |
+| **Saint Vincent and the Grenadines** | 22,600 (2006) |
+| **Samoa** | 19,500 (2005) |
+| **San Marino** | 21,000 (2006) |
+| **Sao Tome and Principe** | 7,100 (2005) |
+| **Saudi Arabia** | 4.5 million (2006) |
+| **Senegal** | 282,600 (2006) |
+| **Serbia** | 2.719 million (2006) |
+| **Seychelles** | 20,700 (2006) |
+| **Sierra Leone** | 24,000 (2002) |
+| **Singapore** | 1.854 million (2006) |
+| **Slovakia** | 1.167 million (2006) |
+| **Slovenia** | 837,500 (2006) |
+| **Solomon Islands** | 7,400 (2005) |
+| **Somalia** | 100,000 (2005) |
+| **South Africa** | 4.729 million (2005) |
+| **Spain** | 18.385 million (2006) |
+| **Sri Lanka** | 2.087 million (2007) |
+| **Sudan** | 636,900 (2006) |
+| **Suriname** | 81,500 (2006) |
+| **Svalbard** | NA |
+| **Swaziland** | 44,000 (2006) |
+| **Sweden** | 6.379 million (2005) |
+| **Switzerland** | 5.04 million (2006) |
+| **Syria** | 3.243 million (2006) |
+| **Taiwan** | 14.497 million (2006) |
+| **Tajikistan** | 280,200 (2005) |
+| **Tanzania** | 169,135 (2007) |
+| **Thailand** | 7.073 million (2006) |
+| **Timor-Leste** | 2,500 (2006) |
+| **Togo** | 82,100 (2006) |
+| **Tokelau** | 300 (2002) |
+| **Tonga** | 13,700 (2005) |
+| **Trinidad and Tobago** | 325,500 (2006) |
+| **Tunisia** | 1.268 million (2006) |
+| **Turkey** | 18.978 million (2005) |
+| **Turkmenistan** | 495,000 (2006) |
+| **Turks and Caicos Islands** | 5,700 (2002) |
+| **Tuvalu** | 700 (2002) |
+| **Uganda** | 108,100 (2006) |
+| **Ukraine** | 12.341 million (2006) |
+| **United Arab Emirates** | 1.31 million (2006) |
+| **United Kingdom** | 33.602 million (2006) |
+| **United States** | 172 million (2006) |
+| **Uruguay** | 987,000 (2006) |
+| **Uzbekistan** | 1.793 million (2005) |
+| **Vanuatu** | 7,000 (2005) |
+| **Venezuela** | 4.217 million (2006) |
+| **Vietnam** | 15.845 million (2005) |
+| **Virgin Islands** | 71,700 (2005) |
+| **Wallis and Futuna** | 1,900 (2002) |
+| **West Bank** | 349,000 (includes Gaza Strip) (2005) |
+| **Western Sahara** | about 2,000 (1999 est.) |
+| **World** | 1,263,367,600 (2005) |
+| **Yemen** | 968,400 (2006) |
+| **Zambia** | 94,700 (2005) |
+| **Zimbabwe** | 331,700 (2006) |
+
+This page was last updated on 13 December, 2007
+ 

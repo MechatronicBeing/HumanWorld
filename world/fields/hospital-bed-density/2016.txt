@@ -1,0 +1,189 @@
+FIELD LISTING :: HOSPITAL BED DENSITY
+
+| Country | HOSPITAL BED DENSITY(BEDS/1,000 POPULATION) |
+| --- | --- |
+| **Afghanistan** | 0.5 beds/1,000 population (2012) |
+| **Albania** | 2.6 beds/1,000 population (2012) |
+| **Andorra** | 2.5 beds/1,000 population (2009) |
+| **Antigua and Barbuda** | 2.1 beds/1,000 population (2011) |
+| **Argentina** | 4.7 beds/1,000 population (2012) |
+| **Armenia** | 3.9 beds/1,000 population (2012) |
+| **Australia** | 3.9 beds/1,000 population (2010) |
+| **Austria** | 7.6 beds/1,000 population (2011) |
+| **Azerbaijan** | 4.7 beds/1,000 population (2012) |
+| **Bahamas, The** | 2.9 beds/1,000 population (2011) |
+| **Bahrain** | 2.1 beds/1,000 population (2012) |
+| **Bangladesh** | 0.6 beds/1,000 population (2011) |
+| **Barbados** | 6.2 beds/1,000 population (2012) |
+| **Belarus** | 11.3 beds/1,000 population (2011) |
+| **Belgium** | 6.5 beds/1,000 population (2012) |
+| **Belize** | 1.1 beds/1,000 population (2012) |
+| **Benin** | 0.5 beds/1,000 population (2010) |
+| **Bhutan** | 1.8 beds/1,000 population (2012) |
+| **Bolivia** | 1.1 beds/1,000 population (2012) |
+| **Bosnia and Herzegovina** | 3.5 beds/1,000 population (2010) |
+| **Botswana** | 1.8 beds/1,000 population (2010) |
+| **Brazil** | 2.3 beds/1,000 population (2012) |
+| **Brunei** | 2.8 beds/1,000 population (2012) |
+| **Bulgaria** | 6.4 beds/1,000 population (2011) |
+| **Burkina Faso** | 0.4 beds/1,000 population (2010) |
+| **Burma** | 0.6 beds/1,000 population (2006) |
+| **Burundi** | 1.9 beds/1,000 population (2011) |
+| **Cabo Verde** | 2.1 beds/1,000 population (2010) |
+| **Cambodia** | 0.7 beds/1,000 population (2011) |
+| **Cameroon** | 1.3 beds/1,000 population (2010) |
+| **Canada** | 2.7 beds/1,000 population (2010) |
+| **Central African Republic** | 1 beds/1,000 population (2011) |
+| **Chile** | 2.1 beds/1,000 population (2011) |
+| **China** | 3.8 beds/1,000 population (2011) |
+| **Colombia** | 1.5 beds/1,000 population (2012) |
+| **Comoros** | 2.2 beds/1,000 population (2006) |
+| **Congo, Democratic Republic of the** | 0.8 beds/1,000 population (2006) |
+| **Costa Rica** | 1.2 beds/1,000 population (2012) |
+| **Cote d'Ivoire** | 0.4 beds/1,000 population (2006) |
+| **Croatia** | 5.9 beds/1,000 population (2014) |
+| **Cuba** | 5.3 beds/1,000 population (2012) |
+| **Cyprus** | 3.5 beds/1,000 population (2011) |
+| **Czechia** | 6.8 beds/1,000 population (2011) |
+| **Denmark** | 3.5 beds/1,000 population (2010) |
+| **Djibouti** | 1.4 beds/1,000 population (2012) |
+| **Dominica** | 3.8 beds/1,000 population (2012) |
+| **Dominican Republic** | 1.7 beds/1,000 population (2011) |
+| **Ecuador** | 1.6 beds/1,000 population (2011) |
+| **Egypt** | 0.5 beds/1,000 population (2012) |
+| **El Salvador** | 1.1 beds/1,000 population (2012) |
+| **Equatorial Guinea** | 2.1 beds/1,000 population (2010) |
+| **Eritrea** | 0.7 beds/1,000 population (2011) |
+| **Estonia** | 5.3 beds/1,000 population (2011) |
+| **Ethiopia** | 6.3 beds/1,000 population (2011) |
+| **European Union** | 5.4 beds/1,000 population (2011) |
+| **Faroe Islands** | 4.7 beds/1,000 population (2012) |
+| **Fiji** | 2 beds/1,000 population (2009) |
+| **Finland** | 5.5 beds/1,000 population (2011) |
+| **France** | 6.4 beds/1,000 population (2011) |
+| **Gabon** | 6.3 beds/1,000 population (2010) |
+| **Gambia, The** | 1.1 beds/1,000 population (2011) |
+| **Gaza Strip** | 1.3 beds/1,000 population (2010) |
+| **Georgia** | 2.6 beds/1,000 population (2012) |
+| **Germany** | 8.2 beds/1,000 population (2011) |
+| **Ghana** | 0.9 beds/1,000 population (2011) |
+| **Greece** | 4.8 beds/1,000 population (2009) |
+| **Greenland** | 5.8 beds/1,000 population (2009) |
+| **Grenada** | 3.5 beds/1,000 population (2012) |
+| **Guatemala** | 0.6 beds/1,000 population (2011) |
+| **Guinea-Bissau** | 1 beds/1,000 population (2009) |
+| **Guinea** | 0.3 beds/1,000 population (2011) |
+| **Guyana** | 2 beds/1,000 population (2009) |
+| **Haiti** | 1.3 beds/1,000 population (2007) |
+| **Honduras** | 0.7 beds/1,000 population (2012) |
+| **Hungary** | 7.2 beds/1,000 population (2011) |
+| **Iceland** | 3.2 beds/1,000 population (2012) |
+| **India** | 0.7 beds/1,000 population (2011) |
+| **Indonesia** | 0.9 beds/1,000 population (2012) |
+| **Iran** | 0.1 beds/1,000 population (2012) |
+| **Iraq** | 1.3 beds/1,000 population (2012) |
+| **Ireland** | 2.9 beds/1,000 population (2011) |
+| **Israel** | 3.3 beds/1,000 population (2012) |
+| **Italy** | 3.4 beds/1,000 population (2011) |
+| **Jamaica** | 1.7 beds/1,000 population (2012) |
+| **Japan** | 13.7 beds/1,000 population (2009) |
+| **Jordan** | 1.8 beds/1,000 population (2012) |
+| **Kazakhstan** | 7.2 beds/1,000 population (2012) |
+| **Kenya** | 1.4 beds/1,000 population (2010) |
+| **Kiribati** | 1.3 beds/1,000 population (2011) |
+| **Korea, North** | 13.2 beds/1,000 population (2012) |
+| **Korea, South** | 10.3 beds/1,000 population (2009) |
+| **Kuwait** | 2.2 beds/1,000 population (2012) |
+| **Kyrgyzstan** | 4.8 beds/1,000 population (2012) |
+| **Laos** | 1.5 beds/1,000 population (2012) |
+| **Latvia** | 5.9 beds/1,000 population (2011) |
+| **Lebanon** | 3.5 beds/1,000 population (2012) |
+| **Lesotho** | 1.3 beds/1,000 population (2006) |
+| **Liberia** | 0.8 beds/1,000 population (2010) |
+| **Libya** | 3.7 beds/1,000 population (2012) |
+| **Lithuania** | 7 beds/1,000 population (2011) |
+| **Luxembourg** | 5.4 beds/1,000 population (2010) |
+| **Macedonia** | 4.5 beds/1,000 population (2011) |
+| **Madagascar** | 0.2 beds/1,000 population (2010) |
+| **Malawi** | 1.3 beds/1,000 population (2011) |
+| **Malaysia** | 1.9 beds/1,000 population (2012) |
+| **Maldives** | 4.3 beds/1,000 population (2009) |
+| **Mali** | 0.1 beds/1,000 population (2010) |
+| **Malta** | 4.8 beds/1,000 population (2012) |
+| **Marshall Islands** | 2.7 beds/1,000 population (2010) |
+| **Mauritania** | 0.4 beds/1,000 population (2006) |
+| **Mauritius** | 3.4 beds/1,000 population (2011) |
+| **Mexico** | 1.5 beds/1,000 population (2011) |
+| **Micronesia, Federated States of** | 3.2 beds/1,000 population (2009) |
+| **Moldova** | 6.2 beds/1,000 population (2012) |
+| **Monaco** | 13.8 beds/1,000 population (2012) |
+| **Mongolia** | 6.8 beds/1,000 population (2012) |
+| **Montenegro** | 4 beds/1,000 population (2011) |
+| **Morocco** | 0.9 beds/1,000 population (2012) |
+| **Mozambique** | 0.7 beds/1,000 population (2011) |
+| **Namibia** | 2.7 beds/1,000 population (2009) |
+| **Nauru** | 5 beds/1,000 population (2010) |
+| **Nepal** | 5 beds/1,000 population (2006) |
+| **Netherlands** | 4.7 beds/1,000 population (2009) |
+| **New Zealand** | 2.3 beds/1,000 population (2011) |
+| **Nicaragua** | 0.9 beds/1,000 population (2012) |
+| **Norway** | 3.3 beds/1,000 population (2011) |
+| **Oman** | 1.7 beds/1,000 population (2012) |
+| **Pakistan** | 0.6 beds/1,000 population (2012) |
+| **Palau** | 4.8 beds/1,000 population (2010) |
+| **Panama** | 2.2 beds/1,000 population (2011) |
+| **Paraguay** | 1.3 beds/1,000 population (2011) |
+| **Peru** | 1.5 beds/1,000 population (2012) |
+| **Philippines** | 1 beds/1,000 population (2011) |
+| **Poland** | 6.5 beds/1,000 population (2011) |
+| **Portugal** | 3.4 beds/1,000 population (2011) |
+| **Qatar** | 1.2 beds/1,000 population (2012) |
+| **Romania** | 6.1 beds/1,000 population (2011) |
+| **Russia** | 9.7 beds/1,000 population (2006) |
+| **Rwanda** | 1.6 beds/1,000 population (2007) |
+| **Saint Kitts and Nevis** | 2.3 beds/1,000 population (2012) |
+| **Saint Lucia** | 1.6 beds/1,000 population (2011) |
+| **Saint Vincent and the Grenadines** | 5.2 beds/1,000 population (2012) |
+| **San Marino** | 3.8 beds/1,000 population (2012) |
+| **Sao Tome and Principe** | 2.9 beds/1,000 population (2011) |
+| **Saudi Arabia** | 2.1 beds/1,000 population (2012) |
+| **Senegal** | 0.3 beds/1,000 population (2008) |
+| **Serbia** | 5.4 beds/1,000 population (2009) |
+| **Seychelles** | 3.6 beds/1,000 population (2011) |
+| **Sierra Leone** | 0.4 beds/1,000 population (2006) |
+| **Singapore** | 2 beds/1,000 population (2011) |
+| **Slovakia** | 6 beds/1,000 population (2011) |
+| **Slovenia** | 4.6 beds/1,000 population (2013) |
+| **Solomon Islands** | 1.3 beds/1,000 population (2012) |
+| **Spain** | 3.1 beds/1,000 population (2011) |
+| **Sri Lanka** | 3.6 beds/1,000 population (2012) |
+| **Sudan** | 0.8 beds/1,000 population (2012) |
+| **Suriname** | 3.1 beds/1,000 population (2010) |
+| **Swaziland** | 2.1 beds/1,000 population (2011) |
+| **Sweden** | 2.7 beds/1,000 population (2011) |
+| **Switzerland** | 5 beds/1,000 population (2011) |
+| **Syria** | 1.5 beds/1,000 population (2012) |
+| **Tajikistan** | 5.5 beds/1,000 population (2011) |
+| **Tanzania** | 0.7 beds/1,000 population (2010) |
+| **Thailand** | 2.1 beds/1,000 population (2010) |
+| **Timor-Leste** | 5.9 beds/1,000 population (2010) |
+| **Togo** | 0.7 beds/1,000 population (2011) |
+| **Tonga** | 2.6 beds/1,000 population (2010) |
+| **Trinidad and Tobago** | 2.7 beds/1,000 population (2012) |
+| **Tunisia** | 2.1 beds/1,000 population (2012) |
+| **Turkey** | 2.5 beds/1,000 population (2011) |
+| **Turkmenistan** | 4 beds/1,000 population (2012) |
+| **Uganda** | 0.5 beds/1,000 population (2010) |
+| **Ukraine** | 9 beds/1,000 population (2012) |
+| **United Arab Emirates** | 1.1 beds/1,000 population (2012) |
+| **United Kingdom** | 2.9 beds/1,000 population (2011) |
+| **United States** | 2.9 beds/1,000 population (2011) |
+| **Uruguay** | 2.5 beds/1,000 population (2012) |
+| **Uzbekistan** | 4.4 beds/1,000 population (2010) |
+| **Vanuatu** | 1.8 beds/1,000 population (2008) |
+| **Venezuela** | 0.9 beds/1,000 population (2011) |
+| **Vietnam** | 2 beds/1,000 population (2010) |
+| **West Bank** | 1.2 beds/1,000 population (2010) |
+| **Yemen** | 0.7 beds/1,000 population (2012) |
+| **Zambia** | 2 beds/1,000 population (2010) |
+| **Zimbabwe** | 1.7 beds/1,000 population (2011) |

@@ -1,0 +1,1398 @@
+FIELD LISTING :: GDP - COMPOSITION, BY END USE
+
+This entry shows who does the spending in an economy: consumers, businesses, government, and foreigners. The distribution gives the percentage contribution to total GDP of household consumption, government consumption, investment in fixed capital, investment in inventories, exports of goods and services, and imports of goods and services, and will total 100 percent of GDP if the data are complete.
+household consumption consists of expenditures by resident households, and by nonprofit institutions that serve households, on goods and services that are consumed by individuals. This includes consumption of both domestically produced and foreign goods and services.
+government consumption consists of government expenditures on goods and services. These figures exclude government transfer payments, such as interest on debt, unemployment, and social security, since such payments are not made in exchange for goods and services supplied.
+investment in fixed capital consists of total business spending on fixed assets, such as factories, machinery, equipment, dwellings, and inventories of raw materials, which provide the basis for future production. It is measured gross of the depreciation of the assets, i.e., it includes investment that merely replaces worn-out or scrapped capital. Earlier editions of The World Factbook referred to this concept as Investment (gross fixed) and that data now have been moved to this new field.
+investment in inventories consists of net changes to the stock of outputs that are still held by the units that produce them, awaiting further sale to an end user, such as automobiles sitting on a dealerâ€™s lot or groceries on the store shelves. This figure may be positive or negative. If the stock of unsold output increases during the relevant time period, investment in inventories is positive, but, if the stock of unsold goods declines, it will be negative. Investment in inventories normally is an early indicator of the state of the economy. If the stock of unsold items increases unexpectedly â€“ because people stop buying - the economy may be entering a recession; but if the stock of unsold items falls - and goods "go flying off the shelves" - businesses normally try to replace those stocks, and the economy is likely to accelerate.
+exports of goods and services consist of sales, barter, gifts, or grants of goods and services from residents to nonresidents.
+imports of goods and services consist of purchases, barter, or receipts of gifts, or grants of goods and services by residents from nonresidents. Exports are treated as a positive item, while imports are treated as a negative item. In a purely accounting sense, imports have no direct impact on GDP, which only measures output of the domestic economy. Imports are entered as a negative item to offset the fact that the expenditure figures for consumption, investment, government, and exports also include expenditures on imports. These imports contribute directly to foreign GDP but only indirectly to domestic GDP. Because of this negative offset for imports of goods and services, the sum of the other five items, excluding imports, will always total more than 100 percent of GDP. A surplus of exports of goods and services over imports indicates an economy is investing abroad, while a deficit indicates an economy is borrowing from abroad.
+
+| Country | GDP - COMPOSITION, BY END USE(%) |
+| --- | --- |
+| **Afghanistan** | *household consumption:* 96.5% |
+| | *government consumption:* 23.3% |
+| | *investment in fixed capital:* 25.4% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 18.1% |
+| | *imports of goods and services:* -63.4% |
+| | (2011 est.) |
+| **Albania** | *household consumption:* 78.3% |
+| | *government consumption:* 10.9% |
+| | *investment in fixed capital:* 25.9% |
+| | *investment in inventories:* 2.6% |
+| | *exports of goods and services:* 35.1% |
+| | *imports of goods and services:* -52.9% |
+| | (2013 est.) |
+| **Algeria** | *household consumption:* 35.8% |
+| | *government consumption:* 19.3% |
+| | *investment in fixed capital:* 34.5% |
+| | *investment in inventories:* 9.4% |
+| | *exports of goods and services:* 30.1% |
+| | *imports of goods and services:* -29.1% |
+| | (2014 est.) |
+| **American Samoa** | *household consumption:* 54.6% |
+| | *government consumption:* 52.8% |
+| | *investment if fixed capital:* 2.7% |
+| | *investment in inventories:* 2.3% |
+| | *exports of goods and services:* 54.4% |
+| | *imports of goods and services:* -66.8% (2012) |
+| **Angola** | *household consumption:* 49.7% |
+| | *government consumption:* 20.6% |
+| | *investment in fixed capital:* 11.9% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 59.5% |
+| | *imports of goods and services:* -41.7% |
+| | (2014 est.) |
+| **Anguilla** | *household consumption:* 76.8% |
+| | *government consumption:* 19.2% |
+| | *investment in fixed capital:* 20.9% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 41.4% |
+| | *imports of goods and services:* -58.3% |
+| | (2014 est.) |
+| **Antigua and Barbuda** | *household consumption:* 49.7% |
+| | *government consumption:* 13.3% |
+| | *investment in fixed capital:* 26.4% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 52% |
+| | *imports of goods and services:* -41.4% |
+| | (2014 est.) |
+| **Argentina** | *household consumption:* 66.9% |
+| | *government consumption:* 16.3% |
+| | *investment in fixed capital:* 15.9% |
+| | *investment in inventories:* 1.4% |
+| | *exports of goods and services:* 16% |
+| | *imports of goods and services:* -16.6% (2014 est.) |
+| **Armenia** | *household consumption:* 87.7% |
+| | *government consumption:* 14.8% |
+| | *investment in fixed capital:* 20.5% |
+| | *investment in inventories:* -3.3% |
+| | *exports of goods and services:* 27.2% |
+| | *imports of goods and services:* -46.9% |
+| | (2014 est.) |
+| **Aruba** | *household consumption:* 62.9% |
+| | *government consumption:* 26% |
+| | *investment in fixed capital:* NA% |
+| | *investment in inventories:* NA% |
+| | *exports of goods and services:* NA% |
+| | *imports of goods and services:* -87.6% |
+| | (2011 est.) |
+| **Australia** | *household consumption:* 55.7% |
+| | *government consumption:* 18.1% |
+| | *investment in fixed capital:* 26.7% |
+| | *investment in inventories:* -0.1% |
+| | *exports of goods and services:* 21.3% |
+| | *imports of goods and services:* -21.8% |
+| | (2014 est.) |
+| **Austria** | *household consumption:* 55% |
+| | *government consumption:* 19.5% |
+| | *investment in fixed capital:* 21.1% |
+| | *investment in inventories:* 0.2% |
+| | *exports of goods and services:* 56.4% |
+| | *imports of goods and services:* -52.1% |
+| | (2014 est.) |
+| **Azerbaijan** | *household consumption:* 43.3% |
+| | *government consumption:* 11.1% |
+| | *investment in fixed capital:* 26.3% |
+| | *investment in inventories:* 0.1% |
+| | *exports of goods and services:* 46% |
+| | *imports of goods and services:* -26.7% |
+| | (2014 est.) |
+| **Bahamas, The** | *household consumption:* 69.7% |
+| | *government consumption:* 16.5% |
+| | *investment in fixed capital:* 27% |
+| | *investment in inventories:* 1.3% |
+| | *exports of goods and services:* 42.5% |
+| | *imports of goods and services:* -57% |
+| | (2014 est.) |
+| **Bahrain** | *household consumption:* 41.8% |
+| | *government consumption:* 16.4% |
+| | *investment in fixed capital:* 21.7% |
+| | *investment in inventories:* 0.8% |
+| | *exports of goods and services:* 76.6% |
+| | *imports of goods and services:* -57.3% |
+| | (2014 est.) |
+| **Bangladesh** | *household consumption:* 74.1% |
+| | *government consumption:* 5.5% |
+| | *investment in fixed capital:* 26.3% |
+| | *investment in inventories:* 0.4% |
+| | *exports of goods and services:* 22.6% |
+| | *imports of goods and services:* -28.9% |
+| | (2014 est.) |
+| **Barbados** | *household consumption:* 80.9% |
+| | *government consumption:* 14.5% |
+| | *investment in fixed capital:* 14.1% |
+| | *investment in inventories:* 2% |
+| | *exports of goods and services:* 39.2% |
+| | *imports of goods and services:* -50.7% |
+| | (2014 est.) |
+| **Belarus** | *household consumption:* 50.9% |
+| | *government consumption:* 15.2% |
+| | *investment in fixed capital:* 33.8% |
+| | *investment in inventories:* 0.5% |
+| | *exports of goods and services:* 57.4% |
+| | *imports of goods and services:* -57.9% |
+| | (2014 est.) |
+| **Belgium** | *household consumption:* 53.7% |
+| | *government consumption:* 25.5% |
+| | *investment in fixed capital:* 20.6% |
+| | *investment in inventories:* 0.4% |
+| | *exports of goods and services:* 85.9% |
+| | *imports of goods and services:* -86% |
+| | (2014 est.) |
+| **Belize** | *household consumption:* 79.3% |
+| | *government consumption:* 16.8% |
+| | *investment in fixed capital:* 31.2% |
+| | *investment in inventories:* 1.2% |
+| | *exports of goods and services:* 62.1% |
+| | *imports of goods and services:* -90.6% |
+| | (2013 est.) |
+| **Benin** | *household consumption:* 76.8% |
+| | *government consumption:* 11.7% |
+| | *investment in fixed capital:* 17.4% |
+| | *investment in inventories:* 6.8% |
+| | *exports of goods and services:* 12.5% |
+| | *imports of goods and services:* -25.2% |
+| | (2014 est.) |
+| **Bermuda** | *household consumption:* 52.4% |
+| | *government consumption:* 17.3% |
+| | *investment in fixed capital:* 11.3% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 49.9% |
+| | *imports of goods and services:* -30.9% |
+| | (2014 est.) |
+| **Bhutan** | *household consumption:* 39% |
+| | *government consumption:* 20.6% |
+| | *investment in fixed capital:* 71.4% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 36.4% |
+| | *imports of goods and services:* -67.5% |
+| | (2014 est.) |
+| **Bolivia** | *household consumption:* 58.8% |
+| | *government consumption:* 13.9% |
+| | *investment in fixed capital:* 20.3% |
+| | *investment in inventories:* 0.7% |
+| | *exports of goods and services:* 46% |
+| | *imports of goods and services:* -39.7% |
+| | (2014 est.) |
+| **Bosnia and Herzegovina** | *household consumption:* 82.1% |
+| | *government consumption:* 22.1% |
+| | *investment in fixed capital:* 17.7% |
+| | *investment in inventories:* 1.5% |
+| | *exports of goods and services:* 29% |
+| | *imports of goods and services:* -52.4% |
+| | (2012 est.) |
+| **Botswana** | *household consumption:* 49.8% |
+| | *government consumption:* 18.9% |
+| | *investment in fixed capital:* 32.2% |
+| | *investment in inventories:* 1.7% |
+| | *exports of goods and services:* 51.3% |
+| | *imports of goods and services:* -53.9% |
+| | (2014 est.) |
+| **Brazil** | *household consumption:* 63.5% |
+| | *government consumption:* 22.4% |
+| | *investment in fixed capital:* 16.7% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 12.9% |
+| | *imports of goods and services:* -15.5% |
+| | (2014 est.) |
+| **British Virgin Islands** | *household consumption:* 32% |
+| | *government consumption:* 8.6% |
+| | *investment in fixed capital:* 24.5% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 109.6% |
+| | *imports of goods and services:* -74.7% |
+| | (2014 est.) |
+| **Brunei** | *household consumption:* 20.6% |
+| | *government consumption:* 19.9% |
+| | *investment in fixed capital:* 16.8% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 78.2% |
+| | *imports of goods and services:* -35.5% |
+| | (2014 est.) |
+| **Bulgaria** | *household consumption:* 63.7% |
+| | *government consumption:* 17.1% |
+| | *investment in fixed capital:* 21.2% |
+| | *investment in inventories:* -0.9% |
+| | *exports of goods and services:* 71.4% |
+| | *imports of goods and services:* -72.5% |
+| | (2014 est.) |
+| **Burkina Faso** | *household consumption:* 63.2% |
+| | *government consumption:* 19.4% |
+| | *investment in fixed capital:* 23% |
+| | *investment in inventories:* 1.6% |
+| | *exports of goods and services:* 28.3% |
+| | *imports of goods and services:* -35.4% |
+| | (2014 est.) |
+| **Burma** | *household consumption:* 82% |
+| | *government consumption:* 3.8% |
+| | *investment in fixed capital:* 19.3% |
+| | *investment in inventories:* 0.3% |
+| | *exports of goods and services:* 23.7% |
+| | *imports of goods and services:* -29.1% |
+| | (2014 est.) |
+| **Burundi** | *household consumption:* 74.6% |
+| | *government consumption:* 21.9% |
+| | *investment in fixed capital:* 27.9% |
+| | *investment in inventories:* -1.7% |
+| | *exports of goods and services:* 7.1% |
+| | *imports of goods and services:* -29.6% |
+| | (2014 est.) |
+| **Cabo Verde** | *household consumption:* 57% |
+| | *government consumption:* 17.7% |
+| | *investment in fixed capital:* 33.6% |
+| | *investment in inventories:* 0.8% |
+| | *exports of goods and services:* 36.9% |
+| | *imports of goods and services:* -46% |
+| | (2014 est.) |
+| **Cambodia** | *household consumption:* 77% |
+| | *government consumption:* 7.3% |
+| | *investment in fixed capital:* 18.4% |
+| | *investment in inventories:* 1.5% |
+| | *exports of goods and services:* 60.8% |
+| | *imports of goods and services:* -65% |
+| | (2014 est.) |
+| **Cameroon** | *household consumption:* 68.9% |
+| | *government consumption:* 14% |
+| | *investment in fixed capital:* 21% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 28.6% |
+| | *imports of goods and services:* -32.5% |
+| | (2014 est.) |
+| **Canada** | *household consumption:* 56.2% |
+| | *government consumption:* 21.4% |
+| | *investment in fixed capital:* 24.1% |
+| | *investment in inventories:* 0.3% |
+| | *exports of goods and services:* 30.9% |
+| | *imports of goods and services:* -33% |
+| | (2014 est.) |
+| **Cayman Islands** | *household consumption:* 62.7% |
+| | *government consumption:* 14.9% |
+| | *investment in fixed capital:* 22.3% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 57% |
+| | *imports of goods and services:* -56.9% (2014 est.) |
+| **Central African Republic** | *household consumption:* 95.4% |
+| | *government consumption:* 5.6% |
+| | *investment in fixed capital:* 8% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 10.2% |
+| | *imports of goods and services:* -19.1% |
+| | (2014 est.) |
+| **Chad** | *household consumption:* 76.1% |
+| | *government consumption:* 6.3% |
+| | *investment in fixed capital:* 29.3% |
+| | *investment in inventories:* 0.3% |
+| | *exports of goods and services:* 27.1% |
+| | *imports of goods and services:* -39% |
+| | (2014 est.) |
+| **Chile** | *household consumption:* 65.4% |
+| | *government consumption:* 13.1% |
+| | *investment in fixed capital:* 22.1% |
+| | *investment in inventories:* 0.2% |
+| | *exports of goods and services:* 34.1% |
+| | *imports of goods and services:* -35% |
+| | (2014 est.) |
+| **China** | *household consumption:* 36.8% |
+| | *government consumption:* 14% |
+| | *investment in fixed capital:* 46% |
+| | *investment in inventories:* 1.1% |
+| | *exports of goods and services:* 23.9% |
+| | *imports of goods and services:* -21.7% |
+| | (2014 est.) |
+| **Colombia** | *household consumption:* 59.8% |
+| | *government consumption:* 17% |
+| | *investment in fixed capital:* 25.5% |
+| | *investment in inventories:* 0.1% |
+| | *exports of goods and services:* 18.5% |
+| | *imports of goods and services:* -20.8% |
+| | (2014 est.) |
+| **Comoros** | *household consumption:* 99% |
+| | *government consumption:* 17.3% |
+| | *investment in fixed capital:* 18.5% |
+| | *investment in inventories:* 6.3% |
+| | *exports of goods and services:* 14.5% |
+| | *imports of goods and services:* -55.6% |
+| | (2014 est.) |
+| **Congo, Democratic Republic of the** | *household consumption:* 60.6% |
+| | *government consumption:* 12% |
+| | *investment in fixed capital:* 26.1% |
+| | *investment in inventories:* 0.1% |
+| | *exports of goods and services:* 58% |
+| | *imports of goods and services:* -56.8% |
+| | (2014 est.) |
+| **Congo, Republic of the** | *household consumption:* 25.3% |
+| | *government consumption:* 14% |
+| | *investment in fixed capital:* 54% |
+| | *investment in inventories:* 7.1% |
+| | *exports of goods and services:* 81.1% |
+| | *imports of goods and services:* -81.5% |
+| | (2014 est.) |
+| **Costa Rica** | *household consumption:* 64.9% |
+| | *government consumption:* 18.1% |
+| | *investment in fixed capital:* 22% |
+| | *investment in inventories:* 0.6% |
+| | *exports of goods and services:* 36.2% |
+| | *imports of goods and services:* -41.8% |
+| | (2014 est.) |
+| **Cote d'Ivoire** | *household consumption:* 65.5% |
+| | *government consumption:* 12.4% |
+| | *investment in fixed capital:* 18.2% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 49.6% |
+| | *imports of goods and services:* -45.6% |
+| | (2014 est.) |
+| **Croatia** | *household consumption:* 60.2% |
+| | *government consumption:* 19.6% |
+| | *investment in fixed capital:* 18.2% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 46.5% |
+| | *imports of goods and services:* -44.4% |
+| | (2014 est.) |
+| **Cuba** | *household consumption:* 52.9% |
+| | *government consumption:* 24.9% |
+| | *investment in fixed capital:* 14.3% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 28% |
+| | *imports of goods and services:* -20% |
+| | (2014 est.) |
+| **Cyprus** | *household consumption:* 71.5% |
+| | *government consumption:* 18.2% |
+| | *investment in fixed capital:* 10.6% |
+| | *investment in inventories:* -0.5% |
+| | *exports of goods and services:* 46.8% |
+| | *imports of goods and services:* -46.5% |
+| | (2014 est.) |
+| **Czech Republic** | *household consumption:* 48.2% |
+| | *government consumption:* 19.2% |
+| | *investment in fixed capital:* 25% |
+| | *investment in inventories:* 0.4% |
+| | *exports of goods and services:* 84.5% |
+| | *imports of goods and services:* -77.2% |
+| | (2014 est.) |
+| **Denmark** | *household consumption:* 49.3% |
+| | *government consumption:* 26.9% |
+| | *investment in fixed capital:* 18.9% |
+| | *investment in inventories:* 0.1% |
+| | *exports of goods and services:* 53.7% |
+| | *imports of goods and services:* -48.9% |
+| | (2014 est.) |
+| **Djibouti** | *household consumption:* 56.5% |
+| | *government consumption:* 25.7% |
+| | *investment in fixed capital:* 35.5% |
+| | *investment in inventories:* 0.4% |
+| | *exports of goods and services:* 32.9% |
+| | *imports of goods and services:* -51% |
+| | (2014 est.) |
+| **Dominica** | *household consumption:* 57.4% |
+| | *government consumption:* 20.4% |
+| | *investment in fixed capital:* 28.5% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 59.3% |
+| | *imports of goods and services:* -65.6% |
+| | (2014 est.) |
+| **Dominican Republic** | *household consumption:* 72% |
+| | *government consumption:* 10.2% |
+| | *investment in fixed capital:* 21.4% |
+| | *investment in inventories:* 0.8% |
+| | *exports of goods and services:* 26.1% |
+| | *imports of goods and services:* -30.6% |
+| | (2014 est.) |
+| **Ecuador** | *household consumption:* 60.2% |
+| | *government consumption:* 14.1% |
+| | *investment in fixed capital:* 27.4% |
+| | *investment in inventories:* 0.1% |
+| | *exports of goods and services:* 29.9% |
+| | *imports of goods and services:* -31.6% |
+| | (2014 est.) |
+| **Egypt** | *household consumption:* 80.3% |
+| | *government consumption:* 12% |
+| | *investment in fixed capital:* 13% |
+| | *investment in inventories:* 0.5% |
+| | *exports of goods and services:* 15% |
+| | *imports of goods and services:* -20.7% |
+| | (2014 est.) |
+| **El Salvador** | *household consumption:* 92.8% |
+| | *government consumption:* 12.1% |
+| | *investment in fixed capital:* 15.4% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 26.6% |
+| | *imports of goods and services:* -46.9% |
+| | (2014 est.) |
+| **Equatorial Guinea** | *household consumption:* 15.5% |
+| | *government consumption:* 6.4% |
+| | *investment in fixed capital:* 57.6% |
+| | *investment in inventories:* 1.3% |
+| | *exports of goods and services:* 77.4% |
+| | *imports of goods and services:* -58.4% |
+| | (2014 est.) |
+| **Eritrea** | *household consumption:* 77.8% |
+| | *government consumption:* 18.5% |
+| | *investment in fixed capital:* 14.2% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 9.7% |
+| | *imports of goods and services:* -20.2% |
+| | (2014 est.) |
+| **Estonia** | *household consumption:* 50.5% |
+| | *government consumption:* 20.1% |
+| | *investment in fixed capital:* 28.2% |
+| | *investment in inventories:* -0.3% |
+| | *exports of goods and services:* 87.1% |
+| | *imports of goods and services:* -85.6% |
+| | (2014 est.) |
+| **Ethiopia** | *household consumption:* 83.7% |
+| | *government consumption:* 8% |
+| | *investment in fixed capital:* 36.8% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 12.8% |
+| | *imports of goods and services:* -41.3% |
+| | (2014 est.) |
+| **European Union** | *household consumption:* 56.9% |
+| | *government consumption:* 21.6% |
+| | *investment in fixed capital:* 17.9% |
+| | *investment in inventories:* 0.1% |
+| | *exports of goods and services:* 44.9% |
+| | *imports of goods and services:* -42.9% |
+| | (2012 est.) |
+| **Fiji** | *household consumption:* 81.2% |
+| | *government consumption:* 14.9% |
+| | *investment in fixed capital:* 21.4% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 51.6% |
+| | *imports of goods and services:* -69.1% |
+| | (2014 est.) |
+| **Finland** | *household consumption:* 55.1% |
+| | *government consumption:* 24.9% |
+| | *investment in fixed capital:* 20.9% |
+| | *investment in inventories:* 0.6% |
+| | *exports of goods and services:* 36.9% |
+| | *imports of goods and services:* -38.4% |
+| | (2014 est.) |
+| **France** | *household consumption:* 55.1% |
+| | *government consumption:* 24.3% |
+| | *investment in fixed capital:* 21.6% |
+| | *investment in inventories:* 0.1% |
+| | *exports of goods and services:* 28.3% |
+| | *imports of goods and services:* -29.3% |
+| | (2014 est.) |
+| **Gabon** | *household consumption:* 30.3% |
+| | *government consumption:* 9.9% |
+| | *investment in fixed capital:* 35.1% |
+| | *investment in inventories:* 7.8% |
+| | *exports of goods and services:* 50.5% |
+| | *imports of goods and services:* -33.6% |
+| | (2014 est.) |
+| **Gambia, The** | *household consumption:* 92.4% |
+| | *government consumption:* 8.6% |
+| | *investment in fixed capital:* 23.8% |
+| | *investment in inventories:* 0.3% |
+| | *exports of goods and services:* 28% |
+| | *imports of goods and services:* -53.1% |
+| | (2014 est.) |
+| **Gaza Strip** | data exclude West Bank (2014 est.) |
+| **Georgia** | *household consumption:* 72.3% |
+| | *government consumption:* 17.5% |
+| | *investment in fixed capital:* 22.4% |
+| | *investment in inventories:* 3.6% |
+| | *exports of goods and services:* 46.3% |
+| | *imports of goods and services:* -62.1% |
+| | (2014 est.) |
+| **Germany** | *household consumption:* 56.1% |
+| | *government consumption:* 19.2% |
+| | *investment in fixed capital:* 20.2% |
+| | *investment in inventories:* 0.1% |
+| | *exports of goods and services:* 45.7% |
+| | *imports of goods and services:* -41.3% |
+| | (2014 est.) |
+| **Ghana** | *household consumption:* 61.3% |
+| | *government consumption:* 17.7% |
+| | *investment in fixed capital:* 23.6% |
+| | *investment in inventories:* 1.4% |
+| | *exports of goods and services:* 42.1% |
+| | *imports of goods and services:* -46.2% |
+| | (2014 est.) |
+| **Greece** | *household consumption:* 72% |
+| | *government consumption:* 16.8% |
+| | *investment in fixed capital:* 12.9% |
+| | *investment in inventories:* 2.2% |
+| | *exports of goods and services:* 30.6% |
+| | *imports of goods and services:* -34.4% |
+| | (2014 est.) |
+| **Grenada** | *household consumption:* 91.8% |
+| | *government consumption:* 15.9% |
+| | *investment in fixed capital:* 16.8% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 22% |
+| | *imports of goods and services:* -46.5% |
+| | (2014 est.) |
+| **Guam** | *household consumption:* 63.7% |
+| | *government consumption:* 64.9% |
+| | *investment in fixed assets:* 5.8% |
+| | *exports of goods and services:* 17% |
+| | *imports of goods and services:* 17% (2013) |
+| **Guatemala** | *household consumption:* 85.8% |
+| | *government consumption:* 10.6% |
+| | *investment in fixed capital:* 14.3% |
+| | *investment in inventories:* 0.6% |
+| | *exports of goods and services:* 23.6% |
+| | *imports of goods and services:* -34.9% |
+| | (2014 est.) |
+| **Guinea-Bissau** | *household consumption:* 87.4% |
+| | *government consumption:* 11.3% |
+| | *investment in fixed capital:* 12.3% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 20.8% |
+| | *imports of goods and services:* -31.9% |
+| | (2014 est.) |
+| **Guinea** | *household consumption:* 101.3% |
+| | *government consumption:* 12.4% |
+| | *investment in fixed capital:* 14.5% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 26% |
+| | *imports of goods and services:* -54.1% |
+| | (2014 est.) |
+| **Guyana** | *household consumption:* 89.2% |
+| | *government consumption:* 11.3% |
+| | *investment in fixed capital:* 24.6% |
+| | *investment in inventories:* -12.3% |
+| | *exports of goods and services:* 52% |
+| | *imports of goods and services:* -64.8% |
+| | (2014 est.) |
+| **Haiti** | *household consumption:* 104.3% |
+| | *government consumption:* 0% |
+| | *investment in fixed capital:* 30.9% |
+| | *investment in inventories:* -0.9% |
+| | *exports of goods and services:* 18.4% |
+| | *imports of goods and services:* -52.7% |
+| | (2014 est.) |
+| **Honduras** | *household consumption:* 80.8% |
+| | *government consumption:* 16.1% |
+| | *investment in fixed capital:* 25.2% |
+| | *investment in inventories:* 0.7% |
+| | *exports of goods and services:* 48.2% |
+| | *imports of goods and services:* -71.1% |
+| | (2014 est.) |
+| **Hong Kong** | *household consumption:* 66.1% |
+| | *government consumption:* 9.5% |
+| | *investment in fixed capital:* 22.2% |
+| | *investment in inventories:* 0.4% |
+| | *exports of goods and services:* 226.1% |
+| | *imports of goods and services:* -224.4% |
+| | (2014 est.) |
+| **Hungary** | *household consumption:* 54.5% |
+| | *government consumption:* 19.5% |
+| | *investment in fixed capital:* 22% |
+| | *investment in inventories:* 0.6% |
+| | *exports of goods and services:* 90.1% |
+| | *imports of goods and services:* -86.8% |
+| | (2014 est.) |
+| **Iceland** | *household consumption:* 52.6% |
+| | *government consumption:* 24.6% |
+| | *investment in fixed capital:* 13.9% |
+| | *investment in inventories:* 1% |
+| | *exports of goods and services:* 54.9% |
+| | *imports of goods and services:* -47% |
+| | (2014 est.) |
+| **India** | *household consumption:* 57% |
+| | *government consumption:* 12% |
+| | *investment in fixed capital:* 27.4% |
+| | *investment in inventories:* 6.6% |
+| | *exports of goods and services:* 26.1% |
+| | *imports of goods and services:* -29.1% |
+| | (2014 est.) |
+| **Indonesia** | *household consumption:* 56.2% |
+| | *government consumption:* 9% |
+| | *investment in fixed capital:* 33.6% |
+| | *investment in inventories:* 1.9% |
+| | *exports of goods and services:* 23.5% |
+| | *imports of goods and services:* -24.4% |
+| | (2014 est.) |
+| **Iran** | *household consumption:* 52.9% |
+| | *government consumption:* 11.2% |
+| | *investment in fixed capital:* 28.1% |
+| | *investment in inventories:* 1.1% |
+| | *exports of goods and services:* 23.8% |
+| | *imports of goods and services:* -17.1% |
+| | (2014 est.) |
+| **Ireland** | *household consumption:* 46.5% |
+| | *government consumption:* 14.4% |
+| | *investment in fixed capital:* 15.3% |
+| | *investment in inventories:* 0.3% |
+| | *exports of goods and services:* 106.6% |
+| | *imports of goods and services:* -83.1% |
+| | (2014 est.) |
+| **Israel** | *household consumption:* 57% |
+| | *government consumption:* 22.6% |
+| | *investment in fixed capital:* 18.9% |
+| | *investment in inventories:* 0.5% |
+| | *exports of goods and services:* 31.8% |
+| | *imports of goods and services:* -30.7% |
+| | (2014 est.) |
+| **Italy** | *household consumption:* 60.2% |
+| | *government consumption:* 20% |
+| | *investment in fixed capital:* 16.9% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 30.1% |
+| | *imports of goods and services:* -27.2% |
+| | (2014 est.) |
+| **Jamaica** | *household consumption:* 85.6% |
+| | *government consumption:* 15.3% |
+| | *investment in fixed capital:* 20.9% |
+| | *investment in inventories:* 0.3% |
+| | *exports of goods and services:* 29.2% |
+| | *imports of goods and services:* -51.4% |
+| | (2014 est.) |
+| **Japan** | *household consumption:* 60.8% |
+| | *government consumption:* 20.6% |
+| | *investment in fixed capital:* 22.2% |
+| | *investment in inventories:* -0.5% |
+| | *exports of goods and services:* 17.3% |
+| | *imports of goods and services:* -20.4% |
+| | (2014 est.) |
+| **Jordan** | *household consumption:* 81.5% |
+| | *government consumption:* 23.6% |
+| | *investment in fixed capital:* 28.5% |
+| | *investment in inventories:* 1.8% |
+| | *exports of goods and services:* 41.6% |
+| | *imports of goods and services:* -77% |
+| | (2014 est.) |
+| **Kazakhstan** | *household consumption:* 47.7% |
+| | *government consumption:* 10.5% |
+| | *investment in fixed capital:* 24.3% |
+| | *investment in inventories:* 3.7% |
+| | *exports of goods and services:* 40.8% |
+| | *imports of goods and services:* -27% |
+| | (2014 est.) |
+| **Kenya** | *household consumption:* 81.1% |
+| | *government consumption:* 14% |
+| | *investment in fixed capital:* 20.5% |
+| | *investment in inventories:* -0.5% |
+| | *exports of goods and services:* 16.9% |
+| | *imports of goods and services:* -32.1% |
+| | (2014 est.) |
+| **Korea, North** | *exports of goods and services:* 5.9% |
+| **Korea, South** | *household consumption:* 50.4% |
+| | *government consumption:* 15.1% |
+| | *investment in fixed capital:* 29.1% |
+| | *investment in inventories:* 0.1% |
+| | *exports of goods and services:* 50.6% |
+| | *imports of goods and services:* -45.3% |
+| | (2014 est.) |
+| **Kosovo** | *household consumption:* 90.5% |
+| | *government consumption:* 16% |
+| | *investment in fixed capital:* 28.2% |
+| | *investment in inventories:* 3% |
+| | *exports of goods and services:* 5.8% |
+| | *imports of goods and services:* -43.5% |
+| | (2012 est.) |
+| **Kuwait** | *household consumption:* 26.1% |
+| | *government consumption:* 18% |
+| | *investment in fixed capital:* 14.3% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 69.2% |
+| | *imports of goods and services:* -27.7% |
+| | (2014 est.) |
+| **Kyrgyzstan** | *household consumption:* 103.2% |
+| | *government consumption:* 16.6% |
+| | *investment in fixed capital:* 29.1% |
+| | *investment in inventories:* 1.8% |
+| | *exports of goods and services:* 48.1% |
+| | *imports of goods and services:* -98.8% |
+| | (2014 est.) |
+| **Laos** | *household consumption:* 69.6% |
+| | *government consumption:* 13.9% |
+| | *investment in fixed capital:* 39.1% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 37.3% |
+| | *imports of goods and services:* -59.9% |
+| | (2014 est.) |
+| **Latvia** | *household consumption:* 61.1% |
+| | *government consumption:* 16.2% |
+| | *investment in fixed capital:* 20.9% |
+| | *investment in inventories:* 1.6% |
+| | *exports of goods and services:* 58.9% |
+| | *imports of goods and services:* -58.7% |
+| | (2014 est.) |
+| **Lebanon** | *household consumption:* 82.2% |
+| | *government consumption:* 14.8% |
+| | *investment in fixed capital:* 30.4% |
+| | *investment in inventories:* 1% |
+| | *exports of goods and services:* 15.5% |
+| | *imports of goods and services:* -43.9% |
+| | (2014 est.) |
+| **Lesotho** | *household consumption:* 84.4% |
+| | *government consumption:* 38.7% |
+| | *investment in fixed capital:* 38% |
+| | *investment in inventories:* -0.7% |
+| | *exports of goods and services:* 49.9% |
+| | *imports of goods and services:* -110.3% |
+| | (2014 est.) |
+| **Liberia** | *household consumption:* 116.3% |
+| | *government consumption:* 18.4% |
+| | *investment in fixed capital:* 25.4% |
+| | *investment in inventories:* -1.6% |
+| | *exports of goods and services:* 32.4% |
+| | *imports of goods and services:* -89.5% |
+| | (2011 est.) |
+| **Libya** | *household consumption:* 58% |
+| | *government consumption:* 16.8% |
+| | *investment in fixed capital:* 5.4% |
+| | *investment in inventories:* 0.5% |
+| | *exports of goods and services:* 40.9% |
+| | *imports of goods and services:* -21.6% |
+| | (2014 est.) |
+| **Lithuania** | *household consumption:* 63.9% |
+| | *government consumption:* 16.7% |
+| | *investment in fixed capital:* 18.9% |
+| | *investment in inventories:* 3.2% |
+| | *exports of goods and services:* 82.5% |
+| | *imports of goods and services:* -85.2% |
+| | (2014 est.) |
+| **Luxembourg** | *household consumption:* 31.3% |
+| | *government consumption:* 17.1% |
+| | *investment in fixed capital:* 18.6% |
+| | *investment in inventories:* 1.6% |
+| | *exports of goods and services:* 174.5% |
+| | *imports of goods and services:* -143.1% |
+| | (2014 est.) |
+| **Macau** | *household consumption:* 18.5% |
+| | *government consumption:* 6.5% |
+| | *investment in fixed capital:* 16.7% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 101.7% |
+| | *imports of goods and services:* -43.4% |
+| | (2014 est.) |
+| **Macedonia** | *household consumption:* 69.8% |
+| | *government consumption:* 16.8% |
+| | *investment in fixed capital:* 29% |
+| | *investment in inventories:* 1.6% |
+| | *exports of goods and services:* 47.9% |
+| | *imports of goods and services:* -65.1% |
+| | (2014 est.) |
+| **Madagascar** | *household consumption:* 84.1% |
+| | *government consumption:* 13.3% |
+| | *investment in fixed capital:* 15.9% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 30.1% |
+| | *imports of goods and services:* -43.3% |
+| | (2014 est.) |
+| **Malawi** | *household consumption:* 95% |
+| | *government consumption:* 11% |
+| | *investment in fixed capital:* 16.5% |
+| | *investment in inventories:* 6.6% |
+| | *exports of goods and services:* 28.1% |
+| | *imports of goods and services:* -57.1% |
+| | (2014 est.) |
+| **Malaysia** | *household consumption:* 51.5% |
+| | *government consumption:* 13.7% |
+| | *investment in fixed capital:* 25.5% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 83% |
+| | *imports of goods and services:* -73.7% |
+| | (2014 est.) |
+| **Mali** | *household consumption:* 78.4% |
+| | *government consumption:* 16.6% |
+| | *investment in fixed capital:* 14.8% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 26.5% |
+| | *imports of goods and services:* -36.2% |
+| | (2014 est.) |
+| **Malta** | *household consumption:* 53.8% |
+| | *government consumption:* 20.2% |
+| | *investment in fixed capital:* 18.8% |
+| | *investment in inventories:* -0.4% |
+| | *exports of goods and services:* 147% |
+| | *imports of goods and services:* -139.5% |
+| | (2014 est.) |
+| **Mauritania** | *household consumption:* 50.9% |
+| | *government consumption:* 29.5% |
+| | *investment in fixed capital:* 60.6% |
+| | *investment in inventories:* 5.2% |
+| | *exports of goods and services:* 35.2% |
+| | *imports of goods and services:* -81.4% |
+| | (2014 est.) |
+| **Mauritius** | *household consumption:* 73.4% |
+| | *government consumption:* 14.4% |
+| | *investment in fixed capital:* 21.2% |
+| | *investment in inventories:* 2.8% |
+| | *exports of goods and services:* 55.4% |
+| | *imports of goods and services:* -67.2% |
+| | (2014 est.) |
+| **Mexico** | *household consumption:* 68.5% |
+| | *government consumption:* 12.2% |
+| | *investment in fixed capital:* 20.7% |
+| | *investment in inventories:* -1% |
+| | *exports of goods and services:* 33.2% |
+| | *imports of goods and services:* -33.6% |
+| | (2014 est.) |
+| **Micronesia, Federated States of** | *household consumption:* 83.5% |
+| | *government consumption:* 41.8% |
+| | *investment in fixed assets:* 24.3% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 26.6% |
+| | *imports of goods and services:* -76.2% (2013 est.) |
+| **Moldova** | *household consumption:* 93.3% |
+| | *government consumption:* 20.2% |
+| | *investment in fixed capital:* 22.8% |
+| | *investment in inventories:* 0.6% |
+| | *exports of goods and services:* 45.7% |
+| | *imports of goods and services:* -82.5% |
+| | (2014 est.) |
+| **Mongolia** | *household consumption:* 54.4% |
+| | *government consumption:* 12% |
+| | *investment in fixed capital:* 46.1% |
+| | *investment in inventories:* 10.3% |
+| | *exports of goods and services:* 43.7% |
+| | *imports of goods and services:* -66.5% |
+| | (2013 est.) |
+| **Montenegro** | *household consumption:* 81.8% |
+| | *government consumption:* 21.2% |
+| | *investment in fixed capital:* 19.5% |
+| | *investment in inventories:* -0.1% |
+| | *exports of goods and services:* 42.1% |
+| | *imports of goods and services:* -64.5% |
+| | (2013 est.) |
+| **Montserrat** | *household consumption:* 89.3% |
+| | *government consumption:* 42% |
+| | *investment in fixed capital:* 24.1% |
+| | *investment in inventories:* 0.1% |
+| | *exports of goods and services:* 18.5% |
+| | *imports of goods and services:* -74% |
+| | (2014 est.) |
+| **Morocco** | *household consumption:* 60.6% |
+| | *government consumption:* 19% |
+| | *investment in fixed capital:* 30% |
+| | *investment in inventories:* 4% |
+| | *exports of goods and services:* 33.7% |
+| | *imports of goods and services:* -47.3% |
+| | (2014 est.) |
+| **Mozambique** | *household consumption:* 74.2% |
+| | *government consumption:* 17.9% |
+| | *investment in fixed capital:* 50.3% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 31.8% |
+| | *imports of goods and services:* -74.3% |
+| | (2014 est.) |
+| **Namibia** | *household consumption:* 64.7% |
+| | *government consumption:* 29% |
+| | *investment in fixed capital:* 27.5% |
+| | *investment in inventories:* -2% |
+| | *exports of goods and services:* 43.5% |
+| | *imports of goods and services:* -62.7% |
+| | (2014 est.) |
+| **Nepal** | *household consumption:* 78.1% |
+| | *government consumption:* 11.2% |
+| | *investment in fixed capital:* 23.1% |
+| | *investment in inventories:* 13.9% |
+| | *exports of goods and services:* 13.9% |
+| | *imports of goods and services:* -40.3% |
+| | (2014 est.) |
+| **Netherlands** | *household consumption:* 44.7% |
+| | *government consumption:* 26.2% |
+| | *investment in fixed capital:* 18.8% |
+| | *investment in inventories:* 0.1% |
+| | *exports of goods and services:* 83.6% |
+| | *imports of goods and services:* -73.4% |
+| | (2014 est.) |
+| **New Caledonia** | *household consumption:* 55.4% |
+| | *government consumption:* 22.7% |
+| | *investment in fixed capital:* 38.7% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 12.5% |
+| | *imports of goods and services:* -29.4% |
+| | (2014 est.) |
+| **New Zealand** | *household consumption:* 58.8% |
+| | *government consumption:* 18.7% |
+| | *investment in fixed capital:* 21.2% |
+| | *investment in inventories:* 0.7% |
+| | *exports of goods and services:* 28.4% |
+| | *imports of goods and services:* -27.8% |
+| | (2014 est.) |
+| **Nicaragua** | *household consumption:* 84.4% |
+| | *government consumption:* 5.6% |
+| | *investment in fixed capital:* 21% |
+| | *investment in inventories:* -0.1% |
+| | *exports of goods and services:* 41% |
+| | *imports of goods and services:* -51.9% |
+| | (2014 est.) |
+| **Nigeria** | *household consumption:* 72.5% |
+| | *government consumption:* 8.4% |
+| | *investment in fixed capital:* 16.4% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 14.9% |
+| | *imports of goods and services:* -12.1% |
+| | (2014 est.) |
+| **Niger** | *household consumption:* 71% |
+| | *government consumption:* 10.9% |
+| | *investment in fixed capital:* 29.7% |
+| | *investment in inventories:* 6.3% |
+| | *exports of goods and services:* 22.7% |
+| | *imports of goods and services:* -40.6% |
+| | (2014 est.) |
+| **Northern Mariana Islands** | *household consumption:* 91.3% |
+| | *government consumption:* 51.5% |
+| | *investment in fixed assets:* 3.8% |
+| | *exports of goods and services:* 42.2% |
+| | *imports of goods and services:* 42.2% (2013) |
+| **Norway** | *household consumption:* 41.1% |
+| | *government consumption:* 21.3% |
+| | *investment in fixed capital:* 22.3% |
+| | *investment in inventories:* 3.8% |
+| | *exports of goods and services:* 39% |
+| | *imports of goods and services:* -27.6% |
+| | (2014 est.) |
+| **Oman** | *household consumption:* 33.1% |
+| | *government consumption:* 21.3% |
+| | *investment in fixed capital:* 26.1% |
+| | *investment in inventories:* 5.9% |
+| | *exports of goods and services:* 62.1% |
+| | *imports of goods and services:* -48.5% |
+| | (2014 est.) |
+| **Pakistan** | *household consumption:* 80.5% |
+| | *government consumption:* 12% |
+| | *investment in fixed capital:* 12.4% |
+| | *investment in inventories:* 1.6% |
+| | *exports of goods and services:* 12.3% |
+| | *imports of goods and services:* -18.8% |
+| | (2014 est.) |
+| **Panama** | *household consumption:* 52.9% |
+| | *government consumption:* 11.3% |
+| | *investment in fixed capital:* 28.7% |
+| | *investment in inventories:* 5.8% |
+| | *exports of goods and services:* 75.3% |
+| | *imports of goods and services:* -74% |
+| | (2014 est.) |
+| **Papua New Guinea** | *household consumption:* 58.6% |
+| | *government consumption:* 10.6% |
+| | *investment in fixed capital:* 14% |
+| | *investment in inventories:* 0.5% |
+| | *exports of goods and services:* 68.5% |
+| | *imports of goods and services:* -52.2% |
+| | (2014 est.) |
+| **Paraguay** | *household consumption:* 65.8% |
+| | *government consumption:* 11.6% |
+| | *investment in fixed capital:* 15.2% |
+| | *investment in inventories:* 0.5% |
+| | *exports of goods and services:* 51% |
+| | *imports of goods and services:* -44.1% |
+| | (2014 est.) |
+| **Peru** | *household consumption:* 64% |
+| | *government consumption:* 11.2% |
+| | *investment in fixed capital:* 26.2% |
+| | *investment in inventories:* 0.2% |
+| | *exports of goods and services:* 21.8% |
+| | *imports of goods and services:* -23.5% |
+| | (2014 est.) |
+| **Philippines** | *household consumption:* 72.5% |
+| | *government consumption:* 10.7% |
+| | *investment in fixed capital:* 20.5% |
+| | *investment in inventories:* -0.8% |
+| | *exports of goods and services:* 29.1% |
+| | *imports of goods and services:* -32% |
+| | (2014 est.) |
+| **Poland** | *household consumption:* 61.1% |
+| | *government consumption:* 17.9% |
+| | *investment in fixed capital:* 18.7% |
+| | *investment in inventories:* 0.6% |
+| | *exports of goods and services:* 49.2% |
+| | *imports of goods and services:* -47.5% |
+| | (2014 est.) |
+| **Portugal** | *household consumption:* 64.6% |
+| | *government consumption:* 19.1% |
+| | *investment in fixed capital:* 15% |
+| | *investment in inventories:* -0.1% |
+| | *exports of goods and services:* 39.6% |
+| | *imports of goods and services:* -38.2% |
+| | (2014 est.) |
+| **Puerto Rico** | *household consumption:* 89.4% |
+| | *government consumption:* 14.7% |
+| | *investment in fixed capital:* 13.4% |
+| | *investment in inventories:* 1% |
+| | *exports of goods and services:* 108.7% |
+| | *imports of goods and services:* -127.2% |
+| | (2014 est.) |
+| **Qatar** | *household consumption:* 13.3% |
+| | *government consumption:* 12.9% |
+| | *investment in fixed capital:* 34.5% |
+| | *investment in inventories:* 0.5% |
+| | *exports of goods and services:* 86.1% |
+| | *imports of goods and services:* -47.3% |
+| | (2014 est.) |
+| **Romania** | *household consumption:* 69.3% |
+| | *government consumption:* 7.6% |
+| | *investment in fixed capital:* 23% |
+| | *investment in inventories:* 0.6% |
+| | *exports of goods and services:* 41.1% |
+| | *imports of goods and services:* -40.9% |
+| | (2014 est.) |
+| **Russia** | *household consumption:* 51.4% |
+| | *government consumption:* 19.7% |
+| | *investment in fixed capital:* 19.6% |
+| | *investment in inventories:* 2.2% |
+| | *exports of goods and services:* 29.7% |
+| | *imports of goods and services:* -22.6% |
+| | (2014 est.) |
+| **Rwanda** | *household consumption:* 82.6% |
+| | *government consumption:* 9.6% |
+| | *investment in fixed capital:* 24.2% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 17% |
+| | *imports of goods and services:* -33.5% |
+| | (2014 est.) |
+| **Saint Kitts and Nevis** | *household consumption:* 71.8% |
+| | *government consumption:* 11% |
+| | *investment in fixed capital:* 29.8% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 30.2% |
+| | *imports of goods and services:* -42.7% |
+| | (2014 est.) |
+| **Saint Lucia** | *household consumption:* 54.6% |
+| | *government consumption:* 20.4% |
+| | *investment in fixed capital:* 34.2% |
+| | *investment in inventories:* -0.2% |
+| | *exports of goods and services:* 54% |
+| | *imports of goods and services:* -63% |
+| | (2014 est.) |
+| **Saint Vincent and the Grenadines** | *household consumption:* 95.7% |
+| | *government consumption:* 17% |
+| | *investment in fixed capital:* 24% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 18.5% |
+| | *imports of goods and services:* -55.2% |
+| | (2014 est.) |
+| **San Marino** | *exports of goods and services:* 176.6% |
+| | *imports of goods and services:* -153.3% (2011) |
+| **Sao Tome and Principe** | *household consumption:* 79.1% |
+| | *government consumption:* 13.9% |
+| | *investment in fixed capital:* 40.7% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 10.1% |
+| | *imports of goods and services:* -43.8% |
+| | (2014 est.) |
+| **Saudi Arabia** | *household consumption:* 31.1% |
+| | *government consumption:* 23.5% |
+| | *investment in fixed capital:* 24.9% |
+| | *investment in inventories:* 3.8% |
+| | *exports of goods and services:* 48.6% |
+| | *imports of goods and services:* -31.9% |
+| | (2014 est.) |
+| **Senegal** | *household consumption:* 73.1% |
+| | *government consumption:* 16.6% |
+| | *investment in fixed capital:* 23.5% |
+| | *investment in inventories:* 4.2% |
+| | *exports of goods and services:* 21.1% |
+| | *imports of goods and services:* -38.5% |
+| | (2014 est.) |
+| **Serbia** | *household consumption:* 73.7% |
+| | *government consumption:* 19.3% |
+| | *investment in fixed capital:* 20.2% |
+| | *investment in inventories:* -1.9% |
+| | *exports of goods and services:* 45.8% |
+| | *imports of goods and services:* -57.1% |
+| | (2014 est.) |
+| **Seychelles** | *household consumption:* 101% |
+| | *government consumption:* 10.2% |
+| | *investment in fixed capital:* 31.4% |
+| | *investment in inventories:* -5.1% |
+| | *exports of goods and services:* 42.1% |
+| | *imports of goods and services:* -79.6% |
+| | (2014 est.) |
+| **Sierra Leone** | *household consumption:* 88.9% |
+| | *government consumption:* 7.4% |
+| | *investment in fixed capital:* 41.9% |
+| | *investment in inventories:* 0.8% |
+| | *exports of goods and services:* 8.8% |
+| | *imports of goods and services:* -47.8% |
+| | (2014 est.) |
+| **Singapore** | *household consumption:* 36.8% |
+| | *government consumption:* 10% |
+| | *investment in fixed capital:* 25.4% |
+| | *investment in inventories:* 2.3% |
+| | *exports of goods and services:* 187.6% |
+| | *imports of goods and services:* -162.2% |
+| | (2014 est.) |
+| **Slovakia** | *household consumption:* 56.7% |
+| | *government consumption:* 18.5% |
+| | *investment in fixed capital:* 21.1% |
+| | *investment in inventories:* -0.4% |
+| | *exports of goods and services:* 91.9% |
+| | *imports of goods and services:* -87.8% |
+| | (2014 est.) |
+| **Slovenia** | *household consumption:* 55.1% |
+| | *government consumption:* 19.5% |
+| | *investment in fixed capital:* 18.1% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 79.3% |
+| | *imports of goods and services:* -72% |
+| | (2014 est.) |
+| **Somalia** | *household consumption:* 72.6% |
+| | *government consumption:* 8.7% |
+| | *investment in fixed capital:* 20% |
+| | *investment in inventories:* 0.1% |
+| | *exports of goods and services:* 0.3% |
+| | *imports of goods and services:* -1.7% |
+| | (2011 est.) |
+| **South Africa** | *household consumption:* 61.9% |
+| | *government consumption:* 22.8% |
+| | *investment in fixed capital:* 21.7% |
+| | *investment in inventories:* -0.3% |
+| | *exports of goods and services:* 34% |
+| | *imports of goods and services:* -40.1% |
+| | (2014 est.) |
+| **South Sudan** | *household consumption:* 34.9% |
+| | *government consumption:* 17.1% |
+| | *investment in fixed capital:* 10.4% |
+| | *exports of goods and services:* 64.9% |
+| | *imports of goods and services:* -27.2% |
+| | (2011 est.) |
+| **Spain** | *household consumption:* 59.1% |
+| | *government consumption:* 19.4% |
+| | *investment in fixed capital:* 18% |
+| | *investment in inventories:* 0.3% |
+| | *exports of goods and services:* 31.8% |
+| | *imports of goods and services:* -28.7% |
+| | (2014 est.) |
+| **Sri Lanka** | *household consumption:* 66.1% |
+| | *government consumption:* 12.8% |
+| | *investment in fixed capital:* 29.6% |
+| | *investment in inventories:* 0.3% |
+| | *exports of goods and services:* 22.5% |
+| | *imports of goods and services:* -31.4% |
+| | (2014 est.) |
+| **Sudan** | *household consumption:* 81.1% |
+| | *government consumption:* 11.7% |
+| | *investment in fixed capital:* 21.3% |
+| | *investment in inventories:* 2% |
+| | *exports of goods and services:* 5.4% |
+| | *imports of goods and services:* -21.6% |
+| | (2014 est.) |
+| **Suriname** | *household consumption:* 55.5% |
+| | *government consumption:* 11.4% |
+| | *investment in fixed capital:* 12.1% |
+| | *investment in inventories:* 23% |
+| | *exports of goods and services:* 29.3% |
+| | *imports of goods and services:* -31.3% |
+| | (2014 est.) |
+| **Swaziland** | *household consumption:* 80.5% |
+| | *government consumption:* 25.3% |
+| | *investment in fixed capital:* 13.5% |
+| | *investment in inventories:* -0.1% |
+| | *exports of goods and services:* 51% |
+| | *imports of goods and services:* -70.2% |
+| | (2014 est.) |
+| **Sweden** | *household consumption:* 46.5% |
+| | *government consumption:* 26.4% |
+| | *investment in fixed capital:* 22.6% |
+| | *investment in inventories:* 0.1% |
+| | *exports of goods and services:* 44.4% |
+| | *imports of goods and services:* -39.9% |
+| | (2014 est.) |
+| **Switzerland** | *household consumption:* 57.2% |
+| | *government consumption:* 11.4% |
+| | *investment in fixed capital:* 21.5% |
+| | *investment in inventories:* -0.5% |
+| | *exports of goods and services:* 51.9% |
+| | *imports of goods and services:* -41.5% |
+| | (2014 est.) |
+| **Syria** | *household consumption:* 67.8% |
+| | *government consumption:* 19.4% |
+| | *investment in fixed capital:* 18.2% |
+| | *investment in inventories:* 9.5% |
+| | *exports of goods and services:* 7.5% |
+| | *imports of goods and services:* -22.4% |
+| | (2014 est.) |
+| **Taiwan** | *household consumption:* 53.2% |
+| | *government consumption:* 14.5% |
+| | *investment in fixed capital:* 21.6% |
+| | *investment in inventories:* 0.3% |
+| | *exports of goods and services:* 70% |
+| | *imports of goods and services:* -59.5% |
+| | (2014 est.) |
+| **Tajikistan** | *household consumption:* 107.3% |
+| | *government consumption:* 12% |
+| | *investment in fixed capital:* 12.8% |
+| | *investment in inventories:* 9.4% |
+| | *exports of goods and services:* 15.1% |
+| | *imports of goods and services:* -56.6% |
+| | (2014 est.) |
+| **Tanzania** | *household consumption:* 66% |
+| | *government consumption:* 19.8% |
+| | *investment in fixed capital:* 33.2% |
+| | *investment in inventories:* 0.6% |
+| | *exports of goods and services:* 20.6% |
+| | *imports of goods and services:* -40.3% |
+| | (2014 est.) |
+| **Thailand** | *household consumption:* 54.7% |
+| | *government consumption:* 14.2% |
+| | *investment in fixed capital:* 25.9% |
+| | *investment in inventories:* -0.3% |
+| | *exports of goods and services:* 75% |
+| | *imports of goods and services:* -69.5% |
+| | (2014 est.) |
+| **Timor-Leste** | *household consumption:* 21.9% |
+| | *government consumption:* 21.3% |
+| | *investment in fixed capital:* 21.8% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 81.9% |
+| | *imports of goods and services:* -46.8% |
+| | (2014 est.) |
+| **Togo** | *household consumption:* 87.3% |
+| | *government consumption:* 10.3% |
+| | *investment in fixed capital:* 18.7% |
+| | *investment in inventories:* 1.8% |
+| | *exports of goods and services:* 37.3% |
+| | *imports of goods and services:* -55.4% |
+| | (2014 est.) |
+| **Tonga** | *household consumption:* 94.9% |
+| | *government consumption:* 19.4% |
+| | *investment in fixed capital:* 34.4% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 20% |
+| | *imports of goods and services:* -68.7% |
+| | (2014 est.) |
+| **Trinidad and Tobago** | *household consumption:* 40.6% |
+| | *government consumption:* 12.1% |
+| | *investment in fixed capital:* 9.4% |
+| | *investment in inventories:* 0.5% |
+| | *exports of goods and services:* 66.9% |
+| | *imports of goods and services:* -29.6% |
+| | (2014 est.) |
+| **Tunisia** | *household consumption:* 64.8% |
+| | *government consumption:* 18.5% |
+| | *investment in fixed capital:* 22.2% |
+| | *investment in inventories:* 3.5% |
+| | *exports of goods and services:* 45.6% |
+| | *imports of goods and services:* -55.6% |
+| | (2014 est.) |
+| **Turkey** | *household consumption:* 71.4% |
+| | *government consumption:* 15.7% |
+| | *investment in fixed capital:* 19.7% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 27.7% |
+| | *imports of goods and services:* -34.6% |
+| | (2014 est.) |
+| **Turkmenistan** | *household consumption:* 50% |
+| | *government consumption:* 12.9% |
+| | *investment in fixed capital:* 44.3% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 45.5% |
+| | *imports of goods and services:* -38.2% |
+| | (2014 est.) |
+| **Turks and Caicos Islands** | *household consumption:* 23.4% |
+| | *government consumption:* 18.9% |
+| | *investment in fixed capital:* 57.6% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 76.2% |
+| | *imports of goods and services:* -76.1% |
+| | (2014 est.) |
+| **Uganda** | *household consumption:* 78.9% |
+| | *government consumption:* 8.8% |
+| | *investment in fixed capital:* 24.2% |
+| | *investment in inventories:* 0.2% |
+| | *exports of goods and services:* 21% |
+| | *imports of goods and services:* -33.2% |
+| | (2014 est.) |
+| **Ukraine** | *household consumption:* 81.8% |
+| | *government consumption:* 21.1% |
+| | *investment in fixed capital:* 15.6% |
+| | *investment in inventories:* -0.3% |
+| | *exports of goods and services:* 51.4% |
+| | *imports of goods and services:* -69.6% |
+| | (2014 est.) |
+| **United Arab Emirates** | *household consumption:* 52.4% |
+| | *government consumption:* 6.9% |
+| | *investment in fixed capital:* 22.9% |
+| | *investment in inventories:* 0.7% |
+| | *exports of goods and services:* 99.9% |
+| | *imports of goods and services:* -82.8% |
+| | (2014 est.) |
+| **United Kingdom** | *household consumption:* 64.8% |
+| | *government consumption:* 19.5% |
+| | *investment in fixed capital:* 17.1% |
+| | *investment in inventories:* 0.6% |
+| | *exports of goods and services:* 28.4% |
+| | *imports of goods and services:* -30.3% |
+| | (2014 est.) |
+| **United States** | *household consumption:* 68.7% |
+| | *government consumption:* 18.1% |
+| | *investment in fixed capital:* 15.9% |
+| | *investment in inventories:* 0.4% |
+| | *exports of goods and services:* 13.4% |
+| | *imports of goods and services:* -16.4% |
+| | (2014 est.) |
+| **Uruguay** | *household consumption:* 66.1% |
+| | *government consumption:* 14% |
+| | *investment in fixed capital:* 22.9% |
+| | *investment in inventories:* 0.7% |
+| | *exports of goods and services:* 24.2% |
+| | *imports of goods and services:* -28% |
+| | (2014 est.) |
+| **Uzbekistan** | *household consumption:* 55.6% |
+| | *government consumption:* 22.7% |
+| | *investment in fixed capital:* 24.4% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 26.9% |
+| | *imports of goods and services:* -29.6% |
+| | (2014 est.) |
+| **Vanuatu** | *household consumption:* 61.1% |
+| | *government consumption:* 17.1% |
+| | *investment in fixed capital:* 28.1% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 44.8% |
+| | *imports of goods and services:* -51% |
+| | (2014 est.) |
+| **Venezuela** | *household consumption:* 65.4% |
+| | *government consumption:* 16.3% |
+| | *investment in fixed capital:* 13.1% |
+| | *investment in inventories:* 5.4% |
+| | *exports of goods and services:* 16.7% |
+| | *imports of goods and services:* -16.8% |
+| | (2014 est.) |
+| **Vietnam** | *household consumption:* 66.3% |
+| | *government consumption:* 6.3% |
+| | *investment in fixed capital:* 23.7% |
+| | *investment in inventories:* 2% |
+| | *exports of goods and services:* 85.1% |
+| | *imports of goods and services:* -83.4% |
+| | (2014 est.) |
+| **Virgin Islands** | *household consumption:* 63.6% |
+| | *government consumption:* 28% |
+| | *investment in fixed assets:* 6.1% |
+| | *exports of goods and services:* 69.3% |
+| | *imports of goods and services:* 69.3% (2013) |
+| **West Bank** | *household consumption:* 86.6% |
+| | *government consumption:* 26.6% |
+| | *investment in fixed capital:* 25.3% |
+| | *investment in inventories:* 1.8% |
+| | *exports of goods and services:* 20.4% |
+| | *imports of goods and services:* -60.7% |
+| | (2014 est.) |
+| **World** | *household consumption:* 62% |
+| | *government consumption:* 18.5% |
+| | *investment in fixed capital:* 19.4% |
+| | *investment in inventories:* 0.5% |
+| | *exports of goods and services:* 29.3% |
+| | *imports of goods and services:* -29.7% |
+| | (2011 est.) |
+| **Yemen** | *household consumption:* 70.6% |
+| | *government consumption:* 15.7% |
+| | *investment in fixed capital:* 19.6% |
+| | *investment in inventories:* 4% |
+| | *exports of goods and services:* 18.5% |
+| | *imports of goods and services:* -28.5% |
+| | (2014 est.) |
+| **Zambia** | *household consumption:* 51.7% |
+| | *government consumption:* 21.2% |
+| | *investment in fixed capital:* 26.1% |
+| | *investment in inventories:* 0.3% |
+| | *exports of goods and services:* 44.3% |
+| | *imports of goods and services:* -43.6% |
+| | (2014 est.) |
+| **Zimbabwe** | *household consumption:* 68.7% |
+| | *government consumption:* 31.4% |
+| | *investment in fixed capital:* 22.4% |
+| | *investment in inventories:* 0% |
+| | *exports of goods and services:* 68.5% |
+| | *imports of goods and services:* -90.9% |
+| | (2014 est.) |

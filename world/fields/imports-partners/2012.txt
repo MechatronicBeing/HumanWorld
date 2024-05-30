@@ -1,0 +1,186 @@
+CIA - The World Factbook -- Field Listing :: Imports - partners   
+
+This entry provides a rank ordering of trading partners starting with the most important; it sometimes includes the percent of total dollar value.
+
+| Country | Imports - partners(%) |
+| --- | --- |
+| **Afghanistan** | Pakistan 13.7%, Russia 12.6%, Uzbekistan 11.5%, Iran 9.1% (FY11/12 est.) |
+| **Albania** | Italy 33%, Greece 12.2%, China 5.9%, Turkey 5.6%, Germany 4.3% (2011) |
+| **Algeria** | France 15.1%, China 10%, Italy 9.9%, Spain 7.3%, Germany 5.4%, US 4.6% (2011) |
+| **Angola** | Portugal 20.5%, China 17.8%, US 9.6%, Brazil 6.9%, South Africa 5.7%, France 5.1% (2011) |
+| **Argentina** | Brazil 33.2%, US 14.4%, China 12.4%, Germany 4.7% (2011) |
+| **Armenia** | Russia 20.1%, China 8.2%, Ukraine 6.9%, Iran 6.5%, Germany 5.9%, Italy 4.7%, Turkey 4% (2011) |
+| **Aruba** | US 50.6%, Netherlands 11.6%, UK 4.7% (2011) |
+| **Australia** | China 18.5%, US 11.4%, Japan 7.9%, Singapore 6.2%, Germany 4.7% (2011) |
+| **Austria** | Germany 42.8%, Italy 6.8%, Switzerland 5.5%, Netherlands 4% (2011) |
+| **Azerbaijan** | Turkey 18.1%, Russia 15.4%, China 7.8%, Germany 7.2%, UK 6.1%, Ukraine 4.6%, Italy 4.2% (2011) |
+| **Bahamas, The** | US 25.8%, India 18.6%, South Korea 14.3%, Venezuela 9.6%, Singapore 7.7%, China 4.1% (2011) |
+| **Bahrain** | Saudi Arabia 28.2%, US 10.5%, China 7.6%, Brazil 6%, India 5.7%, Germany 4.8%, Japan 4.1% (2011) |
+| **Bangladesh** | China 18.2%, India 13.5%, Malaysia 4.9% (2011) |
+| **Barbados** | Russia 26.6%, Trinidad and Tobago 24.8%, US 18.6%, China 6.1% (2011) |
+| **Belarus** | Russia 54.4%, Germany 5.6%, China 4.8%, Ukraine 4.4% (2011) |
+| **Belgium** | Netherlands 19.9%, Germany 15%, France 10.8%, UK 6%, US 5.3%, Ireland 4.5%, China 4.2% (2011) |
+| **Belize** | US 38.2%, Mexico 10.2%, Cuba 9.2%, Guatemala 5.4%, China 5%, Trinidad and Tobago 4.1% (2011) |
+| **Benin** | China 31.1%, France 12.2%, UK 7.6%, US 6.7%, India 6.5%, Netherlands 4.6%, Belgium 4.3% (2011) |
+| **Bermuda** | South Korea 43.4%, US 16.1%, China 9.6%, Norway 7.5%, Singapore 6.6% (2011) |
+| **Bolivia** | Chile 23.5%, Brazil 23%, Argentina 10.3%, US 10.1%, Peru 6.9%, China 5.8% (2011) |
+| **Bosnia and Herzegovina** | Croatia 21.6%, Germany 13%, Slovenia 12.9%, Italy 9.5%, Russia 7.5%, Austria 6.1%, Hungary 4.7% (2011) |
+| **Brazil** | US 15.1%, China 14.5%, Argentina 7.5%, Germany 6.7%, South Korea 4.5% (2011) |
+| **Brunei** | Singapore 27.4%, India 15.4%, China 12.8%, South Korea 10.1%, Malaysia 9.4%, Germany 7.9% (2011) |
+| **Bulgaria** | Russia 17.8%, Germany 11.1%, Italy 7.2%, Romania 7%, Greece 5.7%, Spain 5.1%, Turkey 4.6% (2011) |
+| **Burkina Faso** | Cote dIvoire 16.7%, France 15.2%, Ghana 5%, Togo 4.7%, Belgium 4.2% (2011) |
+| **Burma** | China 38.8%, Thailand 22.6%, Singapore 9.7%, South Korea 5.4%, Malaysia 4.5%, Japan 4.1% (2011) |
+| **Burundi** | Saudi Arabia 17.1%, Belgium 8.3%, China 7.6%, Uganda 7.5%, Kenya 6.6%, Zambia 6.5%, US 6.3%, France 5.1%, India 4.1% (2011) |
+| **Cambodia** | Thailand 24.6%, Vietnam 20.6%, China 19.9%, Singapore 7.8%, Hong Kong 6% (2011) |
+| **Cameroon** | China 16.8%, France 16.6%, Nigeria 12.3%, Belgium 5.3%, Italy 4.3%, US 4.2% (2011) |
+| **Canada** | US 49.5%, China 10.8%, Mexico 5.5% (2011) |
+| **Cape Verde** | Portugal 36.8%, Netherlands 25.3%, Spain 7%, Italy 5.2%, China 5.2% (2011) |
+| **Central African Republic** | South Korea 45.8%, Netherlands 8.8%, France 7.2%, Cameroon 5.1% (2011) |
+| **Chad** | Cameroon 17%, France 15.8%, China 10.8%, Finland 6.6%, Sweden 6%, Saudi Arabia 5%, Belgium 4.4%, US 4% (2011) |
+| **Chile** | US 20.1%, China 16.9%, Brazil 8.3%, Argentina 6.3%, Germany 4.2% (2011) |
+| **China** | Japan 11.2%, South Korea 9.3%, US 6.8%, Germany 5.3%, Australia 4.6% (2011) |
+| **Colombia** | US 29.2%, China 11.9%, Mexico 11.5%, Brazil 5.3% (2011) |
+| **Comoros** | Pakistan 16.1%, France 15.7%, UAE 11.2%, Turkey 7.3%, Kenya 5.5%, India 4.8% (2011) |
+| **Congo, Democratic Republic of the** | South Africa 21.7%, China 16.2%, Belgium 8.5%, Zambia 7.1%, Zimbabwe 5.7%, Kenya 4.8%, France 4.7% (2011) |
+| **Congo, Republic of the** | France 17.2%, China 12.5%, India 9.2%, Italy 7.5%, Brazil 7.3%, US 5.8% (2011) |
+| **Costa Rica** | US 43%, Mexico 7%, China 6.2%, Japan 6% (2011) |
+| **Cote d'Ivoire** | Nigeria 35.1%, France 10%, China 5.6%, Colombia 4.8% (2011) |
+| **Croatia** | Italy 16.3%, Germany 12.6%, Russia 7.2%, China 7.1%, Slovenia 6.2%, Austria 4.5% (2011) |
+| **Cuba** | Venezuela 37.4%, China 9.8%, Spain 8.4%, Brazil 5.2%, Canada 4.4% (2011) |
+| **Cyprus** | Greece 21.7%, Israel 10.4%, UK 9%, Italy 8.3%, Germany 8.3%, France 5.7%, China 4.8%, Netherlands 4.6% (2011) |
+| **Czech Republic** | Germany 29.6%, China 7.6%, Poland 7.1%, Slovakia 7%, Netherlands 5.7%, Russia 4.8%, Austria 4.4% (2011) |
+| **Denmark** | Germany 20.8%, Sweden 13.5%, Netherlands 7.2%, UK 6.3%, China 6.2%, Norway 5.8% (2011) |
+| **Djibouti** | Saudi Arabia 17.6%, China 16.1%, India 15.4%, Indonesia 5.9%, Malaysia 5.1%, US 4.2%, Pakistan 4.1% (2011) |
+| **Dominica** | Japan 34.2%, US 15.7%, Trinidad and Tobago 13.9%, China 5.7%, Singapore 5.5% (2011) |
+| **Dominican Republic** | US 43.6%, Venezuela 7.2%, Mexico 5.8%, China 5.7% (2011) |
+| **Ecuador** | US 27.6%, China 10.1%, Colombia 9%, Panama 4.6%, Peru 4.5%, Brazil 4.3%, South Korea 4% (2011) |
+| **Egypt** | US 10.7%, China 9.1%, Germany 6.3%, Italy 5.1%, Kuwait 4.7%, Turkey 4.4%, Saudi Arabia 4.3% (2011) |
+| **El Salvador** | US 39%, Guatemala 9.8%, Mexico 7.7%, China 5.2% (2011) |
+| **Equatorial Guinea** | Spain 17.1%, US 13.1%, France 12.4%, China 12.3%, Italy 6.7%, Cote dIvoire 6% (2011) |
+| **Estonia** | Finland 13.4%, Latvia 11.6%, Sweden 11.3%, Germany 10.9%, Lithuania 8.7%, Poland 7.2%, China 4.7% (2011) |
+| **Ethiopia** | Saudi Arabia 10%, China 9.9%, US 7.6%, India 4.6% (2011) |
+| **Faroe Islands** | Denmark 49.6%, Norway 29%, Iceland 4.1% (2011) |
+| **Fiji** | Singapore 34.1%, Australia 16.3%, NZ 14.1%, China 8.9% (2011) |
+| **Finland** | Russia 17.6%, Sweden 13.6%, Germany 13.6%, Netherlands 7.6%, China 4.2% (2011) |
+| **France** | Germany 19.1%, Belgium 11.3%, Italy 7.7%, Netherlands 7.5%, Spain 6.6%, UK 5.1%, China 4.8% (2011) |
+| **Gabon** | France 32.6%, China 8.3%, US 6.3%, Belgium 5.7%, Cameroon 4.3% (2011) |
+| **Gambia, The** | China 27.9%, Brazil 9.6%, Senegal 8.3%, India 6.3% (2011) |
+| **Georgia** | Turkey 17.8%, Ukraine 10%, Azerbaijan 8.3%, China 7.6%, Germany 6.8%, Russia 5.6% (2011) |
+| **Ghana** | China 20.4%, Nigeria 12.4%, US 7.8%, India 5.6%, Netherlands 5.1%, UK 4.2% (2011) |
+| **Greece** | Germany 10.6%, Russia 9.4%, Italy 9.2%, China 5.7%, Netherlands 5.5%, France 5%, Iran 4.5% (2011) |
+| **Greenland** | Denmark 58.1%, Sweden 19.7%, UK 10.3% (2011) |
+| **Grenada** | Trinidad and Tobago 43.2%, US 19% (2011) |
+| **Guatemala** | US 40.4%, Mexico 11.6%, China 8.2%, El Salvador 4.5% (2011) |
+| **Guinea** | China 13.2%, Netherlands 8.1%, US 5.4% (2011) |
+| **Guinea-Bissau** | Portugal 27.8%, Senegal 15.4%, China 4.6% (2011) |
+| **Guyana** | US 21.3%, Trinidad and Tobago 20%, China 8.3%, South Africa 7.5%, Cuba 5.5% (2011) |
+| **Haiti** | Dominican Republic 31.5%, US 25%, Netherlands Antilles 8.6%, China 7.1% (2011) |
+| **Honduras** | US 46%, Guatemala 8.8%, Mexico 5.7%, El Salvador 5.4%, China 4.1%, Costa Rica 4% (2011) |
+| **Hong Kong** | China 44.9%, Japan 8.9%, Taiwan 7.5%, US 4.9% (2011 est.) |
+| **Hungary** | Germany 24.7%, Russia 8.6%, China 8.4%, Austria 6.2%, Slovakia 4.9%, Poland 4.7%, Netherlands 4.4%, Italy 4.3% (2011) |
+| **Iceland** | Norway 15.9%, US 10.8%, Germany 7.8%, Netherlands 7.3%, China 6.2%, Denmark 6.2%, Brazil 5.8%, UK 5.1% (2011) |
+| **India** | China 11.9%, UAE 7.7%, Switzerland 6.8%, Saudi Arabia 6.1%, US 4.9% (2011) |
+| **Indonesia** | China 14.8%, Singapore 14.6%, Japan 11%, South Korea 7.3%, US 6.1%, Thailand 5.9%, Malaysia 5.9% (2011) |
+| **Iran** | UAE 30.9%, China 17.4%, South Korea 7.1%, Germany 4.8%, Turkey 4.2% (2011) |
+| **Iraq** | Turkey 25.3%, Syria 18.3%, China 11.7%, US 7.4%, South Korea 4.7% (2011) |
+| **Ireland** | UK 39.8%, US 13%, Germany 7.8%, Netherlands 5.8% (2011) |
+| **Israel** | US 11.8%, China 7.4%, Germany 6.2%, Belgium 6.1%, Switzerland 5.4%, Italy 4.2% (2011) |
+| **Italy** | Germany 16.5%, France 8.8%, China 7.7%, Netherlands 5.5%, Spain 4.7% (2011) |
+| **Jamaica** | US 32.8%, Venezuela 15%, Trinidad and Tobago 14.2%, China 6.3%, Mexico 4.1% (2011) |
+| **Japan** | China 21.5%, US 8.9%, Australia 6.6%, Saudi Arabia 5.9%, UAE 5%, South Korea 4.7% (2011) |
+| **Jordan** | Saudi Arabia 22.1%, China 9.8%, US 6.4%, Italy 5.1%, Germany 4.5% (2011) |
+| **Kazakhstan** | China 30.1%, Russia 20%, Germany 7.4%, Ukraine 5% (2011) |
+| **Kenya** | China 15.3%, India 13.8%, UAE 10.5%, Saudi Arabia 7.3%, South Africa 5.5%, Japan 4% (2011) |
+| **Korea, North** | China 61.6%, South Korea 20%, European Union 4% (2011 est.) |
+| **Korea, South** | China 16.5%, Japan 13%, US 8.5%, Saudi Arabia 7.1%, Australia 5% (2011 est.) |
+| **Kuwait** | US 12.4%, China 9.7%, Saudi Arabia 8.4%, South Korea 6.5%, India 6.4%, Japan 6.2%, Germany 5%, UAE 4.3% (2011) |
+| **Kyrgyzstan** | China 59.7%, Russia 13.9%, Kazakhstan 5.2% (2011) |
+| **Laos** | Thailand 65.2%, China 11.1%, Vietnam 6.5% (2011) |
+| **Latvia** | Lithuania 16.6%, Germany 11%, Russia 7.7%, Poland 7.2%, Estonia 6.8%, Italy 4.2%, Finland 4.1% (2011) |
+| **Lebanon** | US 10.2%, Italy 9.3%, France 8.8%, China 8.2%, Egypt 5.3%, Germany 5.1%, Turkey 4% (2011) |
+| **Liberia** | South Korea 41.8%, China 28.3%, Japan 18.6% (2011) |
+| **Libya** | Tunisia 13.3%, Turkey 9.1%, China 8.8%, Italy 8.4%, Egypt 6.7%, Syria 5.2%, France 4.9%, Germany 4.8% (2011) |
+| **Lithuania** | Russia 32.1%, Germany 9.6%, Poland 9%, Latvia 6.5%, Netherlands 4.8% (2011) |
+| **Luxembourg** | Belgium 30.3%, Germany 26%, France 10.8%, China 6.9%, Netherlands 5.8%, US 5.2% (2011) |
+| **Macau** | China 30.4%, Hong Kong 12%, France 10.4%, Switzerland 7.5%, Italy 7.5%, Japan 6.2%, US 6.1% (2011) |
+| **Macedonia** | Greece 14.2%, Germany 13.2%, Bulgaria 11.1%, UK 8%, Turkey 5.4%, Italy 5.4% (2011) |
+| **Madagascar** | China 17.4%, France 13.3%, South Africa 5.7%, Singapore 4.9%, Bahrain 4.8%, Mauritius 4.6%, Kuwait 4.5%, India 4.1% (2011) |
+| **Malawi** | South Africa 31%, India 10.6%, Zambia 9.4%, China 8.7%, Tanzania 5.7%, US 5.1% (2011) |
+| **Malaysia** | China 13.2%, Singapore 12.8%, Japan 11.4%, US 9.7%, Indonesia 6.1%, Thailand 6%, South Korea 4% (2011) |
+| **Maldives** | Singapore 23.2%, UAE 18%, India 8.7%, China 7.1%, Malaysia 6.9%, Sri Lanka 5.3%, Thailand 4.9% (2011) |
+| **Mali** | Senegal 14.9%, France 11.6%, China 8.2%, Cote dIvoire 6.3% (2011) |
+| **Malta** | Italy 32%, France 8.4%, UK 8%, Germany 6.9% (2011) |
+| **Mauritania** | China 12.5%, Netherlands 9%, France 8.7%, US 7.8%, Spain 6.5%, Germany 5.4%, Brazil 5.2%, Belgium 4.3%, Malaysia 4.1% (2011) |
+| **Mauritius** | India 25.2%, China 13.6%, France 9.1%, South Africa 6.9% (2011) |
+| **Mexico** | US 49.7%, China 14.9%, Japan 4.7% (2011) |
+| **Moldova** | Romania 17.9%, Ukraine 15.3%, Germany 10.5%, Russia 9.1%, Italy 6.5%, Belarus 5.5%, Turkey 4.8%, Poland 4.3% (2011) |
+| **Mongolia** | China 43.4%, Russia 23.3%, South Korea 5.6%, Japan 5.1%, US 5% (2011) |
+| **Montenegro** | Serbia 28.4%, Greece 7.9%, Bosnia and Herzegovina 7.6% (2011 est.) |
+| **Morocco** | France 13.6%, Spain 11.2%, US 8.6%, Saudi Arabia 6.8%, China 6.5%, Italy 5.1%, Russia 4.7%, Germany 4.4% (2011) |
+| **Mozambique** | South Africa 35.4%, China 10.2%, India 8.4%, US 6.6%, Australia 6.1%, Portugal 4.4% (2011) |
+| **Nepal** | India 57%, China 25.9% (2011) |
+| **Netherlands** | Germany 14.5%, China 11.8%, Belgium 8.6%, UK 6.1%, Russia 6%, US 5.9%, France 4% (2011) |
+| **New Caledonia** | France 33.8%, Singapore 19.2%, Australia 11.9%, NZ 4.7%, China 4.4% (2011) |
+| **New Zealand** | China 16.1%, Australia 15.9%, US 10.4%, Japan 6.3%, Singapore 4.6%, Germany 4.3% (2011) |
+| **Nicaragua** | US 21.3%, Venezuela 14%, Costa Rica 8.7%, China 8.5%, Mexico 8.2%, Guatemala 8%, El Salvador 5.4% (2011) |
+| **Niger** | France 15.6%, China 9.7%, Nigeria 8.9%, French Polynesia 8.5%, Belgium 6.9%, India 6.1%, Togo 4.7% (2011) |
+| **Nigeria** | China 17.3%, US 9.1%, India 5%, Netherlands 4.9%, South Korea 4.7% (2011) |
+| **Norway** | Sweden 13.3%, Germany 12%, China 9%, Denmark 6.3%, UK 5.6%, US 5.4%, Netherlands 4.1% (2011) |
+| **Oman** | UAE 27.7%, Japan 11.9%, US 6.1%, India 5.4%, China 4.2%, Saudi Arabia 4.1%, Germany 4% (2011) |
+| **Pakistan** | UAE 17.2%, China 15%, Saudi Arabia 11.2%, Kuwait 8.9%, Malaysia 5.4%, Japan 4.3% (2012 est.) |
+| **Panama** | Japan 23.5%, China 23%, Singapore 18.1%, US 13%, South Korea 6% (2011) |
+| **Papua New Guinea** | Australia 36.9%, Singapore 14.1%, Malaysia 9.1%, China 7%, Japan 5%, Indonesia 4.7%, US 4.7% (2011) |
+| **Paraguay** | Brazil 27.5%, China 16.9%, US 15%, Argentina 14.8%, Chile 4.4% (2011) |
+| **Peru** | US 24.5%, China 13.7%, Brazil 6.7%, Chile 5.9%, Ecuador 4.4%, South Korea 4% (2011) |
+| **Philippines** | Japan 10.8%, US 10.8%, China 10.1%, Singapore 8.1%, South Korea 7.3%, Thailand 5.8%, Saudi Arabia 5.4%, Malaysia 4.4% (2011) |
+| **Poland** | Germany 28.7%, Russia 10.3%, Netherlands 5.9%, Italy 5.3%, China 5.3%, France 4.4%, Czech Republic 4.3% (2011) |
+| **Portugal** | Spain 31.8%, Germany 12.4%, France 6.9%, Italy 5.4%, Netherlands 4.8% (2011) |
+| **Qatar** | US 12.7%, UAE 12.3%, Saudi Arabia 9.3%, UK 6.2%, China 5.4%, Germany 5.2%, Japan 4.6%, France 4.6%, Italy 4.5% (2011) |
+| **Romania** | Germany 17.2%, Italy 11.4%, Hungary 8.8%, France 5.8%, China 4.6%, Kazakhstan 4.2%, Austria 4% (2011) |
+| **Russia** | China 15.5%, Germany 10%, Ukraine 6.6%, Italy 4.3% (2011) |
+| **Rwanda** | Kenya 18.3%, Uganda 16.5%, US 10.5%, UAE 8.9%, China 5.8%, Tanzania 5.3% (2011) |
+| **Saint Kitts and Nevis** | Algeria 60.4%, US 14.3%, Trinidad and Tobago 7.8% (2011) |
+| **Saint Lucia** | Brazil 78.8%, US 8.4%, Trinidad and Tobago 5.1% (2011) |
+| **Saint Vincent and the Grenadines** | Singapore 24.9%, Trinidad and Tobago 17.6%, US 12.6%, China 12.3%, Norway 7.5% (2011) |
+| **Samoa** | NZ 23.9%, Fiji 17.1%, Singapore 15.4%, China 8.4%, Japan 8.1%, Australia 6.7%, US 5.3% (2011) |
+| **Sao Tome and Principe** | Portugal 63.8%, US 6%, Gabon 4.7%, France 4% (2011) |
+| **Saudi Arabia** | China 12.8%, US 11.9%, Germany 7.1%, South Korea 6%, Japan 5.6%, India 4.9%, Italy 4.1% (2011) |
+| **Senegal** | France 16.7%, China 9.6%, UK 8.4%, Nigeria 8.3%, Netherlands 5.8%, US 4.8% (2011) |
+| **Seychelles** | Saudi Arabia 23.9%, Spain 8.3%, France 5.8%, South Africa 5%, Singapore 4.1% (2011) |
+| **Sierra Leone** | China 16%, South Africa 11.1%, US 7.3%, UK 7.1%, India 5.7%, Malaysia 4.3% (2011) |
+| **Singapore** | US 10.8%, Malaysia 10.7%, China 10.4%, Japan 7.2%, South Korea 5.9%, Indonesia 5.3%, Saudi Arabia 4.8% (2011) |
+| **Slovakia** | Germany 19.3%, Czech Republic 18.5%, Russia 11.4%, Hungary 7%, Poland 5.5%, Austria 4.6%, Italy 4.1%, China 4% (2011) |
+| **Slovenia** | Germany 16.4%, Italy 16%, Austria 10.2%, Croatia 4.5%, France 4.1%, China 4.1% (2011) |
+| **Solomon Islands** | Australia 27%, Singapore 26.1%, China 6.4%, Malaysia 5.8%, NZ 5% (2011) |
+| **Somalia** | Djibouti 26.6%, India 13.6%, Kenya 6.9%, Pakistan 6.3%, China 6.1%, Egypt 4.8%, Oman 4.8%, UAE 4.6%, Yemen 4.3% (2011) |
+| **South Africa** | China 14.3%, Germany 10.7%, US 8%, Japan 4.7%, Saudi Arabia 4.5%, India 4%, UK 4% (2011) |
+| **Spain** | Germany 13%, France 11.8%, Italy 6.7%, China 5.8%, Netherlands 5%, UK 4.5% (2011) |
+| **Sri Lanka** | India 25.6%, China 15.9%, Singapore 7.1%, Iran 6.2%, Japan 5% (2011) |
+| **Sudan** | Macau 21.5%, UAE 10.1%, Saudi Arabia 6.9%, India 6.7%, Egypt 5.8%, Germany 4.8% (2011) |
+| **Suriname** | US 26.1%, Netherlands 15.6%, UAE 8.6%, China 8.2%, Antigua and Barbuda 7.4%, Netherlands Antilles 5.5%, Brazil 4.4%, Japan 4.1% (2011) |
+| **Sweden** | Germany 18.1%, Denmark 8%, Norway 7.7%, Netherlands 5.9%, UK 5.8%, Russia 5.6%, Finland 5.3%, China 4.6%, France 4.5% (2011) |
+| **Switzerland** | Germany 32.3%, Italy 10.4%, France 8.6%, US 5%, Netherlands 4.4%, Austria 4.3% (2011) |
+| **Syria** | Saudi Arabia 14.8%, China 10.3%, UAE 7.3%, Turkey 6.8%, Iran 5.4%, Italy 5.1%, Russia 4.6%, Iraq 4.4% (2011) |
+| **Taiwan** | Japan 20.7%, China 14.2%, US 10%, South Korea 6.4%, Saudi Arabia 4.7% (2010 est.) |
+| **Tajikistan** | China 45.9%, Russia 16.4%, Kazakhstan 6.8%, US 4.1% (2011) |
+| **Tanzania** | India 18.8%, China 17.4%, South Africa 6%, Kenya 5.9%, UAE 4.7% (2011) |
+| **Thailand** | Japan 18.4%, China 13.4%, UAE 6.3%, US 5.9%, Malaysia 5.4%, South Korea 4% (2011) |
+| **Togo** | China 32.5%, France 8.7%, Belgium 7.9%, India 6.2%, US 5.1%, UK 4.6% (2011) |
+| **Tonga** | Fiji 36.7%, NZ 24.9%, US 10.5%, China 7.2% (2011) |
+| **Trinidad and Tobago** | US 32.8%, Brazil 10.7%, Russia 6.2%, Gabon 5.7%, Canada 5.1%, China 4.2% (2011) |
+| **Tunisia** | France 21.1%, Italy 17.6%, Germany 8.9%, Spain 5%, China 4.7%, Russia 4.5% (2011) |
+| **Turkey** | Russia 9.9%, Germany 9.5%, China 9%, US 6.7%, Italy 5.6%, Iran 5.2% (2011) |
+| **Turkmenistan** | Turkey 21%, Russia 14%, China 11.1%, UAE 7.9%, Germany 5.8% (2011) |
+| **Uganda** | Kenya 14.9%, UAE 14%, India 11.1%, China 9.3%, South Africa 5.6%, Japan 4.4% (2011) |
+| **Ukraine** | Russia 30.5%, Germany 9%, China 8.9%, Belarus 5.5%, Poland 5.3% (2011) |
+| **United Arab Emirates** | India 19.8%, China 13.7%, US 8.1%, Germany 4.6% (2011) |
+| **United Kingdom** | Germany 12.5%, China 8.2%, Netherlands 7.1%, US 7%, France 5.7%, Belgium 4.8%, Norway 4.7% (2011) |
+| **United States** | China 18.4%, Canada 14.2%, Mexico 11.7%, Japan 5.8%, Germany 4.4% (2011) |
+| **Uruguay** | Brazil 16.3%, China 15%, Argentina 13.4%, US 9.4%, Paraguay 7.1%, Venezuela 6.7% (2011) |
+| **Uzbekistan** | Russia 21.4%, South Korea 19.1%, China 15.1%, Germany 7.4%, Kazakhstan 5.6% (2011) |
+| **Vanuatu** | China 26.7%, Singapore 21.2%, Australia 13.6%, NZ 7.2%, Fiji 6.7%, Japan 5.4% (2011) |
+| **Venezuela** | US 28.6%, China 15.1%, Brazil 10.6% (2011) |
+| **Vietnam** | China 22%, South Korea 13.2%, Japan 10.4%, Taiwan 8.6%, Thailand 6.4%, Singapore 6.4% (2011 est.) |
+| **Yemen** | UAE 18.8%, China 11.8%, Saudi Arabia 8.9%, Kuwait 6.6%, India 6.5%, France 4.7%, US 4.2% (2011) |
+| **Zambia** | South Africa 36.7%, Democratic Republic of the Congo 20.6%, China 10%, Kuwait 5.9% (2011) |
+| **Zimbabwe** | South Africa 55.4%, China 9.2% (2011) |

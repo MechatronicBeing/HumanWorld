@@ -1,0 +1,275 @@
+CIA - The World Factbook 2002 -- Field Listing - Group
+
+| Country | Group |
+| --- | --- |
+| **Afghanistan** | All, NESA, Near East/South Asia |
+| **Albania** | All, OREA, Europe/French Dependencies |
+| **Algeria** | All, NESA, Near East/South Asia |
+| **American Samoa** | All, APLAA, Oceania/Australasia |
+| **Andorra** | All, OREA, Europe/French Dependencies |
+| **Angola** | All, APLAA, Sub-Saharan Africa |
+| **Anguilla** | All, APLAA, North America/Caribbean |
+| **Antarctica** | All, APLAA, South America/Global |
+| **Antigua and Barbuda** | All, APLAA, North America/Caribbean |
+| **Arctic Ocean** | All, APLAA, South America/Global |
+| **Argentina** | All, APLAA, South America/Global |
+| **Armenia** | All, OREA, Russia/Eurasia |
+| **Aruba** | All, APLAA, North America/Caribbean |
+| **Ashmore and Cartier Islands** | All, APLAA, Oceania/Australasia |
+| **Atlantic Ocean** | All, APLAA, South America/Global |
+| **Australia** | All, APLAA, Oceania/Australasia |
+| **Austria** | All, OREA, Europe/French Dependencies |
+| **Azerbaijan** | All, OREA, Russia/Eurasia |
+| **Bahamas, The** | All, APLAA, North America/Caribbean |
+| **Bahrain** | All, NESA, Near East/South Asia |
+| **Baker Island** | All, APLAA, Oceania/Australasia |
+| **Bangladesh** | All, NESA, Near East/South Asia |
+| **Barbados** | All, APLAA, North America/Caribbean |
+| **Bassas da India** | All, OREA, Europe/French Dependencies |
+| **Belarus** | All, OREA, Russia/Eurasia |
+| **Belgium** | All, OREA, Europe/French Dependencies |
+| **Belize** | All, APLAA, North America/Caribbean |
+| **Benin** | All, APLAA, Sub-Saharan Africa |
+| **Bermuda** | All, APLAA, North America/Caribbean |
+| **Bhutan** | All, NESA, Near East/South Asia |
+| **Bolivia** | All, APLAA, South America/Global |
+| **Bosnia and Herzegovina** | All, OREA, Europe/French Dependencies |
+| **Botswana** | All, APLAA, Sub-Saharan Africa |
+| **Bouvet Island** | All, OREA, Europe/French Dependencies |
+| **Brazil** | All, APLAA, South America/Global |
+| **British Indian Ocean Territory** | All, APLAA, Sub-Saharan Africa |
+| **British Virgin Islands** | All, APLAA, North America/Caribbean |
+| **Brunei** | All, APLAA, East Asia/Southeast Asia |
+| **Bulgaria** | All, OREA, Russia/Eurasia |
+| **Burkina Faso** | All, APLAA, Sub-Saharan Africa |
+| **Burma** | All, APLAA, East Asia/Southeast Asia |
+| **Burundi** | All, APLAA, Sub-Saharan Africa |
+| **Cambodia** | All, APLAA, East Asia/Southeast Asia |
+| **Cameroon** | All, APLAA, Sub-Saharan Africa |
+| **Canada** | All, APLAA, North America/Caribbean |
+| **Cape Verde** | All, APLAA, Sub-Saharan Africa |
+| **Cayman Islands** | All, APLAA, North America/Caribbean |
+| **Central African Republic** | All, APLAA, Sub-Saharan Africa |
+| **Chad** | All, APLAA, Sub-Saharan Africa |
+| **Chile** | All, APLAA, South America/Global |
+| **China** | All, APLAA, East Asia/Southeast Asia |
+| **Christmas Island** | All, APLAA, Oceania/Australasia |
+| **Clipperton Island** | All, OREA, Europe/French Dependencies |
+| **Cocos (Keeling) Islands** | All, APLAA, Oceania/Australasia |
+| **Colombia** | All, APLAA, South America/Global |
+| **Comoros** | All, APLAA, Sub-Saharan Africa |
+| **Congo, Democratic Republic of the** | All, APLAA, Sub-Saharan Africa |
+| **Congo, Republic of the** | All, APLAA, Sub-Saharan Africa |
+| **Cook Islands** | All, APLAA, Oceania/Australasia |
+| **Coral Sea Islands** | All, APLAA, Oceania/Australasia |
+| **Costa Rica** | All, APLAA, North America/Caribbean |
+| **Cote d'Ivoire** | All, APLAA, Sub-Saharan Africa |
+| **Croatia** | All, OREA, Europe/French Dependencies |
+| **Cuba** | All, APLAA, North America/Caribbean |
+| **Cyprus** | All, OREA, Europe/French Dependencies |
+| **Czech Republic** | All, OREA, Russia/Eurasia |
+| **Denmark** | All, OREA, Europe/French Dependencies |
+| **Djibouti** | All, APLAA, Sub-Saharan Africa |
+| **Dominica** | All, APLAA, North America/Caribbean |
+| **Dominican Republic** | All, APLAA, North America/Caribbean |
+| **East Timor** | All, APLAA, East Asia/Southeast Asia |
+| **Ecuador** | All, APLAA, South America/Global |
+| **Egypt** | All, NESA, Near East/South Asia |
+| **El Salvador** | All, APLAA, North America/Caribbean |
+| **Equatorial Guinea** | All, APLAA, Sub-Saharan Africa |
+| **Eritrea** | All, APLAA, Sub-Saharan Africa |
+| **Estonia** | All, OREA, Russia/Eurasia |
+| **Ethiopia** | All, APLAA, Sub-Saharan Africa |
+| **Europa Island** | All, OREA, Europe/French Dependencies |
+| **Falkland Islands (Islas Malvinas)** | All, APLAA, South America/Global |
+| **Faroe Islands** | All, OREA, Europe/French Dependencies |
+| **Fiji** | All, APLAA, Oceania/Australasia |
+| **Finland** | All, OREA, Europe/French Dependencies |
+| **France** | All, OREA, Europe/French Dependencies |
+| **French Guiana** | All, OREA, Europe/French Dependencies |
+| **French Polynesia** | All, OREA, Europe/French Dependencies |
+| **French Southern and Antarctic Lands** | All, OREA, Europe/French Dependencies |
+| **Gabon** | All, APLAA, Sub-Saharan Africa |
+| **Gambia, The** | All, APLAA, Sub-Saharan Africa |
+| **Gaza Strip** | All, NESA, Near East/South Asia |
+| **Georgia** | All, OREA, Russia/Eurasia |
+| **Germany** | All, OREA, Europe/French Dependencies |
+| **Ghana** | All, APLAA, Sub-Saharan Africa |
+| **Gibraltar** | All, OREA, Europe/French Dependencies |
+| **Glorioso Islands** | All, OREA, Europe/French Dependencies |
+| **Greece** | All, OREA, Europe/French Dependencies |
+| **Greenland** | All, OREA, Europe/French Dependencies |
+| **Grenada** | All, APLAA, North America/Caribbean |
+| **Guadeloupe** | All, OREA, Europe/French Dependencies |
+| **Guam** | All, APLAA, Oceania/Australasia |
+| **Guatemala** | All, APLAA, North America/Caribbean |
+| **Guernsey** | All, OREA, Europe/French Dependencies |
+| **Guinea** | All, APLAA, Sub-Saharan Africa |
+| **Guinea-Bissau** | All, APLAA, Sub-Saharan Africa |
+| **Guyana** | All, APLAA, South America/Global |
+| **Haiti** | All, APLAA, North America/Caribbean |
+| **Heard Island and McDonald Islands** | All, APLAA, Oceania/Australasia |
+| **Holy See (Vatican City)** | All, OREA, Europe/French Dependencies |
+| **Honduras** | All, APLAA, North America/Caribbean |
+| **Hong Kong** | All, APLAA, East Asia/Southeast Asia |
+| **Howland Island** | All, APLAA, Oceania/Australasia |
+| **Hungary** | All, OREA, Russia/Eurasia |
+| **Iceland** | All, OREA, Europe/French Dependencies |
+| **India** | All, NESA, Near East/South Asia |
+| **Indian Ocean** | All, APLAA, South America/Global |
+| **Indonesia** | All, APLAA, East Asia/Southeast Asia |
+| **Iran** | All, NESA, Near East/South Asia |
+| **Iraq** | All, NESA, Near East/South Asia |
+| **Ireland** | All, OREA, Europe/French Dependencies |
+| **Israel** | All, NESA, Near East/South Asia |
+| **Italy** | All, OREA, Europe/French Dependencies |
+| **Jamaica** | All, APLAA, North America/Caribbean |
+| **Jan Mayen** | All, OREA, Europe/French Dependencies |
+| **Japan** | All, APLAA, East Asia/Southeast Asia |
+| **Jarvis Island** | All, APLAA, Oceania/Australasia |
+| **Jersey** | All, OREA, Europe/French Dependencies |
+| **Johnston Atoll** | All, APLAA, Oceania/Australasia |
+| **Jordan** | All, NESA, Near East/South Asia |
+| **Juan de Nova Island** | All, OREA, Europe/French Dependencies |
+| **Kazakhstan** | All, OREA, Russia/Eurasia |
+| **Kenya** | All, APLAA, Sub-Saharan Africa |
+| **Kingman Reef** | All, APLAA, Oceania/Australasia |
+| **Kiribati** | All, APLAA, Oceania/Australasia |
+| **Korea, North** | All, APLAA, East Asia/Southeast Asia |
+| **Korea, South** | All, APLAA, East Asia/Southeast Asia |
+| **Kuwait** | All, NESA, Near East/South Asia |
+| **Kyrgyzstan** | All, OREA, Russia/Eurasia |
+| **Laos** | All, APLAA, East Asia/Southeast Asia |
+| **Latvia** | All, OREA, Russia/Eurasia |
+| **Lebanon** | All, NESA, Near East/South Asia |
+| **Lesotho** | All, APLAA, Sub-Saharan Africa |
+| **Liberia** | All, APLAA, Sub-Saharan Africa |
+| **Libya** | All, NESA, Near East/South Asia |
+| **Liechtenstein** | All, OREA, Europe/French Dependencies |
+| **Lithuania** | All, OREA, Russia/Eurasia |
+| **Luxembourg** | All, OREA, Europe/French Dependencies |
+| **Macau** | All, APLAA, East Asia/Southeast Asia |
+| **Macedonia, The Former Yugoslav Republic of** | All, OREA, Europe/French Dependencies |
+| **Madagascar** | All, APLAA, Sub-Saharan Africa |
+| **Malawi** | All, APLAA, Sub-Saharan Africa |
+| **Malaysia** | All, APLAA, East Asia/Southeast Asia |
+| **Maldives** | All, NESA, Near East/South Asia |
+| **Mali** | All, APLAA, Sub-Saharan Africa |
+| **Malta** | All, OREA, Europe/French Dependencies |
+| **Man, Isle of** | All, OREA, Europe/French Dependencies |
+| **Marshall Islands** | All, APLAA, Oceania/Australasia |
+| **Martinique** | All, OREA, Europe/French Dependencies |
+| **Mauritania** | All, NESA, Near East/South Asia |
+| **Mauritius** | All, APLAA, Sub-Saharan Africa |
+| **Mayotte** | All, OREA, Europe/French Dependencies |
+| **Mexico** | All, APLAA, North America/Caribbean |
+| **Micronesia, Federated States of** | All, APLAA, Oceania/Australasia |
+| **Midway Islands** | All, APLAA, Oceania/Australasia |
+| **Moldova** | All, OREA, Russia/Eurasia |
+| **Monaco** | All, OREA, Europe/French Dependencies |
+| **Mongolia** | All, APLAA, East Asia/Southeast Asia |
+| **Montserrat** | All, APLAA, North America/Caribbean |
+| **Morocco** | All, NESA, Near East/South Asia |
+| **Mozambique** | All, APLAA, Sub-Saharan Africa |
+| **Namibia** | All, APLAA, Sub-Saharan Africa |
+| **Nauru** | All, APLAA, Oceania/Australasia |
+| **Navassa Island** | All, APLAA, North America/Caribbean |
+| **Nepal** | All, NESA, Near East/South Asia |
+| **Netherlands** | All, OREA, Europe/French Dependencies |
+| **Netherlands Antilles** | All, APLAA, North America/Caribbean |
+| **New Caledonia** | All, OREA, Europe/French Dependencies |
+| **New Zealand** | All, APLAA, Oceania/Australasia |
+| **Nicaragua** | All, APLAA, North America/Caribbean |
+| **Niger** | All, APLAA, Sub-Saharan Africa |
+| **Nigeria** | All, APLAA, Sub-Saharan Africa |
+| **Niue** | All, APLAA, Oceania/Australasia |
+| **Norfolk Island** | All, APLAA, Oceania/Australasia |
+| **Northern Mariana Islands** | All, APLAA, Oceania/Australasia |
+| **Norway** | All, OREA, Europe/French Dependencies |
+| **Oman** | All, NESA, Near East/South Asia |
+| **Pacific Ocean** | All, APLAA, South America/Global |
+| **Pakistan** | All, NESA, Near East/South Asia |
+| **Palau** | All, APLAA, Oceania/Australasia |
+| **Palmyra Atoll** | All, APLAA, Oceania/Australasia |
+| **Panama** | All, APLAA, North America/Caribbean |
+| **Papua New Guinea** | All, APLAA, East Asia/Southeast Asia |
+| **Paracel Islands** | All, APLAA, East Asia/Southeast Asia |
+| **Paraguay** | All, APLAA, South America/Global |
+| **Peru** | All, APLAA, South America/Global |
+| **Philippines** | All, APLAA, East Asia/Southeast Asia |
+| **Pitcairn Islands** | All, APLAA, Oceania/Australasia |
+| **Poland** | All, OREA, Russia/Eurasia |
+| **Portugal** | All, OREA, Europe/French Dependencies |
+| **Puerto Rico** | All, APLAA, North America/Caribbean |
+| **Qatar** | All, NESA, Near East/South Asia |
+| **Reunion** | All, OREA, Europe/French Dependencies |
+| **Romania** | All, OREA, Russia/Eurasia |
+| **Russia** | All, OREA, Russia/Eurasia |
+| **Rwanda** | All, APLAA, Sub-Saharan Africa |
+| **Saint Helena** | All, APLAA, Sub-Saharan Africa |
+| **Saint Kitts and Nevis** | All, APLAA, North America/Caribbean |
+| **Saint Lucia** | All, APLAA, North America/Caribbean |
+| **Saint Pierre and Miquelon** | All, OREA, Europe/French Dependencies |
+| **Saint Vincent and the Grenadines** | All, APLAA, North America/Caribbean |
+| **Samoa** | All, APLAA, Oceania/Australasia |
+| **San Marino** | All, OREA, Europe/French Dependencies |
+| **Sao Tome and Principe** | All, APLAA, Sub-Saharan Africa |
+| **Saudi Arabia** | All, NESA, Near East/South Asia |
+| **Senegal** | All, APLAA, Sub-Saharan Africa |
+| **Serbia and Montenegro** | All, OREA, Europe/French Dependencies |
+| **Seychelles** | All, APLAA, Sub-Saharan Africa |
+| **Sierra Leone** | All, APLAA, Sub-Saharan Africa |
+| **Singapore** | All, APLAA, East Asia/Southeast Asia |
+| **Slovakia** | All, OREA, Russia/Eurasia |
+| **Slovenia** | All, OREA, Russia/Eurasia |
+| **Solomon Islands** | All, APLAA, Oceania/Australasia |
+| **Somalia** | All, APLAA, Sub-Saharan Africa |
+| **South Africa** | All, APLAA, Sub-Saharan Africa |
+| **South Georgia and the South Sandwich Islands** | All, APLAA, South America/Global |
+| **Southern Ocean** | All, APLAA, South America/Global |
+| **Spain** | All, OREA, Europe/French Dependencies |
+| **Spratly Islands** | All, APLAA, East Asia/Southeast Asia |
+| **Sri Lanka** | All, NESA, Near East/South Asia |
+| **Sudan** | All, NESA, Near East/South Asia |
+| **Suriname** | All, APLAA, South America/Global |
+| **Svalbard** | All, OREA, Europe/French Dependencies |
+| **Swaziland** | All, APLAA, Sub-Saharan Africa |
+| **Sweden** | All, OREA, Europe/French Dependencies |
+| **Switzerland** | All, OREA, Europe/French Dependencies |
+| **Syria** | All, NESA, Near East/South Asia |
+| **Taiwan** | All, APLAA, East Asia/Southeast Asia |
+| **Tajikistan** | All, OREA, Russia/Eurasia |
+| **Tanzania** | All, APLAA, Sub-Saharan Africa |
+| **Thailand** | All, APLAA, East Asia/Southeast Asia |
+| **Togo** | All, APLAA, Sub-Saharan Africa |
+| **Tokelau** | All, APLAA, Oceania/Australasia |
+| **Tonga** | All, APLAA, Oceania/Australasia |
+| **Trinidad and Tobago** | All, APLAA, North America/Caribbean |
+| **Tromelin Island** | All, OREA, Europe/French Dependencies |
+| **Tunisia** | All, NESA, Near East/South Asia |
+| **Turkey** | All, OREA, Europe/French Dependencies |
+| **Turkmenistan** | All, OREA, Russia/Eurasia |
+| **Turks and Caicos Islands** | All, APLAA, North America/Caribbean |
+| **Tuvalu** | All, APLAA, Oceania/Australasia |
+| **Uganda** | All, APLAA, Sub-Saharan Africa |
+| **Ukraine** | All, OREA, Russia/Eurasia |
+| **United Arab Emirates** | All, NESA, Near East/South Asia |
+| **United Kingdom** | All, OREA, Europe/French Dependencies |
+| **United States** | All, APLAA, North America/Caribbean |
+| **Uruguay** | All, APLAA, South America/Global |
+| **Uzbekistan** | All, OREA, Russia/Eurasia |
+| **Vanuatu** | All, APLAA, Oceania/Australasia |
+| **Venezuela** | All, APLAA, South America/Global |
+| **Vietnam** | All, APLAA, East Asia/Southeast Asia |
+| **Virgin Islands** | All, APLAA, North America/Caribbean |
+| **Wake Island** | All, APLAA, Oceania/Australasia |
+| **Wallis and Futuna** | All, OREA, Europe/French Dependencies |
+| **West Bank** | All, NESA, Near East/South Asia |
+| **Western Sahara** | All, NESA, Near East/South Asia |
+| **World** | All, APLAA, South America/Global |
+| **Yemen** | All, NESA, Near East/South Asia |
+| **Zambia** | All, APLAA, Sub-Saharan Africa |
+| **Zimbabwe** | All, APLAA, Sub-Saharan Africa |
+
+This page was last updated on 19 March 2003
+ 

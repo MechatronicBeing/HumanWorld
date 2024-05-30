@@ -1,0 +1,998 @@
+CIA - The World Factbook 2000 -- Airports - with paved runways
+
+| Country | Airports - with paved runways |
+| --- | --- |
+| **Afghanistan** | *total:* 14 |
+| | *over 3,047 m:* 3 |
+| | *2,438 to 3,047 m:* 4 |
+| | *1,524 to 2,437 m:* 4 |
+| | *914 to 1,523 m:* 1 |
+| | *under 914 m:* 2 (1999 est.) |
+| **Albania** | *total:* 3 |
+| | *2,438 to 3,047 m:* 3 (1999 est.) |
+| **Algeria** | *total:* 51 |
+| | *over 3,047 m:* 8 |
+| | *2,438 to 3,047 m:* 25 |
+| | *1,524 to 2,437 m:* 12 |
+| | *914 to 1,523 m:* 5 |
+| | *under 914 m:* 1 (1999 est.) |
+| **American Samoa** | *total:* 2 |
+| | *2,438 to 3,047 m:* 1 |
+| | *under 914 m:* 1 (1999 est.) |
+| **Angola** | *total:* 32 |
+| | *over 3,047 m:* 4 |
+| | *2,438 to 3,047 m:* 8 |
+| | *1,524 to 2,437 m:* 12 |
+| | *914 to 1,523 m:* 7 |
+| | *under 914 m:* 1 (1999 est.) |
+| **Anguilla** | *total:* 1 |
+| | *914 to 1,523 m:* 1 (1999 est.) |
+| **Antigua and Barbuda** | *total:* 2 |
+| | *2,438 to 3,047 m:* 1 |
+| | *under 914 m:* 1 (1999 est.) |
+| **Argentina** | *total:* 142 |
+| | *over 3,047 m:* 5 |
+| | *2,438 to 3,047 m:* 26 |
+| | *1,524 to 2,437 m:* 60 |
+| | *914 to 1,523 m:* 44 |
+| | *under 914 m:* 7 (1999 est.) |
+| **Armenia** | *total:* 5 |
+| | *over 3,047 m:* 2 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 2 (1996 est.) |
+| **Aruba** | *total:* 2 |
+| | *2,438 to 3,047 m:* 1 |
+| | *914 to 1,523 m:* 1 (1999 est.) |
+| **Australia** | *total:* 265 |
+| | *over 3,047 m:* 11 |
+| | *2,438 to 3,047 m:* 11 |
+| | *1,524 to 2,437 m:* 115 |
+| | *914 to 1,523 m:* 120 |
+| | *under 914 m:* 8 (1999 est.) |
+| **Austria** | *total:* 22 |
+| | *over 3,047 m:* 1 |
+| | *2,438 to 3,047 m:* 5 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 3 |
+| | *under 914 m:* 12 (1999 est.) |
+| **Azerbaijan** | *total:* 29 |
+| | *over 3,047 m:* 2 |
+| | *2,438 to 3,047 m:* 6 |
+| | *1,524 to 2,437 m:* 17 |
+| | *914 to 1,523 m:* 3 |
+| | *under 914 m:* 1 (1996 est.) |
+| **Bahamas, The** | *total:* 33 |
+| | *over 3,047 m:* 2 |
+| | *2,438 to 3,047 m:* 2 |
+| | *1,524 to 2,437 m:* 15 |
+| | *914 to 1,523 m:* 12 |
+| | *under 914 m:* 2 (1999 est.) |
+| **Bahrain** | *total:* 2 |
+| | *over 3,047 m:* 2 (1999 est.) |
+| **Bangladesh** | *total:* 16 |
+| | *over 3,047 m:* 2 |
+| | *2,438 to 3,047 m:* 2 |
+| | *1,524 to 2,437 m:* 5 |
+| | *914 to 1,523 m:* 1 |
+| | *under 914 m:* 6 (1999 est.) |
+| **Barbados** | *total:* 1 |
+| | *over 3,047 m:* 1 (1999 est.) |
+| **Belarus** | *total:* 36 |
+| | *over 3,047 m:* 2 |
+| | *2,438 to 3,047 m:* 18 |
+| | *1,524 to 2,437 m:* 5 |
+| | *under 914 m:* 11 (1996 est.) |
+| **Belgium** | *total:* 24 |
+| | *over 3,047 m:* 6 |
+| | *2,438 to 3,047 m:* 8 |
+| | *1,524 to 2,437 m:* 3 |
+| | *914 to 1,523 m:* 1 |
+| | *under 914 m:* 6 (1999 est.) |
+| **Belize** | *total:* 3 |
+| | *1,524 to 2,437 m:* 1 |
+| | *under 914 m:* 2 (1999 est.) |
+| **Benin** | *total:* 2 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 1 (1999 est.) |
+| **Bermuda** | *total:* 1 |
+| | *2,438 to 3,047 m:* 1 (1999 est.) |
+| **Bhutan** | *total:* 1 |
+| | *1,524 to 2,437 m:* 1 (1999 est.) |
+| **Bolivia** | *total:* 13 |
+| | *over 3,047 m:* 4 |
+| | *2,438 to 3,047 m:* 3 |
+| | *1,524 to 2,437 m:* 4 |
+| | *914 to 1,523 m:* 2 (1999 est.) |
+| **Bosnia and Herzegovina** | *total:* 9 |
+| | *2,438 to 3,047 m:* 4 |
+| | *1,524 to 2,437 m:* 2 |
+| | *under 914 m:* 3 (1999 est.) |
+| **Botswana** | *total:* 10 |
+| | *2,438 to 3,047 m:* 2 |
+| | *1,524 to 2,437 m:* 7 |
+| | *914 to 1,523 m:* 1 (1999 est.) |
+| **Brazil** | *total:* 541 |
+| | *over 3,047 m:* 5 |
+| | *2,438 to 3,047 m:* 20 |
+| | *1,524 to 2,437 m:* 138 |
+| | *914 to 1,523 m:* 346 |
+| | *under 914 m:* 32 (1999 est.) |
+| **British Indian Ocean Territory** | *total:* 1 |
+| | *over 3,047 m:* 1 (1999 est.) |
+| **British Virgin Islands** | *total:* 2 |
+| | *914 to 1,523 m:* 1 |
+| | *under 914 m:* 1 (1999 est.) |
+| **Brunei** | *total:* 1 |
+| | *over 3,047 m:* 1 (1999 est.) |
+| **Bulgaria** | *total:* 129 |
+| | *over 3,047 m:* 1 |
+| | *2,438 to 3,047 m:* 19 |
+| | *1,524 to 2,437 m:* 15 |
+| | *914 to 1,523 m:* 1 |
+| | *under 914 m:* 93 (1999 est.) |
+| **Burkina Faso** | *total:* 2 |
+| | *over 3,047 m:* 1 |
+| | *2,438 to 3,047 m:* 1 (1999 est.) |
+| **Burma** | *total:* 10 |
+| | *over 3,047 m:* 2 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 5 |
+| | *914 to 1,523 m:* 2 (1999 est.) |
+| **Burundi** | *total:* 1 |
+| | *over 3,047 m:* 1 (1999 est.) |
+| **Cambodia** | *total:* 6 |
+| | *2,438 to 3,047 m:* 2 |
+| | *1,524 to 2,437 m:* 2 |
+| | *914 to 1,523 m:* 2 (1999 est.) |
+| **Cameroon** | *total:* 11 |
+| | *over 3,047 m:* 2 |
+| | *2,438 to 3,047 m:* 4 |
+| | *1,524 to 2,437 m:* 3 |
+| | *914 to 1,523 m:* 1 |
+| | *under 914 m:* 1 (1999 est.) |
+| **Canada** | *total:* 515 |
+| | *over 3,047 m:* 16 |
+| | *2,438 to 3,047 m:* 17 |
+| | *1,524 to 2,437 m:* 152 |
+| | *914 to 1,523 m:* 240 |
+| | *under 914 m:* 90 (1999 est.) |
+| **Cape Verde** | *total:* 6 |
+| | *over 3,047 m:* 1 |
+| | *914 to 1,523 m:* 5 (1999 est.) |
+| **Cayman Islands** | *total:* 2 |
+| | *1,524 to 2,437 m:* 2 (1999 est.) |
+| **Central African Republic** | *total:* 3 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 2 (1999 est.) |
+| **Chad** | *total:* 7 |
+| | *over 3,047 m:* 1 |
+| | *2,438 to 3,047 m:* 3 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 1 |
+| | *under 914 m:* 1 (1999 est.) |
+| **Chile** | *total:* 62 |
+| | *over 3,047 m:* 6 |
+| | *2,438 to 3,047 m:* 6 |
+| | *1,524 to 2,437 m:* 20 |
+| | *914 to 1,523 m:* 20 |
+| | *under 914 m:* 10 (1999 est.) |
+| **China** | *total:* 192 |
+| | *over 3,047 m:* 18 |
+| | *2,438 to 3,047 m:* 65 |
+| | *1,524 to 2,437 m:* 90 |
+| | *914 to 1,523 m:* 13 |
+| | *under 914 m:* 6 (1996 est.) |
+| **Christmas Island** | *total:* 1 |
+| | *1,524 to 2,437 m:* 1 (1999 est.) |
+| **Cocos (Keeling) Islands** | *total:* 1 |
+| | *1,524 to 2,437 m:* 1 (1999 est.) |
+| **Colombia** | *total:* 90 |
+| | *over 3,047 m:* 2 |
+| | *2,438 to 3,047 m:* 9 |
+| | *1,524 to 2,437 m:* 37 |
+| | *914 to 1,523 m:* 35 |
+| | *under 914 m:* 7 (1999 est.) |
+| **Comoros** | *total:* 4 |
+| | *2,438 to 3,047 m:* 1 |
+| | *914 to 1,523 m:* 3 (1999 est.) |
+| **Congo, Democratic Republic of the** | *total:* 24 |
+| | *over 3,047 m:* 4 |
+| | *2,438 to 3,047 m:* 3 |
+| | *1,524 to 2,437 m:* 15 |
+| | *914 to 1,523 m:* 2 (1999 est.) |
+| **Congo, Republic of the** | *total:* 4 |
+| | *over 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 3 (1999 est.) |
+| **Cook Islands** | *total:* 1 |
+| | *1,524 to 2,437 m:* 1 (1999 est.) |
+| **Costa Rica** | *total:* 28 |
+| | *2,438 to 3,047 m:* 2 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 18 |
+| | *under 914 m:* 7 (1999 est.) |
+| **Cote d'Ivoire** | *total:* 7 |
+| | *over 3,047 m:* 1 |
+| | *2,438 to 3,047 m:* 2 |
+| | *1,524 to 2,437 m:* 4 (1999 est.) |
+| **Croatia** | *total:* 22 |
+| | *over 3,047 m:* 2 |
+| | *2,438 to 3,047 m:* 6 |
+| | *1,524 to 2,437 m:* 2 |
+| | *914 to 1,523 m:* 4 |
+| | *under 914 m:* 8 (1999 est.) |
+| **Cuba** | *total:* 77 |
+| | *over 3,047 m:* 7 |
+| | *2,438 to 3,047 m:* 9 |
+| | *1,524 to 2,437 m:* 15 |
+| | *914 to 1,523 m:* 11 |
+| | *under 914 m:* 35 (1999 est.) |
+| **Cyprus** | *total:* 12 |
+| | *2,438 to 3,047 m:* 7 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 3 |
+| | *under 914 m:* 1 (1999 est.) |
+| **Czech Republic** | *total:* 43 |
+| | *over 3,047 m:* 2 |
+| | *2,438 to 3,047 m:* 10 |
+| | *1,524 to 2,437 m:* 14 |
+| | *914 to 1,523 m:* 1 |
+| | *under 914 m:* 16 (1999 est.) |
+| **Denmark** | *total:* 28 |
+| | *over 3,047 m:* 2 |
+| | *2,438 to 3,047 m:* 7 |
+| | *1,524 to 2,437 m:* 3 |
+| | *914 to 1,523 m:* 13 |
+| | *under 914 m:* 3 (1999 est.) |
+| **Djibouti** | *total:* 2 |
+| | *over 3,047 m:* 1 |
+| | *2,438 to 3,047 m:* 1 (1999 est.) |
+| **Dominica** | *total:* 2 |
+| | *914 to 1,523 m:* 2 (1999 est.) |
+| **Dominican Republic** | *total:* 13 |
+| | *over 3,047 m:* 3 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 4 |
+| | *914 to 1,523 m:* 3 |
+| | *under 914 m:* 2 (1999 est.) |
+| **Ecuador** | *total:* 57 |
+| | *over 3,047 m:* 2 |
+| | *2,438 to 3,047 m:* 5 |
+| | *1,524 to 2,437 m:* 17 |
+| | *914 to 1,523 m:* 13 |
+| | *under 914 m:* 20 (1999 est.) |
+| **Egypt** | *total:* 71 |
+| | *over 3,047 m:* 12 |
+| | *2,438 to 3,047 m:* 36 |
+| | *1,524 to 2,437 m:* 16 |
+| | *914 to 1,523 m:* 3 |
+| | *under 914 m:* 4 (1999 est.) |
+| **El Salvador** | *total:* 4 |
+| | *over 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 2 (1999 est.) |
+| **Equatorial Guinea** | *total:* 2 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 1 (1999 est.) |
+| **Eritrea** | *total:* 3 |
+| | *over 3,047 m:* 2 |
+| | *2,438 to 3,047 m:* 1 (1999 est.) |
+| **Estonia** | *total:* 5 |
+| | *over 3,047 m:* 1 |
+| | *2,438 to 3,047 m:* 1 |
+| | *914 to 1,523 m:* 3 (1997 est.) |
+| **Ethiopia** | *total:* 11 |
+| | *over 3,047 m:* 3 |
+| | *2,438 to 3,047 m:* 6 |
+| | *1,524 to 2,437 m:* 2 (1999 est.) |
+| **Falkland Islands (Islas Malvinas)** | *total:* 2 |
+| | *2,438 to 3,047 m:* 1 |
+| | *under 914 m:* 1 (1999 est.) |
+| **Faroe Islands** | *total:* 1 |
+| | *914 to 1,523 m:* 1 (1999 est.) |
+| **Fiji** | *total:* 3 |
+| | *over 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 1 (1999 est.) |
+| **Finland** | *total:* 69 |
+| | *over 3,047 m:* 3 |
+| | *2,438 to 3,047 m:* 26 |
+| | *1,524 to 2,437 m:* 10 |
+| | *914 to 1,523 m:* 20 |
+| | *under 914 m:* 10 (1999 est.) |
+| **France** | *total:* 267 |
+| | *over 3,047 m:* 14 |
+| | *2,438 to 3,047 m:* 30 |
+| | *1,524 to 2,437 m:* 92 |
+| | *914 to 1,523 m:* 74 |
+| | *under 914 m:* 57 (1999 est.) |
+| **French Guiana** | *total:* 4 |
+| | *over 3,047 m:* 1 |
+| | *914 to 1,523 m:* 2 |
+| | *under 914 m:* 1 (1999 est.) |
+| **French Polynesia** | *total:* 30 |
+| | *over 3,047 m:* 2 |
+| | *1,524 to 2,437 m:* 5 |
+| | *914 to 1,523 m:* 17 |
+| | *under 914 m:* 6 (1999 est.) |
+| **Gabon** | *total:* 11 |
+| | *over 3,047 m:* 1 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 8 |
+| | *914 to 1,523 m:* 1 (1999 est.) |
+| **Gambia, The** | *total:* 1 |
+| | *over 3,047 m:* 1 (1999 est.) |
+| **Gaza Strip** | *total:* 1 |
+| | *over 3,047 m:* 1 (1999 est.) |
+| **Georgia** | *total:* 14 |
+| | *over 3,047 m:* 1 |
+| | *2,438 to 3,047 m:* 7 |
+| | *1,524 to 2,437 m:* 4 |
+| | *914 to 1,523 m:* 1 |
+| | *under 914 m:* 1 (1994 est.) |
+| **Germany** | *total:* 320 |
+| | *over 3,047 m:* 14 |
+| | *2,438 to 3,047 m:* 61 |
+| | *1,524 to 2,437 m:* 67 |
+| | *914 to 1,523 m:* 56 |
+| | *under 914 m:* 122 (1999 est.) |
+| **Ghana** | *total:* 6 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 3 |
+| | *914 to 1,523 m:* 2 (1999 est.) |
+| **Gibraltar** | *total:* 1 |
+| | *1,524 to 2,437 m:* 1 (1999 est.) |
+| **Greece** | *total:* 64 |
+| | *over 3,047 m:* 6 |
+| | *2,438 to 3,047 m:* 15 |
+| | *1,524 to 2,437 m:* 18 |
+| | *914 to 1,523 m:* 17 |
+| | *under 914 m:* 8 (1999 est.) |
+| **Greenland** | *total:* 10 |
+| | *over 3,047 m:* 1 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 2 |
+| | *under 914 m:* 5 (1999 est.) |
+| **Grenada** | *total:* 3 |
+| | *2,438 to 3,047 m:* 1 |
+| | *914 to 1,523 m:* 1 |
+| | *under 914 m:* 1 (1999 est.) |
+| **Guadeloupe** | *total:* 8 |
+| | *over 3,047 m:* 1 |
+| | *914 to 1,523 m:* 2 |
+| | *under 914 m:* 5 (1999 est.) |
+| **Guam** | *total:* 4 |
+| | *over 3,047 m:* 2 |
+| | *2,438 to 3,047 m:* 1 |
+| | *914 to 1,523 m:* 1 (1999 est.) |
+| **Guatemala** | *total:* 11 |
+| | *2,438 to 3,047 m:* 3 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 5 |
+| | *under 914 m:* 2 (1999 est.) |
+| **Guernsey** | *total:* 2 |
+| | *914 to 1,523 m:* 1 |
+| | *under 914 m:* 1 (1999 est.) |
+| **Guinea** | *total:* 5 |
+| | *over 3,047 m:* 1 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 3 (1999 est.) |
+| **Guinea-Bissau** | *total:* 3 |
+| | *over 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 1 (1999 est.) |
+| **Guyana** | *total:* 5 |
+| | *1,524 to 2,437 m:* 2 |
+| | *914 to 1,523 m:* 1 |
+| | *under 914 m:* 2 (1999 est.) |
+| **Haiti** | *total:* 3 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 1 (1999 est.) |
+| **Honduras** | *total:* 12 |
+| | *2,438 to 3,047 m:* 3 |
+| | *1,524 to 2,437 m:* 2 |
+| | *914 to 1,523 m:* 4 |
+| | *under 914 m:* 3 (1999 est.) |
+| **Hong Kong** | *total:* 3 |
+| | *over 3,047 m:* 2 |
+| | *1,524 to 2,437 m:* 1 (1999 est.) |
+| **Hungary** | *total:* 16 |
+| | *over 3,047 m:* 2 |
+| | *2,438 to 3,047 m:* 8 |
+| | *1,524 to 2,437 m:* 4 |
+| | *914 to 1,523 m:* 1 |
+| | *under 914 m:* 1 (1999 est.) |
+| **Iceland** | *total:* 12 |
+| | *over 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 4 |
+| | *914 to 1,523 m:* 7 (1999 est.) |
+| **India** | *total:* 238 |
+| | *over 3,047 m:* 12 |
+| | *2,438 to 3,047 m:* 49 |
+| | *1,524 to 2,437 m:* 84 |
+| | *914 to 1,523 m:* 74 |
+| | *under 914 m:* 19 (1999 est.) |
+| **Indonesia** | *total:* 127 |
+| | *over 3,047 m:* 4 |
+| | *2,438 to 3,047 m:* 12 |
+| | *1,524 to 2,437 m:* 39 |
+| | *914 to 1,523 m:* 41 |
+| | *under 914 m:* 31 (1999 est.) |
+| **Iran** | *total:* 112 |
+| | *over 3,047 m:* 38 |
+| | *2,438 to 3,047 m:* 21 |
+| | *1,524 to 2,437 m:* 23 |
+| | *914 to 1,523 m:* 24 |
+| | *under 914 m:* 6 (1999 est.) |
+| **Iraq** | *total:* 80 |
+| | *over 3,047 m:* 20 |
+| | *2,438 to 3,047 m:* 39 |
+| | *1,524 to 2,437 m:* 4 |
+| | *914 to 1,523 m:* 7 |
+| | *under 914 m:* 10 (1999 est.) |
+| **Ireland** | *total:* 17 |
+| | *over 3,047 m:* 1 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 3 |
+| | *914 to 1,523 m:* 5 |
+| | *under 914 m:* 7 (1999 est.) |
+| **Israel** | *total:* 33 |
+| | *over 3,047 m:* 2 |
+| | *2,438 to 3,047 m:* 7 |
+| | *1,524 to 2,437 m:* 7 |
+| | *914 to 1,523 m:* 10 |
+| | *under 914 m:* 7 (1999 est.) |
+| **Italy** | *total:* 97 |
+| | *over 3,047 m:* 5 |
+| | *2,438 to 3,047 m:* 33 |
+| | *1,524 to 2,437 m:* 16 |
+| | *914 to 1,523 m:* 31 |
+| | *under 914 m:* 12 (1999 est.) |
+| **Jamaica** | *total:* 11 |
+| | *2,438 to 3,047 m:* 2 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 3 |
+| | *under 914 m:* 5 (1999 est.) |
+| **Japan** | *total:* 140 |
+| | *over 3,047 m:* 6 |
+| | *2,438 to 3,047 m:* 34 |
+| | *1,524 to 2,437 m:* 41 |
+| | *914 to 1,523 m:* 28 |
+| | *under 914 m:* 31 (1999 est.) |
+| **Jersey** | *total:* 1 |
+| | *1,524 to 2,437 m:* 1 (1999 est.) |
+| **Johnston Atoll** | *total:* 1 |
+| | *2,438 to 3,047 m:* 1 (1999 est.) |
+| **Jordan** | *total:* 16 |
+| | *over 3,047 m:* 9 |
+| | *2,438 to 3,047 m:* 4 |
+| | *under 914 m:* 3 (1999 est.) |
+| **Kazakhstan** | *total:* 9 |
+| | *over 3,047 m:* 4 |
+| | *2,438 to 3,047 m:* 3 |
+| | *1,524 to 2,437 m:* 2 (1997 est.) |
+| **Kenya** | *total:* 21 |
+| | *over 3,047 m:* 4 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 2 |
+| | *914 to 1,523 m:* 14 (1999 est.) |
+| **Kiribati** | *total:* 4 |
+| | *1,524 to 2,437 m:* 4 (1999 est.) |
+| **Korea, North** | *total:* 22 |
+| | *over 3,047 m:* 2 |
+| | *2,438 to 3,047 m:* 15 |
+| | *1,524 to 2,437 m:* 2 |
+| | *914 to 1,523 m:* 1 |
+| | *under 914 m:* 2 (1994 est.) |
+| **Korea, South** | *total:* 67 |
+| | *over 3,047 m:* 1 |
+| | *2,438 to 3,047 m:* 18 |
+| | *1,524 to 2,437 m:* 15 |
+| | *914 to 1,523 m:* 13 |
+| | *under 914 m:* 20 (1999 est.) |
+| **Kuwait** | *total:* 4 |
+| | *over 3,047 m:* 2 |
+| | *2,438 to 3,047 m:* 2 (1999 est.) |
+| **Kyrgyzstan** | *total:* 14 |
+| | *over 3,047 m:* 1 |
+| | *2,438 to 3,047 m:* 3 |
+| | *1,524 to 2,437 m:* 9 |
+| | *under 914 m:* 1 (1994 est.) |
+| **Laos** | *total:* 9 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 4 |
+| | *914 to 1,523 m:* 4 (1999 est.) |
+| **Latvia** | *total:* 36 |
+| | *2,438 to 3,047 m:* 6 |
+| | *1,524 to 2,437 m:* 2 |
+| | *914 to 1,523 m:* 1 |
+| | *under 914 m:* 27 (1994 est.) |
+| **Lebanon** | *total:* 7 |
+| | *over 3,047 m:* 1 |
+| | *2,438 to 3,047 m:* 2 |
+| | *1,524 to 2,437 m:* 2 |
+| | *914 to 1,523 m:* 1 |
+| | *under 914 m:* 1 (1999 est.) |
+| **Lesotho** | *total:* 4 |
+| | *over 3,047 m:* 1 |
+| | *914 to 1,523 m:* 1 |
+| | *under 914 m:* 2 (1999 est.) |
+| **Liberia** | *total:* 2 |
+| | *over 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 1 (1999 est.) |
+| **Libya** | *total:* 59 |
+| | *over 3,047 m:* 24 |
+| | *2,438 to 3,047 m:* 6 |
+| | *1,524 to 2,437 m:* 22 |
+| | *914 to 1,523 m:* 5 |
+| | *under 914 m:* 2 |
+| **Lithuania** | *total:* 25 |
+| | *over 3,047 m:* 3 |
+| | *2,438 to 3,047 m:* 2 |
+| | *1,524 to 2,437 m:* 4 |
+| | *914 to 1,523 m:* 2 |
+| | *under 914 m:* 14 (1994 est.) |
+| **Luxembourg** | *total:* 1 |
+| | *over 3,047 m:* 1 (1999 est.) |
+| **Macau** | *total:* 1 |
+| | *over 3,047 m:* 1 (1999 est.) |
+| **Macedonia, The Former Yugoslav Republic of** | *total:* 10 |
+| | *2,438 to 3,047 m:* 2 |
+| | *under 914 m:* 8 (1999 est.) |
+| **Madagascar** | *total:* 29 |
+| | *over 3,047 m:* 1 |
+| | *2,438 to 3,047 m:* 2 |
+| | *1,524 to 2,437 m:* 4 |
+| | *914 to 1,523 m:* 20 |
+| | *under 914 m:* 2 (1999 est.) |
+| **Malawi** | *total:* 5 |
+| | *over 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 3 (1999 est.) |
+| **Malaysia** | *total:* 32 |
+| | *over 3,047 m:* 5 |
+| | *2,438 to 3,047 m:* 4 |
+| | *1,524 to 2,437 m:* 11 |
+| | *914 to 1,523 m:* 6 |
+| | *under 914 m:* 6 (1999 est.) |
+| **Maldives** | *total:* 2 |
+| | *over 3,047 m:* 1 |
+| | *2,438 to 3,047 m:* 1 (1999 est.) |
+| **Mali** | *total:* 6 |
+| | *2,438 to 3,047 m:* 4 |
+| | *914 to 1,523 m:* 2 (1999 est.) |
+| **Malta** | *total:* 1 |
+| | *over 3,047 m:* 1 (1999 est.) |
+| **Man, Isle of** | *total:* 1 |
+| | *1,524 to 2,437 m:* 1 (1999 est.) |
+| **Marshall Islands** | *total:* 4 |
+| | *1,524 to 2,437 m:* 3 |
+| | *914 to 1,523 m:* 1 (1999 est.) |
+| **Martinique** | *total:* 1 |
+| | *over 3,047 m:* 1 (1999 est.) |
+| **Mauritania** | *total:* 8 |
+| | *2,438 to 3,047 m:* 3 |
+| | *1,524 to 2,437 m:* 4 |
+| | *914 to 1,523 m:* 1 (1999 est.) |
+| **Mauritius** | *total:* 2 |
+| | *over 3,047 m:* 1 |
+| | *914 to 1,523 m:* 1 (1999 est.) |
+| **Mayotte** | *total:* 1 |
+| | *914 to 1,523 m:* 1 (1999 est.) |
+| **Mexico** | *total:* 233 |
+| | *over 3,047 m:* 10 |
+| | *2,438 to 3,047 m:* 28 |
+| | *1,524 to 2,437 m:* 87 |
+| | *914 to 1,523 m:* 81 |
+| | *under 914 m:* 27 (1999 est.) |
+| **Micronesia, Federated States of** | *total:* 5 |
+| | *1,524 to 2,437 m:* 4 |
+| | *914 to 1,523 m:* 1 (1999 est.) |
+| **Midway Islands** | *total:* 2 |
+| | *1,524 to 2,437 m:* 2 (1999 est.) |
+| **Moldova** | *total:* 8 |
+| | *over 3,047 m:* 1 |
+| | *2,438 to 3,047 m:* 2 |
+| | *1,524 to 2,437 m:* 2 |
+| | *under 914 m:* 3 (1994 est.) |
+| **Mongolia** | *total:* 8 |
+| | *2,438 to 3,047 m:* 7 |
+| | *under 914 m:* 1 (1994 est.) |
+| **Montserrat** | *total:* 1 |
+| | *914 to 1,523 m:* 1 (1999 est.) |
+| **Morocco** | *total:* 26 |
+| | *over 3,047 m:* 10 |
+| | *2,438 to 3,047 m:* 5 |
+| | *1,524 to 2,437 m:* 9 |
+| | *914 to 1,523 m:* 1 |
+| | *under 914 m:* 1 (1999 est.) |
+| **Mozambique** | *total:* 22 |
+| | *over 3,047 m:* 1 |
+| | *2,438 to 3,047 m:* 3 |
+| | *1,524 to 2,437 m:* 10 |
+| | *914 to 1,523 m:* 4 |
+| | *under 914 m:* 4 (1999 est.) |
+| **Namibia** | *total:* 22 |
+| | *over 3,047 m:* 2 |
+| | *2,438 to 3,047 m:* 2 |
+| | *1,524 to 2,437 m:* 15 |
+| | *914 to 1,523 m:* 3 (1999 est.) |
+| **Nauru** | *total:* 1 |
+| | *1,524 to 2,437 m:* 1 (1999 est.) |
+| **Nepal** | *total:* 5 |
+| | *over 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 3 |
+| | *914 to 1,523 m:* 1 (1999 est.) |
+| **Netherlands** | *total:* 19 |
+| | *over 3,047 m:* 2 |
+| | *2,438 to 3,047 m:* 7 |
+| | *1,524 to 2,437 m:* 6 |
+| | *914 to 1,523 m:* 3 |
+| | *under 914 m:* 1 (1999 est.) |
+| **Netherlands Antilles** | *total:* 5 |
+| | *over 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 2 |
+| | *914 to 1,523 m:* 1 |
+| | *under 914 m:* 1 (1999 est.) |
+| **New Caledonia** | *total:* 5 |
+| | *over 3,047 m:* 1 |
+| | *914 to 1,523 m:* 3 |
+| | *under 914 m:* 1 (1999 est.) |
+| **New Zealand** | *total:* 44 |
+| | *over 3,047 m:* 2 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 10 |
+| | *914 to 1,523 m:* 28 |
+| | *under 914 m:* 3 (1999 est.) |
+| **Nicaragua** | *total:* 11 |
+| | *over 3,047 m:* 1 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 3 |
+| | *914 to 1,523 m:* 3 |
+| | *under 914 m:* 3 (1999 est.) |
+| **Niger** | *total:* 9 |
+| | *2,438 to 3,047 m:* 2 |
+| | *1,524 to 2,437 m:* 6 |
+| | *under 914 m:* 1 (1999 est.) |
+| **Nigeria** | *total:* 37 |
+| | *over 3,047 m:* 7 |
+| | *2,438 to 3,047 m:* 10 |
+| | *1,524 to 2,437 m:* 10 |
+| | *914 to 1,523 m:* 8 |
+| | *under 914 m:* 2 (1999 est.) |
+| **Niue** | *total:* 1 |
+| | *1,524 to 2,437 m:* 1 (1999 est.) |
+| **Norfolk Island** | *total:* 1 |
+| | *1,524 to 2,437 m:* 1 (1999 est.) |
+| **Northern Mariana Islands** | *total:* 3 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 2 (1999 est.) |
+| **Norway** | *total:* 67 |
+| | *over 3,047 m:* 1 |
+| | *2,438 to 3,047 m:* 12 |
+| | *1,524 to 2,437 m:* 13 |
+| | *914 to 1,523 m:* 12 |
+| | *under 914 m:* 29 (1999 est.) |
+| **Oman** | *total:* 6 |
+| | *over 3,047 m:* 4 |
+| | *2,438 to 3,047 m:* 1 |
+| | *914 to 1,523 m:* 1 (1999 est.) |
+| **Pakistan** | *total:* 82 |
+| | *over 3,047 m:* 12 |
+| | *2,438 to 3,047 m:* 21 |
+| | *1,524 to 2,437 m:* 32 |
+| | *914 to 1,523 m:* 14 |
+| | *under 914 m:* 3 (1999 est.) |
+| **Palau** | *total:* 1 |
+| | *1,524 to 2,437 m:* 1 (1999 est.) |
+| **Panama** | *total:* 41 |
+| | *over 3,047 m:* 1 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 5 |
+| | *914 to 1,523 m:* 13 |
+| | *under 914 m:* 21 (1999 est.) |
+| **Papua New Guinea** | *total:* 19 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 14 |
+| | *914 to 1,523 m:* 3 |
+| | *under 914 m:* 1 (1999 est.) |
+| **Paracel Islands** | *total:* 1 |
+| | *1,524 to 2,437 m:* 1 (1999 est.) |
+| **Paraguay** | *total:* 10 |
+| | *over 3,047 m:* 3 |
+| | *1,524 to 2,437 m:* 3 |
+| | *914 to 1,523 m:* 4 (1999 est.) |
+| **Peru** | *total:* 44 |
+| | *over 3,047 m:* 7 |
+| | *2,438 to 3,047 m:* 17 |
+| | *1,524 to 2,437 m:* 12 |
+| | *914 to 1,523 m:* 7 |
+| | *under 914 m:* 1 (1999 est.) |
+| **Philippines** | *total:* 76 |
+| | *over 3,047 m:* 4 |
+| | *2,438 to 3,047 m:* 5 |
+| | *1,524 to 2,437 m:* 26 |
+| | *914 to 1,523 m:* 31 |
+| | *under 914 m:* 10 (1999 est.) |
+| **Poland** | *total:* 85 |
+| | *over 3,047 m:* 3 |
+| | *2,438 to 3,047 m:* 30 |
+| | *1,524 to 2,437 m:* 42 |
+| | *914 to 1,523 m:* 7 |
+| | *under 914 m:* 3 (1999 est.) |
+| **Portugal** | *total:* 40 |
+| | *over 3,047 m:* 5 |
+| | *2,438 to 3,047 m:* 8 |
+| | *1,524 to 2,437 m:* 4 |
+| | *914 to 1,523 m:* 18 |
+| | *under 914 m:* 5 (1999 est.) |
+| **Puerto Rico** | *total:* 21 |
+| | *over 3,047 m:* 3 |
+| | *1,524 to 2,437 m:* 3 |
+| | *914 to 1,523 m:* 9 |
+| | *under 914 m:* 6 (1999 est.) |
+| **Qatar** | *total:* 2 |
+| | *over 3,047 m:* 2 (1999 est.) |
+| **Reunion** | *total:* 2 |
+| | *2,438 to 3,047 m:* 1 |
+| | *914 to 1,523 m:* 1 (1999 est.) |
+| **Romania** | *total:* 25 |
+| | *over 3,047 m:* 4 |
+| | *2,438 to 3,047 m:* 9 |
+| | *1,524 to 2,437 m:* 12 (1999 est.) |
+| **Russia** | *total:* 630 |
+| | *over 3,047 m:* 54 |
+| | *2,438 to 3,047 m:* 202 |
+| | *1,524 to 2,437 m:* 108 |
+| | *914 to 1,523 m:* 115 |
+| | *under 914 m:* 151 (1994 est.) |
+| **Rwanda** | *total:* 4 |
+| | *over 3,047 m:* 1 |
+| | *914 to 1,523 m:* 2 |
+| | *under 914 m:* 1 (1999 est.) |
+| **Saint Helena** | *total:* 1 |
+| | *over 3,047 m:* 1 (1999 est.) |
+| **Saint Kitts and Nevis** | *total:* 2 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 1 (1999 est.) |
+| **Saint Lucia** | *total:* 2 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 1 (1999 est.) |
+| **Saint Pierre and Miquelon** | *total:* 2 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 1 (1999 est.) |
+| **Saint Vincent and the Grenadines** | *total:* 5 |
+| | *914 to 1,523 m:* 3 |
+| | *under 914 m:* 2 (1999 est.) |
+| **Samoa** | *total:* 1 |
+| | *2,438 to 3,047 m:* 1 (1999 est.) |
+| **Sao Tome and Principe** | *total:* 2 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 1 (1999 est.) |
+| **Saudi Arabia** | *total:* 72 |
+| | *over 3,047 m:* 31 |
+| | *2,438 to 3,047 m:* 13 |
+| | *1,524 to 2,437 m:* 23 |
+| | *914 to 1,523 m:* 3 |
+| | *under 914 m:* 2 (1999 est.) |
+| **Senegal** | *total:* 10 |
+| | *over 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 7 |
+| | *914 to 1,523 m:* 2 (1999 est.) |
+| **Serbia and Montenegro** | *total:* 19 (Serbia 16, Montenegro 3) |
+| | *over 3,047 m:* 2 (Serbia 2, Montenegro 0) |
+| | *2,438 to 3,047 m:* 5 (Serbia 3, Montenegro 2) |
+| | *1,524 to 2,437 m:* 5 (Serbia 4, Montenegro 1) |
+| | *914 to 1,523 m:* 2 (Serbia 2, Montenegro 0) |
+| | *under 914 m:* 5 (Serbia 5, Montenegro 0) (1999 est.) |
+| **Seychelles** | *total:* 6 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 3 |
+| | *under 914 m:* 2 (1999 est.) |
+| **Sierra Leone** | *total:* 1 |
+| | *over 3,047 m:* 1 (1999 est.) |
+| **Singapore** | *total:* 9 |
+| | *over 3,047 m:* 2 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 4 |
+| | *914 to 1,523 m:* 1 |
+| | *under 914 m:* 1 (1999 est.) |
+| **Slovakia** | *total:* 18 |
+| | *over 3,047 m:* 1 |
+| | *2,438 to 3,047 m:* 3 |
+| | *1,524 to 2,437 m:* 3 |
+| | *914 to 1,523 m:* 3 |
+| | *under 914 m:* 8 (1999 est.) |
+| **Slovenia** | *total:* 6 |
+| | *over 3,047 m:* 1 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 2 |
+| | *under 914 m:* 1 (1999 est.) |
+| **Solomon Islands** | *total:* 2 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 1 (1999 est.) |
+| **Somalia** | *total:* 7 |
+| | *over 3,047 m:* 4 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 1 (1999 est.) |
+| **South Africa** | *total:* 143 |
+| | *over 3,047 m:* 9 |
+| | *2,438 to 3,047 m:* 4 |
+| | *1,524 to 2,437 m:* 46 |
+| | *914 to 1,523 m:* 73 |
+| | *under 914 m:* 11 (1999 est.) |
+| **Spain** | *total:* 70 |
+| | *over 3,047 m:* 15 |
+| | *2,438 to 3,047 m:* 11 |
+| | *1,524 to 2,437 m:* 17 |
+| | *914 to 1,523 m:* 17 |
+| | *under 914 m:* 10 (1999 est.) |
+| **Spratly Islands** | *total:* 1 |
+| | *914 to 1,523 m:* 1 (1999 est.) |
+| **Sri Lanka** | *total:* 12 |
+| | *over 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 5 |
+| | *914 to 1,523 m:* 6 (1999 est.) |
+| **Sudan** | *total:* 12 |
+| | *over 3,047 m:* 1 |
+| | *2,438 to 3,047 m:* 8 |
+| | *1,524 to 2,437 m:* 3 (1999 est.) |
+| **Suriname** | *total:* 5 |
+| | *over 3,047 m:* 1 |
+| | *914 to 1,523 m:* 1 |
+| | *under 914 m:* 3 (1999 est.) |
+| **Svalbard** | *total:* 1 |
+| | *1,524 to 2,437 m:* 1 (1999 est.) |
+| **Swaziland** | *total:* 1 |
+| | *2,438 to 3,047 m:* 1 (1999 est.) |
+| **Sweden** | *total:* 147 |
+| | *over 3,047 m:* 3 |
+| | *2,438 to 3,047 m:* 11 |
+| | *1,524 to 2,437 m:* 80 |
+| | *914 to 1,523 m:* 28 |
+| | *under 914 m:* 25 (1999 est.) |
+| **Switzerland** | *total:* 42 |
+| | *over 3,047 m:* 3 |
+| | *2,438 to 3,047 m:* 4 |
+| | *1,524 to 2,437 m:* 13 |
+| | *914 to 1,523 m:* 7 |
+| | *under 914 m:* 15 (1999 est.) |
+| **Syria** | *total:* 24 |
+| | *over 3,047 m:* 5 |
+| | *2,438 to 3,047 m:* 16 |
+| | *914 to 1,523 m:* 1 |
+| | *under 914 m:* 2 (1999 est.) |
+| **Tajikistan** | *total:* 14 |
+| | *over 3,047 m:* 1 |
+| | *2,438 to 3,047 m:* 5 |
+| | *1,524 to 2,437 m:* 7 |
+| | *914 to 1,523 m:* 1 (1994 est.) |
+| **Tanzania** | *total:* 11 |
+| | *over 3,047 m:* 2 |
+| | *2,438 to 3,047 m:* 2 |
+| | *1,524 to 2,437 m:* 5 |
+| | *914 to 1,523 m:* 1 |
+| | *under 914 m:* 1 (1999 est.) |
+| **Thailand** | *total:* 56 |
+| | *over 3,047 m:* 6 |
+| | *2,438 to 3,047 m:* 11 |
+| | *1,524 to 2,437 m:* 17 |
+| | *914 to 1,523 m:* 18 |
+| | *under 914 m:* 4 (1999 est.) |
+| **Togo** | *total:* 2 |
+| | *2,438 to 3,047 m:* 2 (1999 est.) |
+| **Tonga** | *total:* 1 |
+| | *2,438 to 3,047 m:* 1 (1999 est.) |
+| **Trinidad and Tobago** | *total:* 3 |
+| | *over 3,047 m:* 1 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 1 (1999 est.) |
+| **Tunisia** | *total:* 15 |
+| | *over 3,047 m:* 3 |
+| | *2,438 to 3,047 m:* 6 |
+| | *1,524 to 2,437 m:* 3 |
+| | *914 to 1,523 m:* 3 (1999 est.) |
+| **Turkey** | *total:* 82 |
+| | *over 3,047 m:* 16 |
+| | *2,438 to 3,047 m:* 27 |
+| | *1,524 to 2,437 m:* 18 |
+| | *914 to 1,523 m:* 16 |
+| | *under 914 m:* 5 (1999 est.) |
+| **Turkmenistan** | *total:* 22 |
+| | *2,438 to 3,047 m:* 13 |
+| | *1,524 to 2,437 m:* 8 |
+| | *914 to 1,523 m:* 1 (1994 est.) |
+| **Turks and Caicos Islands** | *total:* 4 |
+| | *1,524 to 2,437 m:* 3 |
+| | *914 to 1,523 m:* 1 (1999 est.) |
+| **Uganda** | *total:* 4 |
+| | *over 3,047 m:* 3 |
+| | *1,524 to 2,437 m:* 1 (1999 est.) |
+| **Ukraine** | *total:* 163 |
+| | *over 3,047 m:* 14 |
+| | *2,438 to 3,047 m:* 55 |
+| | *1,524 to 2,437 m:* 34 |
+| | *914 to 1,523 m:* 3 |
+| | *under 914 m:* 57 (1994 est.) |
+| **United Arab Emirates** | *total:* 22 |
+| | *over 3,047 m:* 8 |
+| | *2,438 to 3,047 m:* 3 |
+| | *1,524 to 2,437 m:* 4 |
+| | *914 to 1,523 m:* 3 |
+| | *under 914 m:* 4 (1999 est.) |
+| **United Kingdom** | *total:* 357 |
+| | *over 3,047 m:* 10 |
+| | *2,438 to 3,047 m:* 33 |
+| | *1,524 to 2,437 m:* 166 |
+| | *914 to 1,523 m:* 93 |
+| | *under 914 m:* 55 (1999 est.) |
+| **United States** | *total:* 5,174 |
+| | *over 3,047 m:* 180 |
+| | *2,438 to 3,047 m:* 221 |
+| | *1,524 to 2,437 m:* 1,310 |
+| | *914 to 1,523 m:* 2,448 |
+| | *under 914 m:* 1,015 (1999 est.) |
+| **Uruguay** | *total:* 15 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 5 |
+| | *914 to 1,523 m:* 8 |
+| | *under 914 m:* 1 (1999 est.) |
+| **Uzbekistan** | *total:* 3 |
+| | *over 3,047 m:* 2 |
+| | *2,438 to 3,047 m:* 1 (1997 est.) |
+| **Vanuatu** | *total:* 3 |
+| | *2,438 to 3,047 m:* 1 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 1 (1999 est.) |
+| **Venezuela** | *total:* 122 |
+| | *over 3,047 m:* 5 |
+| | *2,438 to 3,047 m:* 10 |
+| | *1,524 to 2,437 m:* 32 |
+| | *914 to 1,523 m:* 58 |
+| | *under 914 m:* 17 (1999 est.) |
+| **Vietnam** | *total:* 36 |
+| | *over 3,047 m:* 8 |
+| | *2,438 to 3,047 m:* 3 |
+| | *1,524 to 2,437 m:* 5 |
+| | *914 to 1,523 m:* 13 |
+| | *under 914 m:* 7 (1994 est.) |
+| **Virgin Islands** | *total:* 2 |
+| | *1,524 to 2,437 m:* 2 (1999 est.) |
+| **Wake Island** | *total:* 1 |
+| | *2,438 to 3,047 m:* 1 (1999 est.) |
+| **Wallis and Futuna** | *total:* 1 |
+| | *1,524 to 2,437 m:* 1 (1999 est.) |
+| **West Bank** | *total:* 2 |
+| | *1,524 to 2,437 m:* 1 |
+| | *under 914 m:* 1 (1999 est.) |
+| **Western Sahara** | *total:* 3 |
+| | *2,438 to 3,047 m:* 3 (1999 est.) |
+| **Yemen** | *total:* 13 |
+| | *over 3,047 m:* 2 |
+| | *2,438 to 3,047 m:* 8 |
+| | *1,524 to 2,437 m:* 1 |
+| | *914 to 1,523 m:* 1 |
+| | *under 914 m:* 1 (1999 est.) |
+| **Zambia** | *total:* 12 |
+| | *over 3,047 m:* 1 |
+| | *2,438 to 3,047 m:* 3 |
+| | *1,524 to 2,437 m:* 5 |
+| | *914 to 1,523 m:* 2 |
+| | *under 914 m:* 1 (1999 est.) |
+| **Zimbabwe** | *total:* 18 |
+| | *over 3,047 m:* 3 |
+| | *2,438 to 3,047 m:* 2 |
+| | *1,524 to 2,437 m:* 4 |
+| | *914 to 1,523 m:* 9 (1999 est.) |
+| **Taiwan** | *total:* 35 |
+| | *over 3,047 m:* 8 |
+| | *2,438 to 3,047 m:* 9 |
+| | *1,524 to 2,437 m:* 8 |
+| | *914 to 1,523 m:* 7 |
+| | *under 914 m:* 3 (1999 est.) |
+
+
+

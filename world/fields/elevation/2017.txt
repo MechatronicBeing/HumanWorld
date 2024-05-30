@@ -1,0 +1,797 @@
+FIELD LISTING :: ELEVATION
+
+| Country | ELEVATION(M) |
+| --- | --- |
+| **Afghanistan** | *mean elevation:* 1,884 m |
+| | *elevation extremes:* lowest point: Amu Darya 258 m |
+| | *highest point:* Noshak 7,492 m |
+| **Albania** | *mean elevation:* 708 m |
+| | *elevation extremes:* lowest point: Adriatic Sea 0 m |
+| | *highest point:* Maja e Korabit (Golem Korab) 2,764 m |
+| **Algeria** | *mean elevation:* 800 m |
+| | *elevation extremes:* lowest point: Chott Melrhir -40 m |
+| | *highest point:* Tahat 2,908 m |
+| **American Samoa** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Pacific Ocean 0 m |
+| | *highest point:* Lata Mountain 964 m |
+| **Andorra** | *mean elevation:* 1,996 m |
+| | *elevation extremes:* lowest point: Riu Runer 840 m |
+| | *highest point:* Pic de Coma Pedrosa 2,946 m |
+| **Angola** | *mean elevation:* 1,112 m |
+| | *elevation extremes:* lowest point: Atlantic Ocean 0 m |
+| | *highest point:* Moca 2,620 m |
+| **Anguilla** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Caribbean Sea 0 m |
+| | *highest point:* Crocus Hill 73 m |
+| **Antarctica** | *mean elevation:* 2,300 m |
+| | *elevation extremes:* lowest point: Bentley Subglacial Trench -2,540 m |
+| | *highest point:* Vinson Massif 4,892 m |
+| | *note:* the lowest known land point in Antarctica is hidden in the Bentley Subglacial Trench; at its surface is the deepest ice yet discovered and the world's lowest elevation not under seawater |
+| **Antigua and Barbuda** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Caribbean Sea 0 m |
+| | *highest point:* Mount Obama 402 m |
+| **Arctic Ocean** | *mean depth:* -1,205 m |
+| | *elevation extremes:* lowest point: Molloy Deep -5,607 m |
+| | *highest point:* sea level 0 m |
+| **Argentina** | *mean elevation:* 595 m |
+| | *elevation extremes:* lowest point: Laguna del Carbon -105 m (located between Puerto San Julian and Comandante Luis Piedra Buena in the province of Santa Cruz) |
+| | *highest point:* Cerro Aconcagua 6,962 m (located in the northwestern corner of the province of Mendoza; highest point in South America) |
+| **Armenia** | *mean elevation:* 1,792 m |
+| | *elevation extremes:* lowest point: Debed River 400 m |
+| | *highest point:* Aragats Lerrnagagat' 4,090 m |
+| **Aruba** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Caribbean Sea 0 m |
+| | *highest point:* Ceru Jamanota 188 m |
+| **Ashmore and Cartier Islands** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Indian Ocean 0 m |
+| | *highest point:* Cartier Island 5 m |
+| **Atlantic Ocean** | *mean depth:* -3,646 m |
+| | *elevation extremes:* lowest point: Milwaukee Deep in the Puerto Rico Trench -8,605 m |
+| | *highest point:* sea level 0 m |
+| **Australia** | *mean elevation:* 330 m |
+| | *elevation extremes:* lowest point: Lake Eyre -15 m |
+| | *highest point:* Mount Kosciuszko 2,228 m |
+| **Austria** | *mean elevation:* 910 m |
+| | *elevation extremes:* lowest point: Neusiedler See 115 m |
+| | *highest point:* Grossglockner 3,798 m |
+| **Azerbaijan** | *mean elevation:* 384 m |
+| | *elevation extremes:* lowest point: Caspian Sea -28 m |
+| | *highest point:* Bazarduzu Dagi 4,466 m |
+| **Bahamas, The** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Atlantic Ocean 0 m |
+| | *highest point:* Mount Alvernia on Cat Island 64 m |
+| **Bahrain** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Persian Gulf 0 m |
+| | *highest point:* Jabal ad Dukhan 135 m |
+| **Bangladesh** | *mean elevation:* 85 m |
+| | *elevation extremes:* lowest point: Indian Ocean 0 m |
+| | *highest point:* Keokradong 1,230 m |
+| **Barbados** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Atlantic Ocean 0 m |
+| | *highest point:* Mount Hillaby 336 m |
+| **Belarus** | *mean elevation:* 160 m |
+| | *elevation extremes:* lowest point: Nyoman River 90 m |
+| | *highest point:* Dzyarzhynskaya Hara 346 m |
+| **Belgium** | *mean elevation:* 181 m |
+| | *elevation extremes:* lowest point: North Sea 0 m |
+| | *highest point:* Botrange 694 m |
+| **Belize** | *mean elevation:* 173 m |
+| | *elevation extremes:* lowest point: Caribbean Sea 0 m |
+| | *highest point:* Doyle's Delight 1,124 m |
+| **Benin** | *mean elevation:* 273 m |
+| | *elevation extremes:* lowest point: Atlantic Ocean 0 m |
+| | *highest point:* Mont Sokbaro 658 m |
+| **Bermuda** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Atlantic Ocean 0 m |
+| | *highest point:* Town Hill 79 m |
+| **Bhutan** | *mean elevation:* 2,220 m |
+| | *elevation extremes:* lowest point: Drangeme Chhu 97 m |
+| | *highest point:* Gangkar Puensum 7,570 m |
+| **Bolivia** | *mean elevation:* 1,192 m |
+| | *elevation extremes:* lowest point: Rio Paraguay 90 m |
+| | *highest point:* Nevado Sajama 6,542 m |
+| **Bosnia and Herzegovina** | *mean elevation:* 500 m |
+| | *elevation extremes:* lowest point: Adriatic Sea 0 m |
+| | *highest point:* Maglic 2,386 m |
+| **Botswana** | *mean elevation:* 1,013 m |
+| | *elevation extremes:* lowest point: junction of the Limpopo and Shashe Rivers 513 m |
+| | *highest point:* Tsodilo Hills 1,489 m |
+| **Bouvet Island** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: South Atlantic Ocean 0 m |
+| | *highest point:* Olavtoppen (Olav Peak) 780 m |
+| **Brazil** | *mean elevation:* 320 m |
+| | *elevation extremes:* lowest point: Atlantic Ocean 0 m |
+| | *highest point:* Pico da Neblina 2,994 m |
+| **British Indian Ocean Territory** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Indian Ocean 0 m |
+| | *highest point:* ocean-side dunes on Diego Garcia 9 m |
+| **British Virgin Islands** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Caribbean Sea 0 m |
+| | *highest point:* Mount Sage 521 m |
+| **Brunei** | *mean elevation:* 478 m |
+| | *elevation extremes:* lowest point: South China Sea 0 m |
+| | *highest point:* Bukit Pagon 1,850 m |
+| **Bulgaria** | *mean elevation:* 472 m |
+| | *elevation extremes:* lowest point: Black Sea 0 m |
+| | *highest point:* Musala 2,925 m |
+| **Burkina Faso** | *mean elevation:* 297 m |
+| | *elevation extremes:* lowest point: Mouhoun (Black Volta) River 200 m |
+| | *highest point:* Tena Kourou 749 m |
+| **Burma** | *mean elevation:* 702 m |
+| | *elevation extremes:* lowest point: Andaman Sea/Bay of Bengal 0 m |
+| | *highest point:* Gamlang Razi 5,870 m |
+| **Burundi** | *mean elevation:* 1,504 m |
+| | *elevation extremes:* lowest point: Lake Tanganyika 772 m |
+| | *highest point:* Heha 2,670 m |
+| **Cabo Verde** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Atlantic Ocean 0 m |
+| | *highest point:* Mt. Fogo 2,829 m (a volcano on Fogo Island) |
+| **Cambodia** | *mean elevation:* 126 m |
+| | *elevation extremes:* lowest point: Gulf of Thailand 0 m |
+| | *highest point:* Phnum Aoral 1,810 m |
+| **Cameroon** | *mean elevation:* 667 m |
+| | *elevation extremes:* lowest point: Atlantic Ocean 0 m |
+| | *highest point:* Fako on Mont Cameroun 4,045 m |
+| **Canada** | *mean elevation:* 487 m |
+| | *elevation extremes:* lowest point: Atlantic Ocean 0 m |
+| | *highest point:* Mount Logan 5,959 m |
+| **Cayman Islands** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Caribbean Sea 0 m |
+| | *highest point:* 1 km SW of The Bluff on Cayman Brac 50 m |
+| **Central African Republic** | *mean elevation:* 635 m |
+| | *elevation extremes:* lowest point: Oubangui River 335 m |
+| | *highest point:* Mont Ngaoui 1,410 m |
+| **Chad** | *mean elevation:* 543 m |
+| | *elevation extremes:* lowest point: Djourab 160 m |
+| | *highest point:* Emi Koussi 3,445 m |
+| **Chile** | *mean elevation:* 1,871 m |
+| | *elevation extremes:* lowest point: Pacific Ocean 0 m |
+| | *highest point:* Nevado Ojos del Salado 6,880 m |
+| **China** | *mean elevation:* 1,840 m |
+| | *elevation extremes:* lowest point: Turpan Pendi -154 m |
+| | *highest point:* Mount Everest 8,848 m (highest peak in Asia and highest point on earth above sea level) |
+| **Christmas Island** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Indian Ocean 0 m |
+| | *highest point:* Murray Hill 361 m |
+| **Clipperton Island** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Pacific Ocean 0 m |
+| | *highest point:* Rocher Clipperton 29 m |
+| **Cocos (Keeling) Islands** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Indian Ocean 0 m |
+| | *highest point:* South Point on South Island 9 m |
+| **Colombia** | *mean elevation:* 593 m |
+| | *elevation extremes:* lowest point: Pacific Ocean 0 m |
+| | *highest point:* Pico Cristobal Colon 5,730 m |
+| | *note:* nearby Pico Simon Bolivar also has the same elevation |
+| **Comoros** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Indian Ocean 0 m |
+| | *highest point:* Karthala 2,360 m |
+| **Congo, Democratic Republic of the** | *mean elevation:* 726 m |
+| | *elevation extremes:* lowest point: Atlantic Ocean 0 m |
+| | *highest point:* Pic Marguerite on Mont Ngaliema (Mount Stanley) 5,110 m |
+| **Congo, Republic of the** | *mean elevation:* 430 m |
+| | *elevation extremes:* lowest point: Atlantic Ocean 0 m |
+| | *highest point:* Mount Berongou 903 m |
+| **Cook Islands** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Pacific Ocean 0 m |
+| | *highest point:* Te Manga 652 m |
+| **Coral Sea Islands** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Pacific Ocean 0 m |
+| | *highest point:* unnamed location on Cato Island 9 m |
+| **Costa Rica** | *mean elevation:* 746 m |
+| | *elevation extremes:* lowest point: Pacific Ocean 0 m |
+| | *highest point:* Cerro Chirripo 3,819 m |
+| **Cote d'Ivoire** | *mean elevation:* 250 m |
+| | *elevation extremes:* lowest point: Gulf of Guinea 0 m |
+| | *highest point:* Monts Nimba 1,752 m |
+| **Croatia** | *mean elevation:* 331 m |
+| | *elevation extremes:* lowest point: Adriatic Sea 0 m |
+| | *highest point:* Dinara 1,831 m |
+| **Cuba** | *mean elevation:* 108 m |
+| | *elevation extremes:* lowest point: Caribbean Sea 0 m |
+| | *highest point:* Pico Turquino 1,974 m |
+| **Curacao** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Caribbean Sea 0 m |
+| | *highest point:* Mt. Christoffel 372 m |
+| **Cyprus** | *mean elevation:* 91 m |
+| | *elevation extremes:* lowest point: Mediterranean Sea 0 m |
+| | *highest point:* Mount Olympus 1,951 m |
+| **Czechia** | *mean elevation:* 433 m |
+| | *elevation extremes:* lowest point: Labe (Elbe) River 115 m |
+| | *highest point:* Snezka 1,602 m |
+| **Denmark** | *mean elevation:* 34 m |
+| | *elevation extremes:* lowest point: Lammefjord -7 m |
+| | *highest point:* Mollehoj/Ejer Bavnehoj 171 m |
+| **Djibouti** | *mean elevation:* 430 m |
+| | *elevation extremes:* lowest point: Lac Assal -155 m |
+| | *highest point:* Moussa Ali 2,021 m |
+| **Dominica** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Caribbean Sea 0 m |
+| | *highest point:* Morne Diablotins 1,447 m |
+| **Dominican Republic** | *mean elevation:* 424 m |
+| | *elevation extremes:* lowest point: Lago Enriquillo -46 m |
+| | *highest point:* Pico Duarte 3,098 m |
+| **Ecuador** | *mean elevation:* 1,117 m |
+| | *elevation extremes:* lowest point: Pacific Ocean 0 m |
+| | *highest point:* Chimborazo 6,267 m |
+| | *note:* because the earth is not a perfect sphere and has an equatorial bulge, the highest point on the planet farthest from its center is Mount Chimborazo not Mount Everest, which is merely the highest peak above sea level |
+| **Egypt** | *mean elevation:* 321 m |
+| | *elevation extremes:* lowest point: Qattara Depression -133 m |
+| | *highest point:* Mount Catherine 2,629 m |
+| **El Salvador** | *mean elevation:* 442 m |
+| | *elevation extremes:* lowest point: Pacific Ocean 0 m |
+| | *highest point:* Cerro El Pital 2,730 m |
+| **Equatorial Guinea** | *mean elevation:* 577 m |
+| | *elevation extremes:* lowest point: Atlantic Ocean 0 m |
+| | *highest point:* Pico Basile 3,008 m |
+| **Eritrea** | *mean elevation:* 853 m |
+| | *elevation extremes:* lowest point: near Kulul within the Danakil Depression -75 m |
+| | *highest point:* Soira 3,018 m |
+| **Estonia** | *mean elevation:* 61 m |
+| | *elevation extremes:* lowest point: Baltic Sea 0 m |
+| | *highest point:* Suur Munamagi 318 m |
+| **Ethiopia** | *mean elevation:* 1,330 m |
+| | *elevation extremes:* lowest point: Danakil Depression -125 m |
+| | *highest point:* Ras Dejen 4,550 m |
+| **European Union** | *mean elevation:* about 300 m |
+| | *elevation extremes:* lowest point: Lammefjord, Denmark -7 m; Zuidplaspolder, Netherlands -7 m |
+| | *highest point:* Mont Blanc 4,810 m |
+| **Falkland Islands (Islas Malvinas)** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Atlantic Ocean 0 m |
+| | *highest point:* Mount Usborne 705 m |
+| **Faroe Islands** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Atlantic Ocean 0 m |
+| | *highest point:* Slaettaratindur 882 m |
+| **Fiji** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Pacific Ocean 0 m |
+| | *highest point:* Tomanivi 1,324 m |
+| **Finland** | *mean elevation:* 164 m |
+| | *elevation extremes:* lowest point: Baltic Sea 0 m |
+| | *highest point:* Halti (alternatively Haltia, Haltitunturi, Haltiatunturi) 1,328 m |
+| **France** | *mean elevation:* 375 m |
+| | *elevation extremes:* lowest point: Rhone River delta -2 m |
+| | *highest point:* Mont Blanc 4,810 m |
+| | *note:* to assess the possible effects of climate change on the ice and snow cap of Mont Blanc, its surface and peak have been extensively measured in recent years; these new peak measurements have exceeded the traditional height of 4,807 m and have varied between 4,808 m and 4,811 m; the actual rock summit is 4,792 m and is 40 m away from the ice-covered summit |
+| **French Polynesia** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Pacific Ocean 0 m |
+| | *highest point:* Mont Orohena 2,241 m |
+| **French Southern and Antarctic Lands** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Indian Ocean 0 m |
+| | *highest point:* Mont de la Dives on Ile Amsterdam (Ile Amsterdam et Ile Saint-Paul) 867 m; unnamed location on Ile Saint-Paul (Ile Amsterdam et Ile Saint-Paul) 272 m; Pic Marion-Dufresne in Iles Crozet 1,090 m; Mont Ross in Iles Kerguelen 1,850 m; unnamed location on Bassas de India (Iles Eparses) 2.4 m; unnamed location on Europa Island (Iles Eparses) 24 m; unnamed location on Glorioso Islands (Iles Eparses) 12 m; unnamed location on Juan de Nova Island (Iles Eparses) 10 m; unnamed location on Tromelin Island (Iles Eparses) 7 m |
+| **Gabon** | *mean elevation:* 377 m |
+| | *elevation extremes:* lowest point: Atlantic Ocean 0 m |
+| | *highest point:* Mont Iboundji 1,575 m |
+| **Gambia, The** | *mean elevation:* 34 m |
+| | *elevation extremes:* lowest point: Atlantic Ocean 0 m |
+| | *highest point:* unnamed elevation 53 m |
+| **Gaza Strip** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Mediterranean Sea 0 m |
+| | *highest point:* Abu 'Awdah (Joz Abu 'Awdah) 105 m |
+| **Georgia** | *mean elevation:* 1,432 m |
+| | *elevation extremes:* lowest point: Black Sea 0 m |
+| | *highest point:* Mt'a Shkhara 5,193 m |
+| **Germany** | *mean elevation:* 263 m |
+| | *elevation extremes:* lowest point: Neuendorf bei Wilster -3.5 m |
+| | *highest point:* Zugspitze 2,963 m |
+| **Ghana** | *mean elevation:* 190 m |
+| | *elevation extremes:* lowest point: Atlantic Ocean 0 m |
+| | *highest point:* Mount Afadjato 885 m |
+| **Gibraltar** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Mediterranean Sea 0 m |
+| | *highest point:* Rock of Gibraltar 426 m |
+| **Greece** | *mean elevation:* 498 m |
+| | *elevation extremes:* lowest point: Mediterranean Sea 0 m |
+| | *highest point:* Mount Olympus 2,917 m |
+| **Greenland** | *mean elevation:* 1,792 m |
+| | *elevation extremes:* lowest point: Atlantic Ocean 0 m |
+| | *highest point:* Gunnbjorn Fjeld 3,694 m |
+| **Grenada** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Caribbean Sea 0 m |
+| | *highest point:* Mount Saint Catherine 840 m |
+| **Guam** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Pacific Ocean 0 m |
+| | *highest point:* Mount Lamlam 406 m |
+| **Guatemala** | *mean elevation:* 759 m |
+| | *elevation extremes:* lowest point: Pacific Ocean 0 m |
+| | *highest point:* Volcan Tajumulco 4,220 m (highest point in Central America) |
+| **Guernsey** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: English Channel 0 m |
+| | *highest point:* Le Moulin on Sark 114 m |
+| **Guinea-Bissau** | *mean elevation:* 70 m |
+| | *elevation extremes:* lowest point: Atlantic Ocean 0 m |
+| | *highest point:* unnamed elevation in the eastern part of the country 300 m |
+| **Guinea** | *mean elevation:* 472 m |
+| | *elevation extremes:* lowest point: Atlantic Ocean 0 m |
+| | *highest point:* Mont Nimba 1,752 m |
+| **Guyana** | *mean elevation:* 207 m |
+| | *elevation extremes:* lowest point: Atlantic Ocean 0 m |
+| | *highest point:* Laberintos del Norte on Mount Roraima 2,775 m |
+| **Haiti** | *mean elevation:* 470 m |
+| | *elevation extremes:* lowest point: Caribbean Sea 0 m |
+| | *highest point:* Chaine de la Selle 2,680 m |
+| **Heard Island and McDonald Islands** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Indian Ocean 0 m |
+| | *highest point:* Mawson Peak on Big Ben volcano 2,745 m |
+| **Holy See (Vatican City)** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Saint Peter's Square 19 m |
+| | *highest point:* Vatican Gardens (Vatican Hill) 78 m |
+| **Honduras** | *mean elevation:* 684 m |
+| | *elevation extremes:* lowest point: Caribbean Sea 0 m |
+| | *highest point:* Cerro Las Minas 2,870 m |
+| **Hong Kong** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: South China Sea 0 m |
+| | *highest point:* Tai Mo Shan 958 m |
+| **Hungary** | *mean elevation:* 143 m |
+| | *elevation extremes:* lowest point: Tisza River 78 m |
+| | *highest point:* Kekes 1,014 m |
+| **Iceland** | *mean elevation:* 557 m |
+| | *elevation extremes:* lowest point: Atlantic Ocean 0 m |
+| | *highest point:* Hvannadalshnukur 2,110 m (at Vatnajokull Glacier) |
+| **India** | *mean elevation:* 160 m |
+| | *elevation extremes:* lowest point: Indian Ocean 0 m |
+| | *highest point:* Kanchenjunga 8,586 m |
+| **Indian Ocean** | *mean depth:* -3,741 m |
+| | *elevation extremes:* lowest point: Java Trench -7,258 m |
+| | *highest point:* sea level 0 m |
+| **Indonesia** | *mean elevation:* 367 m |
+| | *elevation extremes:* lowest point: Indian Ocean 0 m |
+| | *highest point:* Puncak Jaya 4,884 m |
+| **Iran** | *mean elevation:* 1,305 m |
+| | *elevation extremes:* lowest point: Caspian Sea -28 m |
+| | *highest point:* Kuh-e Damavand 5,625 m |
+| **Iraq** | *mean elevation:* 312 m |
+| | *elevation extremes:* lowest point: Persian Gulf 0 m |
+| | *highest point:* Cheekha Dar (Kurdish for "Black Tent") 3,611 m |
+| **Ireland** | *mean elevation:* 118 m |
+| | *elevation extremes:* lowest point: Atlantic Ocean 0 m |
+| | *highest point:* Carrauntoohil 1,041 m |
+| **Isle of Man** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Irish Sea 0 m |
+| | *highest point:* Snaefell 621 m |
+| **Israel** | *mean elevation:* 508 m |
+| | *elevation extremes:* lowest point: Dead Sea -431 m |
+| | *highest point:* Har Meron 1,208 m |
+| **Italy** | *mean elevation:* 538 m |
+| | *elevation extremes:* lowest point: Mediterranean Sea 0 m |
+| | *highest point:* Mont Blanc (Monte Bianco) de Courmayeur 4,748 m (a secondary peak of Mont Blanc) |
+| **Jamaica** | *mean elevation:* 18 m |
+| | *elevation extremes:* lowest point: Caribbean Sea 0 m |
+| | *highest point:* Blue Mountain Peak 2,256 m |
+| **Jan Mayen** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Norwegian Sea 0 m |
+| | *highest point:* Haakon VII Toppen on Beerenberg 2,277 m |
+| | *note:* Beerenberg volcano has numerous peaks; the highest point on the volcano rim is named Haakon VII Toppen, after Norway's first king following the reestablishment of Norwegian independence in 1905 |
+| **Japan** | *mean elevation:* 438 m |
+| | *elevation extremes:* lowest point: Hachiro-gata -4 m |
+| | *highest point:* Mount Fuji 3,776 m |
+| **Jersey** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: English Channel 0 m |
+| | *highest point:* Les Platons 136 m |
+| **Jordan** | *mean elevation:* 812 m |
+| | *elevation extremes:* lowest point: Dead Sea -431 m |
+| | *highest point:* Jabal Umm ad Dami 1,854 m |
+| **Kazakhstan** | *mean elevation:* 387 m |
+| | *elevation extremes:* lowest point: Vpadina Kaundy -132 m |
+| | *highest point:* Khan Tangiri Shyngy (Pik Khan-Tengri) 6,995 m |
+| **Kenya** | *mean elevation:* 762 m |
+| | *elevation extremes:* lowest point: Indian Ocean 0 m |
+| | *highest point:* Mount Kenya 5,199 m |
+| **Kiribati** | *mean elevation:* 2 m |
+| | *elevation extremes:* lowest point: Pacific Ocean 0 m |
+| | *highest point:* unnamed elevation on Banaba 81 m |
+| **Korea, North** | *mean elevation:* 600 m |
+| | *elevation extremes:* lowest point: Sea of Japan 0 m |
+| | *highest point:* Paektu-san 2,744 m |
+| **Korea, South** | *mean elevation:* 282 m |
+| | *elevation extremes:* lowest point: Sea of Japan 0 m |
+| | *highest point:* Halla-san 1,950 m |
+| **Kosovo** | *mean elevation:* 450 m |
+| | *elevation extremes:* lowest point: Drini i Bardhe/Beli Drim 297 m (located on the border with Albania) |
+| | *highest point:* Gjeravica/Deravica 2,656 m |
+| **Kuwait** | *mean elevation:* 108 m |
+| | *elevation extremes:* lowest point: Persian Gulf 0 m |
+| | *highest point:* 3.6 km W. of Al-Salmi Border Post 300 m |
+| **Kyrgyzstan** | *mean elevation:* 2,988 m |
+| | *elevation extremes:* lowest point: Kara-Daryya (Karadar'ya) 132 m |
+| | *highest point:* Jengish Chokusu (Pik Pobedy) 7,439 m |
+| **Laos** | *mean elevation:* 710 m |
+| | *elevation extremes:* lowest point: Mekong River 70 m |
+| | *highest point:* Phu Bia 2,817 m |
+| **Latvia** | *mean elevation:* 87 m |
+| | *elevation extremes:* lowest point: Baltic Sea 0 m |
+| | *highest point:* Gaizina Kalns 312 m |
+| **Lebanon** | *mean elevation:* 1,250 m |
+| | *elevation extremes:* lowest point: Mediterranean Sea 0 m |
+| | *highest point:* Qornet es Saouda 3,088 m |
+| **Lesotho** | *mean elevation:* 2,161 m |
+| | *elevation extremes:* lowest point: junction of the Orange and Makhaleng Rivers 1,400 m |
+| | *highest point:* Thabana Ntlenyana 3,482 m |
+| **Liberia** | *mean elevation:* 243 m |
+| | *elevation extremes:* lowest point: Atlantic Ocean 0 m |
+| | *highest point:* Mount Wuteve 1,447 m |
+| **Libya** | *mean elevation:* 423 m |
+| | *elevation extremes:* lowest point: Sabkhat Ghuzayyil -47 m |
+| | *highest point:* Bikku Bitti 2,267 m |
+| **Liechtenstein** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Ruggeller Riet 430 m |
+| | *highest point:* Vorder-Grauspitz 2,599 m |
+| **Lithuania** | *mean elevation:* 110 m |
+| | *elevation extremes:* lowest point: Baltic Sea 0 m |
+| | *highest point:* Aukstojas 294 m |
+| **Luxembourg** | *mean elevation:* 325 m |
+| | *elevation extremes:* lowest point: Moselle River 133 m |
+| | *highest point:* Buurgplaatz 559 m |
+| **Macau** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: South China Sea 0 m |
+| | *highest point:* Alto Coloane 172 m |
+| **Macedonia** | *mean elevation:* 741 m |
+| | *elevation extremes:* lowest point: Vardar River 50 m |
+| | *highest point:* Golem Korab (Maja e Korabit) 2,764 m |
+| **Madagascar** | *mean elevation:* 615 m |
+| | *elevation extremes:* lowest point: Indian Ocean 0 m |
+| | *highest point:* Maromokotro 2,876 m |
+| **Malawi** | *mean elevation:* 779 m |
+| | *elevation extremes:* lowest point: junction of the Shire River and international boundary with Mozambique 37 m |
+| | *highest point:* Sapitwa (Mount Mlanje) 3,002 m |
+| **Malaysia** | *mean elevation:* 419 m |
+| | *elevation extremes:* lowest point: Indian Ocean 0 m |
+| | *highest point:* Gunung Kinabalu 4,095 m |
+| **Maldives** | *mean elevation:* 1.8 m |
+| | *elevation extremes:* lowest point: Indian Ocean 0 m |
+| | *highest point:* 8th tee, golf course, Villingi Island 5 m |
+| **Mali** | *mean elevation:* 343 m |
+| | *elevation extremes:* lowest point: Senegal River 23 m |
+| | *highest point:* Hombori Tondo 1,155 m |
+| **Malta** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Mediterranean Sea 0 m |
+| | *highest point:* Ta'Dmejrek on Dingli Cliffs 253 m |
+| **Marshall Islands** | *mean elevation:* 2 m |
+| | *elevation extremes:* lowest point: Pacific Ocean 0 m |
+| | *highest point:* East-central Airik Island, Maloelap Atoll 14 m |
+| **Mauritania** | *mean elevation:* 276 m |
+| | *elevation extremes:* lowest point: Sebkhet Te-n-Dghamcha -5 m |
+| | *highest point:* Kediet Ijill 915 m |
+| **Mauritius** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Indian Ocean 0 m |
+| | *highest point:* Mont Piton 828 m |
+| **Mexico** | *mean elevation:* 1,111 m |
+| | *elevation extremes:* lowest point: Laguna Salada -10 m |
+| | *highest point:* Volcan Pico de Orizaba 5,636 m |
+| **Micronesia, Federated States of** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Pacific Ocean 0 m |
+| | *highest point:* Nanlaud on Pohnpei 782 m |
+| **Midway Islands** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Pacific Ocean 0 m |
+| | *highest point:* water tower hill on Sand Island 15 m |
+| **Moldova** | *mean elevation:* 139 m |
+| | *elevation extremes:* lowest point: Dniester (Nistru) 2 m |
+| | *highest point:* Dealul Balanesti 430 m |
+| **Monaco** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Mediterranean Sea 0 m |
+| | *highest point:* Chemin des Révoires on Mont Agel 162 m |
+| **Mongolia** | *mean elevation:* 1,528 m |
+| | *elevation extremes:* lowest point: Hoh Nuur 560 m |
+| | *highest point:* Nayramadlin Orgil (Khuiten Peak) 4,374 m |
+| **Montenegro** | *mean elevation:* 1,086 m |
+| | *elevation extremes:* lowest point: Adriatic Sea 0 m |
+| | *highest point:* Bobotov Kuk 2,522 m |
+| **Montserrat** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Caribbean Sea 0 m |
+| | *highest point:* Soufriere Hills volcano pre-eruption height was 915 m; current lava dome is subject to periodic build up and collapse; estimated dome height was 1050 m in 2015 |
+| **Morocco** | *mean elevation:* 909 m |
+| | *elevation extremes:* lowest point: Sebkha Tah -59 m |
+| | *highest point:* Jebel Toubkal 4,165 m |
+| **Mozambique** | *mean elevation:* 345 m |
+| | *elevation extremes:* lowest point: Indian Ocean 0 m |
+| | *highest point:* Monte Binga 2,436 m |
+| **Namibia** | *mean elevation:* 1,141 m |
+| | *elevation extremes:* lowest point: Atlantic Ocean 0 m |
+| | *highest point:* Konigstein on Brandberg 2,573 m |
+| **Nauru** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Pacific Ocean 0 m |
+| | *highest point:* Command Ridge 70 m |
+| **Navassa Island** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Caribbean Sea 0 m |
+| | *highest point:* 200 m NNW of lighthouse 85 m |
+| **Nepal** | *mean elevation:* 2,565 m |
+| | *elevation extremes:* lowest point: Kanchan Kalan 70 m |
+| | *highest point:* Mount Everest 8,848 m (highest peak in Asia and highest point on earth above sea level) |
+| **Netherlands** | *mean elevation:* 30 m |
+| | *elevation extremes:* lowest point: Zuidplaspolder -7 m |
+| | *highest point:* Mount Scenery 862 m (on the island of Saba in the Caribbean, now considered an integral part of the Netherlands following the dissolution of the Netherlands Antilles) |
+| | *note:* the highest point on continental Netherlands is Vaalserberg at 322 m |
+| **New Caledonia** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Pacific Ocean 0 m |
+| | *highest point:* Mont Panie 1,628 m |
+| **New Zealand** | *mean elevation:* 388 m |
+| | *elevation extremes:* lowest point: Pacific Ocean 0 m |
+| | *highest point:* Aoraki-Mount Cook 3,724 m |
+| **Nicaragua** | *mean elevation:* 298 m |
+| | *elevation extremes:* lowest point: Pacific Ocean 0 m |
+| | *highest point:* Mogoton 2,085 m |
+| **Nigeria** | *mean elevation:* 380 m |
+| | *elevation extremes:* lowest point: Atlantic Ocean 0 m |
+| | *highest point:* Chappal Waddi 2,419 m |
+| **Niger** | *mean elevation:* 474 m |
+| | *elevation extremes:* lowest point: Niger River 200 m |
+| | *highest point:* Idoukal-n-Taghes 2,022 m |
+| **Niue** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Pacific Ocean 0 m |
+| | *highest point:* unnamed elevation 1.4 km east of Hikutavake 80 m |
+| **Norfolk Island** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Pacific Ocean 0 m |
+| | *highest point:* Mount Bates 319 m |
+| **Northern Mariana Islands** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Pacific Ocean 0 m |
+| | *highest point:* unnamed elevation on Agrihan 965 m |
+| **Norway** | *mean elevation:* 460 m |
+| | *elevation extremes:* lowest point: Norwegian Sea 0 m |
+| | *highest point:* Galdhopiggen 2,469 m |
+| **Oman** | *mean elevation:* 310 m |
+| | *elevation extremes:* lowest point: Arabian Sea 0 m |
+| | *highest point:* Jabal Shams 3,004 m |
+| **Pacific Ocean** | *mean depth:* -3,970 m |
+| | *elevation extremes:* lowest point: Challenger Deep in the Mariana Trench -10,924 m |
+| | *highest point:* sea level 0 m |
+| **Pakistan** | *mean elevation:* 900 m |
+| | *elevation extremes:* lowest point: Arabian Sea 0 m |
+| | *highest point:* K2 (Mt. Godwin-Austen) 8,611 m |
+| **Palau** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Pacific Ocean 0 m |
+| | *highest point:* Mount Ngerchelchuus 242 m |
+| **Palmyra Atoll** | *mean elevation:* 2 m |
+| | *elevation extremes:* lowest point: Pacific Ocean 0 m |
+| | *highest point:* unnamed location on Sand Island 10 m |
+| **Panama** | *mean elevation:* 360 m |
+| | *elevation extremes:* lowest point: Pacific Ocean 0 m |
+| | *highest point:* Volcan Baru 3,475 m |
+| **Papua New Guinea** | *mean elevation:* 667 m |
+| | *elevation extremes:* lowest point: Pacific Ocean 0 m |
+| | *highest point:* Mount Wilhelm 4,509 m |
+| **Paracel Islands** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: South China Sea 0 m |
+| | *highest point:* unnamed location on Rocky Island 14 m |
+| **Paraguay** | *mean elevation:* 178 m |
+| | *elevation extremes:* lowest point: junction of Rio Paraguay and Rio Parana 46 m |
+| | *highest point:* Cerro Pero 842 m |
+| **Peru** | *mean elevation:* 1,555 m |
+| | *elevation extremes:* lowest point: Pacific Ocean 0 m |
+| | *highest point:* Nevado Huascaran 6,746 m |
+| **Philippines** | *mean elevation:* 442 m |
+| | *elevation extremes:* lowest point: Philippine Sea 0 m |
+| | *highest point:* Mount Apo 2,954 m |
+| **Pitcairn Islands** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Pacific Ocean 0 m |
+| | *highest point:* Palwala Valley Point on Big Ridge 347 m |
+| **Poland** | *mean elevation:* 173 m |
+| | *elevation extremes:* lowest point: near Raczki Elblaskie -2 m |
+| | *highest point:* Rysy 2,499 m |
+| **Portugal** | *mean elevation:* 372 m |
+| | *elevation extremes:* lowest point: Atlantic Ocean 0 m |
+| | *highest point:* Ponta do Pico (Pico or Pico Alto) on Ilha do Pico in the Azores 2,351 m |
+| **Puerto Rico** | *mean elevation:* 261 m |
+| | *elevation extremes:* lowest point: Caribbean Sea 0 m |
+| | *highest point:* Cerro de Punta 1,338 m |
+| **Qatar** | *mean elevation:* 28 m |
+| | *elevation extremes:* lowest point: Persian Gulf 0 m |
+| | *highest point:* Tuwayyir al Hamir 103 m |
+| **Romania** | *mean elevation:* 414 m |
+| | *elevation extremes:* lowest point: Black Sea 0 m |
+| | *highest point:* Moldoveanu 2,544 m |
+| **Russia** | *mean elevation:* 600 m |
+| | *elevation extremes:* lowest point: Caspian Sea -28 m |
+| | *highest point:* Gora El'brus 5,642 m (highest point in Europe) |
+| **Rwanda** | *mean elevation:* 1,598 m |
+| | *elevation extremes:* lowest point: Rusizi River 950 m |
+| | *highest point:* Volcan Karisimbi 4,519 m |
+| **Saint Barthelemy** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Caribbean Ocean 0 m |
+| | *highest point:* Morne du Vitet 286 m |
+| **Saint Helena, Ascension, and Tristan da Cunha** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Atlantic Ocean 0 m |
+| | *highest point:* Queen Mary's Peak on Tristan da Cunha 2,060 m; Green Mountain on Ascension Island 859 m; Mount Actaeon on Saint Helena Island 818 m |
+| **Saint Kitts and Nevis** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Caribbean Sea 0 m |
+| | *highest point:* Mount Liamuiga 1,156 m |
+| **Saint Lucia** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Caribbean Sea 0 m |
+| | *highest point:* Mount Gimie 948 m |
+| **Saint Martin** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Caribbean Ocean 0 m |
+| | *highest point:* Pic du Paradis 424 m |
+| **Saint Pierre and Miquelon** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Atlantic Ocean 0 m |
+| | *highest point:* Morne de la Grande Montagne 240 m |
+| **Saint Vincent and the Grenadines** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Caribbean Sea 0 m |
+| | *highest point:* La Soufriere 1,234 m |
+| **Samoa** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Pacific Ocean 0 m |
+| | *highest point:* Mount Silisili 1,857 m |
+| **San Marino** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Torrente Ausa 55 m |
+| | *highest point:* Monte Titano 739 m |
+| **Sao Tome and Principe** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Atlantic Ocean 0 m |
+| | *highest point:* Pico de Sao Tome 2,024 m |
+| **Saudi Arabia** | *mean elevation:* 665 m |
+| | *elevation extremes:* lowest point: Persian Gulf 0 m |
+| | *highest point:* Jabal Sawda' 3,133 m |
+| **Senegal** | *mean elevation:* 69 m |
+| | *elevation extremes:* lowest point: Atlantic Ocean 0 m |
+| | *highest point:* unnamed elevation 2.8 km southeast of Nepen Diaka 648 m |
+| **Serbia** | *mean elevation:* 442 m |
+| | *elevation extremes:* lowest point: Danube and Timok Rivers 35 m |
+| | *highest point:* Midzor 2,169 m |
+| **Seychelles** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Indian Ocean 0 m |
+| | *highest point:* Morne Seychellois 905 m |
+| **Sierra Leone** | *mean elevation:* 279 m |
+| | *elevation extremes:* lowest point: Atlantic Ocean 0 m |
+| | *highest point:* Loma Mansa (Bintimani) 1,948 m |
+| **Singapore** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Singapore Strait 0 m |
+| | *highest point:* Bukit Timah 166 m |
+| **Sint Maarten** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Caribbean Sea 0 m |
+| | *highest point:* Mount Flagstaff 383 m |
+| **Slovakia** | *mean elevation:* 458 m |
+| | *elevation extremes:* lowest point: Bodrok River 94 m |
+| | *highest point:* Gerlachovsky Stit 2,655 m |
+| **Slovenia** | *mean elevation:* 492 m |
+| | *elevation extremes:* lowest point: Adriatic Sea 0 m |
+| | *highest point:* Triglav 2,864 m |
+| **Solomon Islands** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Pacific Ocean 0 m |
+| | *highest point:* Mount Popomanaseu 2,335 m |
+| **Somalia** | *mean elevation:* 410 m |
+| | *elevation extremes:* lowest point: Indian Ocean 0 m |
+| | *highest point:* Shimbiris 2,416 m |
+| **South Africa** | *mean elevation:* 1,034 m |
+| | *elevation extremes:* lowest point: Atlantic Ocean 0 m |
+| | *highest point:* Njesuthi 3,408 m |
+| **Southern Ocean** | *mean depth:* -3,270 m |
+| | *elevation extremes:* lowest point: southern end of the South Sandwich Trench -7,235 m |
+| | *highest point:* sea level 0 m |
+| **South Georgia and South Sandwich Islands** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Atlantic Ocean 0 m |
+| | *highest point:* Mount Paget (South Georgia) 2,934 m |
+| **South Sudan** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: White Nile 381 m |
+| | *highest point:* Kinyeti 3,187 m |
+| **Spain** | *mean elevation:* 660 m |
+| | *elevation extremes:* lowest point: Atlantic Ocean 0 m |
+| | *highest point:* Pico de Teide (Tenerife) on Canary Islands 3,718 m |
+| **Spratly Islands** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: South China Sea 0 m |
+| | *highest point:* unnamed location on Southwest Cay 6 m |
+| **Sri Lanka** | *mean elevation:* 228 m |
+| | *elevation extremes:* lowest point: Indian Ocean 0 m |
+| | *highest point:* Pidurutalagala 2,524 m |
+| **Sudan** | *mean elevation:* 568 m |
+| | *elevation extremes:* lowest point: Red Sea 0 m |
+| | *highest point:* Jabal Marrah 3,042 m |
+| **Suriname** | *mean elevation:* 246 m |
+| | *elevation extremes:* lowest point: unnamed location in the coastal plain -2 m |
+| | *highest point:* Juliana Top 1,230 m |
+| **Svalbard** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Arctic Ocean 0 m |
+| | *highest point:* Newtontoppen 1,717 m |
+| **Swaziland** | *mean elevation:* 305 m |
+| | *elevation extremes:* lowest point: Great Usutu River 21 m |
+| | *highest point:* Emlembe 1,862 m |
+| **Sweden** | *mean elevation:* 320 m |
+| | *elevation extremes:* lowest point: reclaimed bay of Lake Hammarsjon, near Kristianstad -2.4 m |
+| | *highest point:* Kebnekaise 2,111 m |
+| **Switzerland** | *mean elevation:* 1,350 m |
+| | *elevation extremes:* lowest point: Lake Maggiore 195 m |
+| | *highest point:* Dufourspitze 4,634 m |
+| **Syria** | *mean elevation:* 514 m |
+| | *elevation extremes:* lowest point: unnamed location near Lake Tiberias -208 m |
+| | *highest point:* Mount Hermon (Jabal a-Shayk) 2,814 m |
+| **Taiwan** | *mean elevation:* 1,150 m |
+| | *elevation extremes:* lowest point: South China Sea 0 m |
+| | *highest point:* Yu Shan 3,952 m |
+| **Tajikistan** | *mean elevation:* 3,186 m |
+| | *elevation extremes:* lowest point: Syr Darya (Sirdaryo) 300 m |
+| | *highest point:* Qullai Ismoili Somoni 7,495 m |
+| **Tanzania** | *mean elevation:* 1,018 m |
+| | *elevation extremes:* lowest point: Indian Ocean 0 m |
+| | *highest point:* Kilimanjaro 5,895 m (highest point in Africa) |
+| **Thailand** | *mean elevation:* 287 m |
+| | *elevation extremes:* lowest point: Gulf of Thailand 0 m |
+| | *highest point:* Doi Inthanon 2,565 m |
+| **Timor-Leste** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Timor Sea, Savu Sea, and Banda Sea 0 m |
+| | *highest point:* Foho Tatamailau 2,963 m |
+| **Togo** | *mean elevation:* 236 m |
+| | *elevation extremes:* lowest point: Atlantic Ocean 0 m |
+| | *highest point:* Mont Agou 986 m |
+| **Tokelau** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Pacific Ocean 0 m |
+| | *highest point:* unnamed location 5 m |
+| **Tonga** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Pacific Ocean 0 m |
+| | *highest point:* Kao Volcano on Kao Island 1,046 m |
+| **Trinidad and Tobago** | *mean elevation:* 83 m |
+| | *elevation extremes:* lowest point: Caribbean Sea 0 m |
+| | *highest point:* El Cerro del Aripo 940 m |
+| **Tunisia** | *mean elevation:* 246 m |
+| | *elevation extremes:* lowest point: Shatt al Gharsah -17 m |
+| | *highest point:* Jebel ech Chambi 1,544 m |
+| **Turkey** | *mean elevation:* 1,132 m |
+| | *elevation extremes:* lowest point: Mediterranean Sea 0 m |
+| | *highest point:* Mount Ararat 5,137 m |
+| **Turkmenistan** | *mean elevation:* 230 m |
+| | *elevation extremes:* lowest point: Vpadina Akchanaya -81 m (Sarygamysh Koli is a lake in northern Turkmenistan with a water level that fluctuates above and below the elevation of Vpadina Akchanaya, the lake has dropped as low as -110 m) |
+| | *highest point:* Gora Ayribaba 3,139 m |
+| **Turks and Caicos Islands** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Caribbean Sea 0 m |
+| | *highest point:* Blue Hill on Providenciales and Flamingo Hill on East Caicos 48 m |
+| **Tuvalu** | *mean elevation:* 2 m |
+| | *elevation extremes:* lowest point: Pacific Ocean 0 m |
+| | *highest point:* unnamed location 5 m |
+| **Uganda** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Albert Nile 614 m |
+| | *highest point:* Margherita Peak on Mount Stanley 5,110 m |
+| **Ukraine** | *mean elevation:* 175 m |
+| | *elevation extremes:* lowest point: Black Sea 0 m |
+| | *highest point:* Hora Hoverla 2,061 m |
+| **United Arab Emirates** | *mean elevation:* 149 m |
+| | *elevation extremes:* lowest point: Persian Gulf 0 m |
+| | *highest point:* Jabal Yibir 1,527 m |
+| **United Kingdom** | *mean elevation:* 162 m |
+| | *elevation extremes:* lowest point: The Fens -4 m |
+| | *highest point:* Ben Nevis 1,343 m |
+| **United States Pacific Island Wildlife Refuges** | *elevation extremes:* lowest point: Pacific Ocean 0 m |
+| | *highest point:* Baker Island, unnamed location - 8 m; Howland Island, unnamed location - 3 m; Jarvis Island, unnamed location - 7 m; Johnston Atoll, Sand Island - 10 m; Kingman Reef, unnamed location - less than 2 m; Midway Islands, unnamed location - 13 m; Palmyra Atoll, unnamed location - 3 m |
+| **United States** | *mean elevation:* 760 m |
+| | *elevation extremes:* lowest point: Death Valley -86 m (lowest point in North America) |
+| | *highest point:* Denali (Mount McKinley) 6,190 m (highest point in North America) |
+| | *note:* the peak of Mauna Kea (4,205 m above sea level) on the island of Hawaii rises about 10,200 m above the Pacific Ocean floor; by this measurement, it is the world's tallest mountain - higher than Mount Everest (8,850 m), which is recognized as the tallest mountain above sea level |
+| **Uruguay** | *mean elevation:* 109 m |
+| | *elevation extremes:* lowest point: Atlantic Ocean 0 m |
+| | *highest point:* Cerro Catedral 514 m |
+| **Uzbekistan** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Sariqamish Kuli -12 m |
+| | *highest point:* Adelunga Toghi 4,301 m |
+| **Vanuatu** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Pacific Ocean 0 m |
+| | *highest point:* Tabwemasana 1,877 m |
+| **Venezuela** | *mean elevation:* 450 m |
+| | *elevation extremes:* lowest point: Caribbean Sea 0 m |
+| | *highest point:* Pico Bolivar 4,978 m |
+| **Vietnam** | *mean elevation:* 398 m |
+| | *elevation extremes:* lowest point: South China Sea 0 m |
+| | *highest point:* Fan Si Pan 3,144 m |
+| **Virgin Islands** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Caribbean Sea 0 m |
+| | *highest point:* Crown Mountain 474 m |
+| **Wake Island** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Pacific Ocean 0 m |
+| | *highest point:* unnamed location 8 m |
+| **Wallis and Futuna** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Pacific Ocean 0 m |
+| | *highest point:* Mont Singavi (on Futuna) 522 m |
+| **West Bank** | *mean elevation:* NA |
+| | *elevation extremes:* lowest point: Dead Sea -408 m |
+| | *highest point:* Nabi Yunis 1,020 m |
+| **Western Sahara** | *mean elevation:* 256 m |
+| | *elevation extremes:* lowest point: Sebjet Tah -55 m |
+| | *highest point:* unnamed elevation 805 m |
+| **World** | *mean elevation:* 840 m |
+| | *elevation extremes:* lowest point: Bentley Subglacial Trench (Antarctica) -2,555 m (in the oceanic realm, Challenger Deep in the Mariana Trench is the lowest point, lying -10,924 m below the surface of the Pacific Ocean) |
+| | *highest point:* Mount Everest 8,850 m |
+| | *top ten highest mountains (measured from sea level):* Mount Everest (China-Nepal) 8,850 m; K2 (Pakistan) 8,611 m; Kanchenjunga (India-Nepal) 8,598 m; Lhotse (Nepal) 8,516 m; Makalu (China-Nepal) 8,463 m; Cho Oyu (China-Nepal) 8,201 m; Dhaulagiri (Nepal) 8,167 m; Manaslu (Nepal) 8,163 m; Nanga Parbat (Pakistan) 8,125 m; Anapurna (Nepal) 8,091 m |
+| | *note:* Mauna Kea (United States) is the world's tallest mountain as measured from base to summit; the peak of this volcanic colossus lies on the island of Hawaii, but its base begins more than 70 km offshore and at a depth of about 6,000 m; total height estimates range from 9,966 m to 10,203 m |
+| | *highest point on each continent:* Asia - Mount Everest (China-Nepal) 8,850 m; South America - Cerro Aconcagua (Argentina) 6,960 m; North America - Denali (Mount McKinley) (United States) 6,190 m; Africa - Kilimanjaro (Tanzania) 5,895 m; Europe - El'brus (Russia) 5,633 m; Antarctica - Vinson Massif 4,897 m; Australia - Mount Kosciuszko 2,229 m |
+| | *lowest point on each continent:* Antarctica - Bentley Subglacial Trench -2,555 m; Asia - Dead Sea (Israel-Jordan) -408 m; Africa - Lac Assal (Djibouti) -155 m; South America - Laguna del Carbon (Argentina) -105 m; North America - Death Valley (United States) -86 m; Europe - Caspian Sea (Azerbaijan-Kazakhstan-Russia) -28 m; Australia - Lake Eyre -15 m |
+| **Yemen** | *mean elevation:* 999 m |
+| | *elevation extremes:* lowest point: Arabian Sea 0 m |
+| | *highest point:* Jabal an Nabi Shu'ayb 3,666 m |
+| **Zambia** | *mean elevation:* 1,138 m |
+| | *elevation extremes:* lowest point: Zambezi river 329 m |
+| | *highest point:* unnamed elevation in Mafinga Hills 2,301 m |
+| **Zimbabwe** | *mean elevation:* 961 m |
+| | *elevation extremes:* lowest point: junction of the Runde and Save Rivers 162 m |
+| | *highest point:* Inyangani 2,592 m |

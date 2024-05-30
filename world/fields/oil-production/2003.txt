@@ -1,0 +1,219 @@
+CIA - The World Factbook -- Field Listing - Oil - production
+
+| Country | Oil - production (bbl/day) |
+| --- | --- |
+| **Afghanistan** | 0 bbl/day (2001 est.) |
+| **Albania** | 5,952 bbl/day (2001 est.) |
+| **Algeria** | 1.52 million bbl/day (2001 est.) |
+| **American Samoa** | 0 bbl/day (2001 est.) |
+| **Angola** | 742,400 bbl/day (2001 est.) |
+| **Antigua and Barbuda** | 0 bbl/day (2001 est.) |
+| **Argentina** | 828,600 bbl/day (2001 est.) |
+| **Armenia** | 0 bbl/day (2001 est.) |
+| **Aruba** | 0 bbl/day (2001 est.) |
+| **Australia** | 731,000 bbl/day (2001 est.) |
+| **Austria** | 20,670 bbl/day (2001 est.) |
+| **Azerbaijan** | 307,200 bbl/day (2001 est.) |
+| **Bahamas, The** | 0 bbl/day (2001 est.) |
+| **Bahrain** | 43,000 bbl/day (2001 est.) |
+| **Bangladesh** | 3,581 bbl/day (2001 est.) |
+| **Barbados** | 1,271 bbl/day (2001 est.) |
+| **Belarus** | 37,000 bbl/day (2001 est.) |
+| **Belgium** | 0 bbl/day (2001 est.) |
+| **Belize** | 0 bbl/day (2001 est.) |
+| **Benin** | 700 bbl/day (2001 est.) |
+| **Bermuda** | 0 bbl/day (2001 est.) |
+| **Bhutan** | 0 bbl/day (2001 est.) |
+| **Bolivia** | 44,340 bbl/day (2001 est.) |
+| **Bosnia and Herzegovina** | 0 bbl/day (2001 est.) |
+| **Botswana** | 0 bbl/day (2001 est.) |
+| **Brazil** | 1.561 million bbl/day (2001 est.) |
+| **British Virgin Islands** | 0 bbl/day (2001 est.) |
+| **Brunei** | 217,200 bbl/day (2001 est.) |
+| **Bulgaria** | 603 bbl/day (2001 est.) |
+| **Burkina Faso** | 0 bbl/day (2001 est.) |
+| **Burma** | 14,170 bbl/day (2001 est.) |
+| **Burundi** | 0 bbl/day (2001 est.) |
+| **Cambodia** | 0 bbl/day (2001 est.) |
+| **Cameroon** | 76,650 bbl/day (2001 est.) |
+| **Canada** | 2.738 million bbl/day (2001 est.) |
+| **Cape Verde** | 0 bbl/day (2001 est.) |
+| **Cayman Islands** | 0 bbl/day (2001 est.) |
+| **Central African Republic** | 0 bbl/day (2001 est.) |
+| **Chad** | 0 bbl/day (2001 est.) |
+| **Chile** | 13,640 bbl/day (2001 est.) |
+| **China** | 3.3 million bbl/day (2001 est.) |
+| **Colombia** | 614,400 bbl/day (2001 est.) |
+| **Comoros** | 0 bbl/day (2001 est.) |
+| **Congo, Democratic Republic of the** | 24,000 bbl/day (2001 est.) |
+| **Congo, Republic of the** | 275,000 bbl/day (2001 est.) |
+| **Cook Islands** | 0 bbl/day (2001 est.) |
+| **Costa Rica** | 0 bbl/day (2001 est.) |
+| **Cote d'Ivoire** | 11,000 bbl/day (2001 est.) |
+| **Croatia** | 29,000 bbl/day (2001 est.) |
+| **Cuba** | 50,000 bbl/day (2001 est.) |
+| **Cyprus** | 0 bbl/day (2001 est.) |
+| **Czech Republic** | 7,419 bbl/day (2001 est.) |
+| **Denmark** | 346,200 bbl/day (2001 est.) |
+| **Djibouti** | 0 bbl/day (2001 est.) |
+| **Dominica** | 0 bbl/day (2001 est.) |
+| **Dominican Republic** | 0 bbl/day (2001 est.) |
+| **Ecuador** | 421,200 bbl/day (2001 est.) |
+| **Egypt** | 816,900 bbl/day (2001 est.) |
+| **El Salvador** | 0 bbl/day (2001 est.) |
+| **Equatorial Guinea** | 181,400 bbl/day (2001 est.) |
+| **Eritrea** | 0 bbl/day (2001 est.) |
+| **Estonia** | 5,100 bbl/day (2001 est.) |
+| **Ethiopia** | 0 bbl/day (2001 est.) |
+| **Falkland Islands (Islas Malvinas)** | 0 bbl/day (2001 est.) |
+| **Faroe Islands** | 0 bbl/day (2001 est.) |
+| **Fiji** | 0 bbl/day (2001 est.) |
+| **Finland** | 0 bbl/day (2001 est.) |
+| **France** | 34,920 bbl/day (2001 est.) |
+| **French Guiana** | 0 bbl/day (2001 est.) |
+| **French Polynesia** | 0 bbl/day (2001 est.) |
+| **Gabon** | 301,300 bbl/day (2001 est.) |
+| **Gambia, The** | 0 bbl/day (2001 est.) |
+| **Georgia** | 2,000 bbl/day (2001 est.) |
+| **Germany** | 85,860 bbl/day (2001 est.) |
+| **Ghana** | 7,000 bbl/day (2001 est.) |
+| **Gibraltar** | 0 bbl/day (2001 est.) |
+| **Greece** | 5,992 bbl/day (2001 est.) |
+| **Greenland** | 0 bbl/day (2001 est.) |
+| **Grenada** | 0 bbl/day (2001 est.) |
+| **Guadeloupe** | 0 bbl/day (2001 est.) |
+| **Guam** | 0 bbl/day (2001 est.) |
+| **Guatemala** | 21,080 bbl/day (2001 est.) |
+| **Guinea** | 0 bbl/day (2001 est.) |
+| **Guinea-Bissau** | 0 bbl/day (2001 est.) |
+| **Guyana** | 0 bbl/day (2001 est.) |
+| **Haiti** | 0 bbl/day (2001 est.) |
+| **Honduras** | 0 bbl/day (2001 est.) |
+| **Hong Kong** | 0 bbl/day (2001 est.) |
+| **Hungary** | 41,190 bbl/day (2001 est.) |
+| **Iceland** | 0 bbl/day (2001 est.) |
+| **India** | 732,400 bbl/day (2001 est.) |
+| **Indonesia** | 1.451 million bbl/day (2001 est.) |
+| **Iran** | 3.804 million bbl/day (2001 est.) |
+| **Iraq** | 2.452 million bbl/day (2001 est.); note - production was disrupted as a result of the March-April 2003 war (2001 est.) |
+| **Ireland** | 0 bbl/day (2001 est.) |
+| **Israel** | 80 bbl/day NA bbl/day (2001 est.) |
+| **Italy** | 79,460 bbl/day (2001 est.) |
+| **Jamaica** | 0 bbl/day (2001 est.) |
+| **Japan** | 17,330 bbl/day (2001 est.) |
+| **Jordan** | 40 bbl/day NA bbl/day (2001 est.) |
+| **Kazakhstan** | 798,200 bbl/day (2001 est.) |
+| **Kenya** | 0 bbl/day (2001 est.) |
+| **Kiribati** | 0 bbl/day (2001 est.) |
+| **Korea, North** | 0 bbl/day (2001 est.) |
+| **Korea, South** | 0 bbl/day (2001 est.) |
+| **Kuwait** | 2.117 million bbl/day (2001 est.) |
+| **Kyrgyzstan** | 2,000 bbl/day (2001 est.) |
+| **Laos** | 0 bbl/day (2001 est.) |
+| **Latvia** | 0 bbl/day (2001 est.) |
+| **Lebanon** | 0 bbl/day (2001 est.) |
+| **Lesotho** | 0 bbl/day (2001 est.) |
+| **Liberia** | 0 bbl/day (2001 est.) |
+| **Libya** | 1.429 million bbl/day (2001 est.) |
+| **Lithuania** | 4,594 bbl/day (2001 est.) |
+| **Luxembourg** | 0 bbl/day (2001 est.) |
+| **Macau** | 0 bbl/day (2001 est.) |
+| **Macedonia, The Former Yugoslav Republic of** | 0 bbl/day (2001 est.) |
+| **Madagascar** | 0 bbl/day (2001 est.) |
+| **Malawi** | 0 bbl/day (2001 est.) |
+| **Malaysia** | 729,200 bbl/day (2001 est.) |
+| **Maldives** | 0 bbl/day (2001 est.) |
+| **Mali** | 0 bbl/day (2001 est.) |
+| **Malta** | 0 bbl/day (2001 est.) |
+| **Martinique** | 0 bbl/day (2001 est.) |
+| **Mauritania** | 0 bbl/day (2001 est.) |
+| **Mauritius** | 0 bbl/day (2001 est.) |
+| **Mexico** | 3.59 million bbl/day (2001 est.) |
+| **Moldova** | 0 bbl/day (2001 est.) |
+| **Mongolia** | 0 bbl/day (2001 est.) |
+| **Montserrat** | 0 bbl/day (2001 est.) |
+| **Morocco** | 400 bbl/day (2001 est.) |
+| **Mozambique** | 0 bbl/day (2001 est.) |
+| **Namibia** | 0 bbl/day (2001 est.) |
+| **Nauru** | 0 bbl/day (2001 est.) |
+| **Nepal** | 0 bbl/day (2001 est.) |
+| **Netherlands** | 46,200 bbl/day (2001 est.) |
+| **Netherlands Antilles** | 0 bbl/day (2001 est.) |
+| **New Caledonia** | 0 bbl/day (2001 est.) |
+| **New Zealand** | 42,160 bbl/day (2001 est.) |
+| **Nicaragua** | 0 bbl/day (2001 est.) |
+| **Niger** | 0 bbl/day (2001 est.) |
+| **Nigeria** | 2.256 million bbl/day (2001 est.) |
+| **Niue** | 0 bbl/day (2001 est.) |
+| **Norway** | 3.408 million bbl/day (2001 est.) |
+| **Oman** | 963,800 bbl/day (2001 est.) |
+| **Pakistan** | 62,870 bbl/day (2001 est.) |
+| **Panama** | 0 bbl/day (2001 est.) |
+| **Papua New Guinea** | 67,500 bbl/day (2001 est.) |
+| **Paraguay** | 0 bbl/day (2001 est.) |
+| **Peru** | 95,100 bbl/day (2001 est.) |
+| **Philippines** | 8,460 bbl/day (2001 est.) |
+| **Poland** | 17,180 bbl/day (2001 est.) |
+| **Portugal** | 0 bbl/day (2001 est.) |
+| **Puerto Rico** | 0 bbl/day (2001 est.) |
+| **Qatar** | 864,200 bbl/day (2001 est.) |
+| **Reunion** | 0 bbl/day (2001 est.) |
+| **Romania** | 127,500 bbl/day (2001 est.) |
+| **Russia** | 7.286 million bbl/day (2001 est.) |
+| **Rwanda** | 0 bbl/day (2001 est.) |
+| **Saint Helena** | 0 bbl/day (2001 est.) |
+| **Saint Kitts and Nevis** | 0 bbl/day (2001 est.) |
+| **Saint Lucia** | 0 bbl/day (2001 est.) |
+| **Saint Pierre and Miquelon** | 0 bbl/day (2001 est.) |
+| **Saint Vincent and the Grenadines** | 0 bbl/day (2001 est.) |
+| **Samoa** | 0 bbl/day (2001 est.) |
+| **Sao Tome and Principe** | 0 bbl/day (2001 est.) |
+| **Saudi Arabia** | 8.711 million bbl/day (2001 est.) |
+| **Senegal** | 0 bbl/day (2001 est.) |
+| **Serbia and Montenegro** | 15,000 bbl/day (2001 est.) |
+| **Seychelles** | 0 bbl/day (2001 est.) |
+| **Sierra Leone** | 0 bbl/day (2001 est.) |
+| **Singapore** | 0 bbl/day (2001 est.) |
+| **Slovakia** | 1,000 bbl/day (2001 est.) |
+| **Slovenia** | 20 bbl/day NA bbl/day (2001 est.) |
+| **Solomon Islands** | 0 bbl/day (2001 est.) |
+| **Somalia** | 0 bbl/day (2001 est.) |
+| **South Africa** | 196,200 bbl/day (2001 est.) |
+| **Spain** | 7,099 bbl/day (2001 est.) |
+| **Sri Lanka** | 0 bbl/day (2001 est.) |
+| **Sudan** | 209,100 bbl/day (2001 est.) |
+| **Suriname** | 10,000 bbl/day (2001 est.) |
+| **Swaziland** | 0 bbl/day (2001 est.) |
+| **Sweden** | 0 bbl/day (2001 est.) |
+| **Switzerland** | 0 bbl/day (2001 est.) |
+| **Syria** | 522,700 bbl/day (2001 est.) |
+| **Taiwan** | 1,100 bbl/day (2001 est.) |
+| **Tajikistan** | 250 bbl/day (2001 est.) |
+| **Tanzania** | 0 bbl/day (2001 est.) |
+| **Thailand** | 173,800 bbl/day (2001 est.) |
+| **Togo** | 0 bbl/day (2001 est.) |
+| **Tonga** | 0 bbl/day (2001 est.) |
+| **Trinidad and Tobago** | 125,400 bbl/day (2001 est.) |
+| **Tunisia** | 72,580 bbl/day (2001 est.) |
+| **Turkey** | 48,000 bbl/day (2001 est.) |
+| **Turkmenistan** | 162,500 bbl/day (2001 est.) |
+| **Turks and Caicos Islands** | 0 bbl/day NA (2001 est.) |
+| **Uganda** | 0 bbl/day (2001 est.) |
+| **Ukraine** | 86,490 bbl/day (2001 est.) |
+| **United Arab Emirates** | 2.566 million bbl/day (2001 est.) |
+| **United Kingdom** | 2.541 million bbl/day (2001 est.) |
+| **United States** | 8.054 million bbl/day (2001 est.) |
+| **Uruguay** | 0 bbl/day (2001 est.) |
+| **Uzbekistan** | 142,700 bbl/day (2001 est.) |
+| **Vanuatu** | 0 bbl/day (2001 est.) |
+| **Venezuela** | 3.08 million bbl/day (2001 est.) |
+| **Vietnam** | 356,700 bbl/day (2001 est.) |
+| **Virgin Islands** | 0 bbl/day (2001 est.) |
+| **Western Sahara** | 0 bbl/day (2001 est.) |
+| **World** | 75.46 million bbl/day (2001 est.) |
+| **Yemen** | 438,500 bbl/day (2001 est.) |
+| **Zambia** | 0 bbl/day (2001 est.) |
+| **Zimbabwe** | 0 bbl/day (2001 est.) |
+
+This page was last updated on 18 December, 2003
+ 

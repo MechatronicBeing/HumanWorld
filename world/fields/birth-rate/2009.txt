@@ -1,0 +1,240 @@
+CIA - The World Factbook -- Field Listing :: Birth rate   
+
+This entry gives the average annual number of births during a year per 1,000 persons in the population at midyear; also known as crude birth rate. The birth rate is usually the dominant factor in determining the rate of population growth. It depends on both the level of fertility and the age structure of the population.
+
+| Country | Birth rate(births/1,000 population) |
+| --- | --- |
+| **Afghanistan** | 45.46 births/1,000 population (2009 est.) |
+| **Albania** | 15.29 births/1,000 population (2009 est.) |
+| **Algeria** | 16.9 births/1,000 population (2009 est.) |
+| **American Samoa** | 23.31 births/1,000 population (2009 est.) |
+| **Andorra** | 10.35 births/1,000 population (2009 est.) |
+| **Angola** | 43.69 births/1,000 population (2009 est.) |
+| **Anguilla** | 13.02 births/1,000 population (2009 est.) |
+| **Antigua and Barbuda** | 16.59 births/1,000 population (2009 est.) |
+| **Argentina** | 17.94 births/1,000 population (2009 est.) |
+| **Armenia** | 12.65 births/1,000 population (2009 est.) |
+| **Aruba** | 12.79 births/1,000 population (2009 est.) |
+| **Australia** | 12.47 births/1,000 population (2009 est.) |
+| **Austria** | 8.65 births/1,000 population (2009 est.) |
+| **Azerbaijan** | 17.62 births/1,000 population (2009 est.) |
+| **Bahamas, The** | 16.81 births/1,000 population (2009 est.) |
+| **Bahrain** | 17.02 births/1,000 population (2009 est.) |
+| **Bangladesh** | 24.68 births/1,000 population (2009 est.) |
+| **Barbados** | 12.55 births/1,000 population (2009 est.) |
+| **Belarus** | 9.71 births/1,000 population (2009 est.) |
+| **Belgium** | 10.15 births/1,000 population (2009 est.) |
+| **Belize** | 27.33 births/1,000 population (2009 est.) |
+| **Benin** | 39.22 births/1,000 population (2009 est.) |
+| **Bermuda** | 11.57 births/1,000 population (2009 est.) |
+| **Bhutan** | 20.07 births/1,000 population (2009 est.) |
+| **Bolivia** | 25.82 births/1,000 population (2009 est.) |
+| **Bosnia and Herzegovina** | 8.85 births/1,000 population (2009 est.) |
+| **Botswana** | 22.89 births/1,000 population (2009 est.) |
+| **Brazil** | 18.43 births/1,000 population (2009 est.) |
+| **British Virgin Islands** | 14.62 births/1,000 population (2009 est.) |
+| **Brunei** | 18.2 births/1,000 population (2009 est.) |
+| **Bulgaria** | 9.51 births/1,000 population (2009 est.) |
+| **Burkina Faso** | 44.33 births/1,000 population (2009 est.) |
+| **Burma** | 16.97 births/1,000 population (2009 est.) |
+| **Burundi** | 41.42 births/1,000 population (2009 est.) |
+| **Cambodia** | 25.73 births/1,000 population (2009 est.) |
+| **Cameroon** | 34.1 births/1,000 population (2009 est.) |
+| **Canada** | 10.28 births/1,000 population (2009 est.) |
+| **Cape Verde** | 23.5 births/1,000 population (2009 est.) |
+| **Cayman Islands** | 12.36 births/1,000 population (2009 est.) |
+| **Central African Republic** | 32.75 births/1,000 population (2009 est.) |
+| **Chad** | 40.86 births/1,000 population (2009 est.) |
+| **Chile** | 14.64 births/1,000 population (2009 est.) |
+| **China** | 14 births/1,000 population (2009 est.) |
+| **Christmas Island** | NA |
+| **Cocos (Keeling) Islands** | NA |
+| **Colombia** | 19.57 births/1,000 population (2009 est.) |
+| **Comoros** | 35.23 births/1,000 population (2009 est.) |
+| **Congo, Democratic Republic of the** | 42.63 births/1,000 population (2009 est.) |
+| **Congo, Republic of the** | 41.37 births/1,000 population (2009 est.) |
+| **Cook Islands** | 16.18 births/1,000 population (2009 est.) |
+| **Costa Rica** | 17.43 births/1,000 population (2009 est.) |
+| **Cote d'Ivoire** | 32.11 births/1,000 population (2009 est.) |
+| **Croatia** | 9.64 births/1,000 population (2009 est.) |
+| **Cuba** | 11.13 births/1,000 population (2009 est.) |
+| **Cyprus** | 12.57 births/1,000 population (2009 est.) |
+| **Czech Republic** | 8.83 births/1,000 population (2009 est.) |
+| **Denmark** | 10.54 births/1,000 population (2009 est.) |
+| **Djibouti** | 38.13 births/1,000 population (2009 est.) |
+| **Dominica** | 15.73 births/1,000 population (2009 est.) |
+| **Dominican Republic** | 22.39 births/1,000 population (2009 est.) |
+| **Ecuador** | 20.77 births/1,000 population (2009 est.) |
+| **Egypt** | 21.7 births/1,000 population (2009 est.) |
+| **El Salvador** | 25.31 births/1,000 population (2009 est.) |
+| **Equatorial Guinea** | 36.52 births/1,000 population (2009 est.) |
+| **Eritrea** | 34.2 births/1,000 population (2009 est.) |
+| **Estonia** | 10.37 births/1,000 population (2009 est.) |
+| **Ethiopia** | 43.66 births/1,000 population (2009 est.) |
+| **European Union** | 9.9 births/1,000 population (2009 est.) |
+| **Falkland Islands (Islas Malvinas)** | NA |
+| **Faroe Islands** | 13.04 births/1,000 population (2009 est.) |
+| **Fiji** | 21.92 births/1,000 population (2009 est.) |
+| **Finland** | 10.38 births/1,000 population (2009 est.) |
+| **France** | 12.57 births/1,000 population (2009 est.) |
+| **French Polynesia** | 15.91 births/1,000 population (2009 est.) |
+| **Gabon** | 35.57 births/1,000 population (2009 est.) |
+| **Gambia, The** | 37.87 births/1,000 population (2009 est.) |
+| **Gaza Strip** | 36.93 births/1,000 population (2009 est.) |
+| **Georgia** | 10.66 births/1,000 population (2009 est.) |
+| **Germany** | 8.18 births/1,000 population (2009 est.) |
+| **Ghana** | 28.58 births/1,000 population (2009 est.) |
+| **Gibraltar** | 10.67 births/1,000 population (2009 est.) |
+| **Greece** | 9.45 births/1,000 population (2009 est.) |
+| **Greenland** | 14.76 births/1,000 population (2009 est.) |
+| **Grenada** | 21.32 births/1,000 population (2009 est.) |
+| **Guam** | 18.22 births/1,000 population (2009 est.) |
+| **Guatemala** | 27.98 births/1,000 population (2009 est.) |
+| **Guernsey** | 8.46 births/1,000 population (2009 est.) |
+| **Guinea** | 37.52 births/1,000 population (2009 est.) |
+| **Guinea-Bissau** | 35.97 births/1,000 population (2009 est.) |
+| **Guyana** | 17.56 births/1,000 population (2009 est.) |
+| **Haiti** | 29.1 births/1,000 population (2009 est.) |
+| **Honduras** | 26.27 births/1,000 population (2009 est.) |
+| **Hong Kong** | 7.42 births/1,000 population (2009 est.) |
+| **Hungary** | 9.51 births/1,000 population (2009 est.) |
+| **Iceland** | 13.43 births/1,000 population (2009 est.) |
+| **India** | 21.76 births/1,000 population (2009 est.) |
+| **Indonesia** | 18.84 births/1,000 population (2009 est.) |
+| **Iran** | 17.17 births/1,000 population (2009 est.) |
+| **Iraq** | 30.1 births/1,000 population (2009 est.) |
+| **Ireland** | 14.23 births/1,000 population (2009 est.) |
+| **Isle of Man** | 10.77 births/1,000 population (2009 est.) |
+| **Israel** | 19.77 births/1,000 population (2009 est.) |
+| **Italy** | 8.18 births/1,000 population (2009 est.) |
+| **Jamaica** | 19.68 births/1,000 population (2009 est.) |
+| **Japan** | 7.64 births/1,000 population (2009 est.) |
+| **Jersey** | 8.63 births/1,000 population (2009 est.) |
+| **Jordan** | 19.55 births/1,000 population (2009 est.) |
+| **Kazakhstan** | 16.6 births/1,000 population (2009 est.) |
+| **Kenya** | 36.64 births/1,000 population (2009 est.) |
+| **Kiribati** | 30.2 births/1,000 population (2009 est.) |
+| **Korea, North** | 14.82 births/1,000 population (2009 est.) |
+| **Korea, South** | 8.93 births/1,000 population (2009 est.) |
+| **Kuwait** | 21.81 births/1,000 population (2009 est.) |
+| **Kyrgyzstan** | 23.44 births/1,000 population (2009 est.) |
+| **Laos** | 33.94 births/1,000 population (2009 est.) |
+| **Latvia** | 9.78 births/1,000 population (2009 est.) |
+| **Lebanon** | 17.1 births/1,000 population (2009 est.) |
+| **Lesotho** | 24.14 births/1,000 population (2009 est.) |
+| **Liberia** | 42.25 births/1,000 population (2009 est.) |
+| **Libya** | 25.15 births/1,000 population (2009 est.) |
+| **Liechtenstein** | 9.75 births/1,000 population (2009 est.) |
+| **Lithuania** | 9.11 births/1,000 population (2009 est.) |
+| **Luxembourg** | 11.73 births/1,000 population (2009 est.) |
+| **Macau** | 8.88 births/1,000 population (2009 est.) |
+| **Macedonia** | 11.97 births/1,000 population (2009 est.) |
+| **Madagascar** | 38.14 births/1,000 population (2009 est.) |
+| **Malawi** | 41.48 births/1,000 population (2009 est.) |
+| **Malaysia** | 22.24 births/1,000 population (2009 est.) |
+| **Maldives** | 14.55 births/1,000 population (2009 est.) |
+| **Mali** | 49.15 births/1,000 population (2009 est.) |
+| **Malta** | 10.36 births/1,000 population (2009 est.) |
+| **Marshall Islands** | 30.7 births/1,000 population (2009 est.) |
+| **Mauritania** | 34.11 births/1,000 population (2009 est.) |
+| **Mauritius** | 14.41 births/1,000 population (2009 est.) |
+| **Mayotte** | 39.26 births/1,000 population (2009 est.) |
+| **Mexico** | 19.71 births/1,000 population (2009 est.) |
+| **Micronesia, Federated States of** | 23.1 births/1,000 population (2009 est.) |
+| **Moldova** | 11.12 births/1,000 population (2009 est.) |
+| **Monaco** | 9.1 births/1,000 population (2009 est.) |
+| **Mongolia** | 21.05 births/1,000 population (2009 est.) |
+| **Montenegro** | 11.14 births/1,000 population (2009 est.) |
+| **Montserrat** | 12.36 births/1,000 population (2009 est.) |
+| **Morocco** | 20.96 births/1,000 population (2009 est.) |
+| **Mozambique** | 37.98 births/1,000 population (2009 est.) |
+| **Namibia** | 22.51 births/1,000 population (2009 est.) |
+| **Nauru** | 23.9 births/1,000 population (2009 est.) |
+| **Nepal** | 23.18 births/1,000 population (2009 est.) |
+| **Netherlands** | 10.4 births/1,000 population (2009 est.) |
+| **Netherlands Antilles** | 14.19 births/1,000 population (2009 est.) |
+| **New Caledonia** | 17.04 births/1,000 population (2009 est.) |
+| **New Zealand** | 13.94 births/1,000 population (2009 est.) |
+| **Nicaragua** | 23.25 births/1,000 population (2009 est.) |
+| **Niger** | 51.6 births/1,000 population (2009 est.) |
+| **Nigeria** | 36.65 births/1,000 population (2009 est.) |
+| **Niue** | NA |
+| **Norfolk Island** | NA |
+| **Northern Mariana Islands** | 18.77 births/1,000 population (2009 est.) |
+| **Norway** | 10.99 births/1,000 population (2009 est.) |
+| **Oman** | 34.79 births/1,000 population (2009 est.) |
+| **Pakistan** | 27.62 births/1,000 population (2009 est.) |
+| **Palau** | 11.2 births/1,000 population (2009 est.) |
+| **Panama** | 20.18 births/1,000 population (2009 est.) |
+| **Papua New Guinea** | 27.55 births/1,000 population (2009 est.) |
+| **Paraguay** | 28.17 births/1,000 population (2009 est.) |
+| **Peru** | 19.38 births/1,000 population (2009 est.) |
+| **Philippines** | 26.01 births/1,000 population (2009 est.) |
+| **Pitcairn Islands** | NA |
+| **Poland** | 10.04 births/1,000 population (2009 est.) |
+| **Portugal** | 10.29 births/1,000 population (2009 est.) |
+| **Puerto Rico** | 12.12 births/1,000 population (2009 est.) |
+| **Qatar** | 15.61 births/1,000 population (2009 est.) |
+| **Romania** | 10.53 births/1,000 population (2009 est.) |
+| **Russia** | 11.1 births/1,000 population (2009 est.) |
+| **Rwanda** | 39.67 births/1,000 population (2009 est.) |
+| **Saint Helena** | 11.13 births/1,000 population (2009 est.) |
+| **Saint Kitts and Nevis** | 17.67 births/1,000 population (2009 est.) |
+| **Saint Lucia** | 15.1 births/1,000 population (2009 est.) |
+| **Saint Pierre and Miquelon** | 12.76 births/1,000 population (2009 est.) |
+| **Saint Vincent and the Grenadines** | 15.27 births/1,000 population (2009 est.) |
+| **Samoa** | 28.06 births/1,000 population (2009 est.) |
+| **San Marino** | 9.63 births/1,000 population (2009 est.) |
+| **Sao Tome and Principe** | 38.54 births/1,000 population (2009 est.) |
+| **Saudi Arabia** | 28.55 births/1,000 population (2009 est.) |
+| **Senegal** | 36.84 births/1,000 population (2009 est.) |
+| **Serbia** | 9.19 births/1,000 population (2009 est.) |
+| **Seychelles** | 15.87 births/1,000 population (2009 est.) |
+| **Sierra Leone** | 44.73 births/1,000 population (2009 est.) |
+| **Singapore** | 8.82 births/1,000 population (2009 est.) |
+| **Slovakia** | 10.6 births/1,000 population (2009 est.) |
+| **Slovenia** | 8.97 births/1,000 population (2009 est.) |
+| **Solomon Islands** | 27.69 births/1,000 population (2009 est.) |
+| **Somalia** | 43.7 births/1,000 population (2009 est.) |
+| **South Africa** | 19.93 births/1,000 population (2009 est.) |
+| **Spain** | 9.72 births/1,000 population (2009 est.) |
+| **Sri Lanka** | 16.26 births/1,000 population (2009 est.) |
+| **Sudan** | 33.74 births/1,000 population (2009 est.) |
+| **Suriname** | 16.8 births/1,000 population (2009 est.) |
+| **Svalbard** | NA |
+| **Swaziland** | 26.25 births/1,000 population (2009 est.) |
+| **Sweden** | 10.13 births/1,000 population (2009 est.) |
+| **Switzerland** | 9.59 births/1,000 population (2009 est.) |
+| **Syria** | 25.9 births/1,000 population (2009 est.) |
+| **Taiwan** | 8.99 births/1,000 population (2009 est.) |
+| **Tajikistan** | 26.9 births/1,000 population (2009 est.) |
+| **Tanzania** | 34.29 births/1,000 population (2009 est.) |
+| **Thailand** | 13.4 births/1,000 population (2009 est.) |
+| **Timor-Leste** | 26.25 births/1,000 population (2009 est.) |
+| **Togo** | 36.44 births/1,000 population (2009 est.) |
+| **Tokelau** | NA |
+| **Tonga** | 19.84 births/1,000 population (2009 est.) |
+| **Trinidad and Tobago** | 14.36 births/1,000 population (2009 est.) |
+| **Tunisia** | 15.42 births/1,000 population (2009 est.) |
+| **Turkey** | 18.66 births/1,000 population (2009 est.) |
+| **Turkmenistan** | 19.69 births/1,000 population (2009 est.) |
+| **Turks and Caicos Islands** | 20.79 births/1,000 population (2009 est.) |
+| **Tuvalu** | 23.11 births/1,000 population (2009 est.) |
+| **Uganda** | 47.84 births/1,000 population (2009 est.) |
+| **Ukraine** | 9.6 births/1,000 population (2009 est.) |
+| **United Arab Emirates** | 16.02 births/1,000 population (2009 est.) |
+| **United Kingdom** | 10.65 births/1,000 population (2009 est.) |
+| **United States** | 13.82 births/1,000 population (2009 est.) |
+| **Uruguay** | 13.91 births/1,000 population (2009 est.) |
+| **Uzbekistan** | 17.58 births/1,000 population (2009 est.) |
+| **Vanuatu** | 21.53 births/1,000 population (2009 est.) |
+| **Venezuela** | 20.61 births/1,000 population (2009 est.) |
+| **Vietnam** | 16.31 births/1,000 population (2009 est.) |
+| **Virgin Islands** | 11.95 births/1,000 population (2009 est.) |
+| **Wallis and Futuna** | NA |
+| **West Bank** | 25.44 births/1,000 population (2009 est.) |
+| **Western Sahara** | 39.54 births/1,000 population (2009 est.) |
+| **World** | 19.95 births/1,000 population (2009 est.) |
+| **Yemen** | 42.14 births/1,000 population (2009 est.) |
+| **Zambia** | 40.24 births/1,000 population (2009 est.) |
+| **Zimbabwe** | 31.49 births/1,000 population (2009 est.) |

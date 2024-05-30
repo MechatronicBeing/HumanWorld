@@ -1,0 +1,409 @@
+CIA - The World Factbook -- Field Listing :: Imports   
+
+This entry provides the total US dollar amount of merchandise imports on a c.i.f. (cost, insurance, and freight) or f.o.b. (free on board) basis. These figures are calculated on an exchange rate basis, i.e., not in purchasing power parity (PPP) terms.
+
+| Country | Imports |
+| --- | --- |
+| **Afghanistan** | $4.85 billion (2007) |
+| | $3.823 billion (2006) |
+| **Albania** | $4.898 billion (2008 est.) |
+| | $3.999 billion (2007 est.) |
+| **Algeria** | $39.16 billion (2008 est.) |
+| | $26.4 billion (2007 est.) |
+| **American Samoa** | $308.8 million (FY04 est.) |
+| **Andorra** | $1.789 billion (2007) |
+| | $1.879 billion (2005) |
+| **Angola** | $17.08 billion (2008 est.) |
+| | $13.66 billion (2007 est.) |
+| **Anguilla** | $143 million (2006) |
+| **Antigua and Barbuda** | $522.8 million (2007 est.) |
+| **Argentina** | $54.56 billion (2008 est.) |
+| | $42.53 billion (2007 est.) |
+| **Armenia** | $3.763 billion (2008 est.) |
+| | $2.797 billion (2007 est.) |
+| **Aruba** | $1.054 billion (2006) |
+| **Australia** | $194.2 billion (2008 est.) |
+| | $160.2 billion (2007 est.) |
+| **Austria** | $179.2 billion (2008 est.) |
+| | $160.3 billion (2007 est.) |
+| **Azerbaijan** | $7.575 billion (2008 est.) |
+| | $6.045 billion (2007 est.) |
+| **Bahamas, The** | $2.401 billion (2006) |
+| **Bahrain** | $14.25 billion (2008 est.) |
+| | $10.93 billion (2007 est.) |
+| **Bangladesh** | $21.51 billion (2008 est.) |
+| | $16.67 billion (2007 est.) |
+| **Barbados** | $1.586 billion (2006) |
+| **Belarus** | $39.16 billion (2008 est.) |
+| | $28.4 billion (2007 est.) |
+| **Belgium** | $387.7 billion (2008 est.) |
+| | $320.9 billion (2007 est.) |
+| **Belize** | $788.1 million (2008 est.) |
+| | $642 million (2007 est.) |
+| **Benin** | $1.843 billion (2008 est.) |
+| | $1.194 billion (2007 est.) |
+| **Bermuda** | $1.162 billion (2006) |
+| **Bhutan** | $320 million (2006) |
+| **Bolivia** | $4.641 billion (2008 est.) |
+| | $3.24 billion (2007 est.) |
+| **Bosnia and Herzegovina** | $12.29 billion (2008 est.) |
+| | $9.947 billion (2007 est.) |
+| **Botswana** | $4.486 billion (2008 est.) |
+| | $3.447 billion (2007 est.) |
+| **Brazil** | $173.1 billion (2008 est.) |
+| | $120.6 billion (2007 est.) |
+| **British Virgin Islands** | $187 million f.o.b. |
+| **Brunei** | $2.055 billion (2007 est.) |
+| | $2 billion (2006 est.) |
+| **Bulgaria** | $35.64 billion (2008 est.) |
+| | $28.65 billion (2007 est.) |
+| **Burkina Faso** | $1.343 billion (2008 est.) |
+| | $1.221 billion (2007 est.) |
+| **Burma** | $3.388 billion (2008 est.) |
+| | $2.964 billion (2007 est.) |
+| | *note:* import figures are grossly underestimated due to the value of consumer goods, diesel fuel, and other products smuggled in from Thailand, China, Malaysia, and India |
+| **Burundi** | $350 million (2008 est.) |
+| | $257.6 million (2007 est.) |
+| **Cambodia** | $6.534 billion (2008 est.) |
+| | $5.424 billion (2007 est.) |
+| **Cameroon** | $4.303 billion (2008 est.) |
+| | $4.05 billion (2007 est.) |
+| **Canada** | $415.2 billion (2008 est.) |
+| | $386.6 billion (2007 est.) |
+| **Cape Verde** | $864 million (2008 est.) |
+| | $743.6 million (2007 est.) |
+| **Cayman Islands** | $866.9 million (2004) |
+| **Central African Republic** | $237.3 million (2007 est.) |
+| **Chad** | $1.927 billion (2008 est.) |
+| | $1.541 billion (2007 est.) |
+| **Chile** | $57.61 billion (2008 est.) |
+| | $44.03 billion (2007 est.) |
+| **China** | $1.074 trillion (2008 est.) |
+| | $904.6 billion (2007 est.) |
+| **Christmas Island** | $NA |
+| **Cocos (Keeling) Islands** | $NA |
+| **Colombia** | $37.56 billion (2008 est.) |
+| | $31.17 billion (2007 est.) |
+| **Comoros** | $143 million (2006) |
+| **Congo, Democratic Republic of the** | $5.2 billion (2007) |
+| | $2.263 billion (2006) |
+| **Congo, Republic of the** | $3.105 billion (2008 est.) |
+| | $2.858 billion (2007 est.) |
+| **Cook Islands** | $81.04 million (2005) |
+| **Costa Rica** | $14.55 billion (2008 est.) |
+| | $12.29 billion (2007 est.) |
+| **Cote d'Ivoire** | $6.76 billion (2008 est.) |
+| | $5.932 billion (2007 est.) |
+| **Croatia** | $30.42 billion (2008 est.) |
+| | $25.56 billion (2007 est.) |
+| **Cuba** | $14.25 billion (2008 est.) |
+| | $10.08 billion (2007 est.) |
+| **Cyprus** | $10.54 billion (2008 est.) |
+| | $7.957 billion (2007 est.) |
+| **Czech Republic** | $139.4 billion (2008 est.) |
+| | $116.8 billion (2007 est.) |
+| **Denmark** | $116.4 billion (2008 est.) |
+| | $100.8 billion (2007 est.) |
+| **Djibouti** | $1.555 billion (2006) |
+| **Dominica** | $296 million (2006) |
+| **Dominican Republic** | $16.1 billion (2008 est.) |
+| | $13.6 billion (2007 est.) |
+| **Ecuador** | $17.79 billion (2008 est.) |
+| | $13.05 billion (2007 est.) |
+| **Egypt** | $56.62 billion (2008 est.) |
+| | $44.95 billion (2007 est.) |
+| **El Salvador** | $9.003 billion (2008 est.) |
+| | $8.108 billion (2007 est.) |
+| **Equatorial Guinea** | $3.114 billion (2008 est.) |
+| | $2.365 billion (2007 est.) |
+| **Eritrea** | $601 million (2008 est.) |
+| | $580 million (2007 est.) |
+| **Estonia** | $15.35 billion (2008 est.) |
+| | $14.75 billion (2007 est.) |
+| **Ethiopia** | $7.206 billion (2008 est.) |
+| | $5.156 billion (2007 est.) |
+| **European Union** | $1.69 trillion (2007) |
+| | $1.466 trillion (2005) |
+| | *note:* external imports, excluding intra-EU trade |
+| **Falkland Islands (Islas Malvinas)** | $90 million (2004 est.) |
+| **Faroe Islands** | $751 million (2006) |
+| **Fiji** | $3.12 billion (2006) |
+| **Finland** | $87.51 billion (2008 est.) |
+| | $78.22 billion (2007 est.) |
+| **France** | $692 billion (2008 est.) |
+| | $600.9 billion (2007 est.) |
+| **French Polynesia** | $1.706 billion (2005 est.) |
+| **Gabon** | $2.577 billion (2008 est.) |
+| | $2.2 billion (2007 est.) |
+| **Gambia, The** | $299 million (2008 est.) |
+| | $262.9 million (2007 est.) |
+| **Gaza Strip** | $2.84 billion (2006) |
+| | $2.44 billion (2005) |
+| **Georgia** | $6.261 billion (2008 est.) |
+| | $4.984 billion (2007 est.) |
+| **Germany** | $1.232 trillion (2008 est.) |
+| | $1.079 trillion (2007 est.) |
+| **Ghana** | $10.26 billion (2008 est.) |
+| | $8.066 billion (2007 est.) |
+| **Gibraltar** | $2.967 billion (2004 est.) |
+| **Greece** | $93.91 billion (2008 est.) |
+| | $80.79 billion (2007 est.) |
+| **Greenland** | $712 million (2006) |
+| **Grenada** | $343 million (2006) |
+| **Guam** | $701 million (2004 est.) |
+| **Guatemala** | $13.42 billion (2008 est.) |
+| | $12.48 billion (2007 est.) |
+| **Guernsey** | $NA |
+| **Guinea** | $1.389 billion (2008 est.) |
+| | $1.218 billion (2007 est.) |
+| **Guinea-Bissau** | $200 million (2006) |
+| **Guyana** | $1.294 billion (2008 est.) |
+| | $982.9 million (2007 est.) |
+| **Haiti** | $2.107 billion (2008 est.) |
+| | $1.618 billion (2007 est.) |
+| **Honduras** | $10.39 billion (2008 est.) |
+| | $8.82 billion (2007 est.) |
+| **Hong Kong** | $388.4 billion (2008 est.) |
+| | $365.6 billion (2007 est.) |
+| **Hungary** | $106.5 billion (2008 est.) |
+| | $93.4 billion (2007 est.) |
+| **Iceland** | $5.699 billion (2008 est.) |
+| | $6.181 billion (2007 est.) |
+| **India** | $315.1 billion (2008 est.) |
+| | $231.6 billion (2007 est.) |
+| **Indonesia** | $116 billion (2008 est.) |
+| | $85.26 billion (2007 est.) |
+| **Iran** | $67.25 billion (2008 est.) |
+| | $56.58 billion (2007 est.) |
+| **Iraq** | $37.22 billion (2008 est.) |
+| | $25.67 billion (2007 est.) |
+| **Ireland** | $84.82 billion (2008 est.) |
+| | $84.76 billion (2007 est.) |
+| **Isle of Man** | $NA |
+| **Israel** | $64.4 billion (2008 est.) |
+| | $55.93 billion (2007 est.) |
+| **Italy** | $546.9 billion (2008 est.) |
+| | $498.1 billion (2007 est.) |
+| **Jamaica** | $7.185 billion (2008 est.) |
+| | $5.789 billion (2007 est.) |
+| **Japan** | $708.3 billion (2008 est.) |
+| | $573.3 billion (2007 est.) |
+| **Jersey** | $NA |
+| **Jordan** | $14.99 billion (2008 est.) |
+| | $12.02 billion (2007 est.) |
+| **Kazakhstan** | $38.45 billion (2008 est.) |
+| | $33.26 billion (2007 est.) |
+| **Kenya** | $10.69 billion (2008 est.) |
+| | $8.381 billion (2007 est.) |
+| **Kiribati** | $62 million (2004 est.) |
+| **Korea, North** | $3.055 billion (2007) |
+| | $2.879 billion (2006) |
+| **Korea, South** | $427.4 billion (2008 est.) |
+| | $349.6 billion (2007 est.) |
+| **Kosovo** | $2.6 billion f.o.b. |
+| **Kuwait** | $22.94 billion (2008 est.) |
+| | $20.63 billion (2007 est.) |
+| **Kyrgyzstan** | $3.754 billion (2008 est.) |
+| | $2.636 billion (2007 est.) |
+| **Laos** | $1.384 billion (2008 est.) |
+| | $1.065 billion (2007 est.) |
+| **Latvia** | $15.65 billion (2008 est.) |
+| | $15.13 billion (2007 est.) |
+| **Lebanon** | $16.25 billion (2008 est.) |
+| | $11.93 billion (2007 est.) |
+| **Lesotho** | $1.88 billion (2008 est.) |
+| | $1.604 billion (2007 est.) |
+| **Liberia** | $7.143 billion (2006) |
+| **Libya** | $26.55 billion (2008 est.) |
+| | $17.7 billion (2007 est.) |
+| **Liechtenstein** | $917.3 million |
+| **Lithuania** | $29.3 billion (2008 est.) |
+| | $23.04 billion (2007 est.) |
+| **Luxembourg** | $27.73 billion (2008 est.) |
+| | $23.09 billion (2007 est.) |
+| **Macau** | $5.4 billion (2008 est.) |
+| | $4.559 billion (2006 est.) |
+| **Macedonia** | $6.523 billion (2008 est.) |
+| | $4.976 billion (2007 est.) |
+| **Madagascar** | $2.419 billion (2008 est.) |
+| | $1.944 billion (2007 est.) |
+| **Malawi** | $1.587 billion (2008 est.) |
+| | $1.323 billion (2007 est.) |
+| **Malaysia** | $154.7 billion (2008 est.) |
+| | $139.1 billion (2007 est.) |
+| **Maldives** | $1.276 billion (2008 est.) |
+| | $930 million (2006 est.) |
+| **Mali** | $2.358 billion (2006) |
+| **Malta** | $4.792 billion (2008 est.) |
+| | $4.655 billion (2007 est.) |
+| **Marshall Islands** | $79.4 million (2008 est.) |
+| | $54.7 million (2000 est.) |
+| **Mauritania** | $1.475 billion (2006) |
+| **Mauritius** | $4.399 billion (2008 est.) |
+| | $3.656 billion (2007 est.) |
+| **Mayotte** | $341 million (2005) |
+| **Mexico** | $308.6 billion (2008 est.) |
+| | $281.9 billion (2007 est.) |
+| **Micronesia, Federated States of** | $132.7 million (2004) |
+| **Moldova** | $4.87 billion (2008 est.) |
+| | $3.676 billion (2007 est.) |
+| **Monaco** | $916.1 million (2005) |
+| | *note:* full customs integration with France, which collects and rebates Monegasque trade duties; also participates in EU market system through customs union with France |
+| **Mongolia** | $3.615 billion (2008) |
+| | $2.117 billion (2007) |
+| **Montenegro** | $601.7 million (2003) |
+| **Montserrat** | $17 million |
+| **Morocco** | $39.35 billion (2008 est.) |
+| | $29.32 billion (2007 est.) |
+| **Mozambique** | $3.458 billion (2008 est.) |
+| | $2.811 billion (2007 est.) |
+| **Namibia** | $3.849 billion (2008 est.) |
+| | $3.102 billion (2007 est.) |
+| **Nauru** | $20 million (2004 est.) |
+| **Nepal** | $3.229 billion (2008) |
+| | $2.398 billion (2006) |
+| **Netherlands** | $474.8 billion (2008 est.) |
+| | $406.2 billion (2007 est.) |
+| **Netherlands Antilles** | $15.74 billion (2006) |
+| **New Caledonia** | $1.998 billion (2006) |
+| **New Zealand** | $32.76 billion (2008 est.) |
+| | $29.05 billion (2007 est.) |
+| **Nicaragua** | $4.848 billion (2008 est.) |
+| | $4.117 billion (2007 est.) |
+| **Niger** | $800 million (2006) |
+| **Nigeria** | $46.3 billion (2008 est.) |
+| | $38.8 billion (2007 est.) |
+| **Niue** | $9.038 million (2004) |
+| **Norfolk Island** | $17.9 million c.i.f. |
+| **Northern Mariana Islands** | $214.4 million (2001) |
+| **Norway** | $85.95 billion (2008 est.) |
+| | $77.03 billion (2007 est.) |
+| **Oman** | $20.71 billion (2008 est.) |
+| | $14.34 billion (2007 est.) |
+| **Pakistan** | $38.19 billion (2008 est.) |
+| | $28.76 billion (2007 est.) |
+| **Palau** | $107.3 million (2004 est.) |
+| **Panama** | $15 billion (2008 est.) |
+| | $12.52 billion (2007 est.) |
+| | *note:* includes the Colon Free Zone |
+| **Papua New Guinea** | $3.124 billion (2008 est.) |
+| | $2.629 billion (2007 est.) |
+| **Paraguay** | $8.809 billion (2008 est.) |
+| | $6.008 billion (2007 est.) |
+| **Peru** | $28.44 billion (2008 est.) |
+| | $19.6 billion (2007 est.) |
+| **Philippines** | $60.78 billion (2008 est.) |
+| | $57.9 billion (2007 est.) |
+| **Pitcairn Islands** | $NA |
+| **Poland** | $204.4 billion (2008 est.) |
+| | $162.4 billion (2007 est.) |
+| **Portugal** | $87.83 billion (2008 est.) |
+| | $75.98 billion (2007 est.) |
+| **Puerto Rico** | $29.1 billion c.i.f. |
+| **Qatar** | $25.11 billion (2008 est.) |
+| | $19.82 billion (2007 est.) |
+| **Romania** | $76.17 billion (2008 est.) |
+| | $64.54 billion (2007 est.) |
+| **Russia** | $291.9 billion (2008 est.) |
+| | $223.5 billion (2007 est.) |
+| **Rwanda** | $834 million (2008 est.) |
+| | $637 million (2007 est.) |
+| **Saint Helena** | $45 million (2004 est.) |
+| **Saint Kitts and Nevis** | $383 million (2006) |
+| **Saint Lucia** | $791 million (2006) |
+| **Saint Pierre and Miquelon** | $68.2 million (2005 est.) |
+| **Saint Vincent and the Grenadines** | $578 million (2006) |
+| **Samoa** | $324 million (2006) |
+| **San Marino** | $3.744 billion (2007) |
+| | $2.035 billion (2004) |
+| **Sao Tome and Principe** | $87 million (2008 est.) |
+| | $65 million (2007 est.) |
+| **Saudi Arabia** | $108.3 billion (2008 est.) |
+| | $82.6 billion (2007 est.) |
+| **Senegal** | $4.263 billion (2008 est.) |
+| | $3.732 billion (2007 est.) |
+| **Serbia** | $18.35 billion (2007 est.) |
+| **Seychelles** | $1.018 billion (2008 est.) |
+| | $804 million (2007 est.) |
+| **Sierra Leone** | $560 million (2006) |
+| **Singapore** | $309.6 billion (2008 est.) |
+| | $254 billion (2007 est.) |
+| **Slovakia** | $73.62 billion (2008 est.) |
+| | $65.47 billion (2007 est.) |
+| **Slovenia** | $33.49 billion (2008 est.) |
+| | $29.42 billion (2007 est.) |
+| **Solomon Islands** | $256 million (2006) |
+| **Somalia** | $798 million (2006) |
+| **South Africa** | $90.57 billion (2008 est.) |
+| | $81.66 billion (2007 est.) |
+| **Spain** | $415.5 billion (2008 est.) |
+| | $380.2 billion (2007 est.) |
+| **Sri Lanka** | $12.61 billion (2008 est.) |
+| | $10.17 billion (2007 est.) |
+| **Sudan** | $8.229 billion (2008 est.) |
+| | $7.722 billion (2007 est.) |
+| **Suriname** | $1.297 billion (2006 est.) |
+| **Svalbard** | $NA |
+| **Swaziland** | $1.855 billion (2008 est.) |
+| | $1.926 billion (2007 est.) |
+| **Sweden** | $167.8 billion (2008 est.) |
+| | $152.2 billion (2007 est.) |
+| **Switzerland** | $227.4 billion (2008 est.) |
+| | $187.7 billion (2007 est.) |
+| **Syria** | $15.97 billion (2008 est.) |
+| | $12.27 billion (2007 est.) |
+| **Taiwan** | $236.7 billion (2008 est.) |
+| | $216.1 billion (2007 est.) |
+| **Tajikistan** | $3.699 billion (2008 est.) |
+| | $3.115 billion (2007 est.) |
+| **Tanzania** | $7.08 billion (2008 est.) |
+| | $4.861 billion (2007 est.) |
+| **Thailand** | $157.3 billion (2008 est.) |
+| | $124.5 billion (2007 est.) |
+| **Timor-Leste** | $202 million (2004 est.) |
+| **Togo** | $1.541 billion (2008 est.) |
+| | $1.264 billion (2007 est.) |
+| **Tokelau** | $969,200 (2002) |
+| **Tonga** | $139 million (2006) |
+| **Trinidad and Tobago** | $9.788 billion (2008 est.) |
+| | $7.67 billion (2007 est.) |
+| **Tunisia** | $23.23 billion (2008 est.) |
+| | $18.02 billion (2007 est.) |
+| **Turkey** | $193.9 billion (2008 est.) |
+| | $162 billion (2007 est.) |
+| **Turkmenistan** | $5.654 billion (2008 est.) |
+| | $3.615 billion (2007 est.) |
+| **Turks and Caicos Islands** | $175.6 million |
+| **Tuvalu** | $12.91 million (2005) |
+| **Uganda** | $3.98 billion (2008 est.) |
+| | $2.983 billion (2007 est.) |
+| **Ukraine** | $83.81 billion (2008 est.) |
+| | $60.41 billion (2007 est.) |
+| **United Arab Emirates** | $176.3 billion (2008 est.) |
+| | $116.6 billion (2007 est.) |
+| **United Kingdom** | $639.3 billion (2008 est.) |
+| | $620.7 billion (2007 est.) |
+| **United States** | $2.117 trillion (2008 est.) |
+| | $1.968 trillion (2007 est.) |
+| **Uruguay** | $8.799 billion (2008 est.) |
+| | $5.598 billion (2007 est.) |
+| **Uzbekistan** | $7.07 billion (2008 est.) |
+| | $5.73 billion (2007 est.) |
+| **Vanuatu** | $156 million (2006) |
+| **Venezuela** | $48.1 billion (2008 est.) |
+| | $45.46 billion (2007 est.) |
+| **Vietnam** | $75.47 billion (2008 est.) |
+| | $58.92 billion (2007 est.) |
+| **Virgin Islands** | $4.609 billion (2001) |
+| **Wallis and Futuna** | $61.17 million (2004) |
+| **West Bank** | $1.3 billion (2006) |
+| | $2.44 billion (2005) |
+| **Western Sahara** | $NA |
+| **World** | $15.97 trillion (2008 est.) |
+| | $13.74 trillion (2007 est.) |
+| **Yemen** | $8.829 billion (2008 est.) |
+| | $7.49 billion (2007 est.) |
+| **Zambia** | $4.694 billion (2008 est.) |
+| | $3.611 billion (2007 est.) |
+| **Zimbabwe** | $1.915 billion (2008 est.) |
+| | $1.975 billion (2007 est.) |

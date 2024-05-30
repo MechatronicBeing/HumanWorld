@@ -1,0 +1,243 @@
+CIA - The World Factbook -- Field Listing - Population below poverty line
+
+| Country | Population below poverty line (%) |
+| --- | --- |
+| **Afghanistan** | NA% |
+| **Albania** | 30% (2001 est.) |
+| **Algeria** | 23% (1999 est.) |
+| **American Samoa** | NA% |
+| **Andorra** | NA% |
+| **Angola** | NA% |
+| **Anguilla** | NA% |
+| **Antigua and Barbuda** | NA% |
+| **Argentina** | 37% (2001 est.) |
+| **Armenia** | 50% (2002 est.) |
+| **Aruba** | NA% |
+| **Australia** | NA% |
+| **Austria** | NA% |
+| **Azerbaijan** | 49% (2002 est.) |
+| **Bahamas, The** | NA% |
+| **Bahrain** | NA% |
+| **Bangladesh** | 35.6% (FY 95/96 est.) |
+| **Barbados** | NA% |
+| **Belarus** | 22% (1995 est.) |
+| **Belgium** | 4% |
+| **Belize** | 33% (1999 est.) |
+| **Benin** | 37% (2001 est.) |
+| **Bermuda** | NA% |
+| **Bhutan** | NA% |
+| **Bolivia** | 70% (1999 est.) |
+| **Bosnia and Herzegovina** | NA% |
+| **Botswana** | 47% |
+| **Brazil** | 22% (1998 est.) |
+| **British Virgin Islands** | NA% |
+| **Brunei** | NA% |
+| **Bulgaria** | 12.6% (2001 est.) |
+| **Burkina Faso** | 45% (2001 est.) |
+| **Burma** | 25% (2000 est.) |
+| **Burundi** | 70% (2002 est.) |
+| **Cambodia** | 36% (1997 est.) |
+| **Cameroon** | 48% (2000 est.) |
+| **Canada** | NA% |
+| **Cape Verde** | 30% (2000) |
+| **Cayman Islands** | NA% |
+| **Central African Republic** | NA% |
+| **Chad** | 80% (2001 est.) |
+| **Chile** | 21% (1998 est.) |
+| **China** | 10% (2001 est.) |
+| **Christmas Island** | NA% |
+| **Cocos (Keeling) Islands** | NA% |
+| **Colombia** | 55% (2001) |
+| **Comoros** | 60% (2002 est.) |
+| **Congo, Democratic Republic of the** | NA% |
+| **Congo, Republic of the** | NA% |
+| **Cook Islands** | NA% |
+| **Costa Rica** | 20.6% (1999 est.) |
+| **Cote d'Ivoire** | 37% (1995) |
+| **Croatia** | NA% |
+| **Cuba** | NA% |
+| **Cyprus** | NA% |
+| **Czech Republic** | NA% |
+| **Denmark** | NA% |
+| **Djibouti** | 50% (2001 est.) |
+| **Dominica** | 30% (2002 est.) |
+| **Dominican Republic** | 25% |
+| **East Timor** | 42% (2002 est.) |
+| **Ecuador** | 70% (2001 est.) |
+| **Egypt** | 22.9% (FY 95/96 est.) |
+| **El Salvador** | 48% (1999 est.) |
+| **Equatorial Guinea** | NA% |
+| **Eritrea** | 53% (1993/94) |
+| **Estonia** | NA% (2000) |
+| **Ethiopia** | 45% (2002 est.) |
+| **Falkland Islands (Islas Malvinas)** | NA% |
+| **Faroe Islands** | NA% |
+| **Fiji** | 25.5% (1990-91) |
+| **Finland** | NA% |
+| **France** | 6.4% (1999) |
+| **French Guiana** | NA% |
+| **French Polynesia** | NA% |
+| **Gabon** | NA% |
+| **Gambia, The** | NA% |
+| **Gaza Strip** | 60% (2002 est.) |
+| **Georgia** | 54% (2001 est.) |
+| **Germany** | NA% |
+| **Ghana** | 31.4% (1992 est.) |
+| **Gibraltar** | NA% |
+| **Greece** | NA% |
+| **Greenland** | NA% |
+| **Grenada** | 32% (2000) |
+| **Guadeloupe** | NA% |
+| **Guam** | 23% (2001 est.) |
+| **Guatemala** | 75% (2002 est.) |
+| **Guernsey** | NA% |
+| **Guinea** | 40% (1994 est.) |
+| **Guinea-Bissau** | NA% |
+| **Guyana** | NA% |
+| **Haiti** | 80% (2002 est.) |
+| **Holy See (Vatican City)** | NA% |
+| **Honduras** | 53% (1993 est.) |
+| **Hong Kong** | NA% |
+| **Hungary** | 8.6% (1993 est.) |
+| **Iceland** | NA% |
+| **India** | 25% (2002 est.) |
+| **Indonesia** | 27% (1999) |
+| **Iran** | 40% (2002 est.) |
+| **Iraq** | NA |
+| **Ireland** | 10% (1997 est.) |
+| **Israel** | 18% (2001 est.) |
+| **Italy** | NA% |
+| **Jamaica** | 34.2% (1992 est.) |
+| **Japan** | NA% |
+| **Jersey** | NA% |
+| **Jordan** | 30% (2001 est.) |
+| **Kazakhstan** | 26% (2001 est.) |
+| **Kenya** | 50% (2000 est.) |
+| **Kiribati** | NA% |
+| **Korea, North** | NA% |
+| **Korea, South** | 4% (2001 est.) |
+| **Kuwait** | NA% |
+| **Kyrgyzstan** | 55% (2001 est.) |
+| **Laos** | 40% (2002 est.) |
+| **Latvia** | NA% |
+| **Lebanon** | 28% (1999 est.) |
+| **Lesotho** | 49% (1999) |
+| **Liberia** | 80% |
+| **Libya** | NA% |
+| **Liechtenstein** | NA% |
+| **Lithuania** | NA% |
+| **Luxembourg** | NA% |
+| **Macau** | NA% |
+| **Macedonia, The Former Yugoslav Republic of** | 24% (2001 est.) |
+| **Madagascar** | 71% (1999 est.) |
+| **Malawi** | 54% (FY 90/91 est.) |
+| **Malaysia** | 8% (1998 est.) |
+| **Maldives** | NA% |
+| **Mali** | 64% average; 30% of the total population living in urban areas; 70% of the total population living in rural areas) (2001 est.) |
+| **Malta** | NA% |
+| **Man, Isle of** | NA% |
+| **Marshall Islands** | NA% |
+| **Martinique** | NA% |
+| **Mauritania** | 50% (2001 est.) |
+| **Mauritius** | 10% (2001 est.) |
+| **Mayotte** | NA% |
+| **Mexico** | 40% (2001 est.) |
+| **Micronesia, Federated States of** | 26.7% |
+| **Moldova** | 80% (2001 est.) |
+| **Monaco** | NA% |
+| **Mongolia** | 36% (2001 est.) |
+| **Montserrat** | NA% |
+| **Morocco** | 19% (1999 est.) |
+| **Mozambique** | 70% (2001 est.) |
+| **Namibia** | 50% (2002 est.) |
+| **Nauru** | NA% |
+| **Nepal** | 42% (1995-96) |
+| **Netherlands** | NA% |
+| **Netherlands Antilles** | NA% |
+| **New Caledonia** | NA% |
+| **New Zealand** | NA% |
+| **Nicaragua** | 50% (2001 est.) |
+| **Niger** | 63% (1993 est.) |
+| **Nigeria** | 60% (2000 est.) |
+| **Niue** | NA% |
+| **Norfolk Island** | NA% |
+| **Northern Mariana Islands** | NA% |
+| **Norway** | NA% |
+| **Oman** | NA% |
+| **Pakistan** | 35% (2001 est.) |
+| **Palau** | NA% |
+| **Panama** | 37% (1999 est.) |
+| **Papua New Guinea** | 37% (2002 est.) |
+| **Paraguay** | 36% (2001 est.) |
+| **Peru** | 50% (2000 est.) |
+| **Philippines** | 40% (2001 est.) |
+| **Pitcairn Islands** | NA% |
+| **Poland** | 18.4% (2000 est.) |
+| **Portugal** | NA% |
+| **Puerto Rico** | NA% |
+| **Qatar** | NA% |
+| **Reunion** | NA% |
+| **Romania** | 44.5% (2000) |
+| **Russia** | 25% (37622 est.) |
+| **Rwanda** | 60% (2001 est.) |
+| **Saint Helena** | NA% |
+| **Saint Kitts and Nevis** | NA% |
+| **Saint Lucia** | NA% |
+| **Saint Pierre and Miquelon** | NA% |
+| **Saint Vincent and the Grenadines** | NA% |
+| **Samoa** | NA% |
+| **San Marino** | NA% |
+| **Sao Tome and Principe** | NA% |
+| **Saudi Arabia** | NA% |
+| **Senegal** | 54% (2001 est.) |
+| **Serbia and Montenegro** | 30% |
+| **Seychelles** | NA% |
+| **Sierra Leone** | 68% (1989 est.) |
+| **Singapore** | NA% |
+| **Slovakia** | NA% |
+| **Slovenia** | NA% |
+| **Solomon Islands** | NA% |
+| **Somalia** | NA% |
+| **South Africa** | 50% (2000 est.) |
+| **Spain** | NA% |
+| **Sri Lanka** | 22% (1997 est.) |
+| **Sudan** | NA% |
+| **Suriname** | 70% (2002 est.) |
+| **Svalbard** | NA% |
+| **Swaziland** | 40% (1995) |
+| **Sweden** | NA% |
+| **Switzerland** | NA% |
+| **Syria** | 15%-25% |
+| **Taiwan** | 1% (2000 est.) |
+| **Tajikistan** | 60% (2001 est.) |
+| **Tanzania** | 36% (2002 est.) |
+| **Thailand** | 12.5% (1998 est.) |
+| **Togo** | 32% (1989 est.) |
+| **Tokelau** | NA% |
+| **Tonga** | NA% |
+| **Trinidad and Tobago** | 21% (1992 est.) |
+| **Tunisia** | 6% (2000 est.) |
+| **Turkey** | NA% |
+| **Turkmenistan** | 34.4% (2001 est.) |
+| **Turks and Caicos Islands** | NA% |
+| **Tuvalu** | NA% |
+| **Uganda** | 35% (2001 est.) |
+| **Ukraine** | 29% (2001 est.) |
+| **United Arab Emirates** | NA% |
+| **United Kingdom** | 17% |
+| **United States** | 12.7% (2001 est.) |
+| **Uruguay** | 6% (1997) |
+| **Uzbekistan** | NA% |
+| **Vanuatu** | NA% |
+| **Venezuela** | 47% (1998 est.) |
+| **Vietnam** | 37% (1998 est.) |
+| **Virgin Islands** | NA% |
+| **Wallis and Futuna** | NA% |
+| **West Bank** | 60% (2002 est.) |
+| **Western Sahara** | NA% |
+| **Yemen** | NA |
+| **Zambia** | 86% (1993) |
+| **Zimbabwe** | 70% (2002 est.) |
+
+This page was last updated on 18 December, 2003
+ 

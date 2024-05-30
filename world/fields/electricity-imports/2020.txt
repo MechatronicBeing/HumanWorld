@@ -1,0 +1,227 @@
+Field Listing :: Electricity - imports :: The World Factbook
+
+This entry is the total imported electricity in kilowatt-hours.
+
+| Country | Electricity - imports |
+| --- | --- |
+| **Afghanistan** | 4.4 billion kWh (2016 est.) |
+| **Albania** | 1.827 billion kWh (2016 est.) |
+| **Algeria** | 257 million kWh (2016 est.) |
+| **American Samoa** | 0 kWh (2016 est.) |
+| **Andorra** | 471.3 million kWh (2015 est.) |
+| **Angola** | 0 kWh (2016 est.) |
+| **Antigua and Barbuda** | 0 kWh (2016 est.) |
+| **Argentina** | 9.851 billion kWh (2016 est.) |
+| **Armenia** | 275 million kWh (2016 est.) |
+| **Aruba** | 0 kWh (2016 est.) |
+| **Australia** | 0 kWh (2016 est.) |
+| **Austria** | 26.37 billion kWh (2016 est.) |
+| **Azerbaijan** | 114 million kWh (2016 est.) |
+| **Bahamas, The** | 0 kWh (2016 est.) |
+| **Bahrain** | 276 million kWh (2016 est.) |
+| **Bangladesh** | 0 kWh (2016 est.) |
+| **Barbados** | 0 kWh (2016 est.) |
+| **Belarus** | 6.319 billion kWh (2016 est.) |
+| **Belgium** | 14.65 billion kWh (2016 est.) |
+| **Belize** | 243 million kWh (2016 est.) |
+| **Benin** | 1.088 billion kWh (2016 est.) |
+| **Bermuda** | 0 kWh (2016 est.) |
+| **Bhutan** | 84 million kWh (2016 est.) |
+| **Bolivia** | 0 kWh (2016 est.) |
+| **Bosnia and Herzegovina** | 3.084 billion kWh (2016 est.) |
+| **Botswana** | 1.673 billion kWh (2016 est.) |
+| **Brazil** | 41.31 billion kWh (2016 est.) |
+| **British Virgin Islands** | 0 kWh (2016 est.) |
+| **Brunei** | 0 kWh (2016 est.) |
+| **Bulgaria** | 4.568 billion kWh (2016 est.) |
+| **Burkina Faso** | 630 million kWh (2016 est.) |
+| **Burma** | 0 kWh (2016 est.) |
+| **Burundi** | 100 million kWh (2016 est.) |
+| **Cabo Verde** | 0 kWh (2016 est.) |
+| **Cambodia** | 1.583 billion kWh (2016 est.) |
+| **Cameroon** | 55 million kWh (2016 est.) |
+| **Canada** | 2.682 billion kWh (2016 est.) |
+| **Cayman Islands** | 0 kWh (2016 est.) |
+| **Central African Republic** | 0 kWh (2016 est.) |
+| **Chad** | 0 kWh (2016 est.) |
+| **Chile** | 0 kWh (2016 est.) |
+| **China** | 6.185 billion kWh (2016 est.) |
+| **Colombia** | 378 million kWh (2016 est.) |
+| **Comoros** | 0 kWh (2016 est.) |
+| **Congo, Democratic Republic of the** | 20 million kWh (2016 est.) |
+| **Congo, Republic of the** | 18 million kWh (2016 est.) |
+| **Cook Islands** | 0 kWh (2016 est.) |
+| **Costa Rica** | 807 million kWh (2016 est.) |
+| **Cote d'Ivoire** | 19 million kWh (2016 est.) |
+| **Croatia** | 8.702 billion kWh (2016 est.) |
+| **Cuba** | 0 kWh (2016 est.) |
+| **Curacao** | 0 kWh (2009 est.) |
+| **Cyprus** | 0 kWh (2016 est.) |
+| **Czechia** | 13.82 billion kWh (2016 est.) |
+| **Denmark** | 14.98 billion kWh (2016 est.) |
+| **Djibouti** | 0 kWh (2016 est.) |
+| **Dominica** | 0 kWh (2016 est.) |
+| **Dominican Republic** | 0 kWh (2016 est.) |
+| **Ecuador** | 82 million kWh (2016 est.) |
+| **Egypt** | 54 million kWh (2016 est.) |
+| **El Salvador** | 1.066 billion kWh (2016 est.) |
+| **Equatorial Guinea** | 0 kWh (2016 est.) |
+| **Eritrea** | 0 kWh (2016 est.) |
+| **Estonia** | 3.577 billion kWh (2016 est.) |
+| **Eswatini** | 1.077 billion kWh (2016 est.) |
+| **Ethiopia** | 0 kWh (2016 est.) |
+| **European Union** | 397 billion kWh (2015 est.) |
+| **Falkland Islands (Islas Malvinas)** | 0 kWh (2016 est.) |
+| **Faroe Islands** | 0 kWh (2016 est.) |
+| **Fiji** | 0 kWh (2016 est.) |
+| **Finland** | 22.11 billion kWh (2016 est.) |
+| **France** | 19.9 billion kWh (2016 est.) |
+| **French Polynesia** | 0 kWh (2016 est.) |
+| **Gabon** | 344 million kWh (2016 est.) |
+| **Gambia, The** | 0 kWh (2016 est.) |
+| **Gaza Strip** | 193,000 kWh (2011 est.) |
+| **Georgia** | 1.329 billion kWh (2016 est.) |
+| **Germany** | 28.34 billion kWh (2016 est.) |
+| **Ghana** | 511 million kWh (2016 est.) |
+| **Gibraltar** | 0 kWh (2016 est.) |
+| **Greece** | 9.833 billion kWh (2016 est.) |
+| **Greenland** | 0 kWh (2016 est.) |
+| **Grenada** | 0 kWh (2016 est.) |
+| **Guam** | 0 kWh (2016 est.) |
+| **Guatemala** | 747 million kWh (2016 est.) |
+| **Guinea** | 0 kWh (2016 est.) |
+| **Guinea-Bissau** | 0 kWh (2016 est.) |
+| **Guyana** | 0 kWh (2016 est.) |
+| **Haiti** | 0 kWh (2016 est.) |
+| **Honduras** | 195 million kWh (2016 est.) |
+| **Hong Kong** | 11.62 billion kWh (2016 est.) |
+| **Hungary** | 17.95 billion kWh (2016 est.) |
+| **Iceland** | 0 kWh (2016 est.) |
+| **India** | 5.617 billion kWh (2016 est.) |
+| **Indonesia** | 693 million kWh (2016 est.) |
+| **Iran** | 4.221 billion kWh (2016 est.) |
+| **Iraq** | 11.97 billion kWh (2016 est.) |
+| **Ireland** | 871 million kWh (2016 est.) |
+| **Israel** | 0 kWh (2016 est.) |
+| **Italy** | 43.18 billion kWh (2016 est.) |
+| **Jamaica** | 0 kWh (2016 est.) |
+| **Japan** | 0 kWh (2016 est.) |
+| **Jordan** | 334 million kWh (2016 est.) |
+| **Kazakhstan** | 1.318 billion kWh (2016 est.) |
+| **Kenya** | 184 million kWh (2016 est.) |
+| **Kiribati** | 0 kWh (2016 est.) |
+| **Korea, North** | 0 kWh (2016 est.) |
+| **Korea, South** | 0 kWh (2016 est.) |
+| **Kosovo** | 557 million kWh (2016 est.) |
+| **Kuwait** | 0 kWh (2016 est.) |
+| **Kyrgyzstan** | 331 million kWh (2016 est.) |
+| **Laos** | 2.5 billion kWh (2016 est.) |
+| **Latvia** | 4.828 billion kWh (2016 est.) |
+| **Lebanon** | 69 million kWh (2016 est.) |
+| **Lesotho** | 373 million kWh (2016 est.) |
+| **Liberia** | 0 kWh (2016 est.) |
+| **Libya** | 376 million kWh (2016 est.) |
+| **Liechtenstein** | 325.2 million kWh (2015 est.) |
+| **Lithuania** | 11.11 billion kWh (2016 est.) |
+| **Luxembourg** | 7.718 billion kWh (2016 est.) |
+| **Macau** | 4.306 billion kWh (2016 est.) |
+| **Madagascar** | 0 kWh (2016 est.) |
+| **Malawi** | 0 kWh (2016 est.) |
+| **Malaysia** | 33 million kWh (2016 est.) |
+| **Maldives** | 0 kWh (2016 est.) |
+| **Mali** | 800 million kWh (2016 est.) |
+| **Malta** | 1.525 billion kWh (2016 est.) |
+| **Marshall Islands** | 0 kWh (2016 est.) |
+| **Mauritania** | 0 kWh (2016 est.) |
+| **Mauritius** | 0 kWh (2016 est.) |
+| **Mexico** | 3.532 billion kWh (2016 est.) |
+| **Micronesia, Federated States of** | 0 kWh (2013 est.) |
+| **Moldova** | 4 million kWh (2016 est.) |
+| **Mongolia** | 1.446 billion kWh (2016 est.) |
+| **Montenegro** | 1.21 billion kWh (2016 est.) |
+| **Montserrat** | 0 kWh (2016 est.) |
+| **Morocco** | 5.289 billion kWh (2016 est.) |
+| **Mozambique** | 9.928 billion kWh (2016 est.) |
+| **Namibia** | 3.073 billion kWh (2016 est.) |
+| **Nauru** | 0 kWh (2016 est.) |
+| **Nepal** | 2.175 billion kWh (2016 est.) |
+| **Netherlands** | 24.26 billion kWh (2016 est.) |
+| **New Caledonia** | 0 kWh (2016 est.) |
+| **New Zealand** | 0 kWh (2016 est.) |
+| **Nicaragua** | 205 million kWh (2016 est.) |
+| **Niger** | 779 million kWh (2016 est.) |
+| **Nigeria** | 0 kWh (2016 est.) |
+| **Niue** | 0 kWh (2016 est.) |
+| **North Macedonia** | 2.191 billion kWh (2016 est.) |
+| **Northern Mariana Islands** | 0 kWh (January 2009 est.) |
+| **Norway** | 5.741 billion kWh (2016 est.) |
+| **Oman** | 0 kWh (2016 est.) |
+| **Pakistan** | 490 million kWh (2016 est.) |
+| **Panama** | 30 million kWh (2016 est.) |
+| **Papua New Guinea** | 0 kWh (2016 est.) |
+| **Paraguay** | 0 kWh (2016 est.) |
+| **Peru** | 22 million kWh (2016 est.) |
+| **Philippines** | 0 kWh (2016 est.) |
+| **Poland** | 14.02 billion kWh (2016 est.) |
+| **Portugal** | 4.616 billion kWh (2016 est.) |
+| **Puerto Rico** | 0 kWh (2016 est.) |
+| **Qatar** | 0 kWh (2016 est.) |
+| **Romania** | 4.177 billion kWh (2016 est.) |
+| **Russia** | 3.194 billion kWh (2016 est.) |
+| **Rwanda** | 42 million kWh (2016 est.) |
+| **Saint Helena, Ascension, and Tristan da Cunha** | 0 kWh (2016 est.) |
+| **Saint Kitts and Nevis** | 0 kWh (2016 est.) |
+| **Saint Lucia** | 0 kWh (2016 est.) |
+| **Saint Pierre and Miquelon** | 0 kWh (2016 est.) |
+| **Saint Vincent and the Grenadines** | 0 kWh (2016 est.) |
+| **Samoa** | 0 kWh (2016 est.) |
+| **Sao Tome and Principe** | 0 kWh (2016 est.) |
+| **Saudi Arabia** | 0 kWh (2016 est.) |
+| **Senegal** | 0 kWh (2016 est.) |
+| **Serbia** | 5.068 billion kWh (2016 est.) |
+| **Seychelles** | 0 kWh (2016 est.) |
+| **Sierra Leone** | 0 kWh (2016 est.) |
+| **Singapore** | 0 kWh (2016 est.) |
+| **Slovakia** | 13.25 billion kWh (2016 est.) |
+| **Slovenia** | 8.359 billion kWh (2016 est.) |
+| **Solomon Islands** | 0 kWh (2016 est.) |
+| **Somalia** | 0 kWh (2016 est.) |
+| **South Africa** | 10.56 billion kWh (2016 est.) |
+| **South Sudan** | 0 kWh (2016 est.) |
+| **Spain** | 21.85 billion kWh (2016 est.) |
+| **Sri Lanka** | 0 kWh (2016 est.) |
+| **Sudan** | 0 kWh (2016 est.) |
+| **Suriname** | 0 kWh (2016 est.) |
+| **Sweden** | 14.29 billion kWh (2016 est.) |
+| **Switzerland** | 34.1 billion kWh (2016 est.) |
+| **Syria** | 0 kWh (2016 est.) |
+| **Taiwan** | 0 kWh (2016 est.) |
+| **Tajikistan** | 103 million kWh (2016 est.) |
+| **Tanzania** | 102 million kWh (2016 est.) |
+| **Thailand** | 19.83 billion kWh (2016 est.) |
+| **Timor-Leste** | 0 kWh (2016 est.) |
+| **Togo** | 1.14 billion kWh (2016 est.) |
+| **Tonga** | 0 kWh (2016 est.) |
+| **Trinidad and Tobago** | 0 kWh (2016 est.) |
+| **Tunisia** | 134 million kWh (2016 est.) |
+| **Turkey** | 6.33 billion kWh (2016 est.) |
+| **Turkmenistan** | 0 kWh (2016 est.) |
+| **Turks and Caicos Islands** | 0 kWh (2016 est.) |
+| **Tuvalu** | 0 kWh (2014 est.) |
+| **Uganda** | 50 million kWh (2016 est.) |
+| **Ukraine** | 77 million kWh (2016 est.) |
+| **United Arab Emirates** | 1.141 billion kWh (2016 est.) |
+| **United Kingdom** | 19.7 billion kWh (2016 est.) |
+| **United States** | 72.72 billion kWh (2016 est.) |
+| **Uruguay** | 24 million kWh (2016 est.) |
+| **Uzbekistan** | 10.84 billion kWh (2016 est.) |
+| **Vanuatu** | 0 kWh (2016 est.) |
+| **Venezuela** | 0 kWh (2016 est.) |
+| **Vietnam** | 2.733 billion kWh (2016 est.) |
+| **Virgin Islands** | 0 kWh (2016 est.) |
+| **West Bank** | 5.473 billion kWh (2016 est.) |
+| **World** | 721.9 billion kWh (2016 est.) |
+| **Yemen** | 0 kWh (2016 est.) |
+| **Zambia** | 2.185 billion kWh (2016 est.) |
+| **Zimbabwe** | 2.22 billion kWh (2016 est.) |
+

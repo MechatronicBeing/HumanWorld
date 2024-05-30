@@ -1,0 +1,1615 @@
+CIA - The World Factbook -- Field Listing :: Sex ratio   
+
+This entry includes the number of males for each female in five age groups - at birth, under 15 years, 15-64 years, 65 years and over, and for the total population. Sex ratio at birth has recently emerged as an indicator of certain kinds of sex discrimination in some countries. For instance, high sex ratios at birth in some Asian countries are now attributed to sex-selective abortion and infanticide due to a strong preference for sons. This will affect future marriage patterns and fertility patterns. Eventually, it could cause unrest among young adult males who are unable to find partners.
+
+| Country | Sex ratio(male(s)/female) |
+| --- | --- |
+| **Afghanistan** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.03 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 1.04 male(s)/female |
+| | *55-64 years:* 0.97 male(s)/female |
+| | *65 years and over:* 0.87 male(s)/female |
+| | *total population:* 1.03 male(s)/female (2013 est.) |
+| **Albania** | *at birth:* 1.11 male(s)/female |
+| | *0-14 years:* 1.12 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 0.91 male(s)/female |
+| | *55-64 years:* 1.01 male(s)/female |
+| | *65 years and over:* 0.89 male(s)/female |
+| | *total population:* 0.98 male(s)/female (2013 est.) |
+| **Algeria** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.05 male(s)/female |
+| | *25-54 years:* 1.02 male(s)/female |
+| | *55-64 years:* 1.04 male(s)/female |
+| | *65 years and over:* 0.84 male(s)/female |
+| | *total population:* 1.03 male(s)/female (2013 est.) |
+| **American Samoa** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 0.98 male(s)/female |
+| | *15-24 years:* 0.98 male(s)/female |
+| | *25-54 years:* 1.06 male(s)/female |
+| | *55-64 years:* 0.98 male(s)/female |
+| | *65 years and over:* 0.86 male(s)/female |
+| | *total population:* 1.01 male(s)/female (2013 est.) |
+| **Andorra** | *at birth:* 1.07 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.09 male(s)/female |
+| | *25-54 years:* 1.07 male(s)/female |
+| | *55-64 years:* 1.18 male(s)/female |
+| | *65 years and over:* 1 male(s)/female |
+| | *total population:* 1.07 male(s)/female (2013 est.) |
+| **Angola** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 1.02 male(s)/female |
+| | *55-64 years:* 0.95 male(s)/female |
+| | *65 years and over:* 0.86 male(s)/female |
+| | *total population:* 1.02 male(s)/female (2013 est.) |
+| **Anguilla** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 0.97 male(s)/female |
+| | *25-54 years:* 0.84 male(s)/female |
+| | *55-64 years:* 1.04 male(s)/female |
+| | *65 years and over:* 0.96 male(s)/female |
+| | *total population:* 0.93 male(s)/female (2013 est.) |
+| **Antigua and Barbuda** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.03 male(s)/female |
+| | *15-24 years:* 0.97 male(s)/female |
+| | *25-54 years:* 0.84 male(s)/female |
+| | *55-64 years:* 0.84 male(s)/female |
+| | *65 years and over:* 0.76 male(s)/female |
+| | *total population:* 0.9 male(s)/female (2013 est.) |
+| **Argentina** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 0.99 male(s)/female |
+| | *55-64 years:* 0.94 male(s)/female |
+| | *65 years and over:* 0.7 male(s)/female |
+| | *total population:* 0.97 male(s)/female (2013 est.) |
+| **Armenia** | *at birth:* 1.11 male(s)/female |
+| | *0-14 years:* 1.15 male(s)/female |
+| | *15-24 years:* 1.05 male(s)/female |
+| | *25-54 years:* 0.88 male(s)/female |
+| | *55-64 years:* 0.62 male(s)/female |
+| | *65 years and over:* 0.59 male(s)/female |
+| | *total population:* 0.89 male(s)/female (2013 est.) |
+| **Aruba** | *at birth:* 1.02 male(s)/female |
+| | *0-14 years:* 1.01 male(s)/female |
+| | *15-24 years:* 1 male(s)/female |
+| | *25-54 years:* 0.94 male(s)/female |
+| | *55-64 years:* 0.81 male(s)/female |
+| | *65 years and over:* 0.65 male(s)/female |
+| | *total population:* 0.9 male(s)/female (2013 est.) |
+| **Australia** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.05 male(s)/female |
+| | *25-54 years:* 1.03 male(s)/female |
+| | *55-64 years:* 0.99 male(s)/female |
+| | *65 years and over:* 0.85 male(s)/female |
+| | *total population:* 1.01 male(s)/female (2013 est.) |
+| **Austria** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 1.01 male(s)/female |
+| | *55-64 years:* 0.97 male(s)/female |
+| | *65 years and over:* 0.73 male(s)/female |
+| | *total population:* 0.95 male(s)/female (2013 est.) |
+| **Azerbaijan** | *at birth:* 1.13 male(s)/female |
+| | *0-14 years:* 1.16 male(s)/female |
+| | *15-24 years:* 1.06 male(s)/female |
+| | *25-54 years:* 0.94 male(s)/female |
+| | *55-64 years:* 0.85 male(s)/female |
+| | *65 years and over:* 0.62 male(s)/female |
+| | *total population:* 0.98 male(s)/female (2013 est.) |
+| **Bahamas, The** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1.03 male(s)/female |
+| | *15-24 years:* 1.03 male(s)/female |
+| | *25-54 years:* 0.99 male(s)/female |
+| | *55-64 years:* 0.79 male(s)/female |
+| | *65 years and over:* 0.62 male(s)/female |
+| | *total population:* 0.96 male(s)/female (2013 est.) |
+| **Bahrain** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1.03 male(s)/female |
+| | *15-24 years:* 1.26 male(s)/female |
+| | *25-54 years:* 1.92 male(s)/female |
+| | *55-64 years:* 1.89 male(s)/female |
+| | *65 years and over:* 0.91 male(s)/female |
+| | *total population:* 1.54 male(s)/female (2013 est.) |
+| **Bangladesh** | *at birth:* 1.04 male(s)/female |
+| | *0-14 years:* 1.03 male(s)/female |
+| | *15-24 years:* 0.87 male(s)/female |
+| | *25-54 years:* 0.9 male(s)/female |
+| | *55-64 years:* 1.05 male(s)/female |
+| | *65 years and over:* 0.96 male(s)/female |
+| | *total population:* 0.95 male(s)/female (2013 est.) |
+| **Barbados** | *at birth:* 1.01 male(s)/female |
+| | *0-14 years:* 1 male(s)/female |
+| | *15-24 years:* 1.01 male(s)/female |
+| | *25-54 years:* 0.99 male(s)/female |
+| | *55-64 years:* 0.86 male(s)/female |
+| | *65 years and over:* 0.65 male(s)/female |
+| | *total population:* 0.94 male(s)/female (2013 est.) |
+| **Belarus** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 1.06 male(s)/female |
+| | *15-24 years:* 1.05 male(s)/female |
+| | *25-54 years:* 0.96 male(s)/female |
+| | *55-64 years:* 0.78 male(s)/female |
+| | *65 years and over:* 0.46 male(s)/female |
+| | *total population:* 0.87 male(s)/female (2013 est.) |
+| **Belgium** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 1.02 male(s)/female |
+| | *55-64 years:* 0.98 male(s)/female |
+| | *65 years and over:* 0.72 male(s)/female |
+| | *total population:* 0.96 male(s)/female (2013 est.) |
+| **Belize** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 1.02 male(s)/female |
+| | *55-64 years:* 1 male(s)/female |
+| | *65 years and over:* 0.9 male(s)/female |
+| | *total population:* 1.03 male(s)/female (2013 est.) |
+| **Benin** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 1.01 male(s)/female |
+| | *55-64 years:* 0.71 male(s)/female |
+| | *65 years and over:* 0.67 male(s)/female |
+| | *total population:* 1.01 male(s)/female (2013 est.) |
+| **Bermuda** | *at birth:* 1.02 male(s)/female |
+| | *0-14 years:* 1.02 male(s)/female |
+| | *15-24 years:* 1 male(s)/female |
+| | *25-54 years:* 0.99 male(s)/female |
+| | *55-64 years:* 0.91 male(s)/female |
+| | *65 years and over:* 0.72 male(s)/female |
+| | *total population:* 0.94 male(s)/female (2013 est.) |
+| **Bhutan** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 1.16 male(s)/female |
+| | *55-64 years:* 1.16 male(s)/female |
+| | *65 years and over:* 1.11 male(s)/female |
+| | *total population:* 1.1 male(s)/female (2013 est.) |
+| **Bolivia** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.03 male(s)/female |
+| | *25-54 years:* 0.94 male(s)/female |
+| | *55-64 years:* 0.88 male(s)/female |
+| | *65 years and over:* 0.79 male(s)/female |
+| | *total population:* 0.98 male(s)/female (2013 est.) |
+| **Bosnia and Herzegovina** | *at birth:* 1.07 male(s)/female |
+| | *0-14 years:* 1.07 male(s)/female |
+| | *15-24 years:* 1.07 male(s)/female |
+| | *25-54 years:* 1 male(s)/female |
+| | *55-64 years:* 0.9 male(s)/female |
+| | *65 years and over:* 0.63 male(s)/female |
+| | *total population:* 0.95 male(s)/female (2013 est.) |
+| **Botswana** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 0.98 male(s)/female |
+| | *25-54 years:* 1.1 male(s)/female |
+| | *55-64 years:* 0.79 male(s)/female |
+| | *65 years and over:* 0.67 male(s)/female |
+| | *total population:* 1.02 male(s)/female (2013 est.) |
+| **Brazil** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.03 male(s)/female |
+| | *25-54 years:* 0.98 male(s)/female |
+| | *55-64 years:* 0.89 male(s)/female |
+| | *65 years and over:* 0.74 male(s)/female |
+| | *total population:* 0.98 male(s)/female (2013 est.) |
+| **British Virgin Islands** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 0.97 male(s)/female |
+| | *15-24 years:* 0.92 male(s)/female |
+| | *25-54 years:* 0.9 male(s)/female |
+| | *55-64 years:* 1 male(s)/female |
+| | *65 years and over:* 0.95 male(s)/female |
+| | *total population:* 0.93 male(s)/female (2013 est.) |
+| **Brunei** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.07 male(s)/female |
+| | *15-24 years:* 0.97 male(s)/female |
+| | *25-54 years:* 0.96 male(s)/female |
+| | *55-64 years:* 1.07 male(s)/female |
+| | *65 years and over:* 0.95 male(s)/female |
+| | *total population:* 1 male(s)/female (2013 est.) |
+| **Bulgaria** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.06 male(s)/female |
+| | *25-54 years:* 0.99 male(s)/female |
+| | *55-64 years:* 0.86 male(s)/female |
+| | *65 years and over:* 0.68 male(s)/female |
+| | *total population:* 0.92 male(s)/female (2013 est.) |
+| **Burkina Faso** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1.01 male(s)/female |
+| | *15-24 years:* 1.01 male(s)/female |
+| | *25-54 years:* 1.03 male(s)/female |
+| | *55-64 years:* 0.69 male(s)/female |
+| | *65 years and over:* 0.62 male(s)/female |
+| | *total population:* 0.99 male(s)/female (2013 est.) |
+| **Burma** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.02 male(s)/female |
+| | *25-54 years:* 0.99 male(s)/female |
+| | *55-64 years:* 0.9 male(s)/female |
+| | *65 years and over:* 0.77 male(s)/female |
+| | *total population:* 0.99 male(s)/female (2013 est.) |
+| **Burundi** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1.01 male(s)/female |
+| | *15-24 years:* 1 male(s)/female |
+| | *25-54 years:* 0.98 male(s)/female |
+| | *55-64 years:* 0.82 male(s)/female |
+| | *65 years and over:* 0.67 male(s)/female |
+| | *total population:* 0.98 male(s)/female (2013 est.) |
+| **Cabo Verde** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1.01 male(s)/female |
+| | *15-24 years:* 1 male(s)/female |
+| | *25-54 years:* 0.93 male(s)/female |
+| | *55-64 years:* 0.71 male(s)/female |
+| | *65 years and over:* 0.6 male(s)/female |
+| | *total population:* 0.94 male(s)/female (2013 est.) |
+| **Cambodia** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.01 male(s)/female |
+| | *15-24 years:* 0.98 male(s)/female |
+| | *25-54 years:* 0.94 male(s)/female |
+| | *55-64 years:* 0.63 male(s)/female |
+| | *65 years and over:* 0.6 male(s)/female |
+| | *total population:* 0.94 male(s)/female (2013 est.) |
+| **Cameroon** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1.02 male(s)/female |
+| | *15-24 years:* 1.02 male(s)/female |
+| | *25-54 years:* 1.02 male(s)/female |
+| | *55-64 years:* 0.9 male(s)/female |
+| | *65 years and over:* 0.84 male(s)/female |
+| | *total population:* 1.01 male(s)/female (2013 est.) |
+| **Canada** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.06 male(s)/female |
+| | *25-54 years:* 1.03 male(s)/female |
+| | *55-64 years:* 0.98 male(s)/female |
+| | *65 years and over:* 0.79 male(s)/female |
+| | *total population:* 0.99 male(s)/female (2013 est.) |
+| **Cayman Islands** | *at birth:* 1.02 male(s)/female |
+| | *0-14 years:* 1.01 male(s)/female |
+| | *15-24 years:* 0.98 male(s)/female |
+| | *25-54 years:* 0.95 male(s)/female |
+| | *55-64 years:* 0.91 male(s)/female |
+| | *65 years and over:* 0.9 male(s)/female |
+| | *total population:* 0.95 male(s)/female (2013 est.) |
+| **Central African Republic** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1.01 male(s)/female |
+| | *15-24 years:* 1.01 male(s)/female |
+| | *25-54 years:* 1 male(s)/female |
+| | *55-64 years:* 0.75 male(s)/female |
+| | *65 years and over:* 0.66 male(s)/female |
+| | *total population:* 0.98 male(s)/female (2013 est.) |
+| **Chad** | *at birth:* 1.04 male(s)/female |
+| | *0-14 years:* 1.03 male(s)/female |
+| | *15-24 years:* 0.93 male(s)/female |
+| | *25-54 years:* 0.82 male(s)/female |
+| | *55-64 years:* 0.78 male(s)/female |
+| | *65 years and over:* 0.72 male(s)/female |
+| | *total population:* 0.93 male(s)/female (2013 est.) |
+| **Chile** | *at birth:* 1.04 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 0.99 male(s)/female |
+| | *55-64 years:* 0.88 male(s)/female |
+| | *65 years and over:* 0.71 male(s)/female |
+| | *total population:* 0.97 male(s)/female (2013 est.) |
+| **China** | *at birth:* 1.12 male(s)/female |
+| | *0-14 years:* 1.17 male(s)/female |
+| | *15-24 years:* 1.11 male(s)/female |
+| | *25-54 years:* 1.05 male(s)/female |
+| | *55-64 years:* 1.03 male(s)/female |
+| | *65 years and over:* 0.92 male(s)/female |
+| | *total population:* 1.06 male(s)/female (2013 est.) |
+| **Christmas Island** | NA (2009 est.) |
+| **Colombia** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.03 male(s)/female |
+| | *25-54 years:* 0.98 male(s)/female |
+| | *55-64 years:* 0.86 male(s)/female |
+| | *65 years and over:* 0.72 male(s)/female |
+| | *total population:* 0.98 male(s)/female (2013 est.) |
+| **Comoros** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 0.99 male(s)/female |
+| | *15-24 years:* 0.94 male(s)/female |
+| | *25-54 years:* 0.9 male(s)/female |
+| | *55-64 years:* 0.81 male(s)/female |
+| | *65 years and over:* 0.92 male(s)/female |
+| | *total population:* 0.94 male(s)/female (2013 est.) |
+| **Congo, Democratic Republic of the** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1.02 male(s)/female |
+| | *15-24 years:* 1.01 male(s)/female |
+| | *25-54 years:* 1 male(s)/female |
+| | *55-64 years:* 0.87 male(s)/female |
+| | *65 years and over:* 0.72 male(s)/female |
+| | *total population:* 0.99 male(s)/female (2013 est.) |
+| **Congo, Republic of the** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1.01 male(s)/female |
+| | *15-24 years:* 1.01 male(s)/female |
+| | *25-54 years:* 1.01 male(s)/female |
+| | *55-64 years:* 0.79 male(s)/female |
+| | *65 years and over:* 0.69 male(s)/female |
+| | *total population:* 0.99 male(s)/female (2013 est.) |
+| **Cook Islands** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.13 male(s)/female |
+| | *15-24 years:* 1.15 male(s)/female |
+| | *25-54 years:* 1.02 male(s)/female |
+| | *55-64 years:* 1.14 male(s)/female |
+| | *65 years and over:* 0.96 male(s)/female |
+| | *total population:* 1.07 male(s)/female (2013 est.) |
+| **Costa Rica** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 1.01 male(s)/female |
+| | *55-64 years:* 0.97 male(s)/female |
+| | *65 years and over:* 0.86 male(s)/female |
+| | *total population:* 1.01 male(s)/female (2013 est.) |
+| **Cote d'Ivoire** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1.02 male(s)/female |
+| | *15-24 years:* 1.02 male(s)/female |
+| | *25-54 years:* 1.06 male(s)/female |
+| | *55-64 years:* 1 male(s)/female |
+| | *65 years and over:* 0.96 male(s)/female |
+| | *total population:* 1.03 male(s)/female (2013 est.) |
+| **Croatia** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.05 male(s)/female |
+| | *25-54 years:* 0.98 male(s)/female |
+| | *55-64 years:* 0.96 male(s)/female |
+| | *65 years and over:* 0.66 male(s)/female |
+| | *total population:* 0.93 male(s)/female (2013 est.) |
+| **Cuba** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 1.06 male(s)/female |
+| | *15-24 years:* 1.05 male(s)/female |
+| | *25-54 years:* 1.01 male(s)/female |
+| | *55-64 years:* 0.91 male(s)/female |
+| | *65 years and over:* 0.82 male(s)/female |
+| | *total population:* 0.99 male(s)/female (2013 est.) |
+| **Curacao** | *at birth:* 1.15 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.08 male(s)/female |
+| | *25-54 years:* 0.92 male(s)/female |
+| | *55-64 years:* 0.79 male(s)/female |
+| | *65 years and over:* 0.71 male(s)/female |
+| | *total population:* 0.92 male(s)/female (2013 est.) |
+| **Cyprus** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.06 male(s)/female |
+| | *15-24 years:* 1.19 male(s)/female |
+| | *25-54 years:* 1.09 male(s)/female |
+| | *55-64 years:* 0.91 male(s)/female |
+| | *65 years and over:* 0.77 male(s)/female |
+| | *total population:* 1.04 male(s)/female (2013 est.) |
+| **Czech Republic** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 1.06 male(s)/female |
+| | *15-24 years:* 1.05 male(s)/female |
+| | *25-54 years:* 1.03 male(s)/female |
+| | *55-64 years:* 0.93 male(s)/female |
+| | *65 years and over:* 0.67 male(s)/female |
+| | *total population:* 0.95 male(s)/female (2013 est.) |
+| **Denmark** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 1 male(s)/female |
+| | *55-64 years:* 0.99 male(s)/female |
+| | *65 years and over:* 0.8 male(s)/female |
+| | *total population:* 0.97 male(s)/female (2013 est.) |
+| **Djibouti** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1 male(s)/female |
+| | *15-24 years:* 0.89 male(s)/female |
+| | *25-54 years:* 0.72 male(s)/female |
+| | *55-64 years:* 0.92 male(s)/female |
+| | *65 years and over:* 0.82 male(s)/female |
+| | *total population:* 0.86 male(s)/female (2013 est.) |
+| **Dominica** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.06 male(s)/female |
+| | *25-54 years:* 1.04 male(s)/female |
+| | *55-64 years:* 1.12 male(s)/female |
+| | *65 years and over:* 0.77 male(s)/female |
+| | *total population:* 1.02 male(s)/female (2013 est.) |
+| **Dominican Republic** | *at birth:* 1.04 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 1.05 male(s)/female |
+| | *55-64 years:* 1.01 male(s)/female |
+| | *65 years and over:* 0.86 male(s)/female |
+| | *total population:* 1.03 male(s)/female (2013 est.) |
+| **Ecuador** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.02 male(s)/female |
+| | *25-54 years:* 0.95 male(s)/female |
+| | *55-64 years:* 0.98 male(s)/female |
+| | *65 years and over:* 0.92 male(s)/female |
+| | *total population:* 0.99 male(s)/female (2013 est.) |
+| **Egypt** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.06 male(s)/female |
+| | *25-54 years:* 1.03 male(s)/female |
+| | *55-64 years:* 1 male(s)/female |
+| | *65 years and over:* 0.82 male(s)/female |
+| | *total population:* 1.03 male(s)/female (2013 est.) |
+| **El Salvador** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1 male(s)/female |
+| | *25-54 years:* 0.85 male(s)/female |
+| | *55-64 years:* 0.83 male(s)/female |
+| | *65 years and over:* 0.8 male(s)/female |
+| | *total population:* 0.93 male(s)/female (2013 est.) |
+| **Equatorial Guinea** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1.03 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 0.97 male(s)/female |
+| | *55-64 years:* 0.76 male(s)/female |
+| | *65 years and over:* 0.75 male(s)/female |
+| | *total population:* 0.99 male(s)/female (2013 est.) |
+| **Eritrea** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1.01 male(s)/female |
+| | *15-24 years:* 1 male(s)/female |
+| | *25-54 years:* 0.98 male(s)/female |
+| | *55-64 years:* 0.73 male(s)/female |
+| | *65 years and over:* 0.79 male(s)/female |
+| | *total population:* 0.98 male(s)/female (2013 est.) |
+| **Estonia** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 1.06 male(s)/female |
+| | *15-24 years:* 1.05 male(s)/female |
+| | *25-54 years:* 0.92 male(s)/female |
+| | *55-64 years:* 0.76 male(s)/female |
+| | *65 years and over:* 0.49 male(s)/female |
+| | *total population:* 0.84 male(s)/female (2013 est.) |
+| **Ethiopia** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1 male(s)/female |
+| | *15-24 years:* 0.99 male(s)/female |
+| | *25-54 years:* 0.99 male(s)/female |
+| | *55-64 years:* 0.95 male(s)/female |
+| | *65 years and over:* 0.83 male(s)/female |
+| | *total population:* 0.99 male(s)/female (2013 est.) |
+| **European Union** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.05 male(s)/female |
+| | *25-54 years:* 1.02 male(s)/female |
+| | *55-64 years:* 0.94 male(s)/female |
+| | *65 years and over:* 0.74 male(s)/female |
+| | *total population:* 0.96 male(s)/female (2013 est.) |
+| **Faroe Islands** | *at birth:* 1.07 male(s)/female |
+| | *0-14 years:* 1.08 male(s)/female |
+| | *15-24 years:* 1.07 male(s)/female |
+| | *25-54 years:* 1.18 male(s)/female |
+| | *55-64 years:* 1.08 male(s)/female |
+| | *65 years and over:* 0.93 male(s)/female |
+| | *total population:* 1.09 male(s)/female (2013 est.) |
+| **Fiji** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.05 male(s)/female |
+| | *25-54 years:* 1.05 male(s)/female |
+| | *55-64 years:* 1.01 male(s)/female |
+| | *65 years and over:* 0.85 male(s)/female |
+| | *total population:* 1.03 male(s)/female (2013 est.) |
+| **Finland** | *at birth:* 1.04 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 1.04 male(s)/female |
+| | *55-64 years:* 0.97 male(s)/female |
+| | *65 years and over:* 0.71 male(s)/female |
+| | *total population:* 0.96 male(s)/female (2013 est.) |
+| **France** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.05 male(s)/female |
+| | *25-54 years:* 1.01 male(s)/female |
+| | *55-64 years:* 0.94 male(s)/female |
+| | *65 years and over:* 0.74 male(s)/female |
+| | *total population:* 0.96 male(s)/female (2013 est.) |
+| **French Polynesia** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.06 male(s)/female |
+| | *15-24 years:* 1.07 male(s)/female |
+| | *25-54 years:* 1.06 male(s)/female |
+| | *55-64 years:* 1.06 male(s)/female |
+| | *65 years and over:* 0.95 male(s)/female |
+| | *total population:* 1.05 male(s)/female (2013 est.) |
+| **Gabon** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1.01 male(s)/female |
+| | *15-24 years:* 1 male(s)/female |
+| | *25-54 years:* 1 male(s)/female |
+| | *55-64 years:* 0.96 male(s)/female |
+| | *65 years and over:* 0.73 male(s)/female |
+| | *total population:* 0.99 male(s)/female (2013 est.) |
+| **Gambia, The** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1.01 male(s)/female |
+| | *15-24 years:* 0.98 male(s)/female |
+| | *25-54 years:* 0.96 male(s)/female |
+| | *55-64 years:* 0.95 male(s)/female |
+| | *65 years and over:* 0.9 male(s)/female |
+| | *total population:* 0.98 male(s)/female (2013 est.) |
+| **Gaza Strip** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 1.06 male(s)/female |
+| | *15-24 years:* 1.05 male(s)/female |
+| | *25-54 years:* 1.05 male(s)/female |
+| | *55-64 years:* 0.98 male(s)/female |
+| | *65 years and over:* 0.68 male(s)/female |
+| | *total population:* 1.04 male(s)/female (2013 est.) |
+| **Georgia** | *at birth:* 1.1 male(s)/female |
+| | *0-14 years:* 1.15 male(s)/female |
+| | *15-24 years:* 1.05 male(s)/female |
+| | *25-54 years:* 0.93 male(s)/female |
+| | *55-64 years:* 0.84 male(s)/female |
+| | *65 years and over:* 0.66 male(s)/female |
+| | *total population:* 0.91 male(s)/female (2013 est.) |
+| **Germany** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.05 male(s)/female |
+| | *25-54 years:* 1.03 male(s)/female |
+| | *55-64 years:* 0.98 male(s)/female |
+| | *65 years and over:* 0.76 male(s)/female |
+| | *total population:* 0.97 male(s)/female (2013 est.) |
+| **Ghana** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1.01 male(s)/female |
+| | *15-24 years:* 0.99 male(s)/female |
+| | *25-54 years:* 0.95 male(s)/female |
+| | *55-64 years:* 0.95 male(s)/female |
+| | *65 years and over:* 0.88 male(s)/female |
+| | *total population:* 0.98 male(s)/female (2013 est.) |
+| **Gibraltar** | *at birth:* 1.07 male(s)/female |
+| | *0-14 years:* 1.06 male(s)/female |
+| | *15-24 years:* 1.09 male(s)/female |
+| | *25-54 years:* 0.99 male(s)/female |
+| | *55-64 years:* 1 male(s)/female |
+| | *65 years and over:* 0.95 male(s)/female |
+| | *total population:* 1.01 male(s)/female (2013 est.) |
+| **Greece** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 1.06 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 0.99 male(s)/female |
+| | *55-64 years:* 0.97 male(s)/female |
+| | *65 years and over:* 0.78 male(s)/female |
+| | *total population:* 0.96 male(s)/female (2013 est.) |
+| **Greenland** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.03 male(s)/female |
+| | *15-24 years:* 1.03 male(s)/female |
+| | *25-54 years:* 1.14 male(s)/female |
+| | *55-64 years:* 1.35 male(s)/female |
+| | *65 years and over:* 1.1 male(s)/female |
+| | *total population:* 1.11 male(s)/female (2013 est.) |
+| **Grenada** | *at birth:* 1.1 male(s)/female |
+| | *0-14 years:* 1.06 male(s)/female |
+| | *15-24 years:* 0.98 male(s)/female |
+| | *25-54 years:* 1.06 male(s)/female |
+| | *55-64 years:* 1.06 male(s)/female |
+| | *65 years and over:* 0.83 male(s)/female |
+| | *total population:* 1.02 male(s)/female (2013 est.) |
+| **Guam** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 1.07 male(s)/female |
+| | *15-24 years:* 1.05 male(s)/female |
+| | *25-54 years:* 1.05 male(s)/female |
+| | *55-64 years:* 1.01 male(s)/female |
+| | *65 years and over:* 0.84 male(s)/female |
+| | *total population:* 1.03 male(s)/female (2013 est.) |
+| **Guatemala** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1 male(s)/female |
+| | *25-54 years:* 0.9 male(s)/female |
+| | *55-64 years:* 0.94 male(s)/female |
+| | *65 years and over:* 0.87 male(s)/female |
+| | *total population:* 0.97 male(s)/female (2013 est.) |
+| **Guernsey** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.08 male(s)/female |
+| | *15-24 years:* 1.03 male(s)/female |
+| | *25-54 years:* 1.01 male(s)/female |
+| | *55-64 years:* 1 male(s)/female |
+| | *65 years and over:* 0.81 male(s)/female |
+| | *total population:* 0.98 male(s)/female (2013 est.) |
+| **Guinea** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1.02 male(s)/female |
+| | *15-24 years:* 1.02 male(s)/female |
+| | *25-54 years:* 1 male(s)/female |
+| | *55-64 years:* 0.9 male(s)/female |
+| | *65 years and over:* 0.79 male(s)/female |
+| | *total population:* 1 male(s)/female (2013 est.) |
+| **Guinea-Bissau** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1 male(s)/female |
+| | *15-24 years:* 0.99 male(s)/female |
+| | *25-54 years:* 0.98 male(s)/female |
+| | *55-64 years:* 0.58 male(s)/female |
+| | *65 years and over:* 0.64 male(s)/female |
+| | *total population:* 0.95 male(s)/female (2013 est.) |
+| **Guyana** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.06 male(s)/female |
+| | *25-54 years:* 1.02 male(s)/female |
+| | *55-64 years:* 0.75 male(s)/female |
+| | *65 years and over:* 0.69 male(s)/female |
+| | *total population:* 0.99 male(s)/female (2013 est.) |
+| **Haiti** | *at birth:* 1.01 male(s)/female |
+| | *0-14 years:* 1 male(s)/female |
+| | *15-24 years:* 1 male(s)/female |
+| | *25-54 years:* 0.99 male(s)/female |
+| | *55-64 years:* 0.91 male(s)/female |
+| | *65 years and over:* 0.8 male(s)/female |
+| | *total population:* 0.98 male(s)/female (2013 est.) |
+| **Honduras** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 1.01 male(s)/female |
+| | *55-64 years:* 0.85 male(s)/female |
+| | *65 years and over:* 0.79 male(s)/female |
+| | *total population:* 1.01 male(s)/female (2013 est.) |
+| **Hong Kong** | *at birth:* 1.07 male(s)/female |
+| | *0-14 years:* 1.09 male(s)/female |
+| | *15-24 years:* 1.07 male(s)/female |
+| | *25-54 years:* 0.88 male(s)/female |
+| | *55-64 years:* 1 male(s)/female |
+| | *65 years and over:* 0.88 male(s)/female |
+| | *total population:* 0.94 male(s)/female (2013 est.) |
+| **Hungary** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 1.06 male(s)/female |
+| | *15-24 years:* 1.06 male(s)/female |
+| | *25-54 years:* 1 male(s)/female |
+| | *55-64 years:* 0.85 male(s)/female |
+| | *65 years and over:* 0.59 male(s)/female |
+| | *total population:* 0.91 male(s)/female (2013 est.) |
+| **Iceland** | *at birth:* 1.04 male(s)/female |
+| | *0-14 years:* 1.03 male(s)/female |
+| | *15-24 years:* 1.03 male(s)/female |
+| | *25-54 years:* 1.02 male(s)/female |
+| | *55-64 years:* 1.03 male(s)/female |
+| | *65 years and over:* 0.85 male(s)/female |
+| | *total population:* 1 male(s)/female (2013 est.) |
+| **India** | *at birth:* 1.12 male(s)/female |
+| | *0-14 years:* 1.13 male(s)/female |
+| | *15-24 years:* 1.12 male(s)/female |
+| | *25-54 years:* 1.06 male(s)/female |
+| | *55-64 years:* 1.01 male(s)/female |
+| | *65 years and over:* 0.91 male(s)/female |
+| | *total population:* 1.08 male(s)/female (2013 est.) |
+| **Indonesia** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 1.02 male(s)/female |
+| | *55-64 years:* 0.89 male(s)/female |
+| | *65 years and over:* 0.78 male(s)/female |
+| | *total population:* 1 male(s)/female (2013 est.) |
+| **Iran** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.06 male(s)/female |
+| | *25-54 years:* 1.03 male(s)/female |
+| | *55-64 years:* 0.96 male(s)/female |
+| | *65 years and over:* 0.89 male(s)/female |
+| | *total population:* 1.03 male(s)/female (2013 est.) |
+| **Iraq** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.03 male(s)/female |
+| | *25-54 years:* 1.04 male(s)/female |
+| | *55-64 years:* 0.91 male(s)/female |
+| | *65 years and over:* 0.87 male(s)/female |
+| | *total population:* 1.03 male(s)/female (2013 est.) |
+| **Ireland** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.03 male(s)/female |
+| | *25-54 years:* 1.01 male(s)/female |
+| | *55-64 years:* 1.01 male(s)/female |
+| | *65 years and over:* 0.84 male(s)/female |
+| | *total population:* 1 male(s)/female (2013 est.) |
+| **Isle of Man** | *at birth:* 1.08 male(s)/female |
+| | *0-14 years:* 1.11 male(s)/female |
+| | *15-24 years:* 1.05 male(s)/female |
+| | *25-54 years:* 0.99 male(s)/female |
+| | *55-64 years:* 1.02 male(s)/female |
+| | *65 years and over:* 0.85 male(s)/female |
+| | *total population:* 0.99 male(s)/female (2013 est.) |
+| **Israel** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.05 male(s)/female |
+| | *25-54 years:* 1.04 male(s)/female |
+| | *55-64 years:* 0.94 male(s)/female |
+| | *65 years and over:* 0.78 male(s)/female |
+| | *total population:* 1.01 male(s)/female (2013 est.) |
+| **Italy** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.01 male(s)/female |
+| | *25-54 years:* 0.98 male(s)/female |
+| | *55-64 years:* 0.94 male(s)/female |
+| | *65 years and over:* 0.74 male(s)/female |
+| | *total population:* 0.93 male(s)/female (2013 est.) |
+| **Jamaica** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.03 male(s)/female |
+| | *15-24 years:* 1.01 male(s)/female |
+| | *25-54 years:* 0.96 male(s)/female |
+| | *55-64 years:* 0.95 male(s)/female |
+| | *65 years and over:* 0.81 male(s)/female |
+| | *total population:* 0.98 male(s)/female (2013 est.) |
+| **Japan** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 1.08 male(s)/female |
+| | *15-24 years:* 1.06 male(s)/female |
+| | *25-54 years:* 0.98 male(s)/female |
+| | *55-64 years:* 1 male(s)/female |
+| | *65 years and over:* 0.76 male(s)/female |
+| | *total population:* 0.95 male(s)/female (2013 est.) |
+| **Jersey** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 1.07 male(s)/female |
+| | *15-24 years:* 1.03 male(s)/female |
+| | *25-54 years:* 1 male(s)/female |
+| | *55-64 years:* 0.94 male(s)/female |
+| | *65 years and over:* 0.74 male(s)/female |
+| | *total population:* 0.96 male(s)/female (2013 est.) |
+| **Jordan** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 1.06 male(s)/female |
+| | *15-24 years:* 1.06 male(s)/female |
+| | *25-54 years:* 1.02 male(s)/female |
+| | *55-64 years:* 0.93 male(s)/female |
+| | *65 years and over:* 0.95 male(s)/female |
+| | *total population:* 1.03 male(s)/female (2013 est.) |
+| **Kazakhstan** | *at birth:* 0.94 male(s)/female |
+| | *0-14 years:* 1.01 male(s)/female |
+| | *15-24 years:* 1.03 male(s)/female |
+| | *25-54 years:* 0.94 male(s)/female |
+| | *55-64 years:* 0.77 male(s)/female |
+| | *65 years and over:* 0.52 male(s)/female |
+| | *total population:* 0.92 male(s)/female (2013 est.) |
+| **Kenya** | *at birth:* 1.02 male(s)/female |
+| | *0-14 years:* 1.01 male(s)/female |
+| | *15-24 years:* 1 male(s)/female |
+| | *25-54 years:* 1.02 male(s)/female |
+| | *55-64 years:* 0.82 male(s)/female |
+| | *65 years and over:* 0.79 male(s)/female |
+| | *total population:* 1 male(s)/female (2013 est.) |
+| **Kiribati** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.01 male(s)/female |
+| | *25-54 years:* 0.93 male(s)/female |
+| | *55-64 years:* 0.85 male(s)/female |
+| | *65 years and over:* 0.64 male(s)/female |
+| | *total population:* 0.96 male(s)/female (2013 est.) |
+| **Korea, North** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.03 male(s)/female |
+| | *15-24 years:* 1.03 male(s)/female |
+| | *25-54 years:* 1 male(s)/female |
+| | *55-64 years:* 0.89 male(s)/female |
+| | *65 years and over:* 0.51 male(s)/female |
+| | *total population:* 0.94 male(s)/female (2013 est.) |
+| **Korea, South** | *at birth:* 1.07 male(s)/female |
+| | *0-14 years:* 1.09 male(s)/female |
+| | *15-24 years:* 1.13 male(s)/female |
+| | *25-54 years:* 1.04 male(s)/female |
+| | *55-64 years:* 0.98 male(s)/female |
+| | *65 years and over:* 0.69 male(s)/female |
+| | *total population:* 1 male(s)/female (2013 est.) |
+| **Kosovo** | *at birth:* 1.08 male(s)/female |
+| | *0-14 years:* 1.08 male(s)/female |
+| | *15-24 years:* 1.11 male(s)/female |
+| | *25-54 years:* 1.12 male(s)/female |
+| | *55-64 years:* 0.94 male(s)/female |
+| | *65 years and over:* 0.73 male(s)/female |
+| | *total population:* 1.06 male(s)/female (2013 est.) |
+| **Kuwait** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.09 male(s)/female |
+| | *15-24 years:* 1.22 male(s)/female |
+| | *25-54 years:* 1.75 male(s)/female |
+| | *55-64 years:* 1.4 male(s)/female |
+| | *65 years and over:* 0.96 male(s)/female |
+| | *total population:* 1.43 male(s)/female (2013 est.) |
+| **Kyrgyzstan** | *at birth:* 1.07 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.03 male(s)/female |
+| | *25-54 years:* 0.96 male(s)/female |
+| | *55-64 years:* 0.77 male(s)/female |
+| | *65 years and over:* 0.63 male(s)/female |
+| | *total population:* 0.96 male(s)/female (2013 est.) |
+| **Laos** | *at birth:* 1.04 male(s)/female |
+| | *0-14 years:* 1.02 male(s)/female |
+| | *15-24 years:* 0.99 male(s)/female |
+| | *25-54 years:* 0.98 male(s)/female |
+| | *55-64 years:* 0.96 male(s)/female |
+| | *65 years and over:* 0.82 male(s)/female |
+| | *total population:* 0.99 male(s)/female (2013 est.) |
+| **Latvia** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 0.98 male(s)/female |
+| | *55-64 years:* 0.78 male(s)/female |
+| | *65 years and over:* 0.48 male(s)/female |
+| | *total population:* 0.86 male(s)/female (2013 est.) |
+| **Lebanon** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 0.93 male(s)/female |
+| | *55-64 years:* 0.86 male(s)/female |
+| | *65 years and over:* 0.86 male(s)/female |
+| | *total population:* 0.96 male(s)/female (2013 est.) |
+| **Lesotho** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1.01 male(s)/female |
+| | *15-24 years:* 0.9 male(s)/female |
+| | *25-54 years:* 0.96 male(s)/female |
+| | *55-64 years:* 1.14 male(s)/female |
+| | *65 years and over:* 0.99 male(s)/female |
+| | *total population:* 0.97 male(s)/female (2013 est.) |
+| **Liberia** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1.01 male(s)/female |
+| | *15-24 years:* 0.95 male(s)/female |
+| | *25-54 years:* 1 male(s)/female |
+| | *55-64 years:* 0.98 male(s)/female |
+| | *65 years and over:* 1.01 male(s)/female |
+| | *total population:* 1 male(s)/female (2013 est.) |
+| **Libya** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.09 male(s)/female |
+| | *25-54 years:* 1.1 male(s)/female |
+| | *55-64 years:* 1.06 male(s)/female |
+| | *65 years and over:* 1.04 male(s)/female |
+| | *total population:* 1.08 male(s)/female (2013 est.) |
+| **Liechtenstein** | *at birth:* 1.26 male(s)/female |
+| | *0-14 years:* 1.09 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 0.99 male(s)/female |
+| | *55-64 years:* 1 male(s)/female |
+| | *65 years and over:* 0.81 male(s)/female |
+| | *total population:* 0.98 male(s)/female (2013 est.) |
+| **Lithuania** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 1.06 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 0.99 male(s)/female |
+| | *55-64 years:* 0.81 male(s)/female |
+| | *65 years and over:* 0.53 male(s)/female |
+| | *total population:* 0.89 male(s)/female (2013 est.) |
+| **Luxembourg** | *at birth:* 1.07 male(s)/female |
+| | *0-14 years:* 1.06 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 1 male(s)/female |
+| | *55-64 years:* 1.01 male(s)/female |
+| | *65 years and over:* 0.71 male(s)/female |
+| | *total population:* 0.97 male(s)/female (2013 est.) |
+| **Macau** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.12 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 0.82 male(s)/female |
+| | *55-64 years:* 1.02 male(s)/female |
+| | *65 years and over:* 0.88 male(s)/female |
+| | *total population:* 0.91 male(s)/female (2013 est.) |
+| **Macedonia** | *at birth:* 1.08 male(s)/female |
+| | *0-14 years:* 1.08 male(s)/female |
+| | *15-24 years:* 1.06 male(s)/female |
+| | *25-54 years:* 1.03 male(s)/female |
+| | *55-64 years:* 0.94 male(s)/female |
+| | *65 years and over:* 0.75 male(s)/female |
+| | *total population:* 0.99 male(s)/female (2013 est.) |
+| **Madagascar** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1.02 male(s)/female |
+| | *15-24 years:* 1 male(s)/female |
+| | *25-54 years:* 1 male(s)/female |
+| | *55-64 years:* 0.91 male(s)/female |
+| | *65 years and over:* 0.83 male(s)/female |
+| | *total population:* 1 male(s)/female (2013 est.) |
+| **Malawi** | *at birth:* 1.02 male(s)/female |
+| | *0-14 years:* 1 male(s)/female |
+| | *15-24 years:* 1 male(s)/female |
+| | *25-54 years:* 1.02 male(s)/female |
+| | *55-64 years:* 0.82 male(s)/female |
+| | *65 years and over:* 0.75 male(s)/female |
+| | *total population:* 0.99 male(s)/female (2013 est.) |
+| **Malaysia** | *at birth:* 1.07 male(s)/female |
+| | *0-14 years:* 1.06 male(s)/female |
+| | *15-24 years:* 1.03 male(s)/female |
+| | *25-54 years:* 1.03 male(s)/female |
+| | *55-64 years:* 1.05 male(s)/female |
+| | *65 years and over:* 0.89 male(s)/female |
+| | *total population:* 1.03 male(s)/female (2013 est.) |
+| **Maldives** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.44 male(s)/female |
+| | *25-54 years:* 1.53 male(s)/female |
+| | *55-64 years:* 1.17 male(s)/female |
+| | *65 years and over:* 0.94 male(s)/female |
+| | *total population:* 1.34 male(s)/female (2013 est.) |
+| **Mali** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1.01 male(s)/female |
+| | *15-24 years:* 0.91 male(s)/female |
+| | *25-54 years:* 0.88 male(s)/female |
+| | *55-64 years:* 1.01 male(s)/female |
+| | *65 years and over:* 1.01 male(s)/female |
+| | *total population:* 0.95 male(s)/female (2013 est.) |
+| **Malta** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.06 male(s)/female |
+| | *25-54 years:* 1.04 male(s)/female |
+| | *55-64 years:* 0.99 male(s)/female |
+| | *65 years and over:* 0.79 male(s)/female |
+| | *total population:* 0.99 male(s)/female (2013 est.) |
+| **Marshall Islands** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 1.04 male(s)/female |
+| | *55-64 years:* 1.09 male(s)/female |
+| | *65 years and over:* 0.95 male(s)/female |
+| | *total population:* 1.04 male(s)/female (2013 est.) |
+| **Mauritania** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1.01 male(s)/female |
+| | *15-24 years:* 0.96 male(s)/female |
+| | *25-54 years:* 0.86 male(s)/female |
+| | *55-64 years:* 0.82 male(s)/female |
+| | *65 years and over:* 0.74 male(s)/female |
+| | *total population:* 0.93 male(s)/female (2013 est.) |
+| **Mauritius** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.02 male(s)/female |
+| | *25-54 years:* 1 male(s)/female |
+| | *55-64 years:* 0.9 male(s)/female |
+| | *65 years and over:* 0.67 male(s)/female |
+| | *total population:* 0.97 male(s)/female (2013 est.) |
+| **Mexico** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.01 male(s)/female |
+| | *25-54 years:* 0.92 male(s)/female |
+| | *55-64 years:* 0.86 male(s)/female |
+| | *65 years and over:* 0.81 male(s)/female |
+| | *total population:* 0.96 male(s)/female (2013 est.) |
+| **Micronesia, Federated States of** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.03 male(s)/female |
+| | *15-24 years:* 1.03 male(s)/female |
+| | *25-54 years:* 0.94 male(s)/female |
+| | *55-64 years:* 1.02 male(s)/female |
+| | *65 years and over:* 0.77 male(s)/female |
+| | *total population:* 0.99 male(s)/female (2013 est.) |
+| **Moldova** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 1.07 male(s)/female |
+| | *15-24 years:* 1.06 male(s)/female |
+| | *25-54 years:* 0.99 male(s)/female |
+| | *55-64 years:* 0.84 male(s)/female |
+| | *65 years and over:* 0.6 male(s)/female |
+| | *total population:* 0.94 male(s)/female (2013 est.) |
+| **Monaco** | *at birth:* 1.04 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.08 male(s)/female |
+| | *25-54 years:* 0.98 male(s)/female |
+| | *55-64 years:* 1.02 male(s)/female |
+| | *65 years and over:* 0.81 male(s)/female |
+| | *total population:* 0.95 male(s)/female (2013 est.) |
+| **Mongolia** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.03 male(s)/female |
+| | *25-54 years:* 1 male(s)/female |
+| | *55-64 years:* 0.92 male(s)/female |
+| | *65 years and over:* 0.77 male(s)/female |
+| | *total population:* 1 male(s)/female (2013 est.) |
+| **Montenegro** | *at birth:* 1.07 male(s)/female |
+| | *0-14 years:* 0.95 male(s)/female |
+| | *15-24 years:* 0.97 male(s)/female |
+| | *25-54 years:* 1.15 male(s)/female |
+| | *55-64 years:* 0.97 male(s)/female |
+| | *65 years and over:* 0.66 male(s)/female |
+| | *total population:* 0.99 male(s)/female (2013 est.) |
+| **Montserrat** | *at birth:* 1.04 male(s)/female |
+| | *0-14 years:* 1.08 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 0.9 male(s)/female |
+| | *55-64 years:* 1 male(s)/female |
+| | *65 years and over:* 1.55 male(s)/female |
+| | *total population:* 1 male(s)/female (2013 est.) |
+| **Morocco** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.03 male(s)/female |
+| | *15-24 years:* 0.99 male(s)/female |
+| | *25-54 years:* 0.94 male(s)/female |
+| | *55-64 years:* 1 male(s)/female |
+| | *65 years and over:* 0.82 male(s)/female |
+| | *total population:* 0.97 male(s)/female (2013 est.) |
+| **Mozambique** | *at birth:* 1.02 male(s)/female |
+| | *0-14 years:* 1.01 male(s)/female |
+| | *15-24 years:* 0.93 male(s)/female |
+| | *25-54 years:* 0.88 male(s)/female |
+| | *55-64 years:* 0.89 male(s)/female |
+| | *65 years and over:* 0.85 male(s)/female |
+| | *total population:* 0.95 male(s)/female (2013 est.) |
+| **Namibia** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1.02 male(s)/female |
+| | *15-24 years:* 1.02 male(s)/female |
+| | *25-54 years:* 1.07 male(s)/female |
+| | *55-64 years:* 0.83 male(s)/female |
+| | *65 years and over:* 0.78 male(s)/female |
+| | *total population:* 1.02 male(s)/female (2013 est.) |
+| **Nauru** | *at birth:* 0.83 male(s)/female |
+| | *0-14 years:* 0.81 male(s)/female |
+| | *15-24 years:* 1.07 male(s)/female |
+| | *25-54 years:* 0.98 male(s)/female |
+| | *55-64 years:* 0.68 male(s)/female |
+| | *65 years and over:* 0.78 male(s)/female |
+| | *total population:* 0.91 male(s)/female (2013 est.) |
+| **Nepal** | *at birth:* 1.04 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1 male(s)/female |
+| | *25-54 years:* 0.88 male(s)/female |
+| | *55-64 years:* 0.95 male(s)/female |
+| | *65 years and over:* 0.87 male(s)/female |
+| | *total population:* 0.96 male(s)/female (2013 est.) |
+| **Netherlands** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 1.01 male(s)/female |
+| | *55-64 years:* 1 male(s)/female |
+| | *65 years and over:* 0.8 male(s)/female |
+| | *total population:* 0.98 male(s)/female (2013 est.) |
+| **New Caledonia** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 1.01 male(s)/female |
+| | *55-64 years:* 0.98 male(s)/female |
+| | *65 years and over:* 0.81 male(s)/female |
+| | *total population:* 1 male(s)/female (2013 est.) |
+| **New Zealand** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.05 male(s)/female |
+| | *25-54 years:* 1 male(s)/female |
+| | *55-64 years:* 0.96 male(s)/female |
+| | *65 years and over:* 0.85 male(s)/female |
+| | *total population:* 0.99 male(s)/female (2013 est.) |
+| **Nicaragua** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1 male(s)/female |
+| | *25-54 years:* 0.9 male(s)/female |
+| | *55-64 years:* 0.87 male(s)/female |
+| | *65 years and over:* 0.83 male(s)/female |
+| | *total population:* 0.96 male(s)/female (2013 est.) |
+| **Niger** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1.02 male(s)/female |
+| | *15-24 years:* 0.98 male(s)/female |
+| | *25-54 years:* 1 male(s)/female |
+| | *55-64 years:* 1.07 male(s)/female |
+| | *65 years and over:* 1.03 male(s)/female |
+| | *total population:* 1.01 male(s)/female (2013 est.) |
+| **Nigeria** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.05 male(s)/female |
+| | *25-54 years:* 0.97 male(s)/female |
+| | *55-64 years:* 0.85 male(s)/female |
+| | *65 years and over:* 0.85 male(s)/female |
+| | *total population:* 1.01 male(s)/female (2013 est.) |
+| **Niue** | NA |
+| **Norfolk Island** | NA |
+| **Northern Mariana Islands** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 1.12 male(s)/female |
+| | *15-24 years:* 1.13 male(s)/female |
+| | *25-54 years:* 0.75 male(s)/female |
+| | *55-64 years:* 1.19 male(s)/female |
+| | *65 years and over:* 0.91 male(s)/female |
+| | *total population:* 0.93 male(s)/female (2013 est.) |
+| **Norway** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 1.02 male(s)/female |
+| | *55-64 years:* 1.02 male(s)/female |
+| | *65 years and over:* 0.78 male(s)/female |
+| | *total population:* 0.98 male(s)/female (2013 est.) |
+| **Oman** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.1 male(s)/female |
+| | *25-54 years:* 1.45 male(s)/female |
+| | *55-64 years:* 1.17 male(s)/female |
+| | *65 years and over:* 1.03 male(s)/female |
+| | *total population:* 1.22 male(s)/female (2013 est.) |
+| **Pakistan** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.06 male(s)/female |
+| | *15-24 years:* 1.07 male(s)/female |
+| | *25-54 years:* 1.08 male(s)/female |
+| | *55-64 years:* 0.98 male(s)/female |
+| | *65 years and over:* 0.89 male(s)/female |
+| | *total population:* 1.06 male(s)/female (2013 est.) |
+| **Palau** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 1.07 male(s)/female |
+| | *15-24 years:* 0.98 male(s)/female |
+| | *25-54 years:* 1.55 male(s)/female |
+| | *55-64 years:* 0.55 male(s)/female |
+| | *65 years and over:* 0.4 male(s)/female |
+| | *total population:* 1.12 male(s)/female (2013 est.) |
+| **Panama** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 1.02 male(s)/female |
+| | *55-64 years:* 0.98 male(s)/female |
+| | *65 years and over:* 0.86 male(s)/female |
+| | *total population:* 1.02 male(s)/female (2013 est.) |
+| **Papua New Guinea** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.03 male(s)/female |
+| | *25-54 years:* 1.08 male(s)/female |
+| | *55-64 years:* 1.03 male(s)/female |
+| | *65 years and over:* 1.14 male(s)/female |
+| | *total population:* 1.05 male(s)/female (2013 est.) |
+| **Paraguay** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.01 male(s)/female |
+| | *25-54 years:* 1 male(s)/female |
+| | *55-64 years:* 1.04 male(s)/female |
+| | *65 years and over:* 0.87 male(s)/female |
+| | *total population:* 1.01 male(s)/female (2013 est.) |
+| **Peru** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1 male(s)/female |
+| | *25-54 years:* 0.93 male(s)/female |
+| | *55-64 years:* 0.96 male(s)/female |
+| | *65 years and over:* 0.9 male(s)/female |
+| | *total population:* 0.97 male(s)/female (2013 est.) |
+| **Philippines** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 1.01 male(s)/female |
+| | *55-64 years:* 0.86 male(s)/female |
+| | *65 years and over:* 0.76 male(s)/female |
+| | *total population:* 1 male(s)/female (2013 est.) |
+| **Pitcairn Islands** | NA |
+| **Poland** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 1.06 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 1.01 male(s)/female |
+| | *55-64 years:* 0.89 male(s)/female |
+| | *65 years and over:* 0.62 male(s)/female |
+| | *total population:* 0.94 male(s)/female (2013 est.) |
+| **Portugal** | *at birth:* 1.07 male(s)/female |
+| | *0-14 years:* 1.09 male(s)/female |
+| | *15-24 years:* 1.13 male(s)/female |
+| | *25-54 years:* 1.01 male(s)/female |
+| | *55-64 years:* 0.87 male(s)/female |
+| | *65 years and over:* 0.69 male(s)/female |
+| | *total population:* 0.95 male(s)/female (2013 est.) |
+| **Puerto Rico** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.03 male(s)/female |
+| | *25-54 years:* 0.91 male(s)/female |
+| | *55-64 years:* 0.83 male(s)/female |
+| | *65 years and over:* 0.77 male(s)/female |
+| | *total population:* 0.92 male(s)/female (2013 est.) |
+| **Qatar** | *at birth:* 1.02 male(s)/female |
+| | *0-14 years:* 1.03 male(s)/female |
+| | *15-24 years:* 2.83 male(s)/female |
+| | *25-54 years:* 4.61 male(s)/female |
+| | *55-64 years:* 3.41 male(s)/female |
+| | *65 years and over:* 1.5 male(s)/female |
+| | *total population:* 3.29 male(s)/female (2013 est.) |
+| **Romania** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 1.06 male(s)/female |
+| | *15-24 years:* 1.05 male(s)/female |
+| | *25-54 years:* 1.02 male(s)/female |
+| | *55-64 years:* 0.88 male(s)/female |
+| | *65 years and over:* 0.68 male(s)/female |
+| | *total population:* 0.95 male(s)/female (2013 est.) |
+| **Russia** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 1.06 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 0.95 male(s)/female |
+| | *55-64 years:* 0.74 male(s)/female |
+| | *65 years and over:* 0.44 male(s)/female |
+| | *total population:* 0.86 male(s)/female (2013 est.) |
+| **Rwanda** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1.02 male(s)/female |
+| | *15-24 years:* 1 male(s)/female |
+| | *25-54 years:* 1.01 male(s)/female |
+| | *55-64 years:* 0.86 male(s)/female |
+| | *65 years and over:* 0.67 male(s)/female |
+| | *total population:* 0.99 male(s)/female (2013 est.) |
+| **Saint Barthelemy** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.12 male(s)/female |
+| | *25-54 years:* 1.2 male(s)/female |
+| | *55-64 years:* 1.17 male(s)/female |
+| | *65 years and over:* 1 male(s)/female |
+| | *total population:* 1.14 male(s)/female (2013 est.) |
+| **Saint Helena, Ascension, and Tristan da Cunha** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 0.98 male(s)/female |
+| | *55-64 years:* 1.17 male(s)/female |
+| | *65 years and over:* 1.01 male(s)/female |
+| | *total population:* 1.02 male(s)/female (2013 est.) |
+| **Saint Kitts and Nevis** | *at birth:* 1.02 male(s)/female |
+| | *0-14 years:* 1 male(s)/female |
+| | *15-24 years:* 0.99 male(s)/female |
+| | *25-54 years:* 1.03 male(s)/female |
+| | *55-64 years:* 1.04 male(s)/female |
+| | *65 years and over:* 0.8 male(s)/female |
+| | *total population:* 1 male(s)/female (2013 est.) |
+| **Saint Lucia** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 1.06 male(s)/female |
+| | *15-24 years:* 1.02 male(s)/female |
+| | *25-54 years:* 0.93 male(s)/female |
+| | *55-64 years:* 0.87 male(s)/female |
+| | *65 years and over:* 0.83 male(s)/female |
+| | *total population:* 0.95 male(s)/female (2013 est.) |
+| **Saint Martin** | *at birth:* 1.04 male(s)/female |
+| | *0-14 years:* 0.99 male(s)/female |
+| | *15-24 years:* 1.08 male(s)/female |
+| | *25-54 years:* 0.88 male(s)/female |
+| | *55-64 years:* 0.9 male(s)/female |
+| | *65 years and over:* 0.81 male(s)/female |
+| | *total population:* 0.93 male(s)/female (2013 est.) |
+| **Saint Pierre and Miquelon** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.07 male(s)/female |
+| | *15-24 years:* 1.05 male(s)/female |
+| | *25-54 years:* 1 male(s)/female |
+| | *55-64 years:* 1.11 male(s)/female |
+| | *65 years and over:* 0.69 male(s)/female |
+| | *total population:* 0.97 male(s)/female (2013 est.) |
+| **Saint Vincent and the Grenadines** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1.02 male(s)/female |
+| | *15-24 years:* 1.02 male(s)/female |
+| | *25-54 years:* 1.08 male(s)/female |
+| | *55-64 years:* 1.05 male(s)/female |
+| | *65 years and over:* 0.84 male(s)/female |
+| | *total population:* 1.03 male(s)/female (2013 est.) |
+| **Samoa** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.07 male(s)/female |
+| | *15-24 years:* 1.06 male(s)/female |
+| | *25-54 years:* 1.09 male(s)/female |
+| | *55-64 years:* 1.02 male(s)/female |
+| | *65 years and over:* 0.78 male(s)/female |
+| | *total population:* 1.05 male(s)/female (2013 est.) |
+| **San Marino** | *at birth:* 1.1 male(s)/female |
+| | *0-14 years:* 1.14 male(s)/female |
+| | *15-24 years:* 1.03 male(s)/female |
+| | *25-54 years:* 0.9 male(s)/female |
+| | *55-64 years:* 1 male(s)/female |
+| | *65 years and over:* 0.8 male(s)/female |
+| | *total population:* 0.94 male(s)/female (2013 est.) |
+| **Sao Tome and Principe** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.03 male(s)/female |
+| | *25-54 years:* 0.96 male(s)/female |
+| | *55-64 years:* 0.83 male(s)/female |
+| | *65 years and over:* 0.84 male(s)/female |
+| | *total population:* 1 male(s)/female (2013 est.) |
+| **Saudi Arabia** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.15 male(s)/female |
+| | *25-54 years:* 1.36 male(s)/female |
+| | *55-64 years:* 1.22 male(s)/female |
+| | *65 years and over:* 1.08 male(s)/female |
+| | *total population:* 1.21 male(s)/female (2013 est.) |
+| **Senegal** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1.01 male(s)/female |
+| | *15-24 years:* 0.99 male(s)/female |
+| | *25-54 years:* 0.83 male(s)/female |
+| | *55-64 years:* 0.8 male(s)/female |
+| | *65 years and over:* 0.85 male(s)/female |
+| | *total population:* 0.94 male(s)/female (2013 est.) |
+| **Serbia** | *at birth:* 1.07 male(s)/female |
+| | *0-14 years:* 1.07 male(s)/female |
+| | *15-24 years:* 1.06 male(s)/female |
+| | *25-54 years:* 1.01 male(s)/female |
+| | *55-64 years:* 0.92 male(s)/female |
+| | *65 years and over:* 0.69 male(s)/female |
+| | *total population:* 0.95 male(s)/female (2013 est.) |
+| **Seychelles** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.09 male(s)/female |
+| | *25-54 years:* 1.1 male(s)/female |
+| | *55-64 years:* 1.09 male(s)/female |
+| | *65 years and over:* 0.61 male(s)/female |
+| | *total population:* 1.04 male(s)/female (2013 est.) |
+| **Sierra Leone** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 0.99 male(s)/female |
+| | *15-24 years:* 0.94 male(s)/female |
+| | *25-54 years:* 0.93 male(s)/female |
+| | *55-64 years:* 0.8 male(s)/female |
+| | *65 years and over:* 0.78 male(s)/female |
+| | *total population:* 0.94 male(s)/female (2013 est.) |
+| **Singapore** | *at birth:* 1.07 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 0.97 male(s)/female |
+| | *25-54 years:* 0.96 male(s)/female |
+| | *55-64 years:* 1 male(s)/female |
+| | *65 years and over:* 0.82 male(s)/female |
+| | *total population:* 0.96 male(s)/female (2013 est.) |
+| **Sint Maarten** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.08 male(s)/female |
+| | *15-24 years:* 0.96 male(s)/female |
+| | *25-54 years:* 0.95 male(s)/female |
+| | *55-64 years:* 0.94 male(s)/female |
+| | *65 years and over:* 0.92 male(s)/female |
+| | *total population:* 0.97 male(s)/female (2013 est.) |
+| **Slovakia** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.05 male(s)/female |
+| | *25-54 years:* 1.01 male(s)/female |
+| | *55-64 years:* 0.89 male(s)/female |
+| | *65 years and over:* 0.6 male(s)/female |
+| | *total population:* 0.94 male(s)/female (2013 est.) |
+| **Slovenia** | *at birth:* 1.07 male(s)/female |
+| | *0-14 years:* 1.06 male(s)/female |
+| | *15-24 years:* 1.05 male(s)/female |
+| | *25-54 years:* 1.02 male(s)/female |
+| | *55-64 years:* 0.98 male(s)/female |
+| | *65 years and over:* 0.66 male(s)/female |
+| | *total population:* 0.95 male(s)/female (2013 est.) |
+| **Solomon Islands** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.06 male(s)/female |
+| | *15-24 years:* 1.05 male(s)/female |
+| | *25-54 years:* 1.04 male(s)/female |
+| | *55-64 years:* 0.96 male(s)/female |
+| | *65 years and over:* 0.95 male(s)/female |
+| | *total population:* 1.04 male(s)/female (2013 est.) |
+| **Somalia** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1 male(s)/female |
+| | *15-24 years:* 1.02 male(s)/female |
+| | *25-54 years:* 1.07 male(s)/female |
+| | *55-64 years:* 0.84 male(s)/female |
+| | *65 years and over:* 0.66 male(s)/female |
+| | *total population:* 1.01 male(s)/female (2013 est.) |
+| **South Africa** | *at birth:* 1.02 male(s)/female |
+| | *0-14 years:* 1.01 male(s)/female |
+| | *15-24 years:* 1.03 male(s)/female |
+| | *25-54 years:* 1.07 male(s)/female |
+| | *55-64 years:* 0.76 male(s)/female |
+| | *65 years and over:* 0.67 male(s)/female |
+| | *total population:* 0.99 male(s)/female (2013 est.) |
+| **Spain** | *at birth:* 1.07 male(s)/female |
+| | *0-14 years:* 1.06 male(s)/female |
+| | *15-24 years:* 1.08 male(s)/female |
+| | *25-54 years:* 1.04 male(s)/female |
+| | *55-64 years:* 0.95 male(s)/female |
+| | *65 years and over:* 0.74 male(s)/female |
+| | *total population:* 0.97 male(s)/female (2013 est.) |
+| **Sri Lanka** | *at birth:* 1.04 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.03 male(s)/female |
+| | *25-54 years:* 0.95 male(s)/female |
+| | *55-64 years:* 0.87 male(s)/female |
+| | *65 years and over:* 0.75 male(s)/female |
+| | *total population:* 0.96 male(s)/female (2013 est.) |
+| **Sudan** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.06 male(s)/female |
+| | *25-54 years:* 0.94 male(s)/female |
+| | *55-64 years:* 1.16 male(s)/female |
+| | *65 years and over:* 1.24 male(s)/female |
+| | *total population:* 1.02 male(s)/female (2013 est.) |
+| **Suriname** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 1.04 male(s)/female |
+| | *55-64 years:* 0.93 male(s)/female |
+| | *65 years and over:* 0.77 male(s)/female |
+| | *total population:* 1.01 male(s)/female (2013 est.) |
+| **Svalbard** | NA |
+| **Swaziland** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1.02 male(s)/female |
+| | *15-24 years:* 1.02 male(s)/female |
+| | *25-54 years:* 1.03 male(s)/female |
+| | *55-64 years:* 0.65 male(s)/female |
+| | *65 years and over:* 0.69 male(s)/female |
+| | *total population:* 0.99 male(s)/female (2013 est.) |
+| **Sweden** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 1.06 male(s)/female |
+| | *15-24 years:* 1.05 male(s)/female |
+| | *25-54 years:* 1.03 male(s)/female |
+| | *55-64 years:* 0.99 male(s)/female |
+| | *65 years and over:* 0.81 male(s)/female |
+| | *total population:* 0.98 male(s)/female (2013 est.) |
+| **Switzerland** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 1.06 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 1.01 male(s)/female |
+| | *55-64 years:* 0.99 male(s)/female |
+| | *65 years and over:* 0.76 male(s)/female |
+| | *total population:* 0.97 male(s)/female (2013 est.) |
+| **Syria** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.05 male(s)/female |
+| | *25-54 years:* 1.04 male(s)/female |
+| | *55-64 years:* 0.97 male(s)/female |
+| | *65 years and over:* 0.85 male(s)/female |
+| | *total population:* 1.03 male(s)/female (2013 est.) |
+| **Taiwan** | *at birth:* 1.07 male(s)/female |
+| | *0-14 years:* 1.07 male(s)/female |
+| | *15-24 years:* 1.06 male(s)/female |
+| | *25-54 years:* 1 male(s)/female |
+| | *55-64 years:* 0.96 male(s)/female |
+| | *65 years and over:* 0.89 male(s)/female |
+| | *total population:* 1 male(s)/female (2013 est.) |
+| **Tajikistan** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.03 male(s)/female |
+| | *25-54 years:* 0.97 male(s)/female |
+| | *55-64 years:* 0.85 male(s)/female |
+| | *65 years and over:* 0.73 male(s)/female |
+| | *total population:* 0.99 male(s)/female (2013 est.) |
+| **Tanzania** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1.02 male(s)/female |
+| | *15-24 years:* 1 male(s)/female |
+| | *25-54 years:* 1 male(s)/female |
+| | *55-64 years:* 0.75 male(s)/female |
+| | *65 years and over:* 0.76 male(s)/female |
+| | *total population:* 0.99 male(s)/female (2013 est.) |
+| **Thailand** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 0.97 male(s)/female |
+| | *55-64 years:* 0.92 male(s)/female |
+| | *65 years and over:* 0.82 male(s)/female |
+| | *total population:* 0.98 male(s)/female (2013 est.) |
+| **Timor-Leste** | *at birth:* 1.07 male(s)/female |
+| | *0-14 years:* 1.06 male(s)/female |
+| | *15-24 years:* 1.02 male(s)/female |
+| | *25-54 years:* 0.94 male(s)/female |
+| | *55-64 years:* 1.06 male(s)/female |
+| | *65 years and over:* 0.96 male(s)/female |
+| | *total population:* 1.01 male(s)/female (2013 est.) |
+| **Togo** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1.01 male(s)/female |
+| | *15-24 years:* 1 male(s)/female |
+| | *25-54 years:* 0.99 male(s)/female |
+| | *55-64 years:* 0.89 male(s)/female |
+| | *65 years and over:* 0.77 male(s)/female |
+| | *total population:* 0.98 male(s)/female (2013 est.) |
+| **Tokelau** | NA |
+| **Tonga** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1.03 male(s)/female |
+| | *15-24 years:* 1.05 male(s)/female |
+| | *25-54 years:* 1 male(s)/female |
+| | *55-64 years:* 0.91 male(s)/female |
+| | *65 years and over:* 0.86 male(s)/female |
+| | *total population:* 1.01 male(s)/female (2013 est.) |
+| **Trinidad and Tobago** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.08 male(s)/female |
+| | *25-54 years:* 1.07 male(s)/female |
+| | *55-64 years:* 0.99 male(s)/female |
+| | *65 years and over:* 0.76 male(s)/female |
+| | *total population:* 1.03 male(s)/female (2013 est.) |
+| **Tunisia** | *at birth:* 1.07 male(s)/female |
+| | *0-14 years:* 1.07 male(s)/female |
+| | *15-24 years:* 1.01 male(s)/female |
+| | *25-54 years:* 0.95 male(s)/female |
+| | *55-64 years:* 1.03 male(s)/female |
+| | *65 years and over:* 0.96 male(s)/female |
+| | *total population:* 0.99 male(s)/female (2013 est.) |
+| **Turkey** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 1.02 male(s)/female |
+| | *55-64 years:* 1.01 male(s)/female |
+| | *65 years and over:* 0.84 male(s)/female |
+| | *total population:* 1.02 male(s)/female (2013 est.) |
+| **Turkmenistan** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.03 male(s)/female |
+| | *15-24 years:* 1.01 male(s)/female |
+| | *25-54 years:* 0.98 male(s)/female |
+| | *55-64 years:* 0.9 male(s)/female |
+| | *65 years and over:* 0.77 male(s)/female |
+| | *total population:* 0.98 male(s)/female (2013 est.) |
+| **Turks and Caicos Islands** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 0.94 male(s)/female |
+| | *25-54 years:* 1.04 male(s)/female |
+| | *55-64 years:* 1.21 male(s)/female |
+| | *65 years and over:* 0.8 male(s)/female |
+| | *total population:* 1.02 male(s)/female (2013 est.) |
+| **Tuvalu** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.06 male(s)/female |
+| | *15-24 years:* 1.17 male(s)/female |
+| | *25-54 years:* 0.91 male(s)/female |
+| | *55-64 years:* 0.71 male(s)/female |
+| | *65 years and over:* 0.73 male(s)/female |
+| | *total population:* 0.97 male(s)/female (2013 est.) |
+| **Uganda** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 0.99 male(s)/female |
+| | *15-24 years:* 0.99 male(s)/female |
+| | *25-54 years:* 1 male(s)/female |
+| | *55-64 years:* 0.89 male(s)/female |
+| | *65 years and over:* 0.8 male(s)/female |
+| | *total population:* 0.99 male(s)/female (2013 est.) |
+| **Ukraine** | *at birth:* 1.07 male(s)/female |
+| | *0-14 years:* 1.06 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 0.93 male(s)/female |
+| | *55-64 years:* 0.75 male(s)/female |
+| | *65 years and over:* 0.49 male(s)/female |
+| | *total population:* 0.85 male(s)/female (2013 est.) |
+| **United Arab Emirates** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.46 male(s)/female |
+| | *25-54 years:* 3.23 male(s)/female |
+| | *55-64 years:* 3.19 male(s)/female |
+| | *65 years and over:* 1.77 male(s)/female |
+| | *total population:* 2.19 male(s)/female (2013 est.) |
+| **United Kingdom** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 1.03 male(s)/female |
+| | *55-64 years:* 0.97 male(s)/female |
+| | *65 years and over:* 0.8 male(s)/female |
+| | *total population:* 0.99 male(s)/female (2013 est.) |
+| **United States** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.04 male(s)/female |
+| | *25-54 years:* 1 male(s)/female |
+| | *55-64 years:* 0.93 male(s)/female |
+| | *65 years and over:* 0.77 male(s)/female |
+| | *total population:* 0.97 male(s)/female (2013 est.) |
+| **Uruguay** | *at birth:* 1.04 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.03 male(s)/female |
+| | *25-54 years:* 0.97 male(s)/female |
+| | *55-64 years:* 0.89 male(s)/female |
+| | *65 years and over:* 0.66 male(s)/female |
+| | *total population:* 0.93 male(s)/female (2013 est.) |
+| **Uzbekistan** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.02 male(s)/female |
+| | *25-54 years:* 0.99 male(s)/female |
+| | *55-64 years:* 0.89 male(s)/female |
+| | *65 years and over:* 0.75 male(s)/female |
+| | *total population:* 0.99 male(s)/female (2013 est.) |
+| **Vanuatu** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1 male(s)/female |
+| | *25-54 years:* 0.96 male(s)/female |
+| | *55-64 years:* 1.04 male(s)/female |
+| | *65 years and over:* 1.07 male(s)/female |
+| | *total population:* 1.01 male(s)/female (2013 est.) |
+| **Venezuela** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.01 male(s)/female |
+| | *25-54 years:* 0.96 male(s)/female |
+| | *55-64 years:* 0.91 male(s)/female |
+| | *65 years and over:* 0.79 male(s)/female |
+| | *total population:* 0.98 male(s)/female (2013 est.) |
+| **Vietnam** | *at birth:* 1.12 male(s)/female |
+| | *0-14 years:* 1.1 male(s)/female |
+| | *15-24 years:* 1.07 male(s)/female |
+| | *25-54 years:* 1 male(s)/female |
+| | *55-64 years:* 0.83 male(s)/female |
+| | *65 years and over:* 0.62 male(s)/female |
+| | *total population:* 1 male(s)/female (2013 est.) |
+| **Virgin Islands** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 1.03 male(s)/female |
+| | *15-24 years:* 0.83 male(s)/female |
+| | *25-54 years:* 0.84 male(s)/female |
+| | *55-64 years:* 0.91 male(s)/female |
+| | *65 years and over:* 0.83 male(s)/female |
+| | *total population:* 0.88 male(s)/female (2013 est.) |
+| **Wallis and Futuna** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.09 male(s)/female |
+| | *15-24 years:* 1.08 male(s)/female |
+| | *25-54 years:* 0.98 male(s)/female |
+| | *55-64 years:* 1.05 male(s)/female |
+| | *65 years and over:* 0.89 male(s)/female |
+| | *total population:* 1.02 male(s)/female (2013 est.) |
+| **West Bank** | *at birth:* 1.06 male(s)/female |
+| | *0-14 years:* 1.05 male(s)/female |
+| | *15-24 years:* 1.05 male(s)/female |
+| | *25-54 years:* 1.06 male(s)/female |
+| | *55-64 years:* 0.99 male(s)/female |
+| | *65 years and over:* 0.71 male(s)/female |
+| | *total population:* 1.04 male(s)/female (2013 est.) |
+| **Western Sahara** | *at birth:* 1.04 male(s)/female |
+| | *0-14 years:* 1.02 male(s)/female |
+| | *15-24 years:* 1.01 male(s)/female |
+| | *25-54 years:* 0.96 male(s)/female |
+| | *55-64 years:* 0.88 male(s)/female |
+| | *65 years and over:* 0.78 male(s)/female |
+| | *total population:* 0.98 male(s)/female (2013 est.) |
+| **World** | *at birth:* 1.07 male(s)/female |
+| | *0-14 years:* 1.07 male(s)/female |
+| | *15-24 years:* 1.06 male(s)/female |
+| | *25-54 years:* 1.02 male(s)/female |
+| | *55-64 years:* 0.96 male(s)/female |
+| | *65 years and over:* 0.8 male(s)/female |
+| | *total population:* 1.01 male(s)/female (2013 est.) |
+| **Yemen** | *at birth:* 1.05 male(s)/female |
+| | *0-14 years:* 1.04 male(s)/female |
+| | *15-24 years:* 1.03 male(s)/female |
+| | *25-54 years:* 1.05 male(s)/female |
+| | *55-64 years:* 0.92 male(s)/female |
+| | *65 years and over:* 0.9 male(s)/female |
+| | *total population:* 1.03 male(s)/female (2013 est.) |
+| **Zambia** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1.01 male(s)/female |
+| | *15-24 years:* 1 male(s)/female |
+| | *25-54 years:* 1.02 male(s)/female |
+| | *55-64 years:* 0.92 male(s)/female |
+| | *65 years and over:* 0.75 male(s)/female |
+| | *total population:* 1 male(s)/female (2013 est.) |
+| **Zimbabwe** | *at birth:* 1.03 male(s)/female |
+| | *0-14 years:* 1.02 male(s)/female |
+| | *15-24 years:* 0.95 male(s)/female |
+| | *25-54 years:* 0.95 male(s)/female |
+| | *55-64 years:* 0.57 male(s)/female |
+| | *65 years and over:* 0.7 male(s)/female |
+| | *total population:* 0.95 male(s)/female (2013 est.) |

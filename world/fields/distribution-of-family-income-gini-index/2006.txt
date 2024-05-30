@@ -1,0 +1,131 @@
+CIA - The World Factbook -- Field Listing - Distribution of family income - Gini index
+
+| Country | Distribution of family income - Gini index |
+| --- | --- |
+| **Albania** | 28.2 (2002) |
+| **Algeria** | 35.3 (1995) |
+| **Argentina** | 52.2 (2001) |
+| **Armenia** | 41.3 (2004) |
+| **Australia** | 35.2 (1994) |
+| **Austria** | 31 (2002) |
+| **Azerbaijan** | 36.5 (2001) |
+| **Bangladesh** | 31.8 (2000) |
+| **Belarus** | 30.4 (2000) |
+| **Belgium** | 25 (1996) |
+| **Bolivia** | 60.6 (2002) |
+| **Bosnia and Herzegovina** | 26.2 (2001) |
+| **Botswana** | 63 (1993) |
+| **Brazil** | 59.7 (2004) |
+| **Bulgaria** | 31.9 (2001) |
+| **Burkina Faso** | 48.2 (1998) |
+| **Burundi** | 33.3 (1998) |
+| **Cambodia** | 40 (2004 est.) |
+| **Cameroon** | 44.6 (2001) |
+| **Canada** | 33.1 (1998) |
+| **Central African Republic** | 61.3 (1993) |
+| **Chile** | 57.1 (2000) |
+| **China** | 44 (2002) |
+| **Colombia** | 53.8 (2005) |
+| **Costa Rica** | 46.5 (2000) |
+| **Cote d'Ivoire** | 45.2 (1998) |
+| **Croatia** | 29 (2001) |
+| **Czech Republic** | 27.3 (2003) |
+| **Denmark** | 23.2 (2002) |
+| **Dominican Republic** | 47.4 (1998) |
+| **East Timor** | 38 (2002 est.) |
+| **Ecuador** | 42 |
+| | *note:* data are for urban households (2003) |
+| **Egypt** | 34.4 (2001) |
+| **El Salvador** | 52.5 (2001) |
+| **Estonia** | 33 (2003) |
+| **Ethiopia** | 30 (2000) |
+| **European Union** | 32 (2003 est.) |
+| **Finland** | 26.9 (2000) |
+| **France** | 32.7 (1995) |
+| **Georgia** | 38 (2003) |
+| **Germany** | 28.3 (2000) |
+| **Ghana** | 30 (1999) |
+| **Greece** | 35.1 (2003) |
+| **Guatemala** | 48.3 (2000) |
+| **Guinea** | 40.3 (1994) |
+| **Honduras** | 55 (1999) |
+| **Hong Kong** | 43.4 (1996) |
+| **Hungary** | 24.96 (2002) |
+| **India** | 32.5 (2000) |
+| **Indonesia** | 34.3 (2002) |
+| **Iran** | 43 (1998) |
+| **Ireland** | 35.9 (1996) |
+| **Israel** | 34 (2005) |
+| **Italy** | 36 (2000) |
+| **Jamaica** | 37.9 (2003) |
+| **Japan** | 37.9 (2000) |
+| **Jordan** | 36.4 (1997) |
+| **Kazakhstan** | 31.5 (2003) |
+| **Kenya** | 44.5 (1997) |
+| **Korea, South** | 35.8 (2000) |
+| **Kyrgyzstan** | 29 (2001) |
+| **Laos** | 37 (1997) |
+| **Latvia** | 35 (2003) |
+| **Lesotho** | 63.2 (1995) |
+| **Lithuania** | 32.5 (2003) |
+| **Macedonia** | 28.2 (1998) |
+| **Madagascar** | 47.5 (2001) |
+| **Malawi** | 50.3 (1997) |
+| **Malaysia** | 49.2 (1997) |
+| **Mali** | 50.5 (1994) |
+| **Mauritania** | 39 (2000) |
+| **Mauritius** | 37 (1987 est.) |
+| **Mexico** | 54.6 (2000) |
+| **Moldova** | 36.2 (2001) |
+| **Mongolia** | 44 (1998) |
+| **Morocco** | 40 (2005 est.) |
+| **Mozambique** | 39.6 (1996-97) |
+| **Namibia** | 70.7 (2003) |
+| **Nepal** | 37.7 (FY04/05) |
+| **Netherlands** | 30.9 (2005) |
+| **New Zealand** | 36.2 (1997) |
+| **Nicaragua** | 55.1 (2001) |
+| **Niger** | 50.5 (1995) |
+| **Nigeria** | 50.6 (1996-97) |
+| **Norway** | 25.8 (2000) |
+| **Pakistan** | 41 (FY98/99) |
+| **Panama** | 56.4 (2000) |
+| **Papua New Guinea** | 50.9 (1996) |
+| **Paraguay** | 56.8 (1999) |
+| **Peru** | 49.8 (2000) |
+| **Philippines** | 46.6 (2003) |
+| **Poland** | 34.1 (2002) |
+| **Portugal** | 38.5 (1997) |
+| **Romania** | 28.8 (2003) |
+| **Russia** | 40 (2002) |
+| **Rwanda** | 28.9 (1985) |
+| **Senegal** | 41.3 (1995) |
+| **Sierra Leone** | 62.9 (1989) |
+| **Singapore** | 42.5 (1998) |
+| **Slovakia** | 25.8 (1996) |
+| **Slovenia** | 28.4 (1998) |
+| **South Africa** | 59.3 (1995) |
+| **Spain** | 32.5 (1990) |
+| **Sri Lanka** | 34.4 (1995) |
+| **Sweden** | 25 (2000) |
+| **Switzerland** | 33.1 (1992) |
+| **Tajikistan** | 34.7 (1998) |
+| **Tanzania** | 38.2 (1993) |
+| **Thailand** | 51.1 (2002) |
+| **Tunisia** | 40 (2005 est.) |
+| **Turkey** | 42 (2003) |
+| **Turkmenistan** | 40.8 (1998) |
+| **Uganda** | 43 (1999) |
+| **Ukraine** | 29 (1999) |
+| **United Kingdom** | 36.8 (1999) |
+| **United States** | 45 (2004) |
+| **Uruguay** | 44.6 (2000) |
+| **Uzbekistan** | 26.8 (2000) |
+| **Venezuela** | 49.1 (1998) |
+| **Vietnam** | 36.1 (1998) |
+| **Yemen** | 33.4 (1998) |
+| **Zambia** | 52.6 (1998) |
+| **Zimbabwe** | 56.8 (2003) |
+
+This page was last updated on 19 December, 2006
+ 

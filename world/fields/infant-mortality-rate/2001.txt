@@ -1,0 +1,238 @@
+CIA -- The World Factbook -- Infant mortality rate
+
+| Country | Background |
+| --- | --- |
+| **Afghanistan** | 147.02 deaths/1,000 live births (2001 est.) |
+| **Albania** | 39.99 deaths/1,000 live births (2001 est.) |
+| **Algeria** | 40.56 deaths/1,000 live births (2001 est.) |
+| **American Samoa** | 10.36 deaths/1,000 live births (2001 est.) |
+| **Andorra** | 4.08 deaths/1,000 live births (2001 est.) |
+| **Angola** | 193.72 deaths/1,000 live births (2001 est.) |
+| **Anguilla** | 24.56 deaths/1,000 live births (2001 est.) |
+| **Antigua and Barbuda** | 22.33 deaths/1,000 live births (2001 est.) |
+| **Argentina** | 17.75 deaths/1,000 live births (2001 est.) |
+| **Armenia** | 41.27 deaths/1,000 live births (2001 est.) |
+| **Aruba** | 6.39 deaths/1,000 live births (2001 est.) |
+| **Australia** | 4.97 deaths/1,000 live births (2001 est.) |
+| **Austria** | 4.44 deaths/1,000 live births (2001 est.) |
+| **Azerbaijan** | 83.08 deaths/1,000 live births (2001 est.) |
+| **Bahamas, The** | 17.03 deaths/1,000 live births (2001 est.) |
+| **Bahrain** | 19.77 deaths/1,000 live births (2001 est.) |
+| **Bangladesh** | 69.85 deaths/1,000 live births (2001 est.) |
+| **Barbados** | 12.04 deaths/1,000 live births (2001 est.) |
+| **Belarus** | 14.38 deaths/1,000 live births (2001 est.) |
+| **Belgium** | 4.7 deaths/1,000 live births (2001 est.) |
+| **Belize** | 25.14 deaths/1,000 live births (2001 est.) |
+| **Benin** | 89.68 deaths/1,000 live births (2001 est.) |
+| **Bermuda** | 9.55 deaths/1,000 live births (2001 est.) |
+| **Bhutan** | 108.89 deaths/1,000 live births (2001 est.) |
+| **Bolivia** | 58.98 deaths/1,000 live births (2001 est.) |
+| **Bosnia and Herzegovina** | 24.35 deaths/1,000 live births (2001 est.) |
+| **Botswana** | 63.2 deaths/1,000 live births (2001 est.) |
+| **Brazil** | 36.96 deaths/1,000 live births (2001 est.) |
+| **British Virgin Islands** | 20.3 deaths/1,000 live births (2001 est.) |
+| **Brunei** | 14.4 deaths/1,000 live births (2001 est.) |
+| **Bulgaria** | 14.65 deaths/1,000 live births (2001 est.) |
+| **Burkina Faso** | 106.92 deaths/1,000 live births (2001 est.) |
+| **Burma** | 73.71 deaths/1,000 live births (2001 est.) |
+| **Burundi** | 70.74 deaths/1,000 live births (2001 est.) |
+| **Cambodia** | 65.41 deaths/1,000 live births (2001 est.) |
+| **Cameroon** | 69.83 deaths/1,000 live births (2001 est.) |
+| **Canada** | 5.02 deaths/1,000 live births (2001 est.) |
+| **Cape Verde** | 53.22 deaths/1,000 live births (2001 est.) |
+| **Cayman Islands** | 10.16 deaths/1,000 live births (2001 est.) |
+| **Central African Republic** | 105.25 deaths/1,000 live births (2001 est.) |
+| **Chad** | 95.06 deaths/1,000 live births (2001 est.) |
+| **Chile** | 9.36 deaths/1,000 live births (2001 est.) |
+| **China** | 28.08 deaths/1,000 live births (2001 est.) |
+| **Christmas Island** | NA deaths/1,000 live births |
+| **Cocos (Keeling) Islands** | NA deaths/1,000 live births |
+| **Colombia** | 23.96 deaths/1,000 live births (2001 est.) |
+| **Comoros** | 84.07 deaths/1,000 live births (2001 est.) |
+| **Congo, Democratic Republic of the** | 99.88 deaths/1,000 live births (2001 est.) |
+| **Congo, Republic of the** | 99.73 deaths/1,000 live births (2001 est.) |
+| **Costa Rica** | 11.18 deaths/1,000 live births (2001 est.) |
+| **Cote d'Ivoire** | 93.65 deaths/1,000 live births (2001 est.) |
+| **Croatia** | 7.21 deaths/1,000 live births (2001 est.) |
+| **Cuba** | 7.39 deaths/1,000 live births (2001 est.) |
+| **Cyprus** | 7.89 deaths/1,000 live births (2001 est.) |
+| **Czech Republic** | 5.55 deaths/1,000 live births (2001 est.) |
+| **Denmark** | 5.04 deaths/1,000 live births (2001 est.) |
+| **Djibouti** | 101.51 deaths/1,000 live births (2001 est.) |
+| **Dominica** | 16.54 deaths/1,000 live births (2001 est.) |
+| **Dominican Republic** | 34.67 deaths/1,000 live births (2001 est.) |
+| **Ecuador** | 34.08 deaths/1,000 live births (2001 est.) |
+| **Egypt** | 60.46 deaths/1,000 live births (2001 est.) |
+| **El Salvador** | 28.4 deaths/1,000 live births (2001 est.) |
+| **Equatorial Guinea** | 92.9 deaths/1,000 live births (2001 est.) |
+| **Eritrea** | 75.14 deaths/1,000 live births (2001 est.) |
+| **Estonia** | 12.62 deaths/1,000 live births (2001 est.) |
+| **Ethiopia** | 99.96 deaths/1,000 live births (2001 est.) |
+| **Falkland Islands (Islas Malvinas)** | NA deaths/1,000 live births |
+| **Faroe Islands** | 6.8 deaths/1,000 live births (2001 est.) |
+| **Fiji** | 14.08 deaths/1,000 live births (2001 est.) |
+| **Finland** | 3.79 deaths/1,000 live births (2001 est.) |
+| **France** | 4.46 deaths/1,000 live births (2001 est.) |
+| **French Guiana** | 13.61 deaths/1,000 live births (2001 est.) |
+| **French Polynesia** | 9.12 deaths/1,000 live births (2001 est.) |
+| **Gabon** | 94.91 deaths/1,000 live births (2001 est.) |
+| **Gambia, The** | 77.84 deaths/1,000 live births (2001 est.) |
+| **Gaza Strip** | 25.37 deaths/1,000 live births (2001 est.) |
+| **Georgia** | 52.37 deaths/1,000 live births (2001 est.) |
+| **Germany** | 4.71 deaths/1,000 live births (2001 est.) |
+| **Ghana** | 56.54 deaths/1,000 live births (2001 est.) |
+| **Gibraltar** | 5.49 deaths/1,000 live births (2001 est.) |
+| **Greece** | 6.38 deaths/1,000 live births (2001 est.) |
+| **Greenland** | 17.77 deaths/1,000 live births (2001 est.) |
+| **Grenada** | 14.63 deaths/1,000 live births (2001 est.) |
+| **Guadeloupe** | 9.53 deaths/1,000 live births (2001 est.) |
+| **Guam** | 6.71 deaths/1,000 live births (2001 est.) |
+| **Guatemala** | 45.79 deaths/1,000 live births (2001 est.) |
+| **Guernsey** | 5 deaths/1,000 live births (2001 est.) |
+| **Guinea** | 129.03 deaths/1,000 live births (2001 est.) |
+| **Guinea-Bissau** | 110.4 deaths/1,000 live births (2001 est.) |
+| **Guyana** | 38.72 deaths/1,000 live births (2001 est.) |
+| **Haiti** | 95.23 deaths/1,000 live births (2001 est.) |
+| **Honduras** | 30.88 deaths/1,000 live births (2001 est.) |
+| **Hong Kong** | 5.83 deaths/1,000 live births (2001 est.) |
+| **Hungary** | 8.96 deaths/1,000 live births (2001 est.) |
+| **Iceland** | 3.56 deaths/1,000 live births (2001 est.) |
+| **India** | 63.19 deaths/1,000 live births (2001 est.) |
+| **Indonesia** | 40.91 deaths/1,000 live births (2001 est.) |
+| **Iran** | 29.04 deaths/1,000 live births (2001 est.) |
+| **Iraq** | 60.05 deaths/1,000 live births (2001 est.) |
+| **Ireland** | 5.53 deaths/1,000 live births (2001 est.) |
+| **Israel** | 7.72 deaths/1,000 live births (2001 est.) |
+| **Italy** | 5.84 deaths/1,000 live births (2001 est.) |
+| **Jamaica** | 14.16 deaths/1,000 live births (2001 est.) |
+| **Japan** | 3.88 deaths/1,000 live births (2001 est.) |
+| **Jersey** | 5.62 deaths/1,000 live births (2001 est.) |
+| **Jordan** | 20.36 deaths/1,000 live births (2001 est.) |
+| **Kazakhstan** | 59.17 deaths/1,000 live births (2001 est.) |
+| **Kenya** | 67.99 deaths/1,000 live births (2001 est.) |
+| **Kiribati** | 54 deaths/1,000 live births (2001 est.) |
+| **Korea, North** | 23.55 deaths/1,000 live births (2001 est.) |
+| **Korea, South** | 7.71 deaths/1,000 live births (2001 est.) |
+| **Kuwait** | 11.18 deaths/1,000 live births (2001 est.) |
+| **Kyrgyzstan** | 76.5 deaths/1,000 live births (2001 est.) |
+| **Laos** | 92.89 deaths/1,000 live births (2001 est.) |
+| **Latvia** | 15.34 deaths/1,000 live births (2001 est.) |
+| **Lebanon** | 28.35 deaths/1,000 live births (2001 est.) |
+| **Lesotho** | 82.77 deaths/1,000 live births (2001 est.) |
+| **Liberia** | 132.42 deaths/1,000 live births (2001 est.) |
+| **Libya** | 28.99 deaths/1,000 live births (2001 est.) |
+| **Liechtenstein** | 4.99 deaths/1,000 live births (2001 est.) |
+| **Lithuania** | 14.5 deaths/1,000 live births (2001 est.) |
+| **Luxembourg** | 4.77 deaths/1,000 live births (2001 est.) |
+| **Macau** | 4.47 deaths/1,000 live births (2001 est.) |
+| **Macedonia, The Former Yugoslav Republic of** | 12.95 deaths/1,000 live births (2001 est.) |
+| **Madagascar** | 83.58 deaths/1,000 live births (2001 est.) |
+| **Malawi** | 121.12 deaths/1,000 live births (2001 est.) |
+| **Malaysia** | 20.31 deaths/1,000 live births (2001 est.) |
+| **Maldives** | 63.72 deaths/1,000 live births (2001 est.) |
+| **Mali** | 121.44 deaths/1,000 live births (2001 est.) |
+| **Malta** | 5.83 deaths/1,000 live births (2001 est.) |
+| **Man, Isle of** | 6.42 deaths/1,000 live births (2001 est.) |
+| **Marshall Islands** | 39.82 deaths/1,000 live births (2001 est.) |
+| **Martinique** | 7.8 deaths/1,000 live births (2001 est.) |
+| **Mauritania** | 76.7 deaths/1,000 live births (2001 est.) |
+| **Mauritius** | 17.19 deaths/1,000 live births (2001 est.) |
+| **Mayotte** | 69.54 deaths/1,000 live births (2001 est.) |
+| **Mexico** | 25.36 deaths/1,000 live births (2001 est.) |
+| **Moldova** | 42.74 deaths/1,000 live births (2001 est.) |
+| **Monaco** | 5.83 deaths/1,000 live births (2001 est.) |
+| **Mongolia** | 53.5 deaths/1,000 live births (2001 est.) |
+| **Montserrat** | 8.19 deaths/1,000 live births (2001 est.) |
+| **Morocco** | 48.11 deaths/1,000 live births (2001 est.) |
+| **Mozambique** | 139.2 deaths/1,000 live births (2001 est.) |
+| **Namibia** | 71.66 deaths/1,000 live births (2001 est.) |
+| **Nauru** | 10.71 deaths/1,000 live births (2001 est.) |
+| **Nepal** | 74.14 deaths/1,000 live births (2001 est.) |
+| **Netherlands** | 4.37 deaths/1,000 live births (2001 est.) |
+| **Netherlands Antilles** | 11.4 deaths/1,000 live births (2001 est.) |
+| **New Caledonia** | 8.4 deaths/1,000 live births (2001 est.) |
+| **New Zealand** | 6.28 deaths/1,000 live births (2001 est.) |
+| **Nicaragua** | 33.66 deaths/1,000 live births (2001 est.) |
+| **Niger** | 123.57 deaths/1,000 live births (2001 est.) |
+| **Nigeria** | 73.34 deaths/1,000 live births (2001 est.) |
+| **Niue** | NA deaths/1,000 live births |
+| **Norfolk Island** | NA deaths/1,000 live births |
+| **Northern Mariana Islands** | 5.7 deaths/1,000 live births (2001 est.) |
+| **Norway** | 3.94 deaths/1,000 live births (2001 est.) |
+| **Oman** | 22.52 deaths/1,000 live births (2001 est.) |
+| **Pakistan** | 80.5 deaths/1,000 live births (2001 est.) |
+| **Palau** | 16.67 deaths/1,000 live births (2001 est.) |
+| **Panama** | 20.18 deaths/1,000 live births (2001 est.) |
+| **Papua New Guinea** | 58.21 deaths/1,000 live births (2001 est.) |
+| **Paraguay** | 29.78 deaths/1,000 live births (2001 est.) |
+| **Peru** | 39.39 deaths/1,000 live births (2001 est.) |
+| **Philippines** | 28.7 deaths/1,000 live births (2001 est.) |
+| **Pitcairn Islands** | NA deaths/1,000 live births |
+| **Poland** | 9.39 deaths/1,000 live births (2001 est.) |
+| **Portugal** | 5.94 deaths/1,000 live births (2001 est.) |
+| **Puerto Rico** | 9.51 deaths/1,000 live births (2001 est.) |
+| **Qatar** | 21.44 deaths/1,000 live births (2001 est.) |
+| **Reunion** | 8.49 deaths/1,000 live births (2001 est.) |
+| **Romania** | 19.36 deaths/1,000 live births (2001 est.) |
+| **Russia** | 20.05 deaths/1,000 live births (2001 est.) |
+| **Rwanda** | 118.92 deaths/1,000 live births (2001 est.) |
+| **Saint Helena** | 22.38 deaths/1,000 live births (2001 est.) |
+| **Saint Kitts and Nevis** | 16.28 deaths/1,000 live births (2001 est.) |
+| **Saint Lucia** | 15.22 deaths/1,000 live births (2001 est.) |
+| **Saint Pierre and Miquelon** | 8.39 deaths/1,000 live births (2001 est.) |
+| **Saint Vincent and the Grenadines** | 16.61 deaths/1,000 live births (2001 est.) |
+| **Samoa** | 31.75 deaths/1,000 live births (2001 est.) |
+| **San Marino** | 6.21 deaths/1,000 live births (2001 est.) |
+| **Sao Tome and Principe** | 48.96 deaths/1,000 live births (2001 est.) |
+| **Saudi Arabia** | 51.25 deaths/1,000 live births (2001 est.) |
+| **Senegal** | 56.75 deaths/1,000 live births (2001 est.) |
+| **Seychelles** | 17.3 deaths/1,000 live births (2001 est.) |
+| **Sierra Leone** | 146.52 deaths/1,000 live births (2001 est.) |
+| **Singapore** | 3.62 deaths/1,000 live births (2001 est.) |
+| **Slovakia** | 8.97 deaths/1,000 live births (2001 est.) |
+| **Slovenia** | 4.51 deaths/1,000 live births (2001 est.) |
+| **Solomon Islands** | 24.47 deaths/1,000 live births (2001 est.) |
+| **Somalia** | 123.97 deaths/1,000 live births (2001 est.) |
+| **South Africa** | 60.33 deaths/1,000 live births (2001 est.) |
+| **Spain** | 4.92 deaths/1,000 live births (2001 est.) |
+| **Sri Lanka** | 16.08 deaths/1,000 live births (2001 est.) |
+| **Sudan** | 68.67 deaths/1,000 live births (2001 est.) |
+| **Suriname** | 24.27 deaths/1,000 live births (2001 est.) |
+| **Svalbard** | NA deaths/1,000 live births |
+| **Swaziland** | 109.19 deaths/1,000 live births (2001 est.) |
+| **Sweden** | 3.47 deaths/1,000 live births (2001 est.) |
+| **Switzerland** | 4.48 deaths/1,000 live births (2001 est.) |
+| **Syria** | 33.8 deaths/1,000 live births (2001 est.) |
+| **Tajikistan** | 116.09 deaths/1,000 live births (2001 est.) |
+| **Tanzania** | 79.41 deaths/1,000 live births (2001 est.) |
+| **Thailand** | 30.49 deaths/1,000 live births (2001 est.) |
+| **Togo** | 70.43 deaths/1,000 live births (2001 est.) |
+| **Tokelau** | NA deaths/1,000 live births |
+| **Tonga** | 14.08 deaths/1,000 live births (2001 est.) |
+| **Trinidad and Tobago** | 24.98 deaths/1,000 live births (2001 est.) |
+| **Tunisia** | 29.04 deaths/1,000 live births (2001 est.) |
+| **Turkey** | 47.34 deaths/1,000 live births (2001 est.) |
+| **Turkmenistan** | 73.25 deaths/1,000 live births (2001 est.) |
+| **Turks and Caicos Islands** | 18.06 deaths/1,000 live births (2001 est.) |
+| **Tuvalu** | 22.65 deaths/1,000 live births (2001 est.) |
+| **Uganda** | 91.3 deaths/1,000 live births (2001 est.) |
+| **Ukraine** | 21.4 deaths/1,000 live births (2001 est.) |
+| **United Arab Emirates** | 16.68 deaths/1,000 live births (2001 est.) |
+| **United Kingdom** | 5.54 deaths/1,000 live births (2001 est.) |
+| **United States** | 6.76 deaths/1,000 live births (2001 est.) |
+| **Uruguay** | 14.7 deaths/1,000 live births (2001 est.) |
+| **Uzbekistan** | 71.92 deaths/1,000 live births (2001 est.) |
+| **Vanuatu** | 61.05 deaths/1,000 live births (2001 est.) |
+| **Venezuela** | 25.37 deaths/1,000 live births (2001 est.) |
+| **Vietnam** | 30.24 deaths/1,000 live births (2001 est.) |
+| **Virgin Islands** | 9.43 deaths/1,000 live births (2001 est.) |
+| **Wallis and Futuna** | NA deaths/1,000 live births |
+| **West Bank** | 21.78 deaths/1,000 live births (2001 est.) |
+| **World** | 52.61 deaths/1,000 live births (2001 est.) |
+| **Yemen** | 68.53 deaths/1,000 live births (2001 est.) |
+| **Yugoslavia** | 17.42 deaths/1,000 live births (2001 est.) |
+| **Zambia** | 90.89 deaths/1,000 live births (2001 est.) |
+| **Zimbabwe** | 62.61 deaths/1,000 live births (2001 est.) |
+| **Taiwan** | 6.93 deaths/1,000 live births (2001 est.) |
+
+

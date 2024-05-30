@@ -1,0 +1,245 @@
+Field Listing :: Education expenditures :: The World Factbook
+
+This entry provides the public expenditure on education as a percent of GDP.
+
+| Country | Education expenditures |
+| --- | --- |
+| **Afghanistan** | 4.1% of GDP (2017) |
+| **Albania** | 3.6% of GDP (2017) |
+| **Algeria** | NA |
+| **American Samoa** | NA |
+| **Andorra** | 3.2% of GDP (2019) |
+| **Angola** | 3.4% of GDP (2010) |
+| **Anguilla** | NA |
+| **Antarctica** | |
+| **Antigua and Barbuda** | NA |
+| **Arctic Ocean** | |
+| **Argentina** | 5.5% of GDP (2017) |
+| **Armenia** | 2.7% of GDP (2017) |
+| **Aruba** | 5.5% of GDP (2016) |
+| **Australia** | 5.1% of GDP (2017) |
+| **Austria** | 5.4% of GDP (2017) |
+| **Azerbaijan** | 2.5% of GDP (2018) |
+| **Bahamas, The** | NA |
+| **Bahrain** | 2.3% of GDP (2017) |
+| **Bangladesh** | 1.3% of GDP (2019) |
+| **Barbados** | 4.4% of GDP (2017) |
+| **Belarus** | 4.8% of GDP (2017) |
+| **Belgium** | 6.4% of GDP (2017) |
+| **Belize** | 7.6% of GDP (2018) |
+| **Benin** | 2.9% of GDP (2018) |
+| **Bermuda** | 1.5% of GDP (2017) |
+| **Bhutan** | 6.9% of GDP (2018) |
+| **Bolivia** | 7.3% of GDP (2014) |
+| **Bosnia and Herzegovina** | NA |
+| **Botswana** | NA |
+| **Brazil** | 6.3% of GDP (2017) |
+| **British Virgin Islands** | 2.5% of GDP (2018) |
+| **Brunei** | 4.4% of GDP (2016) |
+| **Bulgaria** | 4.1% of GDP (2017) |
+| **Burkina Faso** | 5.4% of GDP (2018) |
+| **Burma** | 1.9% of GDP (2019) |
+| **Burundi** | 5.1% of GDP (2018) |
+| **Cabo Verde** | 5.2% of GDP (2017) |
+| **Cambodia** | 2.2% of GDP (2018) |
+| **Cameroon** | 3.1% of GDP (2018) |
+| **Canada** | 5.3% of GDP (2011) |
+| **Cayman Islands** | NA |
+| **Central African Republic** | 1.2% of GDP (2011) |
+| **Chad** | 2.5% of GDP (2017) |
+| **Chile** | 5.4% of GDP (2017) |
+| **China** | NA |
+| **Colombia** | 4.5% of GDP (2018) |
+| **Comoros** | 2.5% of GDP (2015) |
+| **Congo, Democratic Republic of the** | 1.5% of GDP (2017) |
+| **Congo, Republic of the** | 3.5% of GDP (2018) |
+| **Cook Islands** | 4.7% of GDP (2016) |
+| **Costa Rica** | 7% of GDP (2019) |
+| **Cote d'Ivoire** | 3.3% of GDP (2018) |
+| **Croatia** | 3.9% of GDP (2017) |
+| **Cuba** | 12.8% of GDP (2010) |
+| **Curacao** | 4.9% of GDP (2013) |
+| **Cyprus** | 5.8% of GDP (2017) |
+| **Czechia** | 3.9% of GDP (2017) |
+| **Denmark** | 7.8% of GDP (2017) |
+| **Djibouti** | 3.6% of GDP (2018) |
+| **Dominica** | 5.6% of GDP (2019) |
+| **Dominican Republic** | NA |
+| **Ecuador** | 5% of GDP (2015) |
+| **Egypt** | NA |
+| **El Salvador** | 3.6% of GDP (2018) |
+| **Equatorial Guinea** | NA |
+| **Eritrea** | NA |
+| **Estonia** | 5% of GDP (2017) |
+| **Eswatini** | 7.1% of GDP (2014) |
+| **Ethiopia** | 4.7% of GDP (2015) |
+| **European Union** | 4.6% of GDP (2017) |
+| **Fiji** | 3.9% of GDP (2013) |
+| **Finland** | 6.4% of GDP (2017) |
+| **France** | 5.5% of GDP (2017) |
+| **Gabon** | 2.7% of GDP (2014) |
+| **Gambia, The** | 2.4% of GDP (2018) |
+| **Gaza Strip** | 5.3% of GDP (2017) |
+| | *note:* includes Gaza Strip and the West Bank |
+| **Georgia** | 3.5% of GDP (2018) |
+| **Germany** | 4.9% of GDP (2017) |
+| **Ghana** | 4% of GDP (2018) |
+| **Gibraltar** | NA |
+| **Greece** | NA |
+| **Greenland** | NA |
+| **Grenada** | 3.2% of GDP (2017) |
+| **Guam** | NA |
+| **Guatemala** | 3.2% of GDP (2019) |
+| **Guernsey** | NA |
+| **Guinea** | 2.3% of GDP (2018) |
+| **Guinea-Bissau** | 2.1% of GDP (2013) |
+| **Guyana** | 5.5% of GDP (2018) |
+| **Haiti** | 2.8% of GDP (2018) |
+| **Holy See (Vatican City)** | NA |
+| **Honduras** | 6.1% of GDP (2018) |
+| **Hong Kong** | 3.8% of GDP (2019) |
+| **Hungary** | 4.7% of GDP (2017) |
+| **Iceland** | 7.7% of GDP (2017) |
+| **India** | 3.8% of GDP (2013) |
+| **Indonesia** | 3.6% of GDP (2015) |
+| **Iran** | 4% of GDP (2018) |
+| **Iraq** | NA |
+| **Ireland** | 3.5% of GDP (2017) |
+| **Isle of Man** | NA |
+| **Israel** | 6.1% of GDP (2017) |
+| **Italy** | 4% of GDP (2017) |
+| **Jamaica** | 5.2% of GDP (2019) |
+| **Japan** | 3.2% of GDP (2017) |
+| **Jersey** | NA |
+| **Jordan** | 3.1% of GDP (2019) |
+| **Kazakhstan** | 2.6% of GDP (2018) |
+| **Kenya** | 5.3% of GDP (2018) |
+| **Kiribati** | NA |
+| **Korea, North** | NA |
+| **Korea, South** | 4.3% of GDP (2016) |
+| **Kosovo** | NA |
+| **Kuwait** | NA |
+| **Kyrgyzstan** | 6% of GDP (2017) |
+| **Laos** | 2.9% of GDP (2014) |
+| **Latvia** | 4.4% of GDP (2017) |
+| **Lebanon** | 2.5% of GDP (2013) |
+| **Lesotho** | 7% of GDP (2018) |
+| **Liberia** | 2.6% of GDP (2018) |
+| **Libya** | NA |
+| **Liechtenstein** | 2.6% of GDP (2011) |
+| **Lithuania** | 3.8% of GDP (2017) |
+| **Luxembourg** | 3.6% of GDP (2017) |
+| **Macau** | 2.7% of GDP (2018) |
+| **Madagascar** | 2.8% of GDP (2018) |
+| **Malawi** | 4.7% of GDP (2018) |
+| **Malaysia** | 4.2% of GDP (2019) |
+| **Maldives** | 4.1% of GDP (2016) |
+| **Mali** | 3.8% of GDP (2017) |
+| **Malta** | 4.8% of GDP (2017) |
+| **Marshall Islands** | NA |
+| **Mauritania** | 1.9% of GDP (2019) |
+| **Mauritius** | 4.7% of GDP (2019) |
+| **Mexico** | 4.5% of GDP (2017) |
+| **Micronesia, Federated States of** | 12.5% of GDP (2015) |
+| **Midway Islands** | NA |
+| **Moldova** | 5.4% of GDP (2018) |
+| **Monaco** | 1.5% of GDP (2017) |
+| **Mongolia** | 4.1% of GDP (2017) |
+| **Montenegro** | NA |
+| **Montserrat** | 8.8% of GDP (2019) |
+| **Morocco** | NA |
+| **Mozambique** | 5.5% of GDP (2018) |
+| **Namibia** | 3.1% of GDP (2014) |
+| **Nauru** | NA |
+| **Navassa Island** | NA |
+| **Nepal** | 5.1% of GDP (2018) |
+| **Netherlands** | 5.2% of GDP (2017) |
+| **New Caledonia** | NA |
+| **New Zealand** | 6.3% of GDP (2017) |
+| **Nicaragua** | 4.4% of GDP (2017) |
+| **Niger** | 3.5% of GDP (2018) |
+| **Nigeria** | NA |
+| **Niue** | NA |
+| **Norfolk Island** | NA |
+| **North Macedonia** | NA |
+| **Northern Mariana Islands** | NA |
+| **Norway** | 7.9% of GDP (2017) |
+| **Oman** | 6.8% of GDP (2017) |
+| **Pakistan** | 2.9% of GDP (2017) |
+| **Palau** | NA |
+| **Panama** | 3.2% of GDP (2011) |
+| **Papua New Guinea** | 1.9% of GDP (2018) |
+| **Paraguay** | 3.4% of GDP (2016) |
+| **Peru** | 3.8% of GDP (2019) |
+| **Philippines** | NA |
+| **Poland** | 4.6% of GDP (2017) |
+| **Portugal** | 5% of GDP (2017) |
+| **Puerto Rico** | 6.1% of GDP (2014) |
+| **Qatar** | 2.7% of GDP (2019) |
+| **Romania** | 3.1% of GDP (2017) |
+| **Russia** | 4.7% of GDP (2017) |
+| **Rwanda** | 3.1% of GDP (2018) |
+| **Saint Barthelemy** | NA |
+| **Saint Helena, Ascension, and Tristan da Cunha** | NA |
+| **Saint Kitts and Nevis** | 2.6% of GDP (2015) |
+| **Saint Lucia** | 3.3% of GDP (2018) |
+| **Saint Martin** | NA |
+| **Saint Pierre and Miquelon** | NA |
+| **Saint Vincent and the Grenadines** | 5.7% of GDP (2018) |
+| **Samoa** | 4.2% of GDP (2016) |
+| **San Marino** | 3.6% of GDP (2018) |
+| **Sao Tome and Principe** | 5.1% of GDP (2018) |
+| **Saudi Arabia** | NA |
+| **Senegal** | 4.8% of GDP (2018) |
+| **Serbia** | 3.6% of GDP (2018) |
+| **Seychelles** | 4.4% of GDP (2016) |
+| **Sierra Leone** | 7.7% of GDP (2019) |
+| **Singapore** | 2.9% of GDP (2013) |
+| **Sint Maarten** | NA |
+| **Slovakia** | 3.9% of GDP (2017) |
+| **Slovenia** | 4.8% of GDP (2017) |
+| **Solomon Islands** | 9.9% of GDP (2010) |
+| **Somalia** | NA |
+| **South Africa** | 6.5% of GDP (2019) |
+| **South Sudan** | 1.5% of GDP (2016) |
+| **Spain** | 4.2% of GDP (2017) |
+| **Sri Lanka** | 2.1% of GDP (2018) |
+| **Sudan** | NA |
+| **Suriname** | NA |
+| **Svalbard** | NA |
+| **Sweden** | 7.6% of GDP (2017) |
+| **Switzerland** | 5.1% of GDP (2017) |
+| **Syria** | NA |
+| **Taiwan** | NA |
+| **Tajikistan** | 5.2% of GDP (2015) |
+| **Tanzania** | 3.4% of GDP (2014) |
+| **Thailand** | 4.1% of GDP (2013) |
+| **Timor-Leste** | 6.8% of GDP (2018) |
+| **Togo** | 5.4% of GDP (2018) |
+| **Tokelau** | NA |
+| **Tonga** | NA |
+| **Trinidad and Tobago** | NA |
+| **Tunisia** | 6.6% of GDP (2015) |
+| **Turkey** | 4.3% of GDP (2015) |
+| **Turkmenistan** | 3.1% of GDP (2012) |
+| **Turks and Caicos Islands** | 2.9% of GDP (2018) |
+| **Tuvalu** | NA |
+| **Uganda** | 2.1% of GDP (2018) |
+| **Ukraine** | 5.4% of GDP (2017) |
+| **United Arab Emirates** | NA |
+| **United Kingdom** | 5.4% of GDP (2017) |
+| **United States** | 5% of GDP (2014) |
+| **Uruguay** | 5% of GDP (2018) |
+| **Uzbekistan** | 5.3% of GDP (2017) |
+| **Vanuatu** | 4.5% of GDP (2017) |
+| **Venezuela** | NA |
+| **Vietnam** | 4.2% of GDP (2018) |
+| **Virgin Islands** | NA |
+| **Wallis and Futuna** | NA |
+| **West Bank** | 5.3% of GDP (2017) |
+| | *note:* includes Gaza Strip and the West Bank |
+| **World** | NA |
+| **Yemen** | NA |
+| **Zambia** | 4.6% of GDP NA (2018) |
+| **Zimbabwe** | 5.9% of GDP (2018) |
+

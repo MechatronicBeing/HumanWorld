@@ -1,0 +1,105 @@
+CIA - The World Factbook -- Field Listing - Natural gas - proved reserves
+
+| Country | Natural gas - proved reserves (cu m) |
+| --- | --- |
+| **Afghanistan** | 49.98 billion cu m (1 January 2002) |
+| **Albania** | 3.316 billion cu m (1 January 2002) |
+| **Algeria** | 4.739 trillion cu m (1 January 2002) |
+| **Angola** | 79.57 billion cu m (1 January 2002) |
+| **Argentina** | 768 billion cu m (1 January 2002) |
+| **Australia** | 2.407 trillion cu m (1 January 2002) |
+| **Austria** | 24.9 billion cu m (1 January 2002) |
+| **Azerbaijan** | 62.3 billion cu m (1 January 2002) |
+| **Bahrain** | 46 billion cu m (1 January 2003) |
+| **Bangladesh** | 150.3 billion cu m (1 January 2002) |
+| **Barbados** | 70.79 million cu m (1 January 2002) |
+| **Benin** | 608.8 million cu m (1 January 2002) |
+| **Bolivia** | 727.2 billion cu m (1 January 2002) |
+| **Brazil** | 221.7 billion cu m (1 January 2002) |
+| **Brunei** | 315 billion cu m (1 January 2002) |
+| **Bulgaria** | 3.724 billion cu m (1 January 2002) |
+| **Burma** | 314.4 billion cu m (1 January 2003) |
+| **Cameroon** | 55.22 billion cu m (1 January 2002) |
+| **Canada** | 1.691 trillion cu m (1 January 2002) |
+| **Chile** | 67.78 billion cu m (1 January 2002) |
+| **China** | 1.29 trillion cu m (1 January 2002) |
+| **Colombia** | 132 billion cu m (1 January 2002) |
+| **Congo, Democratic Republic of the** | 104.8 billion cu m (1 January 2002) |
+| **Congo, Republic of the** | 495.5 million cu m (1 January 2002) |
+| **Cote d'Ivoire** | 14.87 billion cu m (1 January 2002) |
+| **Croatia** | 34.36 billion cu m (1 January 2002) |
+| **Cuba** | 42.62 billion cu m (1 January 2002) |
+| **Czech Republic** | 3.057 billion cu m (1 January 2002) |
+| **Denmark** | 81.98 billion cu m (1 January 2002) |
+| **Ecuador** | 106.5 billion cu m (1 January 2002) |
+| **Egypt** | 1.264 trillion cu m (1 January 2002) |
+| **Equatorial Guinea** | 68.53 billion cu m (1 January 2002) |
+| **Ethiopia** | 12.46 billion cu m (1 January 2002) |
+| **European Union** | 3.262 trillion cu m (1 January 2002) |
+| **France** | 12.86 billion cu m (1 January 2002) |
+| **Gabon** | 66.47 billion cu m (1 January 2002) |
+| **Germany** | 298.3 billion cu m (1 January 2002) |
+| **Ghana** | 11.89 billion cu m (1 January 2002) |
+| **Greece** | 254.9 million cu m (1 January 2002) |
+| **Guatemala** | 1.543 billion cu m (1 January 2002) |
+| **Hungary** | 50.45 billion cu m (1 January 2002) |
+| **India** | 542.4 billion cu m (1 January 2002) |
+| **Indonesia** | 2.549 trillion cu m (1 January 2002) |
+| **Iran** | 24.8 trillion cu m (1 January 2002) |
+| **Iraq** | 3.149 trillion cu m (1 January 2002) |
+| **Ireland** | 9.911 billion cu m (1 January 2002) |
+| **Israel** | 20.81 billion cu m (1 January 2002) |
+| **Italy** | 209.7 billion cu m (1 January 2002) |
+| **Japan** | 20.02 billion cu m (1 January 2002) |
+| **Jordan** | 3.256 billion cu m (1 January 2002) |
+| **Kazakhstan** | 920.3 billion cu m (1 January 2002) |
+| **Kuwait** | 1.548 trillion cu m (1 January 2002) |
+| **Libya** | 1.321 trillion cu m (1 January 2002) |
+| **Madagascar** | 0 cu m (1 January 2002) |
+| **Malaysia** | 2.23 trillion cu m (1 January 2002) |
+| **Mexico** | 969.2 billion cu m (1 January 2003) |
+| **Morocco** | 665.4 million cu m (1 January 2002) |
+| **Mozambique** | 63.71 billion cu m (1 January 2002) |
+| **Namibia** | 31.15 billion cu m (1 January 2002) |
+| **Netherlands** | 1.693 trillion cu m (1 January 2002) |
+| **New Zealand** | 58.94 billion cu m (1 January 2002) |
+| **Nigeria** | 4.007 trillion cu m (1 January 2002) |
+| **Norway** | 1.716 trillion cu m (1 January 2002) |
+| **Oman** | 846.4 billion cu m (1 January 2002) |
+| **Pakistan** | 695.6 billion cu m (1 January 2002) |
+| **Papua New Guinea** | 385.5 billion cu m (1 January 2002) |
+| **Peru** | 245.1 billion cu m (1 January 2002) |
+| **Philippines** | 104.6 billion cu m (1 January 2002) |
+| **Poland** | 154.4 billion cu m (1 January 2002) |
+| **Qatar** | 17.93 trillion cu m (1 January 2002) |
+| **Romania** | 111.1 billion cu m (1 January 2002) |
+| **Russia** | 47.86 trillion cu m (1 January 2002) |
+| **Rwanda** | 28.32 billion cu m (1 January 2002) |
+| **Saudi Arabia** | 6.339 trillion cu m (1 January 2002) |
+| **Serbia and Montenegro** | 24.07 billion cu m (1 January 2002) |
+| **Slovakia** | 7.504 billion cu m (1 January 2002) |
+| **Somalia** | 2.832 billion cu m (1 January 2002) |
+| **South Africa** | 14.16 billion cu m (1 January 2002) |
+| **Spain** | 254.9 million cu m (1 January 2002) |
+| **Sudan** | 99.11 billion cu m (1 January 2002) |
+| **Suriname** | 0 cu m (1 January 2002) |
+| **Syria** | 240.7 billion cu m (1 January 2002) |
+| **Taiwan** | 38.23 billion cu m (1 January 2002) |
+| **Tanzania** | 11.33 billion cu m (1 January 2002) |
+| **Thailand** | 368.2 billion cu m (1 January 2003) |
+| **Trinidad and Tobago** | 589 billion cu m (1 January 2004) |
+| **Tunisia** | 77.16 billion cu m (1 January 2002) |
+| **Turkey** | 8.685 billion cu m (1 January 2002) |
+| **Turkmenistan** | 1.43 trillion cu m (1 January 2002) |
+| **Ukraine** | 560.7 billion cu m (1 January 2002) |
+| **United Arab Emirates** | 5.892 trillion cu m (1 January 2002) |
+| **United Kingdom** | 714.9 billion cu m (1 January 2002) |
+| **United States** | 5.195 trillion cu m (1 January 2002) |
+| **Uzbekistan** | 937.3 billion cu m (1 January 2002) |
+| **Venezuela** | 4.202 trillion cu m (1 January 2002) |
+| **Vietnam** | 192.6 billion cu m (1 January 2002) |
+| **World** | 161.2 trillion cu m (1 January 2002) |
+| **Yemen** | 480 billion cu m (1 January 2002) |
+
+This page was last updated on 10 February, 2005
+ 

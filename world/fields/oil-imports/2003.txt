@@ -1,0 +1,218 @@
+CIA - The World Factbook -- Field Listing - Oil - imports
+
+| Country | Oil - imports (bbl/day) |
+| --- | --- |
+| **Afghanistan** | NA (2001) |
+| **Albania** | NA (2001) |
+| **Algeria** | NA (2001) |
+| **American Samoa** | NA (2001) |
+| **Angola** | NA (2001) |
+| **Antigua and Barbuda** | NA (2001) |
+| **Argentina** | NA (2001) |
+| **Armenia** | NA (2001) |
+| **Aruba** | NA (2001) |
+| **Australia** | 530,800 bbl/day (2001) |
+| **Austria** | 262,000 bbl/day (2001) |
+| **Azerbaijan** | NA (2001) |
+| **Bahamas, The** | NA (2001) |
+| **Bahrain** | NA (2001) |
+| **Bangladesh** | NA (2001) |
+| **Barbados** | NA (2001) |
+| **Belarus** | NA (2001) |
+| **Belgium** | 1.042 million bbl/day (2001) |
+| **Belize** | NA (2001) |
+| **Benin** | NA (2001) |
+| **Bermuda** | NA (2001) |
+| **Bhutan** | NA (2001) |
+| **Bolivia** | NA (2001) |
+| **Bosnia and Herzegovina** | NA (2001) |
+| **Botswana** | NA (2001) |
+| **Brazil** | NA (2001) |
+| **British Virgin Islands** | NA (2001) |
+| **Brunei** | NA (2001) |
+| **Bulgaria** | NA (2001) |
+| **Burkina Faso** | NA (2001) |
+| **Burma** | NA (2001) |
+| **Burundi** | NA (2001) |
+| **Cambodia** | NA (2001) |
+| **Cameroon** | NA (2001) |
+| **Canada** | 1.145 million bbl/day (2001) |
+| **Cape Verde** | NA (2001) |
+| **Cayman Islands** | NA (2001) |
+| **Central African Republic** | NA (2001) |
+| **Chad** | NA (2001) |
+| **Chile** | NA (2001) |
+| **China** | NA (2001) |
+| **Colombia** | NA (2001) |
+| **Comoros** | NA (2001) |
+| **Congo, Democratic Republic of the** | NA (2001) |
+| **Congo, Republic of the** | NA (2001) |
+| **Cook Islands** | NA (2001) |
+| **Costa Rica** | NA (2001) |
+| **Cote d'Ivoire** | NA (2001) |
+| **Croatia** | NA (2001) |
+| **Cuba** | NA (2001) |
+| **Cyprus** | NA (2001) |
+| **Czech Republic** | 192,300 bbl/day (2001) |
+| **Denmark** | 195,000 bbl/day (2001) |
+| **Djibouti** | NA (2001) |
+| **Dominica** | NA (2001) |
+| **Dominican Republic** | NA (2001) |
+| **Ecuador** | NA (2001) |
+| **Egypt** | NA (2001) |
+| **El Salvador** | NA (2001) |
+| **Equatorial Guinea** | NA (2001) |
+| **Eritrea** | NA (2001) |
+| **Estonia** | NA (2001) |
+| **Ethiopia** | NA (2001) |
+| **Falkland Islands (Islas Malvinas)** | NA (2001) |
+| **Faroe Islands** | NA (2001) |
+| **Fiji** | NA (2001) |
+| **Finland** | 318,300 bbl/day (2001) |
+| **France** | 2.281 million bbl/day (2001) |
+| **French Guiana** | NA (2001) |
+| **French Polynesia** | NA (2001) |
+| **Gabon** | NA (2001) |
+| **Gambia, The** | NA (2001) |
+| **Georgia** | NA (2001) |
+| **Germany** | 3.081 million bbl/day (2001) |
+| **Ghana** | NA (2001) |
+| **Gibraltar** | NA (2001) |
+| **Greece** | 468,300 bbl/day (2001) |
+| **Greenland** | NA (2001) |
+| **Grenada** | NA (2001) |
+| **Guadeloupe** | NA (2001) |
+| **Guam** | NA (2001) |
+| **Guatemala** | NA (2001) |
+| **Guinea** | NA (2001) |
+| **Guinea-Bissau** | NA (2001) |
+| **Guyana** | NA (2001) |
+| **Haiti** | NA (2001) |
+| **Honduras** | NA (2001) |
+| **Hong Kong** | NA (2001) |
+| **Hungary** | 136,600 bbl/day (2001) |
+| **Iceland** | 15,470 bbl/day (2001) |
+| **India** | NA (2001) |
+| **Indonesia** | NA (2001) |
+| **Iran** | NA (2001) |
+| **Iraq** | NA (2001) |
+| **Ireland** | 178,600 bbl/day (2001) |
+| **Israel** | NA (2001) |
+| **Italy** | 2.158 million bbl/day (2001) |
+| **Jamaica** | NA (2001) |
+| **Japan** | 5.449 million bbl/day (2001) |
+| **Jordan** | NA (2001) |
+| **Kazakhstan** | NA (2001) |
+| **Kenya** | NA (2001) |
+| **Kiribati** | NA (2001) |
+| **Korea, North** | NA (2001) |
+| **Korea, South** | 2.965 million bbl/day (2001) |
+| **Kuwait** | NA (2001) |
+| **Kyrgyzstan** | NA (2001) |
+| **Laos** | NA (2001) |
+| **Latvia** | NA (2001) |
+| **Lebanon** | NA (2001) |
+| **Lesotho** | NA (2001) |
+| **Liberia** | NA (2001) |
+| **Libya** | NA (2001) |
+| **Lithuania** | NA (2001) |
+| **Luxembourg** | 50,700 bbl/day (2001) |
+| **Macau** | NA (2001) |
+| **Macedonia, The Former Yugoslav Republic of** | NA (2001) |
+| **Madagascar** | NA (2001) |
+| **Malawi** | NA (2001) |
+| **Malaysia** | NA (2001) |
+| **Maldives** | NA (2001) |
+| **Mali** | NA (2001) |
+| **Malta** | NA (2001) |
+| **Martinique** | NA (2001) |
+| **Mauritania** | NA (2001) |
+| **Mauritius** | NA (2001) |
+| **Mexico** | 374,700 bbl/day (2001) |
+| **Moldova** | NA (2001) |
+| **Mongolia** | NA (2001) |
+| **Montserrat** | NA (2001) |
+| **Morocco** | NA (2001) |
+| **Mozambique** | NA (2001) |
+| **Namibia** | NA (2001) |
+| **Nauru** | NA (2001) |
+| **Nepal** | NA (2001) |
+| **Netherlands** | 2.284 million bbl/day (2001) |
+| **Netherlands Antilles** | NA (2001) |
+| **New Caledonia** | NA (2001) |
+| **New Zealand** | 119,700 bbl/day (2001) |
+| **Nicaragua** | NA (2001) |
+| **Niger** | NA (2001) |
+| **Nigeria** | NA (2001) |
+| **Niue** | NA (2001) |
+| **Norway** | 88,870 bbl/day (2001) |
+| **Oman** | NA (2001) |
+| **Pakistan** | NA (2001) |
+| **Panama** | NA (2001) |
+| **Papua New Guinea** | NA (2001) |
+| **Paraguay** | NA (2001) |
+| **Peru** | NA (2001) |
+| **Philippines** | NA (2001) |
+| **Poland** | 413,700 bbl/day (2001) |
+| **Portugal** | 357,300 bbl/day (2001) |
+| **Puerto Rico** | NA (2001) |
+| **Qatar** | NA (2001) |
+| **Reunion** | NA (2001) |
+| **Romania** | NA (2001) |
+| **Russia** | NA (2001) |
+| **Rwanda** | NA (2001) |
+| **Saint Helena** | NA (2001) |
+| **Saint Kitts and Nevis** | NA (2001) |
+| **Saint Lucia** | NA (2001) |
+| **Saint Pierre and Miquelon** | NA (2001) |
+| **Saint Vincent and the Grenadines** | NA (2001) |
+| **Samoa** | NA (2001) |
+| **Sao Tome and Principe** | NA (2001) |
+| **Saudi Arabia** | NA (2001) |
+| **Senegal** | NA (2001) |
+| **Serbia and Montenegro** | NA (2001) |
+| **Seychelles** | NA (2001) |
+| **Sierra Leone** | NA (2001) |
+| **Singapore** | NA (2001) |
+| **Slovakia** | NA (2001) |
+| **Slovenia** | NA (2001) |
+| **Solomon Islands** | NA (2001) |
+| **Somalia** | NA (2001) |
+| **South Africa** | NA (2001) |
+| **Spain** | 1.582 million bbl/day (2001) |
+| **Sri Lanka** | NA (2001) |
+| **Sudan** | NA (2001) |
+| **Suriname** | NA (2001) |
+| **Swaziland** | NA (2001) |
+| **Sweden** | 553,100 bbl/day (2001) |
+| **Switzerland** | 289,500 bbl/day (2001) |
+| **Syria** | NA (2001) |
+| **Taiwan** | NA (2001) |
+| **Tajikistan** | NA (2001) |
+| **Tanzania** | NA (2001) |
+| **Thailand** | NA (2001) |
+| **Togo** | NA (2001) |
+| **Tonga** | NA (2001) |
+| **Trinidad and Tobago** | NA (2001) |
+| **Tunisia** | NA (2001) |
+| **Turkey** | 616,500 bbl/day (2001) |
+| **Turkmenistan** | NA (2001) |
+| **Turks and Caicos Islands** | NA (2001) |
+| **Uganda** | NA (2001) |
+| **Ukraine** | NA (2001) |
+| **United Arab Emirates** | NA (2001) |
+| **United Kingdom** | 1.418 million bbl/day (2001) |
+| **United States** | NA (2001) |
+| **Uruguay** | NA (2001) |
+| **Uzbekistan** | NA (2001) |
+| **Vanuatu** | NA (2001) |
+| **Venezuela** | NA (2001) |
+| **Vietnam** | NA (2001) |
+| **Virgin Islands** | NA (2001) |
+| **Western Sahara** | NA (2001) |
+| **Yemen** | NA (2001) |
+| **Zambia** | NA (2001) |
+| **Zimbabwe** | NA (2001) |
+
+This page was last updated on 18 December, 2003
+ 

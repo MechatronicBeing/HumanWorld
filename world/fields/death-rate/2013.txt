@@ -1,0 +1,234 @@
+CIA - The World Factbook -- Field Listing :: Death rate   
+
+This entry gives the average annual number of deaths during a year per 1,000 population at midyear; also known as crude death rate. The death rate, while only a rough indicator of the mortality situation in a country, accurately indicates the current mortality impact on population growth. This indicator is significantly affected by age distribution, and most countries will eventually show a rise in the overall death rate, in spite of continued decline in mortality at all ages, as declining fertility results in an aging population.
+
+| Country | Death rate(deaths/1,000 population) |
+| --- | --- |
+| **Afghanistan** | 14.35 deaths/1,000 population (2013 est.) |
+| **Albania** | 6.36 deaths/1,000 population (2013 est.) |
+| **Algeria** | 4.31 deaths/1,000 population (2013 est.) |
+| **American Samoa** | 4.62 deaths/1,000 population (2013 est.) |
+| **Andorra** | 6.67 deaths/1,000 population (2013 est.) |
+| **Angola** | 11.86 deaths/1,000 population (2013 est.) |
+| **Anguilla** | 4.44 deaths/1,000 population (2013 est.) |
+| **Antigua and Barbuda** | 5.7 deaths/1,000 population (2013 est.) |
+| **Argentina** | 7.35 deaths/1,000 population (2013 est.) |
+| **Armenia** | 8.51 deaths/1,000 population (2013 est.) |
+| **Aruba** | 8 deaths/1,000 population (2013 est.) |
+| **Australia** | 7.01 deaths/1,000 population (2013 est.) |
+| **Austria** | 10.31 deaths/1,000 population (2013 est.) |
+| **Azerbaijan** | 7.11 deaths/1,000 population (2013 est.) |
+| **Bahamas, The** | 6.96 deaths/1,000 population (2013 est.) |
+| **Bahrain** | 2.65 deaths/1,000 population (2013 est.) |
+| **Bangladesh** | 5.67 deaths/1,000 population (2013 est.) |
+| **Barbados** | 8.4 deaths/1,000 population (2013 est.) |
+| **Belarus** | 13.68 deaths/1,000 population (2013 est.) |
+| **Belgium** | 10.7 deaths/1,000 population (2013 est.) |
+| **Belize** | 5.93 deaths/1,000 population (2013 est.) |
+| **Benin** | 8.59 deaths/1,000 population (2013 est.) |
+| **Bermuda** | 7.9 deaths/1,000 population (2013 est.) |
+| **Bhutan** | 6.88 deaths/1,000 population (2013 est.) |
+| **Bolivia** | 6.67 deaths/1,000 population (2013 est.) |
+| **Bosnia and Herzegovina** | 9.53 deaths/1,000 population (2013 est.) |
+| **Botswana** | 12.91 deaths/1,000 population (2013 est.) |
+| **Brazil** | 6.51 deaths/1,000 population (2013 est.) |
+| **British Virgin Islands** | 4.89 deaths/1,000 population (2013 est.) |
+| **Brunei** | 3.43 deaths/1,000 population (2013 est.) |
+| **Bulgaria** | 14.31 deaths/1,000 population (2013 est.) |
+| **Burkina Faso** | 12.21 deaths/1,000 population (2013 est.) |
+| **Burma** | 8.05 deaths/1,000 population (2013 est.) |
+| **Burundi** | 9.12 deaths/1,000 population (2013 est.) |
+| **Cabo Verde** | 6.22 deaths/1,000 population (2013 est.) |
+| **Cambodia** | 7.88 deaths/1,000 population (2013 est.) |
+| **Cameroon** | 11.51 deaths/1,000 population (2013 est.) |
+| **Canada** | 8.2 deaths/1,000 population (2013 est.) |
+| **Cayman Islands** | 5.3 deaths/1,000 population (2013 est.) |
+| **Central African Republic** | 14.42 deaths/1,000 population (2013 est.) |
+| **Chad** | 14.85 deaths/1,000 population (2013 est.) |
+| **Chile** | 5.86 deaths/1,000 population (2013 est.) |
+| **China** | 7.31 deaths/1,000 population (2013 est.) |
+| **Colombia** | 5.33 deaths/1,000 population (2013 est.) |
+| **Comoros** | 7.97 deaths/1,000 population (2013 est.) |
+| **Congo, Democratic Republic of the** | 10.54 deaths/1,000 population (2013 est.) |
+| **Congo, Republic of the** | 11.03 deaths/1,000 population (2013 est.) |
+| **Cook Islands** | 7.66 deaths/1,000 population (2013 est.) |
+| **Costa Rica** | 4.44 deaths/1,000 population (2013 est.) |
+| **Cote d'Ivoire** | 9.8 deaths/1,000 population (2013 est.) |
+| **Croatia** | 12.06 deaths/1,000 population (2013 est.) |
+| **Cuba** | 7.58 deaths/1,000 population (2013 est.) |
+| **Curacao** | 8 deaths/1,000 population (2009) |
+| **Cyprus** | 6.52 deaths/1,000 population (2013 est.) |
+| **Czech Republic** | 11.01 deaths/1,000 population (2013 est.) |
+| **Denmark** | 10.21 deaths/1,000 population (2013 est.) |
+| **Djibouti** | 7.96 deaths/1,000 population (2013 est.) |
+| **Dominica** | 7.97 deaths/1,000 population (2013 est.) |
+| **Dominican Republic** | 4.46 deaths/1,000 population (2013 est.) |
+| **Ecuador** | 5.03 deaths/1,000 population (2013 est.) |
+| **Egypt** | 4.79 deaths/1,000 population (2013 est.) |
+| **El Salvador** | 5.65 deaths/1,000 population (2013 est.) |
+| **Equatorial Guinea** | 8.59 deaths/1,000 population (2013 est.) |
+| **Eritrea** | 7.78 deaths/1,000 population (2013 est.) |
+| **Estonia** | 13.65 deaths/1,000 population (2013 est.) |
+| **Ethiopia** | 8.87 deaths/1,000 population (2013 est.) |
+| **European Union** | 10.13 deaths/1,000 population |
+| **Faroe Islands** | 8.67 deaths/1,000 population (2013 est.) |
+| **Fiji** | 5.96 deaths/1,000 population (2013 est.) |
+| **Finland** | 10.42 deaths/1,000 population (2013 est.) |
+| **France** | 8.96 deaths/1,000 population (2013 est.) |
+| **French Polynesia** | 4.85 deaths/1,000 population (2013 est.) |
+| **Gabon** | 13.11 deaths/1,000 population (2013 est.) |
+| **Gambia, The** | 7.38 deaths/1,000 population (2013 est.) |
+| **Gaza Strip** | 3.15 deaths/1,000 population (2013 est.) |
+| **Georgia** | 10.17 deaths/1,000 population (2013 est.) |
+| **Germany** | 11.17 deaths/1,000 population (2013 est.) |
+| **Ghana** | 7.53 deaths/1,000 population (2013 est.) |
+| **Gibraltar** | 8.28 deaths/1,000 population (2013 est.) |
+| **Greece** | 10.9 deaths/1,000 population (2013 est.) |
+| **Greenland** | 8.3 deaths/1,000 population (2013 est.) |
+| **Grenada** | 8.01 deaths/1,000 population (2013 est.) |
+| **Guam** | 4.95 deaths/1,000 population (2013 est.) |
+| **Guatemala** | 4.87 deaths/1,000 population (2013 est.) |
+| **Guernsey** | 8.61 deaths/1,000 population (2013 est.) |
+| **Guinea** | 9.94 deaths/1,000 population (2013 est.) |
+| **Guinea-Bissau** | 14.77 deaths/1,000 population (2013 est.) |
+| **Guyana** | 7.18 deaths/1,000 population (2013 est.) |
+| **Haiti** | 8 deaths/1,000 population (2013 est.) |
+| **Honduras** | 5.09 deaths/1,000 population (2013 est.) |
+| **Hong Kong** | 7.39 deaths/1,000 population (2013 est.) |
+| **Hungary** | 12.71 deaths/1,000 population (2013 est.) |
+| **Iceland** | 7.07 deaths/1,000 population (2013 est.) |
+| **India** | 7.39 deaths/1,000 population (2013 est.) |
+| **Indonesia** | 6.31 deaths/1,000 population (2013 est.) |
+| **Iran** | 5.94 deaths/1,000 population (2013 est.) |
+| **Iraq** | 4.65 deaths/1,000 population (2013 est.) |
+| **Ireland** | 6.41 deaths/1,000 population (2013 est.) |
+| **Isle of Man** | 9.99 deaths/1,000 population (2013 est.) |
+| **Israel** | 5.52 deaths/1,000 population (2013 est.) |
+| **Italy** | 10.01 deaths/1,000 population (2013 est.) |
+| **Jamaica** | 6.63 deaths/1,000 population (2013 est.) |
+| **Japan** | 9.27 deaths/1,000 population (2013 est.) |
+| **Jersey** | 7.59 deaths/1,000 population (2013 est.) |
+| **Jordan** | 2.8 deaths/1,000 population (2013 est.) |
+| **Kazakhstan** | 8.43 deaths/1,000 population (2013 est.) |
+| **Kenya** | 7.12 deaths/1,000 population (2013 est.) |
+| **Kiribati** | 7.24 deaths/1,000 population (2013 est.) |
+| **Korea, North** | 9.15 deaths/1,000 population (2013 est.) |
+| **Korea, South** | 6.5 deaths/1,000 population (2013 est.) |
+| **Kuwait** | 2.14 deaths/1,000 population (2013 est.) |
+| **Kyrgyzstan** | 6.83 deaths/1,000 population (2013 est.) |
+| **Laos** | 7.86 deaths/1,000 population (2013 est.) |
+| **Latvia** | 13.6 deaths/1,000 population (2013 est.) |
+| **Lebanon** | 6.73 deaths/1,000 population (2013 est.) |
+| **Lesotho** | 15.02 deaths/1,000 population (2013 est.) |
+| **Liberia** | 10.12 deaths/1,000 population (2013 est.) |
+| **Libya** | 3.56 deaths/1,000 population (2013 est.) |
+| **Liechtenstein** | 6.89 deaths/1,000 population (2013 est.) |
+| **Lithuania** | 11.48 deaths/1,000 population (2013 est.) |
+| **Luxembourg** | 8.52 deaths/1,000 population (2013 est.) |
+| **Macau** | 3.97 deaths/1,000 population (2013 est.) |
+| **Macedonia** | 9 deaths/1,000 population (2013 est.) |
+| **Madagascar** | 7.1 deaths/1,000 population (2013 est.) |
+| **Malawi** | 12.54 deaths/1,000 population (2013 est.) |
+| **Malaysia** | 4.97 deaths/1,000 population (2013 est.) |
+| **Maldives** | 3.8 deaths/1,000 population (2013 est.) |
+| **Mali** | 13.55 deaths/1,000 population (2013 est.) |
+| **Malta** | 8.84 deaths/1,000 population (2013 est.) |
+| **Marshall Islands** | 4.27 deaths/1,000 population (2013 est.) |
+| **Mauritania** | 8.5 deaths/1,000 population (2013 est.) |
+| **Mauritius** | 6.79 deaths/1,000 population (2013 est.) |
+| **Mexico** | 4.94 deaths/1,000 population (2013 est.) |
+| **Micronesia, Federated States of** | 4.27 deaths/1,000 population (2013 est.) |
+| **Moldova** | 12.61 deaths/1,000 population (2013 est.) |
+| **Monaco** | 8.75 deaths/1,000 population (2013 est.) |
+| **Mongolia** | 5.98 deaths/1,000 population (2013 est.) |
+| **Montenegro** | 9.17 deaths/1,000 population (2013 est.) |
+| **Montserrat** | 6.55 deaths/1,000 population (2013 est.) |
+| **Morocco** | 4.78 deaths/1,000 population (2013 est.) |
+| **Mozambique** | 12.57 deaths/1,000 population (2013 est.) |
+| **Namibia** | 13.33 deaths/1,000 population (2013 est.) |
+| **Nauru** | 5.94 deaths/1,000 population (2013 est.) |
+| **Nepal** | 6.68 deaths/1,000 population (2013 est.) |
+| **Netherlands** | 8.48 deaths/1,000 population (2013 est.) |
+| **New Caledonia** | 5.39 deaths/1,000 population (2013 est.) |
+| **New Zealand** | 7.25 deaths/1,000 population (2013 est.) |
+| **Nicaragua** | 5.06 deaths/1,000 population (2013 est.) |
+| **Niger** | 13.07 deaths/1,000 population (2013 est.) |
+| **Nigeria** | 13.2 deaths/1,000 population (2013 est.) |
+| **Northern Mariana Islands** | 3.52 deaths/1,000 population (2013 est.) |
+| **Norway** | 9.21 deaths/1,000 population (2013 est.) |
+| **Oman** | 3.4 deaths/1,000 population (2013 est.) |
+| **Pakistan** | 6.69 deaths/1,000 population (2013 est.) |
+| **Palau** | 7.86 deaths/1,000 population (2013 est.) |
+| **Panama** | 4.73 deaths/1,000 population (2013 est.) |
+| **Papua New Guinea** | 6.54 deaths/1,000 population (2013 est.) |
+| **Paraguay** | 4.61 deaths/1,000 population (2013 est.) |
+| **Peru** | 5.97 deaths/1,000 population (2013 est.) |
+| **Philippines** | 4.95 deaths/1,000 population (2013 est.) |
+| **Poland** | 10.31 deaths/1,000 population (2013 est.) |
+| **Portugal** | 10.91 deaths/1,000 population (2013 est.) |
+| **Puerto Rico** | 8.23 deaths/1,000 population (2013 est.) |
+| **Qatar** | 1.54 deaths/1,000 population (2013 est.) |
+| **Romania** | 11.86 deaths/1,000 population (2013 est.) |
+| **Russia** | 13.97 deaths/1,000 population (2013 est.) |
+| **Rwanda** | 9.41 deaths/1,000 population (2013 est.) |
+| **Saint Helena, Ascension, and Tristan da Cunha** | 7.22 deaths/1,000 population (2013 est.) |
+| **Saint Kitts and Nevis** | 7.06 deaths/1,000 population (2013 est.) |
+| **Saint Lucia** | 7.21 deaths/1,000 population (2013 est.) |
+| **Saint Pierre and Miquelon** | 9.18 deaths/1,000 population (2013 est.) |
+| **Saint Vincent and the Grenadines** | 7.06 deaths/1,000 population (2013 est.) |
+| **Samoa** | 5.33 deaths/1,000 population (2013 est.) |
+| **San Marino** | 8.17 deaths/1,000 population (2013 est.) |
+| **Sao Tome and Principe** | 7.68 deaths/1,000 population (2013 est.) |
+| **Saudi Arabia** | 3.32 deaths/1,000 population (2013 est.) |
+| **Senegal** | 8.85 deaths/1,000 population (2013 est.) |
+| **Serbia** | 13.77 deaths/1,000 population (2013 est.) |
+| **Seychelles** | 6.89 deaths/1,000 population (2013 est.) |
+| **Sierra Leone** | 11.26 deaths/1,000 population (2013 est.) |
+| **Singapore** | 3.41 deaths/1,000 population (2013 est.) |
+| **Sint Maarten** | 4.51 deaths/1,000 population (2013 est.) |
+| **Slovakia** | 9.69 deaths/1,000 population (2013 est.) |
+| **Slovenia** | 11.12 deaths/1,000 population (2013 est.) |
+| **Solomon Islands** | 3.88 deaths/1,000 population (2013 est.) |
+| **Somalia** | 14.22 deaths/1,000 population (2013 est.) |
+| **South Africa** | 17.36 deaths/1,000 population (2013 est.) |
+| **South Sudan** | 8.7 deaths/1,000 population (2013 est.) |
+| **Spain** | 8.94 deaths/1,000 population (2013 est.) |
+| **Sri Lanka** | 6.01 deaths/1,000 population (2013 est.) |
+| **Sudan** | 8.09 deaths/1,000 population (2013 est.) |
+| **Suriname** | 6.15 deaths/1,000 population (2013 est.) |
+| **Swaziland** | 13.95 deaths/1,000 population (2013 est.) |
+| **Sweden** | 10.22 deaths/1,000 population (2013 est.) |
+| **Switzerland** | 8.08 deaths/1,000 population (2013 est.) |
+| **Syria** | 3.67 deaths/1,000 population (2013 est.) |
+| **Taiwan** | 6.83 deaths/1,000 population (2013 est.) |
+| **Tajikistan** | 6.38 deaths/1,000 population (2013 est.) |
+| **Tanzania** | 8.41 deaths/1,000 population (2013 est.) |
+| **Thailand** | 7.47 deaths/1,000 population (2013 est.) |
+| **Timor-Leste** | 6.28 deaths/1,000 population (2013 est.) |
+| **Togo** | 7.6 deaths/1,000 population (2013 est.) |
+| **Tonga** | 4.87 deaths/1,000 population (2013 est.) |
+| **Trinidad and Tobago** | 8.42 deaths/1,000 population (2013 est.) |
+| **Tunisia** | 5.9 deaths/1,000 population (2013 est.) |
+| **Turkey** | 6.11 deaths/1,000 population (2013 est.) |
+| **Turkmenistan** | 6.18 deaths/1,000 population (2013 est.) |
+| **Turks and Caicos Islands** | 3.06 deaths/1,000 population (2013 est.) |
+| **Tuvalu** | 8.97 deaths/1,000 population (2013 est.) |
+| **Uganda** | 11.26 deaths/1,000 population (2013 est.) |
+| **Ukraine** | 15.75 deaths/1,000 population (2013 est.) |
+| **United Arab Emirates** | 2.01 deaths/1,000 population (2013 est.) |
+| **United Kingdom** | 9.33 deaths/1,000 population (2013 est.) |
+| **United States** | 8.39 deaths/1,000 population (2013 est.) |
+| **Uruguay** | 9.52 deaths/1,000 population (2013 est.) |
+| **Uzbekistan** | 5.29 deaths/1,000 population (2013 est.) |
+| **Vanuatu** | 4.2 deaths/1,000 population (2013 est.) |
+| **Venezuela** | 5.23 deaths/1,000 population (2013 est.) |
+| **Vietnam** | 5.94 deaths/1,000 population (2013 est.) |
+| **Virgin Islands** | 7.95 deaths/1,000 population (2013 est.) |
+| **Wallis and Futuna** | 4.84 deaths/1,000 population (2013 est.) |
+| **West Bank** | 3.53 deaths/1,000 population (2013 est.) |
+| **Western Sahara** | 8.64 deaths/1,000 population (2013 est.) |
+| **World** | 7.9 deaths/1,000 population |
+| | *note:* this rate results in about 107 worldwide deaths per minute or 1.8 deaths every second (2013 est.) |
+| **Yemen** | 6.64 deaths/1,000 population (2013 est.) |
+| **Zambia** | 13.17 deaths/1,000 population (2013 est.) |
+| **Zimbabwe** | 11.4 deaths/1,000 population (2013 est.) |

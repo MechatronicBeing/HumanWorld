@@ -1,0 +1,239 @@
+CIA - The World Factbook -- Field Listing :: Net migration rate   
+
+This entry includes the figure for the difference between the number of persons entering and leaving a country during the year per 1,000 persons (based on midyear population). An excess of persons entering the country is referred to as net immigration (e.g., 3.56 migrants/1,000 population); an excess of persons leaving the country as net emigration (e.g., -9.26 migrants/1,000 population). The net migration rate indicates the contribution of migration to the overall level of population change. The net migration rate does not distinguish between economic migrants, refugees, and other types of migrants nor does it distinguish between lawful migrants and undocumented migrants.
+
+| Country | Net migration rate(migrant(s)/1,000 population) |
+| --- | --- |
+| **Afghanistan** | -2.16 migrant(s)/1,000 population (2013 est.) |
+| **Albania** | -3.32 migrant(s)/1,000 population (2013 est.) |
+| **Algeria** | -0.93 migrant(s)/1,000 population (2013 est.) |
+| **American Samoa** | -22.17 migrant(s)/1,000 population (2013 est.) |
+| **Andorra** | 0 migrant(s)/1,000 population (2013 est.) |
+| **Angola** | 0.49 migrant(s)/1,000 population (2013 est.) |
+| **Anguilla** | 12.7 migrant(s)/1,000 population (2013 est.) |
+| **Antigua and Barbuda** | 2.26 migrant(s)/1,000 population (2013 est.) |
+| **Argentina** | 0 migrant(s)/1,000 population (2013 est.) |
+| **Armenia** | -2.93 migrant(s)/1,000 population (2013 est.) |
+| **Aruba** | 9.16 migrant(s)/1,000 population (2013 est.) |
+| **Australia** | 5.83 migrant(s)/1,000 population (2013 est.) |
+| **Austria** | 1.78 migrant(s)/1,000 population (2013 est.) |
+| **Azerbaijan** | 0 migrant(s)/1,000 population (2013 est.) |
+| **Bahamas, The** | 0 migrant(s)/1,000 population (2013 est.) |
+| **Bahrain** | 14.13 migrant(s)/1,000 population (2013 est.) |
+| **Bangladesh** | -0.52 migrant(s)/1,000 population (2013 est.) |
+| **Barbados** | -0.3 migrant(s)/1,000 population (2013 est.) |
+| **Belarus** | 0.85 migrant(s)/1,000 population (2013 est.) |
+| **Belgium** | 1.22 migrant(s)/1,000 population (2013 est.) |
+| **Belize** | 0 migrant(s)/1,000 population (2013 est.) |
+| **Benin** | 0 migrant(s)/1,000 population (2013 est.) |
+| **Bermuda** | 1.99 migrant(s)/1,000 population (2013 est.) |
+| **Bhutan** | 0 migrant(s)/1,000 population (2013 est.) |
+| **Bolivia** | -0.76 migrant(s)/1,000 population (2013 est.) |
+| **Bosnia and Herzegovina** | -0.37 migrant(s)/1,000 population (2013 est.) |
+| **Botswana** | 4.68 migrant(s)/1,000 population |
+| | *note:* there is an increasing flow of Zimbabweans into South Africa and Botswana in search of better economic opportunities (2013 est.) |
+| **Brazil** | -0.17 migrant(s)/1,000 population (2013 est.) |
+| **British Virgin Islands** | 18.11 migrant(s)/1,000 population (2013 est.) |
+| **Brunei** | 2.51 migrant(s)/1,000 population (2013 est.) |
+| **Bulgaria** | -2.86 migrant(s)/1,000 population (2013 est.) |
+| **Burkina Faso** | 0 migrant(s)/1,000 population (2013 est.) |
+| **Burma** | -0.3 migrant(s)/1,000 population (2013 est.) |
+| **Burundi** | -0.17 migrant(s)/1,000 population (2013 est.) |
+| **Cabo Verde** | -0.65 migrant(s)/1,000 population (2013 est.) |
+| **Cambodia** | -0.33 migrant(s)/1,000 population (2013 est.) |
+| **Cameroon** | 0 migrant(s)/1,000 population (2013 est.) |
+| **Canada** | 5.65 migrant(s)/1,000 population (2013 est.) |
+| **Cayman Islands** | 15.04 migrant(s)/1,000 population |
+| | *note:* major destination for Cubans trying to migrate to the US (2013 est.) |
+| **Central African Republic** | 0 migrant(s)/1,000 population (2013 est.) |
+| **Chad** | -3.64 migrant(s)/1,000 population (2013 est.) |
+| **Chile** | 0.35 migrant(s)/1,000 population (2013 est.) |
+| **China** | -0.33 migrant(s)/1,000 population (2013 est.) |
+| **Colombia** | -0.66 migrant(s)/1,000 population (2013 est.) |
+| **Comoros** | -2.63 migrant(s)/1,000 population (2013 est.) |
+| **Congo, Democratic Republic of the** | -0.4 migrant(s)/1,000 population (2013 est.) |
+| **Congo, Republic of the** | 0 migrant(s)/1,000 population (2013 est.) |
+| **Costa Rica** | 0.85 migrant(s)/1,000 population (2013 est.) |
+| **Cote d'Ivoire** | 0 migrant(s)/1,000 population (2013 est.) |
+| **Croatia** | 1.47 migrant(s)/1,000 population (2013 est.) |
+| **Cuba** | -3.61 migrant(s)/1,000 population (2013 est.) |
+| **Curacao** | 1.27 migrant(s)/1,000 population (2008) |
+| **Cyprus** | 10.31 migrant(s)/1,000 population (2013 est.) |
+| **Czech Republic** | 0.98 migrant(s)/1,000 population (2013 est.) |
+| **Denmark** | 2.3 migrant(s)/1,000 population (2013 est.) |
+| **Djibouti** | 6.04 migrant(s)/1,000 population (2013 est.) |
+| **Dominica** | -5.4 migrant(s)/1,000 population (2013 est.) |
+| **Dominican Republic** | -1.96 migrant(s)/1,000 population (2013 est.) |
+| **Ecuador** | -0.25 migrant(s)/1,000 population (2013 est.) |
+| **Egypt** | -0.2 migrant(s)/1,000 population (2013 est.) |
+| **El Salvador** | -8.61 migrant(s)/1,000 population (2013 est.) |
+| **Equatorial Guinea** | 0 migrant(s)/1,000 population (2013 est.) |
+| **Eritrea** | 0 migrant(s)/1,000 population (2013 est.) |
+| **Estonia** | -3.35 migrant(s)/1,000 population (2013 est.) |
+| **Ethiopia** | -0.23 migrant(s)/1,000 population |
+| | *note:* repatriation of Ethiopian refugees residing in Sudan is expected to continue for several years; some Sudanese, Somali, and Eritrean refugees, who fled to Ethiopia from the fighting or famine in their own countries, continue to return to their homes (2013 est.) |
+| **European Union** | 2.02 migrant(s)/1,000 population (2013 est.) |
+| **Falkland Islands (Islas Malvinas)** | NA |
+| **Faroe Islands** | 0 migrant(s)/1,000 population (2013 est.) |
+| **Fiji** | -6.99 migrant(s)/1,000 population (2013 est.) |
+| **Finland** | 0.62 migrant(s)/1,000 population (2013 est.) |
+| **France** | 1.1 migrant(s)/1,000 population (2013 est.) |
+| **French Polynesia** | -0.91 migrant(s)/1,000 population (2013 est.) |
+| **Gabon** | -2.11 migrant(s)/1,000 population (2013 est.) |
+| **Gambia, The** | -2.34 migrant(s)/1,000 population (2013 est.) |
+| **Gaza Strip** | 0 migrant(s)/1,000 population (2013 est.) |
+| **Georgia** | -3.86 migrant(s)/1,000 population (2013 est.) |
+| **Germany** | 0.89 migrant(s)/1,000 population (2013 est.) |
+| **Ghana** | -2.23 migrant(s)/1,000 population (2013 est.) |
+| **Gibraltar** | -3.3 migrant(s)/1,000 population (2013 est.) |
+| **Greece** | 2.32 migrant(s)/1,000 population (2013 est.) |
+| **Greenland** | -5.98 migrant(s)/1,000 population (2013 est.) |
+| **Grenada** | -3.34 migrant(s)/1,000 population (2013 est.) |
+| **Guam** | -8.89 migrant(s)/1,000 population (2013 est.) |
+| **Guatemala** | -2.04 migrant(s)/1,000 population (2013 est.) |
+| **Guernsey** | 2.5 migrant(s)/1,000 population (2013 est.) |
+| **Guinea** | 0 migrant(s)/1,000 population (2013 est.) |
+| **Guinea-Bissau** | 0 migrant(s)/1,000 population (2013 est.) |
+| **Guyana** | -11.21 migrant(s)/1,000 population (2013 est.) |
+| **Haiti** | -5.5 migrant(s)/1,000 population (2013 est.) |
+| **Honduras** | -1.2 migrant(s)/1,000 population (2013 est.) |
+| **Hong Kong** | 3.75 migrant(s)/1,000 population (2013 est.) |
+| **Hungary** | 1.36 migrant(s)/1,000 population (2013 est.) |
+| **Iceland** | 0.53 migrant(s)/1,000 population (2013 est.) |
+| **India** | -0.05 migrant(s)/1,000 population (2013 est.) |
+| **Indonesia** | -1.19 migrant(s)/1,000 population (2013 est.) |
+| **Iran** | -0.1 migrant(s)/1,000 population (2013 est.) |
+| **Iraq** | 0 migrant(s)/1,000 population (2013 est.) |
+| **Ireland** | 2.51 migrant(s)/1,000 population (2013 est.) |
+| **Isle of Man** | 7.11 migrant(s)/1,000 population (2013 est.) |
+| **Israel** | 1.81 migrant(s)/1,000 population (2013 est.) |
+| **Italy** | 4.47 migrant(s)/1,000 population (2013 est.) |
+| **Jamaica** | -4.99 migrant(s)/1,000 population (2013 est.) |
+| **Japan** | 0 migrant(s)/1,000 population (2013 est.) |
+| **Jersey** | 4.39 migrant(s)/1,000 population (2013 est.) |
+| **Jordan** | -22.02 migrant(s)/1,000 population (2013 est.) |
+| **Kazakhstan** | 0.42 migrant(s)/1,000 population (2013 est.) |
+| **Kenya** | -0.23 migrant(s)/1,000 population (2013 est.) |
+| **Kiribati** | -2.86 migrant(s)/1,000 population (2013 est.) |
+| **Korea, North** | -0.04 migrant(s)/1,000 population (2013 est.) |
+| **Korea, South** | 0 migrant(s)/1,000 population (2013 est.) |
+| **Kuwait** | -0.59 migrant(s)/1,000 population (2013 est.) |
+| **Kyrgyzstan** | -7.13 migrant(s)/1,000 population (2013 est.) |
+| **Laos** | -1.12 migrant(s)/1,000 population (2013 est.) |
+| **Latvia** | -2.36 migrant(s)/1,000 population (2013 est.) |
+| **Lebanon** | -8.48 migrant(s)/1,000 population (2013 est.) |
+| **Lesotho** | -7.89 migrant(s)/1,000 population (2013 est.) |
+| **Liberia** | 0 migrant(s)/1,000 population (2013 est.) |
+| **Libya** | 33.32 migrant(s)/1,000 population (2013 est.) |
+| **Liechtenstein** | 4.35 migrant(s)/1,000 population (2013 est.) |
+| **Lithuania** | -0.73 migrant(s)/1,000 population (2013 est.) |
+| **Luxembourg** | 8.06 migrant(s)/1,000 population (2013 est.) |
+| **Macau** | 3.43 migrant(s)/1,000 population (2013 est.) |
+| **Macedonia** | -0.48 migrant(s)/1,000 population (2013 est.) |
+| **Madagascar** | 0 migrant(s)/1,000 population (2013 est.) |
+| **Malawi** | 0 migrant(s)/1,000 population (2013 est.) |
+| **Malaysia** | -0.35 migrant(s)/1,000 population |
+| | *note:* does not reflect net flow of an unknown number of illegal immigrants from other countries in the region (2013 est.) |
+| **Maldives** | -12.65 migrant(s)/1,000 population (2013 est.) |
+| **Mali** | -2.41 migrant(s)/1,000 population (2013 est.) |
+| **Malta** | 1.99 migrant(s)/1,000 population (2013 est.) |
+| **Marshall Islands** | -5 migrant(s)/1,000 population (2013 est.) |
+| **Mauritania** | -0.87 migrant(s)/1,000 population (2013 est.) |
+| **Mauritius** | 0 migrant(s)/1,000 population (2013 est.) |
+| **Mexico** | -2.99 migrant(s)/1,000 population (2013 est.) |
+| **Micronesia, Federated States of** | -20.95 migrant(s)/1,000 population (2013 est.) |
+| **Moldova** | -9.92 migrant(s)/1,000 population (2013 est.) |
+| **Monaco** | 1.93 migrant(s)/1,000 population (2013 est.) |
+| **Mongolia** | 0 migrant(s)/1,000 population (2013 est.) |
+| **Montserrat** | 0 migrant(s)/1,000 population (2013 est.) |
+| **Morocco** | -3.56 migrant(s)/1,000 population (2013 est.) |
+| **Mozambique** | -2.07 migrant(s)/1,000 population (2013 est.) |
+| **Namibia** | 0.1 migrant(s)/1,000 population (2013 est.) |
+| **Nauru** | -14.63 migrant(s)/1,000 population (2013 est.) |
+| **Nepal** | 3.3 migrant(s)/1,000 population (2013 est.) |
+| **Netherlands** | 1.99 migrant(s)/1,000 population (2013 est.) |
+| **New Caledonia** | 4.12 migrant(s)/1,000 population |
+| | *note:* there has been steady emigration from Wallis and Futuna to New Caledonia (2013 est.) |
+| **New Zealand** | 2.24 migrant(s)/1,000 population (2013 est.) |
+| **Nicaragua** | -3.26 migrant(s)/1,000 population (2013 est.) |
+| **Niger** | -0.6 migrant(s)/1,000 population (2013 est.) |
+| **Nigeria** | -0.22 migrant(s)/1,000 population (2013 est.) |
+| **Northern Mariana Islands** | -15.22 migrant(s)/1,000 population (2013 est.) |
+| **Norway** | 1.68 migrant(s)/1,000 population (2013 est.) |
+| **Oman** | -0.47 migrant(s)/1,000 population (2013 est.) |
+| **Pakistan** | -1.84 migrant(s)/1,000 population (2013 est.) |
+| **Palau** | 0.66 migrant(s)/1,000 population (2013 est.) |
+| **Panama** | -0.35 migrant(s)/1,000 population (2013 est.) |
+| **Papua New Guinea** | 0 migrant(s)/1,000 population (2013 est.) |
+| **Paraguay** | -0.08 migrant(s)/1,000 population (2013 est.) |
+| **Peru** | -2.86 migrant(s)/1,000 population (2013 est.) |
+| **Philippines** | -1.25 migrant(s)/1,000 population (2013 est.) |
+| **Poland** | -0.47 migrant(s)/1,000 population (2013 est.) |
+| **Portugal** | 2.82 migrant(s)/1,000 population (2013 est.) |
+| **Puerto Rico** | -7.73 migrant(s)/1,000 population (2013 est.) |
+| **Qatar** | 33.31 migrant(s)/1,000 population (2013 est.) |
+| **Romania** | -0.25 migrant(s)/1,000 population (2013 est.) |
+| **Russia** | 1.69 migrant(s)/1,000 population (2013 est.) |
+| **Rwanda** | 0.95 migrant(s)/1,000 population (2013 est.) |
+| **Saint Helena, Ascension, and Tristan da Cunha** | 0 migrant(s)/1,000 population (2013 est.) |
+| **Saint Kitts and Nevis** | 1.23 migrant(s)/1,000 population (2013 est.) |
+| **Saint Lucia** | -3.34 migrant(s)/1,000 population (2013 est.) |
+| **Saint Pierre and Miquelon** | -8.66 migrant(s)/1,000 population (2013 est.) |
+| **Saint Vincent and the Grenadines** | -10.04 migrant(s)/1,000 population (2013 est.) |
+| **Samoa** | -10.46 migrant(s)/1,000 population (2013 est.) |
+| **San Marino** | 8.66 migrant(s)/1,000 population (2013 est.) |
+| **Sao Tome and Principe** | -8.96 migrant(s)/1,000 population (2013 est.) |
+| **Saudi Arabia** | -0.62 migrant(s)/1,000 population (2013 est.) |
+| **Senegal** | -1.74 migrant(s)/1,000 population (2013 est.) |
+| **Serbia** | 0 migrant(s)/1,000 population (2013 est.) |
+| **Seychelles** | 1.01 migrant(s)/1,000 population (2013 est.) |
+| **Sierra Leone** | -3.48 migrant(s)/1,000 population |
+| | *note:* refugees currently in surrounding countries are slowly returning (2013 est.) |
+| **Singapore** | 15.08 migrant(s)/1,000 population (2013 est.) |
+| **Sint Maarten** | 6.63 migrant(s)/1,000 population (2013 est.) |
+| **Slovakia** | 0.29 migrant(s)/1,000 population (2013 est.) |
+| **Slovenia** | 0.38 migrant(s)/1,000 population (2013 est.) |
+| **Solomon Islands** | -1.82 migrant(s)/1,000 population (2013 est.) |
+| **Somalia** | -10.55 migrant(s)/1,000 population (2013 est.) |
+| **South Africa** | -6.24 migrant(s)/1,000 population |
+| | *note:* there is an increasing flow of Zimbabweans into South Africa and Botswana in search of better economic opportunities (2013 est.) |
+| **South Sudan** | 12.5 migrant(s)/1,000 population (2013 est.) |
+| **Spain** | 6.14 migrant(s)/1,000 population (2013 est.) |
+| **Sri Lanka** | -1.74 migrant(s)/1,000 population (2013 est.) |
+| **Sudan** | -4.44 migrant(s)/1,000 population (2013 est.) |
+| **Suriname** | 0.57 migrant(s)/1,000 population (2013 est.) |
+| **Swaziland** | 0 migrant(s)/1,000 population (2013 est.) |
+| **Sweden** | 1.64 migrant(s)/1,000 population (2013 est.) |
+| **Switzerland** | 6.14 migrant(s)/1,000 population (2013 est.) |
+| **Syria** | -17.89 migrant(s)/1,000 population (2013 est.) |
+| **Taiwan** | 0.91 migrant(s)/1,000 population (2013 est.) |
+| **Tajikistan** | -1.19 migrant(s)/1,000 population (2013 est.) |
+| **Tanzania** | -0.6 migrant(s)/1,000 population (2013 est.) |
+| **Thailand** | 0 migrant(s)/1,000 population (2013 est.) |
+| **Timor-Leste** | -3.88 migrant(s)/1,000 population (2013 est.) |
+| **Togo** | 0 migrant(s)/1,000 population (2013 est.) |
+| **Tonga** | -17.87 migrant(s)/1,000 population (2013 est.) |
+| **Trinidad and Tobago** | -6.59 migrant(s)/1,000 population (2013 est.) |
+| **Tunisia** | -1.76 migrant(s)/1,000 population (2013 est.) |
+| **Turkey** | 0.48 migrant(s)/1,000 population (2013 est.) |
+| **Turkmenistan** | -1.88 migrant(s)/1,000 population (2013 est.) |
+| **Turks and Caicos Islands** | 14.66 migrant(s)/1,000 population (2013 est.) |
+| **Tuvalu** | -6.92 migrant(s)/1,000 population (2013 est.) |
+| **Uganda** | -0.01 migrant(s)/1,000 population (2013 est.) |
+| **Ukraine** | -0.07 migrant(s)/1,000 population (2013 est.) |
+| **United Arab Emirates** | 15.04 migrant(s)/1,000 population (2013 est.) |
+| **United Kingdom** | 2.57 migrant(s)/1,000 population (2013 est.) |
+| **United States** | 3.64 migrant(s)/1,000 population (2013 est.) |
+| **Uruguay** | -1.26 migrant(s)/1,000 population (2013 est.) |
+| **Uzbekistan** | -2.55 migrant(s)/1,000 population (2013 est.) |
+| **Vanuatu** | -1.53 migrant(s)/1,000 population (2013 est.) |
+| **Venezuela** | 0 migrant(s)/1,000 population (2013 est.) |
+| **Vietnam** | -0.33 migrant(s)/1,000 population (2013 est.) |
+| **Virgin Islands** | -8.01 migrant(s)/1,000 population (2013 est.) |
+| **Wallis and Futuna** | -5.42 migrant(s)/1,000 population |
+| | *note:* there has been steady emigration from Wallis and Futuna to New Caledonia (2013 est.) |
+| **West Bank** | 0 migrant(s)/1,000 population (2013 est.) |
+| **Yemen** | 0 migrant(s)/1,000 population (2013 est.) |
+| **Zambia** | -0.75 migrant(s)/1,000 population (2013 est.) |
+| **Zimbabwe** | 22.76 migrant(s)/1,000 population |
+| | *note:* there is an increasing flow of Zimbabweans into South Africa and Botswana in search of better economic opportunities (2013 est.) |

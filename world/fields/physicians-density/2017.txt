@@ -1,0 +1,188 @@
+FIELD LISTING :: PHYSICIANS DENSITY
+
+| Country | PHYSICIANS DENSITY(PHYSICIANS/1,000 POPULATION) |
+| --- | --- |
+| **Afghanistan** | 0.3 physicians/1,000 population (2014) |
+| **Albania** | 1.29 physicians/1,000 population (2013) |
+| **Algeria** | 1.19 physicians/1,000 population (2007) |
+| **Andorra** | 3.69 physicians/1,000 population (2015) |
+| **Angola** | 0.14 physicians/1,000 population (2009) |
+| **Argentina** | 3.76 physicians/1,000 population (2013) |
+| **Armenia** | 2.8 physicians/1,000 population (2014) |
+| **Australia** | 3.37 physicians/1,000 population (2013) |
+| **Austria** | 5.15 physicians/1,000 population (2015) |
+| **Azerbaijan** | 3.4 physicians/1,000 population (2014) |
+| **Bahamas, The** | 2.72 physicians/1,000 population (2008) |
+| **Bahrain** | 0.94 physicians/1,000 population (2014) |
+| **Bangladesh** | 0.39 physicians/1,000 population (2012) |
+| **Belarus** | 4.07 physicians/1,000 population (2014) |
+| **Belgium** | 2.97 physicians/1,000 population (2014) |
+| **Belize** | 0.77 physicians/1,000 population (2009) |
+| **Benin** | 0.15 physicians/1,000 population (2013) |
+| **Bhutan** | 0.26 physicians/1,000 population (2014) |
+| **Bolivia** | 0.47 physicians/1,000 population (2011) |
+| **Bosnia and Herzegovina** | 1.89 physicians/1,000 population (2013) |
+| **Botswana** | 0.38 physicians/1,000 population (2012) |
+| **Brazil** | 1.85 physicians/1,000 population (2013) |
+| **Brunei** | 1.47 physicians/1,000 population (2012) |
+| **Bulgaria** | 4 physicians/1,000 population (2014) |
+| **Burkina Faso** | 0.05 physicians/1,000 population (2012) |
+| **Burma** | 0.57 physicians/1,000 population (2012) |
+| **Cabo Verde** | 0.31 physicians/1,000 population (2011) |
+| **Cambodia** | 0.17 physicians/1,000 population (2013) |
+| **Cameroon** | 0.08 physicians/1,000 population (2010) |
+| **Canada** | 2.48 physicians/1,000 population (2012) |
+| **Central African Republic** | 0.05 physicians/1,000 population (2009) |
+| **Chad** | 0.04 physicians/1,000 population (2013) |
+| **Chile** | 1.03 physicians/1,000 population (2009) |
+| **China** | 1.49 physicians/1,000 population (2011) |
+| **Colombia** | 1.57 physicians/1,000 population (2010) |
+| **Congo, Democratic Republic of the** | 9 physicians/1,000 population (2009) |
+| **Congo, Republic of the** | 0.11 physicians/1,000 population (2007) |
+| **Cook Islands** | 1.19 physicians/1,000 population (2009) |
+| **Costa Rica** | 1.15 physicians/1,000 population (2013) |
+| **Cote d'Ivoire** | 0.14 physicians/1,000 population (2008) |
+| **Croatia** | 3.13 physicians/1,000 population (2014) |
+| **Cuba** | 7.52 physicians/1,000 population (2014) |
+| **Cyprus** | 2.5 physicians/1,000 population (2014) |
+| **Czechia** | 3.68 physicians/1,000 population (2013) |
+| **Denmark** | 3.65 physicians/1,000 population (2013) |
+| **Djibouti** | 0.23 physicians/1,000 population (2014) |
+| **Dominican Republic** | 1.49 physicians/1,000 population (2011) |
+| **Ecuador** | 1.67 physicians/1,000 population (2011) |
+| **Egypt** | 0.81 physicians/1,000 population (2014) |
+| **El Salvador** | 1.92 physicians/1,000 population (2008) |
+| **Estonia** | 3.32 physicians/1,000 population (2014) |
+| **Ethiopia** | 0.03 physicians/1,000 population (2009) |
+| **Faroe Islands** | 2.63 physicians/1,000 population (2014) |
+| **Fiji** | 0.44 physicians/1,000 population (2009) |
+| **Finland** | 3.01 physicians/1,000 population (2013) |
+| **France** | 3.23 physicians/1,000 population (2015) |
+| **French Polynesia** | 3.17 physicians/1,000 population (2009) |
+| **Gambia, The** | 0.11 physicians/1,000 population (2008) |
+| **Gaza Strip** | 2.1 physicians/1,000 population (2013) |
+| **Georgia** | 4.78 physicians/1,000 population (2014) |
+| **Germany** | 4.13 physicians/1,000 population (2014) |
+| **Ghana** | 0.1 physicians/1,000 population (2010) |
+| **Greece** | 6.26 physicians/1,000 population (2014) |
+| **Greenland** | 1.73 physicians/1,000 population (2014) |
+| **Guam** | 0.84 physicians/1,000 population (2007) |
+| **Guatemala** | 0.9 physicians/1,000 population (2009) |
+| **Guinea-Bissau** | 0.08 physicians/1,000 population (2009) |
+| **Guyana** | 0.21 physicians/1,000 population (2010) |
+| **Hong Kong** | 1.78 physicians/1,000 population WHO, Western Pacific Region, Health Information and Intelligence Platform, accessed 3/7/17 (2010) |
+| **Hungary** | 3.32 physicians/1,000 population (2014) |
+| **Iceland** | 3.79 physicians/1,000 population (2015) |
+| **India** | 0.73 physicians/1,000 population (2014) |
+| **Indonesia** | 0.2 physicians/1,000 population (2012) |
+| **Iran** | 1.49 physicians/1,000 population (2014) |
+| **Iraq** | 0.85 physicians/1,000 population (2014) |
+| **Ireland** | 2.79 physicians/1,000 population (2015) |
+| **Israel** | 3.62 physicians/1,000 population (2014) |
+| **Italy** | 3.95 physicians/1,000 population (2014) |
+| **Jamaica** | 0.41 physicians/1,000 population (2008) |
+| **Japan** | 2.3 physicians/1,000 population (2012) |
+| **Jordan** | 2.65 physicians/1,000 population (2014) |
+| **Kazakhstan** | 3.27 physicians/1,000 population (2014) |
+| **Kenya** | 0.2 physicians/1,000 population (2013) |
+| **Kiribati** | 0.2 physicians/1,000 population (2013) |
+| **Korea, North** | 2.78 physicians/1,000 population (2011) |
+| **Korea, South** | 2.23 physicians/1,000 population (2014) |
+| **Kuwait** | 1.95 physicians/1,000 population (2014) |
+| **Kyrgyzstan** | 1.85 physicians/1,000 population (2014) |
+| **Laos** | 0.18 physicians/1,000 population (2012) |
+| **Latvia** | 3.22 physicians/1,000 population (2014) |
+| **Lebanon** | 2.38 physicians/1,000 population (2014) |
+| **Liberia** | 0.01 physicians/1,000 population (2008) |
+| **Libya** | 2.09 physicians/1,000 population (2014) |
+| **Lithuania** | 4.33 physicians/1,000 population (2014) |
+| **Luxembourg** | 2.92 physicians/1,000 population (2015) |
+| **Macau** | 3.11 physicians/1,000 population (2010) |
+| **Macedonia** | 2.8 physicians/1,000 population (2013) |
+| **Madagascar** | 0.14 physicians/1,000 population (2012) |
+| **Malawi** | 0.02 physicians/1,000 population (2009) |
+| **Malaysia** | 1.28 physicians/1,000 population (2011) |
+| **Maldives** | 1.58 physicians/1,000 population (2010) |
+| **Mali** | 0.09 physicians/1,000 population (2010) |
+| **Malta** | 3.91 physicians/1,000 population (2015) |
+| **Marshall Islands** | 0.46 physicians/1,000 population (2012) |
+| **Mauritania** | 0.13 physicians/1,000 population (2009) |
+| **Mauritius** | 1.93 physicians/1,000 population (2014) |
+| **Mexico** | 2.07 physicians/1,000 population (2013) |
+| **Micronesia, Federated States of** | 0.19 physicians/1,000 population (2009) |
+| **Moldova** | 2.54 physicians/1,000 population (2014) |
+| **Monaco** | 6.65 physicians/1,000 population (2014) |
+| **Mongolia** | 2.88 physicians/1,000 population (2011) |
+| **Montenegro** | 2.34 physicians/1,000 population (2015) |
+| **Morocco** | 0.62 physicians/1,000 population (2014) |
+| **Mozambique** | 0.06 physicians/1,000 population (2013) |
+| **Namibia** | 0.37 physicians/1,000 population (2007) |
+| **Nauru** | 1 physicians/1,000 population (2010) |
+| **Netherlands** | 3.35 physicians/1,000 population (2014) |
+| **New Caledonia** | 2.22 physicians/1,000 population (2009) |
+| **New Zealand** | 2.85 physicians/1,000 population (2014) |
+| **Nicaragua** | 0.91 physicians/1,000 population (2014) |
+| **Nigeria** | 0.38 physicians/1,000 population (2009) |
+| **Niger** | 0.02 physicians/1,000 population (2008) |
+| **Niue** | 1.84 physicians/1,000 population (2008) |
+| **Northern Mariana Islands** | 0.36 physicians/1,000 population (2008) |
+| **Norway** | 4.42 physicians/1,000 population (2014) |
+| **Oman** | 1.54 physicians/1,000 population (2014) |
+| **Pakistan** | 0.81 physicians/1,000 population (2014) |
+| **Palau** | 1.42 physicians/1,000 population (2010) |
+| **Panama** | 1.59 physicians/1,000 population (2013) |
+| **Papua New Guinea** | 0.06 physicians/1,000 population (2010) |
+| **Paraguay** | 1.29 physicians/1,000 population (2012) |
+| **Peru** | 1.12 physicians/1,000 population (2012) |
+| **Poland** | 2.27 physicians/1,000 population (2014) |
+| **Portugal** | 4.43 physicians/1,000 population (2014) |
+| **Qatar** | 1.96 physicians/1,000 population (2014) |
+| **Romania** | 2.67 physicians/1,000 population (2013) |
+| **Russia** | 3.31 physicians/1,000 population (2014) |
+| **Rwanda** | 0.06 physicians/1,000 population (2010) |
+| **Saint Lucia** | 0.1 physicians/1,000 population (2009) |
+| **Samoa** | 0.46 physicians/1,000 population (2008) |
+| **San Marino** | 6.36 physicians/1,000 population (2014) |
+| **Saudi Arabia** | 2.57 physicians/1,000 population (2014) |
+| **Senegal** | 0.06 physicians/1,000 population (2008) |
+| **Serbia** | 2.46 physicians/1,000 population (2014) |
+| **Seychelles** | 0.98 physicians/1,000 population (2012) |
+| **Sierra Leone** | 0.02 physicians/1,000 population (2010) |
+| **Singapore** | 1.91 physicians/1,000 population (2013) |
+| **Slovakia** | 3.39 physicians/1,000 population (2013) |
+| **Slovenia** | 2.77 physicians/1,000 population (2014) |
+| **Solomon Islands** | 0.2 physicians/1,000 population (2011) |
+| **Somalia** | 0.03 physicians/1,000 population (2014) |
+| **South Africa** | 0.77 physicians/1,000 population (2015) |
+| **Spain** | 3.82 physicians/1,000 population (2014) |
+| **Sri Lanka** | 0.73 physicians/1,000 population (2010) |
+| **Sudan** | 3.06 physicians/1,000 population (2014) |
+| **Swaziland** | 0.15 physicians/1,000 population (2009) |
+| **Sweden** | 4.11 physicians/1,000 population (2013) |
+| **Switzerland** | 4.11 physicians/1,000 population (2014) |
+| **Syria** | 1.55 physicians/1,000 population (2014) |
+| **Tajikistan** | 1.71 physicians/1,000 population (2014) |
+| **Tanzania** | 0.03 physicians/1,000 population (2012) |
+| **Thailand** | 0.39 physicians/1,000 population (2010) |
+| **Timor-Leste** | 0.08 physicians/1,000 population (2011) |
+| **Togo** | 0.06 physicians/1,000 population (2008) |
+| **Tokelau** | 2.72 physicians/1,000 population (2010) |
+| **Tonga** | 0.56 physicians/1,000 population (2010) |
+| **Trinidad and Tobago** | 1.18 physicians/1,000 population (2007) |
+| **Tunisia** | 1.65 physicians/1,000 population (2014) |
+| **Turkey** | 1.75 physicians/1,000 population (2014) |
+| **Turkmenistan** | 2.29 physicians/1,000 population (2014) |
+| **Tuvalu** | 1.22 physicians/1,000 population (2009) |
+| **Ukraine** | 3 physicians/1,000 population (2014) |
+| **United Arab Emirates** | 1.56 physicians/1,000 population (2014) |
+| **United Kingdom** | 2.81 physicians/1,000 population (2015) |
+| **United States** | 2.55 physicians/1,000 population (2013) |
+| **Uruguay** | 3.94 physicians/1,000 population (2008) |
+| **Uzbekistan** | 2.45 physicians/1,000 population (2014) |
+| **Vanuatu** | 0.19 physicians/1,000 population (2012) |
+| **Vietnam** | 1.18 physicians/1,000 population (2013) |
+| **Wallis and Futuna** | 1.1 physicians/1,000 population (2008) |
+| **West Bank** | 1.3 physicians/1,000 population (2013) |
+| **Yemen** | 0.31 physicians/1,000 population (2014) |
+| **Zambia** | 0.16 physicians/1,000 population (2012) |
+| **Zimbabwe** | 0.07 physicians/1,000 population (2011) |

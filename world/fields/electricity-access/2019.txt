@@ -1,0 +1,500 @@
+Field Listing :: Electricity access :: The World Factbook - Central Intelligence Agency
+
+This entry provides information on access to electricity. Electrification data – collected from industry reports, national surveys, and international sources – consists of four subfields. Population without electricity provides an estimate of the number of citizens that do not have access to electricity. Electrification – total population is the percent of a countryâ€™s total population with access to electricity, electrification – urban areas is the percent of a countryâ€™s urban population with access to electricity, while electrification – rural areas is the percent of a countryâ€™s rural population with access to electricity. Due to differences in definitions and methodology from different sources, data quality may vary from country to country.
+
+| Country | Electricity access |
+| --- | --- |
+| **Afghanistan** | *population without electricity:* 18,999,254 (2012) |
+| | *electrification - total population:* 84.1% (2016) |
+| | *electrification - urban areas:* 98% (2016) |
+| | *electrification - rural areas:* 79% (2016) |
+| **Albania** | *electrification - total population:* 100% (2016) |
+| **Algeria** | *population without electricity:* 400,000 (2016) |
+| | *electrification - total population:* 99.4% (2016) |
+| | *electrification - urban areas:* 99.6% (2016) |
+| | *electrification - rural areas:* 99% (2016) |
+| **American Samoa** | *population without electricity:* 22,219 (2012) |
+| | *electrification - total population:* 59% (2012) |
+| | *electrification - urban areas:* 60% (2012) |
+| | *electrification - rural areas:* 45% (2012) |
+| **Andorra** | *electrification - total population:* 100% (2016) |
+| **Angola** | *population without electricity:* 15 million (2013) |
+| | *electrification - total population:* 40.5% (2016) |
+| | *electrification - urban areas:* 70.7% (2016) |
+| | *electrification - rural areas:* 16% (2016) |
+| **Antigua and Barbuda** | *population without electricity:* 9,358 (2012) |
+| | *electrification - total population:* 97.4% (2016) |
+| | *electrification - urban areas:* 100% (2016) |
+| | *electrification - rural areas:* 96.5% (2016) |
+| **Argentina** | *electrification - total population:* 100% (2016) |
+| **Armenia** | *electrification - total population:* 100% (2016) |
+| **Aruba** | *population without electricity:* 11,364 (2012) |
+| | *electrification - total population:* 95.6% (2016) |
+| | *electrification - urban areas:* 100% (2016) |
+| | *electrification - rural areas:* 92.5% (2016) |
+| **Australia** | *electrification - total population:* 100% (2016) |
+| **Austria** | *electrification - total population:* 100% (2016) |
+| **Azerbaijan** | *electrification - total population:* 100% (2016) |
+| **Bahamas, The** | *electrification - total population:* 100% (2016) |
+| **Bahrain** | *electrification - total population:* 100% (2016) |
+| **Bangladesh** | *population without electricity:* 60.3 million (2013) |
+| | *electrification - total population:* 75.9% (2016) |
+| | *electrification - urban areas:* 94% (2016) |
+| | *electrification - rural areas:* 68.9% (2016) |
+| **Barbados** | *electrification - total population:* 100% (2016) |
+| **Belarus** | *electrification - total population:* 100% (2016) |
+| **Belgium** | *electrification - total population:* 100% (2016) |
+| **Belize** | *electrification - total population:* 92.2% (2016) |
+| | *electrification - urban areas:* 97.1% (2016) |
+| | *electrification - rural areas:* 88.4% (2016) |
+| **Benin** | *population without electricity:* 8 million (2017) |
+| | *electrification - total population:* 41.4% (2016) |
+| | *electrification - urban areas:* 70.8% (2016) |
+| | *electrification - rural areas:* 18% (2016) |
+| **Bermuda** | *electrification - total population:* 100% (2016) |
+| **Bhutan** | *electrification - total population:* 100% (2016) |
+| **Bolivia** | *population without electricity:* 1.2 million (2013) |
+| | *electrification - total population:* 93% (2016) |
+| | *electrification - urban areas:* 99.3% (2016) |
+| | *electrification - rural areas:* 79.1% (2016) |
+| **Bosnia and Herzegovina** | *electrification - total population:* 100% (2016) |
+| **Botswana** | *electrification - total population:* 60.7% (2016) |
+| | *electrification - urban areas:* 77.7% (2016) |
+| | *electrification - rural areas:* 37.5% (2016) |
+| **Brazil** | *electrification - total population:* 100% (2016) |
+| **Brunei** | *electrification - total population:* 100% (2016) |
+| **Bulgaria** | *electrification - total population:* 100% (2016) |
+| **Burkina Faso** | *electrification - total population:* 19.2% (2016) |
+| | *electrification - urban areas:* 60.7% (2016) |
+| | *electrification - rural areas:* 0.8% (2016) |
+| **Burma** | *electrification - total population:* 57% (2016) |
+| | *electrification - urban areas:* 89.5% (2016) |
+| | *electrification - rural areas:* 39.8% (2016) |
+| **Burundi** | *population without electricity:* 10 million (2017) |
+| | *electrification - total population:* 7.6% (2016) |
+| | *electrification - urban areas:* 49.7% (2016) |
+| | *electrification - rural areas:* 1.7% (2016) |
+| **Cabo Verde** | *electrification - total population:* 92.6% (2016) |
+| | *electrification - urban areas:* 93% (2016) |
+| | *electrification - rural areas:* 91.8% (2016) |
+| **Cambodia** | *population without electricity:* 6 (2017) |
+| | *electrification - total population:* 49.8% (2016) |
+| | *electrification - urban areas:* 100% (2016) |
+| | *electrification - rural areas:* 36.5% (2016) |
+| **Cameroon** | *population without electricity:* 9 million (2017) |
+| | *electrification - total population:* 60.1% (2016) |
+| | *electrification - urban areas:* 91.9% (2016) |
+| | *electrification - rural areas:* 21.3% (2016) |
+| **Canada** | *electrification - total population:* 100% (2016) |
+| **Cayman Islands** | *electrification - total population:* 100% (2016) |
+| **Central African Republic** | *population without electricity:* 5 million (2017) |
+| | *electrification - total population:* 14% (2016) |
+| | *electrification - urban areas:* 34.1% (2016) |
+| | *electrification - rural areas:* 0.4% (2016) |
+| **Chad** | *population without electricity:* 14 million (2017) |
+| | *electrification - total population:* 8.8% (2016) |
+| | *electrification - urban areas:* 31.4% (2016) |
+| | *electrification - rural areas:* 2.2% (2016) |
+| **Chile** | *electrification - total population:* 100% (2016) |
+| **China** | *electrification - total population:* 100% (2016) |
+| **Colombia** | *population without electricity:* 1 million (2017) |
+| | *electrification - total population:* 99% (2016) |
+| | *electrification - urban areas:* 100% (2016) |
+| | *electrification - rural areas:* 95.7% (2016) |
+| **Comoros** | *population without electricity:* 200,000 (2017) |
+| | *electrification - total population:* 77.8% (2016) |
+| | *electrification - urban areas:* 92.1% (2016) |
+| | *electrification - rural areas:* 72.2% (2016) |
+| **Congo, Democratic Republic of the** | *population without electricity:* 69 million (2017) |
+| | *electrification - total population:* 17.1% (2016) |
+| | *electrification - urban areas:* 47.2% (2016) |
+| | *electrification - rural areas:* 0.4% (2016) |
+| **Congo, Republic of the** | *population without electricity:* 2 million (2017) |
+| | *electrification - total population:* 56.6% (2016) |
+| | *electrification - urban areas:* 74.2% (2016) |
+| | *electrification - rural areas:* 22.6% (2016) |
+| **Costa Rica** | *electrification - total population:* 100% (2016) |
+| **Cote d'Ivoire** | *population without electricity:* 10 million (2017) |
+| | *electrification - total population:* 64.3% (2016) |
+| | *electrification - urban areas:* 92% (2016) |
+| | *electrification - rural areas:* 38.1% (2016) |
+| **Croatia** | *electrification - total population:* 100% (2016) |
+| **Cuba** | *electrification - total population:* 100% (2016) |
+| **Curacao** | *electrification - total population:* 100% (2016) |
+| **Cyprus** | *electrification - total population:* 100% (2016) |
+| **Czechia** | *electrification - total population:* 100% (2016) |
+| **Denmark** | *electrification - total population:* 100% (2016) |
+| **Djibouti** | *population without electricity:* 400,000 (2016) |
+| | *electrification - total population:* 51.8% (2016) |
+| | *electrification - urban areas:* 67.4% (2016) |
+| | *electrification - rural areas:* 2% (2016) |
+| **Dominica** | *electrification - total population:* 100% (2016) |
+| **Dominican Republic** | *electrification - total population:* 100% (2016) |
+| **Ecuador** | *population without electricity:* 500,000 (2016) |
+| | *electrification - total population:* 99.9% (2016) |
+| | *electrification - urban areas:* 100% (2016) |
+| | *electrification - rural areas:* 99.8% (2016) |
+| **Egypt** | *electrification - total population:* 100% (2016) |
+| **El Salvador** | *population without electricity:* 400,000 (2016) |
+| | *electrification - total population:* 98.6% (2016) |
+| | *electrification - urban areas:* 98.6% (2016) |
+| | *electrification - rural areas:* 98.8% (2016) |
+| **Equatorial Guinea** | *population without electricity:* 300,000 (2016) |
+| | *electrification - total population:* 67.9% (2016) |
+| | *electrification - urban areas:* 90.8% (2016) |
+| | *electrification - rural areas:* 52.6% (2016) |
+| **Eritrea** | *population without electricity:* 3 million (2017) |
+| | *electrification - total population:* 46.7% (2016) |
+| | *electrification - urban areas:* 74.6% (2016) |
+| | *electrification - rural areas:* 39.3% (2016) |
+| **Estonia** | *electrification - total population:* 100% (2016) |
+| **Eswatini** | *population without electricity:* 900,000 (2017) |
+| | *electrification - total population:* 65.8% (2016) |
+| | *electrification - urban areas:* 82.8% (2016) |
+| | *electrification - rural areas:* 61.2% (2016) |
+| **Ethiopia** | *population without electricity:* 58 million (2017) |
+| | *electrification - total population:* 42.9% (2016) |
+| | *electrification - urban areas:* 85.4% (2016) |
+| | *electrification - rural areas:* 26.5% (2016) |
+| **Faroe Islands** | *electrification - total population:* 100% (2016) |
+| **Fiji** | *electrification - total population:* 98.6% (2016) |
+| | *electrification - urban areas:* 99.2% (2016) |
+| | *electrification - rural areas:* 98% (2016) |
+| **Finland** | *electrification - total population:* 100% (2016) |
+| **France** | *electrification - total population:* 100% (2016) |
+| **French Polynesia** | *electrification - total population:* 100% (2016) |
+| **Gabon** | *population without electricity:* 200,000 (2017) |
+| | *electrification - total population:* 91.4% (2016) |
+| | *electrification - urban areas:* 96.7% (2016) |
+| | *electrification - rural areas:* 55% (2016) |
+| **Gambia, The** | *population without electricity:* 1 million (2017) |
+| | *electrification - total population:* 47.8% (2016) |
+| | *electrification - urban areas:* 69% (2016) |
+| | *electrification - rural areas:* 15.5% (2016) |
+| **Gaza Strip** | *population without electricity:* 80,930 (2012) |
+| | *electrification - total population:* 98% (2012) |
+| | *electrification - urban areas:* 99% (2012) |
+| | *electrification - rural areas:* 93% (2012) |
+| | *note:* data for Gaza Strip and West Bank combined |
+| **Georgia** | *electrification - total population:* 100% (2016) |
+| **Germany** | *electrification - total population:* 100% (2016) |
+| **Ghana** | *population without electricity:* 5 million (2017) |
+| | *electrification - total population:* 79.3% (2016) |
+| | *electrification - urban areas:* 89.8% (2016) |
+| | *electrification - rural areas:* 66.6% (2016) |
+| **Greece** | *electrification - total population:* 100% (2016) |
+| **Greenland** | *electrification - total population:* 100% (2016) |
+| **Grenada** | *electrification - total population:* 92.3% (2016) |
+| | *electrification - urban areas:* 92.3% (2016) |
+| | *electrification - rural areas:* 92.3% (2016) |
+| **Guam** | *electrification - total population:* 100% (2016) |
+| **Guatemala** | *population without electricity:* 1 million (2017) |
+| | *electrification - total population:* 91.8% (2016) |
+| | *electrification - urban areas:* 96.8% (2016) |
+| | *electrification - rural areas:* 86.4% (2016) |
+| **Guernsey** | *electrification - total population:* 100% (2016) |
+| **Guinea** | *population without electricity:* 11 million (2017) |
+| | *electrification - total population:* 33.5% (2016) |
+| | *electrification - urban areas:* 82.2% (2016) |
+| | *electrification - rural areas:* 6.9% (2016) |
+| **Guinea-Bissau** | *population without electricity:* 2 million (2017) |
+| | *electrification - total population:* 14.7% (2016) |
+| | *electrification - urban areas:* 29.8% (2016) |
+| | *electrification - rural areas:* 4% (2016) |
+| **Guyana** | *electrification - total population:* 84.2% (2016) |
+| | *electrification - urban areas:* 90.2% (2016) |
+| | *electrification - rural areas:* 81.9% (2016) |
+| **Haiti** | *population without electricity:* 8 million (2017) |
+| | *electrification - total population:* 38.7% (2016) |
+| | *electrification - urban areas:* 65.4% (2016) |
+| | *electrification - rural areas:* 0.5% (2016) |
+| **Honduras** | *population without electricity:* 2 million (2017) |
+| | *electrification - total population:* 87.6% (2016) |
+| | *electrification - urban areas:* 100% (2016) |
+| | *electrification - rural areas:* 72.2% (2016) |
+| **Hong Kong** | *electrification - total population:* 100% (2016) |
+| **Hungary** | *electrification - total population:* 100% (2016) |
+| **Iceland** | *electrification - total population:* 100% (2016) |
+| **India** | *population without electricity:* 168 million (2017) |
+| | *electrification - total population:* 84.5% (2016) |
+| | *electrification - urban areas:* 98.4% (2016) |
+| | *electrification - rural areas:* 77.6% (2016) |
+| **Indonesia** | *population without electricity:* 14 million (2017) |
+| | *electrification - total population:* 97.6% (2016) |
+| | *electrification - urban areas:* 100% (2016) |
+| | *electrification - rural areas:* 94.8% (2016) |
+| **Iran** | *electrification - total population:* 100% (2016) |
+| **Iraq** | *electrification - total population:* 100% (2016) |
+| **Ireland** | *electrification - total population:* 100% (2016) |
+| **Isle of Man** | *electrification - total population:* 100% (2016) |
+| **Israel** | *electrification - total population:* 100% (2016) |
+| **Italy** | *electrification - total population:* 100% (2016) |
+| **Jamaica** | *electrification - total population:* 98.2% (2016) |
+| | *electrification - urban areas:* 100% (2016) |
+| | *electrification - rural areas:* 96% (2016) |
+| **Japan** | *electrification - total population:* 100% (2016) |
+| **Jersey** | *electrification - total population:* 100% (2016) |
+| **Jordan** | *electrification - total population:* 100% (2016) |
+| **Kazakhstan** | *electrification - total population:* 100% (2016) |
+| **Kenya** | *population without electricity:* 13 million (2017) |
+| | *electrification - total population:* 56% (2016) |
+| | *electrification - urban areas:* 77.6% (2016) |
+| | *electrification - rural areas:* 39.3% (2016) |
+| **Kiribati** | *electrification - total population:* 84.9% (2016) |
+| | *electrification - urban areas:* 88.4% (2016) |
+| | *electrification - rural areas:* 82.2% (2016) |
+| **Korea, North** | *population without electricity:* 19 million (2017) |
+| | *electrification - total population:* 26% (2016) |
+| | *electrification - urban areas:* 36% (2016) |
+| | *electrification - rural areas:* 11% (2016) |
+| **Korea, South** | *electrification - total population:* 100% (2016) |
+| **Kosovo** | *electrification - total population:* 100% (2016) |
+| **Kuwait** | *electrification - total population:* 100% (2016) |
+| **Kyrgyzstan** | *electrification - total population:* 100% (2016) |
+| **Laos** | *electrification - total population:* 87.1% (2016) |
+| | *electrification - urban areas:* 97.4% (2016) |
+| | *electrification - rural areas:* 80.3% (2016) |
+| **Latvia** | *electrification - total population:* 100% (2016) |
+| **Lebanon** | *electrification - total population:* 100% (2016) |
+| **Lesotho** | *population without electricity:* 1 million (2017) |
+| | *electrification - total population:* 29.7% (2016) |
+| | *electrification - urban areas:* 66% (2016) |
+| | *electrification - rural areas:* 15.7% (2016) |
+| **Liberia** | *population without electricity:* 4 million (2017) |
+| | *electrification - total population:* 19.8% (2016) |
+| | *electrification - urban areas:* 34% (2016) |
+| | *electrification - rural areas:* 1.3% (2016) |
+| **Libya** | *electrification - total population:* 98.5% (2016) |
+| | *electrification - urban areas:* 99.1% (2016) |
+| | *electrification - rural areas:* 96.4% (2016) |
+| **Liechtenstein** | *electrification - total population:* 100% (2016) |
+| **Lithuania** | *electrification - total population:* 100% (2016) |
+| **Luxembourg** | *electrification - total population:* 100% (2016) |
+| **Macau** | *electrification - total population:* 100% (2016) |
+| **Madagascar** | *population without electricity:* 20 million (2017) |
+| | *electrification - total population:* 22.9% (2016) |
+| | *electrification - urban areas:* 67.3% (2016) |
+| | *electrification - rural areas:* 17.3% (2016) |
+| **Malawi** | *population without electricity:* 17 million (2017) |
+| | *electrification - total population:* 11% (2016) |
+| | *electrification - urban areas:* 42% (2016) |
+| | *electrification - rural areas:* 4% (2016) |
+| **Malaysia** | *electrification - total population:* 100% (2016) |
+| **Maldives** | *electrification - total population:* 100% (2016) |
+| **Mali** | *population without electricity:* 11 million (2017) |
+| | *electrification - total population:* 35.1% (2016) |
+| | *electrification - urban areas:* 83.6% (2016) |
+| | *electrification - rural areas:* 1.8% (2016) |
+| **Malta** | *electrification - total population:* 100% (2016) |
+| **Marshall Islands** | *electrification - total population:* 93.1% (2016) |
+| | *electrification - urban areas:* 94.6% (2016) |
+| | *electrification - rural areas:* 89.1% (2016) |
+| **Mauritania** | *population without electricity:* 3 million (2017) |
+| | *electrification - total population:* 41.7% (2016) |
+| | *electrification - urban areas:* 81% (2016) |
+| | *electrification - rural areas:* 2.3% (2016) |
+| **Mauritius** | *electrification - total population:* 100% (2016) |
+| **Mexico** | *electrification - total population:* 100% (2016) |
+| **Micronesia, Federated States of** | *electrification - total population:* 75.4% (2016) |
+| | *electrification - urban areas:* 91.9% (2016) |
+| | *electrification - rural areas:* 70.7% (2016) |
+| **Moldova** | *electrification - total population:* 100% (2016) |
+| **Monaco** | *electrification - total population:* 100% (2016) |
+| **Mongolia** | *electrification - total population:* 81.8% (2016) |
+| | *electrification - urban areas:* 95.8% (2016) |
+| | *electrification - rural areas:* 44.2% (2016) |
+| **Montenegro** | *electrification - total population:* 100% (2016) |
+| **Morocco** | *electrification - total population:* 100% (2016) |
+| **Mozambique** | *population without electricity:* 21 million (2017) |
+| | *electrification - total population:* 24.2% (2016) |
+| | *electrification - urban areas:* 64.2% (2016) |
+| | *electrification - rural areas:* 5% (2016) |
+| **Namibia** | *population without electricity:* 1 million (2017) |
+| | *electrification - total population:* 51.8% (2016) |
+| | *electrification - urban areas:* 77.1% (2016) |
+| | *electrification - rural areas:* 28.7% (2016) |
+| **Nepal** | *population without electricity:* 3 million (2017) |
+| | *electrification - total population:* 90.7% (2016) |
+| | *electrification - urban areas:* 94.5% (2016) |
+| | *electrification - rural areas:* 85.2% (2016) |
+| **Netherlands** | *electrification - total population:* 100% (2016) |
+| **New Caledonia** | *electrification - total population:* 100% (2016) |
+| **New Zealand** | *electrification - total population:* 100% (2016) |
+| **Nicaragua** | *electrification - total population:* 81.8% (2016) |
+| | *electrification - urban areas:* 99.2% (2016) |
+| | *electrification - rural areas:* 56.6% (2016) |
+| **Niger** | *population without electricity:* 19 million (2017) |
+| | *electrification - total population:* 16.2% (2016) |
+| | *electrification - urban areas:* 65.4% (2016) |
+| | *electrification - rural areas:* 4.7% (2016) |
+| **Nigeria** | *population without electricity:* 77 million (2017) |
+| | *electrification - total population:* 59.3% (2016) |
+| | *electrification - urban areas:* 86% (2016) |
+| | *electrification - rural areas:* 41.1% (2016) |
+| **North Macedonia** | *electrification - total population:* 100% (2016) |
+| **Northern Mariana Islands** | *electrification - total population:* 100% (2016) |
+| **Norway** | *electrification - total population:* 100% (2016) |
+| **Oman** | *electrification - total population:* 99% (2016) |
+| | *electrification - urban areas:* 100% (2016) |
+| | *electrification - rural areas:* 93% (2016) |
+| **Pakistan** | *population without electricity:* 52 million (2017) |
+| | *electrification - total population:* 74% (2017) |
+| | *electrification - urban areas:* 90% (2017) |
+| | *electrification - rural areas:* 64% (2017) |
+| **Palau** | *electrification - total population:* 99.3% (2016) |
+| | *electrification - urban areas:* 99.6% (2016) |
+| | *electrification - rural areas:* 97.2% (2016) |
+| **Panama** | *electrification - total population:* 93.4% (2016) |
+| | *electrification - urban areas:* 99.4% (2016) |
+| | *electrification - rural areas:* 81.3% (2016) |
+| **Papua New Guinea** | *electrification - total population:* 22.9% (2016) |
+| | *electrification - urban areas:* 72.7% (2016) |
+| | *electrification - rural areas:* 15.5% (2016) |
+| **Paraguay** | *electrification - total population:* 98.4% (2016) |
+| | *electrification - urban areas:* 99.9% (2016) |
+| | *electrification - rural areas:* 96.1% (2016) |
+| **Peru** | *population without electricity:* 2 million (2017) |
+| | *electrification - total population:* 95% (2017) |
+| | *electrification - urban areas:* 97% (2017) |
+| | *electrification - rural areas:* 89% (2017) |
+| **Philippines** | *population without electricity:* 12 million (2017) |
+| | *electrification - total population:* 88% (2017) |
+| | *electrification - urban areas:* 98% (2017) |
+| | *electrification - rural areas:* 80% (2017) |
+| **Poland** | *electrification - total population:* 100% (2016) |
+| **Portugal** | *electrification - total population:* 100% (2016) |
+| **Puerto Rico** | *electrification - total population:* 100% (2016) |
+| **Qatar** | *electrification - total population:* 100% (2016) |
+| **Romania** | *electrification - total population:* 100% (2016) |
+| **Russia** | *electrification - total population:* 100% (2016) |
+| **Rwanda** | *population without electricity:* 7 million (2017) |
+| | *electrification - total population:* 43% (2017) |
+| | *electrification - urban areas:* 69% (2017) |
+| | *electrification - rural areas:* 37% (2017) |
+| **Saint Kitts and Nevis** | *electrification - total population:* 100% (2016) |
+| **Saint Lucia** | *electrification - total population:* 97.8% (2016) |
+| | *electrification - urban areas:* 94.9% (2016) |
+| | *electrification - rural areas:* 98.4% (2016) |
+| **Saint Martin** | *electrification - total population:* 72% (2016) |
+| | *electrification - urban areas:* 89.8% (2016) |
+| **Saint Vincent and the Grenadines** | *electrification - total population:* 100% (2016) |
+| **Samoa** | *electrification - total population:* 100% (2016) |
+| **San Marino** | *electrification - total population:* 100% (2016) |
+| **Sao Tome and Principe** | *electrification - total population:* 68% (2017) |
+| | *electrification - urban areas:* 87% (2017) |
+| | *electrification - rural areas:* 22% (2017) |
+| **Saudi Arabia** | *electrification - total population:* 99% (2017) |
+| | *electrification - urban areas:* 100% (2017) |
+| | *electrification - rural areas:* 98% (2017) |
+| **Senegal** | *population without electricity:* 6 million (2017) |
+| | *electrification - total population:* 65% (2017) |
+| | *electrification - urban areas:* 90% (2017) |
+| | *electrification - rural areas:* 43% (2017) |
+| **Serbia** | *electrification - total population:* 100% (2016) |
+| **Seychelles** | *electrification - total population:* 100% (2016) |
+| **Sierra Leone** | *population without electricity:* 6 million (2017) |
+| | *electrification - total population:* 20% (2017) |
+| | *electrification - urban areas:* 19% (2017) |
+| | *electrification - rural areas:* 20% (2017) |
+| **Singapore** | *electrification - total population:* 100% (2016) |
+| **Sint Maarten** | *electrification - total population:* 100% (2016) |
+| **Slovakia** | *electrification - total population:* 100% (2016) |
+| **Slovenia** | *electrification - total population:* 100% (2016) |
+| **Solomon Islands** | *electrification - total population:* 47.9% (2016) |
+| | *electrification - urban areas:* 69.6% (2016) |
+| | *electrification - rural areas:* 41.5% (2016) |
+| **Somalia** | *population without electricity:* 12 million (2017) |
+| | *electrification - total population:* 17% (2017) |
+| | *electrification - urban areas:* 35% (2017) |
+| | *electrification - rural areas:* 4% (2017) |
+| **South Africa** | *population without electricity:* 9 million (2017) |
+| | *electrification - total population:* 84.2% (2016) |
+| | *electrification - urban areas:* 92.9% (2016) |
+| | *electrification - rural areas:* 67.9% (2016) |
+| **South Sudan** | *population without electricity:* 12 million (2017) |
+| | *electrification - total population:* 8.9% (2016) |
+| | *electrification - urban areas:* 22% (2016) |
+| | *electrification - rural areas:* 5.9% (2016) |
+| **Spain** | *electrification - total population:* 100% (2016) |
+| **Sri Lanka** | *electrification - total population:* 95.6% (2016) |
+| | *electrification - urban areas:* 100% (2016) |
+| | *electrification - rural areas:* 94.6% (2016) |
+| **Sudan** | *population without electricity:* 22 million (2017) |
+| | *electrification - total population:* 45% (2017) |
+| | *electrification - urban areas:* 71% (2017) |
+| | *electrification - rural areas:* 31% (2017) |
+| **Suriname** | *electrification - total population:* 87.2% (2016) |
+| | *electrification - urban areas:* 96.4% (2016) |
+| | *electrification - rural areas:* 69.3% (2016) |
+| **Sweden** | *electrification - total population:* 100% (2016) |
+| **Switzerland** | *electrification - total population:* 100% (2016) |
+| **Syria** | *population without electricity:* 1 million (2017) |
+| | *electrification - total population:* 92% (2017) |
+| | *electrification - urban areas:* 100% (2017) |
+| | *electrification - rural areas:* 84% (2017) |
+| **Tajikistan** | *electrification - total population:* 100% (2016) |
+| **Tanzania** | *population without electricity:* 39 million (2017) |
+| | *electrification - total population:* 33% (2017) |
+| | *electrification - urban areas:* 65% (2017) |
+| | *electrification - rural areas:* 17% (2017) |
+| **Thailand** | *electrification - total population:* 100% (2016) |
+| **Timor-Leste** | *electrification - total population:* 63.4% (2016) |
+| | *electrification - urban areas:* 91.7% (2016) |
+| | *electrification - rural areas:* 49.2% (2016) |
+| **Togo** | *population without electricity:* 5 million (2017) |
+| | *electrification - total population:* 36% (2017) |
+| | *electrification - urban areas:* 64% (2017) |
+| | *electrification - rural areas:* 16% (2017) |
+| **Tonga** | *electrification - total population:* 97% (2016) |
+| | *electrification - urban areas:* 98.6% (2016) |
+| | *electrification - rural areas:* 96.6% (2016) |
+| **Trinidad and Tobago** | *electrification - total population:* 100% (2016) |
+| **Tunisia** | *electrification - total population:* 100% (2016) |
+| **Turkey** | *electrification - total population:* 100% (2016) |
+| **Turkmenistan** | *electrification - total population:* 100% (2016) |
+| **Turks and Caicos Islands** | *electrification - total population:* 95.7% (2016) |
+| | *electrification - urban areas:* 100% (2016) |
+| | *electrification - rural areas:* 42.7% (2016) |
+| **Tuvalu** | *electrification - total population:* 99.4% (2016) |
+| | *electrification - urban areas:* 100% (2016) |
+| | *electrification - rural areas:* 98.5% (2016) |
+| **Uganda** | *population without electricity:* 34 million (2017) |
+| | *electrification - total population:* 20% (2017) |
+| | *electrification - urban areas:* 23% (2017) |
+| | *electrification - rural areas:* 19% (2017) |
+| **Ukraine** | *electrification - total population:* 100% (2016) |
+| **United Arab Emirates** | *electrification - total population:* 100% (2017) |
+| **United Kingdom** | *electrification - total population:* 100% (2016) |
+| **United States** | *electrification - total population:* 100% (2016) |
+| **Uruguay** | *electrification - total population:* 100% (2016) |
+| **Uzbekistan** | *electrification - total population:* 100% (2016) |
+| **Vanuatu** | *electrification - total population:* 57.8% (2016) |
+| | *electrification - urban areas:* 91.4% (2016) |
+| | *electrification - rural areas:* 46.4% (2016) |
+| **Venezuela** | *electrification - total population:* 99.6% (2016) |
+| | *electrification - urban areas:* 100% (2016) |
+| | *electrification - rural areas:* 96.4% (2016) |
+| **Vietnam** | *population without electricity:* 1 million (2017) |
+| | *electrification - total population:* 99% (2017) |
+| | *electrification - urban areas:* 100% (2017) |
+| | *electrification - rural areas:* 98% (2017) |
+| **Virgin Islands** | *electrification - total population:* 100% (2016) |
+| **West Bank** | *electrification - total population:* 100% (2016) |
+| | *note:* data for West Bank and Gaza Strip combined |
+| **World** | *population without electricity:* 1.201 billion (2013) |
+| | *electrification - total population:* 83% (2013) |
+| | *electrification - urban areas:* 95% (2013) |
+| | *electrification - rural areas:* 70% (2013) |
+| **Yemen** | *population without electricity:* 15 million (2017) |
+| | *electrification - total population:* 47% (2017) |
+| | *electrification - urban areas:* 72% (2017) |
+| | *electrification - rural areas:* 32% (2017) |
+| **Zambia** | *population without electricity:* 12 million (2017) |
+| | *electrification - total population:* 33% (2017) |
+| | *electrification - urban areas:* 67% (2017) |
+| | *electrification - rural areas:* 6% (2017) |
+| **Zimbabwe** | *population without electricity:* 11 million (2017) |
+| | *electrification - total population:* 34% (2017) |
+| | *electrification - urban areas:* 81% (2017) |
+| | *electrification - rural areas:* 11% (2017) |
+

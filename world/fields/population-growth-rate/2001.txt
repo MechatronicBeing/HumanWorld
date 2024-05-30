@@ -1,0 +1,242 @@
+CIA -- The World Factbook -- Population growth rate
+
+| Country | Population growth rate |
+| --- | --- |
+| **Afghanistan** | 3.48% (2001 est.) |
+| | *note:*  this rate reflects the continued return of refugees from Iran |
+| **Albania** | 0.88% (2001 est.) |
+| **Algeria** | 1.71% (2001 est.) |
+| **American Samoa** | 2.42% (2001 est.) |
+| **Andorra** | 1.17% (2001 est.) |
+| **Angola** | 2.15% (2001 est.) |
+| **Anguilla** | 2.68% (2001 est.) |
+| **Antigua and Barbuda** | 0.74% (2001 est.) |
+| **Argentina** | 1.15% (2001 est.) |
+| **Armenia** | -0.21% (2001 est.) |
+| **Aruba** | 0.64% (2001 est.) |
+| **Australia** | 0.99% (2001 est.) |
+| **Austria** | 0.24% (2001 est.) |
+| **Azerbaijan** | 0.32% (2001 est.) |
+| **Bahamas, The** | 0.93% (2001 est.) |
+| **Bahrain** | 1.73% (2001 est.) |
+| **Bangladesh** | 1.59% (2001 est.) |
+| **Barbados** | 0.46% (2001 est.) |
+| **Belarus** | -0.15% (2001 est.) |
+| **Belgium** | 0.16% (2001 est.) |
+| **Belize** | 2.7% (2001 est.) |
+| **Benin** | 2.97% (2001 est.) |
+| **Bermuda** | 0.74% (2001 est.) |
+| **Bhutan** | 2.17% (2001 est.) |
+| **Bolivia** | 1.76% (2001 est.) |
+| **Bosnia and Herzegovina** | 1.38% (2001 est.) |
+| **Botswana** | 0.47% (2001 est.) |
+| **Brazil** | 0.91% (2001 est.) |
+| **British Virgin Islands** | 2.22% (2001 est.) |
+| **Brunei** | 2.11% (2001 est.) |
+| **Bulgaria** | -1.14% (2001 est.) |
+| **Burkina Faso** | 2.68% (2001 est.) |
+| **Burma** | 0.6% (2001 est.) |
+| **Burundi** | 2.38% (2001 est.) |
+| **Cambodia** | 2.25% (2001 est.) |
+| **Cameroon** | 2.41% (2001 est.) |
+| **Canada** | 0.99% (2001 est.) |
+| **Cape Verde** | 0.92% (2001 est.) |
+| **Cayman Islands** | 2.12% (2001 est.) |
+| **Central African Republic** | 1.85% (2001 est.) |
+| **Chad** | 3.29% (2001 est.) |
+| **Chile** | 1.13% (2001 est.) |
+| **China** | 0.88% (2001 est.) |
+| **Christmas Island** | 7.77% (2001 est.) |
+| **Cocos (Keeling) Islands** | -0.21% (2001 est.) |
+| **Colombia** | 1.64% (2001 est.) |
+| **Comoros** | 3.02% (2001 est.) |
+| **Congo, Democratic Republic of the** | 3.1% (2001 est.) |
+| **Congo, Republic of the** | 2.2% (2001 est.) |
+| **Costa Rica** | 1.65% (2001 est.) |
+| **Cote d'Ivoire** | 2.51% (2001 est.) |
+| **Croatia** | 1.48% (2001 est.) |
+| **Cuba** | 0.37% (2001 est.) |
+| **Cyprus** | 0.59% (2001 est.) |
+| **Czech Republic** | -0.07% (2001 est.) |
+| **Denmark** | 0.3% (2001 est.) |
+| **Djibouti** | 2.6% (2001 est.) |
+| **Dominica** | -0.98% (2001 est.) |
+| **Dominican Republic** | 1.63% (2001 est.) |
+| **Ecuador** | 2% (2001 est.) |
+| **Egypt** | 1.69% (2001 est.) |
+| **El Salvador** | 1.85% (2001 est.) |
+| **Equatorial Guinea** | 2.46% (2001 est.) |
+| **Eritrea** | 3.84% (2001 est.) |
+| **Estonia** | -0.55% (2001 est.) |
+| **Ethiopia** | 2.7% (2001 est.) |
+| **Falkland Islands (Islas Malvinas)** | 2.43% (2001 est.) |
+| **Faroe Islands** | 0.78% (2001 est.) |
+| **Fiji** | 1.41% (2001 est.) |
+| **Finland** | 0.16% (2001 est.) |
+| **France** | 0.37% (2001 est.) |
+| **French Guiana** | 2.74% (2001 est.) |
+| **French Polynesia** | 1.72% (2001 est.) |
+| **Gabon** | 1.02% (2001 est.) |
+| **Gambia, The** | 3.14% (2001 est.) |
+| **Gaza Strip** | 4.01% (2001 est.) |
+| **Georgia** | -0.59% (2001 est.) |
+| **Germany** | 0.27% (2001 est.) |
+| **Ghana** | 1.79% (2001 est.) |
+| **Gibraltar** | 0.24% (2001 est.) |
+| **Greece** | 0.21% (2001 est.) |
+| **Greenland** | 0.06% (2001 est.) |
+| **Grenada** | -0.06% (2001 est.) |
+| **Guadeloupe** | 1.07% (2001 est.) |
+| **Guam** | 2.09% (2001 est.) |
+| **Guatemala** | 2.6% (2001 est.) |
+| **Guernsey** | 0.39% (2001 est.) |
+| **Guinea** | 1.96% (2001 est.) |
+| **Guinea-Bissau** | 2.23% (2001 est.) |
+| **Guyana** | 0.07% (2001 est.) |
+| **Haiti** | 1.4% (2001 est.) |
+| **Holy See (Vatican City)** | 1.15% (2001 est.) |
+| **Honduras** | 2.43% (2001 est.) |
+| **Hong Kong** | 1.3% (2001 est.) |
+| **Hungary** | -0.32% (2001 est.) |
+| **Iceland** | 0.54% (2001 est.) |
+| **India** | 1.55% (2001 est.) |
+| **Indonesia** | 1.6% (2001 est.) |
+| **Iran** | 0.72% (2001 est.) |
+| **Iraq** | 2.84% (2001 est.) |
+| **Ireland** | 1.12% (2001 est.) |
+| **Israel** | 1.58% (2001 est.) |
+| **Italy** | 0.07% (2001 est.) |
+| **Jamaica** | 0.51% (2001 est.) |
+| **Japan** | 0.17% (2001 est.) |
+| **Jersey** | 0.48% (2001 est.) |
+| **Johnston Atoll** | -5.94% (2001 est.) |
+| **Jordan** | 3% (2001 est.) |
+| **Kazakhstan** | 0.03% (2001 est.) |
+| **Kenya** | 1.27% (2001 est.) |
+| **Kiribati** | 2.31% (2001 est.) |
+| **Korea, North** | 1.22% (2001 est.) |
+| **Korea, South** | 0.89% (2001 est.) |
+| **Kuwait** | 3.38% (2001 est.) |
+| | *note:*  this rate reflects a return to pre-Gulf crisis immigration of expatriates |
+| **Kyrgyzstan** | 1.44% (2001 est.) |
+| **Laos** | 2.48% (2001 est.) |
+| **Latvia** | -0.81% (2001 est.) |
+| **Lebanon** | 1.38% (2001 est.) |
+| **Lesotho** | 1.49% (2001 est.) |
+| **Liberia** | 1.92% (2001 est.) |
+| **Libya** | 2.42% (2001 est.) |
+| **Liechtenstein** | 0.98% (2001 est.) |
+| **Lithuania** | -0.27% (2001 est.) |
+| **Luxembourg** | 1.26% (2001 est.) |
+| **Macau** | 1.79% (2001 est.) |
+| **Macedonia, The Former Yugoslav Republic of** | 0.43% (2001 est.) |
+| **Madagascar** | 3.02% (2001 est.) |
+| **Malawi** | 1.5% (2001 est.) |
+| **Malaysia** | 1.96% (2001 est.) |
+| **Maldives** | 3.01% (2001 est.) |
+| **Mali** | 2.97% (2001 est.) |
+| **Malta** | 0.74% (2001 est.) |
+| **Man, Isle of** | 0.52% (2001 est.) |
+| **Marshall Islands** | 3.88% (2001 est.) |
+| **Martinique** | 0.93% (2001 est.) |
+| **Mauritania** | 2.93% (2001 est.) |
+| **Mauritius** | 0.88% (2001 est.) |
+| **Mayotte** | 4.58% (2001 est.) |
+| **Mexico** | 1.5% (2001 est.) |
+| **Moldova** | 0.05% (2001 est.) |
+| **Monaco** | 0.46% (2001 est.) |
+| **Mongolia** | 1.47% (2001 est.) |
+| **Montserrat** | 13.39% (2001 est.) |
+| **Morocco** | 1.71% (2001 est.) |
+| **Mozambique** | 1.3% (2001 est.) |
+| **Namibia** | 1.38% (2001 est.) |
+| **Nauru** | 2% (2001 est.) |
+| **Nepal** | 2.32% (2001 est.) |
+| **Netherlands** | 0.55% (2001 est.) |
+| **Netherlands Antilles** | 0.97% (2001 est.) |
+| **New Caledonia** | 1.48% (2001 est.) |
+| **New Zealand** | 1.14% (2001 est.) |
+| **Nicaragua** | 2.15% (2001 est.) |
+| **Niger** | 2.72% (2001 est.) |
+| **Nigeria** | 2.61% (2001 est.) |
+| **Niue** | 0.5% (2001 est.) |
+| **Norfolk Island** | -0.71% (2001 est.) |
+| **Northern Mariana Islands** | 3.62% (2001 est.) |
+| **Norway** | 0.49% (2001 est.) |
+| **Oman** | 3.43% (2001 est.) |
+| **Pakistan** | 2.11% (2001 est.) |
+| **Palau** | 1.69% (2001 est.) |
+| **Panama** | 1.3% (2001 est.) |
+| **Papua New Guinea** | 2.43% (2001 est.) |
+| **Paraguay** | 2.6% (2001 est.) |
+| **Peru** | 1.7% (2001 est.) |
+| **Philippines** | 2.03% (2001 est.) |
+| **Pitcairn Islands** | -2.08% (2001 est.) |
+| **Poland** | -0.03% (2001 est.) |
+| **Portugal** | 0.18% (2001 est.) |
+| **Puerto Rico** | 0.54% (2001 est.) |
+| **Qatar** | 3.18% (2001 est.) |
+| **Reunion** | 1.57% (2001 est.) |
+| **Romania** | -0.21% (2001 est.) |
+| **Russia** | -0.35% (2001 est.) |
+| **Rwanda** | 1.16% (2001 est.) |
+| **Saint Helena** | 0.72% (2001 est.) |
+| **Saint Kitts and Nevis** | -0.11% (2001 est.) |
+| **Saint Lucia** | 1.23% (2001 est.) |
+| **Saint Pierre and Miquelon** | 0.43% (2001 est.) |
+| **Saint Vincent and the Grenadines** | 0.4% (2001 est.) |
+| **Samoa** | -0.23% (2001 est.) |
+| **San Marino** | 1.45% (2001 est.) |
+| **Sao Tome and Principe** | 3.18% (2001 est.) |
+| **Saudi Arabia** | 3.27% (2001 est.) |
+| **Senegal** | 2.93% (2001 est.) |
+| **Seychelles** | 0.49% (2001 est.) |
+| **Sierra Leone** | 3.61% (2001 est.) |
+| **Singapore** | 3.5% (2001 est.) |
+| **Slovakia** | 0.13% (2001 est.) |
+| **Slovenia** | 0.14% (2001 est.) |
+| **Solomon Islands** | 2.98% (2001 est.) |
+| **Somalia** | 3.48% (2001 est.) |
+| **South Africa** | 0.26% (2001 est.) |
+| **Spain** | 0.1% (2001 est.) |
+| **Sri Lanka** | 0.87% (2001 est.) |
+| **Sudan** | 2.79% (2001 est.) |
+| **Suriname** | 0.6% (2001 est.) |
+| **Svalbard** | -3.55% (2001 est.) |
+| **Swaziland** | 1.83% (2001 est.) |
+| **Sweden** | 0.02% (2001 est.) |
+| **Switzerland** | 0.27% (2001 est.) |
+| **Syria** | 2.54% (2001 est.) |
+| **Tajikistan** | 2.12% (2001 est.) |
+| **Tanzania** | 2.61% (2001 est.) |
+| **Thailand** | 0.91% (2001 est.) |
+| **Togo** | 2.6% (2001 est.) |
+| **Tokelau** | -0.92% (2001 est.) |
+| **Tonga** | 1.79% (2001 est.) |
+| **Trinidad and Tobago** | -0.51% (2001 est.) |
+| **Tunisia** | 1.15% (2001 est.) |
+| **Turkey** | 1.24% (2001 est.) |
+| **Turkmenistan** | 1.85% (2001 est.) |
+| **Turks and Caicos Islands** | 3.41% (2001 est.) |
+| **Tuvalu** | 1.4% (2001 est.) |
+| **Uganda** | 2.93% (2001 est.) |
+| **Ukraine** | -0.78% (2001 est.) |
+| **United Arab Emirates** | 1.59% (2001 est.) |
+| **United Kingdom** | 0.23% (2001 est.) |
+| **United States** | 0.9% (2001 est.) |
+| **Uruguay** | 0.78% (2001 est.) |
+| **Uzbekistan** | 1.6% (2001 est.) |
+| **Vanuatu** | 1.7% (2001 est.) |
+| **Venezuela** | 1.56% (2001 est.) |
+| **Vietnam** | 1.45% (2001 est.) |
+| **Virgin Islands** | 1.06% (2001 est.) |
+| **Wallis and Futuna** | NA% |
+| **West Bank** | 3.48% (2001 est.) |
+| **World** | 1.25% (2001 est.) |
+| **Yemen** | 3.38% (2001 est.) |
+| **Yugoslavia** | -0.27% (2001 est.) |
+| **Zambia** | 1.93% (2001 est.) |
+| **Zimbabwe** | 0.15% (2001 est.) |
+| **Taiwan** | 0.8% (2001 est.) |
+
+

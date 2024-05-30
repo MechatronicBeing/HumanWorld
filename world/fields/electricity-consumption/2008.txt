@@ -1,0 +1,233 @@
+CIA - The World Factbook -- Field Listing - Electricity - consumption
+
+| Country | Electricity - consumption (kWh) |
+| --- | --- |
+| **Afghanistan** | 1.088 billion kWh (2006 est.) |
+| **Albania** | 3.607 billion kWh (2007 est.) |
+| **Algeria** | 26.91 billion kWh (2006 est.) |
+| **American Samoa** | 167.4 million kWh (2006 est.) |
+| **Andorra** | NA kWh |
+| **Angola** | 3.084 billion kWh (2006 est.) |
+| **Antigua and Barbuda** | 97.65 million kWh (2006 est.) |
+| **Argentina** | 97.72 billion kWh (2006 est.) |
+| **Armenia** | 4.539 billion kWh (2006 est.) |
+| **Aruba** | 744 million kWh (2006 est.) |
+| **Australia** | 220 billion kWh (2006 est.) |
+| **Austria** | 62.35 billion kWh (2006 est.) |
+| **Azerbaijan** | 27.5 billion kWh (2007 est.) |
+| **Bahamas, The** | 1.793 billion kWh (2006 est.) |
+| **Bahrain** | 8.742 billion kWh (2006 est.) |
+| **Bangladesh** | 21.37 billion kWh (2006 est.) |
+| **Barbados** | 939.9 million kWh (2007 est.) |
+| **Belarus** | 30.43 billion kWh (2006 est.) |
+| **Belgium** | 85.54 billion kWh (2006 est.) |
+| **Belize** | 193.3 million kWh (2006 est.) |
+| **Benin** | 595 million kWh (2006 est.) |
+| **Bermuda** | 619.8 million kWh (2006 est.) |
+| **Bhutan** | 528.8 million kWh (2007 est.) |
+| **Bolivia** | 5.092 billion kWh (2007 est.) |
+| **Bosnia and Herzegovina** | 8.501 billion kWh (2006 est.) |
+| **Botswana** | 2.574 billion kWh (2006 est.) |
+| **Brazil** | 402.2 billion kWh (2007 est.) |
+| **British Indian Ocean Territory** | NA kWh |
+| **British Virgin Islands** | 41.85 million kWh (2006 est.) |
+| **Brunei** | 2.924 billion kWh (2006 est.) |
+| **Bulgaria** | 30.5 billion kWh (2006 est.) |
+| **Burkina Faso** | 509.3 million kWh (2006 est.) |
+| **Burma** | 4.289 billion kWh (2006 est.) |
+| **Burundi** | 120.9 million kWh (2006 est.) |
+| **Cambodia** | 1.178 billion kWh (2006 est.) |
+| **Cameroon** | 3.323 billion kWh (2006 est.) |
+| **Canada** | 530 billion kWh (2006 est.) |
+| **Cape Verde** | 43.71 million kWh (2006 est.) |
+| **Cayman Islands** | 546.1 million kWh (2007 est.) |
+| **Central African Republic** | 102.3 million kWh (2006 est.) |
+| **Chad** | 88.35 million kWh (2006 est.) |
+| **Chile** | 45.52 billion kWh (2006 est.) |
+| **China** | 2.859 trillion kWh (2006) |
+| **Colombia** | 39.58 billion kWh (2006 est.) |
+| **Comoros** | 18.6 million kWh (2006 est.) |
+| **Congo, Democratic Republic of the** | 5.158 billion kWh (2006 est.) |
+| **Congo, Republic of the** | 564 million kWh (2006 est.) |
+| **Cook Islands** | 27.9 million kWh (2006 est.) |
+| **Costa Rica** | 7.779 billion kWh (2006 est.) |
+| **Cote d'Ivoire** | 3.177 billion kWh (2006 est.) |
+| **Croatia** | 15.57 billion kWh (2006 est.) |
+| **Cuba** | 14.02 billion kWh (2007 est.) |
+| **Cyprus** | 4.151 billion kWh (2006 est.) |
+| **Czech Republic** | 61.52 billion kWh (2006 est.) |
+| **Denmark** | 34.68 billion kWh (2006 est.) |
+| **Djibouti** | 232.5 million kWh (2006 est.) |
+| **Dominica** | 83.7 million kWh (2006 est.) |
+| **Dominican Republic** | 11.81 billion kWh (2006 est.) |
+| **Ecuador** | 12.9 billion kWh (2006 est.) |
+| **Egypt** | 96.2 billion kWh (2006 est.) |
+| **El Salvador** | 4.426 billion kWh (2007 est.) |
+| **Equatorial Guinea** | 25.11 million kWh (2006 est.) |
+| **Eritrea** | 216 million kWh (2006 est.) |
+| **Estonia** | 7.331 billion kWh (2006 est.) |
+| **Ethiopia** | 2.941 billion kWh (2006 est.) |
+| **European Union** | 2.858 trillion kWh (2007 est.) |
+| **Falkland Islands (Islas Malvinas)** | 14.88 million kWh (2006 est.) |
+| **Faroe Islands** | 274.4 million kWh (2006 est.) |
+| **Fiji** | 1.016 billion kWh (2006 est.) |
+| **Finland** | 86.04 billion kWh (2006 est.) |
+| **France** | 447.3 billion kWh (2006 est.) |
+| **French Polynesia** | 441.8 million kWh (2006 est.) |
+| **Gabon** | 1.365 billion kWh (2006 est.) |
+| **Gambia, The** | 143.6 million kWh (2006 est.) |
+| **Gaza Strip** | 230,000 kWh (2005) |
+| **Georgia** | 6.694 billion kWh (2006 est.) |
+| **Germany** | 549.1 billion kWh (2006 est.) |
+| **Ghana** | 6.76 billion kWh (2006 est.) |
+| **Gibraltar** | 142 million kWh (2006 est.) |
+| **Greece** | 55.98 billion kWh (2006 est.) |
+| **Greenland** | 283.7 million kWh (2006 est.) |
+| **Grenada** | 144.2 million kWh (2006 est.) |
+| **Guam** | 1.664 billion kWh (2006 est.) |
+| **Guatemala** | 6.617 billion kWh (2006 est.) |
+| **Guernsey** | NA kWh |
+| **Guinea** | 744 million kWh (2006 est.) |
+| **Guinea-Bissau** | 55.8 million kWh (2006 est.) |
+| **Guyana** | 747 million kWh (2006 est.) |
+| **Haiti** | 330 million kWh (2006 est.) |
+| **Holy See (Vatican City)** | NA kWh |
+| **Honduras** | 4.233 billion kWh (2006 est.) |
+| **Hong Kong** | 38.02 billion kWh (2006 est.) |
+| **Hungary** | 37.11 billion kWh (2006 est.) |
+| **Iceland** | 9.312 billion kWh (2006 est.) |
+| **India** | 517.2 billion kWh (2006 est.) |
+| **Indonesia** | 110.7 billion kWh (2006 est.) |
+| **Iran** | 149.4 billion kWh (2006 est.) |
+| **Iraq** | 35.84 billion kWh (2007 est.) |
+| **Ireland** | 25.67 billion kWh (2006 est.) |
+| **Israel** | 44.74 billion kWh (2006 est.) |
+| **Italy** | 316.3 billion kWh (2006 est.) |
+| **Jamaica** | 6.1 billion kWh (2006 est.) |
+| **Japan** | 982.5 billion kWh (2006 est.) |
+| **Jersey** | 630.1 million kWh (2004 est.) |
+| **Jordan** | 9.852 billion kWh (2006 est.) |
+| **Kazakhstan** | 61.81 billion kWh (2006 est.) |
+| **Kenya** | 5.124 billion kWh (2006 est.) |
+| **Kiribati** | 9.3 million kWh (2006 est.) |
+| **Korea, North** | 18.18 billion kWh (2006 est.) |
+| **Korea, South** | 368.6 billion kWh (2007) |
+| **Kosovo** | 4.281 billion kWh (2006) |
+| **Kuwait** | 39.54 billion kWh (2006 est.) |
+| **Kyrgyzstan** | 8.997 billion kWh (2006 est.) |
+| **Laos** | 1.344 billion kWh (2006 est.) |
+| **Latvia** | 6.424 billion kWh (2006 est.) |
+| **Lebanon** | 8.161 billion kWh (2006 est.) |
+| **Lesotho** | 226 million kWh (2006 est.) |
+| **Liberia** | 297.6 million kWh (2006 est.) |
+| **Libya** | 20.71 billion kWh (2006 est.) |
+| **Lithuania** | 10.4 billion kWh (2006 est.) |
+| **Luxembourg** | 6.748 billion kWh (2006 est.) |
+| **Macau** | 2.984 billion kWh (2007 est.) |
+| **Macedonia** | 8.651 billion kWh (2007) |
+| **Madagascar** | 907 million kWh (2006 est.) |
+| **Malawi** | 1.051 billion kWh (2006 est.) |
+| **Malaysia** | 95.98 billion kWh (2006 est.) |
+| **Maldives** | 203.7 million kWh (2006 est.) |
+| **Mali** | 469.7 million kWh (2006 est.) |
+| **Malta** | 1.85 billion kWh (2006 est.) |
+| **Mauritania** | 383.4 million kWh (2006 est.) |
+| **Mauritius** | 2.058 billion kWh (2006 est.) |
+| **Mayotte** | 139.2 million kWh (2005) |
+| **Mexico** | 202 billion kWh (2007 est.) |
+| **Micronesia, Federated States of** | 178.6 million kWh (2002) |
+| **Moldova** | 5.806 billion kWh (2006 est.) |
+| **Monaco** | NA kWh |
+| **Mongolia** | 2.638 billion kWh (2006 est.) |
+| **Montenegro** | 18.6 million kWh (2005) |
+| **Montserrat** | 20.46 million kWh (2006 est.) |
+| **Morocco** | 19.58 billion kWh (2006 est.) |
+| **Mozambique** | 9.555 billion kWh (2006 est.) |
+| **Namibia** | 3.194 billion kWh (2006 est.) |
+| **Nauru** | 28.83 million kWh (2006 est.) |
+| **Nepal** | 2.276 billion kWh (2006 est.) |
+| **Netherlands** | 109.6 billion kWh (2006 est.) |
+| **Netherlands Antilles** | 992 million kWh (2006 est.) |
+| **New Caledonia** | 1.49 billion kWh (2006 est.) |
+| **New Zealand** | 38.93 billion kWh (2006 est.) |
+| **Nicaragua** | 2.413 billion kWh (2006 est.) |
+| **Niger** | 443.2 million kWh (2006 est.) |
+| **Nigeria** | 15.85 billion kWh (2006 est.) |
+| **Niue** | 3.72 million kWh (2006 est.) |
+| **Norfolk Island** | NA kWh |
+| **Northern Mariana Islands** | NA kWh |
+| **Norway** | 111.5 billion kWh (2006 est.) |
+| **Oman** | 10.53 billion kWh (2006 est.) |
+| **Pakistan** | 68.4 billion kWh (2006 est.) |
+| **Panama** | 4.768 billion kWh (2006 est.) |
+| **Papua New Guinea** | 2.674 billion kWh (2006 est.) |
+| **Paraguay** | 6 billion kWh (2007) |
+| **Peru** | 22.37 billion kWh (2006 est.) |
+| **Philippines** | 47.04 billion kWh (2006 est.) |
+| **Poland** | 126.2 billion kWh (2006 est.) |
+| **Portugal** | 48.02 billion kWh (2006 est.) |
+| **Puerto Rico** | 22.17 billion kWh (2006 est.) |
+| **Qatar** | 13.19 billion kWh (2006 est.) |
+| **Romania** | 48.43 billion kWh (2006 est.) |
+| **Russia** | 819.6 billion kWh (2006 est.) |
+| **Rwanda** | 234.6 million kWh (2006 est.) |
+| **Saint Helena** | 7.44 million kWh (2006 est.) |
+| **Saint Kitts and Nevis** | 120.9 million kWh (2006 est.) |
+| **Saint Lucia** | 289.2 million kWh (2006 est.) |
+| **Saint Pierre and Miquelon** | 49.29 million kWh (2006 est.) |
+| **Saint Vincent and the Grenadines** | 120 million kWh (2006 est.) |
+| **Samoa** | 101.4 million kWh (2006 est.) |
+| **Sao Tome and Principe** | 16.74 million kWh (2006 est.) |
+| **Saudi Arabia** | 156.8 billion kWh (2006 est.) |
+| **Senegal** | 1.657 billion kWh (2006 est.) |
+| **Serbia** | NA kWh |
+| **Seychelles** | 193.4 million kWh (2006 est.) |
+| **Sierra Leone** | 232.5 million kWh (2006 est.) |
+| **Singapore** | 35.13 billion kWh (2006 est.) |
+| **Slovakia** | 26 billion kWh (2006 est.) |
+| **Slovenia** | 13.4 billion kWh (2006 est.) |
+| **Solomon Islands** | 70 million kWh (2007 est.) |
+| **Somalia** | 260.4 million kWh (2006 est.) |
+| **South Africa** | 241.4 billion kWh (2007) |
+| **Spain** | 254.1 billion kWh (2006 est.) |
+| **Sri Lanka** | 6.884 billion kWh (2006 est.) |
+| **Sudan** | 3.398 billion kWh (2006 est.) |
+| **Suriname** | 1.457 billion kWh (2006 est.) |
+| **Swaziland** | 1.2 billion kWh (2007) |
+| **Sweden** | 133.6 billion kWh (2006 est.) |
+| **Switzerland** | 58.77 billion kWh (2006 est.) |
+| **Syria** | 34 billion kWh (2007 est.) |
+| **Taiwan** | 208.7 billion kWh (2006 est.) |
+| **Tajikistan** | 17.9 billion kWh (2007) |
+| **Tanzania** | 2.225 billion kWh (2006 est.) |
+| **Thailand** | 123.9 billion kWh (2006 est.) |
+| **Timor-Leste** | NA kWh |
+| **Togo** | 607 million kWh (2006 est.) |
+| **Tokelau** | NA kWh |
+| **Tonga** | 39.99 million kWh (2006 est.) |
+| **Trinidad and Tobago** | 7.083 billion kWh (2007) |
+| **Tunisia** | 10.75 billion kWh (2006 est.) |
+| **Turkey** | 141.5 billion kWh (2006 est.) |
+| **Turkmenistan** | 9.584 billion kWh (2006 est.) |
+| **Turks and Caicos Islands** | 9.3 million kWh (2006 est.) |
+| **Uganda** | 899.7 million kWh (2006 est.) |
+| **Ukraine** | 148.1 billion kWh (2006 est.) |
+| **United Arab Emirates** | 57.88 billion kWh (2006 est.) |
+| **United Kingdom** | 348.5 billion kWh (2006 est.) |
+| **United States** | 3.892 trillion kWh (2007 est.) |
+| **Uruguay** | 7.03 billion kWh (2007) |
+| **Uzbekistan** | 42.23 billion kWh (2006 est.) |
+| **Vanuatu** | 39.99 million kWh (2006 est.) |
+| **Venezuela** | 83.84 billion kWh (2006 est.) |
+| **Vietnam** | 48.08 billion kWh (2006 est.) |
+| **Virgin Islands** | 892.8 million kWh (2006 est.) |
+| **Wallis and Futuna** | NA kWh |
+| **West Bank** | NA kWh |
+| **Western Sahara** | 83.7 million kWh (2006 est.) |
+| **World** | 16.88 trillion kWh (2007 est.) |
+| **Yemen** | 3.804 billion kWh (2006 est.) |
+| **Zambia** | 8.625 billion kWh (2006 est.) |
+| **Zimbabwe** | 11.59 billion kWh (2006 est.) |
+
+This page was last updated on 18 December 2008
+ 

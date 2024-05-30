@@ -1,0 +1,237 @@
+CIA - The World Factbook -- Field Listing :: GDP (official exchange rate)   
+
+This entry gives the gross domestic product (GDP) or value of all final goods and services produced within a nation in a given year. A nation's GDP at official exchange rates (OER) is the home-currency-denominated annual GDP figure divided by the bilateral average US exchange rate with that country in that year. The measure is simple to compute and gives a precise measure of the value of output. Many economists prefer this measure when gauging the economic power an economy maintains vis-à-vis its neighbors, judging that an exchange rate captures the purchasing power a nation enjoys in the international marketplace. Official exchange rates, however, can be artificially fixed and/or subject to manipulation - resulting in claims of the country having an under- or over-valued currency - and are not necessarily the equivalent of a market-determined exchange rate. Moreover, even if the official exchange rate is market-determined, market exchange rates are frequently established by a relatively small set of goods and services (the ones the country trades) and may not capture the value of the larger set of goods the country produces. Furthermore, OER-converted GDP is not well suited to comparing domestic GDP over time, since appreciation/depreciation from one year to the next will make the OER GDP value rise/fall regardless of whether home-currency-denominated GDP changed.
+
+| Country | GDP (official exchange rate) |
+| --- | --- |
+| **Afghanistan** | $11.71 billion (2008 est.) |
+| **Albania** | $12.96 billion (2008 est.) |
+| **Algeria** | $159.7 billion (2008 est.) |
+| **American Samoa** | $462.2 million (2005) |
+| **Andorra** | $NA |
+| **Angola** | $84.95 billion (2008 est.) |
+| **Anguilla** | $108.9 million (2004 est.) |
+| **Antigua and Barbuda** | $1.224 billion (2008 est.) |
+| **Argentina** | $324.8 billion (2008 est.) |
+| **Armenia** | $11.92 billion (2008 est.) |
+| **Aruba** | $2.258 billion (2005 est.) |
+| **Australia** | $1.013 trillion (2008 est.) |
+| **Austria** | $414.8 billion (2008 est.) |
+| **Azerbaijan** | $46.38 billion (2008 est.) |
+| **Bahamas, The** | $7.564 billion (2008 est.) |
+| **Bahrain** | $21.24 billion (2008 est.) |
+| **Bangladesh** | $84.2 billion (2008 est.) |
+| **Barbados** | $3.67 billion (2008 est.) |
+| **Belarus** | $60.3 billion (2008 est.) |
+| **Belgium** | $506.2 billion (2008) |
+| **Belize** | $1.359 billion (2008 est.) |
+| **Benin** | $6.712 billion (2008 est.) |
+| **Bermuda** | $NA |
+| **Bhutan** | $1.389 billion (2008 est.) |
+| **Bolivia** | $16.6 billion (2008 est.) |
+| **Bosnia and Herzegovina** | $18.47 billion (2008 est.) |
+| **Botswana** | $13.46 billion (2008 est.) |
+| **Brazil** | $1.573 trillion (2008 est.) |
+| **British Virgin Islands** | $839.7 million (2003) |
+| **Brunei** | $14.55 billion (2008 est.) |
+| **Bulgaria** | $49.9 billion (2008) |
+| **Burkina Faso** | $8.116 billion (2008 est.) |
+| **Burma** | $26.21 billion (2008 est.) |
+| **Burundi** | $1.097 billion (2008 est.) |
+| **Cambodia** | $11.25 billion (2008 est.) |
+| **Cameroon** | $23.73 billion (2008 est.) |
+| **Canada** | $1.5 trillion (2008 est.) |
+| **Cape Verde** | $1.744 billion (2008 est.) |
+| **Cayman Islands** | $NA |
+| **Central African Republic** | $1.997 billion (2008 est.) |
+| **Chad** | $8.4 billion (2008 est.) |
+| **Chile** | $169.5 billion (2008 est.) |
+| **China** | $4.327 trillion (2008 est.) |
+| **Colombia** | $240.8 billion (2008 est.) |
+| **Comoros** | $532 million (2008 est.) |
+| **Congo, Democratic Republic of the** | $11.63 billion (2008 est.) |
+| **Congo, Republic of the** | $10.77 billion (2008 est.) |
+| **Cook Islands** | $183.2 million (2005 est.) |
+| **Costa Rica** | $29.66 billion (2008 est.) |
+| **Cote d'Ivoire** | $23.51 billion (2008 est.) |
+| **Croatia** | $69.36 billion (2008 est.) |
+| **Cuba** | $54.71 billion (2008 est.) |
+| **Cyprus** | $24.92 billion (2008 est.) |
+| **Czech Republic** | $216.4 billion (2008 est.) |
+| **Denmark** | $340 billion (2008 est.) |
+| **Djibouti** | $982 million (2008 est.) |
+| **Dominica** | $364 million (2008 est.) |
+| **Dominican Republic** | $44.44 billion (2008 est.) |
+| **Ecuador** | $54.69 billion (2008 est.) |
+| **Egypt** | $162.6 billion (2008 est.) |
+| **El Salvador** | $22.12 billion (2008 est.) |
+| **Equatorial Guinea** | $18.53 billion (2008 est.) |
+| **Eritrea** | $1.479 billion (2008 est.) |
+| **Estonia** | $23.55 billion (2008 est.) |
+| **Ethiopia** | $26.39 billion (2008 est.) |
+| **European Union** | $18.14 trillion (2008 est.) |
+| **Falkland Islands (Islas Malvinas)** | $105.1 million (2002 est.) |
+| **Faroe Islands** | $1.7 billion (2005 est.) |
+| **Fiji** | $3.589 billion (2008 est.) |
+| **Finland** | $271.9 billion (2008 est.) |
+| **France** | $2.867 trillion (2008 est.) |
+| **French Polynesia** | $6.1 billion (2004) |
+| **Gabon** | $14.54 billion (2008 est.) |
+| **Gambia, The** | $810 million (2008 est.) |
+| **Gaza Strip** | $6.641 billion (2008 est.) (2008 est.) |
+| **Georgia** | $12.86 billion (2008 est.) |
+| **Germany** | $3.673 trillion (2008 est.) |
+| **Ghana** | $16.65 billion (2008 est.) |
+| **Gibraltar** | $1.066 billion (2005 est.) |
+| **Greece** | $357.5 billion (2008 est.) |
+| **Greenland** | $1.7 billion (2005) |
+| **Grenada** | $678 million (2008 est.) |
+| **Guam** | $2.773 billion (2001) |
+| **Guatemala** | $38.98 billion (2008 est.) |
+| **Guernsey** | $2.742 billion (2005) |
+| **Guinea** | $4.517 billion (2008 est.) |
+| **Guinea-Bissau** | $461 million (2008 est.) |
+| **Guyana** | $1.154 billion (2008 est.) |
+| **Haiti** | $6.943 billion (2008 est.) |
+| **Honduras** | $14 billion (2008 est.) |
+| **Hong Kong** | $215.4 billion (2008 est.) |
+| **Hungary** | $155.9 billion (2008 est.) |
+| **Iceland** | $16.79 billion (2008 est.) |
+| **India** | $1.207 trillion (2008 est.) |
+| **Indonesia** | $511.8 billion (2008 est.) |
+| **Iran** | $335.2 billion (2008 est.) |
+| **Iraq** | $91.45 billion (2008 est.) |
+| **Ireland** | $267.6 billion (2008 est.) |
+| **Isle of Man** | $2.719 billion (2005 est.) |
+| **Israel** | $202.1 billion (2008 est.) |
+| **Italy** | $2.314 trillion (2008 est.) |
+| **Jamaica** | $14.03 billion (2008 est.) |
+| **Japan** | $4.911 trillion (2008 est.) |
+| **Jersey** | $5.1 billion (2005 est.) |
+| **Jordan** | $21.23 billion (2008 est.) |
+| **Kazakhstan** | $135.6 billion (2008 est.) |
+| **Kenya** | $29.56 billion (2008 est.) |
+| **Kiribati** | $137 million (2008 est.) |
+| **Korea, North** | $26.2 billion (2008 est.) |
+| **Korea, South** | $929.1 billion (2008 est.) |
+| **Kosovo** | $3.237 billion (2007 est.) |
+| **Kuwait** | $158.1 billion (2008 est.) |
+| **Kyrgyzstan** | $5.05 billion (2008 est.) |
+| **Laos** | $5.374 billion (2008 est.) |
+| **Latvia** | $33.98 billion (2008 est.) |
+| **Lebanon** | $29.35 billion (2008 est.) |
+| **Lesotho** | $1.618 billion (2008 est.) |
+| **Liberia** | $850 million (2008 est.) |
+| **Libya** | $89.92 billion (2008 est.) |
+| **Liechtenstein** | $4.993 billion (2007) |
+| **Lithuania** | $47.3 billion (2008 est.) |
+| **Luxembourg** | $54.97 billion (2008 est.) |
+| **Macau** | $22.04 billion (2008 est.) |
+| **Macedonia** | $9.569 billion (2008 est.) |
+| **Madagascar** | $9.463 billion (2008 est.) |
+| **Malawi** | $4.268 billion (2008 est.) |
+| **Malaysia** | $221.6 billion (2008 est.) |
+| **Maldives** | $1.261 billion (2008 est.) |
+| **Mali** | $8.774 billion (2008 est.) |
+| **Malta** | $8.37 billion (2008 est.) |
+| **Marshall Islands** | $161.7 million (2008 est.) |
+| **Mauritania** | $3.161 billion (2008 est.) |
+| **Mauritius** | $8.738 billion (2008 est.) |
+| **Mayotte** | $NA |
+| **Mexico** | $1.088 trillion (2008 est.) |
+| **Micronesia, Federated States of** | $238.1 million (2008) |
+| **Moldova** | $6.047 billion (2008 est.) |
+| **Monaco** | $NA |
+| **Mongolia** | $5.243 billion (2008 est.) |
+| **Montenegro** | $4.848 billion (2008 est.) |
+| **Montserrat** | $NA |
+| **Morocco** | $88.88 billion (2008 est.) |
+| **Mozambique** | $9.897 billion (2008 est.) |
+| **Namibia** | $8.835 billion (2008 est.) |
+| **Nauru** | $NA |
+| **Nepal** | $12.28 billion (2008 est.) |
+| **Netherlands** | $877 billion (2008 est.) |
+| **Netherlands Antilles** | $NA |
+| **New Caledonia** | $3.3 billion (2003 est.) |
+| **New Zealand** | $128.4 billion (2008 est.) |
+| **Nicaragua** | $6.365 billion (2008 est.) |
+| **Niger** | $5.382 billion (2008 est.) |
+| **Nigeria** | $207.1 billion (2008 est.) |
+| **Niue** | $10.01 million (2003) |
+| **Northern Mariana Islands** | $633.4 million (2000) |
+| **Norway** | $451.8 billion (2008 est.) |
+| **Oman** | $59.95 billion (2008 est.) |
+| **Pakistan** | $164.6 billion (2008 est.) |
+| **Palau** | $164 million (2008) |
+| **Panama** | $23.09 billion (2008 est.) |
+| **Papua New Guinea** | $8.092 billion (2008 est.) |
+| **Paraguay** | $16.01 billion (2008 est.) |
+| **Peru** | $127.5 billion (2008 est.) |
+| **Philippines** | $166.9 billion (2008 est.) |
+| **Poland** | $527.9 billion (2008 est.) |
+| **Portugal** | $244.6 billion (2008 est.) |
+| **Puerto Rico** | $88 billion (2008 est.) |
+| **Qatar** | $102.3 billion (2008 est.) |
+| **Romania** | $200.1 billion (2008 est.) |
+| **Russia** | $1.677 trillion (2008 est.) |
+| **Rwanda** | $4.459 billion (2008 est.) |
+| **Saint Helena** | $NA |
+| **Saint Kitts and Nevis** | $546 million (2008 est.) |
+| **Saint Lucia** | $987 million (2008 est.) |
+| **Saint Pierre and Miquelon** | $NA |
+| **Saint Vincent and the Grenadines** | $601 million (2008 est.) |
+| **Samoa** | $500 million (2008 est.) |
+| **San Marino** | $1.048 billion (2004) |
+| **Sao Tome and Principe** | $175 million (2008 est.) |
+| **Saudi Arabia** | $469.4 billion (2008 est.) |
+| **Senegal** | $13.35 billion (2008 est.) |
+| **Serbia** | $50.06 billion (2008 est.) |
+| **Seychelles** | $822 million (2008 est.) |
+| **Sierra Leone** | $1.953 billion (2008 est.) |
+| **Singapore** | $181.9 billion (2008 est.) |
+| **Slovakia** | $95.4 billion (2008 est.) |
+| **Slovenia** | $54.64 billion (2008 est.) |
+| **Solomon Islands** | $642 million (2008 est.) |
+| **Somalia** | $2.6 billion (2008 est.) |
+| **South Africa** | $276.8 billion (2008 est.) |
+| **Spain** | $1.602 trillion (2008 est.) |
+| **Sri Lanka** | $39.6 billion (2008 est.) |
+| **Sudan** | $58.03 billion (2008 est.) |
+| **Suriname** | $2.933 billion (2008 est.) |
+| **Swaziland** | $2.84 billion (2008 est.) |
+| **Sweden** | $479 billion (2008 est.) |
+| **Switzerland** | $500.3 billion (2008 est.) |
+| **Syria** | $55.02 billion (2008 est.) |
+| **Taiwan** | $391.4 billion (2008 est.) |
+| **Tajikistan** | $5.135 billion (2008 est.) |
+| **Tanzania** | $20.67 billion (2008 est.) |
+| **Thailand** | $273.3 billion (2008 est.) |
+| **Timor-Leste** | $499 million (2008 est.) |
+| **Togo** | $2.89 billion (2008 est.) |
+| **Tokelau** | $NA |
+| **Tonga** | $258 million (2008 est.) |
+| **Trinidad and Tobago** | $25.93 billion (2008 est.) |
+| **Tunisia** | $40.84 billion (2008 est.) |
+| **Turkey** | $730 billion (2008 est.) |
+| **Turkmenistan** | $29.16 billion (2008 est.) |
+| **Turks and Caicos Islands** | $NA |
+| **Tuvalu** | $14.94 million (2002) |
+| **Uganda** | $14.57 billion (2008 est.) |
+| **Ukraine** | $179.6 billion (2008 est.) |
+| **United Arab Emirates** | $262.2 billion (2008 est.) |
+| **United Kingdom** | $2.68 trillion (2008 est.) |
+| **United States** | $14.44 trillion (2008 est.) |
+| **Uruguay** | $32.19 billion (2008 est.) |
+| **Uzbekistan** | $27.92 billion (2008 est.) |
+| **Vanuatu** | $573 million (2008 est.) |
+| **Venezuela** | $319.4 billion (2008 est.) |
+| **Vietnam** | $89.83 billion (2008 est.) |
+| **Virgin Islands** | $NA |
+| **Wallis and Futuna** | $NA |
+| **West Bank** | $6.641 billion (2008 est.) (2008 est.) |
+| **Western Sahara** | $NA |
+| **World** | *GWP (gross world product):* $61.22 trillion (2008 est.) |
+| **Yemen** | $26.91 billion (2008 est.) |
+| **Zambia** | $14.65 billion (2008 est.) |
+| **Zimbabwe** | $10.58 billion |
+| | *note:* hyperinflation and the plunging value of the Zimbabwean dollar makes Zimbabwe's GDP at the official exchange rate a highly inaccurate statistic (2008 est.) |

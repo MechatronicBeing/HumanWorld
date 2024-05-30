@@ -1,0 +1,215 @@
+FIELD LISTING :: CIVIL AIRCRAFT REGISTRATION COUNTRY CODE PREFIX
+
+| Country | |
+| --- | --- |
+| **Afghanistan** | YA (2016) |
+| **Albania** | ZA (2016) |
+| **Algeria** | 7T (2016) |
+| **Andorra** | C3 (2016) |
+| **Angola** | D2 (2016) |
+| **Anguilla** | VP-A (2016) |
+| **Antigua and Barbuda** | V2 (2016) |
+| **Argentina** | LV (2016) |
+| **Armenia** | EK (2016) |
+| **Aruba** | P4 (2016) |
+| **Australia** | VH (2016) |
+| **Austria** | OE (2016) |
+| **Azerbaijan** | 4K (2016) |
+| **Bahamas, The** | C6 (2016) |
+| **Bahrain** | A9C (2016) |
+| **Bangladesh** | S2 (2016) |
+| **Barbados** | 8P (2016) |
+| **Belarus** | EW (2016) |
+| **Belgium** | OO (2016) |
+| **Belize** | V3 (2016) |
+| **Benin** | TY (2016) |
+| **Bermuda** | VP-B (2016) |
+| **Bhutan** | A5 (2016) |
+| **Bolivia** | CP (2016) |
+| **Bosnia and Herzegovina** | T9 (2016) |
+| **Botswana** | A2 (2016) |
+| **Brazil** | PP (2016) |
+| **British Virgin Islands** | VP-L (2016) |
+| **Brunei** | V8 (2016) |
+| **Bulgaria** | LZ (2016) |
+| **Burkina Faso** | XT (2016) |
+| **Burma** | XY (2016) |
+| **Burundi** | 9U (2016) |
+| **Cabo Verde** | D4 (2016) |
+| **Cambodia** | XU (2016) |
+| **Cameroon** | TJ (2016) |
+| **Canada** | C (2016) |
+| **Cayman Islands** | VP-C (2016) |
+| **Central African Republic** | TL (2016) |
+| **Chile** | CC (2016) |
+| **China** | B (2016) |
+| **Colombia** | HJ, HK (2016) |
+| **Comoros** | D6 (2016) |
+| **Congo, Democratic Republic of the** | 9Q (2016) |
+| **Congo, Republic of the** | TN (2016) |
+| **Cook Islands** | E5 (2016) |
+| **Costa Rica** | TI (2016) |
+| **Cote d'Ivoire** | TU (2016) |
+| **Croatia** | 9A (2016) |
+| **Cuba** | CU (2016) |
+| **Curacao** | PJ (2016) |
+| **Cyprus** | 5B (2016) |
+| **Czechia** | OK (2016) |
+| **Denmark** | OY (2016) |
+| **Djibouti** | J2 (2016) |
+| **Dominica** | J7 (2016) |
+| **Dominican Republic** | HI (2016) |
+| **Ecuador** | HC (2016) |
+| **Egypt** | SU (2016) |
+| **El Salvador** | YS (2016) |
+| **Equatorial Guinea** | 3C (2016) |
+| **Eritrea** | E3 (2016) |
+| **Estonia** | ES (2016) |
+| **Ethiopia** | ET (2016) |
+| **Falkland Islands (Islas Malvinas)** | VP-F (2016) |
+| **Faroe Islands** | OY-H (2016) |
+| **Fiji** | DQ (2016) |
+| **Finland** | OH (2016) |
+| **France** | F (2016) |
+| **French Polynesia** | F-OH (2016) |
+| **Gabon** | TR (2016) |
+| **Gambia, The** | C5 (2016) |
+| **Georgia** | 4L (2016) |
+| **Germany** | D (2016) |
+| **Ghana** | 9G (2016) |
+| **Gibraltar** | VP-G (2016) |
+| **Greece** | SX (2016) |
+| **Greenland** | OY-H (2016) |
+| **Grenada** | J3 (2016) |
+| **Guatemala** | TG (2016) |
+| **Guinea-Bissau** | J5 (2016) |
+| **Guinea** | 3X (2016) |
+| **Guyana** | 8R (2016) |
+| **Haiti** | HH (2016) |
+| **Honduras** | HR (2016) |
+| **Hong Kong** | B-H (2016) |
+| **Hungary** | HA (2016) |
+| **Iceland** | TF (2016) |
+| **India** | VT (2016) |
+| **Indonesia** | PK (2016) |
+| **Iran** | EP (2016) |
+| **Iraq** | YI (2016) |
+| **Ireland** | EI (2016) |
+| **Isle of Man** | M (2016) |
+| **Israel** | 4X (2016) |
+| **Italy** | I (2016) |
+| **Jamaica** | 6Y (2016) |
+| **Japan** | JA (2016) |
+| **Jordan** | JY (2016) |
+| **Kazakhstan** | UP (2016) |
+| **Kenya** | 5Y (2016) |
+| **Kiribati** | T3 (2016) |
+| **Korea, North** | P (2016) |
+| **Korea, South** | HL (2016) |
+| **Kosovo** | Z6 (2016) |
+| **Kuwait** | 9K (2016) |
+| **Kyrgyzstan** | EX (2016) |
+| **Laos** | RDPL (2016) |
+| **Latvia** | YL (2016) |
+| **Lebanon** | OD (2016) |
+| **Lesotho** | 7P (2016) |
+| **Liberia** | A8 (2016) |
+| **Libya** | 5A (2016) |
+| **Liechtenstein** | HB (2016) |
+| **Lithuania** | LY (2016) |
+| **Luxembourg** | LX (2016) |
+| **Macau** | B-M (2016) |
+| **Macedonia** | Z3 (2016) |
+| **Madagascar** | 5R (2016) |
+| **Malawi** | 7Q (2016) |
+| **Malaysia** | 9M (2016) |
+| **Maldives** | 8Q (2016) |
+| **Mali** | TZ, TT (2016) |
+| **Malta** | 9H (2016) |
+| **Marshall Islands** | V7 (2016) |
+| **Mauritania** | 5T (2016) |
+| **Mauritius** | 3B (2016) |
+| **Mexico** | XA (2016) |
+| **Micronesia, Federated States of** | V6 (2016) |
+| **Moldova** | ER (2016) |
+| **Monaco** | 3A (2016) |
+| **Mongolia** | JU (2016) |
+| **Montenegro** | 4O (2016) |
+| **Montserrat** | VP-M (2016) |
+| **Morocco** | CN (2016) |
+| **Mozambique** | C9 (2016) |
+| **Namibia** | V5 (2016) |
+| **Nauru** | C2 (2016) |
+| **Nepal** | 9N (2016) |
+| **Netherlands** | PH (2016) |
+| **New Zealand** | ZK (2016) |
+| **Nicaragua** | YN (2016) |
+| **Nigeria** | 5N (2016) |
+| **Niger** | 5U (2016) |
+| **Norway** | LN (2016) |
+| **Oman** | A4O (2016) |
+| **Pakistan** | AP (2016) |
+| **Panama** | HP (2016) |
+| **Papua New Guinea** | P2 (2016) |
+| **Paraguay** | ZP (2016) |
+| **Peru** | OB (2016) |
+| **Philippines** | RP (2016) |
+| **Poland** | SP (2016) |
+| **Portugal** | CR, CS (2016) |
+| **Qatar** | A7 (2016) |
+| **Romania** | YR (2016) |
+| **Russia** | RA (2016) |
+| **Rwanda** | 9XR (2016) |
+| **Saint Helena, Ascension, and Tristan da Cunha** | VQ-H (2016) |
+| **Saint Kitts and Nevis** | V4 (2016) |
+| **Saint Lucia** | J6 (2016) |
+| **Saint Vincent and the Grenadines** | J8 (2016) |
+| **Samoa** | 5W (2016) |
+| **San Marino** | T7 (2016) |
+| **Sao Tome and Principe** | S9 (2016) |
+| **Saudi Arabia** | HZ (2016) |
+| **Senegal** | 6V (2016) |
+| **Serbia** | YU (2016) |
+| **Seychelles** | S7 (2016) |
+| **Sierra Leone** | 9L (2016) |
+| **Singapore** | 9V (2016) |
+| **Slovakia** | OM (2016) |
+| **Slovenia** | S5 (2016) |
+| **Solomon Islands** | H4 (2016) |
+| **Somalia** | 6O (2016) |
+| **South Africa** | ZS (2016) |
+| **South Sudan** | Z8 (2016) |
+| **Spain** | EC (2016) |
+| **Sri Lanka** | 4R (2016) |
+| **Sudan** | ST (2016) |
+| **Suriname** | PZ (2016) |
+| **Swaziland** | 3D (2016) |
+| **Sweden** | SE (2016) |
+| **Switzerland** | HB (2016) |
+| **Syria** | YK (2016) |
+| **Taiwan** | B (2016) |
+| **Tajikistan** | EY (2016) |
+| **Tanzania** | 5H (2016) |
+| **Thailand** | HS (2016) |
+| **Timor-Leste** | 4W (2016) |
+| **Togo** | 5V (2016) |
+| **Tonga** | A3 (2016) |
+| **Trinidad and Tobago** | 9Y (2016) |
+| **Tunisia** | TS (2016) |
+| **Turkey** | TC (2016) |
+| **Turkmenistan** | EZ (2016) |
+| **Turks and Caicos Islands** | VQ-T (2016) |
+| **Tuvalu** | T2 (2016) |
+| **Uganda** | 5X (2016) |
+| **Ukraine** | UR (2016) |
+| **United Arab Emirates** | A6 (2016) |
+| **United Kingdom** | G (2016) |
+| **United States** | N (2016) |
+| **Uruguay** | CX (2016) |
+| **Uzbekistan** | UK (2016) |
+| **Vanuatu** | YJ (2016) |
+| **Venezuela** | YV (2016) |
+| **Vietnam** | VN (2016) |
+| **Yemen** | 7O (2016) |
+| **Zambia** | 9J (2016) |
+| **Zimbabwe** | Z (2016) |

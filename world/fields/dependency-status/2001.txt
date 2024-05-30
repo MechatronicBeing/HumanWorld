@@ -1,0 +1,70 @@
+CIA -- The World Factbook -- Dependency status
+
+| Country | Dependency status |
+| --- | --- |
+| **American Samoa** | unincorporated and unorganized territory of the US; administered by the Office of Insular Affairs, US Department of the Interior |
+| **Anguilla** | overseas territory of the UK |
+| **Aruba** | part of the Kingdom of the Netherlands; full autonomy in internal affairs obtained in 1986 upon separation from the Netherlands Antilles; Dutch Government responsible for defense and foreign affairs |
+| **Ashmore and Cartier Islands** | territory of Australia; administered from Canberra by the Australian Department of the Environment, Sport, and Territories |
+| **Baker Island** | unincorporated territory of the US; administered from Washington, DC, by the Fish and Wildlife Service of the US Department of the Interior as part of the National Wildlife Refuge system |
+| **Bassas da India** | possession of France; administered by a high commissioner of the Republic, resident in Reunion |
+| **Bermuda** | overseas territory of the UK |
+| **Bouvet Island** | territory of Norway; administered by the Polar Department of the Ministry of Justice and Police from Oslo |
+| **British Indian Ocean Territory** | overseas territory of the UK; administered by a commissioner, resident in the Foreign and Commonwealth Office in London |
+| **British Virgin Islands** | overseas territory of the UK |
+| **Cayman Islands** | overseas territory of the UK |
+| **Christmas Island** | territory of Australia; administered from Canberra by the Australian Department of the Environment, Sport, and Territories |
+| **Clipperton Island** | possession of France; administered by France from French Polynesia by a high commissioner of the Republic |
+| **Cocos (Keeling) Islands** | territory of Australia; administered from Canberra by the Australian Department of the Environment, Sport, and Territories |
+| **Cook Islands** | self-governing in free association with New Zealand; Cook Islands is fully responsible for internal affairs; New Zealand retains responsibility for external affairs, in consultation with the Cook Islands |
+| **Coral Sea Islands** | territory of Australia; administered from Canberra by the Department of the Environment, Sport, and Territories |
+| **Europa Island** | possession of France; administered by a high commissioner of the Republic, resident in Reunion |
+| **Falkland Islands (Islas Malvinas)** | overseas territory of the UK; also claimed by Argentina |
+| **Faroe Islands** | part of the Kingdom of Denmark; self-governing overseas administrative division of Denmark since 1948 |
+| **French Guiana** | overseas department of France |
+| **French Polynesia** | overseas territory of France since 1946 |
+| **French Southern and Antarctic Lands** | overseas territory of France since 1955; administered from Paris by High Commissioner of the Republic Brigitte GIRARDIN (since 25 March 1998), assisted by Secretary General Jean-Yves HERMOSO (since NA) |
+| **Gibraltar** | overseas territory of the UK |
+| **Glorioso Islands** | possession of France; administered by a high commissioner of the Republic, resident in Reunion |
+| **Greenland** | part of the Kingdom of Denmark; self-governing overseas administrative division of Denmark since 1979 |
+| **Guadeloupe** | overseas department of France |
+| **Guam** | organized, unincorporated territory of the US with policy relations between Guam and the US under the jurisdiction of the Office of Insular Affairs, US Department of the Interior |
+| **Guernsey** | British crown dependency |
+| **Heard Island and McDonald Islands** | territory of Australia; administered from Canberra by the Department of the Environment, Sport, and Territories |
+| **Hong Kong** | special administrative region of China |
+| **Howland Island** | unincorporated territory of the US; administered from Washington, DC, by the Fish and Wildlife Service of the US Department of the Interior as part of the National Wildlife Refuge system |
+| **Jan Mayen** | territory of Norway; administered from Oslo through a governor (sysselmann) resident in Longyearbyen (Svalbard); however, authority has been delegated to a station commander of the Norwegian Defense Communication Service |
+| **Jarvis Island** | unincorporated territory of the US; administered from Washington, DC, by the Fish and Wildlife Service of the US Department of the Interior as part of the National Wildlife Refuge system |
+| **Jersey** | British crown dependency |
+| **Johnston Atoll** | unincorporated territory of the US; administered from Washington, DC, by Pacific Air Forces, Hickam AFB, and the Fish and Wildlife Service of the US Department of the Interior as part of the National Wildlife Refuge system |
+| **Juan de Nova Island** | possession of France; administered by a high commissioner of the Republic, resident in Reunion |
+| **Kingman Reef** | unincorporated territory of the US; administered from Washington, DC, by the US Fish and Wildlife Service of the Department of the Interior |
+| | *note:*  on 1 September 2000, the Department of the Interior accepted restoration of its administrative jurisdiction over Kingman Reef from the Department of the Navy; Executive Order 3223 signed 18 January 2001 established Kingman Reef National Wildlife Refuge to be administered by the Director, US Fish and Wildlife Service; this refuge is managed to protect the terrestrial and aquatic wildlife of Kingman Reef out to the twelve nautical mile territorial sea limit |
+| **Macau** | special administrative region of China |
+| **Man, Isle of** | British crown dependency |
+| **Martinique** | overseas department of France |
+| **Mayotte** | territorial collectivity of France |
+| **Midway Islands** | unincorporated territory of the US; formerly administered from Washington, DC, by the US Navy, under Naval Facilities Engineering Command, Pacific Division; this facility has been operationally closed since 10 September 1993; on 31 October 1996, through a presidential executive order, the jurisdiction and control of the atoll was transferred to the Fish and Wildlife Service of the US Department of the Interior as part of the National Wildlife Refuge system |
+| **Montserrat** | overseas territory of the UK |
+| **Navassa Island** | unincorporated territory of the US; administered from Washington, DC, by the Fish and Wildlife Service, US Department of the Interior; in September 1996, the Coast Guard ceased operations and maintenance of Navassa Island Light, a 46-meter-tall lighthouse located on the southern side of the island; there has also been a private claim advanced against the island |
+| **Netherlands Antilles** | part of the Kingdom of the Netherlands; full autonomy in internal affairs granted in 1954; Dutch Government responsible for defense and foreign affairs |
+| **New Caledonia** | overseas territory of France since 1956 |
+| **Niue** | self-governing in free association with New Zealand; Niue fully responsible for internal affairs; New Zealand retains responsibility for external affairs |
+| **Norfolk Island** | territory of Australia; Canberra administers Commonwealth responsibilities on Norfolk Island through the Department of Environment, Sport, and Territories |
+| **Northern Mariana Islands** | commonwealth in political union with the US; federal funds to the Commonwealth administered by the US Department of the Interior, Office of Insular Affairs |
+| **Palmyra Atoll** | incorporated territory of the US; privately owned, but administered from Washington, DC, by the Fish and Wildlife Service of the US Department of the Interior |
+| **Pitcairn Islands** | overseas territory of the UK |
+| **Puerto Rico** | commonwealth associated with the US |
+| **Reunion** | overseas department of France |
+| **Saint Helena** | overseas territory of the UK |
+| **Saint Pierre and Miquelon** | self-governing territorial collectivity of France |
+| **South Georgia and the South Sandwich Islands** | overseas territory of the UK, also claimed by Argentina; administered from the Falkland Islands by UK civil commissioner Donald A. LAMONT, representing Queen ELIZABETH II; Grytviken, formerly a whaling station on South Georgia, is the garrison town |
+| **Svalbard** | territory of Norway; administered by the Ministry of Industry, Oslo, through a governor (sysselmann) residing in Longyearbyen, Spitsbergen; by treaty (9 February 1920) sovereignty was given to Norway |
+| **Tokelau** | territory of New Zealand; note - Tokelauans are drafting a constitution, developing institutions and patterns of self-government as Tokelau moves toward free association with Wellington |
+| **Tromelin Island** | possession of France; administered by a high commissioner of the Republic, resident in Reunion |
+| **Turks and Caicos Islands** | overseas territory of the UK |
+| **Virgin Islands** | organized, unincorporated territory of the US with policy relations between the Virgin Islands and the US under the jurisdiction of the Office of Insular Affairs, US Department of the Interior |
+| **Wake Island** | unincorporated territory of the US; administered from Washington, DC, by the Department of the Interior; activities on the island are managed by the US Army under a US Air Force permit |
+| **Wallis and Futuna** | overseas territory of France |
+
+

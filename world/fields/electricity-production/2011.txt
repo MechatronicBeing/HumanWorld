@@ -1,0 +1,236 @@
+CIA - The World Factbook -- Field Listing :: Electricity - production   
+
+This entry is the annual electricity generated expressed in kilowatt-hours. The discrepancy between the amount of electricity generated and/or imported and the amount consumed and/or exported is accounted for as loss in transmission and distribution.
+
+| Country | Electricity - production(kWh) |
+| --- | --- |
+| **Afghanistan** | 285.5 million kWh (2009 est.) |
+| **Albania** | 5.201 billion kWh (2009 est.) |
+| **Algeria** | 40.11 billion kWh (2009 est.) |
+| **American Samoa** | 190 million kWh (2008 est.) |
+| **Andorra** | 101 million kWh (2009) |
+| **Angola** | 3.944 billion kWh (2008 est.) |
+| **Anguilla** | NA kWh |
+| **Antigua and Barbuda** | 115 million kWh (2008 est.) |
+| **Argentina** | 115.4 billion kWh (2008 est.) |
+| **Armenia** | 5.863 billion kWh (2008 est.) |
+| **Aruba** | 910 million kWh (2008 est.) |
+| **Australia** | 232 billion kWh (2009 est.) |
+| **Austria** | 62.98 billion kWh (2009 est.) |
+| **Azerbaijan** | 22.55 billion kWh (2008 est.) |
+| **Bahamas, The** | 1.945 billion kWh (2009 est.) |
+| **Bahrain** | 11.22 billion kWh (2008 est.) |
+| **Bangladesh** | 25.62 billion kWh (2009 est.) |
+| **Barbados** | 1.011 billion kWh (2008 est.) |
+| **Belarus** | 32.95 billion kWh (2008 est.) |
+| **Belgium** | 84.2 billion kWh (2009 est.) |
+| **Belize** | 215.5 million kWh (2008 est.) |
+| **Benin** | 128 million kWh (2008 est.) |
+| **Bermuda** | 693.7 million kWh (2009 est.) |
+| **Bhutan** | 1.48 billion kWh (2009 est.) |
+| **Bolivia** | 6.085 billion kWh (2010 est.) |
+| **Bosnia and Herzegovina** | 14.58 billion kWh (2009 est.) |
+| **Botswana** | 593 million kWh (2008 est.) |
+| **Brazil** | 461.1 billion kWh (2009 est.) |
+| **British Indian Ocean Territory** | NA kWh; note - electricity supplied by the US military |
+| **British Virgin Islands** | 45 million kWh (2008 est.) |
+| **Brunei** | 3.218 billion kWh (2008 est.) |
+| **Bulgaria** | 4.309 billion kWh (2009) |
+| **Burkina Faso** | 664.4 million kWh (2009 est.) |
+| **Burma** | 6.426 billion kWh (2008 est.) |
+| **Burundi** | 208 million kWh (2008 est.) |
+| **Cambodia** | 1.377 billion kWh (2008 est.) |
+| **Cameroon** | 5.421 billion kWh (2008 est.) |
+| **Canada** | 604.4 billion kWh (2009 est.) |
+| **Cape Verde** | 256.5 million kWh (2008 est.) |
+| **Cayman Islands** | 597.4 million kWh (2009 est.) |
+| **Central African Republic** | 160 million kWh (2008 est.) |
+| **Chad** | 100 million kWh (2008 est.) |
+| **Chile** | 60.28 billion kWh (2008 est.) |
+| **China** | 3.446 trillion kWh (2009 est.) |
+| **Colombia** | 51.01 billion kWh (2008 est.) |
+| **Comoros** | 52 million kWh (2008 est.) |
+| **Congo, Democratic Republic of the** | 7.452 billion kWh (2008 est.) |
+| **Congo, Republic of the** | 452 million kWh (2008 est.) |
+| **Cook Islands** | 31 million kWh (2009 est.) |
+| **Costa Rica** | 9.29 billion kWh (2008 est.) |
+| **Cote d'Ivoire** | 5.548 billion kWh (2008 est.) |
+| **Croatia** | 11.66 billion kWh (2008 est.) |
+| **Cuba** | 16.99 billion kWh (2008 est.) |
+| **Curacao** | 1.167 billion kWh (2008 est.) |
+| **Cyprus** | 4.709 billion kWh (2008 est.) |
+| **Czech Republic** | 77.02 billion kWh (2009 est.) |
+| **Denmark** | 34.15 billion kWh (2009 est.) |
+| **Djibouti** | 280 million kWh (2008 est.) |
+| **Dominica** | 87 million kWh (2008 est.) |
+| **Dominican Republic** | 14.58 billion kWh (2008 est.) |
+| **Ecuador** | 18.06 billion kWh (2008 est.) |
+| **Egypt** | 123.9 billion kWh (2008 est.) |
+| **El Salvador** | 5.445 billion kWh (2009 est.) |
+| **Equatorial Guinea** | 92 million kWh (2008 est.) |
+| **Eritrea** | 269.9 million kWh (2008 est.) |
+| **Estonia** | 8.779 billion kWh (2009 est.) |
+| **Ethiopia** | 3.715 billion kWh (2008 est.) |
+| **European Union** | 2.897 trillion kWh (2009 est.) |
+| **Falkland Islands (Islas Malvinas)** | 17 million kWh (2008 est.) |
+| **Faroe Islands** | 251.9 million kWh (2008 est.) |
+| **Fiji** | 970 million kWh (2009 est.) |
+| **Finland** | 67.94 billion kWh (2009 est.) |
+| **France** | 510 billion kWh (2009 est.) |
+| **French Polynesia** | 670 million kWh (2008 est.) |
+| **Gabon** | 1.963 billion kWh (2008 est.) |
+| **Gambia, The** | 220 million kWh (2008 est.) |
+| **Gaza Strip** | 65,000 kWh (2009) |
+| **Georgia** | 8.292 billion kWh (2008 est.) |
+| **Germany** | 556.4 billion kWh (2009 est.) |
+| **Ghana** | 8.167 billion kWh (2008 est.) |
+| **Gibraltar** | 156 million kWh (2008 est.) |
+| **Greece** | 51.5 billion kWh (2009 est.) |
+| **Greenland** | 310.3 million kWh (2008 est.) |
+| **Grenada** | 195.4 million kWh (2009 est.) |
+| **Guam** | 1.764 billion kWh (2008 est.) |
+| **Guatemala** | 8.395 billion kWh (2008 est.) |
+| **Guernsey** | NA kWh |
+| **Guinea** | 920 million kWh |
+| | *note:* excludes electricity generated at interior mining sites (2008 est.) |
+| **Guinea-Bissau** | 70 million kWh (2008 est.) |
+| **Guyana** | 820 million kWh (2008 est.) |
+| **Haiti** | 650 million kWh (2010 est.) |
+| **Holy See (Vatican City)** | NA kWh |
+| **Honduras** | 6.58 billion kWh (2009 est.) |
+| **Hong Kong** | 38.23 billion kWh (2010 est.) |
+| **Hungary** | 37.55 billion kWh (2010 est.) |
+| **Iceland** | 16.48 billion kWh (2009 est.) |
+| **India** | 835.3 billion kWh (2009 est.) |
+| **Indonesia** | 141.2 billion kWh (2008 est.) |
+| **Iran** | 212.8 billion kWh (2009 est.) |
+| **Iraq** | 46.39 billion kWh (2009 est.) |
+| **Ireland** | 27.28 billion kWh (2010 est.) |
+| **Israel** | 53.04 billion kWh (2008 est.) |
+| **Italy** | 269.6 billion kWh (2009 est.) |
+| **Jamaica** | 7.323 billion kWh (2008 est.) |
+| **Japan** | 982.3 billion kWh (2009 est.) |
+| **Jordan** | 13.01 billion kWh (2008 est.) |
+| **Kazakhstan** | 75.61 billion kWh (2009 est.) |
+| **Kenya** | 6.79 billion kWh (2008 est.) |
+| **Kiribati** | 22 million kWh (2008 est.) |
+| **Korea, North** | 22.52 billion kWh (2008 est.) |
+| **Korea, South** | 417.3 billion kWh (2009 est.) |
+| **Kosovo** | 4.777 billion kWh (2009) |
+| **Kuwait** | 49.82 billion kWh (2009 est.) |
+| **Kyrgyzstan** | 11.7 billion kWh (2008 est.) |
+| **Laos** | 1.553 billion kWh (2010 est.) |
+| **Latvia** | 5.114 billion kWh (2008 est.) |
+| **Lebanon** | 10.41 billion kWh (2009) |
+| **Lesotho** | 200 million kWh |
+| | *note:* electricity supplied by South Africa (2008 est.) |
+| **Liberia** | 335 million kWh (2008 est.) |
+| **Libya** | 26.95 billion kWh (2008 est.) |
+| **Lithuania** | 12.27 billion kWh (2008 est.) |
+| **Luxembourg** | 2.667 billion kWh (2009 est.) |
+| **Macau** | 1.1 billion kWh (2010 est.) |
+| **Macedonia** | 6.819 billion kWh (2010 est.) |
+| **Madagascar** | 1.11 billion kWh (2008 est.) |
+| **Malawi** | 1.676 billion kWh (2008 est.) |
+| **Malaysia** | 101.1 billion kWh (2009 est.) |
+| **Maldives** | 542 million kWh (2009 est.) |
+| **Mali** | 490 million kWh (2008 est.) |
+| **Malta** | 2.113 billion kWh (2010) |
+| **Mauritania** | 547 million kWh (2008 est.) |
+| **Mauritius** | 2.402 billion kWh (2008 est.) |
+| **Mexico** | 239.1 billion kWh (2009 est.) |
+| **Micronesia, Federated States of** | 192 million kWh (2002) |
+| **Moldova** | 3.412 billion kWh (2008 est.) |
+| **Mongolia** | 3.896 billion kWh (2008 est.) |
+| **Montenegro** | 2.66 billion kWh (2008 est.) |
+| **Montserrat** | 22 million kWh (2008 est.) |
+| **Morocco** | 19.49 billion kWh (2008 est.) |
+| **Mozambique** | 14.98 billion kWh (2008 est.) |
+| **Namibia** | 2.197 billion kWh (2008 est.) |
+| **Nauru** | 32 million kWh (2008 est.) |
+| **Nepal** | 2.6 billion kWh (2009 est.) |
+| **Netherlands** | 105.7 billion kWh (2009 est.) |
+| **New Caledonia** | 1.8 billion kWh (2008 est.) |
+| **New Zealand** | 42 billion kWh (2009 est.) |
+| **Nicaragua** | 3.419 billion kWh (2008 est.) |
+| **Niger** | 200 million kWh (2008 est.) |
+| **Nigeria** | 20.13 billion kWh (2008 est.) |
+| **Niue** | 3 million kWh (2008 est.) |
+| **Norfolk Island** | NA kWh |
+| **Northern Mariana Islands** | 60,600 kWh (January 2009) |
+| **Norway** | 129.9 billion kWh (2009 est.) |
+| **Oman** | 17.63 billion kWh (2009 est.) |
+| **Pakistan** | 89.23 billion kWh (2009 est.) |
+| **Panama** | 6.546 billion kWh (2010 est.) |
+| **Papua New Guinea** | 2.965 billion kWh (2008 est.) |
+| **Paraguay** | 54.91 billion kWh (2008 est.) |
+| **Peru** | 35.79 billion kWh (2010 est.) |
+| **Philippines** | 59.19 billion kWh (2009 est.) |
+| **Pitcairn Islands** | NA kWh; note - electric power is provided by a small diesel-powered generator |
+| **Poland** | 141.8 billion kWh (2009 est.) |
+| **Portugal** | 46.53 billion kWh (2009 est.) |
+| **Puerto Rico** | 20.92 billion kWh (2008 est.) |
+| **Qatar** | 19.18 billion kWh (2009 est.) |
+| **Romania** | 62.03 billion kWh (2008 est.) |
+| **Russia** | 925.9 billion kWh (2009 est.) |
+| **Rwanda** | 160 million kWh (2008 est.) |
+| **Saint Helena, Ascension, and Tristan da Cunha** | 8 million kWh (2008 est.) |
+| **Saint Kitts and Nevis** | 130 million kWh (2008 est.) |
+| **Saint Lucia** | 341.2 million kWh (2009 est.) |
+| **Saint Pierre and Miquelon** | 53 million kWh (2008 est.) |
+| **Saint Vincent and the Grenadines** | 132 million kWh (2008 est.) |
+| **Samoa** | 108 million kWh (2009 est.) |
+| **Sao Tome and Principe** | 41 million kWh (2008 est.) |
+| **Saudi Arabia** | 194.4 billion kWh (2009 est.) |
+| **Senegal** | 2.232 billion kWh (2008 est.) |
+| **Serbia** | 35.9 billion kWh (2010) |
+| **Seychelles** | 260 million kWh (2008 est.) |
+| **Sierra Leone** | 58 million kWh (2008 est.) |
+| **Singapore** | 39.21 billion kWh (2008 est.) |
+| **Sint Maarten** | 304.3 million kWh (2008 est.) |
+| **Slovakia** | 24.7 billion kWh (2009 est.) |
+| **Slovenia** | 13 billion kWh (2009 est.) |
+| **Solomon Islands** | 78 million kWh (2008 est.) |
+| **Somalia** | 315 million kWh (2008 est.) |
+| **South Africa** | 238.3 billion kWh (2008 est.) |
+| **Spain** | 275.1 billion kWh (2009 est.) |
+| **Sri Lanka** | 8.893 billion kWh (2008 est.) |
+| **Sudan** | 4.323 billion kWh (2008 est.) |
+| **Suriname** | 1.58 billion kWh (2008 est.) |
+| **Swaziland** | 470 million kWh (2008 est.) |
+| **Sweden** | 129.4 billion kWh (2009 est.) |
+| **Switzerland** | 64.08 billion kWh (2009 est.) |
+| **Syria** | 38.71 billion kWh (2008 est.) |
+| **Taiwan** | 229.1 billion kWh (2009) |
+| **Tajikistan** | 16.1 billion kWh (2009 est.) |
+| **Tanzania** | 4.281 billion kWh (2008 est.) |
+| **Thailand** | 139 billion kWh (2008 est.) |
+| **Timor-Leste** | NA kWh (2008 est.) |
+| **Togo** | 156.9 million kWh (2008 est.) |
+| **Tokelau** | NA kWh |
+| **Tonga** | 40 million kWh (2008 est.) |
+| **Trinidad and Tobago** | 7.419 billion kWh (2008 est.) |
+| **Tunisia** | 14.4 billion kWh (2008 est.) |
+| **Turkey** | 185.2 billion kWh (2009 est.) |
+| **Turkmenistan** | 15.5 billion kWh (2009 est.) |
+| **Turks and Caicos Islands** | 175 million kWh (2008 est.) |
+| **Uganda** | 2.176 billion kWh (2008 est.) |
+| **Ukraine** | 172.9 billion kWh (2009 est.) |
+| **United Arab Emirates** | 80.94 billion kWh (2009 est.) |
+| **United Kingdom** | 346 billion kWh (2009 est.) |
+| **United States** | 3.953 trillion kWh (2009 est.) |
+| **Uruguay** | 9.89 billion kWh (2010 est.) |
+| **Uzbekistan** | 47.42 billion kWh (2009 est.) |
+| **Vanuatu** | 43 million kWh (2008 est.) |
+| **Venezuela** | 123.4 billion kWh (2009 est.) |
+| **Vietnam** | 97.3 billion kWh (2010 est.) |
+| **Virgin Islands** | 843.6 million kWh (2008 est.) |
+| **Wake Island** | NA kWh |
+| **Wallis and Futuna** | NA kWh |
+| **West Bank** | 400 million kWh |
+| | *note:* most imported electricity is from Israel; Jerusalem District Electric Company buys and distributes electricity to Palestinians in east Jerusalem and its concession in the West Bank; the Israel Electric Company directly supplies electricity to most Jewish residents and military facilities (2008 est.) |
+| **Western Sahara** | 90 million kWh (2008 est.) |
+| **World** | 18.95 trillion kWh (2008 est.) |
+| **Yemen** | 6.153 billion kWh (2008 est.) |
+| **Zambia** | 9.597 billion kWh (2008 est.) |
+| **Zimbabwe** | 7.723 billion kWh (2008 est.) |

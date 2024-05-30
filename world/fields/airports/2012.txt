@@ -1,0 +1,258 @@
+CIA - The World Factbook -- Field Listing :: Airports   
+
+This entry gives the total number of airports or airfields recognizable from the air. The runway(s) may be paved (concrete or asphalt surfaces) or unpaved (grass, earth, sand, or gravel surfaces) and may include closed or abandoned installations. Airports or airfields that are no longer recognizable (overgrown, no facilities, etc.) are not included. Note that not all airports have accommodations for refueling, maintenance, or air traffic control.
+
+| Country | Airports |
+| --- | --- |
+| **Afghanistan** | 52 (2012) |
+| **Albania** | 5 (2012) |
+| **Algeria** | 142 (2012) |
+| **American Samoa** | 3 (2012) |
+| **Angola** | 176 (2012) |
+| **Anguilla** | 3 (2012) |
+| **Antarctica** | 23 (2012) |
+| **Antigua and Barbuda** | 3 (2012) |
+| **Argentina** | 1,149 (2012) |
+| **Armenia** | 11 (2012) |
+| **Aruba** | 1 (2012) |
+| **Australia** | 467 (2012) |
+| **Austria** | 52 (2012) |
+| **Azerbaijan** | 37 (2012) |
+| **Bahamas, The** | 61 (2012) |
+| **Bahrain** | 4 (2012) |
+| **Bangladesh** | 18 (2012) |
+| **Barbados** | 1 (2012) |
+| **Belarus** | 65 (2012) |
+| **Belgium** | 43 (2012) |
+| **Belize** | 43 (2012) |
+| **Benin** | 5 (2012) |
+| **Bermuda** | 1 (2012) |
+| **Bhutan** | 2 (2012) |
+| **Bolivia** | 865 (2012) |
+| **Bosnia and Herzegovina** | 25 (2012) |
+| **Botswana** | 76 (2012) |
+| **Brazil** | 4,105 (2012) |
+| **British Indian Ocean Territory** | 1 (2012) |
+| **British Virgin Islands** | 4 (2012) |
+| **Brunei** | 1 (2012) |
+| **Bulgaria** | 202 (2012) |
+| **Burkina Faso** | 24 (2012) |
+| **Burma** | 74 (2012) |
+| **Burundi** | 7 (2012) |
+| **Cambodia** | 16 (2012) |
+| **Cameroon** | 34 (2012) |
+| **Canada** | 1,453 (2012) |
+| **Cape Verde** | 9 (2012) |
+| **Cayman Islands** | 3 (2012) |
+| **Central African Republic** | 40 (2012) |
+| **Chad** | 58 (2012) |
+| **Chile** | 476 (2012) |
+| **China** | 497 (2012) |
+| **Christmas Island** | 1 (2012) |
+| **Cocos (Keeling) Islands** | 1 (2012) |
+| **Colombia** | 862 (2012) |
+| **Comoros** | 4 (2012) |
+| **Congo, Democratic Republic of the** | 201 (2012) |
+| **Congo, Republic of the** | 25 (2012) |
+| **Cook Islands** | 11 (2012) |
+| **Costa Rica** | 153 (2012) |
+| **Cote d'Ivoire** | 27 (2012) |
+| **Croatia** | 69 (2012) |
+| **Cuba** | 136 (2012) |
+| **Curacao** | 1 |
+| **Cyprus** | 15 (2012) |
+| **Czech Republic** | 128 (2012) |
+| **Denmark** | 89 (2012) |
+| **Djibouti** | 13 (2012) |
+| **Dominica** | 2 (2012) |
+| **Dominican Republic** | 36 (2012) |
+| **Ecuador** | 431 (2012) |
+| **Egypt** | 84 (2012) |
+| **El Salvador** | 65 (2012) |
+| **Equatorial Guinea** | 7 (2012) |
+| **Eritrea** | 13 (2012) |
+| **Estonia** | 18 (2012) |
+| **Ethiopia** | 58 (2012) |
+| **European Union** | 3,294 (2012) |
+| **Falkland Islands (Islas Malvinas)** | 7 (2012) |
+| **Faroe Islands** | 1 (2012) |
+| **Fiji** | 28 (2012) |
+| **Finland** | 148 (2012) |
+| **France** | 473 (2012) |
+| **French Polynesia** | 53 (2012) |
+| **French Southern and Antarctic Lands** | 4; note - one each on Europa Island, Glorioso Islands, Juan de Nova Island, and Tromelin Island in the Iles Eparses district (2010) |
+| **Gabon** | 45 (2012) |
+| **Gambia, The** | 1 (2012) |
+| **Gaza Strip** | 1 (2012) |
+| **Georgia** | 22 (2012) |
+| **Germany** | 541 (2012) |
+| **Ghana** | 10 (2012) |
+| **Gibraltar** | 1 (2012) |
+| **Greece** | 82 (2012) |
+| **Greenland** | 15 (2012) |
+| **Grenada** | 3 (2012) |
+| **Guam** | 5 (2012) |
+| **Guatemala** | 291 (2012) |
+| **Guernsey** | 2 (2012) |
+| **Guinea** | 16 (2012) |
+| **Guinea-Bissau** | 8 (2012) |
+| **Guyana** | 98 (2012) |
+| **Haiti** | 14 (2012) |
+| **Honduras** | 104 (2012) |
+| **Hong Kong** | 2 (2012) |
+| **Howland Island** | one airstrip constructed in 1937 for scheduled refueling stop on the round-the-world flight of Amelia EARHART and Fred NOONAN - they left Lae, New Guinea, for Howland Island, but were never seen again; the airstrip is no longer serviceable (2010) |
+| **Hungary** | 41 (2012) |
+| **Iceland** | 99 (2012) |
+| **India** | 352 (2012) |
+| **Indonesia** | 676 (2012) |
+| **Iran** | 324 (2012) |
+| **Iraq** | 104 (2012) |
+| **Ireland** | 39 (2012) |
+| **Isle of Man** | 1 (2012) |
+| **Israel** | 47 (2012) |
+| **Italy** | 130 (2012) |
+| **Jamaica** | 27 (2012) |
+| **Jan Mayen** | 1 (2012) |
+| **Japan** | 175 (2012) |
+| **Jersey** | 1 (2012) |
+| **Johnston Atoll** | 1 (2012) |
+| **Jordan** | 18 (2012) |
+| **Kazakhstan** | 97 (2012) |
+| **Kenya** | 194 (2012) |
+| **Kingman Reef** | lagoon was used as a halfway station between Hawaii and American Samoa by Pan American Airways for flying boats in 1937 and 1938 (2010) |
+| **Kiribati** | 19 (2012) |
+| **Korea, North** | 81 (2012) |
+| **Korea, South** | 114 (2012) |
+| **Kosovo** | 8 (2012) |
+| **Kuwait** | 7 (2012) |
+| **Kyrgyzstan** | 28 (2012) |
+| **Laos** | 42 (2012) |
+| **Latvia** | 42 (2012) |
+| **Lebanon** | 7 (2012) |
+| **Lesotho** | 24 (2012) |
+| **Liberia** | 29 (2012) |
+| **Libya** | 144 (2012) |
+| **Lithuania** | 81 (2012) |
+| **Luxembourg** | 2 (2012) |
+| **Macau** | 1 (2012) |
+| **Macedonia** | 14 (2012) |
+| **Madagascar** | 82 (2012) |
+| **Malawi** | 31 (2012) |
+| **Malaysia** | 117 (2012) |
+| **Maldives** | 6 (2012) |
+| **Mali** | 21 (2012) |
+| **Malta** | 1 (2012) |
+| **Marshall Islands** | 15 (2012) |
+| **Mauritania** | 28 (2012) |
+| **Mauritius** | 5 (2012) |
+| **Mexico** | 1,724 (2012) |
+| **Micronesia, Federated States of** | 6 (2012) |
+| **Midway Islands** | 3 (2012) |
+| **Moldova** | 10 (2012) |
+| **Mongolia** | 44 (2012) |
+| **Montenegro** | 5 (2012) |
+| **Montserrat** | 1 (2012) |
+| **Morocco** | 56 (2012) |
+| **Mozambique** | 100 (2012) |
+| **Namibia** | 112 (2012) |
+| **Nauru** | 1 (2012) |
+| **Nepal** | 47 (2012) |
+| **Netherlands** | 27 (2012) |
+| **New Caledonia** | 25 (2012) |
+| **New Zealand** | 122 (2012) |
+| **Nicaragua** | 143 (2012) |
+| **Niger** | 30 (2012) |
+| **Nigeria** | 53 (2012) |
+| **Niue** | 1 (2012) |
+| **Norfolk Island** | 1 (2012) |
+| **Northern Mariana Islands** | 5 (2012) |
+| **Norway** | 98 (2012) |
+| **Oman** | 130 (2012) |
+| **Pakistan** | 151 (2012) |
+| **Palau** | 3 (2012) |
+| **Palmyra Atoll** | 1 (2012) |
+| **Panama** | 118 (2012) |
+| **Papua New Guinea** | 562 (2012) |
+| **Paracel Islands** | 1 (2012) |
+| **Paraguay** | 800 (2012) |
+| **Peru** | 191 (2012) |
+| **Philippines** | 247 (2012) |
+| **Poland** | 125 (2012) |
+| **Portugal** | 65 (2012) |
+| **Puerto Rico** | 29 (2012) |
+| **Qatar** | 6 (2012) |
+| **Romania** | 53 (2012) |
+| **Russia** | 1,218 (2012) |
+| **Rwanda** | 7 (2012) |
+| **Saint Barthelemy** | 1 (2012) |
+| **Saint Helena, Ascension, and Tristan da Cunha** | 1 (Ascension Island) (2012) |
+| **Saint Kitts and Nevis** | 2 (2012) |
+| **Saint Lucia** | 2 (2012) |
+| **Saint Martin** | 1 (2012) |
+| **Saint Pierre and Miquelon** | 2 (2012) |
+| **Saint Vincent and the Grenadines** | 6 (2012) |
+| **Samoa** | 4 (2012) |
+| **Sao Tome and Principe** | 2 (2012) |
+| **Saudi Arabia** | 216 (2012) |
+| **Senegal** | 20 (2012) |
+| **Serbia** | 30 (2012) |
+| **Seychelles** | 14 (2012) |
+| **Sierra Leone** | 8 (2012) |
+| **Singapore** | 9 (2012) |
+| **Sint Maarten** | 1 |
+| **Slovakia** | 37 (2012) |
+| **Slovenia** | 16 (2012) |
+| **Solomon Islands** | 36 (2012) |
+| **Somalia** | 62 (2012) |
+| **South Africa** | 567 (2012) |
+| **South Sudan** | 84 |
+| **Spain** | 152 (2012) |
+| **Spratly Islands** | 4 (2012) |
+| **Sri Lanka** | 18 (2012) |
+| **Sudan** | 72 (2012) |
+| **Suriname** | 47 (2012) |
+| **Svalbard** | 4 (2012) |
+| **Swaziland** | 15 (2012) |
+| **Sweden** | 230 (2012) |
+| **Switzerland** | 64 (2012) |
+| **Syria** | 99 (2012) |
+| **Taiwan** | 40 (2012) |
+| **Tajikistan** | 24 (2012) |
+| **Tanzania** | 106 (2012) |
+| **Thailand** | 103 (2012) |
+| **Timor-Leste** | 6 (2012) |
+| **Togo** | 8 (2012) |
+| **Tonga** | 6 (2012) |
+| **Trinidad and Tobago** | 5 (2012) |
+| **Tunisia** | 29 (2012) |
+| **Turkey** | 98 (2012) |
+| **Turkmenistan** | 26 (2012) |
+| **Turks and Caicos Islands** | 8 (2012) |
+| **Tuvalu** | 1 (2012) |
+| **Uganda** | 46 (2012) |
+| **Ukraine** | 412 (2012) |
+| **United Arab Emirates** | 42 (2012) |
+| **United Kingdom** | 462 (2012) |
+| **United States** | 15,079 (2010) |
+| **United States Pacific Island Wildlife Refuges** | *Baker Island:* one abandoned World War II runway of 1,665 m covered with vegetation and unusable |
+| | *Howland Island:* airstrip constructed in 1937 for scheduled refueling stop on the round-the-world flight of Amelia EARHART and Fred NOONAN; the aviators left Lae, New Guinea, for Howland Island but were never seen again; the airstrip is no longer serviceable |
+| | *Johnston Atoll:* one closed and not maintained |
+| | *Kingman Reef:* lagoon was used as a halfway station between Hawaii and American Samoa by Pan American Airways for flying boats in 1937 and 1938 |
+| | *Midway Islands:* 3 - one operational (2,409 m paved); no fuel for sale except emergencies |
+| | *Palmyra Atoll:* 1 - 1,846 m unpaved runway; privately owned (2010) |
+| **Uruguay** | 94 (2012) |
+| **Uzbekistan** | 53 (2012) |
+| **Vanuatu** | 31 (2012) |
+| **Venezuela** | 492 (2012) |
+| **Vietnam** | 44 (2012) |
+| **Virgin Islands** | 2 (2012) |
+| **Wake Island** | 1 (2012) |
+| **Wallis and Futuna** | 2 (2012) |
+| **West Bank** | 2 (2012) |
+| **Western Sahara** | 6 (2012) |
+| **World** | total airports - 43,794 (2012) |
+| | *top ten by passengers:* Atlanta (ATL) - 89,331,622; Beijing (PEK) - 73,948,113; Chicago (ORD) - 66,774,738; London (LHR) - 65,884,143; Tokyo (HND) - 64,211,074; Los Angeles (LAX) - 59,070,127; Paris (CDG) - 58,167,062; Dallas/Fort Worth (DFW) - 56,906,610; Frankfurt (FRA) - 53,009,221; Denver (DEN) - 52,209,377 (2010) |
+| | *top ten by cargo (metric tons):* Hong Kong (HKG) - 4,165,852; Memphis (MEM) - 3,916,811; Shanghai (PVG) - 3,228,081; Incheon (ICN) - 2,684,499; Anchorage (ANC) - 2,646,695; Paris (CDG) - 2,399,067; Frankfurt (FRA) - 2,275,000; Dubai (DXB) - 2,270,498; Tokyo (NRT) - 2,167,853; Louisville (SDF) - 2,166,656 (2010) |
+| **Yemen** | 57 (2012) |
+| **Zambia** | 88 (2012) |
+| **Zimbabwe** | 202 (2012) |

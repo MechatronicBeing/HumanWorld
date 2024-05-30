@@ -1,0 +1,240 @@
+CIA - The World Factbook -- Field Listing - Death rate
+
+| Country | Death rate (deaths/1,000 population) |
+| --- | --- |
+| **Afghanistan** | 19.96 deaths/1,000 population (2007 est.) |
+| **Albania** | 5.33 deaths/1,000 population (2007 est.) |
+| **Algeria** | 4.62 deaths/1,000 population (2007 est.) |
+| **American Samoa** | 3.24 deaths/1,000 population (2007 est.) |
+| **Andorra** | 6.45 deaths/1,000 population (2007 est.) |
+| **Angola** | 24.81 deaths/1,000 population (2007 est.) |
+| **Anguilla** | 5.34 deaths/1,000 population (2007 est.) |
+| **Antigua and Barbuda** | 5.31 deaths/1,000 population (2007 est.) |
+| **Argentina** | 7.55 deaths/1,000 population (2007 est.) |
+| **Armenia** | 8.29 deaths/1,000 population (2007 est.) |
+| **Aruba** | 7.61 deaths/1,000 population (2007 est.) |
+| **Australia** | 7.56 deaths/1,000 population (2007 est.) |
+| **Austria** | 9.84 deaths/1,000 population (2007 est.) |
+| **Azerbaijan** | 8.35 deaths/1,000 population (2007 est.) |
+| **Bahamas, The** | 9.13 deaths/1,000 population (2007 est.) |
+| **Bahrain** | 4.21 deaths/1,000 population (2007 est.) |
+| **Bangladesh** | 8.13 deaths/1,000 population (2007 est.) |
+| **Barbados** | 8.61 deaths/1,000 population (2007 est.) |
+| **Belarus** | 13.98 deaths/1,000 population (2007 est.) |
+| **Belgium** | 10.32 deaths/1,000 population (2007 est.) |
+| **Belize** | 5.76 deaths/1,000 population (2007 est.) |
+| **Benin** | 11.94 deaths/1,000 population (2007 est.) |
+| **Bermuda** | 7.84 deaths/1,000 population (2007 est.) |
+| **Bhutan** | 12.46 deaths/1,000 population (2007 est.) |
+| **Bolivia** | 7.44 deaths/1,000 population (2007 est.) |
+| **Bosnia and Herzegovina** | 8.42 deaths/1,000 population (2007 est.) |
+| **Botswana** | 13.63 deaths/1,000 population (2007 est.) |
+| **Brazil** | 6.19 deaths/1,000 population (2007 est.) |
+| **British Virgin Islands** | 4.42 deaths/1,000 population (2007 est.) |
+| **Brunei** | 3.26 deaths/1,000 population (2007 est.) |
+| **Bulgaria** | 14.28 deaths/1,000 population (2007 est.) |
+| **Burkina Faso** | 15.31 deaths/1,000 population (2007 est.) |
+| **Burma** | 9.33 deaths/1,000 population (2007 est.) |
+| **Burundi** | 13.17 deaths/1,000 population (2007 est.) |
+| **Cambodia** | 8.24 deaths/1,000 population (2007 est.) |
+| **Cameroon** | 12.66 deaths/1,000 population (2007 est.) |
+| **Canada** | 7.86 deaths/1,000 population (2007 est.) |
+| **Cape Verde** | 6.5 deaths/1,000 population (2007 est.) |
+| **Cayman Islands** | 4.98 deaths/1,000 population (2007 est.) |
+| **Central African Republic** | 18.46 deaths/1,000 population (2007 est.) |
+| **Chad** | 16.69 deaths/1,000 population (2007 est.) |
+| **Chile** | 5.87 deaths/1,000 population (2007 est.) |
+| **China** | 7 deaths/1,000 population (2007 est.) |
+| **Christmas Island** | NA |
+| **Cocos (Keeling) Islands** | NA |
+| **Colombia** | 5.54 deaths/1,000 population (2007 est.) |
+| **Comoros** | 7.95 deaths/1,000 population (2007 est.) |
+| **Congo, Democratic Republic of the** | 10.34 deaths/1,000 population (2007 est.) |
+| **Congo, Republic of the** | 12.59 deaths/1,000 population (2007 est.) |
+| **Cook Islands** | NA |
+| **Costa Rica** | 4.39 deaths/1,000 population (2007 est.) |
+| **Cote d'Ivoire** | 14.74 deaths/1,000 population (2007 est.) |
+| **Croatia** | 11.57 deaths/1,000 population (2007 est.) |
+| **Cuba** | 7.14 deaths/1,000 population (2007 est.) |
+| **Cyprus** | 7.72 deaths/1,000 population (2007 est.) |
+| **Czech Republic** | 10.64 deaths/1,000 population (2007 est.) |
+| **Denmark** | 10.3 deaths/1,000 population (2007 est.) |
+| **Djibouti** | 19.23 deaths/1,000 population (2007 est.) |
+| **Dominica** | 8.44 deaths/1,000 population (2007 est.) |
+| **Dominican Republic** | 5.32 deaths/1,000 population (2007 est.) |
+| **Ecuador** | 4.21 deaths/1,000 population (2007 est.) |
+| **Egypt** | 5.11 deaths/1,000 population (2007 est.) |
+| **El Salvador** | 5.6 deaths/1,000 population (2007 est.) |
+| **Equatorial Guinea** | 15.01 deaths/1,000 population (2007 est.) |
+| **Eritrea** | 9.36 deaths/1,000 population (2007 est.) |
+| **Estonia** | 13.3 deaths/1,000 population (2007 est.) |
+| **Ethiopia** | 14.67 deaths/1,000 population (2007 est.) |
+| **European Union** | 10 deaths/1,000 population (2007 est.) |
+| **Falkland Islands (Islas Malvinas)** | NA |
+| **Faroe Islands** | 8.69 deaths/1,000 population (2007 est.) |
+| **Fiji** | 5.66 deaths/1,000 population (2007 est.) |
+| **Finland** | 9.93 deaths/1,000 population (2007 est.) |
+| **France** | 8.55 deaths/1,000 population (2007 est.) |
+| **French Polynesia** | 4.61 deaths/1,000 population (2007 est.) |
+| **Gabon** | 12.45 deaths/1,000 population (2007 est.) |
+| **Gambia, The** | 11.99 deaths/1,000 population (2007 est.) |
+| **Gaza Strip** | 3.74 deaths/1,000 population (2007 est.) |
+| **Georgia** | 9.37 deaths/1,000 population (2007 est.) |
+| **Germany** | 10.71 deaths/1,000 population (2007 est.) |
+| **Ghana** | 9.55 deaths/1,000 population (2007 est.) |
+| **Gibraltar** | 9.4 deaths/1,000 population (2007 est.) |
+| **Greece** | 10.33 deaths/1,000 population (2007 est.) |
+| **Greenland** | 7.93 deaths/1,000 population (2007 est.) |
+| **Grenada** | 6.61 deaths/1,000 population (2007 est.) |
+| **Guam** | 4.56 deaths/1,000 population (2007 est.) |
+| **Guatemala** | 5.27 deaths/1,000 population (2007 est.) |
+| **Guernsey** | 10.07 deaths/1,000 population (2007 est.) |
+| **Guinea** | 15.33 deaths/1,000 population (2007 est.) |
+| **Guinea-Bissau** | 16.29 deaths/1,000 population (2007 est.) |
+| **Guyana** | 8.28 deaths/1,000 population (2007 est.) |
+| **Haiti** | 10.4 deaths/1,000 population (2007 est.) |
+| **Honduras** | 5.32 deaths/1,000 population (2007 est.) |
+| **Hong Kong** | 6.45 deaths/1,000 population (2007 est.) |
+| **Hungary** | 13.05 deaths/1,000 population (2007 est.) |
+| **Iceland** | 6.77 deaths/1,000 population (2007 est.) |
+| **India** | 6.58 deaths/1,000 population (2007 est.) |
+| **Indonesia** | 6.25 deaths/1,000 population (2007 est.) |
+| **Iran** | 5.65 deaths/1,000 population (2007 est.) |
+| **Iraq** | 5.26 deaths/1,000 population (2007 est.) |
+| **Ireland** | 7.79 deaths/1,000 population (2007 est.) |
+| **Isle of Man** | 11.1 deaths/1,000 population (2007 est.) |
+| **Israel** | 6.17 deaths/1,000 population (2007 est.) |
+| **Italy** | 10.5 deaths/1,000 population (2007 est.) |
+| **Jamaica** | 6.59 deaths/1,000 population (2007 est.) |
+| **Japan** | 8.98 deaths/1,000 population (2007 est.) |
+| **Jersey** | 9.32 deaths/1,000 population (2007 est.) |
+| **Jordan** | 2.68 deaths/1,000 population (2007 est.) |
+| **Kazakhstan** | 9.4 deaths/1,000 population (2007 est.) |
+| **Kenya** | 10.95 deaths/1,000 population (2007 est.) |
+| **Kiribati** | 8.12 deaths/1,000 population (2007 est.) |
+| **Korea, North** | 7.21 deaths/1,000 population (2007 est.) |
+| **Korea, South** | 5.99 deaths/1,000 population (2007 est.) |
+| **Kuwait** | 2.39 deaths/1,000 population (2007 est.) |
+| **Kyrgyzstan** | 7.02 deaths/1,000 population (2007 est.) |
+| **Laos** | 11.28 deaths/1,000 population (2007 est.) |
+| **Latvia** | 13.64 deaths/1,000 population (2007 est.) |
+| **Lebanon** | 6.1 deaths/1,000 population (2007 est.) |
+| **Lesotho** | 22.49 deaths/1,000 population (2007 est.) |
+| **Liberia** | 22.24 deaths/1,000 population (2007 est.) |
+| **Libya** | 3.47 deaths/1,000 population (2007 est.) |
+| **Liechtenstein** | 7.3 deaths/1,000 population (2007 est.) |
+| **Lithuania** | 11.05 deaths/1,000 population (2007 est.) |
+| **Luxembourg** | 8.42 deaths/1,000 population (2007 est.) |
+| **Macau** | 4.59 deaths/1,000 population (2007 est.) |
+| **Macedonia** | 8.78 deaths/1,000 population (2007 est.) |
+| **Madagascar** | 8.51 deaths/1,000 population (2007 est.) |
+| **Malawi** | 18.25 deaths/1,000 population (2007 est.) |
+| **Malaysia** | 5.05 deaths/1,000 population (2007 est.) |
+| **Maldives** | 6.88 deaths/1,000 population (2007 est.) |
+| **Mali** | 16.51 deaths/1,000 population (2007 est.) |
+| **Malta** | 8.19 deaths/1,000 population (2007 est.) |
+| **Marshall Islands** | 4.66 deaths/1,000 population (2007 est.) |
+| **Mauritania** | 11.89 deaths/1,000 population (2007 est.) |
+| **Mauritius** | 6.88 deaths/1,000 population (2007 est.) |
+| **Mayotte** | 7.53 deaths/1,000 population (2007 est.) |
+| **Mexico** | 4.76 deaths/1,000 population (2007 est.) |
+| **Micronesia, Federated States of** | 4.66 deaths/1,000 population (2007 est.) |
+| **Moldova** | 10.85 deaths/1,000 population (2007 est.) |
+| **Monaco** | 12.92 deaths/1,000 population (2007 est.) |
+| **Mongolia** | 6.21 deaths/1,000 population (2007 est.) |
+| **Montenegro** | 8.39 deaths/1,000 population (2007 est.) |
+| **Montserrat** | 7.02 deaths/1,000 population (2007 est.) |
+| **Morocco** | 5.54 deaths/1,000 population (2007 est.) |
+| **Mozambique** | 20.51 deaths/1,000 population (2007 est.) |
+| **Namibia** | 19.15 deaths/1,000 population (2007 est.) |
+| **Nauru** | 6.65 deaths/1,000 population (2007 est.) |
+| **Nepal** | 9.14 deaths/1,000 population (2007 est.) |
+| **Netherlands** | 8.69 deaths/1,000 population (2007 est.) |
+| **Netherlands Antilles** | 6.39 deaths/1,000 population (2007 est.) |
+| **New Caledonia** | 5.72 deaths/1,000 population (2007 est.) |
+| **New Zealand** | 7.54 deaths/1,000 population (2007 est.) |
+| **Nicaragua** | 4.42 deaths/1,000 population (2007 est.) |
+| **Niger** | 20.59 deaths/1,000 population (2007 est.) |
+| **Nigeria** | 16.68 deaths/1,000 population (2007 est.) |
+| **Niue** | NA |
+| **Norfolk Island** | NA |
+| **Northern Mariana Islands** | 2.29 deaths/1,000 population (2007 est.) |
+| **Norway** | 9.37 deaths/1,000 population (2007 est.) |
+| **Oman** | 3.78 deaths/1,000 population (2007 est.) |
+| **Pakistan** | 8 deaths/1,000 population (2007 est.) |
+| **Palau** | 6.77 deaths/1,000 population (2007 est.) |
+| **Panama** | 5.44 deaths/1,000 population (2007 est.) |
+| **Papua New Guinea** | 7.14 deaths/1,000 population (2007 est.) |
+| **Paraguay** | 4.54 deaths/1,000 population (2007 est.) |
+| **Peru** | 6.21 deaths/1,000 population (2007 est.) |
+| **Philippines** | 5.36 deaths/1,000 population (2007 est.) |
+| **Pitcairn Islands** | NA |
+| **Poland** | 9.94 deaths/1,000 population (2007 est.) |
+| **Portugal** | 10.56 deaths/1,000 population (2007 est.) |
+| **Puerto Rico** | 7.78 deaths/1,000 population (2007 est.) |
+| **Qatar** | 4.82 deaths/1,000 population (2007 est.) |
+| **Romania** | 11.81 deaths/1,000 population (2007 est.) |
+| **Russia** | 16.04 deaths/1,000 population (2007 est.) |
+| **Rwanda** | 14.91 deaths/1,000 population (2007 est.) |
+| **Saint Helena** | 6.63 deaths/1,000 population (2007 est.) |
+| **Saint Kitts and Nevis** | 8.16 deaths/1,000 population (2007 est.) |
+| **Saint Lucia** | 5.03 deaths/1,000 population (2007 est.) |
+| **Saint Pierre and Miquelon** | 6.82 deaths/1,000 population (2007 est.) |
+| **Saint Vincent and the Grenadines** | 5.97 deaths/1,000 population (2007 est.) |
+| **Samoa** | 5.88 deaths/1,000 population (2007 est.) |
+| **San Marino** | 8.27 deaths/1,000 population (2007 est.) |
+| **Sao Tome and Principe** | 6.28 deaths/1,000 population (2007 est.) |
+| **Saudi Arabia** | 2.55 deaths/1,000 population (2007 est.) |
+| **Senegal** | 10.96 deaths/1,000 population (2007 est.) |
+| **Seychelles** | 6.25 deaths/1,000 population (2007 est.) |
+| **Sierra Leone** | 22.64 deaths/1,000 population (2007 est.) |
+| **Singapore** | 4.4 deaths/1,000 population (2007 est.) |
+| **Slovakia** | 9.48 deaths/1,000 population (2007 est.) |
+| **Slovenia** | 10.41 deaths/1,000 population (2007 est.) |
+| **Solomon Islands** | 3.87 deaths/1,000 population (2007 est.) |
+| **Somalia** | 16.28 deaths/1,000 population (2007 est.) |
+| **South Africa** | 22.45 deaths/1,000 population (2007 est.) |
+| **Spain** | 9.81 deaths/1,000 population (2007 est.) |
+| **Sri Lanka** | 6.01 deaths/1,000 population (2007 est.) |
+| **Sudan** | 14.39 deaths/1,000 population (2007 est.) |
+| **Suriname** | 5.5 deaths/1,000 population (2007 est.) |
+| **Svalbard** | NA |
+| **Swaziland** | 30.35 deaths/1,000 population (2007 est.) |
+| **Sweden** | 10.27 deaths/1,000 population (2007 est.) |
+| **Switzerland** | 8.51 deaths/1,000 population (2007 est.) |
+| **Syria** | 4.74 deaths/1,000 population (2007 est.) |
+| **Taiwan** | 6.54 deaths/1,000 population (2007 est.) |
+| **Tajikistan** | 7.05 deaths/1,000 population (2007 est.) |
+| **Tanzania** | 13.36 deaths/1,000 population (2007 est.) |
+| **Thailand** | 7.1 deaths/1,000 population (2007 est.) |
+| **Timor-Leste** | 6.19 deaths/1,000 population (2007 est.) |
+| **Togo** | 9.65 deaths/1,000 population (2007 est.) |
+| **Tokelau** | NA |
+| **Tonga** | 5.2 deaths/1,000 population (2007 est.) |
+| **Trinidad and Tobago** | 10.76 deaths/1,000 population (2007 est.) |
+| **Tunisia** | 5.17 deaths/1,000 population (2007 est.) |
+| **Turkey** | 6 deaths/1,000 population (2007 est.) |
+| **Turkmenistan** | 6.17 deaths/1,000 population (2007 est.) |
+| **Turks and Caicos Islands** | 4.23 deaths/1,000 population (2007 est.) |
+| **Tuvalu** | 7 deaths/1,000 population (2007 est.) |
+| **Uganda** | 12.64 deaths/1,000 population (2007 est.) |
+| **Ukraine** | 16.07 deaths/1,000 population (2007 est.) |
+| **United Arab Emirates** | 2.16 deaths/1,000 population (2007 est.) |
+| **United Kingdom** | 10.09 deaths/1,000 population (2007 est.) |
+| **United States** | 8.26 deaths/1,000 population (2007 est.) |
+| **Uruguay** | 9.16 deaths/1,000 population (2007 est.) |
+| **Uzbekistan** | 7.73 deaths/1,000 population (2007 est.) |
+| **Vanuatu** | 7.75 deaths/1,000 population (2007 est.) |
+| **Venezuela** | 5.08 deaths/1,000 population (2007 est.) |
+| **Vietnam** | 6.19 deaths/1,000 population (2007 est.) |
+| **Virgin Islands** | 6.59 deaths/1,000 population (2007 est.) |
+| **Wallis and Futuna** | NA |
+| **West Bank** | 3.85 deaths/1,000 population (2007 est.) |
+| **Western Sahara** | NA |
+| **World** | 8.37 deaths/1,000 population (2007 est.) |
+| **Yemen** | 8.05 deaths/1,000 population (2007 est.) |
+| **Zambia** | 21.46 deaths/1,000 population (2007 est.) |
+| **Zimbabwe** | 21.76 deaths/1,000 population (2007 est.) |
+
+This page was last updated on 13 December, 2007
+ 

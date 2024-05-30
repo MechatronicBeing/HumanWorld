@@ -1,0 +1,241 @@
+CIA -- The World Factbook -- Imports
+
+| Country | Background |
+| --- | --- |
+| **Afghanistan** | $150 million (1996 est.) |
+| **Albania** | $1 billion (f.o.b., 2000 est.) |
+| **Algeria** | $9.2 billion (f.o.b., 2000 est.) |
+| **American Samoa** | $471 million (1996) |
+| **Andorra** | $1.077 billion (c.i.f., 1998) |
+| **Angola** | $2.5 billion (f.o.b., 2000 est.) |
+| **Anguilla** | $57.6 million (1998) |
+| **Antigua and Barbuda** | $330 million (1998) |
+| **Argentina** | $25.2 billion (f.o.b., 2000 est.) |
+| **Armenia** | $913 million (f.o.b., 2000 est.) |
+| **Aruba** | $2.5 billion (2000 est.) |
+| **Australia** | $77 billion (f.o.b., 2000 est.) |
+| **Austria** | $65.6 billion (2000 est.) |
+| **Azerbaijan** | $1.4 billion (f.o.b., 2000 est.) |
+| **Bahamas, The** | $1.73 billion (2000 est.) |
+| **Bahrain** | $4.2 billion (f.o.b., 2000) |
+| **Bangladesh** | $8.1 billion (2000) |
+| **Barbados** | $800.3 million (2000 est.) |
+| **Belarus** | $8.3 billion (f.o.b., 2000) |
+| **Belgium** | $166 billion (c.i.f., 2000) |
+| **Belize** | $413 million (c.i.f., 2000 est.) |
+| **Benin** | $566 million (c.i.f., 1999) |
+| **Bermuda** | $739 million (2000 est.) |
+| **Bhutan** | $269 million (c.i.f., 2000 est.) |
+| **Bolivia** | $1.86 billion (f.o.b., 2000 est.) |
+| **Bosnia and Herzegovina** | $2.45 billion (f.o.b., 2000 est.) |
+| **Botswana** | $2.2 billion (f.o.b., 2000 est.) |
+| **Brazil** | $55.8 billion (f.o.b., 2000) |
+| **British Virgin Islands** | $220 million (2000 est.) |
+| **Brunei** | $1.3 billion (c.i.f., 1999 est.) |
+| **Bulgaria** | $5.9 billion (f.o.b., 2000 est.) |
+| **Burkina Faso** | $610 million (f.o.b., 2000 est.) |
+| **Burma** | $2.5 billion (f.o.b., 1999) |
+| **Burundi** | $110 million (f.o.b., 2000) |
+| **Cambodia** | $1.3 billion (f.o.b., 2000 est.) |
+| **Cameroon** | $1.6 billion (f.o.b., 2000 est.) |
+| **Canada** | $238.2 billion (f.o.b., 2000 est.) |
+| **Cape Verde** | $250 million (f.o.b., 2000 est.) |
+| **Cayman Islands** | $507.6 million (1998) |
+| **Central African Republic** | $154 million (f.o.b., 2000) |
+| **Chad** | $223 million (f.o.b., 2000 est.) |
+| **Chile** | $17 billion (f.o.b., 2000) |
+| **China** | $197 billion (f.o.b., 2000) |
+| **Christmas Island** | $NA |
+| **Cocos (Keeling) Islands** | $NA |
+| **Colombia** | $12.4 billion (f.o.b., 2000 est.) |
+| **Comoros** | $55.1 million (f.o.b., 1999 est.) |
+| **Congo, Democratic Republic of the** | $660 million (c.i.f., 2000 est.) |
+| **Congo, Republic of the** | $870 million (f.o.b., 2000) |
+| **Cook Islands** | $85 million (c.i.f., 1994) |
+| **Costa Rica** | $5.9 billion (f.o.b., 2000 est.) |
+| **Cote d'Ivoire** | $2.5 billion (f.o.b., 2000 est.) |
+| **Croatia** | $7.8 billion (c.i.f., 1999) |
+| **Cuba** | $3.4 billion (f.o.b., 2000 est.) |
+| **Cyprus** | *Greek Cypriot area:* $3.6 billion (f.o.b., 1999 est.); Turkish Cypriot area: $402 million (f.o.b., 1999) |
+| **Czech Republic** | $31.4 billion (f.o.b., 2000) |
+| **Denmark** | $43.6 billion (f.o.b., 2000) |
+| **Djibouti** | $440 million (f.o.b., 1999 est.) |
+| **Dominica** | $126 million (2000 est.) |
+| **Dominican Republic** | $9.6 billion (f.o.b., 2000 est.) |
+| **Ecuador** | $3.4 billion (f.o.b., 2000 est.) |
+| **Egypt** | $17 billion (f.o.b., 2000 est.) |
+| **El Salvador** | $4.6 billion (f.o.b., 2000) |
+| **Equatorial Guinea** | $300 million (f.o.b., 1999) |
+| **Eritrea** | $560 million (c.i.f., 1999) |
+| **Estonia** | $4 billion (f.o.b., 2000) |
+| **Ethiopia** | $1.25 billion (f.o.b., 1999) |
+| **Falkland Islands (Islas Malvinas)** | $24.7 million (1995) |
+| **Faroe Islands** | $469 million (c.i.f., 1999) |
+| **Fiji** | $653 million (f.o.b., 1999) |
+| **Finland** | $32.7 billion (f.o.b., 2000) |
+| **France** | $320 billion (f.o.b., 2000 est.) |
+| **French Guiana** | $625 million (c.i.f., 1997) |
+| **French Polynesia** | $749 million (f.o.b., 1999) |
+| **Gabon** | $1 billion (f.o.b., 2000 est.) |
+| **Gambia, The** | $202.5 million (f.o.b., 1999) |
+| **Gaza Strip** | $2.5 billion (c.i.f., 1998 est.) (includes West Bank) |
+| **Georgia** | $898 million (2000 est.) |
+| **Germany** | $505 billion (f.o.b., 2000 est.) |
+| **Ghana** | $2.2 billion (f.o.b., 2000) |
+| **Gibraltar** | $492 million (c.i.f., 1997) |
+| **Greece** | $33.9 billion (c.i.f., 2000) |
+| **Greenland** | $400 million (c.i.f., 1999) |
+| **Grenada** | $217.5 million (2000 est.) |
+| **Guadeloupe** | $1.7 billion (c.i.f., 1997) |
+| **Guam** | $203 million (f.o.b., 1999 est.) |
+| **Guatemala** | $4.4 billion (f.o.b., 2000) |
+| **Guernsey** | $NA |
+| **Guinea** | $634 million (f.o.b., 2000 est.) |
+| **Guinea-Bissau** | $55.2 million (f.o.b., 2000 est.) |
+| **Guyana** | $660 million (c.i.f., 2000 est.) |
+| **Haiti** | $1.2 billion (c.i.f., 1999) |
+| **Honduras** | $2.8 billion (f.o.b., 2000 est.) |
+| **Hong Kong** | $215 billion (f.o.b., 2000) |
+| **Hungary** | $27.6 billion (f.o.b., 2000) |
+| **Iceland** | $2.2 billion (f.o.b., 2000) |
+| **India** | $60.8 billion (f.o.b., 2000) |
+| **Indonesia** | $40.4 billion (c.i.f., 2000 est.) |
+| **Iran** | $15 billion (f.o.b., 2000 est.) |
+| **Iraq** | $13.8 billion (2000 est.) |
+| **Ireland** | $45.7 billion (f.o.b., 2000 est.) |
+| **Israel** | $35.1 billion (f.o.b., 2000) |
+| **Italy** | $231.4 billion (f.o.b., 2000) |
+| **Jamaica** | $3 billion (f.o.b., 2000 est.) |
+| **Japan** | $355 billion (c.i.f., 2000) |
+| **Jersey** | $NA |
+| **Jordan** | $4 billion (f.o.b., 2000 est.) |
+| **Kazakhstan** | $6.9 billion (f.o.b., 2000 est.) |
+| **Kenya** | $3 billion (f.o.b., 2000 est.) |
+| **Kiribati** | $44 million (c.i.f., 1999) |
+| **Korea, North** | $960 million (c.i.f., 1999 est.) |
+| **Korea, South** | $160.5 billion (f.o.b., 2000) |
+| **Kuwait** | $7.6 billion (f.o.b., 2000 est.) |
+| **Kyrgyzstan** | $579 million (f.o.b., 2000 est.) |
+| **Laos** | $540 million (f.o.b., 2000 est.) |
+| **Latvia** | $3.2 billion (f.o.b., 2000) |
+| **Lebanon** | $6.2 billion (f.o.b., 2000 est.) |
+| **Lesotho** | $700 million (f.o.b., 2000 est.) |
+| **Liberia** | $170 million (f.o.b., 2000 est.) |
+| **Libya** | $7.6 billion (f.o.b., 2000 est.) |
+| **Liechtenstein** | $917.3 million (1996) |
+| **Lithuania** | $4.9 billion (f.o.b., 2000) |
+| **Luxembourg** | $10 billion (c.i.f., 2000) |
+| **Macau** | $2.4 billion (c.i.f., 2000 est.) |
+| **Macedonia, The Former Yugoslav Republic of** | $2 billion (f.o.b., 2000 est.) |
+| **Madagascar** | $693 million (f.o.b., 1998) |
+| **Malawi** | $435 million (f.o.b., 2000) |
+| **Malaysia** | $82.6 billion (2000 est.) |
+| **Maldives** | $372 million (f.o.b., 2000 est.) |
+| **Mali** | $575 million (f.o.b., 2000 est.) |
+| **Malta** | $2.6 billion (f.o.b., 1999) |
+| **Man, Isle of** | $NA |
+| **Marshall Islands** | $58 million (f.o.b., 1997 est.) |
+| **Martinique** | $2 billion (c.i.f., 1997) |
+| **Mauritania** | $305 million (f.o.b., 1999) |
+| **Mauritius** | $2.3 billion (f.o.b., 1999) |
+| **Mayotte** | $141.3 million (f.o.b., 1997) |
+| **Mexico** | $176 billion (f.o.b., 2000), includes in-bond industries (assembly plant operations) |
+| **Micronesia, Federated States of** | $168 million (c.i.f., 1996 est.) |
+| **Moldova** | $761 million (f.o.b., 2000) |
+| **Monaco** | $NA; full customs integration with France, which collects and rebates Monegasque trade duties; also participates in EU market system through customs union with France |
+| **Mongolia** | $510.7 million (c.i.f., 1999) |
+| **Montserrat** | $26 million (1998) |
+| **Morocco** | $12.2 billion (f.o.b., 1999 est.) |
+| **Mozambique** | $1.4 billion (c.i.f., 2000 est.) |
+| **Namibia** | $1.6 billion (f.o.b., 2000 est.) |
+| **Nauru** | $21.1 million (c.i.f., 1991) |
+| **Nepal** | $1.2 billion (f.o.b., 1998) |
+| **Netherlands** | $201.2 billion (c.i.f., 2000 est.) |
+| **Netherlands Antilles** | $1.5 billion (f.o.b., 2000) |
+| **New Caledonia** | $843 million (f.o.b., 1999) |
+| **New Zealand** | $14.3 billion (f.o.b., 2000 est.) |
+| **Nicaragua** | $1.6 billion (f.o.b., 2000 est.) |
+| **Niger** | $317 million (f.o.b., 1999) |
+| **Nigeria** | $10.7 billion (f.o.b., 2000 est.) |
+| **Niue** | $4.1 million (c.i.f., 1989) |
+| **Norfolk Island** | $17.9 million (c.i.f., FY91/92) |
+| **Northern Mariana Islands** | $NA |
+| **Norway** | $35.2 billion (f.o.b., 2000 est.) |
+| **Oman** | $4.5 billion (f.o.b., 2000 est.) |
+| **Pakistan** | $9.6 billion (f.o.b., FY99/00) |
+| **Palau** | $126 million (f.o.b., FY99/00) |
+| **Panama** | $6.9 billion (f.o.b., 2000 est.) |
+| **Papua New Guinea** | $1 billion (f.o.b., 2000 est.) |
+| **Paraguay** | $3.3 billion (f.o.b., 2000 est.) |
+| **Peru** | $7.4 billion (f.o.b., 2000 est.) |
+| **Philippines** | $35 billion (f.o.b., 2000 est.) |
+| **Pitcairn Islands** | $NA |
+| **Poland** | $42.7 billion (f.o.b., 2000) |
+| **Portugal** | $41 billion (f.o.b., 2000 est.) |
+| **Puerto Rico** | $27 billion (c.i.f., 2000) |
+| **Qatar** | $3.8 billion (f.o.b., 2000 est.) |
+| **Reunion** | $2.5 billion (c.i.f., 1997) |
+| **Romania** | $11.9 billion (f.o.b., 2000 est.) |
+| **Russia** | $44.2 billion (2000 est.) |
+| **Rwanda** | $245.9 million (f.o.b., 2000 est.) |
+| **Saint Helena** | $14.434 million (c.i.f., 1995) |
+| **Saint Kitts and Nevis** | $151.5 million (2000 est.) |
+| **Saint Lucia** | $319.4 million (2000 est.) |
+| **Saint Pierre and Miquelon** | $55 million (f.o.b., 1999) |
+| **Saint Vincent and the Grenadines** | $185.6 million (2000 est.) |
+| **Samoa** | $90 million (f.o.b., 2000) |
+| **San Marino** | trade data are included with the statistics for Italy |
+| **Sao Tome and Principe** | $40 million (f.o.b., 2000 est.) |
+| **Saudi Arabia** | $30.1 billion (f.o.b., 2000) |
+| **Senegal** | $1.3 billion (f.o.b., 2000) |
+| **Seychelles** | $440 million (c.i.f., 1999) |
+| **Sierra Leone** | $145 million (f.o.b., 2000 est.) |
+| **Singapore** | $127 billion (f.o.b., 2000) |
+| **Slovakia** | $12.8 billion (f.o.b., 2000 est.) |
+| **Slovenia** | $9.9 billion (f.o.b., 2000) |
+| **Solomon Islands** | $152 million (f.o.b., 1999 est.) |
+| **Somalia** | $314 million (f.o.b., 1999 est.) |
+| **South Africa** | $27.6 billion (f.o.b., 2000 est.) |
+| **Spain** | $153.9 billion (f.o.b., 2000 est.) |
+| **Sri Lanka** | $6.1 billion (f.o.b., 2000) |
+| **Sudan** | $1.2 billion (f.o.b., 2000 est.) |
+| **Suriname** | $525 million (f.o.b., 1999) |
+| **Svalbard** | $NA |
+| **Swaziland** | $928 million (f.o.b., 2000) |
+| **Sweden** | $80 billion (f.o.b., 2000) |
+| **Switzerland** | $91.6 billion (f.o.b., 2000) |
+| **Syria** | $3.5 billion (f.o.b., 2000 est.) |
+| **Tajikistan** | $782 million (f.o.b., 2000 est.) |
+| **Tanzania** | $1.57 billion (f.o.b., 2000 est.) |
+| **Thailand** | $61.8 billion (f.o.b., 2000 est.) |
+| **Togo** | $452 million (f.o.b., 2000) |
+| **Tokelau** | $323,400 (c.i.f., 1983) |
+| **Tonga** | $69 million (f.o.b., 1998) |
+| **Trinidad and Tobago** | $3 billion (f.o.b., 2000 est.) |
+| **Tunisia** | $8.4 billion (f.o.b., 2000 est.) |
+| **Turkey** | $55.7 billion (c.i.f., 2000 est.) |
+| **Turkmenistan** | $1.65 billion (c.i.f., 2000 est.) |
+| **Turks and Caicos Islands** | $46.6 million (1993) |
+| **Tuvalu** | $4.4 million (c.i.f., 1989) |
+| **Uganda** | $1.1 billion (f.o.b., 1999) |
+| **Ukraine** | $15 billion (2000 est.) |
+| **United Arab Emirates** | $34 billion (f.o.b., 2000 est.) |
+| **United Kingdom** | $324 billion (f.o.b., 2000) |
+| **United States** | $1.223 trillion (f.o.b., 2000 est.) |
+| **Uruguay** | $3.4 billion (f.o.b., 2000 est.) |
+| **Uzbekistan** | $2.6 billion (f.o.b., 2000 est.) |
+| **Vanuatu** | $77.2 million (f.o.b., 1999) |
+| **Venezuela** | $14.7 billion (f.o.b., 2000) |
+| **Vietnam** | $15.2 billion (f.o.b., 2000 est.) |
+| **Virgin Islands** | $NA |
+| **Wallis and Futuna** | $300,000 (f.o.b., 1999) |
+| **West Bank** | $2.5 billion (includes Gaza Strip) (c.i.f., 1998 est.) |
+| **Western Sahara** | $NA |
+| **World** | $6 trillion (f.o.b., 2000 est.) |
+| **Yemen** | $2.7 billion (f.o.b., 2000 est.) |
+| **Yugoslavia** | $3.3 billion (1999) |
+| **Zambia** | $1.05 billion (f.o.b., 2000 est.) |
+| **Zimbabwe** | $1.3 billion (f.o.b., 2000 est.) |
+| **Taiwan** | $140.01 billion (c.i.f., 2000) |
+
+

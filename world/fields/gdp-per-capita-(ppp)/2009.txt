@@ -1,0 +1,812 @@
+CIA - The World Factbook -- Field Listing :: GDP - per capita (PPP)   
+
+This entry shows GDP on a purchasing power parity basis divided by population as of 1 July for the same year.
+
+| Country | GDP - per capita (PPP) |
+| --- | --- |
+| **Afghanistan** | $800 (2008 est.) |
+| | $800 (2007 est.) |
+| | $700 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Albania** | $6,000 (2008 est.) |
+| | $5,700 (2007 est.) |
+| | $5,400 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Algeria** | $6,900 (2008 est.) |
+| | $6,800 (2007 est.) |
+| | $6,600 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **American Samoa** | $8,000 (2007 est.) |
+| | $5,800 (2005 est.) |
+| **Andorra** | $42,500 (2007) |
+| | $38,800 (2005) |
+| **Angola** | $9,000 (2008 est.) |
+| | $8,200 (2007 est.) |
+| | $6,900 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Anguilla** | $8,800 (2004 est.) |
+| **Antigua and Barbuda** | $19,400 (2008 est.) |
+| | $19,100 (2007 est.) |
+| | $18,100 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Argentina** | $14,200 (2008 est.) |
+| | $13,400 (2007 est.) |
+| | $12,500 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Armenia** | $6,300 (2008 est.) |
+| | $5,900 (2007 est.) |
+| | $5,200 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Aruba** | $21,800 (2004 est.) |
+| **Australia** | $38,200 (2008 est.) |
+| | $37,800 (2007 est.) |
+| | $36,800 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Austria** | $40,400 (2008 est.) |
+| | $39,600 (2007 est.) |
+| | $38,300 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Azerbaijan** | $9,500 (2008 est.) |
+| | $8,600 (2007 est.) |
+| | $7,000 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Bahamas, The** | $30,700 (2008 est.) |
+| | $31,400 (2007 est.) |
+| | $30,900 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Bahrain** | $37,400 (2008 est.) |
+| | $35,700 (2007 est.) |
+| | $33,400 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Bangladesh** | $1,500 (2008 est.) |
+| | $1,400 (2007 est.) |
+| | $1,300 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Barbados** | $18,900 (2008 est.) |
+| | $18,900 (2007 est.) |
+| | $18,300 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Belarus** | $11,800 (2008 est.) |
+| | $10,700 (2007 est.) |
+| | $9,800 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Belgium** | $37,500 (2008 est.) |
+| | $37,200 (2007 est.) |
+| | $36,300 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Belize** | $8,400 (2008 est.) |
+| | $8,400 (2007 est.) |
+| | $8,400 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Benin** | $1,500 (2008 est.) |
+| | $1,500 (2007 est.) |
+| | $1,500 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Bermuda** | $69,900 (2004 est.) |
+| **Bhutan** | $5,200 (2008 est.) |
+| | $4,300 (2007 est.) |
+| | $4,100 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Bolivia** | $4,500 (2008 est.) |
+| | $4,300 (2007 est.) |
+| | $4,200 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Bosnia and Herzegovina** | $6,500 (2008 est.) |
+| | $6,200 (2007 est.) |
+| | $5,900 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Botswana** | $13,900 (2008 est.) |
+| | $13,800 (2007 est.) |
+| | $13,400 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Brazil** | $10,200 (2008 est.) |
+| | $9,800 (2007 est.) |
+| | $9,400 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **British Virgin Islands** | $38,500 (2004 est.) |
+| **Brunei** | $51,300 (2008 est.) |
+| | $53,300 (2007 est.) |
+| | $54,200 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Bulgaria** | $12,900 (2008 est.) |
+| | $12,100 (2007 est.) |
+| | $11,300 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Burkina Faso** | $1,200 (2008 est.) |
+| | $1,200 (2007 est.) |
+| | $1,200 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Burma** | $1,200 (2008 est.) |
+| | $1,200 (2007 est.) |
+| | $1,100 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Burundi** | $300 (2008 est.) |
+| | $300 (2007 est.) |
+| | $300 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Cambodia** | $2,000 (2008 est.) |
+| | $1,900 (2007 est.) |
+| | $1,800 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Cameroon** | $2,300 (2008 est.) |
+| | $2,300 (2007 est.) |
+| | $2,300 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Canada** | $39,200 (2008 est.) |
+| | $39,400 (2007 est.) |
+| | $38,800 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Cape Verde** | $3,800 (2008 est.) |
+| | $3,600 (2007 est.) |
+| | $3,400 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Cayman Islands** | $43,800 (2004 est.) |
+| **Central African Republic** | $700 (2008 est.) |
+| | $700 (2007 est.) |
+| | $700 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Chad** | $1,600 (2008 est.) |
+| | $1,600 (2007 est.) |
+| | $1,600 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Chile** | $14,900 (2008 est.) |
+| | $14,600 (2007 est.) |
+| | $14,000 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **China** | $6,000 (2008 est.) |
+| | $5,500 (2007 est.) |
+| | $4,900 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Colombia** | $9,200 (2008 est.) |
+| | $9,100 (2007 est.) |
+| | $8,600 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Comoros** | $1,000 (2008 est.) |
+| | $1,000 (2007 est.) |
+| | $1,100 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Congo, Democratic Republic of the** | $300 (2008 est.) |
+| | $300 (2007 est.) |
+| | $300 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Congo, Republic of the** | $3,900 (2008 est.) |
+| | $3,800 (2007 est.) |
+| | $4,000 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Cook Islands** | $9,100 (2005 est.) |
+| **Costa Rica** | $11,600 (2008 est.) |
+| | $11,500 (2007 est.) |
+| | $10,800 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Cote d'Ivoire** | $1,700 (2008 est.) |
+| | $1,700 (2007 est.) |
+| | $1,700 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Croatia** | $18,400 (2008 est.) |
+| | $17,900 (2007 est.) |
+| | $17,000 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Cuba** | $9,500 (2008 est.) |
+| | $9,100 (2007 est.) |
+| | $8,500 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Cyprus** | $21,300 (2008 est.) |
+| | $20,900 (2007 est.) |
+| | $20,400 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Czech Republic** | $25,900 (2008 est.) |
+| | $25,200 (2007 est.) |
+| | $23,800 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Denmark** | $37,200 (2008 est.) |
+| | $37,800 (2007 est.) |
+| | $37,300 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Djibouti** | $2,700 (2008 est.) |
+| | $2,600 (2007 est.) |
+| | $2,500 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Dominica** | $10,000 (2008 est.) |
+| | $9,700 (2007 est.) |
+| | $9,600 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Dominican Republic** | $8,200 (2008 est.) |
+| | $7,900 (2007 est.) |
+| | $7,400 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Ecuador** | $7,500 (2008 est.) |
+| | $7,200 (2007 est.) |
+| | $7,100 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Egypt** | $5,800 (2008 est.) |
+| | $5,500 (2007 est.) |
+| | $5,200 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **El Salvador** | $6,200 (2008 est.) |
+| | $6,100 (2007 est.) |
+| | $6,000 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Equatorial Guinea** | $37,300 (2008 est.) |
+| | $34,700 (2007 est.) |
+| | $29,100 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Eritrea** | $700 (2008 est.) |
+| | $700 (2007 est.) |
+| | $700 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Estonia** | $21,400 (2008 est.) |
+| | $22,100 (2007 est.) |
+| | $20,500 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Ethiopia** | $900 (2008 est.) |
+| | $800 (2007 est.) |
+| | $700 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **European Union** | $33,700 (2008 est.) |
+| | $33,500 (2007 est.) |
+| | $32,700 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Falkland Islands (Islas Malvinas)** | $35,400 (2002 est.) |
+| **Faroe Islands** | $31,000 (2001 est.) |
+| **Fiji** | $3,800 (2008 est.) |
+| | $3,900 (2007 est.) |
+| | $4,200 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Finland** | $37,000 (2008 est.) |
+| | $36,700 (2007 est.) |
+| | $35,300 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **France** | $33,300 (2008 est.) |
+| | $33,400 (2007 est.) |
+| | $32,800 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **French Polynesia** | $18,000 (2004 est.) |
+| | $17,500 (2003 est.) |
+| **Gabon** | $14,200 (2008 est.) |
+| | $14,200 (2007 est.) |
+| | $13,800 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Gambia, The** | $1,300 (2008 est.) |
+| | $1,300 (2007 est.) |
+| | $1,200 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Gaza Strip** | $2,900 (2008 est.) |
+| | $1,100 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Georgia** | $4,700 (2008 est.) |
+| | $4,500 (2007 est.) |
+| | $4,000 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Germany** | $35,500 (2008 est.) |
+| | $35,000 (2007 est.) |
+| | $34,200 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Ghana** | $1,500 (2008 est.) |
+| | $1,400 (2007 est.) |
+| | $1,300 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Gibraltar** | $38,200 (2005 est.) |
+| | $27,900 (2000 est.) |
+| **Greece** | $32,100 (2008 est.) |
+| | $31,200 (2007 est.) |
+| | $30,100 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Greenland** | $20,000 (2001 est.) |
+| **Grenada** | $13,200 (2008 est.) |
+| | $12,900 (2007 est.) |
+| | $12,400 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Guam** | $15,000 (2005 est.) |
+| **Guatemala** | $5,300 (2008 est.) |
+| | $5,200 (2007 est.) |
+| | $5,000 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Guernsey** | $44,600 (2005) |
+| **Guinea** | $1,100 (2008 est.) |
+| | $1,100 (2007 est.) |
+| | $1,100 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Guinea-Bissau** | $600 (2008 est.) |
+| | $600 (2007 est.) |
+| | $600 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Guyana** | $3,900 (2008 est.) |
+| | $3,800 (2007 est.) |
+| | $3,600 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Haiti** | $1,300 (2008 est.) |
+| | $1,300 (2007 est.) |
+| | $1,300 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Honduras** | $4,400 (2008 est.) |
+| | $4,300 (2007 est.) |
+| | $4,200 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Hong Kong** | $43,800 (2008 est.) |
+| | $43,000 (2007 est.) |
+| | $40,600 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Hungary** | $19,800 (2008 est.) |
+| | $19,600 (2007 est.) |
+| | $19,400 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Iceland** | $42,300 (2008 est.) |
+| | $42,100 (2007 est.) |
+| | $40,200 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **India** | $2,900 (2008 est.) |
+| | $2,700 (2007 est.) |
+| | $2,500 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Indonesia** | $3,900 (2008 est.) |
+| | $3,700 (2007 est.) |
+| | $3,500 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Iran** | $12,800 (2008 est.) |
+| | $12,100 (2007 est.) |
+| | $11,300 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Iraq** | $3,200 (2008 est.) |
+| | $3,000 (2007 est.) |
+| | $3,100 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Ireland** | $45,500 (2008 est.) |
+| | $47,400 (2007 est.) |
+| | $45,300 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Isle of Man** | $35,000 (2005 est.) |
+| **Israel** | $28,600 (2008 est.) |
+| | $27,900 (2007 est.) |
+| | $27,000 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Italy** | $31,400 (2008 est.) |
+| | $31,700 (2007 est.) |
+| | $31,300 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Jamaica** | $8,600 (2008 est.) |
+| | $8,700 (2007 est.) |
+| | $8,600 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Japan** | $34,100 (2008 est.) |
+| | $34,300 (2007 est.) |
+| | $33,500 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Jersey** | $57,000 (2005 est.) |
+| **Jordan** | $5,200 (2008 est.) |
+| | $5,000 (2007 est.) |
+| | $5,000 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Kazakhstan** | $11,500 (2008 est.) |
+| | $11,300 (2007 est.) |
+| | $10,400 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Kenya** | $1,600 (2008 est.) |
+| | $1,600 (2007 est.) |
+| | $1,600 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Kiribati** | $5,300 (2008 est.) |
+| | $5,200 (2007 est.) |
+| | $5,400 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Korea, North** | $1,800 (2008 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Korea, South** | $27,700 (2008 est.) |
+| | $27,100 (2007 est.) |
+| | $25,900 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Kosovo** | $2,300 (2007 est.) |
+| **Kuwait** | $57,500 (2008 est.) |
+| | $55,000 (2007 est.) |
+| | $54,400 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Kyrgyzstan** | $2,200 (2008 est.) |
+| | $2,000 (2007 est.) |
+| | $1,900 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Laos** | $2,100 (2008 est.) |
+| | $2,000 (2007 est.) |
+| | $1,900 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Latvia** | $17,300 (2008 est.) |
+| | $18,100 (2007 est.) |
+| | $16,300 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Lebanon** | $11,100 (2008 est.) |
+| | $10,600 (2007 est.) |
+| | $10,300 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Lesotho** | $1,600 (2008 est.) |
+| | $1,500 (2007 est.) |
+| | $1,400 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Liberia** | $500 (2008 est.) |
+| | $400 (2007 est.) |
+| | $400 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Libya** | $14,200 (2008 est.) |
+| | $13,700 (2007 est.) |
+| | $13,300 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Liechtenstein** | $118,000 (2007 est.) |
+| **Lithuania** | $17,800 (2008 est.) |
+| | $17,200 (2007 est.) |
+| | $15,800 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Luxembourg** | $81,200 (2008 est.) |
+| | $83,000 (2007 est.) |
+| | $79,800 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Macau** | $30,000 (2007) |
+| | $28,400 (2006) |
+| **Macedonia** | $9,100 (2008 est.) |
+| | $8,700 (2007 est.) |
+| | $8,200 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Madagascar** | $1,000 (2008 est.) |
+| | $1,000 (2007 est.) |
+| | $900 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Malawi** | $800 (2008 est.) |
+| | $800 (2007 est.) |
+| | $700 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Malaysia** | $15,200 (2008 est.) |
+| | $14,800 (2007 est.) |
+| | $14,200 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Maldives** | $4,500 (2008 est.) |
+| | $4,500 (2007 est.) |
+| | $4,400 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Mali** | $1,100 (2008 est.) |
+| | $1,100 (2007 est.) |
+| | $1,100 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Malta** | $24,600 (2008 est.) |
+| | $24,200 (2007 est.) |
+| | $23,300 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Marshall Islands** | $2,500 (2008 est.) |
+| | $2,900 (2005 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Mauritania** | $2,100 (2008 est.) |
+| | $2,000 (2007 est.) |
+| | $2,100 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Mauritius** | $12,100 (2008 est.) |
+| | $11,600 (2007 est.) |
+| | $11,100 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Mayotte** | $4,900 (2005 est.) |
+| **Mexico** | $14,300 (2008 est.) |
+| | $14,200 (2007 est.) |
+| | $13,900 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Micronesia, Federated States of** | $2,200 (2008 est.) |
+| | $2,300 (2005 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Moldova** | $2,500 (2008 est.) |
+| | $2,300 (2007 est.) |
+| | $2,200 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Monaco** | $30,000 (2006 est.) |
+| **Mongolia** | $3,200 (2008 est.) |
+| | $3,000 (2007 est.) |
+| | $2,700 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Montenegro** | $10,100 (2008 est.) |
+| | $9,300 (2007 est.) |
+| | $8,400 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Montserrat** | $3,400 (2002 est.) |
+| **Morocco** | $4,500 (2008 est.) |
+| | $4,200 (2007 est.) |
+| | $4,200 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Mozambique** | $900 (2008 est.) |
+| | $900 (2007 est.) |
+| | $800 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Namibia** | $6,400 (2008 est.) |
+| | $6,200 (2007 est.) |
+| | $6,000 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Nauru** | $5,000 (2005 est.) |
+| **Nepal** | $1,100 (2008 est.) |
+| | $1,100 (2007 est.) |
+| | $1,100 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Netherlands** | $40,500 (2008 est.) |
+| | $39,900 (2007 est.) |
+| | $38,700 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Netherlands Antilles** | $16,000 (2004 est.) |
+| **New Caledonia** | $15,000 (2003 est.) |
+| **New Zealand** | $27,900 (2008 est.) |
+| | $28,200 (2007 est.) |
+| | $27,600 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Nicaragua** | $2,900 (2008 est.) |
+| | $2,900 (2007 est.) |
+| | $2,800 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Niger** | $700 (2008 est.) |
+| | $700 (2007 est.) |
+| | $700 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Nigeria** | $2,300 (2008 est.) |
+| | $2,200 (2007 est.) |
+| | $2,100 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Niue** | $5,800 (2003 est.) |
+| **Northern Mariana Islands** | $12,500 (2000 est.) |
+| **Norway** | $59,500 (2008 est.) |
+| | $58,200 (2007 est.) |
+| | $55,100 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Oman** | $20,200 (2008 est.) |
+| | $19,600 (2007 est.) |
+| | $19,100 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Pakistan** | $2,500 (2008 est.) |
+| | $2,500 (2007 est.) |
+| | $2,400 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Palau** | $8,100 (2008 est.) |
+| | $7,600 (2005 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Panama** | $11,800 (2008 est.) |
+| | $10,900 (2007 est.) |
+| | $10,000 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Papua New Guinea** | $2,300 (2008 est.) |
+| | $2,200 (2007 est.) |
+| | $2,100 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Paraguay** | $4,200 (2008 est.) |
+| | $4,100 (2007 est.) |
+| | $3,900 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Peru** | $8,500 (2008 est.) |
+| | $7,800 (2007 est.) |
+| | $7,300 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Philippines** | $3,300 (2008 est.) |
+| | $3,300 (2007 est.) |
+| | $3,100 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Poland** | $17,400 (2008 est.) |
+| | $16,600 (2007 est.) |
+| | $15,500 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Portugal** | $22,200 (2008 est.) |
+| | $22,300 (2007 est.) |
+| | $22,000 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Puerto Rico** | $17,800 (2008 est.) |
+| | $18,300 (2007 est.) |
+| | $18,700 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Qatar** | $111,000 (2008 est.) |
+| | $99,100 (2007 est.) |
+| | $85,800 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Romania** | $12,200 (2008 est.) |
+| | $11,400 (2007 est.) |
+| | $10,700 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Russia** | $16,100 (2008 est.) |
+| | $15,200 (2007 est.) |
+| | $14,000 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Rwanda** | $900 (2008 est.) |
+| | $900 (2007 est.) |
+| | $800 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Saint Helena** | $2,500 (1998 est.) |
+| **Saint Kitts and Nevis** | $19,100 (2008 est.) |
+| | $18,800 (2007 est.) |
+| | $18,700 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Saint Lucia** | $11,100 (2008 est.) |
+| | $11,100 (2007 est.) |
+| | $11,000 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Saint Pierre and Miquelon** | $7,000 (2001 est.) |
+| **Saint Vincent and the Grenadines** | $10,200 (2008 est.) |
+| | $10,100 (2007 est.) |
+| | $9,400 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Samoa** | $4,700 (2008 est.) |
+| | $4,900 (2007 est.) |
+| | $4,700 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **San Marino** | $41,900 (2007) |
+| **Sao Tome and Principe** | $1,300 (2008 est.) |
+| | $1,300 (2007 est.) |
+| | $1,300 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Saudi Arabia** | $20,500 (2008 est.) |
+| | $20,100 (2007 est.) |
+| | $19,800 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Senegal** | $1,600 (2008 est.) |
+| | $1,600 (2007 est.) |
+| | $1,600 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Serbia** | $10,800 (2008 est.) |
+| | $10,200 (2007 est.) |
+| | $9,500 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Seychelles** | $21,000 (2008 est.) |
+| | $21,400 (2007 est.) |
+| | $19,800 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Sierra Leone** | $900 (2008 est.) |
+| | $800 (2007 est.) |
+| | $800 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Singapore** | $51,600 (2008 est.) |
+| | $51,700 (2007 est.) |
+| | $48,600 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Slovakia** | $22,000 (2008 est.) |
+| | $20,700 (2007 est.) |
+| | $18,700 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Slovenia** | $29,600 (2008 est.) |
+| | $28,600 (2007 est.) |
+| | $26,800 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Solomon Islands** | $2,700 (2008 est.) |
+| | $2,500 (2007 est.) |
+| | $2,400 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Somalia** | $600 (2008 est.) |
+| | $600 (2007 est.) |
+| | $600 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **South Africa** | $10,100 (2008 est.) |
+| | $9,900 (2007 est.) |
+| | $9,500 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Spain** | $34,600 (2008 est.) |
+| | $34,400 (2007 est.) |
+| | $33,200 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Sri Lanka** | $4,400 (2008 est.) |
+| | $4,200 (2007 est.) |
+| | $3,900 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Sudan** | $2,200 (2008 est.) |
+| | $2,100 (2007 est.) |
+| | $1,900 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Suriname** | $8,900 (2008 est.) |
+| | $8,500 (2007 est.) |
+| | $8,100 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Swaziland** | $4,400 (2008 est.) |
+| | $4,400 (2007 est.) |
+| | $4,300 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Sweden** | $38,200 (2008 est.) |
+| | $38,400 (2007 est.) |
+| | $37,400 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Switzerland** | $42,000 (2008 est.) |
+| | $41,400 (2007 est.) |
+| | $40,100 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Syria** | $4,600 (2008 est.) |
+| | $4,600 (2007 est.) |
+| | $4,600 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Taiwan** | $31,100 (2008 est.) |
+| | $31,200 (2007 est.) |
+| | $29,600 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Tajikistan** | $1,800 (2008 est.) |
+| | $1,700 (2007 est.) |
+| | $1,600 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Tanzania** | $1,400 (2008 est.) |
+| | $1,300 (2007 est.) |
+| | $1,200 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Thailand** | $8,400 (2008 est.) |
+| | $8,200 (2007 est.) |
+| | $7,900 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Timor-Leste** | $2,300 (2008 est.) |
+| | $2,100 (2007 est.) |
+| | $1,900 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Togo** | $900 (2008 est.) |
+| | $900 (2007 est.) |
+| | $900 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Tokelau** | $1,000 (1993 est.) |
+| **Tonga** | $4,600 (2008 est.) |
+| | $4,600 (2007 est.) |
+| | $4,800 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Trinidad and Tobago** | $23,600 (2008 est.) |
+| | $22,800 (2007 est.) |
+| | $21,600 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Tunisia** | $7,900 (2008 est.) |
+| | $7,600 (2007 est.) |
+| | $7,200 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Turkey** | $11,900 (2008 est.) |
+| | $12,000 (2007 est.) |
+| | $11,600 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Turkmenistan** | $6,500 (2008 est.) |
+| | $6,000 (2007 est.) |
+| | $5,400 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Turks and Caicos Islands** | $11,500 (2002 est.) |
+| **Tuvalu** | $1,600 (2002 est.) |
+| **Uganda** | $1,300 (2008 est.) |
+| | $1,200 (2007 est.) |
+| | $1,200 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Ukraine** | $7,400 (2008 est.) |
+| | $7,200 (2007 est.) |
+| | $6,600 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **United Arab Emirates** | $44,600 (2008 est.) |
+| | $43,200 (2007 est.) |
+| | $42,500 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **United Kingdom** | $36,700 (2008 est.) |
+| | $36,500 (2007 est.) |
+| | $35,700 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **United States** | $47,500 (2008 est.) |
+| | $47,700 (2007 est.) |
+| | $47,200 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Uruguay** | $12,400 (2008 est.) |
+| | $11,500 (2007 est.) |
+| | $10,700 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Uzbekistan** | $2,600 (2008 est.) |
+| | $2,400 (2007 est.) |
+| | $2,200 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Vanuatu** | $4,600 (2008 est.) |
+| | $4,400 (2007 est.) |
+| | $4,200 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Venezuela** | $13,500 (2008 est.) |
+| | $13,100 (2007 est.) |
+| | $12,300 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Vietnam** | $2,800 (2008 est.) |
+| | $2,600 (2007 est.) |
+| | $2,500 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Virgin Islands** | $14,500 (2004 est.) |
+| **Wallis and Futuna** | $3,800 (2004 est.) |
+| **West Bank** | $2,900 (2008 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Western Sahara** | $2,500 (2007 est.) |
+| **World** | $10,500 (2008 est.) |
+| | $10,300 (2007 est.) |
+| | $9,900 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Yemen** | $2,500 (2008 est.) |
+| | $2,500 (2007 est.) |
+| | $2,500 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Zambia** | $1,500 (2008 est.) |
+| | $1,400 (2007 est.) |
+| | $1,400 (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Zimbabwe** | $200 (2008 est.) |
+| | $200 (2007 est.) |
+| | $200 (2006 est.) |
+| | *note:* data are in 2008 US dollars |

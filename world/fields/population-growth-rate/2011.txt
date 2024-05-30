@@ -1,0 +1,244 @@
+CIA - The World Factbook -- Field Listing :: Population growth rate   
+
+The average annual percent change in the population, resulting from a surplus (or deficit) of births over deaths and the balance of migrants entering and leaving a country. The rate may be positive or negative. The growth rate is a factor in determining how great a burden would be imposed on a country by the changing needs of its people for infrastructure (e.g., schools, hospitals, housing, roads), resources (e.g., food, water, electricity), and jobs. Rapid population growth can be seen as threatening by neighboring countries.
+
+| Country | Population growth rate(%) |
+| --- | --- |
+| **Afghanistan** | 2.375% (2011 est.) |
+| **Albania** | 0.267% (2011 est.) |
+| **Algeria** | 1.173% (2011 est.) |
+| **American Samoa** | 1.211% (2011 est.) |
+| **Andorra** | 0.33% (2011 est.) |
+| **Angola** | 2.034% (2011 est.) |
+| **Anguilla** | 2.173% (2011 est.) |
+| **Antigua and Barbuda** | 1.289% (2011 est.) |
+| **Argentina** | 1.017% (2011 est.) |
+| **Armenia** | 0.063% (2011 est.) |
+| **Aruba** | 1.436% (2011 est.) |
+| **Australia** | 1.148% (2011 est.) |
+| **Austria** | 0.034% (2011 est.) |
+| **Azerbaijan** | 0.846% (2011 est.) |
+| **Bahamas, The** | 0.922% (2011 est.) |
+| **Bahrain** | 2.814% (2011 est.) |
+| **Bangladesh** | 1.566% (2011 est.) |
+| **Barbados** | 0.366% (2011 est.) |
+| **Belarus** | -0.363% (2011 est.) |
+| **Belgium** | 0.071% (2011 est.) |
+| **Belize** | 2.056% (2011 est.) |
+| **Benin** | 2.911% (2011 est.) |
+| **Bermuda** | 0.594% (2011 est.) |
+| **Bhutan** | 1.201% (2011 est.) |
+| **Bolivia** | 1.694% (2011 est.) |
+| **Bosnia and Herzegovina** | 0.008% (2011 est.) |
+| **Botswana** | 1.656% (2011 est.) |
+| **Brazil** | 1.134% (2011 est.) |
+| **British Virgin Islands** | 1.741% (2011 est.) |
+| **Brunei** | 1.712% (2011 est.) |
+| **Bulgaria** | -0.781% (2011 est.) |
+| **Burkina Faso** | 3.085% (2011 est.) |
+| **Burma** | 1.084% (2011 est.) |
+| **Burundi** | 3.462% (2011 est.) |
+| **Cambodia** | 1.698% (2011 est.) |
+| **Cameroon** | 2.121% (2011 est.) |
+| **Canada** | 0.794% (2011 est.) |
+| **Cape Verde** | 1.446% (2011 est.) |
+| **Cayman Islands** | 2.287% (2011 est.) |
+| **Central African Republic** | 2.146% (2011 est.) |
+| **Chad** | 2.009% (2011 est.) |
+| **Chile** | 0.836% (2011 est.) |
+| **China** | 0.493% (2011 est.) |
+| **Christmas Island** | 0% (2010 est.) |
+| **Cocos (Keeling) Islands** | 0% (2010 est.) |
+| **Colombia** | 1.156% (2011 est.) |
+| **Comoros** | 2.696% (2011 est.) |
+| **Congo, Democratic Republic of the** | 2.614% (2011 est.) |
+| **Congo, Republic of the** | 2.835% (2011 est.) |
+| **Cook Islands** | -3.2% (2011 est.) |
+| **Costa Rica** | 1.308% (2011 est.) |
+| **Cote d'Ivoire** | 2.078% (2011 est.) |
+| **Croatia** | -0.076% (2011 est.) |
+| **Cuba** | -0.104% (2011 est.) |
+| **Curacao** | NA |
+| **Cyprus** | 1.617% (2011 est.) |
+| **Czech Republic** | -0.12% (2011 est.) |
+| **Denmark** | 0.251% (2011 est.) |
+| **Djibouti** | 2.237% (2011 est.) |
+| **Dominica** | 0.214% (2011 est.) |
+| **Dominican Republic** | 1.331% (2011 est.) |
+| **Ecuador** | 1.443% (2011 est.) |
+| **Egypt** | 1.96% (2011 est.) |
+| **El Salvador** | 0.318% (2011 est.) |
+| **Equatorial Guinea** | 2.641% (2011 est.) |
+| **Eritrea** | 2.472% (2011 est.) |
+| **Estonia** | -0.641% (2011 est.) |
+| **Ethiopia** | 3.194% (2011 est.) |
+| **European Union** | 0.098 % (2010 est.) |
+| **Falkland Islands (Islas Malvinas)** | 0.011% (2009 est.) |
+| **Faroe Islands** | 0.428% (2011 est.) |
+| **Fiji** | 0.798% (2011 est.) |
+| **Finland** | 0.075% (2011 est.) |
+| **France** | 0.5% (2011 est.) |
+| **French Polynesia** | 1.331% (2011 est.) |
+| **Gabon** | 1.999% (2011 est.) |
+| **Gambia, The** | 2.396% (2011 est.) |
+| **Gaza Strip** | 3.201% (2011 est.) |
+| **Georgia** | -0.326% (2011 est.) |
+| **Germany** | -0.208% (2011 est.) |
+| **Ghana** | 1.822% (2011 est.) |
+| **Gibraltar** | 0.273% (2011 est.) |
+| **Greece** | 0.083% (2011 est.) |
+| **Greenland** | 0.05% (2011 est.) |
+| **Grenada** | 0.551% (2011 est.) |
+| **Guam** | 1.314% (2011 est.) |
+| **Guatemala** | 1.986% (2011 est.) |
+| **Guernsey** | 0.438% (2011 est.) |
+| **Guinea** | 2.645% (2011 est.) |
+| **Guinea-Bissau** | 1.988% (2011 est.) |
+| **Guyana** | -0.44% (2011 est.) |
+| **Haiti** | 0.787% |
+| | *note:* the preliminary 2011 numbers differ significantly from those of 2010, which were strongly influenced by the demographic effect of the January 2010 earthquake; the latest figures more closely correspond to those of 2009 (2011 est.) |
+| **Holy See (Vatican City)** | 0.004% (2011 est.) |
+| **Honduras** | 1.888% (2011 est.) |
+| **Hong Kong** | 0.448% (2011 est.) |
+| **Hungary** | -0.17% (2011 est.) |
+| **Iceland** | 0.687% (2011 est.) |
+| **India** | 1.344% (2011 est.) |
+| **Indonesia** | 1.069% (2011 est.) |
+| **Iran** | 1.248% (2011 est.) |
+| **Iraq** | 2.399% (2011 est.) |
+| **Ireland** | 1.061% (2011 est.) |
+| **Isle of Man** | 0.921% (2011 est.) |
+| **Israel** | 1.584% (2011 est.) |
+| **Italy** | 0.42% (2011 est.) |
+| **Jamaica** | 0.733% (2011 est.) |
+| **Japan** | -0.278% (2011 est.) |
+| **Jersey** | 0.841% (2011 est.) |
+| **Jordan** | 0.984% (2011 est.) |
+| **Kazakhstan** | 0.4% (2011 est.) |
+| **Kenya** | 2.462% (2011 est.) |
+| **Kiribati** | 1.249% (2011 est.) |
+| **Korea, North** | 0.538% (2011 est.) |
+| **Korea, South** | 0.23% (2011 est.) |
+| **Kuwait** | 1.986% |
+| | *note:* this rate reflects a return to pre-Gulf crisis immigration of expatriates (2011 est.) |
+| **Kyrgyzstan** | 1.427% (2011 est.) |
+| **Laos** | 1.684% (2011 est.) |
+| **Latvia** | -0.597% (2011 est.) |
+| **Lebanon** | 0.244% (2011 est.) |
+| **Lesotho** | 0.332% (2011 est.) |
+| **Liberia** | 2.663% (2011 est.) |
+| **Libya** | 2.064% (2011 est.) |
+| **Liechtenstein** | 0.653% (2011 est.) |
+| **Lithuania** | -0.276% (2011 est.) |
+| **Luxembourg** | 1.145% (2011 est.) |
+| **Macau** | 0.879% (2011 est.) |
+| **Macedonia** | 0.248% (2011 est.) |
+| **Madagascar** | 2.973% (2011 est.) |
+| **Malawi** | 2.763% (2011 est.) |
+| **Malaysia** | 1.576% (2011 est.) |
+| **Maldives** | -0.151% (2011 est.) |
+| **Mali** | 2.61% (2011 est.) |
+| **Malta** | 0.375% (2011 est.) |
+| **Marshall Islands** | 1.954% (2011 est.) |
+| **Mauritania** | 2.349% (2011 est.) |
+| **Mauritius** | 0.729% (2011 est.) |
+| **Mexico** | 1.102% (2011 est.) |
+| **Micronesia, Federated States of** | -0.313% (2011 est.) |
+| **Moldova** | -0.072% (2011 est.) |
+| **Monaco** | -0.124% (2011 est.) |
+| **Mongolia** | 1.489% (2011 est.) |
+| **Montenegro** | -0.705% (2011 est.) |
+| **Montserrat** | 0.447% (2011 est.) |
+| **Morocco** | 1.067% (2011 est.) |
+| **Mozambique** | 2.444% (2011 est.) |
+| **Namibia** | 0.873% (2011 est.) |
+| **Nauru** | 0.611% (2011 est.) |
+| **Nepal** | 1.596% (2011 est.) |
+| **Netherlands** | 0.371% (2011 est.) |
+| **New Caledonia** | 1.524% (2011 est.) |
+| **New Zealand** | 0.882% (2011 est.) |
+| **Nicaragua** | 1.088% (2011 est.) |
+| **Niger** | 3.643% (2011 est.) |
+| **Nigeria** | 1.935% (2011 est.) |
+| **Niue** | -0.032% (2011 est.) |
+| **Norfolk Island** | 0.006% (2011 est.) |
+| **Northern Mariana Islands** | -4.004% (2011 est.) |
+| **Norway** | 0.329% (2011 est.) |
+| **Oman** | 2.023% (2011 est.) |
+| **Pakistan** | 1.573% (2011 est.) |
+| **Palau** | 0.363% (2011 est.) |
+| **Panama** | 1.435% (2011 est.) |
+| **Papua New Guinea** | 1.985% (2011 est.) |
+| **Paraguay** | 1.284% (2011 est.) |
+| **Peru** | 1.029% (2011 est.) |
+| **Philippines** | 1.903% (2011 est.) |
+| **Pitcairn Islands** | 0% (2011 est.) |
+| **Poland** | -0.062% (2011 est.) |
+| **Portugal** | 0.212% (2011 est.) |
+| **Puerto Rico** | 0.254% (2011 est.) |
+| **Qatar** | 0.81% (2011 est.) |
+| **Romania** | -0.252% (2011 est.) |
+| **Russia** | -0.47% (2011 est.) |
+| **Rwanda** | 2.792% (2011 est.) |
+| **Saint Helena, Ascension, and Tristan da Cunha** | 0.377% (2011 est.) |
+| **Saint Kitts and Nevis** | 0.823% (2011 est.) |
+| **Saint Lucia** | 0.389% (2011 est.) |
+| **Saint Pierre and Miquelon** | -0.968% (2011 est.) |
+| **Saint Vincent and the Grenadines** | -0.327% (2011 est.) |
+| **Samoa** | 0.6% (2011 est.) |
+| **San Marino** | 1.043% (2011 est.) |
+| **Sao Tome and Principe** | 2.052% (2011 est.) |
+| **Saudi Arabia** | 1.536% (2011 est.) |
+| **Senegal** | 2.557% (2011 est.) |
+| **Serbia** | -0.467% (2011 est.) |
+| **Seychelles** | 0.945% (2011 est.) |
+| **Sierra Leone** | 2.249% (2011 est.) |
+| **Singapore** | 0.817% (2011 est.) |
+| **Sint Maarten** | NA |
+| **Slovakia** | 0.117% (2011 est.) |
+| **Slovenia** | -0.163% (2011 est.) |
+| **Solomon Islands** | 2.22% (2011 est.) |
+| **Somalia** | 1.603% (2011 est.) |
+| **South Africa** | -0.38% (2011 est.) |
+| **Spain** | 0.574% (2011 est.) |
+| **Sri Lanka** | 0.934% (2011 est.) |
+| **Sudan** | 2.484% (2011 est.) |
+| **Suriname** | 1.087% (2011 est.) |
+| **Svalbard** | -0.024% (2011 est.) |
+| **Swaziland** | 1.204% (2011 est.) |
+| **Sweden** | 0.163% (2011 est.) |
+| **Switzerland** | 0.21% (2011 est.) |
+| **Syria** | 0.913% (2011 est.) |
+| **Taiwan** | 0.193% (2011 est.) |
+| **Tajikistan** | 1.846% (2011 est.) |
+| **Tanzania** | 2.002% (2011 est.) |
+| **Thailand** | 0.566% (2011 est.) |
+| **Timor-Leste** | 1.981% (2011 est.) |
+| **Togo** | 2.762% (2011 est.) |
+| **Tokelau** | -0.011% (2011 est.) |
+| **Tonga** | 0.243% (2011 est.) |
+| **Trinidad and Tobago** | -0.087% (2011 est.) |
+| **Tunisia** | 0.978% (2011 est.) |
+| **Turkey** | 1.235% (2011 est.) |
+| **Turkmenistan** | 1.138% (2011 est.) |
+| **Turks and Caicos Islands** | 3.485% (2011 est.) |
+| **Tuvalu** | 0.702% (2011 est.) |
+| **Uganda** | 3.576% (2011 est.) |
+| **Ukraine** | -0.622% (2011 est.) |
+| **United Arab Emirates** | 3.282% (2011 est.) |
+| **United Kingdom** | 0.557% (2011 est.) |
+| **United States** | 0.963% (2011 est.) |
+| **Uruguay** | 0.231% (2011 est.) |
+| **Uzbekistan** | 0.94% (2011 est.) |
+| **Vanuatu** | 1.343% (2011 est.) |
+| **Venezuela** | 1.493% (2011 est.) |
+| **Vietnam** | 1.077% (2011 est.) |
+| **Virgin Islands** | -0.08% (2011 est.) |
+| **Wallis and Futuna** | 0.357% (2011 est.) |
+| **West Bank** | 2.097% (2011 est.) |
+| **Western Sahara** | 3.097% (2011 est.) |
+| **World** | 1.092% |
+| | *note:* this rate results in about 145 net additions to the worldwide population every minute or 2.4 every second (2011 est.) |
+| **Yemen** | 2.647% (2011 est.) |
+| **Zambia** | 3.062% (2011 est.) |
+| **Zimbabwe** | 4.31% (2011 est.) |

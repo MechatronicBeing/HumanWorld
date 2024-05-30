@@ -1,0 +1,468 @@
+Field Listing :: Electricity access :: The World Factbook
+
+This entry provides information on access to electricity. Electrification data – collected from industry reports, national surveys, and international sources – consists of four subfields. Population without electricity provides an estimate of the number of citizens that do not have access to electricity. Electrification – total population is the percent of a countryâ€™s total population with access to electricity, electrification – urban areas is the percent of a countryâ€™s urban population with access to electricity, while electrification – rural areas is the percent of a countryâ€™s rural population with access to electricity. Due to differences in definitions and methodology from different sources, data quality may vary from country to country.
+
+| Country | Electricity access |
+| --- | --- |
+| **Afghanistan** | *electrification - total population:* 99% (2018) |
+| | *electrification - urban areas:* 100% (2018) |
+| | *electrification - rural areas:* 98% (2018) |
+| **Albania** | *electrification - total population:* 100% (2020) |
+| **Algeria** | *electrification - total population:* 99.4% (2019) |
+| | *electrification - urban areas:* 99.6% (2019) |
+| | *electrification - rural areas:* 97% (2019) |
+| **American Samoa** | |
+| **Andorra** | *electrification - total population:* 100% (2020) |
+| **Angola** | *population without electricity:* 18 million (2019) |
+| | *electrification - total population:* 43% (2019) |
+| | *electrification - urban areas:* 61% (2019) |
+| | *electrification - rural areas:* 6% (2019) |
+| **Antigua and Barbuda** | *electrification - total population:* 100% (2020) |
+| **Argentina** | *electrification - total population:* 99% (2020) |
+| | *electrification - urban areas:* 99% (2020) |
+| | *electrification - rural areas:* 85% (2020) |
+| **Armenia** | *electrification - total population:* 100% (2020) |
+| **Aruba** | *electrification - total population:* 100% (2020) |
+| **Australia** | *electrification - total population:* 100% (2020) |
+| **Austria** | *electrification - total population:* 100% (2020) |
+| **Azerbaijan** | *electrification - total population:* 100% (2020) |
+| **Bahamas, The** | *electrification - total population:* 100% (2020) |
+| **Bahrain** | *electrification - total population:* 100% (2020) |
+| **Bangladesh** | *population without electricity:* 28 million (2019) |
+| | *electrification - total population:* 83% (2019) |
+| | *electrification - urban areas:* 93% (2019) |
+| | *electrification - rural areas:* 77% (2019) |
+| **Barbados** | *electrification - total population:* 100% (2020) |
+| **Belarus** | *electrification - total population:* 100% (2020) |
+| **Belgium** | *electrification - total population:* 100% (2020) |
+| **Belize** | *electrification - total population:* 99.5% (2018) |
+| | *electrification - urban areas:* 98.2% (2018) |
+| | *electrification - rural areas:* 100% (2018) |
+| **Benin** | *population without electricity:* 8 million (2019) |
+| | *electrification - total population:* 33% (2019) |
+| | *electrification - urban areas:* 58% (2019) |
+| | *electrification - rural areas:* 9% (2019) |
+| **Bermuda** | *electrification - total population:* 100% (2020) |
+| **Bhutan** | *electrification - total population:* 100% (2020) |
+| **Bolivia** | *electrification - total population:* 93% (2019) |
+| | *electrification - urban areas:* 99.3% (2019) |
+| | *electrification - rural areas:* 79% (2019) |
+| **Bosnia and Herzegovina** | *electrification - total population:* 100% (2020) |
+| **Botswana** | *electrification - total population:* 59% (2019) |
+| | *electrification - urban areas:* 71% (2019) |
+| | *electrification - rural areas:* 29% (2019) |
+| **Brazil** | *electrification - total population:* 100% (2020) |
+| **British Virgin Islands** | *electrification - total population:* 100% (2020) |
+| **Brunei** | *electrification - total population:* 100% (2020) |
+| **Bulgaria** | *electrification - total population:* 100% (2020) |
+| **Burkina Faso** | *population without electricity:* 16 million (2019) |
+| | *electrification - total population:* 22% (2019) |
+| | *electrification - urban areas:* 69% (2019) |
+| | *electrification - rural areas:* 2% (2019) |
+| **Burma** | *population without electricity:* 27 million (2019) |
+| | *electrification - total population:* 51% (2019) |
+| | *electrification - urban areas:* 76% (2019) |
+| | *electrification - rural areas:* 39% (2019) |
+| **Burundi** | *population without electricity:* 10 million (2019) |
+| | *electrification - total population:* 11% (2019) |
+| | *electrification - urban areas:* 66% (2019) |
+| | *electrification - rural areas:* 2% (2019) |
+| **Cabo Verde** | *electrification - total population:* 96% (2019) |
+| | *electrification - urban areas:* 99% (2019) |
+| | *electrification - rural areas:* 89% (2019) |
+| **Cambodia** | *population without electricity:* 4 million (2019) |
+| | *electrification - total population:* 75% (2019) |
+| | *electrification - urban areas:* 100% (2019) |
+| | *electrification - rural areas:* 67% (2019) |
+| **Cameroon** | *population without electricity:* 8 million (2019) |
+| | *electrification - total population:* 70% (2019) |
+| | *electrification - urban areas:* 98% (2019) |
+| | *electrification - rural areas:* 32% (2019) |
+| **Canada** | *electrification - total population:* 100% (2020) |
+| **Cayman Islands** | *electrification - total population:* 100% (2020) |
+| **Central African Republic** | *population without electricity:* 5 million (2019) |
+| | *electrification - total population:* 3% (2019) |
+| | *electrification - urban areas:* 7% (2019) |
+| | *electrification - rural areas:* 0.4% (2019) |
+| **Chad** | *population without electricity:* 15 million (2019) |
+| | *electrification - total population:* 9% (2019) |
+| | *electrification - urban areas:* 32% (2019) |
+| | *electrification - rural areas:* 1% (2019) |
+| **Chile** | *electrification - total population:* 100% (2020) |
+| **China** | *electrification - total population:* 100% (2020) |
+| **Colombia** | *population without electricity:* 2 million (2019) |
+| | *electrification - total population:* 97% (2019) |
+| | *electrification - urban areas:* 100% (2019) |
+| | *electrification - rural areas:* 86% (2019) |
+| **Comoros** | *electrification - total population:* 70% (2019) |
+| | *electrification - urban areas:* 89% (2019) |
+| | *electrification - rural areas:* 62% (2019) |
+| **Congo, Democratic Republic of the** | *population without electricity:* 79 million (2019) |
+| | *electrification - total population:* 9% (2019) |
+| | *electrification - urban areas:* 19% (2019) |
+| | *electrification - rural areas:* 0.4% (2019) |
+| **Congo, Republic of the** | *population without electricity:* 2 million (2019) |
+| | *electrification - total population:* 72% (2019) |
+| | *electrification - urban areas:* 89% (2019) |
+| | *electrification - rural areas:* 36% (2019) |
+| **Costa Rica** | *electrification - total population:* 100% (2020) |
+| **Cote d'Ivoire** | *population without electricity:* 6 million (2019) |
+| | *electrification - total population:* 76% (2019) |
+| | *electrification - urban areas:* 99% (2019) |
+| | *electrification - rural areas:* 51% (2019) |
+| **Croatia** | *electrification - total population:* 100% (2020) |
+| **Cuba** | *electrification - total population:* 100% (2020) |
+| **Curacao** | *electrification - total population:* 100% (2020) |
+| **Cyprus** | *electrification - total population:* 100% (2020) |
+| **Czechia** | *electrification - total population:* 100% (2020) |
+| **Denmark** | *electrification - total population:* 100% (2020) |
+| **Djibouti** | *population without electricity:* 400,000 (2019) |
+| | *electrification - total population:* 42% (2019) |
+| | *electrification - urban areas:* 54% (2019) |
+| | *electrification - rural areas:* 1% (2019) |
+| **Dominica** | *electrification - total population:* 100% (2020) |
+| **Dominican Republic** | *electrification - total population:* 100% (2020) |
+| **Ecuador** | *electrification - total population:* 97% (2019) |
+| | *electrification - urban areas:* 100% (2019) |
+| | *electrification - rural areas:* 93% (2019) |
+| **Egypt** | *electrification - total population:* 100% (2020) |
+| **El Salvador** | *electrification - total population:* 97% (2019) |
+| | *electrification - urban areas:* 99% (2019) |
+| | *electrification - rural areas:* 93% (2019) |
+| **Equatorial Guinea** | *electrification - total population:* 67% (2019) |
+| | *electrification - urban areas:* 75% (2019) |
+| | *electrification - rural areas:* 45% (2019) |
+| **Eritrea** | *population without electricity:* 3 million (2019) |
+| | *electrification - total population:* 47% (2019) |
+| | *electrification - urban areas:* 95% (2019) |
+| | *electrification - rural areas:* 13% (2019) |
+| **Estonia** | *electrification - total population:* 100% (2020) |
+| **Eswatini** | *electrification - total population:* 90% (2019) |
+| | *electrification - urban areas:* 98% (2019) |
+| | *electrification - rural areas:* 87% (2019) |
+| **Ethiopia** | *population without electricity:* 60 million (2019) |
+| | *electrification - total population:* 47% (2019) |
+| | *electrification - urban areas:* 96% (2019) |
+| | *electrification - rural areas:* 34% (2019) |
+| **Faroe Islands** | *electrification - total population:* 100% (2020) |
+| **Fiji** | *electrification - total population:* 99.6% (2018) |
+| | *electrification - urban areas:* 100% (2018) |
+| | *electrification - rural areas:* 99.2% (2018) |
+| **Finland** | *electrification - total population:* 100% (2020) |
+| **France** | *electrification - total population:* 100% (2020) |
+| **French Polynesia** | *electrification - total population:* 100% (2020) |
+| **Gabon** | *electrification - total population:* 92% (2019) |
+| | *electrification - urban areas:* 99% (2019) |
+| | *electrification - rural areas:* 39% (2019) |
+| **Gambia, The** | *population without electricity:* 1 million (2019) |
+| | *electrification - total population:* 49% (2019) |
+| | *electrification - urban areas:* 69% (2019) |
+| | *electrification - rural areas:* 16% (2019) |
+| **Gaza Strip** | *electrification - total population:* 100% (2018) |
+| | *note:* data for Gaza Strip and West Bank combined |
+| **Georgia** | *electrification - total population:* 100% (2020) |
+| **Germany** | *electrification - total population:* 100% (2020) |
+| **Ghana** | *population without electricity:* 5 million (2019) |
+| | *electrification - total population:* 85% (2019) |
+| | *electrification - urban areas:* 93% (2019) |
+| | *electrification - rural areas:* 75% (2019) |
+| **Gibraltar** | *electrification - total population:* 100% (2020) |
+| **Greece** | *electrification - total population:* 100% (2020) |
+| **Greenland** | *electrification - total population:* 100% (2020) |
+| **Grenada** | *electrification - total population:* 95.3% (2018) |
+| **Guam** | *electrification - total population:* 100% (2020) |
+| **Guatemala** | *population without electricity:* 1 million (2019) |
+| | *electrification - total population:* 92% (2019) |
+| | *electrification - urban areas:* 99% (2019) |
+| | *electrification - rural areas:* 85% (2019) |
+| **Guernsey** | *electrification - total population:* 100% (2020) |
+| **Guinea** | *population without electricity:* 7 million (2019) |
+| | *electrification - total population:* 46% (2019) |
+| | *electrification - urban areas:* 84% (2019) |
+| | *electrification - rural areas:* 24% (2019) |
+| **Guinea-Bissau** | *population without electricity:* 1 million (2019) |
+| | *electrification - total population:* 28% (2019) |
+| | *electrification - urban areas:* 56% (2019) |
+| | *electrification - rural areas:* 7% (2019) |
+| **Guyana** | *electrification - total population:* 91.8% (2018) |
+| | *electrification - urban areas:* 96.9% (2018) |
+| | *electrification - rural areas:* 90% (2018) |
+| **Haiti** | *population without electricity:* 7 million (2019) |
+| | *electrification - total population:* 39% (2019) |
+| | *electrification - urban areas:* 60% (2019) |
+| | *electrification - rural areas:* 12% (2019) |
+| **Holy See (Vatican City)** | *electrification - total population:* 100% (2020) |
+| **Honduras** | *population without electricity:* 2 million (2019) |
+| | *electrification - total population:* 81% (2019) |
+| | *electrification - urban areas:* 91% (2019) |
+| | *electrification - rural areas:* 68% (2019) |
+| **Hong Kong** | *electrification - total population:* 100% (2020) |
+| **Hungary** | *electrification - total population:* 100% (2020) |
+| **Iceland** | *electrification - total population:* 100% (2020) |
+| **India** | *population without electricity:* 6 million (2019) |
+| | *electrification - total population:* 99% (2019) |
+| | *electrification - urban areas:* 99% (2019) |
+| | *electrification - rural areas:* 99% (2019) |
+| **Indonesia** | *population without electricity:* 2 million (2019) |
+| | *electrification - total population:* 99% (2019) |
+| | *electrification - urban areas:* 100% (2019) |
+| | *electrification - rural areas:* 99% (2019) |
+| **Iran** | *electrification - total population:* 100% (2020) |
+| **Iraq** | *electrification - total population:* 100% (2020) |
+| **Ireland** | *electrification - total population:* 100% (2020) |
+| **Isle of Man** | *electrification - total population:* 100% (2020) |
+| **Israel** | *electrification - total population:* 100% (2020) |
+| **Italy** | *electrification - total population:* 100% (2020) |
+| **Jamaica** | *electrification - total population:* 99% (2019) |
+| | *electrification - urban areas:* 100% (2019) |
+| | *electrification - rural areas:* 97% (2019) |
+| **Japan** | *electrification - total population:* 100% (2020) |
+| **Jersey** | *electrification - total population:* 100% (2020) |
+| **Jordan** | *electrification - total population:* 100% (2020) |
+| **Kazakhstan** | *electrification - total population:* 100% (2020) |
+| **Kenya** | *population without electricity:* 8 million (2019) |
+| | *electrification - total population:* 85% (2019) |
+| | *electrification - urban areas:* 99% (2019) |
+| | *electrification - rural areas:* 79% (2019) |
+| **Kiribati** | *electrification - total population:* 100% (2020) |
+| **Korea, North** | *population without electricity:* 19 million (2019) |
+| | *electrification - total population:* 26% (2019) |
+| | *electrification - urban areas:* 36% (2019) |
+| | *electrification - rural areas:* 11% (2019) |
+| **Korea, South** | *electrification - total population:* 100% (2020) |
+| **Kosovo** | *electrification - total population:* 100% (2020) |
+| **Kuwait** | *electrification - total population:* 100% (2020) |
+| **Kyrgyzstan** | *electrification - total population:* 100% (2020) |
+| **Laos** | *electrification - total population:* 95% (2019) |
+| | *electrification - urban areas:* 98% (2019) |
+| | *electrification - rural areas:* 93% (2019) |
+| **Latvia** | *electrification - total population:* 100% (2020) |
+| **Lebanon** | *electrification - total population:* 100% (2020) |
+| **Lesotho** | *population without electricity:* 1 million (2019) |
+| | *electrification - total population:* 36% (2019) |
+| | *electrification - urban areas:* 63% (2019) |
+| | *electrification - rural areas:* 26% (2019) |
+| **Liberia** | *population without electricity:* 4 million (2019) |
+| | *electrification - total population:* 12% (2019) |
+| | *electrification - urban areas:* 18% (2019) |
+| | *electrification - rural areas:* 6% (2019) |
+| **Libya** | *electrification - total population:* 100% (2019) |
+| **Liechtenstein** | *electrification - total population:* 100% (2020) |
+| **Lithuania** | *electrification - total population:* 100% (2020) |
+| **Luxembourg** | *electrification - total population:* 100% (2020) |
+| **Macau** | *electrification - total population:* 100% (2020) |
+| **Madagascar** | *population without electricity:* 17 million (2019) |
+| | *electrification - total population:* 39% (2019) |
+| | *electrification - urban areas:* 64% (2019) |
+| | *electrification - rural areas:* 23% (2019) |
+| **Malawi** | *population without electricity:* 16 million (2019) |
+| | *electrification - total population:* 13% (2019) |
+| | *electrification - urban areas:* 55% (2019) |
+| | *electrification - rural areas:* 5% (2019) |
+| **Malaysia** | *electrification - total population:* 100% (2020) |
+| **Maldives** | *electrification - total population:* 100% (2020) |
+| **Mali** | *population without electricity:* 10 million (2019) |
+| | *electrification - total population:* 50% (2019) |
+| | *electrification - urban areas:* 78% (2019) |
+| | *electrification - rural areas:* 28% (2019) |
+| **Malta** | *electrification - total population:* 100% (2020) |
+| **Marshall Islands** | *electrification - total population:* 96.3% (2018) |
+| | *electrification - urban areas:* 95.7% (2018) |
+| | *electrification - rural areas:* 98.4% (2018) |
+| **Mauritania** | *population without electricity:* 3 million (2019) |
+| | *electrification - total population:* 32% (2019) |
+| | *electrification - urban areas:* 56% (2019) |
+| | *electrification - rural areas:* 4% (2019) |
+| **Mauritius** | *electrification - total population:* 100% (2020) |
+| **Mexico** | *electrification - total population:* 100% (2020) |
+| **Micronesia, Federated States of** | *electrification - total population:* 82% (2018) |
+| | *electrification - urban areas:* 93.5% (2018) |
+| | *electrification - rural areas:* 78.7% (2018) |
+| **Moldova** | *electrification - total population:* 100% (2020) |
+| **Monaco** | *electrification - total population:* 100% (2020) |
+| **Mongolia** | *electrification - total population:* 91% (2019) |
+| | *electrification - urban areas:* 99% (2019) |
+| | *electrification - rural areas:* 73% (2019) |
+| **Montenegro** | *electrification - total population:* 100% (2020) |
+| **Morocco** | *electrification - total population:* 100% (2020) |
+| **Mozambique** | *population without electricity:* 20 million (2019) |
+| | *electrification - total population:* 35% (2019) |
+| | *electrification - urban areas:* 57% (2019) |
+| | *electrification - rural areas:* 22% (2019) |
+| **Namibia** | *population without electricity:* 1 million (2019) |
+| | *electrification - total population:* 57% (2019) |
+| | *electrification - urban areas:* 78% (2019) |
+| | *electrification - rural areas:* 36% (2019) |
+| **Nauru** | *electrification - total population:* 99.8% (2018) |
+| | *electrification - urban areas:* 99.4% (2018) |
+| | *electrification - rural areas:* 98.7% (2018) |
+| **Nepal** | *population without electricity:* 2 million (2019) |
+| | *electrification - total population:* 93% (2019) |
+| | *electrification - urban areas:* 94% (2019) |
+| | *electrification - rural areas:* 93% (2019) |
+| **Netherlands** | *electrification - total population:* 100% (2020) |
+| **New Caledonia** | *electrification - total population:* 100% (2020) |
+| **New Zealand** | *electrification - total population:* 100% (2020) |
+| **Nicaragua** | *electrification - total population:* 97% (2019) |
+| | *electrification - urban areas:* 99.2% (2019) |
+| | *electrification - rural areas:* 92% (2019) |
+| **Niger** | *population without electricity:* 20 million (2019) |
+| | *electrification - total population:* 14% (2019) |
+| | *electrification - urban areas:* 71% (2019) |
+| | *electrification - rural areas:* 2% (2019) |
+| **Nigeria** | *population without electricity:* 77 million (2019) |
+| | *electrification - total population:* 62% (2019) |
+| | *electrification - urban areas:* 91% (2019) |
+| | *electrification - rural areas:* 30% (2019) |
+| **North Macedonia** | *electrification - total population:* 100% (2020) |
+| **Northern Mariana Islands** | *electrification - total population:* 100% (2020) |
+| **Norway** | *electrification - total population:* 100% (2020) |
+| **Oman** | *electrification - total population:* 99% (2019) |
+| | *electrification - urban areas:* 100% (2019) |
+| | *electrification - rural areas:* 92% (2019) |
+| **Pakistan** | *population without electricity:* 45 million (2019) |
+| | *electrification - total population:* 79% (2019) |
+| | *electrification - urban areas:* 91% (2019) |
+| | *electrification - rural areas:* 72% (2019) |
+| **Palau** | *electrification - total population:* 100% (2018) |
+| **Panama** | *electrification - total population:* 92% (2019) |
+| | *electrification - urban areas:* 99.4% (2019) |
+| | *electrification - rural areas:* 77% (2019) |
+| **Papua New Guinea** | *electrification - total population:* 58.9% (2018) |
+| | *electrification - urban areas:* 82% (2018) |
+| | *electrification - rural areas:* 55.4% (2018) |
+| **Paraguay** | *electrification - total population:* 100% (2020) |
+| **Peru** | *electrification - total population:* 97% (2019) |
+| | *electrification - urban areas:* 99% (2019) |
+| | *electrification - rural areas:* 86% (2019) |
+| **Philippines** | *population without electricity:* 4 million (2019) |
+| | *electrification - total population:* 96% (2019) |
+| | *electrification - urban areas:* 100% (2019) |
+| | *electrification - rural areas:* 93% (2019) |
+| **Poland** | *electrification - total population:* 100% (2020) |
+| **Portugal** | *electrification - total population:* 100% (2020) |
+| **Puerto Rico** | *electrification - total population:* 100% (2020) |
+| **Qatar** | *electrification - total population:* 100% (2020) |
+| **Romania** | *electrification - total population:* 100% (2020) |
+| **Russia** | *electrification - total population:* 100% (2020) |
+| **Rwanda** | *population without electricity:* 6 million (2019) |
+| | *electrification - total population:* 53% (2019) |
+| | *electrification - urban areas:* 76% (2019) |
+| | *electrification - rural areas:* 48% (2019) |
+| **Saint Barthelemy** | *electrification - total population:* 100% (2020) |
+| **Saint Kitts and Nevis** | *electrification - total population:* 100% (2020) |
+| **Saint Lucia** | *electrification - total population:* 99.5% (2018) |
+| | *electrification - urban areas:* 97.5% (2018) |
+| | *electrification - rural areas:* 99.9% (2018) |
+| **Saint Martin** | *electrification - total population:* 100% (2020) |
+| **Saint Vincent and the Grenadines** | *electrification - total population:* 100% (2020) |
+| **Samoa** | *electrification - total population:* 100% (2020) |
+| **San Marino** | *electrification - total population:* 100% (2020) |
+| **Sao Tome and Principe** | *electrification - total population:* 71% (2019) |
+| | *electrification - urban areas:* 87% (2019) |
+| | *electrification - rural areas:* 25% (2019) |
+| **Saudi Arabia** | *electrification - total population:* 100% (2020) |
+| **Senegal** | *population without electricity:* 5 million (2019) |
+| | *electrification - total population:* 71% (2019) |
+| | *electrification - urban areas:* 94% (2019) |
+| | *electrification - rural areas:* 50% (2019) |
+| **Serbia** | *electrification - total population:* 100% (2020) |
+| **Seychelles** | *electrification - total population:* 100% (2020) |
+| **Sierra Leone** | *population without electricity:* 6 million (2019) |
+| | *electrification - total population:* 26% (2019) |
+| | *electrification - urban areas:* 52% (2019) |
+| | *electrification - rural areas:* 6% (2019) |
+| **Singapore** | *electrification - total population:* 100% (2020) |
+| **Sint Maarten** | *electrification - total population:* 100% (2020) |
+| **Slovakia** | *electrification - total population:* 100% (2020) |
+| **Slovenia** | *electrification - total population:* 100% (2020) |
+| **Solomon Islands** | *electrification - total population:* 66.7% (2018) |
+| | *electrification - urban areas:* 76.7% (2018) |
+| | *electrification - rural areas:* 63.5% (2018) |
+| **Somalia** | *population without electricity:* 13 million (2019) |
+| | *electrification - total population:* 18% (2019) |
+| | *electrification - urban areas:* 34% (2019) |
+| | *electrification - rural areas:* 4% (2019) |
+| **South Africa** | *population without electricity:* 3 million (2019) |
+| | *electrification - total population:* 94% (2019) |
+| | *electrification - urban areas:* 95% (2019) |
+| | *electrification - rural areas:* 92% (2019) |
+| **South Sudan** | *population without electricity:* 11 million (2019) |
+| | *electrification - total population:* 28.2% (2018) |
+| | *electrification - urban areas:* 46.8% (2018) |
+| | *electrification - rural areas:* 23.6% (2018) |
+| **Spain** | *electrification - total population:* 100% (2020) |
+| **Sri Lanka** | *electrification - total population:* 100% (2019) |
+| **Sudan** | *population without electricity:* 23 million (2019) |
+| | *electrification - total population:* 47% (2019) |
+| | *electrification - urban areas:* 71% (2019) |
+| | *electrification - rural areas:* 35% (2019) |
+| **Suriname** | *electrification - total population:* 97.4% (2018) |
+| | *electrification - urban areas:* 99% (2018) |
+| | *electrification - rural areas:* 94.3% (2018) |
+| **Sweden** | *electrification - total population:* 100% (2020) |
+| **Switzerland** | *electrification - total population:* 100% (2020) |
+| **Syria** | *population without electricity:* 1 million (2019) |
+| | *electrification - total population:* 92% (2019) |
+| | *electrification - urban areas:* 100% (2019) |
+| | *electrification - rural areas:* 84% (2019) |
+| **Tajikistan** | *electrification - total population:* 100% (2020) |
+| **Tanzania** | *population without electricity:* 35 million (2019) |
+| | *electrification - total population:* 40% (2019) |
+| | *electrification - urban areas:* 71% (2019) |
+| | *electrification - rural areas:* 23% (2019) |
+| **Thailand** | *electrification - total population:* 100% (2020) |
+| **Timor-Leste** | *electrification - total population:* 85.6% (2018) |
+| | *electrification - urban areas:* 100% (2018) |
+| | *electrification - rural areas:* 79.2% (2018) |
+| **Togo** | *population without electricity:* 5 million (2019) |
+| | *electrification - total population:* 43% (2019) |
+| | *electrification - urban areas:* 77% (2019) |
+| | *electrification - rural areas:* 19% (2019) |
+| **Tonga** | *electrification - total population:* 98.9% (2018) |
+| | *electrification - urban areas:* 98.9% (2018) |
+| | *electrification - rural areas:* 98.9% (2018) |
+| **Trinidad and Tobago** | *electrification - total population:* 100% (2020) |
+| **Tunisia** | *electrification - total population:* 100% (2020) |
+| **Turkey** | *electrification - total population:* 100% (2020) |
+| **Turkmenistan** | *electrification - total population:* 100% (2020) |
+| **Turks and Caicos Islands** | *electrification - total population:* 100% (2020) |
+| **Tuvalu** | *electrification - total population:* 100% (2020) |
+| **Uganda** | *population without electricity:* 32 million (2019) |
+| | *electrification - total population:* 29% (2019) |
+| | *electrification - urban areas:* 66% (2019) |
+| | *electrification - rural areas:* 17% (2019) |
+| **Ukraine** | *electrification - total population:* 100% (2020) |
+| **United Arab Emirates** | *electrification - total population:* 100% (2020) |
+| **United Kingdom** | *electrification - total population:* 100% (2020) |
+| **United States** | *electrification - total population:* 100% (2020) |
+| **Uruguay** | *electrification - total population:* 100% (2020) |
+| **Uzbekistan** | *electrification - total population:* 100% (2020) |
+| **Vanuatu** | *electrification - total population:* 61.8% (2018) |
+| | *electrification - urban areas:* 93.7% (2018) |
+| | *electrification - rural areas:* 51.1% (2018) |
+| **Venezuela** | *electrification - total population:* 99.6% (2019) |
+| | *electrification - urban areas:* 100% (2019) |
+| | *electrification - rural areas:* 99% (2019) |
+| **Vietnam** | *electrification - total population:* 100% (2019) |
+| **Virgin Islands** | *electrification - total population:* 100% (2020) |
+| **Wake Island** | *electrification - total population:* 100% (2020) |
+| **West Bank** | *electrification - total population:* 100% (2020) |
+| | *note:* data for West Bank and Gaza Strip combined |
+| **World** | *population without electricity:* 771 million (2019) |
+| | *electrification - total population:* 90% (2019) |
+| | *electrification - urban areas:* 96% (2019) |
+| | *electrification - rural areas:* 85% (2019) |
+| **Yemen** | *population without electricity:* 16 million (2019) |
+| | *electrification - total population:* 47% (2019) |
+| | *electrification - urban areas:* 72% (2019) |
+| | *electrification - rural areas:* 31% (2019) |
+| **Zambia** | *population without electricity:* 11 million (2019) |
+| | *electrification - total population:* 37% (2019) |
+| | *electrification - urban areas:* 76% (2019) |
+| | *electrification - rural areas:* 6% (2019) |
+| **Zimbabwe** | *population without electricity:* 7 million (2019) |
+| | *electrification - total population:* 53% (2019) |
+| | *electrification - urban areas:* 89% (2019) |
+| | *electrification - rural areas:* 36% (2019) |
+

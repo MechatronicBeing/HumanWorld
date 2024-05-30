@@ -1,0 +1,812 @@
+Field Listing :: Dependency ratios :: The World Factbook
+
+Dependency ratios are a measure of the age structure of a population. They relate the number of individuals that are likely to be economically "dependent" on the support of others. Dependency ratios contrast the ratio of youths (ages 0-14) and the elderly (ages 65+) to the number of those in the working-age group (ages 15-64). Changes in the dependency ratio provide an indication of potential social support requirements resulting from changes in population age structures. As fertility levels decline, the dependency ratio initially falls because the proportion of youths decreases while the proportion of the population of working age increases. As fertility levels continue to decline, dependency ratios eventually increase because the proportion of the population of working age starts to decline and the proportion of elderly persons continues to increase.
+total dependency ratio - The total dependency ratio is the ratio of combined youth population (ages 0-14) and elderly population (ages 65+) per 100 people of working age (ages 15-64). A high total dependency ratio indicates that the working-age population and the overall economy face a greater burden to support and provide social services for youth and elderly persons, who are often economically dependent.
+youth dependency ratio - The youth dependency ratio is the ratio of the youth population (ages 0-14) per 100 people of working age (ages 15-64). A high youth dependency ratio indicates that a greater investment needs to be made in schooling and other services for children.
+elderly dependency ratio - The elderly dependency ratio is the ratio of the elderly population (ages 65+) per 100 people of working age (ages 15-64). Increases in the elderly dependency ratio put added pressure on governments to fund pensions and healthcare.
+potential support ratio - The potential support ratio is the number of working-age people (ages 15-64) per one elderly person (ages 65+). As a population ages, the potential support ratio tends to fall, meaning there are fewer potential workers to support the elderly.
+
+| Country | Dependency ratios |
+| --- | --- |
+| **Afghanistan** | *total dependency ratio:* 88.8 |
+| | *youth dependency ratio:* 75.3 |
+| | *elderly dependency ratio:* 4.8 |
+| | *potential support ratio:* 21 (2020 est.) |
+| **Albania** | *total dependency ratio:* 46.9 |
+| | *youth dependency ratio:* 25.3 |
+| | *elderly dependency ratio:* 21.6 |
+| | *potential support ratio:* 4.6 (2020 est.) |
+| **Algeria** | *total dependency ratio:* 60.1 |
+| | *youth dependency ratio:* 49.3 |
+| | *elderly dependency ratio:* 10.8 |
+| | *potential support ratio:* 9.3 (2020 est.) |
+| **Angola** | *total dependency ratio:* 94.5 |
+| | *youth dependency ratio:* 90.2 |
+| | *elderly dependency ratio:* 4.3 |
+| | *potential support ratio:* 23.5 (2020 est.) |
+| **Antigua and Barbuda** | *total dependency ratio:* 45.3 |
+| | *youth dependency ratio:* 31.8 |
+| | *elderly dependency ratio:* 13.6 |
+| | *potential support ratio:* 7.4 (2020 est.) |
+| **Argentina** | *total dependency ratio:* 56.5 |
+| | *youth dependency ratio:* 38.1 |
+| | *elderly dependency ratio:* 17.7 |
+| | *potential support ratio:* 5.6 (2020 est.) |
+| **Armenia** | *total dependency ratio:* 48.4 |
+| | *youth dependency ratio:* 30.9 |
+| | *elderly dependency ratio:* 17.5 |
+| | *potential support ratio:* 5.7 (2020 est.) |
+| **Aruba** | *total dependency ratio:* 47 |
+| | *youth dependency ratio:* 25.6 |
+| | *elderly dependency ratio:* 21.5 |
+| | *potential support ratio:* 4.7 (2020 est.) |
+| **Australia** | *total dependency ratio:* 55.1 |
+| | *youth dependency ratio:* 29.9 |
+| | *elderly dependency ratio:* 25.1 |
+| | *potential support ratio:* 4 (2020 est.) |
+| **Austria** | *total dependency ratio:* 50.6 |
+| | *youth dependency ratio:* 21.7 |
+| | *elderly dependency ratio:* 28.9 |
+| | *potential support ratio:* 3.5 (2020 est.) |
+| **Azerbaijan** | *total dependency ratio:* 43.4 |
+| | *youth dependency ratio:* 33.7 |
+| | *elderly dependency ratio:* 9.7 |
+| | *potential support ratio:* 10.3 (2020 est.) |
+| **Bahamas, The** | *total dependency ratio:* 41.5 |
+| | *youth dependency ratio:* 30.6 |
+| | *elderly dependency ratio:* 11 |
+| | *potential support ratio:* 9.1 (2020 est.) |
+| **Bahrain** | *total dependency ratio:* 26.5 |
+| | *youth dependency ratio:* 23.1 |
+| | *elderly dependency ratio:* 3.4 |
+| | *potential support ratio:* 29.8 (2020 est.) |
+| **Bangladesh** | *total dependency ratio:* 47 |
+| | *youth dependency ratio:* 39.3 |
+| | *elderly dependency ratio:* 7.7 |
+| | *potential support ratio:* 13 (2020 est.) |
+| **Barbados** | *total dependency ratio:* 50.3 |
+| | *youth dependency ratio:* 25.2 |
+| | *elderly dependency ratio:* 25.1 |
+| | *potential support ratio:* 4 (2020 est.) |
+| **Belarus** | *total dependency ratio:* 48.9 |
+| | *youth dependency ratio:* 25.7 |
+| | *elderly dependency ratio:* 23.2 |
+| | *potential support ratio:* 4.3 (2020 est.) |
+| **Belgium** | *total dependency ratio:* 57 |
+| | *youth dependency ratio:* 26.7 |
+| | *elderly dependency ratio:* 30.2 |
+| | *potential support ratio:* 3.3 (2020 est.) |
+| **Belize** | *total dependency ratio:* 52 |
+| | *youth dependency ratio:* 44.4 |
+| | *elderly dependency ratio:* 7.6 |
+| | *potential support ratio:* 13.1 (2020 est.) |
+| **Benin** | *total dependency ratio:* 82.6 |
+| | *youth dependency ratio:* 76.6 |
+| | *elderly dependency ratio:* 6 |
+| | *potential support ratio:* 16.7 (2020 est.) |
+| **Bhutan** | *total dependency ratio:* 45.1 |
+| | *youth dependency ratio:* 36.1 |
+| | *elderly dependency ratio:* 9 |
+| | *potential support ratio:* 11.1 (2020 est.) |
+| **Bolivia** | *total dependency ratio:* 60.5 |
+| | *youth dependency ratio:* 48.5 |
+| | *elderly dependency ratio:* 12 |
+| | *potential support ratio:* 8.3 (2020 est.) |
+| **Bosnia and Herzegovina** | *total dependency ratio:* 48 |
+| | *youth dependency ratio:* 21.5 |
+| | *elderly dependency ratio:* 26.5 |
+| | *potential support ratio:* 3.8 (2020 est.) |
+| **Botswana** | *total dependency ratio:* 61.1 |
+| | *youth dependency ratio:* 53.8 |
+| | *elderly dependency ratio:* 7.3 |
+| | *potential support ratio:* 13.8 (2020 est.) |
+| **Brazil** | *total dependency ratio:* 43.5 |
+| | *youth dependency ratio:* 29.7 |
+| | *elderly dependency ratio:* 13.8 |
+| | *potential support ratio:* 7.3 (2020 est.) |
+| **Brunei** | *total dependency ratio:* 38.7 |
+| | *youth dependency ratio:* 31 |
+| | *elderly dependency ratio:* 7.7 |
+| | *potential support ratio:* 12.9 (2020 est.) |
+| **Bulgaria** | *total dependency ratio:* 56.6 |
+| | *youth dependency ratio:* 23 |
+| | *elderly dependency ratio:* 33.6 |
+| | *potential support ratio:* 3 (2020 est.) |
+| **Burkina Faso** | *total dependency ratio:* 87.9 |
+| | *youth dependency ratio:* 83.4 |
+| | *elderly dependency ratio:* 4.5 |
+| | *potential support ratio:* 22.1 (2020 est.) |
+| **Burma** | *total dependency ratio:* 46.5 |
+| | *youth dependency ratio:* 37.3 |
+| | *elderly dependency ratio:* 9.1 |
+| | *potential support ratio:* 10.9 (2020 est.) |
+| **Burundi** | *total dependency ratio:* 91 |
+| | *youth dependency ratio:* 86.4 |
+| | *elderly dependency ratio:* 4.5 |
+| | *potential support ratio:* 22 (2020 est.) |
+| **Cabo Verde** | *total dependency ratio:* 49 |
+| | *youth dependency ratio:* 41.8 |
+| | *elderly dependency ratio:* 7.1 |
+| | *potential support ratio:* 14 (2020 est.) |
+| **Cambodia** | *total dependency ratio:* 55.7 |
+| | *youth dependency ratio:* 48.2 |
+| | *elderly dependency ratio:* 7.6 |
+| | *potential support ratio:* 13.2 (2020 est.) |
+| **Cameroon** | *total dependency ratio:* 81.1 |
+| | *youth dependency ratio:* 76.2 |
+| | *elderly dependency ratio:* 4.9 |
+| | *potential support ratio:* 20.3 (2020 est.) |
+| **Canada** | *total dependency ratio:* 51.2 |
+| | *youth dependency ratio:* 23.9 |
+| | *elderly dependency ratio:* 27.4 |
+| | *potential support ratio:* 3.7 (2020 est.) |
+| **Central African Republic** | *total dependency ratio:* 86.4 |
+| | *youth dependency ratio:* 81.1 |
+| | *elderly dependency ratio:* 5.2 |
+| | *potential support ratio:* 19.2 (2020 est.) |
+| **Chad** | *total dependency ratio:* 96 |
+| | *youth dependency ratio:* 91.1 |
+| | *elderly dependency ratio:* 4.9 |
+| | *potential support ratio:* 20.4 (2020 est.) |
+| **Chile** | *total dependency ratio:* 45.9 |
+| | *youth dependency ratio:* 28.1 |
+| | *elderly dependency ratio:* 17.9 |
+| | *potential support ratio:* 5.6 (2020 est.) |
+| **China** | *total dependency ratio:* 42.2 |
+| | *youth dependency ratio:* 25.2 |
+| | *elderly dependency ratio:* 17 |
+| | *potential support ratio:* 5.9 (2020 est.) |
+| | data do not include Hong Kong, Macau, and Taiwan |
+| **Colombia** | *total dependency ratio:* 45.4 |
+| | *youth dependency ratio:* 32.3 |
+| | *elderly dependency ratio:* 13.2 |
+| | *potential support ratio:* 7.6 (2020 est.) |
+| **Comoros** | *total dependency ratio:* 75.5 |
+| | *youth dependency ratio:* 67.4 |
+| | *elderly dependency ratio:* 5.4 |
+| | *potential support ratio:* 18.6 (2020 est.) |
+| **Congo, Democratic Republic of the** | *total dependency ratio:* 95.4 |
+| | *youth dependency ratio:* 89.5 |
+| | *elderly dependency ratio:* 5.9 |
+| | *potential support ratio:* 17 (2020 est.) |
+| **Congo, Republic of the** | *total dependency ratio:* 78.7 |
+| | *youth dependency ratio:* 73.7 |
+| | *elderly dependency ratio:* 4.9 |
+| | *potential support ratio:* 20.3 (2020 est.) |
+| **Costa Rica** | *total dependency ratio:* 45.1 |
+| | *youth dependency ratio:* 30.2 |
+| | *elderly dependency ratio:* 14.9 |
+| | *potential support ratio:* 6.7 (2020 est.) |
+| **Cote d'Ivoire** | *total dependency ratio:* 79.8 |
+| | *youth dependency ratio:* 74.6 |
+| | *elderly dependency ratio:* 5.2 |
+| | *potential support ratio:* 19.3 (2020 est.) |
+| **Croatia** | *total dependency ratio:* 55.7 |
+| | *youth dependency ratio:* 22.6 |
+| | *elderly dependency ratio:* 33.1 |
+| | *potential support ratio:* 3 (2020 est.) |
+| **Cuba** | *total dependency ratio:* 46.7 |
+| | *youth dependency ratio:* 23.3 |
+| | *elderly dependency ratio:* 23.3 |
+| | *potential support ratio:* 4.3 (2020 est.) |
+| **Curacao** | *total dependency ratio:* 55.9 |
+| | *youth dependency ratio:* 28.3 |
+| | *elderly dependency ratio:* 27.5 |
+| | *potential support ratio:* 3.6 (2020 est.) |
+| **Cyprus** | *total dependency ratio:* 44.9 |
+| | *youth dependency ratio:* 24 |
+| | *elderly dependency ratio:* 20.9 |
+| | *potential support ratio:* 4.8 (2020 est.) |
+| | *note:* data represent the whole country |
+| **Czechia** | *total dependency ratio:* 56 |
+| | *youth dependency ratio:* 24.6 |
+| | *elderly dependency ratio:* 31.4 |
+| | *potential support ratio:* 3.2 (2020 est.) |
+| **Denmark** | *total dependency ratio:* 57.3 |
+| | *youth dependency ratio:* 25.6 |
+| | *elderly dependency ratio:* 31.7 |
+| | *potential support ratio:* 3.2 (2020 est.) |
+| **Djibouti** | *total dependency ratio:* 50.6 |
+| | *youth dependency ratio:* 43.6 |
+| | *elderly dependency ratio:* 7.1 |
+| | *potential support ratio:* 14.1 (2020 est.) |
+| **Dominican Republic** | *total dependency ratio:* 53.8 |
+| | *youth dependency ratio:* 42.2 |
+| | *elderly dependency ratio:* 11.6 |
+| | *potential support ratio:* 8.6 (2020 est.) |
+| **Ecuador** | *total dependency ratio:* 53.8 |
+| | *youth dependency ratio:* 42.1 |
+| | *elderly dependency ratio:* 11.7 |
+| | *potential support ratio:* 8.6 (2020 est.) |
+| **Egypt** | *total dependency ratio:* 64.6 |
+| | *youth dependency ratio:* 55.8 |
+| | *elderly dependency ratio:* 8.8 |
+| | *potential support ratio:* 11.4 (2020 est.) |
+| **El Salvador** | *total dependency ratio:* 54.4 |
+| | *youth dependency ratio:* 41.1 |
+| | *elderly dependency ratio:* 13.4 |
+| | *potential support ratio:* 7.5 (2020 est.) |
+| **Equatorial Guinea** | *total dependency ratio:* 64.4 |
+| | *youth dependency ratio:* 60.5 |
+| | *elderly dependency ratio:* 3.9 |
+| | *potential support ratio:* 25.5 (2020 est.) |
+| **Eritrea** | *total dependency ratio:* 83.9 |
+| | *youth dependency ratio:* 75.6 |
+| | *elderly dependency ratio:* 8.3 |
+| | *potential support ratio:* 12.1 (2020 est.) |
+| **Estonia** | *total dependency ratio:* 58.4 |
+| | *youth dependency ratio:* 26.1 |
+| | *elderly dependency ratio:* 32.3 |
+| | *potential support ratio:* 3.1 (2020 est.) |
+| **Eswatini** | *total dependency ratio:* 70.8 |
+| | *youth dependency ratio:* 64 |
+| | *elderly dependency ratio:* 6.9 |
+| | *potential support ratio:* 14.6 (2020 est.) |
+| **Ethiopia** | *total dependency ratio:* 76.8 |
+| | *youth dependency ratio:* 70.6 |
+| | *elderly dependency ratio:* 6.3 |
+| | *potential support ratio:* 16 (2020 est.) |
+| **Fiji** | *total dependency ratio:* 53.4 |
+| | *youth dependency ratio:* 44.5 |
+| | *elderly dependency ratio:* 8.9 |
+| | *potential support ratio:* 11.2 (2020 est.) |
+| **Finland** | *total dependency ratio:* 62.4 |
+| | *youth dependency ratio:* 25.8 |
+| | *elderly dependency ratio:* 36.6 |
+| | *potential support ratio:* 2.7 (2020 est.) |
+| **France** | *total dependency ratio:* 62.4 |
+| | *youth dependency ratio:* 28.7 |
+| | *elderly dependency ratio:* 33.7 |
+| | *potential support ratio:* 3 (2020 est.) |
+| **French Polynesia** | *total dependency ratio:* 45.5 |
+| | *youth dependency ratio:* 32.3 |
+| | *elderly dependency ratio:* 13.2 |
+| | *potential support ratio:* 7.6 (2020 est.) |
+| **Gabon** | *total dependency ratio:* 68.9 |
+| | *youth dependency ratio:* 62.9 |
+| | *elderly dependency ratio:* 6 |
+| | *potential support ratio:* 16.8 (2020 est.) |
+| **Gambia, The** | *total dependency ratio:* 86.9 |
+| | *youth dependency ratio:* 82.1 |
+| | *elderly dependency ratio:* 4.7 |
+| | *potential support ratio:* 21.1 (2020 est.) |
+| **Gaza Strip** | *total dependency ratio:* 71.2 |
+| | *youth dependency ratio:* 65.7 |
+| | *elderly dependency ratio:* 5.5 |
+| | *potential support ratio:* 18.2 (2020 est.) |
+| | *note:* data represent Gaza Strip and the West Bank |
+| **Georgia** | *total dependency ratio:* 55 |
+| | *youth dependency ratio:* 31.3 |
+| | *elderly dependency ratio:* 23.6 |
+| | *potential support ratio:* 4.2 (2020 est.) |
+| **Germany** | *total dependency ratio:* 55.4 |
+| | *youth dependency ratio:* 21.7 |
+| | *elderly dependency ratio:* 33.7 |
+| | *potential support ratio:* 3 (2020 est.) |
+| **Ghana** | *total dependency ratio:* 67.4 |
+| | *youth dependency ratio:* 62.2 |
+| | *elderly dependency ratio:* 5.3 |
+| | *potential support ratio:* 17.1 (2020 est.) |
+| **Greece** | *total dependency ratio:* 56.1 |
+| | *youth dependency ratio:* 21.3 |
+| | *elderly dependency ratio:* 34.8 |
+| | *potential support ratio:* 2.9 (2020 est.) |
+| **Grenada** | *total dependency ratio:* 50.5 |
+| | *youth dependency ratio:* 35.8 |
+| | *elderly dependency ratio:* 14.7 |
+| | *potential support ratio:* 6.8 (2020 est.) |
+| **Guam** | *total dependency ratio:* 52.4 |
+| | *youth dependency ratio:* 36.4 |
+| | *elderly dependency ratio:* 16.1 |
+| | *potential support ratio:* 6.2 (2020 est.) |
+| **Guatemala** | *total dependency ratio:* 62.3 |
+| | *youth dependency ratio:* 54.1 |
+| | *elderly dependency ratio:* 8.2 |
+| | *potential support ratio:* 12.2 (2020 est.) |
+| **Guernsey** | *total dependency ratio:* 49 |
+| | *youth dependency ratio:* 22.3 |
+| | *elderly dependency ratio:* 26.7 |
+| | *potential support ratio:* 3.7 (2020 est.) |
+| | *note:* data represent the Guernsey and Jersey |
+| **Guinea** | *total dependency ratio:* 85.2 |
+| | *youth dependency ratio:* 79.7 |
+| | *elderly dependency ratio:* 5.5 |
+| | *potential support ratio:* 18.3 (2020 est.) |
+| **Guinea-Bissau** | *total dependency ratio:* 81.2 |
+| | *youth dependency ratio:* 76 |
+| | *elderly dependency ratio:* 5.2 |
+| | *potential support ratio:* 19.1 (202 est.) |
+| **Guyana** | *total dependency ratio:* 53.2 |
+| | *youth dependency ratio:* 42.5 |
+| | *elderly dependency ratio:* 10.7 |
+| | *potential support ratio:* 9.3 (2020 est.) |
+| **Haiti** | *total dependency ratio:* 60.4 |
+| | *youth dependency ratio:* 52.1 |
+| | *elderly dependency ratio:* 8.3 |
+| | *potential support ratio:* 13.3 (2020 est.) |
+| **Honduras** | *total dependency ratio:* 55.2 |
+| | *youth dependency ratio:* 47.5 |
+| | *elderly dependency ratio:* 7.7 |
+| | *potential support ratio:* 13 (2020 est.) |
+| **Hong Kong** | *total dependency ratio:* 44.7 |
+| | *youth dependency ratio:* 18.3 |
+| | *elderly dependency ratio:* 26.3 |
+| | *potential support ratio:* 3.8 (2020 est.) |
+| **Hungary** | *total dependency ratio:* 46.9 |
+| | *youth dependency ratio:* 22 |
+| | *elderly dependency ratio:* 30.8 |
+| | *potential support ratio:* 3.2 (2020 est.) |
+| **Iceland** | *total dependency ratio:* 54 |
+| | *youth dependency ratio:* 29.9 |
+| | *elderly dependency ratio:* 24.1 |
+| | *potential support ratio:* 4.2 (2020 est.) |
+| **India** | *total dependency ratio:* 48.7 |
+| | *youth dependency ratio:* 38.9 |
+| | *elderly dependency ratio:* 9.8 |
+| | *potential support ratio:* 10.2 (2020 est.) |
+| **Indonesia** | *total dependency ratio:* 47.5 |
+| | *youth dependency ratio:* 38.3 |
+| | *elderly dependency ratio:* 9.2 |
+| | *potential support ratio:* 10.8 (2020 est.) |
+| **Iran** | *total dependency ratio:* 45.6 |
+| | *youth dependency ratio:* 36 |
+| | *elderly dependency ratio:* 9.6 |
+| | *potential support ratio:* 14.2 (2020 est.) |
+| **Iraq** | *total dependency ratio:* 69.9 |
+| | *youth dependency ratio:* 64.1 |
+| | *elderly dependency ratio:* 5.9 |
+| | *potential support ratio:* 17.1 (2020 est.) |
+| **Ireland** | *total dependency ratio:* 54.8 |
+| | *youth dependency ratio:* 32.3 |
+| | *elderly dependency ratio:* 22.6 |
+| | *potential support ratio:* 4.4 (2020 est.) |
+| **Israel** | *total dependency ratio:* 67.3 |
+| | *youth dependency ratio:* 46.6 |
+| | *elderly dependency ratio:* 20.8 |
+| | *potential support ratio:* 4.8 (2020 est.) |
+| **Italy** | *total dependency ratio:* 57 |
+| | *youth dependency ratio:* 20.4 |
+| | *elderly dependency ratio:* 36.6 |
+| | *potential support ratio:* 2.7 (2020 est.) |
+| **Jamaica** | *total dependency ratio:* 48 |
+| | *youth dependency ratio:* 34.6 |
+| | *elderly dependency ratio:* 13.4 |
+| | *potential support ratio:* 7.4 (2020 est.) |
+| **Japan** | *total dependency ratio:* 69 |
+| | *youth dependency ratio:* 21 |
+| | *elderly dependency ratio:* 48 |
+| | *potential support ratio:* 2.1 (2020 est.) |
+| **Jersey** | *total dependency ratio:* 49 |
+| | *youth dependency ratio:* 22.3 |
+| | *elderly dependency ratio:* 26.7 |
+| | *potential support ratio:* 3.7 (2020 est.) |
+| | *note:* data represent the Guernsey and Jersey |
+| **Jordan** | *total dependency ratio:* 58.2 |
+| | *youth dependency ratio:* 52 |
+| | *elderly dependency ratio:* 6.3 |
+| | *potential support ratio:* 16 (2020 est.) |
+| **Kazakhstan** | *total dependency ratio:* 58.8 |
+| | *youth dependency ratio:* 46.3 |
+| | *elderly dependency ratio:* 12.6 |
+| | *potential support ratio:* 8 (2020 est.) |
+| **Kenya** | *total dependency ratio:* 69.8 |
+| | *youth dependency ratio:* 65.5 |
+| | *elderly dependency ratio:* 4.3 |
+| | *potential support ratio:* 23.5 (2020 est.) |
+| **Kiribati** | *total dependency ratio:* 67 |
+| | *youth dependency ratio:* 60 |
+| | *elderly dependency ratio:* 7 |
+| | *potential support ratio:* 14.2 (2020 est.) |
+| **Korea, North** | *total dependency ratio:* 41.2 |
+| | *youth dependency ratio:* 28 |
+| | *elderly dependency ratio:* 13.2 |
+| | *potential support ratio:* 7.6 (2020 est.) |
+| **Korea, South** | *total dependency ratio:* 39.5 |
+| | *youth dependency ratio:* 17.5 |
+| | *elderly dependency ratio:* 22 |
+| | *potential support ratio:* 4.5 (2020 est.) |
+| **Kuwait** | *total dependency ratio:* 32.4 |
+| | *youth dependency ratio:* 28.4 |
+| | *elderly dependency ratio:* 4 |
+| | *potential support ratio:* 24.9 (2020 est.) |
+| **Kyrgyzstan** | *total dependency ratio:* 59.7 |
+| | *youth dependency ratio:* 52.1 |
+| | *elderly dependency ratio:* 7.5 |
+| | *potential support ratio:* 13.2 (2020 est.) |
+| **Laos** | *total dependency ratio:* 56.8 |
+| | *youth dependency ratio:* 50.1 |
+| | *elderly dependency ratio:* 6.7 |
+| | *potential support ratio:* 15 (2020 est.) |
+| **Latvia** | *total dependency ratio:* 59 |
+| | *youth dependency ratio:* 26.1 |
+| | *elderly dependency ratio:* 32.9 |
+| | *potential support ratio:* 3 (2020 est.) |
+| **Lebanon** | *total dependency ratio:* 48.4 |
+| | *youth dependency ratio:* 37.2 |
+| | *elderly dependency ratio:* 11.2 |
+| | *potential support ratio:* 8.9 (2020 est.) |
+| **Lesotho** | *total dependency ratio:* 59.2 |
+| | *youth dependency ratio:* 51.3 |
+| | *elderly dependency ratio:* 7.9 |
+| | *potential support ratio:* 12.7 (2020 est.) |
+| **Liberia** | *total dependency ratio:* 77.6 |
+| | *youth dependency ratio:* 71.7 |
+| | *elderly dependency ratio:* 5.9 |
+| | *potential support ratio:* 17 (2020 est.) |
+| **Libya** | *total dependency ratio:* 47.7 |
+| | *youth dependency ratio:* 41 |
+| | *elderly dependency ratio:* 6.7 |
+| | *potential support ratio:* 15 (2020 est.) |
+| **Lithuania** | *total dependency ratio:* 56.5 |
+| | *youth dependency ratio:* 24.2 |
+| | *elderly dependency ratio:* 32.3 |
+| | *potential support ratio:* 3.1 (2020 est.) |
+| **Luxembourg** | *total dependency ratio:* 42.8 |
+| | *youth dependency ratio:* 22.2 |
+| | *elderly dependency ratio:* 20.5 |
+| | *potential support ratio:* 4.9 (2020 est.) |
+| **Macau** | *total dependency ratio:* 35.7 |
+| | *youth dependency ratio:* 19.5 |
+| | *elderly dependency ratio:* 16.2 |
+| | *potential support ratio:* 6.2 (2020 est.) |
+| **Madagascar** | *total dependency ratio:* 75.9 |
+| | *youth dependency ratio:* 70.5 |
+| | *elderly dependency ratio:* 5.5 |
+| | *potential support ratio:* 18.3 (2020 est.) |
+| **Malawi** | *total dependency ratio:* 83.9 |
+| | *youth dependency ratio:* 79.1 |
+| | *elderly dependency ratio:* 4.9 |
+| | *potential support ratio:* 20.6 (2020 est.) |
+| **Malaysia** | *total dependency ratio:* 44.2 |
+| | *youth dependency ratio:* 33.8 |
+| | *elderly dependency ratio:* 10.4 |
+| | *potential support ratio:* 9.7 (2020 est.) |
+| **Maldives** | *total dependency ratio:* 30.2 |
+| | *youth dependency ratio:* 25.5 |
+| | *elderly dependency ratio:* 4.7 |
+| | *potential support ratio:* 21.4 (2020 est.) |
+| **Mali** | *total dependency ratio:* 98 |
+| | *youth dependency ratio:* 93.1 |
+| | *elderly dependency ratio:* 4.9 |
+| | *potential support ratio:* 20.4 (2020 est.) |
+| **Malta** | *total dependency ratio:* 55.5 |
+| | *youth dependency ratio:* 22.4 |
+| | *elderly dependency ratio:* 33.2 |
+| | *potential support ratio:* 3 (2020 est.) |
+| **Mauritania** | *total dependency ratio:* 75 |
+| | *youth dependency ratio:* 69.5 |
+| | *elderly dependency ratio:* 5.6 |
+| | *potential support ratio:* 18 (2020 est.) |
+| **Mauritius** | *total dependency ratio:* 41.5 |
+| | *youth dependency ratio:* 23.7 |
+| | *elderly dependency ratio:* 17.7 |
+| | *potential support ratio:* 5.6 (2020 est.) |
+| **Mexico** | *total dependency ratio:* 50.3 |
+| | *youth dependency ratio:* 38.8 |
+| | *elderly dependency ratio:* 11.4 |
+| | *potential support ratio:* 8.7 (2020 est.) |
+| **Micronesia, Federated States of** | *total dependency ratio:* 55.2 |
+| | *youth dependency ratio:* 48.4 |
+| | *elderly dependency ratio:* 6.8 |
+| | *potential support ratio:* 14.7 (2020 est.) |
+| **Moldova** | *total dependency ratio:* 39.6 |
+| | *youth dependency ratio:* 22.2 |
+| | *elderly dependency ratio:* 17.4 |
+| | *potential support ratio:* 5.7 (2020 est.) |
+| **Mongolia** | *total dependency ratio:* 54.8 |
+| | *youth dependency ratio:* 48.1 |
+| | *elderly dependency ratio:* 6.7 |
+| | *potential support ratio:* 15 (2020 est.) |
+| **Montenegro** | *total dependency ratio:* 51.1 |
+| | *youth dependency ratio:* 27.3 |
+| | *elderly dependency ratio:* 23.8 |
+| | *potential support ratio:* 4.2 (2020 est.) |
+| **Morocco** | *total dependency ratio:* 52.4 |
+| | *youth dependency ratio:* 40.8 |
+| | *elderly dependency ratio:* 11.6 |
+| | *potential support ratio:* 8.6 (2020 est.) |
+| **Mozambique** | *total dependency ratio:* 88.4 |
+| | *youth dependency ratio:* 83 |
+| | *elderly dependency ratio:* 5.4 |
+| | *potential support ratio:* 18.5 (2020 est.) |
+| **Namibia** | *total dependency ratio:* 67.9 |
+| | *youth dependency ratio:* 61.8 |
+| | *elderly dependency ratio:* 6 |
+| | *potential support ratio:* 16.6 (2020 est.) |
+| **Nepal** | *total dependency ratio:* 53 |
+| | *youth dependency ratio:* 44.1 |
+| | *elderly dependency ratio:* 8.9 |
+| | *potential support ratio:* 11.2 (2020 est.) |
+| **Netherlands** | *total dependency ratio:* 55.6 |
+| | *youth dependency ratio:* 24.4 |
+| | *elderly dependency ratio:* 31.2 |
+| | *potential support ratio:* 3.2 (2020 est.) |
+| **New Caledonia** | *total dependency ratio:* 46.6 |
+| | *youth dependency ratio:* 32.4 |
+| | *elderly dependency ratio:* 14.2 |
+| | *potential support ratio:* 7 (2020 est.) |
+| **New Zealand** | *total dependency ratio:* 55.8 |
+| | *youth dependency ratio:* 30.3 |
+| | *elderly dependency ratio:* 25.5 |
+| | *potential support ratio:* 3.9 (2020 est.) |
+| **Nicaragua** | *total dependency ratio:* 54.3 |
+| | *youth dependency ratio:* 45.5 |
+| | *elderly dependency ratio:* 8.8 |
+| | *potential support ratio:* 11.4 (2020 est.) |
+| **Niger** | *total dependency ratio:* 109.5 |
+| | *youth dependency ratio:* 104.1 |
+| | *elderly dependency ratio:* 5.4 |
+| | *potential support ratio:* 18.4 (2020 est.) |
+| **Nigeria** | *total dependency ratio:* 86 |
+| | *youth dependency ratio:* 80.9 |
+| | *elderly dependency ratio:* 5.1 |
+| | *potential support ratio:* 19.6 (2020 est.) |
+| **North Macedonia** | *total dependency ratio:* 44.5 |
+| | *youth dependency ratio:* 23.6 |
+| | *elderly dependency ratio:* 20.9 |
+| | *potential support ratio:* 4.8 (2020 est.) |
+| **Norway** | *total dependency ratio:* 53.3 |
+| | *youth dependency ratio:* 26.5 |
+| | *elderly dependency ratio:* 26.9 |
+| | *potential support ratio:* 3.7 (2020 est.) |
+| | *note:* data include Svalbard and Jan Mayen Islands |
+| **Oman** | *total dependency ratio:* 33.3 |
+| | *youth dependency ratio:* 30 |
+| | *elderly dependency ratio:* 3.3 |
+| | *potential support ratio:* 29.9 (2020 est.) |
+| **Pakistan** | *total dependency ratio:* 64.4 |
+| | *youth dependency ratio:* 57.2 |
+| | *elderly dependency ratio:* 7.1 |
+| | *potential support ratio:* 14 (2020 est.) |
+| **Panama** | *total dependency ratio:* 53.9 |
+| | *youth dependency ratio:* 40.8 |
+| | *elderly dependency ratio:* 13.1 |
+| | *potential support ratio:* 7.6 (2020 est.) |
+| **Papua New Guinea** | *total dependency ratio:* 63.2 |
+| | *youth dependency ratio:* 57.4 |
+| | *elderly dependency ratio:* 5.8 |
+| | *potential support ratio:* 17.2 (2020 est.) |
+| **Paraguay** | *total dependency ratio:* 55.5 |
+| | *youth dependency ratio:* 49.9 |
+| | *elderly dependency ratio:* 10.6 |
+| | *potential support ratio:* 9.4 (2020 est.) |
+| **Peru** | *total dependency ratio:* 50.2 |
+| | *youth dependency ratio:* 37.1 |
+| | *elderly dependency ratio:* 13.1 |
+| | *potential support ratio:* 7.6 (2020 est.) |
+| **Philippines** | *total dependency ratio:* 55.2 |
+| | *youth dependency ratio:* 46.6 |
+| | *elderly dependency ratio:* 8.6 |
+| | *potential support ratio:* 11.7 (2020 est.) |
+| **Poland** | *total dependency ratio:* 51.4 |
+| | *youth dependency ratio:* 23 |
+| | *elderly dependency ratio:* 28.4 |
+| | *potential support ratio:* 3.5 (2020 est.) |
+| **Portugal** | *total dependency ratio:* 55.8 |
+| | *youth dependency ratio:* 20.3 |
+| | *elderly dependency ratio:* 35.5 |
+| | *potential support ratio:* 2.8 (2020 est.) |
+| **Puerto Rico** | *total dependency ratio:* 57.7 |
+| | *youth dependency ratio:* 24.8 |
+| | *elderly dependency ratio:* 32.8 |
+| | *potential support ratio:* 3 (2020 est.) |
+| **Qatar** | *total dependency ratio:* 18.1 |
+| | *youth dependency ratio:* 16.1 |
+| | *elderly dependency ratio:* 2 |
+| | *potential support ratio:* 50.1 (2020 est.) |
+| **Romania** | *total dependency ratio:* 53.3 |
+| | *youth dependency ratio:* 23.8 |
+| | *elderly dependency ratio:* 29.5 |
+| | *potential support ratio:* 3.4 (2020 est.) |
+| **Russia** | *total dependency ratio:* 51.2 |
+| | *youth dependency ratio:* 27.8 |
+| | *elderly dependency ratio:* 23.5 |
+| | *potential support ratio:* 4.3 (2020 est.) |
+| **Rwanda** | *total dependency ratio:* 74.2 |
+| | *youth dependency ratio:* 68.8 |
+| | *elderly dependency ratio:* 5.4 |
+| | *potential support ratio:* 18.4 (2020 est.) |
+| **Saint Lucia** | *total dependency ratio:* 39.4 |
+| | *youth dependency ratio:* 25 |
+| | *elderly dependency ratio:* 14.4 |
+| | *potential support ratio:* 7 (2020 est.) |
+| **Saint Vincent and the Grenadines** | *total dependency ratio:* 46.7 |
+| | *youth dependency ratio:* 32.1 |
+| | *elderly dependency ratio:* 14.5 |
+| | *potential support ratio:* 6.9 (2020 est.) |
+| **Samoa** | *total dependency ratio:* 73.3 |
+| | *youth dependency ratio:* 64.5 |
+| | *elderly dependency ratio:* 8.8 |
+| | *potential support ratio:* 11.4 (2020 est.) |
+| **Sao Tome and Principe** | *total dependency ratio:* 81 |
+| | *youth dependency ratio:* 75.6 |
+| | *elderly dependency ratio:* 5.4 |
+| | *potential support ratio:* 18.4 (2020 est.) |
+| **Saudi Arabia** | *total dependency ratio:* 39.3 |
+| | *youth dependency ratio:* 34.4 |
+| | *elderly dependency ratio:* 4.9 |
+| | *potential support ratio:* 20.5 (2020 est.) |
+| **Senegal** | *total dependency ratio:* 84.2 |
+| | *youth dependency ratio:* 78.4 |
+| | *elderly dependency ratio:* 5.7 |
+| | *potential support ratio:* 17.5 (2020 est.) |
+| **Serbia** | *total dependency ratio:* 52.5 |
+| | *youth dependency ratio:* 23.4 |
+| | *elderly dependency ratio:* 29.1 |
+| | *potential support ratio:* 3.4 (2020 est.) |
+| | *note:* data include Kosovo |
+| **Seychelles** | *total dependency ratio:* 46.7 |
+| | *youth dependency ratio:* 34.9 |
+| | *elderly dependency ratio:* 11.8 |
+| | *potential support ratio:* 8.5 (2020 est.) |
+| **Sierra Leone** | *total dependency ratio:* 76.3 |
+| | *youth dependency ratio:* 71.1 |
+| | *elderly dependency ratio:* 5.2 |
+| | *potential support ratio:* 19.4 (2020 est.) |
+| **Singapore** | *total dependency ratio:* 34.5 |
+| | *youth dependency ratio:* 16.5 |
+| | *elderly dependency ratio:* 18 |
+| | *potential support ratio:* 5.6 (2020 est.) |
+| **Slovakia** | *total dependency ratio:* 47.6 |
+| | *youth dependency ratio:* 23 |
+| | *elderly dependency ratio:* 24.6 |
+| | *potential support ratio:* 4.1 (2020 est.) |
+| **Slovenia** | *total dependency ratio:* 55.9 |
+| | *youth dependency ratio:* 23.6 |
+| | *elderly dependency ratio:* 32.3 |
+| | *potential support ratio:* 3.1 (2020 est.) |
+| **Solomon Islands** | *total dependency ratio:* 77.6 |
+| | *youth dependency ratio:* 71.1 |
+| | *elderly dependency ratio:* 6.5 |
+| | *potential support ratio:* 15.3 (2020 est.) |
+| **Somalia** | *total dependency ratio:* 96.3 |
+| | *youth dependency ratio:* 90.6 |
+| | *elderly dependency ratio:* 5.7 |
+| | *potential support ratio:* 17.6 (2020 est.) |
+| **South Africa** | *total dependency ratio:* 52.2 |
+| | *youth dependency ratio:* 43.8 |
+| | *elderly dependency ratio:* 8.4 |
+| | *potential support ratio:* 11.9 (2020 est.) |
+| **South Sudan** | *total dependency ratio:* 80.8 |
+| | *youth dependency ratio:* 74.7 |
+| | *elderly dependency ratio:* 6.1 |
+| | *potential support ratio:* 16.5 (2020 est.) |
+| **Spain** | *total dependency ratio:* 52.4 |
+| | *youth dependency ratio:* 21.9 |
+| | *elderly dependency ratio:* 30.4 |
+| | *potential support ratio:* 3.3 (2020 est.) |
+| **Sri Lanka** | *total dependency ratio:* 53.7 |
+| | *youth dependency ratio:* 36.4 |
+| | *elderly dependency ratio:* 17.3 |
+| | *potential support ratio:* 5.8 (2020 est.) |
+| **Sudan** | *total dependency ratio:* 76.9 |
+| | *youth dependency ratio:* 70.4 |
+| | *elderly dependency ratio:* 6.5 |
+| | *potential support ratio:* 15.4 (2020 est.) |
+| **Suriname** | *total dependency ratio:* 51.1 |
+| | *youth dependency ratio:* 40.3 |
+| | *elderly dependency ratio:* 10.8 |
+| | *potential support ratio:* 9.3 (2020 est.) |
+| **Sweden** | *total dependency ratio:* 61.2 |
+| | *youth dependency ratio:* 28.4 |
+| | *elderly dependency ratio:* 32.8 |
+| | *potential support ratio:* 3.1 (2020 est.) |
+| **Switzerland** | *total dependency ratio:* 51.6 |
+| | *youth dependency ratio:* 22.7 |
+| | *elderly dependency ratio:* 29 |
+| | *potential support ratio:* 3.5 (2020 est.) |
+| **Syria** | *total dependency ratio:* 55.4 |
+| | *youth dependency ratio:* 47.8 |
+| | *elderly dependency ratio:* 7.6 |
+| | *potential support ratio:* 13.2 (2020 est.) |
+| **Taiwan** | *total dependency ratio:* 40 |
+| | *youth dependency ratio:* 17.8 |
+| | *elderly dependency ratio:* 22.2 |
+| | *potential support ratio:* 4.5 (2020 est.) |
+| **Tajikistan** | *total dependency ratio:* 67.9 |
+| | *youth dependency ratio:* 62.6 |
+| | *elderly dependency ratio:* 5.3 |
+| | *potential support ratio:* 18.7 (2020 est.) |
+| **Tanzania** | *total dependency ratio:* 85.9 |
+| | *youth dependency ratio:* 81 |
+| | *elderly dependency ratio:* 4.9 |
+| | *potential support ratio:* 20.4 (2020 est.) |
+| **Thailand** | *total dependency ratio:* 41.9 |
+| | *youth dependency ratio:* 23.5 |
+| | *elderly dependency ratio:* 18.4 |
+| | *potential support ratio:* 5.4 (2020 est.) |
+| **Timor-Leste** | *total dependency ratio:* 90.3 |
+| | *youth dependency ratio:* 83.7 |
+| | *elderly dependency ratio:* 6.6 |
+| | *potential support ratio:* 15.2 (2020 est.) |
+| **Togo** | *total dependency ratio:* 77.1 |
+| | *youth dependency ratio:* 72 |
+| | *elderly dependency ratio:* 5.1 |
+| | *potential support ratio:* 19.4 (2020 est.) |
+| **Tonga** | *total dependency ratio:* 68.6 |
+| | *youth dependency ratio:* 58.6 |
+| | *elderly dependency ratio:* 10 |
+| | *potential support ratio:* 10 (2020 est.) |
+| **Trinidad and Tobago** | *total dependency ratio:* 46.1 |
+| | *youth dependency ratio:* 29.3 |
+| | *elderly dependency ratio:* 16.8 |
+| | *potential support ratio:* 7.4 (2020 est.) |
+| **Tunisia** | *total dependency ratio:* 49.6 |
+| | *youth dependency ratio:* 36.3 |
+| | *elderly dependency ratio:* 13.3 |
+| | *potential support ratio:* 7.5 (2020 est.) |
+| **Turkey** | *total dependency ratio:* 49.1 |
+| | *youth dependency ratio:* 35.7 |
+| | *elderly dependency ratio:* 13.4 |
+| | *potential support ratio:* 7.5 (2020 est.) |
+| **Turkmenistan** | *total dependency ratio:* 55.2 |
+| | *youth dependency ratio:* 47.8 |
+| | *elderly dependency ratio:* 7.4 |
+| | *potential support ratio:* 13.5 (2020 est.) |
+| **Uganda** | *total dependency ratio:* 92.3 |
+| | *youth dependency ratio:* 88.5 |
+| | *elderly dependency ratio:* 3.8 |
+| | *potential support ratio:* 26.2 (2020 est.) |
+| **Ukraine** | *total dependency ratio:* 49.1 |
+| | *youth dependency ratio:* 23.8 |
+| | *elderly dependency ratio:* 25.3 |
+| | *potential support ratio:* 4 (2020 est.) |
+| | *note:* data include Crimea |
+| **United Arab Emirates** | *total dependency ratio:* 19.2 |
+| | *youth dependency ratio:* 17.7 |
+| | *elderly dependency ratio:* 1.5 |
+| | *potential support ratio:* 66.4 (2020 est.) |
+| **United Kingdom** | *total dependency ratio:* 57.1 |
+| | *youth dependency ratio:* 27.8 |
+| | *elderly dependency ratio:* 29.3 |
+| | *potential support ratio:* 3.4 (2020 est.) |
+| **United States** | *total dependency ratio:* 53.9 |
+| | *youth dependency ratio:* 28.3 |
+| | *elderly dependency ratio:* 25.6 |
+| | *potential support ratio:* 3.9 (2020 est.) |
+| **Uruguay** | *total dependency ratio:* 54.9 |
+| | *youth dependency ratio:* 31.5 |
+| | *elderly dependency ratio:* 23.4 |
+| | *potential support ratio:* 4.3 (2020 est.) |
+| **Uzbekistan** | *total dependency ratio:* 50.6 |
+| | *youth dependency ratio:* 43.4 |
+| | *elderly dependency ratio:* 7.2 |
+| | *potential support ratio:* 13.9 (2020 est.) |
+| **Vanuatu** | *total dependency ratio:* 72.5 |
+| | *youth dependency ratio:* 66.2 |
+| | *elderly dependency ratio:* 12.3 |
+| | *potential support ratio:* 8.1 (2020 est.) |
+| **Venezuela** | *total dependency ratio:* 54.4 |
+| | *youth dependency ratio:* 42.1 |
+| | *elderly dependency ratio:* 12.3 |
+| | *potential support ratio:* 8.1 (2020 est.) |
+| **Vietnam** | *total dependency ratio:* 45.1 |
+| | *youth dependency ratio:* 33.6 |
+| | *elderly dependency ratio:* 11.4 |
+| | *potential support ratio:* 8.8 (2020 est.) |
+| **Virgin Islands** | *total dependency ratio:* 66 |
+| | *youth dependency ratio:* 32 |
+| | *elderly dependency ratio:* 34 |
+| | *potential support ratio:* 2.9 (2020 est.) |
+| **West Bank** | *total dependency ratio:* 71.2 |
+| | *youth dependency ratio:* 65.7 |
+| | *elderly dependency ratio:* 5.5 |
+| | *potential support ratio:* 18.2 (2020 est.) |
+| | *note:* data represent Gaza Strip and the West Bank |
+| **World** | *total dependency ratio:* 53.3 |
+| | *youth dependency ratio:* 39 |
+| | *elderly dependency ratio:* 14.3 |
+| | *potential support ratio:* 7 (2020 est.) |
+| **Yemen** | *total dependency ratio:* 71.7 |
+| | *youth dependency ratio:* 66.7 |
+| | *elderly dependency ratio:* 5 |
+| | *potential support ratio:* 19.9 (2020 est.) |
+| **Zambia** | *total dependency ratio:* 85.7 |
+| | *youth dependency ratio:* 81.7 |
+| | *elderly dependency ratio:* 4 |
+| | *potential support ratio:* 25.3 (2020 est.) |
+| **Zimbabwe** | *total dependency ratio:* 81.6 |
+| | *youth dependency ratio:* 76.1 |
+| | *elderly dependency ratio:* 5.5 |
+| | *potential support ratio:* 18.3 (2020 est.) |
+

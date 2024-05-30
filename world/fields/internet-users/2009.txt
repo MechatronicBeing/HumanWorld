@@ -1,0 +1,227 @@
+CIA - The World Factbook -- Field Listing :: Internet users   
+
+This entry gives the number of users within a country that access the Internet. Statistics vary from country to country and may include users who access the Internet at least several times a week to those who access it only once within a period of several months.
+
+| Country | Internet users |
+| --- | --- |
+| **Afghanistan** | 500,000 (2008) |
+| **Albania** | 471,000 (2008) |
+| **Algeria** | 4.1 million (2008) |
+| **American Samoa** | NA |
+| **Andorra** | 59,100 (2008) |
+| **Angola** | 550,000 (2008) |
+| **Anguilla** | 4,500 (2008) |
+| **Antigua and Barbuda** | 65,000 (2008) |
+| **Argentina** | 11.212 million (2008) |
+| **Armenia** | 191,000 (2008) |
+| **Aruba** | 24,000 (2008) |
+| **Australia** | 15.17 million (2008) |
+| **Austria** | 5.937 million (2008) |
+| **Azerbaijan** | 1.485 million (2008) |
+| **Bahamas, The** | 106,500 (2008) |
+| **Bahrain** | 402,900 (2008) |
+| **Bangladesh** | 556,000 (2008) |
+| **Barbados** | 188,000 (2008) |
+| **Belarus** | 3.107 million (2008) |
+| **Belgium** | 7.292 million (2008) |
+| **Belize** | 34,000 (2008) |
+| **Benin** | 160,000 (2008) |
+| **Bermuda** | 51,000 (2008) |
+| **Bhutan** | 40,000 (2008) |
+| **Bolivia** | 1 million (2008) |
+| **Bosnia and Herzegovina** | 1.308 million (2008) |
+| **Botswana** | 120,000 (2008) |
+| **Brazil** | 64.948 million (2008) |
+| **British Virgin Islands** | 4,000 (2002) |
+| **Brunei** | 217,000 (2008) |
+| **Bulgaria** | 2.647 million (2008) |
+| **Burkina Faso** | 140,000 (2008) |
+| **Burma** | 108,900 (2008) |
+| **Burundi** | 65,000 (2008) |
+| **Cambodia** | 74,000 (2008) |
+| **Cameroon** | 725,000 (2008) |
+| **Canada** | 25.086 million (2008) |
+| **Cape Verde** | 102,800 (2008) |
+| **Cayman Islands** | 23,000 (2008) |
+| **Central African Republic** | 19,000 (2008) |
+| **Chad** | 130,000 (2008) |
+| **Chile** | 5.456 million (2008) |
+| **China** | 298 million (2008) |
+| **Christmas Island** | 464 (2001) |
+| **Colombia** | 17.117 million (2008) |
+| **Comoros** | 23,000 (2008) |
+| **Congo, Democratic Republic of the** | 290,000 (2008) |
+| **Congo, Republic of the** | 155,000 (2008) |
+| **Cook Islands** | 5,000 (2008) |
+| **Costa Rica** | 1.46 million (2008) |
+| **Cote d'Ivoire** | 660,000 (2008) |
+| **Croatia** | 1.88 million (2008) |
+| **Cuba** | 1.45 million |
+| | *note:* private citizens are prohibited from buying computers or accessing the Internet without special authorization; foreigners may access the Internet in large hotels but are subject to firewalls; some Cubans buy illegal passwords on the black market or take advantage of public outlets to access limited email and the government-controlled "intranet" (2008) |
+| **Cyprus** | 334,400 (2008) |
+| **Czech Republic** | 6.028 million (2008) |
+| **Denmark** | 4.579 million (2008) |
+| **Djibouti** | 13,000 (2008) |
+| **Dominica** | 27,500 (2008) |
+| **Dominican Republic** | 2.147 million (2008) |
+| **Ecuador** | 1.31 million (2008) |
+| **Egypt** | 11.414 million (2008) |
+| **El Salvador** | 826,000 (2008) |
+| **Equatorial Guinea** | 12,000 (2008) |
+| **Eritrea** | 200,000 (2008) |
+| **Estonia** | 888,100 (2008) |
+| **Ethiopia** | 360,000 (2008) |
+| **European Union** | 247 million (2006) |
+| **Falkland Islands (Islas Malvinas)** | 2,800 (2008) |
+| **Faroe Islands** | 37,500 (2008) |
+| **Fiji** | 103,000 (2008) |
+| **Finland** | 4.383 million (2008) |
+| **France** | 42.912 million; 42.315 million (metropolitan France) (2008) |
+| **French Polynesia** | 90,000 (2008) |
+| **Gabon** | 90,000 (2008) |
+| **Gambia, The** | 114,200 (2008) |
+| **Gaza Strip** | 356,000 (includes West Bank) (2008) |
+| **Georgia** | 1.024 million (2008) |
+| **Germany** | 61.973 million (2008) |
+| **Ghana** | 997,000 (2008) |
+| **Gibraltar** | 6,500 (2008) |
+| **Greece** | 4.253 million (2008) |
+| **Greenland** | 36,000 (2008) |
+| **Grenada** | 24,000 (2008) |
+| **Guam** | 85,000 (2008) |
+| **Guatemala** | 1.96 million (2008) |
+| **Guernsey** | 46,100 (2008) |
+| **Guinea** | 90,000 (2008) |
+| **Guinea-Bissau** | 37,100 (2008) |
+| **Guyana** | 205,000 (2008) |
+| **Haiti** | 1 million (2008) |
+| **Honduras** | 658,500 (2008) |
+| **Hong Kong** | 4.124 million (2008) |
+| **Hungary** | 5.873 million (2008) |
+| **Iceland** | 250,000 (2008) |
+| **India** | 81 million (2008) |
+| **Indonesia** | 30 million (2008) |
+| **Iran** | 23 million (2008) |
+| **Iraq** | 300,000 (2008) |
+| **Ireland** | 2.83 million (2008) |
+| **Israel** | 2.106 million (2008) |
+| **Italy** | 24.992 million (2008) |
+| **Jamaica** | 1.54 million (2008) |
+| **Japan** | 90.91 million (2008) |
+| **Jersey** | 29,000 (2008) |
+| **Jordan** | 1.5 million (2008) |
+| **Kazakhstan** | 2.3 million (2008) |
+| **Kenya** | 3.36 million (2008) |
+| **Kiribati** | 2,000 (2008) |
+| **Korea, South** | 37.476 million (2008) |
+| **Kuwait** | 1 million (2008) |
+| **Kyrgyzstan** | 850,000 (2008) |
+| **Laos** | 130,000 (2008) |
+| **Latvia** | 1.254 million (2008) |
+| **Lebanon** | 2.19 million (2008) |
+| **Lesotho** | 73,300 (2008) |
+| **Liberia** | 20,000 (2008) |
+| **Libya** | 323,000 (2008) |
+| **Liechtenstein** | 23,000 (2008) |
+| **Lithuania** | 1.777 million (2008) |
+| **Luxembourg** | 387,000 (2008) |
+| **Macau** | 259,000 (2008) |
+| **Macedonia** | 847,900 (2008) |
+| **Madagascar** | 316,100 (2008) |
+| **Malawi** | 316,100 (2008) |
+| **Malaysia** | 16.903 million (2008) |
+| **Maldives** | 71,700 (2008) |
+| **Mali** | 200,000 (2008) |
+| **Malta** | 198,800 (2008) |
+| **Marshall Islands** | 2,200 (2008) |
+| **Mauritania** | 45,000 (2008) |
+| **Mauritius** | 380,000 (2008) |
+| **Mexico** | 23.26 million (2008) |
+| **Micronesia, Federated States of** | 16,000 (2008) |
+| **Moldova** | 850,000 (2008) |
+| **Monaco** | 22,000 (2008) |
+| **Mongolia** | 330,000 (2008) |
+| **Montenegro** | 294,000 (2008) |
+| **Montserrat** | 1,200 (2008) |
+| **Morocco** | 10.3 million (2008) |
+| **Mozambique** | 350,000 (2008) |
+| **Namibia** | 113,500 (2008) |
+| **Nepal** | 499,000 (2008) |
+| **Netherlands** | 14.273 million (2008) |
+| **New Caledonia** | 85,000 (2008) |
+| **New Zealand** | 3.047 million (2008) |
+| **Nicaragua** | 185,000 (2008) |
+| **Niger** | 80,000 (2008) |
+| **Nigeria** | 11 million (2008) |
+| **Niue** | 1,000 (2008) |
+| **Norway** | 3.935 million (2008) |
+| **Oman** | 465,000 (2008) |
+| **Pakistan** | 18.5 million (2008) |
+| **Panama** | 934,500 (2008) |
+| **Papua New Guinea** | 120,000 (2008) |
+| **Paraguay** | 894,200 (2008) |
+| **Peru** | 7.128 million (2008) |
+| **Philippines** | 5.618 million (2008) |
+| **Poland** | 18.679 million (2008) |
+| **Portugal** | 4.476 million (2008) |
+| **Puerto Rico** | 1 million (2008) |
+| **Qatar** | 436,000 (2008) |
+| **Romania** | 6.132 million (2008) |
+| **Russia** | 45.25 million (2008) |
+| **Rwanda** | 300,000 (2008) |
+| **Saint Helena** | 1,100; note - includes Ascension Island (2008) |
+| **Saint Kitts and Nevis** | 16,000 (2008) |
+| **Saint Lucia** | 100,000 (2008) |
+| **Saint Vincent and the Grenadines** | 66,000 (2008) |
+| **Samoa** | 9,000 (2008) |
+| **San Marino** | 17,000 (2008) |
+| **Sao Tome and Principe** | 24,800 (2008) |
+| **Saudi Arabia** | 7.7 million (2008) |
+| **Senegal** | 1.02 million (2008) |
+| **Serbia** | 2.936 million (2008) |
+| **Seychelles** | 32,000 (2008) |
+| **Sierra Leone** | 13,900 (2008) |
+| **Singapore** | 3.37 million (2008) |
+| **Slovakia** | 3.566 million (2008) |
+| **Slovenia** | 1.126 million (2008) |
+| **Solomon Islands** | 10,000 (2008) |
+| **Somalia** | 102,000 (2008) |
+| **South Africa** | 4.187 million (2008) |
+| **Spain** | 25.24 million (2008) |
+| **Sri Lanka** | 1.164 million (2008) |
+| **Sudan** | 4.2 million (2008) |
+| **Suriname** | 50,000 (2008) |
+| **Swaziland** | 48,200 (2008) |
+| **Sweden** | 8.1 million (2008) |
+| **Switzerland** | 5.739 million (2008) |
+| **Syria** | 3.565 million (2008) |
+| **Taiwan** | 15.143 million (2008) |
+| **Tajikistan** | 600,000 (2008) |
+| **Tanzania** | 520,000 (2008) |
+| **Thailand** | 16.1 million (2008) |
+| **Timor-Leste** | 1,800 (2008) |
+| **Togo** | 350,000 (2008) |
+| **Tokelau** | 800 (2008) |
+| **Tonga** | 8,400 (2008) |
+| **Trinidad and Tobago** | 227,000 (2008) |
+| **Tunisia** | 2.8 million (2008) |
+| **Turkey** | 24.483 million (2008) |
+| **Turkmenistan** | 75,000 (2008) |
+| **Tuvalu** | 4,200 (2008) |
+| **Uganda** | 2.5 million (2008) |
+| **Ukraine** | 10.354 million (2008) |
+| **United Arab Emirates** | 2.922 million (2008) |
+| **United Kingdom** | 48.755 million (2008) |
+| **United States** | 231 million (2008) |
+| **Uruguay** | 1.34 million (2008) |
+| **Uzbekistan** | 2.469 million (2008) |
+| **Vanuatu** | 17,000 (2008) |
+| **Venezuela** | 7.167 million (2008) |
+| **Vietnam** | 20.834 million (2008) |
+| **Virgin Islands** | 30,000 (2008) |
+| **Wallis and Futuna** | 1,200 (2008) |
+| **West Bank** | 356,000 (includes Gaza Strip) (2008) |
+| **World** | 1.604 billion (2008) |
+| **Yemen** | 370,000 (2008) |
+| **Zambia** | 700,000 (2008) |
+| **Zimbabwe** | 1.421 million (2008) |

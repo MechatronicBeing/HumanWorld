@@ -1,0 +1,255 @@
+CIA - The World Factbook 2002 -- Field Listing - Currency
+
+| Country | Currency |
+| --- | --- |
+| **Afghanistan** | afghani (AFA) |
+| **Albania** | lek (ALL) |
+| **Algeria** | Algerian dinar (DZD) |
+| **American Samoa** | US dollar (USD) |
+| **Andorra** | euro (EUR); French franc (FRF); Spanish peseta (ESP) |
+| **Angola** | kwanza (AOA) |
+| **Anguilla** | East Caribbean dollar (XCD) |
+| **Antigua and Barbuda** | East Caribbean dollar (XCD) |
+| **Argentina** | Argentine peso (ARS) |
+| **Armenia** | dram (AMD) |
+| **Aruba** | Aruban guilder/florin (AWG) |
+| **Australia** | Australian dollar (AUD) |
+| **Austria** | euro (EUR); Austrian schilling (ATS) |
+| | *note:* on 1 January 1999, the European Monetary Union introduced the euro as a common currency to be used by the financial institutions of member countries; on 1 January 2002, the euro became the sole currency for everyday transactions within the member countries |
+| **Azerbaijan** | Azerbaijani manat (AZM) |
+| **Bahamas, The** | Bahamian dollar (BSD) |
+| **Bahrain** | Bahraini dinar (BHD) |
+| **Bangladesh** | taka (BDT) |
+| **Barbados** | Barbadian dollar (BBD) |
+| **Belarus** | Belarusian ruble (BYB/BYR) |
+| **Belgium** | euro (EUR); Belgian franc (BEF) |
+| | *note:* on 1 January 1999, the European Monetary Union introduced the euro as a common currency to be used by financial institutions of member countries; on 1 January 2002, the euro became the sole currency for everyday transactions within the member countries |
+| **Belize** | Belizean dollar (BZD) |
+| **Benin** | Communaute Financiere Africaine franc (XOF); note - responsible authority is the Central Bank of the West African States |
+| **Bermuda** | Bermudian dollar (BMD) |
+| **Bhutan** | ngultrum (BTN); Indian rupee (INR) |
+| **Bolivia** | boliviano (BOB) |
+| **Bosnia and Herzegovina** | marka (BAM) |
+| **Botswana** | pula (BWP) |
+| **Brazil** | real (BRL) |
+| **British Virgin Islands** | US dollar (USD) |
+| **Brunei** | Bruneian dollar (BND) |
+| **Bulgaria** | lev (BGL) |
+| **Burkina Faso** | Communaute Financiere Africaine franc (XOF); note - responsible authority is the Central Bank of the West African States |
+| **Burma** | kyat (MMK) |
+| **Burundi** | Burundi franc (BIF) |
+| **Cambodia** | riel (KHR) |
+| **Cameroon** | Communaute Financiere Africaine franc (XAF); note - responsible authority is the Bank of the Central African States |
+| **Canada** | Canadian dollar (CAD) |
+| **Cape Verde** | Cape Verdean escudo (CVE) |
+| **Cayman Islands** | Caymanian dollar (KYD) |
+| **Central African Republic** | Communaute Financiere Africaine franc (XAF); note - responsible authority is the Bank of the Central African States |
+| **Chad** | Communaute Financiere Africaine franc (XAF); note - responsible authority is the Bank of the Central African States |
+| **Chile** | Chilean peso (CLP) |
+| **China** | yuan (CNY) |
+| **Christmas Island** | Australian dollar (AUD) |
+| **Cocos (Keeling) Islands** | Australian dollar (AUD) |
+| **Colombia** | Colombian peso (COP) |
+| **Comoros** | Comoran franc (KMF) |
+| **Congo, Democratic Republic of the** | Congolese franc (CDF) |
+| **Congo, Republic of the** | Communaute Financiere Africaine franc (XAF); note - responsible authority is the Bank of the Central African States |
+| **Cook Islands** | New Zealand dollar (NZD) |
+| **Costa Rica** | Costa Rican colon (CRC) |
+| **Cote d'Ivoire** | Communaute Financiere Africaine franc (XOF); note - responsible authority is the Central Bank of the West African States |
+| **Croatia** | kuna (HRK) |
+| **Cuba** | Cuban peso (CUP) |
+| **Cyprus** | *Greek Cypriot area:* Cypriot pound (CYP); Turkish Cypriot area: Turkish lira (TRL) |
+| **Czech Republic** | Czech koruna (CZK) |
+| **Denmark** | Danish krone (DKK) |
+| **Djibouti** | Djiboutian franc (DJF) |
+| **Dominica** | East Caribbean dollar (XCD) |
+| **Dominican Republic** | Dominican peso (DOP) |
+| **East Timor** | US dollar (USD) |
+| **Ecuador** | US dollar (USD) |
+| **Egypt** | Egyptian pound (EGP) |
+| **El Salvador** | Salvadoran colon (SVC); US dollar (USD) |
+| **Equatorial Guinea** | Communaute Financiere Africaine franc (XAF); note - responsible authority is the Bank of the Central African States |
+| **Eritrea** | nakfa (ERN) |
+| **Estonia** | Estonian kroon (EEK) |
+| **Ethiopia** | birr (ETB) |
+| **Falkland Islands (Islas Malvinas)** | Falkland pound (FKP) |
+| **Faroe Islands** | Danish krone (DKK) |
+| **Fiji** | Fijian dollar (FJD) |
+| **Finland** | euro (EUR); markka (FIM) |
+| | *note:* on 1 January 1999, the European Monetary Union introduced the euro as a common currency to be used by financial institutions of member countries; on 1 January 2002, the euro became the sole currency for everyday transactions within the member countries |
+| **France** | euro (EUR); French franc (FRF) |
+| | *note:* on 1 January 1999, the European Monetary Union introduced the euro as a common currency to be used by financial institutions of member countries; on 1 January 2002, the euro became the sole currency for everyday transactions within the member countries |
+| **French Guiana** | euro (EUR); French franc (FRF) |
+| **French Polynesia** | Comptoirs Francais du Pacifique franc (XPF); note - may adopt the euro in 2003 |
+| **Gabon** | Communaute Financiere Africaine franc (XAF); note - responsible authority is the Bank of the Central African States |
+| **Gambia, The** | dalasi (GMD) |
+| **Gaza Strip** | new Israeli shekel (ILS) |
+| **Georgia** | lari (GEL) |
+| **Germany** | euro (EUR); deutsche mark (DEM) |
+| | *note:* on 1 January 1999, the European Monetary Union introduced the euro as a common currency to be used by financial institutions of member countries; on 1 January 2002, the euro became the sole currency for everyday transactions within the member countries |
+| **Ghana** | cedi (GHC) |
+| **Gibraltar** | Gibraltar pound (GIP) |
+| **Greece** | euro (EUR); drachma (GRD) |
+| | *note:* on 1 January 1999, the European Monetary Union introduced the euro as a common currency to be used by financial institutions of member countries; on 1 January 2002, the euro became the sole currency for everyday transactions within the member countries |
+| **Greenland** | Danish krone (DKK) |
+| **Grenada** | East Caribbean dollar (XCD) |
+| **Guadeloupe** | euro (EUR); French franc (FRF) |
+| **Guam** | US dollar (USD) |
+| **Guatemala** | quetzal (GTQ), US dollar (USD), others allowed |
+| **Guernsey** | British pound (GBP); note - there is also a Guernsey pound |
+| **Guinea** | Guinean franc (GNF) |
+| **Guinea-Bissau** | Communaute Financiere Africaine franc (XOF); note - responsible authority is the Central Bank of the West African States; previously the Guinea-Bissau peso (GWP) was used |
+| **Guyana** | Guyanese dollar (GYD) |
+| **Haiti** | gourde (HTG) |
+| **Holy See (Vatican City)** | euro (EUR); Italian lira (ITL) |
+| **Honduras** | lempira (HNL) |
+| **Hong Kong** | Hong Kong dollar (HKD) |
+| **Hungary** | forint (HUF) |
+| **Iceland** | Icelandic krona (ISK) |
+| **India** | Indian rupee (INR) |
+| **Indonesia** | Indonesian rupiah (IDR) |
+| **Iran** | Iranian rial (IRR) |
+| **Iraq** | Iraqi dinar (IQD) |
+| **Ireland** | euro (EUR); Irish pound (IEP) |
+| | *note:* on 1 January 1999, the European Monetary Union introduced the euro as a common currency to be used by financial institutions of member countries; on 1 January 2002, the euro became the sole currency for everyday transactions within the member countries |
+| **Israel** | new Israeli shekel (ILS) |
+| **Italy** | euro (EUR); Italian lira (ITL) |
+| | *note:* on 1 January 1999, the European Monetary Union introduced the euro as a common currency to be used by financial institutions of member countries; on 1 January 2002, the euro became the sole currency for everyday transactions within the member countries |
+| **Jamaica** | Jamaican dollar (JMD) |
+| **Japan** | yen (JPY) |
+| **Jersey** | British pound (GBP); note - there is also a Jersey pound |
+| **Jordan** | Jordanian dinar (JOD) |
+| **Kazakhstan** | tenge (KZT) |
+| **Kenya** | Kenyan shilling (KES) |
+| **Kiribati** | Australian dollar (AUD) |
+| **Korea, North** | North Korean won (KPW) |
+| **Korea, South** | South Korean won (KRW) |
+| **Kuwait** | Kuwaiti dinar (KD) |
+| **Kyrgyzstan** | Kyrgyzstani som (KGS) |
+| **Laos** | kip (LAK) |
+| **Latvia** | Latvian lat (LVL) |
+| **Lebanon** | Lebanese pound (LBP) |
+| **Lesotho** | loti (LSL); South African rand (ZAR) |
+| **Liberia** | Liberian dollar (LRD) |
+| **Libya** | Libyan dinar (LYD) |
+| **Liechtenstein** | Swiss franc (CHF) |
+| **Lithuania** | litas (LTL) |
+| **Luxembourg** | euro (EUR); Luxembourg franc (LUF) |
+| | *note:* on 1 January 1999, the European Monetary Union introduced the euro as a common currency to be used by financial institutions of member countries; on 1 January 2002, the euro became the sole currency for everyday transactions within the member countries |
+| **Macau** | pataca (MOP) |
+| **Macedonia, The Former Yugoslav Republic of** | Macedonian denar (MKD) |
+| **Madagascar** | Malagasy franc (MGF) |
+| **Malawi** | Malawian kwacha (MWK) |
+| **Malaysia** | ringgit (MYR) |
+| **Maldives** | rufiyaa (MVR) |
+| **Mali** | Communaute Financiere Africaine franc (XOF); note - responsible authority is the Central Bank of the West African States |
+| **Malta** | Maltese lira (MTL) |
+| **Man, Isle of** | British pound (GBP); note - there is also a Manx pound |
+| **Marshall Islands** | US dollar (USD) |
+| **Martinique** | euro (EUR); French franc (FRF) |
+| **Mauritania** | ouguiya (MRO) |
+| **Mauritius** | Mauritian rupee (MUR) |
+| **Mayotte** | euro (EUR); French franc (FRF) |
+| **Mexico** | Mexican peso (MXN) |
+| **Micronesia, Federated States of** | US dollar (USD) |
+| **Moldova** | Moldovan leu (MDL) |
+| **Monaco** | euro (EUR); French franc (FRF) |
+| **Mongolia** | togrog/tugrik (MNT) |
+| **Montserrat** | East Caribbean dollar (XCD) |
+| **Morocco** | Moroccan dirham (MAD) |
+| **Mozambique** | metical (MZM) |
+| **Namibia** | Namibian dollar (NAD); South African rand (ZAR) |
+| **Nauru** | Australian dollar (AUD) |
+| **Nepal** | Nepalese rupee (NPR) |
+| **Netherlands** | euro (EUR); Netherlands guilder (NLG) |
+| | *note:* on 1 January 1999, the European Monetary Union introduced the euro as a common currency to be used by financial institutions of member countries; on 1 January 2002, the euro became the sole currency for everyday transactions within the member countries |
+| **Netherlands Antilles** | Netherlands Antillean guilder (ANG) |
+| **New Caledonia** | Comptoirs Francais du Pacifique franc (XPF); note - may adopt the euro in 2003 |
+| **New Zealand** | New Zealand dollar (NZD) |
+| **Nicaragua** | gold cordoba (NIO) |
+| **Niger** | Communaute Financiere Africaine franc (XOF); note - responsible authority is the Central Bank of the West African States |
+| **Nigeria** | naira (NGN) |
+| **Niue** | New Zealand dollar (NZD) |
+| **Norfolk Island** | Australian dollar (AUD) |
+| **Northern Mariana Islands** | US dollar (USD) |
+| **Norway** | Norwegian krone (NOK) |
+| **Oman** | Omani rial (OMR) |
+| **Pakistan** | Pakistani rupee (PKR) |
+| **Palau** | US dollar (USD) |
+| **Panama** | balboa (PAB); US dollar (USD) |
+| **Papua New Guinea** | kina (PGK) |
+| **Paraguay** | guarani (PYG) |
+| **Peru** | nuevo sol (PEN) |
+| **Philippines** | Philippine peso (PHP) |
+| **Pitcairn Islands** | New Zealand dollar (NZD) |
+| **Poland** | zloty (PLN) |
+| **Portugal** | euro (EUR); Portuguese escudo (PTE) |
+| | *note:* on 1 January 1999, the European Monetary Union introduced the euro as a common currency to be used by financial institutions of member countries; on 1 January 2002, the euro became the sole currency for everyday transactions within the member countries |
+| **Puerto Rico** | US dollar (USD) |
+| **Qatar** | Qatari rial (QAR) |
+| **Reunion** | euro (EUR); French franc (FRF) |
+| **Romania** | leu (ROL) |
+| **Russia** | Russian ruble (RUR) |
+| **Rwanda** | Rwandan franc (RWF) |
+| **Saint Helena** | Saint Helenian pound (SHP) |
+| **Saint Kitts and Nevis** | East Caribbean dollar (XCD) |
+| **Saint Lucia** | East Caribbean dollar (XCD) |
+| **Saint Pierre and Miquelon** | euro (EUR); French franc (FRF) |
+| **Saint Vincent and the Grenadines** | East Caribbean dollar (XCD) |
+| **Samoa** | tala (WST) |
+| **San Marino** | euro (EUR); Italian lira (ITL) |
+| **Sao Tome and Principe** | dobra (STD) |
+| **Saudi Arabia** | Saudi riyal (SAR) |
+| **Senegal** | Communaute Financiere Africaine franc (XOF); note - responsible authority is the Central Bank of the West African States |
+| **Serbia and Montenegro** | new Yugoslav dinar (YUM); note - in Montenegro the euro is legal tender; in Kosovo both the euro and the Yugoslav dinar are legal (2002) |
+| **Seychelles** | Seychelles rupee (SCR) |
+| **Sierra Leone** | leone (SLL) |
+| **Singapore** | Singapore dollar (SGD) |
+| **Slovakia** | Slovak koruna (SKK) |
+| **Slovenia** | tolar (SIT) |
+| **Solomon Islands** | Solomon Islands dollar (SBD) |
+| **Somalia** | Somali shilling (SOS) |
+| **South Africa** | rand (ZAR) |
+| **Spain** | euro (EUR); Spanish peseta (ESP) |
+| | *note:* on 1 January 1999, the European Monetary Union introduced the euro as a common currency to be used by the financial institutions of member countries; on 1 January 2002, the euro became the sole currency for everyday transactions with the member countries |
+| **Sri Lanka** | Sri Lankan rupee (LKR) |
+| **Sudan** | Sudanese dinar (SDD) |
+| **Suriname** | Surinamese guilder (SRG) |
+| **Svalbard** | Norwegian krone (NOK) |
+| **Swaziland** | lilangeni (SZL) |
+| **Sweden** | Swedish krona (SEK) |
+| **Switzerland** | Swiss franc (CHF) |
+| **Syria** | Syrian pound (SYP) |
+| **Taiwan** | new Taiwan dollar (TWD) |
+| **Tajikistan** | somoni |
+| **Tanzania** | Tanzanian shilling (TZS) |
+| **Thailand** | baht (THB) |
+| **Togo** | Communaute Financiere Africaine franc (XOF); note - responsible authority is the Central Bank of the West African States |
+| **Tokelau** | New Zealand dollar (NZD) |
+| **Tonga** | pa'anga (TOP) |
+| **Trinidad and Tobago** | Trinidad and Tobago dollar (TTD) |
+| **Tunisia** | Tunisian dinar (TND) |
+| **Turkey** | Turkish lira (TRL) |
+| **Turkmenistan** | Turkmen manat (TMM) |
+| **Turks and Caicos Islands** | US dollar (USD) |
+| **Tuvalu** | Australian dollar (AUD); note - there is also a Tuvaluan dollar |
+| **Uganda** | Ugandan shilling (UGX) |
+| **Ukraine** | hryvnia (UAH) |
+| **United Arab Emirates** | Emirati dirham (AED) |
+| **United Kingdom** | British pound (GBP) |
+| **United States** | US dollar (USD) |
+| **Uruguay** | Uruguayan peso (UYU) |
+| **Uzbekistan** | Uzbekistani sum (UZS) |
+| **Vanuatu** | vatu (VUV) |
+| **Venezuela** | bolivar (VEB) |
+| **Vietnam** | dong (VND) |
+| **Virgin Islands** | US dollar (USD) |
+| **Wallis and Futuna** | Comptoirs Francais du Pacifique franc (XPF); note - may adopt the euro in 2003 |
+| **West Bank** | new Israeli shekel (ILS); Jordanian dinar (JOD) |
+| **Western Sahara** | Moroccan dirham (MAD) |
+| **Yemen** | Yemeni rial (YER) |
+| **Zambia** | Zambian kwacha (ZMK) |
+| **Zimbabwe** | Zimbabwean dollar (ZWD) |
+
+This page was last updated on 19 March 2003
+ 

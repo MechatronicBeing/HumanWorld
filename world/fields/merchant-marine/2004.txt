@@ -1,0 +1,607 @@
+CIA - The World Factbook -- Field Listing - Merchant marine
+
+| Country | Merchant marine |
+| --- | --- |
+| **Albania** | *total:* 22 ships (1,000 GRT or over) 40,878 GRT/62,676 DWT |
+| | *by type:* bulk 1, cargo 19, petroleum tanker 1, roll on/roll off 1 |
+| | *foreign-owned:* Denmark 1, Honduras 1, Netherlands 1 |
+| | *registered in other countries:* 7 (2004 est.) |
+| **Algeria** | *total:* 59 ships (1,000 GRT or over) 837,676 GRT/929,847 DWT |
+| | *by type:* bulk 9, cargo 16, chemical tanker 6, liquefied gas 10, petroleum tanker 4, roll on/roll off 9, short-sea/passenger 4, specialized tanker 1 |
+| | *foreign-owned:* United Kingdom 4 |
+| | *registered in other countries:* 4 (2004 est.) |
+| **American Samoa** | none |
+| **Angola** | *total:* 7 ships (1,000 GRT or over) 26,123 GRT/42,879 DWT |
+| | *by type:* cargo 6, petroleum tanker 1 |
+| | *registered in other countries:* 4 (2004 est.) |
+| **Anguilla** | none |
+| **Antigua and Barbuda** | *total:* 867 ships (1,000 GRT or over) 5,873,626 GRT/7,683,143 DWT |
+| | *by type:* bulk 25, cargo 477, chemical tanker 13, container 284, liquefied gas 10, multi-functional large load carrier 15, refrigerated cargo 10, roll on/roll off 32, vehicle carrier 1 |
+| | *foreign-owned:* Australia 1, Bahamas 1, Bangladesh 2, Belgium 3, Colombia 1, Cuba 1, Cyprus 1, Estonia 3, France 1, Germany 818, Greece 2, Iceland 5, Latvia 1, Lebanon 1, Lithuania 2, Malaysia 1, Netherlands 19, New Zealand 1, Norway 2, Portugal 1, Slovenia 5, Sweden 2, Switzerland 5, Turkey 3, United States 10 |
+| | *registered in other countries:* 2 (2004 est.) |
+| **Argentina** | *total:* 45 ships (1,000 GRT or over) 149,007 GRT/212,620 DWT |
+| | *by type:* cargo 9, petroleum tanker 9, rail car carrier 1, refrigerated cargo 2, roll on/roll off 1, short-sea/passenger 1, specialized tanker 1 |
+| | *foreign-owned:* Uruguay 1 |
+| | *registered in other countries:* 26 (2004 est.) |
+| **Aruba** | *total:* 3 ships (1,000 GRT or over) 5,772 GRT/7,068 DWT |
+| | *by type:* cargo 1, petroleum tanker 2 |
+| | *foreign-owned:* Germany 1, Russia 1 |
+| | *registered in other countries:* 1 (2003 est.) |
+| **Australia** | *total:* 52 ships (1,000 GRT or over) 1,531,461 GRT/1,999,409 DWT |
+| | *by type:* bulk 20, cargo 5, chemical tanker 3, combination bulk 2, container 3, liquefied gas 4, passenger 2, petroleum tanker 7, roll on/roll off 6 |
+| | *foreign-owned:* United Kingdom 2, United States 12 |
+| | *registered in other countries:* 60 (2004 est.) |
+| **Austria** | *total:* 6 ships (1,000 GRT or over) 29,624 GRT/37,425 DWT |
+| | *by type:* cargo 4, container 2 |
+| | *foreign-owned:* Netherlands 1 |
+| | *registered in other countries:* 34 (2004 est.) |
+| **Azerbaijan** | *total:* 56 ships (1,000 GRT or over) 253,004 GRT/318,922 DWT |
+| | *by type:* cargo 14, petroleum tanker 40, roll on/roll off 2 |
+| | *foreign-owned:* Russia 1 (2004 est.) |
+| **Bahamas, The** | *total:* 1,035 ships (1,000 GRT or over) 31,631,252 GRT/43,025,977 DWT |
+| | *by type:* bulk 165, cargo 188, chemical tanker 45, combination bulk 10, combination ore/oil 17, container 97, liquefied gas 27, livestock carrier 2, multi-functional large load carrier 4, passenger 108, passenger/cargo 1, petroleum tanker 163, refrigerated cargo 133, roll on/roll off 34, short-sea/passenger 18, specialized tanker 3, vehicle carrier 20 |
+| | *foreign-owned:* Algeria 1, Australia 7, Belgium 14, Bermuda 1, Canada 4, Chile 1, China 4, Croatia 1, Cuba 3, Cyprus 14, Denmark 49, Estonia 1, Faroe Islands 1, Finland 9, France 21, Germany 13, Gibraltar 1, Greece 163, Hong Kong 9, India 1, Indonesia 3, Ireland 1, Israel 3, Italy 7, Japan 35, Kenya 2, South Korea 1, Latvia 1, Liberia 1, Malaysia 11, Malta 1, Monaco 68, Netherlands 29, New Zealand 1, Norway 231, Panama 2, Philippines 3, Poland 14, Reunion 1, Russia 1, Saudi Arabia 9, Singapore 13, Slovenia 1, Spain 6, Sweden 9, Switzerland 1, Thailand 1, Trinidad and Tobago 2 |
+| | *registered in other countries:* 11 (2004 est.) |
+| **Bahrain** | *total:* 6 ships (1,000 GRT or over) 219,083 GRT/312,638 DWT |
+| | *by type:* bulk 3, container 2, petroleum tanker 1 |
+| | *foreign-owned:* Hong Kong 1, Kuwait 1 |
+| | *registered in other countries:* 2 (2004 est.) |
+| **Bangladesh** | *total:* 40 ships (1,000 GRT or over) 319,897 GRT/440,575 DWT |
+| | *by type:* bulk 2, cargo 24, container 10, passenger 1, petroleum tanker 2, refrigerated cargo 1 |
+| | *foreign-owned:* China 1, Singapore 9 |
+| | *registered in other countries:* 10 (2004 est.) |
+| **Barbados** | *total:* 42 ships (1,000 GRT or over) 427,465 GRT/668,195 DWT |
+| | *by type:* bulk 11, cargo 20, chemical tanker 1, combination bulk 3, petroleum tanker 6, roll on/roll off 1 |
+| | *foreign-owned:* Australia 1, Bahamas 1, Bangladesh 1, Canada 5, Greece 7, Hong Kong 7, Italy 2, Lebanon 1, Norway 9, United Kingdom 10 |
+| | *registered in other countries:* 3 (2004 est.) |
+| **Belgium** | *total:* 50 ships (1,000 GRT or over) 1,146,301 GRT/1,588,184 DWT |
+| | *by type:* bulk 1, cargo 8, chemical tanker 11, container 6, liquefied gas 18, petroleum tanker 6 |
+| | *foreign-owned:* Denmark 6, Finland 1, France 2, Netherlands 3 |
+| | *registered in other countries:* 69 (2004 est.) |
+| **Belize** | *total:* 336 ships (1,000 GRT or over) 1,015,270 GRT/1,336,890 DWT |
+| | *by type:* bulk 13, cargo 240, chemical tanker 11, combination bulk 4, combination ore/oil 1, container 10, multi-functional large load carrier 1, petroleum tanker 27, refrigerated cargo 18, roll on/roll off 8, short-sea/passenger 1, specialized tanker 2 |
+| | *foreign-owned:* Bahamas 2, Belgium 1, British Virgin Islands 11, Cambodia 6, China 67, Cuba 2, Cyprus 1, Ecuador 1, Estonia 8, Germany 5, Greece 2, Grenada 1, Honduras 1, Hong Kong 27, Indonesia 4, Italy 2, Japan 5, Jordan 1, South Korea 13, Latvia 5, Liberia 2, Malaysia 4, Malta 1, Isle of Man 1, Marshall Islands 16, Mexico 1, Netherlands 1, Nigeria 2, Panama 15, Philippines 4, Portugal 1, Russia 9, Saint Vincent and the Grenadines 3, Singapore 9, Spain 6, Switzerland 2, Taiwan 1, Thailand 3, Tunisia 1, Turkey 2, Ukraine 3, United Kingdom 1, United States 3, Yemen 1 |
+| | *registered in other countries:* 25 (2004 est.) |
+| **Benin** | none |
+| **Bermuda** | *total:* 94 ships (1,000 GRT or over) 4,845,326 GRT/6,501,782 DWT |
+| | *by type:* bulk 25, cargo 4, container 17, liquefied gas 9, passenger 6, petroleum tanker 9, refrigerated cargo 11, roll on/roll off 10, short-sea/passenger 3 |
+| | *foreign-owned:* Croatia 5, Germany 2, Greece 21, Hong Kong 9, Indonesia 1, Sweden 6, Switzerland 1, United Kingdom 33, United States 12 |
+| | *registered in other countries:* 2 (2004 est.) |
+| **Bolivia** | *total:* 56 ships (1,000 GRT or over) 413,407 GRT/699,901 DWT |
+| | *by type:* bulk 3, cargo 26, chemical tanker 4, container 3, livestock carrier 1, multi-functional large load carrier 1, petroleum tanker 10, refrigerated cargo 2, roll on/roll off 1, short-sea/passenger 3, specialized tanker 2 |
+| | *foreign-owned:* Argentina 1, British Virgin Islands 1, Cambodia 1, China 1, Cyprus 1, Egypt 1, Eritrea 1, Germany 2, Greece 1, Hong Kong 1, Indonesia 1, Iran 1, Italy 2, Latvia 2, Panama 3, Romania 1, Russia 1, Saint Kitts and Nevis 1, Saint Vincent and the Grenadines 1, Saudi Arabia 2, Singapore 3, Syria 1, Turkey 1, United Kingdom 1, United States 3, Yemen 2 |
+| | *registered in other countries:* 1 (2004 est.) |
+| **Bosnia and Herzegovina** | none |
+| **Brazil** | *total:* 151 ships (1,000 GRT or over) 2,961,431 GRT/4,725,267 DWT |
+| | *by type:* bulk 29, cargo 22, chemical tanker 7, combination ore/oil 6, container 12, liquefied gas 12, multi-functional large load carrier 1, passenger/cargo 5, petroleum tanker 48, roll on/roll off 8, short-sea/passenger 1 |
+| | *foreign-owned:* Chile 2, Germany 7, Monaco 9, Panama 1, Spain 7 |
+| | *registered in other countries:* 11 (2004 est.) |
+| **British Virgin Islands** | *total:* 3 ships (1,000 GRT or over) 83,825 GRT/155,909 DWT |
+| | *by type:* cargo 1, liquefied gas 1, petroleum tanker 1 |
+| | *foreign-owned:* Norway 1 |
+| | *registered in other countries:* 32 (2004 est.) |
+| **Brunei** | *total:* 8 ships (1,000 GRT or over) 465,937 GRT/413,393 DWT |
+| | *by type:* liquefied gas 8 |
+| | *foreign-owned:* United Kingdom 8 (2004 est.) |
+| **Bulgaria** | *total:* 60 ships (1,000 GRT or over) 757,972 GRT/1,115,238 DWT |
+| | *by type:* bulk 37, cargo 7, chemical tanker 4, container 2, petroleum tanker 3, rail car carrier 2, roll on/roll off 3, short-sea/passenger 1, specialized tanker 1 |
+| | *registered in other countries:* 45 (2004 est.) |
+| **Burma** | *total:* 31 ships (1,000 GRT or over) 384,529 GRT/608,609 DWT |
+| | *by type:* bulk 8, cargo 18, container 1, passenger/cargo 3, petroleum tanker 1 |
+| | *foreign-owned:* Germany 6, Japan 4 (2004 est.) |
+| **Cambodia** | *total:* 467 ships (1,000 GRT or over) 1,913,910 GRT/2,713,967 DWT |
+| | *by type:* bulk 42, cargo 360, chemical tanker 6, combination bulk 3, container 13, liquefied gas 1, livestock carrier 4, multi-functional large load carrier 1, passenger/cargo 1, petroleum tanker 16, refrigerated cargo 13, roll on/roll off 5, short-sea/passenger 2 |
+| | *foreign-owned:* Algeria 2, Angola 1, Aruba 1, Bahamas 1, Belize 10, British Virgin Islands 7, Bulgaria 1, Canada 4, China 35, Cyprus 14, Egypt 8, Finland 1, France 1, Georgia 1, Germany 1, Gibraltar 1, Greece 9, Honduras 8, Hong Kong 12, Indonesia 2, Iran 1, Italy 2, Japan 1, Jordan 1, North Korea 2, South Korea 31, Lebanon 2, Liberia 7, Malaysia 1, Malta 2, Marshall Islands 11, Netherlands 2, Nigeria 2, Norway 1, Panama 8, Romania 1, Russia 81, Saint Kitts and Nevis 2, Saint Vincent and the Grenadines 5, Samoa 2, Singapore 7, Spain 1, Syria 19, Taiwan 1, Turkey 11 |
+| | *registered in other countries:* 19 (2004 est.) |
+| **Cameroon** | *total:* 1 ships (1,000 GRT or over) 169,593 GRT/357,023 DWT |
+| | *by type:* petroleum tanker 1 (2004 est.) |
+| **Canada** | *total:* 119 ships (1,000 GRT or over) 1,784,229 GRT/2,657,499 DWT |
+| | *by type:* barge carrier 1, bulk 59, cargo 13, chemical tanker 6, combination bulk 2, combination ore/oil 1, passenger 2, passenger/cargo 1, petroleum tanker 18, rail car carrier 1, roll on/roll off 11, short-sea/passenger 3, specialized tanker 1 |
+| | *foreign-owned:* Germany 3, Hong Kong 2, Monaco 18, United Kingdom 3, United States 2 |
+| | *registered in other countries:* 43 (2004 est.) |
+| **Cape Verde** | *total:* 4 ships (1,000 GRT or over) 5,395 GRT/6,614 DWT |
+| | *by type:* cargo 2, chemical tanker 1, passenger/cargo 1 |
+| | *foreign-owned:* United Kingdom 1 (2004 est.) |
+| **Cayman Islands** | *total:* 137 ships (1,000 GRT or over) 2,827,837 GRT/4,555,974 DWT |
+| | *by type:* bulk 27, cargo 7, chemical tanker 36, container 2, liquefied gas 1, petroleum tanker 25, refrigerated cargo 33, roll on/roll off 4, short-sea/passenger 1, specialized tanker 1 |
+| | *foreign-owned:* Germany 9, Greece 25, Hong Kong 3, Italy 14, Norway 4, Singapore 1, Spain 11, Sweden 13, Switzerland 1, United Kingdom 18, United States 43 |
+| | *registered in other countries:* 2 (2004 est.) |
+| **Chile** | *total:* 47 ships (1,000 GRT or over) 725,216 GRT/954,519 DWT |
+| | *by type:* bulk 10, cargo 5, chemical tanker 9, container 3, liquefied gas 1, passenger 3, petroleum tanker 7, roll on/roll off 4, short-sea/passenger 1, vehicle carrier 4 |
+| | *foreign-owned:* Argentina 1 |
+| | *registered in other countries:* 28 (2004 est.) |
+| **China** | *total:* 1,850 ships (1,000 GRT or over) 18,724,653 GRT/27,749,784 DWT |
+| | *by type:* barge carrier 2, bulk 355, cargo 822, chemical tanker 28, combination bulk 10, combination ore/oil 2, container 165, liquefied gas 28, multi-functional large load carrier 8, passenger 6, passenger/cargo 46, petroleum tanker 272, rail car carrier 1, refrigerated cargo 27, roll on/roll off 25, short-sea/passenger 39, specialized tanker 10, vehicle carrier 4 |
+| | *foreign-owned:* Cambodia 1, Greece 2, Hong Kong 12, Japan 1, South Korea 2, Liberia 1, Malaysia 1, Panama 1, Taiwan 2, Tanzania 1 |
+| | *registered in other countries:* 790 (2004 est.) |
+| **Colombia** | *total:* 13 ships (1,000 GRT or over) 35,427 GRT/46,301 DWT |
+| | *by type:* bulk 4, cargo 5, container 1, liquefied gas 1, petroleum tanker 2 |
+| | *registered in other countries:* 16 (2004 est.) |
+| **Comoros** | *total:* 62 ships (1,000 GRT or over) 452,801 GRT/681,343 DWT |
+| | *by type:* bulk 9, cargo 31, chemical tanker 1, combination bulk 1, livestock carrier 1, passenger 4, petroleum tanker 5, refrigerated cargo 3, roll on/roll off 1, short-sea/passenger 2, specialized tanker 4 |
+| | *foreign-owned:* Bahamas 1, Bulgaria 1, Cyprus 1, Greece 7, Honduras 1, India 1, Kenya 1, Lebanon 7, Liberia 1, Marshall Islands 3, Pakistan 4, Panama 2, Russia 1, Saint Vincent and the Grenadines 1, Saudi Arabia 2, Syria 4, Turkey 21, United Kingdom 1, United States 1, Yemen 2 (2004 est.) |
+| **Congo, Democratic Republic of the** | none |
+| **Cook Islands** | *total:* 2 ships (1,000 GRT or over) 4,074 GRT/7,520 DWT |
+| | *by type:* cargo 1, petroleum tanker 1 |
+| | *foreign-owned:* Australia 1, United Kingdom 1 (2004 est.) |
+| **Costa Rica** | *total:* 1 ships (1,000 GRT or over) 1,716 GRT/ DWT |
+| | *by type:* passenger 1 |
+| | *registered in other countries:* 1 (2004 est.) |
+| **Croatia** | *total:* 51 ships (1,000 GRT or over) 750,579 GRT/1,178,786 DWT |
+| | *by type:* bulk 16, cargo 14, chemical tanker 4, combination bulk 5, multi-functional large load carrier 1, passenger 1, petroleum tanker 2, refrigerated cargo 1, roll on/roll off 4, short-sea/passenger 3 |
+| | *foreign-owned:* Hong Kong 3, Russia 1 |
+| | *registered in other countries:* 44 (2004 est.) |
+| **Cuba** | *total:* 13 ships (1,000 GRT or over) 54,818 GRT/81,850 DWT |
+| | *by type:* bulk 3, cargo 4, liquefied gas 1, petroleum tanker 3, refrigerated cargo 2 |
+| | *registered in other countries:* 35 (2004 est.) |
+| **Cyprus** | *total:* 1,066 ships (1,000 GRT or over) 22,016,374 GRT/35,760,004 DWT |
+| | *by type:* bulk 403, cargo 276, chemical tanker 28, combination bulk 21, combination ore/oil 2, container 145, liquefied gas 1, multi-functional large load carrier 2, passenger 8, passenger/cargo 1, petroleum tanker 109, refrigerated cargo 30, roll on/roll off 29, short-sea/passenger 5, specialized tanker 3, vehicle carrier 3 |
+| | *foreign-owned:* Austria 11, Belgium 1, Bulgaria 1, Canada 6, China 13, Croatia 2, Cuba 8, Egypt 2, Estonia 2, Germany 210, Greece 499, Guam 1, Hong Kong 5, India 6, Iran 3, Ireland 1, Israel 3, Italy 2, Japan 20, South Korea 6, Latvia 11, Malta 1, Mexico 1, Monaco 3, Netherlands 18, Norway 7, Panama 1, Philippines 2, Poland 20, Portugal 2, Russia 51, Singapore 2, Slovenia 4, Spain 5, Sudan 2, Sweden 6, Switzerland 1, Ukraine 2, United Kingdom 16, United States 4, Vietnam 1 |
+| | *registered in other countries:* 100 (2004 est.) |
+| **Denmark** | *total:* 276 ships (1,000 GRT or over) 6,952,473 GRT/9,030,444 DWT |
+| | *by type:* bulk 4, cargo 77, chemical tanker 36, container 83, liquefied gas 15, livestock carrier 5, petroleum tanker 27, rail car carrier 1, refrigerated cargo 8, roll on/roll off 11, short-sea/passenger 5, specialized tanker 4 |
+| | *foreign-owned:* Germany 1, Greece 1, Indonesia 2, Norway 5 |
+| | *registered in other countries:* 284 (2004 est.) |
+| **Djibouti** | *total:* 1 ships (1,000 GRT or over) 1,369 GRT/3,030 DWT |
+| | *by type:* cargo 1 (2004 est.) |
+| **Dominica** | *total:* 6 ships (1,000 GRT or over) 13,771 GRT/19,736 DWT |
+| | *by type:* cargo 3, container 2, petroleum tanker 1 |
+| | *foreign-owned:* Bahamas 1, Cyprus 1, Estonia 1, Greece 1, Panama 1, Singapore 1 (2004 est.) |
+| **Dominican Republic** | *total:* 3 ships (1,000 GRT or over) 11,230 GRT/17,011 DWT |
+| | *by type:* cargo 1, petroleum tanker 2 |
+| | *foreign-owned:* Pakistan 1, Singapore 1 |
+| | *registered in other countries:* 1 (2004 est.) |
+| **East Timor** | none |
+| **Ecuador** | *total:* 34 ships (1,000 GRT or over) 241,403 GRT/391,898 DWT |
+| | *by type:* cargo 2, chemical tanker 4, liquefied gas 1, passenger 5, petroleum tanker 21, specialized tanker 1 |
+| | *foreign-owned:* Greece 1, Paraguay 1, Peru 1 |
+| | *registered in other countries:* 3 (2004 est.) |
+| **Egypt** | *total:* 159 ships (1,000 GRT or over) 1,194,696 GRT/1,754,815 DWT |
+| | *by type:* bulk 18, cargo 41, container 5, passenger 64, petroleum tanker 14, roll on/roll off 13, short-sea/passenger 4 |
+| | *foreign-owned:* China 2, Cyprus 1, Denmark 1, Greece 6, Lebanon 2, Turkey 1 |
+| | *registered in other countries:* 50 (2004 est.) |
+| **El Salvador** | none |
+| **Equatorial Guinea** | *total:* 3 ships (1,000 GRT or over) 6,556 GRT/9,704 DWT |
+| | *by type:* cargo 2, passenger/cargo 1 |
+| | *registered in other countries:* 1 (2004 est.) |
+| **Eritrea** | *total:* 5 ships (1,000 GRT or over) 16,069 GRT/19,549 DWT |
+| | *by type:* bulk 1, cargo 1, liquefied gas 1, petroleum tanker 1, roll on/roll off 1 |
+| | *registered in other countries:* 1 (2004 est.) |
+| **Estonia** | *total:* 32 ships (1,000 GRT or over) 212,998 GRT/177,488 DWT |
+| | *by type:* bulk 2, cargo 12, container 4, petroleum tanker 2, roll on/roll off 7, short-sea/passenger 5 |
+| | *foreign-owned:* Netherlands 1 |
+| | *registered in other countries:* 45 (2004 est.) |
+| **Ethiopia** | *total:* 9 ships (1,000 GRT or over) 81,933 GRT/101,287 DWT |
+| | *by type:* cargo 5, container 1, petroleum tanker 1, roll on/roll off 2 (2004 est.) |
+| **Faroe Islands** | *total:* 7 ships (1,000 GRT or over) 24,051 GRT/11,998 DWT |
+| | *by type:* cargo 3, container 1, petroleum tanker 1, roll on/roll off 1, short-sea/passenger 1 |
+| | *foreign-owned:* Denmark 2, Norway 1, United Kingdom 1 |
+| | *registered in other countries:* 1 (2004 est.) |
+| **Fiji** | *total:* 2 ships (1,000 GRT or over) 6,372 GRT/7,453 DWT |
+| | *by type:* chemical tanker 1, passenger 1 |
+| | *foreign-owned:* Australia 1, Singapore 1 (2004 est.) |
+| **Finland** | *total:* 90 ships (1,000 GRT or over) 1,152,175 GRT/1,053,906 DWT |
+| | *by type:* bulk 9, cargo 26, chemical tanker 5, container 1, passenger 2, petroleum tanker 9, roll on/roll off 28, short-sea/passenger 10 |
+| | *foreign-owned:* Estonia 1 |
+| | *registered in other countries:* 39 (2004 est.) |
+| **France** | *total:* 32 ships (1,000 GRT or over) 703,639 GRT/889,705 DWT |
+| | *by type:* cargo 3, chemical tanker 6, container 2, liquefied gas 4, passenger 1, petroleum tanker 10, roll on/roll off 2, short-sea/passenger 4 |
+| | *foreign-owned:* Germany 1, Monaco 2, New Caledonia 1, Sweden 5 |
+| | *registered in other countries:* 118 (2004 est.) |
+| **French Polynesia** | *total:* 10 ships (1,000 GRT or over) 17,537 GRT/15,150 DWT |
+| | *by type:* cargo 3, passenger 2, passenger/cargo 3, refrigerated cargo 1, roll on/roll off 1 (2004 est.) |
+| **French Southern and Antarctic Lands** | *total:* 70 ships (1,000 GRT or over) 3,092,387 GRT/5,056,658 DWT |
+| | *by type:* bulk 4, cargo 2, chemical tanker 19, container 11, liquefied gas 7, petroleum tanker 14, roll on/roll off 11, vehicle carrier 2 |
+| | *foreign-owned:* Denmark 2, France 49, Japan 4, Monaco 5, Norway 5, Sweden 5 (2004 est.) |
+| **Gambia, The** | none (2004 est.) |
+| **Georgia** | *total:* 144 ships (1,000 GRT or over) 855,908 GRT/1,288,812 DWT |
+| | *by type:* bulk 20, cargo 95, chemical tanker 1, container 11, liquefied gas 1, multi-functional large load carrier 1, passenger 1, petroleum tanker 9, refrigerated cargo 1, roll on/roll off 2, short-sea/passenger 1, specialized tanker 1 |
+| | *foreign-owned:* Albania 2, Belize 2, British Virgin Islands 2, Bulgaria 1, Cyprus 5, Ecuador 1, Egypt 3, Estonia 1, Germany 1, Gibraltar 1, Greece 13, Israel 1, Italy 1, Latvia 4, Lebanon 3, Liberia 2, Madagascar 1, Malta 1, Netherlands 2, Norway 1, Panama 8, Romania 6, Russia 10, Saint Kitts and Nevis 3, Saint Vincent and the Grenadines 4, Saudi Arabia 1, Syria 31, Turkey 10, Ukraine 16, |
+| | *registered in other countries:* 1 (2004 est.) |
+| **Germany** | *total:* 278 ships (1,000 GRT or over) 5,721,495 GRT/6,810,631 DWT |
+| | *by type:* cargo 71, chemical tanker 14, container 169, liquefied gas 3, multi-functional large load carrier 1, passenger 3, petroleum tanker 5, rail car carrier 2, roll on/roll off 3, short-sea/passenger 7 |
+| | *foreign-owned:* Finland 4, Iceland 1, Netherlands 3 |
+| | *registered in other countries:* 2,295 (2004 est.) |
+| **Ghana** | *total:* 8 ships (1,000 GRT or over) 19,086 GRT/26,185 DWT |
+| | *by type:* petroleum tanker 3, refrigerated cargo 5 |
+| | *foreign-owned:* Brazil 1, Saint Vincent and the Grenadines 1, Spain 1 (2004 est.) |
+| **Gibraltar** | *total:* 133 ships (1,000 GRT or over) 980,636 GRT/1,254,661 DWT |
+| | *by type:* bulk 3, cargo 69, chemical tanker 14, container 27, multi-functional large load carrier 3, passenger 2, petroleum tanker 13, roll on/roll off 2 |
+| | *foreign-owned:* Belgium 1, Cyprus 3, Denmark 1, Estonia 1, France 1, Germany 92, Greece 11, Hong Kong 2, Iceland 1, Monaco 4, Norway 6, Spain 1, United Kingdom 6, United States 2 |
+| | *registered in other countries:* 4 (2004 est.) |
+| **Greece** | *total:* 793 ships (1,000 GRT or over) 30,186,624 GRT/52,943,968 DWT |
+| | *by type:* bulk 298, cargo 57, chemical tanker 38, combination bulk 5, combination ore/oil 3, container 49, liquefied gas 5, passenger 10, petroleum tanker 267, refrigerated cargo 1, roll on/roll off 19, short-sea/passenger 38, specialized tanker 3 |
+| | *foreign-owned:* Belgium 1, Cyprus 1, Israel 1, Italy 1, Liberia 3, Malta 1, Marshall Islands 1, Norway 2, Panama 3, Singapore 1, Sweden 1, United Kingdom 2, United States 5 |
+| | *registered in other countries:* 2,443 (2004 est.) |
+| **Greenland** | *total:* 3 ships (1,000 GRT or over) 4,593 GRT/3,640 DWT |
+| | *by type:* cargo 2, passenger 1 |
+| | *foreign-owned:* Denmark 1 (2004 est.) |
+| **Grenada** | none |
+| **Guadeloupe** | *total:* 1 ships (1,000 GRT or over) 1,240 GRT/109 DWT |
+| | *by type:* passenger 1 |
+| | *foreign-owned:* France 1 |
+| | *registered in other countries:* 1 (2004 est.) |
+| **Guam** | none |
+| **Guatemala** | none |
+| **Guernsey** | none |
+| **Guinea** | *total:* 3 ships (1,000 GRT or over) 5,344 GRT/5,003 DWT |
+| | *by type:* cargo 1, petroleum tanker 1, roll on/roll off 1 |
+| | *foreign-owned:* Iraq 1 (2003 est.) |
+| **Guinea-Bissau** | none |
+| **Guyana** | *total:* 5 ships (1,000 GRT or over) 7,475 GRT/8,758 DWT |
+| | *by type:* cargo 3, container 1, refrigerated cargo 1 |
+| | *foreign-owned:* Barbados 1, Panama 1 |
+| | *registered in other countries:* 8 (2004 est.) |
+| **Haiti** | none |
+| **Honduras** | *total:* 238 ships (1,000 GRT or over) 598,600 GRT/616,158 DWT |
+| | *by type:* bulk 12, cargo 139, chemical tanker 5, combination bulk 1, container 5, liquefied gas 1, livestock carrier 1, passenger 3, passenger/cargo 2, petroleum tanker 54, refrigerated cargo 8, roll on/roll off 4, short-sea/passenger 3 |
+| | *foreign-owned:* Argentina 1, Bahrain 1, British Virgin Islands 1, Bulgaria 1, Cayman Islands 1, China 4, Costa Rica 1, Cyprus 1, Egypt 5, El Salvador 1, Greece 16, Hong Kong 3, Indonesia 2, Israel 1, Italy 1, Japan 2, Jordan 1, South Korea 9, Lebanon 4, Liberia 4, Maldives 2, Marshall Islands 3, Mexico 1, Nigeria 2, Panama 10, Philippines 1, Russia 1, Saint Kitts and Nevis 3, Saint Vincent and the Grenadines 1, Saudi Arabia 1, Singapore 22, Spain 1, Taiwan 2, Tanzania 1, Thailand 1, Turkey 2, Turks and Caicos Islands 1, United States 7, Vanuatu 1, Vietnam 1 |
+| | *registered in other countries:* 16 (2004 est.) |
+| **Hong Kong** | *total:* 663 ships (1,000 GRT or over) 20,478,042 GRT/34,554,455 DWT |
+| | *by type:* barge carrier 1, bulk 364, cargo 78, chemical tanker 23, combination bulk 2, combination ore/oil 3, container 97, liquefied gas 20, multi-functional large load carrier 1, petroleum tanker 60, refrigerated cargo 3, roll on/roll off 4, short-sea/passenger 1, specialized tanker 2, vehicle carrier 4 |
+| | *foreign-owned:* Australia 2, Belgium 1, British Virgin Islands 1, China 178, Cyprus 1, Denmark 3, France 2, Germany 14, Greece 4, India 9, Indonesia 2, Japan 22, South Korea 2, Malaysia 3, Monaco 9, Norway 16, Panama 4, Philippines 17, Singapore 22, Taiwan 3, Thailand 1, United Kingdom 22, United States 1 |
+| | *registered in other countries:* 569 (2004 est.) |
+| **Hungary** | *total:* 2 ships (1,000 GRT or over) 7,568 GRT/10,025 DWT |
+| | *by type:* cargo 2 |
+| | *registered in other countries:* 8 (2004 est.) |
+| **Iceland** | *total:* 1 ships (1,000 GRT or over) 4,341 GRT/6,019 DWT |
+| | *by type:* petroleum tanker 1 |
+| | *registered in other countries:* 26 (2004 est.) |
+| **India** | *total:* 306 ships (1,000 GRT or over) 6,555,507 GRT/11,069,791 DWT |
+| | *by type:* bulk 90, cargo 77, chemical tanker 14, combination bulk 1, combination ore/oil 2, container 10, liquefied gas 10, passenger/cargo 5, petroleum tanker 93, roll on/roll off 1, short-sea/passenger 2, specialized tanker 1 |
+| | *foreign-owned:* China 2, Portugal 1 |
+| | *registered in other countries:* 63 (2004 est.) |
+| **Indonesia** | *total:* 718 ships (1,000 GRT or over) 3,192,847 GRT/4,319,739 DWT |
+| | *by type:* bulk 47, cargo 398, chemical tanker 13, container 57, liquefied gas 6, livestock carrier 1, passenger 10, passenger/cargo 13, petroleum tanker 128, refrigerated cargo 2, roll on/roll off 15, short-sea/passenger 9, specialized tanker 12, vehicle carrier 7 |
+| | *foreign-owned:* France 1, Germany 1, Greece 1, Honduras 1, Hong Kong 2, Japan 3, Malaysia 1, Monaco 2, Panama 1, Philippines 2, Singapore 12, Switzerland 1, United Kingdom 2, United States 1 |
+| | *registered in other countries:* 109 (2004 est.) |
+| **Iran** | *total:* 134 ships (1,000 GRT or over) 4,715,242 GRT/8,240,069 DWT |
+| | *by type:* bulk 40, cargo 36, chemical tanker 3, container 7, liquefied gas 1, multi-functional large load carrier 5, petroleum tanker 33, roll on/roll off 8, short-sea/passenger 1 |
+| | *registered in other countries:* 10 (2004 est.) |
+| **Iraq** | *total:* 13 ships (1,000 GRT or over) 83,221 GRT/125,255 DWT |
+| | *by type:* cargo 6, passenger/cargo 1, petroleum tanker 5, roll on/roll off 1 |
+| | *registered in other countries:* 3 (2004 est.) |
+| **Ireland** | *total:* 35 ships (1,000 GRT or over) 288,401 GRT/383,628 DWT |
+| | *by type:* bulk 7, cargo 22, chemical tanker 1, container 3, roll on/roll off 1, short-sea/passenger 1 |
+| | *foreign-owned:* Germany 3, Italy 7, Norway 2 |
+| | *registered in other countries:* 18 (2004 est.) |
+| **Israel** | *total:* 18 ships (1,000 GRT or over) 752,873 GRT/881,711 DWT |
+| | *by type:* container 18 |
+| | *registered in other countries:* 40 (2004 est.) |
+| **Italy** | *total:* 475 ships (1,000 GRT or over) 8,970,017 GRT/10,354,685 DWT |
+| | *by type:* bulk 39, cargo 40, chemical tanker 106, combination ore/oil 2, container 23, liquefied gas 43, livestock carrier 2, multi-functional large load carrier 1, passenger 13, passenger/cargo 1, petroleum tanker 74, refrigerated cargo 4, roll on/roll off 62, short-sea/passenger 31, specialized tanker 11, vehicle carrier 23 |
+| | *foreign-owned:* Denmark 4, France 3, Greece 5, Japan 1, Isle of Man 1, Monaco 22, Netherlands 4, Panama 2, Switzerland 2, Taiwan 10, United Kingdom 5, United States 13 |
+| | *registered in other countries:* 144 (2004 est.) |
+| **Jamaica** | *total:* 6 ships (1,000 GRT or over) 74,881 GRT/100,682 DWT |
+| | *by type:* bulk 2, petroleum tanker 1, refrigerated cargo 2, short-sea/passenger 1 |
+| | *foreign-owned:* Greece 2, Iceland 1, Latvia 1, United States 2 (2004 est.) |
+| **Japan** | *total:* 568 ships (1,000 GRT or over) 10,149,196 GRT/12,680,544 DWT |
+| | *by type:* bulk 113, cargo 39, chemical tanker 18, combination bulk 31, combination ore/oil 1, container 14, liquefied gas 53, passenger 8, passenger/cargo 1, petroleum tanker 170, refrigerated cargo 6, roll on/roll off 58, short-sea/passenger 7, vehicle carrier 49 |
+| | *foreign-owned:* China 1, Panama 1, Philippines 1, Singapore 1 |
+| | *registered in other countries:* 1,989 (2004 est.) |
+| **Jordan** | *total:* 9 ships (1,000 GRT or over) 78,814 GRT/92,695 DWT |
+| | *by type:* cargo 2, container 1, roll on/roll off 5, short-sea/passenger 1 |
+| | *foreign-owned:* Greece 6 |
+| | *registered in other countries:* 11 (2004 est.) |
+| **Kazakhstan** | *total:* 1 ships (1,000 GRT or over) 1,064 GRT/646 DWT |
+| | *by type:* roll on/roll off 1 |
+| | *foreign-owned:* 26 Netherlands 1 (2004 est.) |
+| **Kenya** | *total:* 3 ships (1,000 GRT or over) 6,049 GRT/7,082 DWT |
+| | *by type:* petroleum tanker 1, roll on/roll off 2 |
+| | *registered in other countries:* 9 (2004 est.) |
+| **Kiribati** | *total:* 1 ships (1,000 GRT or over) 1,291 GRT/1,295 DWT |
+| | *by type:* passenger 1 (2004 est.) |
+| **Korea, North** | *total:* 203 ships (1,000 GRT or over) 921,577 GRT/1,339,929 DWT |
+| | *by type:* bulk 6, cargo 166, combination bulk 2, container 3, liquefied gas 1, livestock carrier 3, multi-functional large load carrier 1, passenger/cargo 1, petroleum tanker 11, refrigerated cargo 6, roll on/roll off 2, short-sea/passenger 1 |
+| | *foreign-owned:* Albania 1, Belize 1, Bolivia 1, Cambodia 3, Cyprus 1, Egypt 3, Germany 1, Greece 4, Italy 1, Lebanon 2, Marshall Islands 1, Pakistan 1, Portugal 1, Romania 8, Saint Kitts and Nevis 1, Syria 9, Tanzania 1, Tunisia 1, Turkey 5, Ukraine 2, United States 3 |
+| | *registered in other countries:* 4 (2004 est.) |
+| **Korea, South** | *total:* 535 ships (1,000 GRT or over) 5,978,949 GRT/9,761,699 DWT |
+| | *by type:* bulk 97, cargo 174, chemical tanker 61, combination bulk 10, container 60, liquefied gas 19, passenger 3, petroleum tanker 73, refrigerated cargo 20, roll on/roll off 7, short-sea/passenger 2, specialized tanker 6, vehicle carrier 3 |
+| | *foreign-owned:* Bahrain 1, China 1, Gibraltar 1, Honduras 1, Indonesia 1, Japan 3, Malaysia 1, Panama 1, Philippines 1, Saint Vincent and the Grenadines 1, United Kingdom 1, United States 1 |
+| | *registered in other countries:* 442 (2004 est.) |
+| **Kuwait** | *total:* 38 ships (1,000 GRT or over) 2,319,082 GRT/3,768,828 DWT |
+| | *by type:* bulk 1, container 6, liquefied gas 5, livestock carrier 4, petroleum tanker 21, roll on/roll off 1 |
+| | *foreign-owned:* India 1, Saudi Arabia 1 |
+| | *registered in other countries:* 5 (2004 est.) |
+| **Laos** | *total:* 1 ships (1,000 GRT or over) 2,370 GRT/3,110 DWT |
+| | *by type:* cargo 1 (2004 est.) |
+| **Latvia** | *total:* 11 ships (1,000 GRT or over) 53,153 GRT/37,414 DWT |
+| | *by type:* cargo 6, petroleum tanker 1, refrigerated cargo 2, roll on/roll off 1, short-sea/passenger 1 |
+| | *foreign-owned:* Germany 1, Greece 1, Ukraine 1 |
+| | *registered in other countries:* 96 (2004 est.) |
+| **Lebanon** | *total:* 49 ships (1,000 GRT or over) 198,602 GRT/248,313 DWT |
+| | *by type:* bulk 5, cargo 23, chemical tanker 1, combination bulk 1, container 2, liquefied gas 1, livestock carrier 8, refrigerated cargo 1, roll on/roll off 4, vehicle carrier 3 |
+| | *foreign-owned:* Greece 7, India 1, Netherlands 4, Saint Vincent and the Grenadines 1, Spain 1, Syria 2 |
+| | *registered in other countries:* 52 (2004 est.) |
+| **Liberia** | *total:* 1,449 ships (1,000 GRT or over) 50,555,752 GRT/79,125,329 DWT |
+| | *by type:* bulk 278, cargo 67, chemical tanker 161, combination bulk 10, combination ore/oil 20, container 388, liquefied gas 77, multi-functional large load carrier 3, passenger 3, petroleum tanker 317, refrigerated cargo 62, roll on/roll off 14, short-sea/passenger 3, specialized tanker 13, vehicle carrier 33 |
+| | *foreign-owned:* Argentina 9, Australia 3, Austria 16, Belgium 8, Bermuda 1, Brazil 5, Chile 7, China 40, Croatia 11, Cyprus 4, Denmark 4, Estonia 1, France 3, Germany 510, Greece 142, Hong Kong 56, Iceland 1, India 3, Indonesia 1, Israel 4, Italy 8, Japan 81, South Korea 7, Latvia 22, Isle of Man 5, Mexico 1, Monaco 59, Netherlands 11, Nigeria 2, Norway 54, Panama 1, Poland 2, Portugal 6, Russia 68, Saudi Arabia 23, Singapore 43, Slovenia 1, Spain 1, Sri Lanka 1, Sweden 9, Switzerland 7, Taiwan 36, Turkey 3, Ukraine 3, United Kingdom 36, United States 95, Uruguay 3 |
+| | *registered in other countries:* 35 (2004 est.) |
+| **Libya** | *total:* 20 ships (1,000 GRT or over) 129,627 GRT/105,110 DWT |
+| | *by type:* cargo 8, liquefied gas 3, petroleum tanker 1, roll on/roll off 4, short-sea/passenger 4 |
+| | *foreign-owned:* Algeria 1, Kuwait 1 (2004 est.) |
+| **Lithuania** | *total:* 49 ships (1,000 GRT or over) 296,856 GRT/317,731 DWT |
+| | *by type:* cargo 20, chemical tanker 1, combination bulk 8, petroleum tanker 2, refrigerated cargo 12, roll on/roll off 2, short-sea/passenger 4 |
+| | *foreign-owned:* Denmark 12, Netherlands 1 |
+| | *registered in other countries:* 11 (2004 est.) |
+| **Luxembourg** | *total:* 40 ships (1,000 GRT or over) 652,454 GRT/805,101 DWT |
+| | *by type:* chemical tanker 11, container 8, liquefied gas 4, passenger 4, petroleum tanker 6, roll on/roll off 7 |
+| | *foreign-owned:* Belgium 7, Denmark 1, Finland 3, France 3, Germany 10, Monaco 1, Netherlands 5, Switzerland 1, United Kingdom 7, United States 3 |
+| | *registered in other countries:* 1 (2004 est.) |
+| **Macau** | none |
+| **Madagascar** | *total:* 11 ships (1,000 GRT or over) 14,865 GRT/17,936 DWT |
+| | *by type:* cargo 8, chemical tanker 1, roll on/roll off 2 |
+| | *registered in other countries:* 2 (2004 est.) |
+| **Malaysia** | *total:* 360 ships (1,000 GRT or over) 5,389,397 GRT/7,539,178 DWT |
+| | *by type:* bulk 59, cargo 100, chemical tanker 38, container 66, liquefied gas 25, livestock carrier 1, passenger 2, petroleum tanker 56, roll on/roll off 5, vehicle carrier 8 |
+| | *foreign-owned:* China 1, Germany 2, Hong Kong 8, Indonesia 2, Japan 2, South Korea 1, Liberia 1, Monaco 1, Norway 1, Philippines 2, Singapore 81, Vietnam 1 |
+| | *registered in other countries:* 75 (2004 est.) |
+| **Maldives** | *total:* 16 ships (1,000 GRT or over) 54,164 GRT/68,973 DWT |
+| | *by type:* cargo 13, petroleum tanker 1, refrigerated cargo 1, short-sea/passenger 1 |
+| | *foreign-owned:* North Korea 1 |
+| | *registered in other countries:* 2 (2004 est.) |
+| **Malta** | *total:* 1,176 ships (1,000 GRT or over) 25,102,401 GRT/41,176,791 DWT |
+| | *by type:* bulk 468, cargo 251, chemical tanker 46, combination bulk 8, combination ore/oil 8, container 74, liquefied gas 4, livestock carrier 2, multi-functional large load carrier 1, passenger 7, passenger/cargo 1, petroleum tanker 210, refrigerated cargo 40, roll on/roll off 35, short-sea/passenger 6, vehicle carrier 15 |
+| | *foreign-owned:* Australia 4, Austria 6, Bangladesh 3, Belgium 13, Bulgaria 19, Canada 8, China 14, Croatia 9, Cyprus 6, Denmark 4, Estonia 1, Finland 1, France 1, Germany 52, Greece 603, Hong Kong 3, Iceland 5, India 4, Indonesia 2, Iran 4, Israel 20, Italy 24, Japan 3, South Korea 2, Latvia 25, Lebanon 6, Madagascar 1, Monaco 14, Netherlands 5, Nigeria 1, Norway 32, Pakistan 1, Poland 30, Portugal 3, Romania 8, Russia 69, Saudi Arabia 1, Singapore 2, Slovenia 3, Switzerland 30, Syria 4, Taiwan 1, Turkey 108, Ukraine 22, United Kingdom 2, United States 8 |
+| | *registered in other countries:* 18 (2004 est.) |
+| **Man, Isle of** | *total:* 226 ships (1,000 GRT or over) 6,055,436 GRT/9,972,459 DWT |
+| | *by type:* bulk 25, cargo 40, chemical tanker 25, combination bulk 2, container 19, liquefied gas 31, multi-functional large load carrier 1, petroleum tanker 59, refrigerated cargo 1, roll on/roll off 17, specialized tanker 1, vehicle carrier 5 |
+| | *foreign-owned:* Australia 3, Cyprus 4, Denmark 30, Estonia 3, France 1, Germany 57, Greece 8, Hong Kong 11, Iceland 1, Italy 6, Monaco 4, Netherlands 2, New Zealand 1, Norway 10, Singapore 2, Sweden 3, United Kingdom 80, United States 1 |
+| | *registered in other countries:* 9 (2004 est.) |
+| **Marshall Islands** | *total:* 420 ships (1,000 GRT or over) 16,954,092 GRT/28,176,762 DWT |
+| | *by type:* barge carrier 1, bulk 81, cargo 25, chemical tanker 41, combination bulk 4, combination ore/oil 7, container 77, liquefied gas 9, multi-functional large load carrier 5, passenger 6, petroleum tanker 149, refrigerated cargo 4, roll on/roll off 7, vehicle carrier 4 |
+| | *foreign-owned:* Australia 2, Chile 3, Croatia 2, Cyprus 10, Denmark 2, Germany 119, Greece 82, Hong Kong 12, India 2, Japan 16, Monaco 18, Netherlands 6, New Zealand 1, Norway 5, Poland 11, Singapore 1, Slovenia 1, Switzerland 4, Thailand 2, Turkey 8, United Kingdom 10, United States 92 |
+| | *registered in other countries:* 50 (2004 est.) |
+| **Martinique** | none |
+| **Mauritania** | none |
+| **Mauritius** | *total:* 8 ships (1,000 GRT or over) 22,946 GRT/27,102 DWT |
+| | *by type:* cargo 1, combination bulk 4, passenger/cargo 1, refrigerated cargo 2 |
+| | *foreign-owned:* Belgium 1, India 4, Switzerland 2 (2004 est.) |
+| **Mayotte** | none |
+| **Mexico** | *total:* 50 ships (1,000 GRT or over) 649,389 GRT/942,766 DWT |
+| | *by type:* bulk 1, cargo 3, chemical tanker 3, combination ore/oil 1, liquefied gas 5, petroleum tanker 25, roll on/roll off 9, short-sea/passenger 3 |
+| | *foreign-owned:* Denmark 1, Germany 1, Greece 1, Marshall Islands 1, Netherlands 2 |
+| | *registered in other countries:* 13 (2004 est.) |
+| **Micronesia, Federated States of** | none (2004 est.) |
+| **Moldova** | *total:* 1 ships (1,000 GRT or over) 1,636 GRT/1,088 DWT |
+| | *by type:* cargo 1 |
+| | *foreign-owned:* 2 Russia 1 |
+| | *registered in other countries:* 4 |
+| **Monaco** | none |
+| **Mongolia** | *total:* 65 ships (1,000 GRT or over) 339,423 GRT/533,853 DWT |
+| | *by type:* bulk 4, cargo 53, chemical tanker 1, container 2, liquefied gas 2, passenger/cargo 1, petroleum tanker 1, specialized tanker 1 |
+| | *foreign-owned:* Belize 1, Cambodia 1, China 4, Cuba 1, Hong Kong 2, Indonesia 1, Japan 1, North Korea 1, Lebanon 1, Malaysia 1, Malta 1, Marshall Islands 5, Moldova 1, Panama 3, Romania 1, Russia 14, Singapore 13, Syria 4, Thailand 1, Turkey 1, Ukraine 1, United States 3, Vietnam 4 (2004 est.) |
+| **Montserrat** | none |
+| **Morocco** | *total:* 35 ships (1,000 GRT or over) 236,131 GRT/252,367 DWT |
+| | *by type:* cargo 8, chemical tanker 7, container 7, petroleum tanker 1, refrigerated cargo 5, roll on/roll off 5, short-sea/passenger 2 |
+| | *foreign-owned:* France 1, Germany 2, Greece 1, Hong Kong 1, Netherlands 2, Norway 2, United Kingdom 1 (2004 est.) |
+| **Mozambique** | *total:* 3 ships (1,000 GRT or over) 4,125 GRT/7,024 DWT |
+| | *by type:* cargo 3 |
+| | *foreign-owned:* Belgium 2 (2004 est.) |
+| **Namibia** | none (2004 est.) |
+| **Nauru** | none |
+| **Netherlands** | *total:* 635 ships (1,000 GRT or over) 4,796,460 GRT/5,212,557 DWT |
+| | *by type:* bulk 1, cargo 375, chemical tanker 59, combination bulk 1, container 71, liquefied gas 13, multi-functional large load carrier 15, passenger 12, petroleum tanker 28, refrigerated cargo 37, roll on/roll off 14, short-sea/passenger 2, specialized tanker 7 |
+| | *foreign-owned:* Belgium 2, Denmark 4, Finland 9, Germany 54, Ireland 14, Norway 9, Singapore 1, Sweden 19, Thailand 1, United Kingdom 31, United States 16 |
+| | *registered in other countries:* 241 (2004 est.) |
+| **Netherlands Antilles** | *total:* 162 ships (1,000 GRT or over) 1,317,007 GRT/1,668,499 DWT |
+| | *by type:* bulk 4, cargo 59, chemical tanker 1, combination bulk 1, combination ore/oil 3, container 28, liquefied gas 6, multi-functional large load carrier 22, passenger 1, petroleum tanker 1, refrigerated cargo 28, roll on/roll off 7, specialized tanker 1 |
+| | *foreign-owned:* Belgium 3, Denmark 1, Germany 57, Monaco 4, Netherlands 70, New Zealand 1, Norway 5, Peru 1, Spain 1, Sweden 5, Turkey 2, United Kingdom 6 |
+| | *registered in other countries:* 1 (2004 est.) |
+| **New Caledonia** | *total:* 1 ships (1,000 GRT or over) 1,261 GRT/1,600 DWT |
+| | *by type:* cargo 1 |
+| | *foreign-owned:* Malaysia 1 |
+| | *registered in other countries:* 1 (2004 est.) |
+| **New Zealand** | *total:* 10 ships (1,000 GRT or over) 77,523 GRT/108,352 DWT |
+| | *by type:* bulk 3, cargo 2, container 1, petroleum tanker 2, roll on/roll off 2 |
+| | *foreign-owned:* Australia 1, Isle of Man 1 |
+| | *registered in other countries:* 8 (2004 est.) |
+| **Nicaragua** | none |
+| **Nigeria** | *total:* 45 ships (1,000 GRT or over) 327,808 GRT/608,076 DWT |
+| | *by type:* cargo 7, chemical tanker 5, petroleum tanker 30, refrigerated cargo 1, roll on/roll off 1, specialized tanker 1 |
+| | *foreign-owned:* Norway 2, Pakistan 1, Togo 1, United States 1 |
+| | *registered in other countries:* 26 (2004 est.) |
+| **Niue** | none |
+| **Norfolk Island** | none |
+| **Northern Mariana Islands** | none |
+| **Norway** | *total:* 693 ships (1,000 GRT or over) 18,820,495 GRT/27,449,456 DWT |
+| | *by type:* bulk 62, cargo 128, chemical tanker 124, combination bulk 7, combination ore/oil 32, container 15, liquefied gas 84, multi-functional large load carrier 1, passenger 6, petroleum tanker 113, refrigerated cargo 5, roll on/roll off 48, short-sea/passenger 22, specialized tanker 3, vehicle carrier 43 |
+| | *foreign-owned:* Cyprus 3, Denmark 23, Estonia 2, Germany 12, Greece 15, Hong Kong 1, Iceland 2, Japan 10, Lithuania 1, Malta 1, Marshall Islands 1, Monaco 33, Poland 1, Saudi Arabia 3, Singapore 12, Sweden 31, United Kingdom 4, United States 5 |
+| | *registered in other countries:* 695 (2004 est.) |
+| **Oman** | *total:* 2 ships (1,000 GRT or over) 15,430 GRT/6,360 DWT |
+| | *by type:* passenger 2 |
+| | *registered in other countries:* 1 (2004 est.) |
+| **Pakistan** | *total:* 17 ships (1,000 GRT or over) 329,486 GRT/512,506 DWT |
+| | *by type:* cargo 11, container 2, petroleum tanker 4 |
+| | *registered in other countries:* 16 (2004 est.) |
+| **Palau** | none |
+| **Panama** | *total:* 4,833 ships (1,000 GRT or over) 122,960,929 GRT/183,615,337 DWT |
+| | *by type:* barge carrier 3, bulk 1,434, cargo 819, chemical tanker 388, combination bulk 73, combination ore/oil 18, container 613, liquefied gas 190, livestock carrier 3, multi-functional large load carrier 15, passenger 36, passenger/cargo 5, petroleum tanker 514, rail car carrier 1, refrigerated cargo 281, roll on/roll off 125, short-sea/passenger 37, specialized tanker 36, vehicle carrier 242 |
+| | *foreign-owned:* Albania 2, Angola 1, Antigua and Barbuda 2, Argentina 7, Australia 11, Austria 1, Bahamas 3, Bangladesh 1, Belgium 5, Belize 4, Brazil 4, British Virgin Islands 8, Cambodia 2, Canada 6, Cayman Islands 1, Chile 13, China 286, Colombia 14, Croatia 3, Cuba 17, Cyprus 6, Denmark 4, Dominican Republic 1, Ecuador 1, Egypt 16, Equatorial Guinea 1, France 7, Germany 89, Greece 549, Haiti 1, Honduras 2, Hong Kong 288, India 22, Indonesia 44, Iran 1, Ireland 2, Israel 4, Italy 7, Japan 1630, Jordan 8, Kenya 1, South Korea 349, Kuwait 1, Latvia 11, Liberia 3, Lithuania 2, Luxembourg 1, Malaysia 12, Malta 1, Marshall Islands 3, Mexico 7, Monaco 29, Netherlands 14, Netherlands Antilles 1, New Zealand 1, Nigeria 6, Norway 86, Oman 1, Pakistan 1, Peru 17, Philippines 41, Poland 12, Portugal 6, Puerto Rico 3, Romania 9, Russia 8, Saint Kitts and Nevis 3, Saint Vincent and the Grenadines 6, Saudi Arabia 6, Singapore 105, South Africa 3, Spain 52, Sri Lanka 3, Sudan 1, Sweden 4, Switzerland 93, Syria 1, Taiwan 348, Thailand 14, Trinidad and Tobago 1, Turkey 12, Ukraine 2, United Kingdom 51, United States 99, Venezuela 4 |
+| | *registered in other countries:* 85 (2004 est.) |
+| **Papua New Guinea** | *total:* 23 ships (1,000 GRT or over) 47,586 GRT/60,934 DWT |
+| | *by type:* bulk 1, cargo 12, chemical tanker 1, combination ore/oil 2, container 1, petroleum tanker 4, roll on/roll off 2 |
+| | *foreign-owned:* Singapore 2, United Kingdom 6 |
+| | *registered in other countries:* 1 (2004 est.) |
+| **Paraguay** | *total:* 21 ships (1,000 GRT or over) 31,667 GRT/30,826 DWT |
+| | *by type:* cargo 14, livestock carrier 1, petroleum tanker 3, roll on/roll off 3 |
+| | *foreign-owned:* Argentina 2, Japan 1 |
+| | *registered in other countries:* 1 (2004 est.) |
+| **Peru** | *total:* 3 ships (1,000 GRT or over) 13,666 GRT/17,611 DWT |
+| | *by type:* cargo 2, petroleum tanker 1 |
+| | *foreign-owned:* United States 1 |
+| | *registered in other countries:* 19 (2004 est.) |
+| **Philippines** | *total:* 385 ships (1,000 GRT or over) 4,524,259 GRT/6,437,171 DWT |
+| | *by type:* bulk 99, cargo 103, chemical tanker 7, combination bulk 7, container 8, liquefied gas 9, livestock carrier 10, passenger 4, passenger/cargo 10, petroleum tanker 45, refrigerated cargo 21, roll on/roll off 16, short-sea/passenger 26, specialized tanker 1, vehicle carrier 19 |
+| | *foreign-owned:* Australia 2, Canada 1, Germany 2, Greece 11, Hong Kong 15, Japan 50, Malaysia 5, Netherlands 15, Norway 6, Panama 1, United Kingdom 2, United States 4 |
+| | *registered in other countries:* 87 (2004 est.) |
+| **Pitcairn Islands** | *total:* 1 ships (1,000 GRT or over) 3,313 GRT/5,651 DWT |
+| | *by type:* cargo 1 (2003 est.) |
+| **Poland** | *total:* 14 ships (1,000 GRT or over) 154,710 GRT/228,132 DWT |
+| | *by type:* bulk 7, cargo 3, chemical tanker 3, roll on/roll off 1 |
+| | *registered in other countries:* 100 (2004 est.) |
+| **Portugal** | *total:* 122 ships (1,000 GRT or over) 872,557 GRT/1,236,025 DWT |
+| | *by type:* bulk 12, cargo 49, chemical tanker 19, container 8, liquefied gas 7, multi-functional large load carrier 1, passenger 6, petroleum tanker 7, refrigerated cargo 1, roll on/roll off 5, short-sea/passenger 5, vehicle carrier 2 |
+| | *foreign-owned:* Australia 1, Belgium 1, Cyprus 1, Denmark 7, Germany 21, Greece 2, Guadeloupe 1, Iceland 1, Italy 16, Japan 1, Malta 1, Norway 7, Panama 1, Spain 18, Switzerland 7, Ukraine 1, United Kingdom 1 |
+| | *registered in other countries:* 24 (2004 est.) |
+| **Puerto Rico** | *total:* 2 ships (1,000 GRT or over) 36,728 GRT/37,048 DWT |
+| | *by type:* container 1, roll on/roll off 1 |
+| | *foreign-owned:* United States 2 |
+| | *registered in other countries:* 5 (2004 est.) |
+| **Qatar** | *total:* 22 ships (1,000 GRT or over) 525,051 GRT/772,635 DWT |
+| | *by type:* cargo 4, chemical tanker 4, container 8, petroleum tanker 5, roll on/roll off 1 |
+| | *foreign-owned:* Cambodia 1, Kuwait 1 (2004 est.) |
+| **Reunion** | *total:* 1 ships (1,000 GRT or over) 28,264 GRT/44,885 DWT |
+| | *by type:* chemical tanker 1 |
+| | *foreign-owned:* Sweden 1 |
+| | *registered in other countries:* 1 |
+| **Romania** | *total:* 45 ships (1,000 GRT or over) 395,350 GRT/510,232 DWT |
+| | *by type:* bulk 7, cargo 26, container 1, passenger 1, petroleum tanker 4, rail car carrier 2, roll on/roll off 4 |
+| | *foreign-owned:* Greece 1, Italy 2 |
+| | *registered in other countries:* 39 (2004 est.) |
+| **Russia** | *total:* 958 ships (1,000 GRT or over) 4,521,472 GRT/5,505,118 DWT |
+| | *by type:* barge carrier 1, bulk 20, cargo 562, chemical tanker 13, combination bulk 21, combination ore/oil 36, container 28, multi-functional large load carrier 2, passenger 35, passenger/cargo 4, petroleum tanker 179, rail car carrier 1, refrigerated cargo 27, roll on/roll off 21, short-sea/passenger 6, specialized tanker 2 |
+| | *foreign-owned:* Belize 2, Cambodia 2, Cyprus 9, Denmark 1, Estonia 3, Germany 1, Greece 3, Hong Kong 1, South Korea 1, Latvia 2, Lithuania 3, Malta 2, Moldova 3, Netherlands 2, Panama 2, Switzerland 4, Turkey 18, Turkmenistan 2, Ukraine 7, United Kingdom 3, United States 4 |
+| | *registered in other countries:* 350 (2004 est.) |
+| **Saint Helena** | none |
+| **Saint Kitts and Nevis** | none |
+| **Saint Lucia** | none |
+| **Saint Pierre and Miquelon** | none |
+| **Saint Vincent and the Grenadines** | *total:* 704 ships (1,000 GRT or over) 5,967,418 GRT/9,041,023 DWT |
+| | *by type:* bulk 120, cargo 346, chemical tanker 19, combination bulk 10, combination ore/oil 1, container 51, liquefied gas 5, livestock carrier 4, multi-functional large load carrier 4, passenger 8, petroleum tanker 31, refrigerated cargo 45, roll on/roll off 42, short-sea/passenger 9, specialized tanker 8, vehicle carrier 1 |
+| | *foreign-owned:* Albania 1, Angola 2, Argentina 1, Australia 3, Bangladesh 3, Barbados 2, Belgium 3, Bulgaria 16, China 114, Colombia 1, Croatia 7, Cyprus 2, Denmark 13, Egypt 5, Estonia 13, France 17, Germany 10, Greece 134, Guyana 8, Hong Kong 15, Iceland 7, India 5, Indonesia 1, Israel 3, Italy 21, Kenya 5, South Korea 4, Latvia 7, Lebanon 9, Liberia 5, Lithuania 3, Malta 4, Isle of Man 1, Marshall Islands 3, Mexico 2, Monaco 6, Netherlands 9, Nigeria 8, Norway 32, Pakistan 6, Panama 3, Poland 3, Portugal 1, Puerto Rico 2, Romania 2, Russia 21, Saint Kitts and Nevis 1, Saint Lucia 1, Saudi Arabia 3, Singapore 5, Slovenia 7, Spain 1, Sweden 9, Switzerland 8, Syria 6, Taiwan 1, Thailand 1, Trinidad and Tobago 1, Turkey 23, Ukraine 8, United Kingdom 11, United States |
+| | *registered in other countries:* 25 (2004 est.) |
+| **Samoa** | *total:* 1 ships (1,000 GRT or over) 7,091 GRT/8,127 DWT |
+| | *by type:* cargo 1 |
+| | *foreign-owned:* Germany 1 |
+| | *registered in other countries:* 2 (2004 est.) |
+| **Sao Tome and Principe** | *total:* 24 ships (1,000 GRT or over) 79,490 GRT/97,077 DWT |
+| | *by type:* bulk 2, cargo 14, chemical tanker 2, livestock carrier 1, petroleum tanker 1, refrigerated cargo 1, roll on/roll off 3 |
+| | *foreign-owned:* British Virgin Islands 1, Egypt 1, Greece 1, Lebanon 1, Portugal 1, Ukraine 2 (2004 est.) |
+| **Saudi Arabia** | *total:* 66 ships (1,000 GRT or over) 1,306,706 GRT/1,963,191 DWT |
+| | *by type:* cargo 5, chemical tanker 11, container 4, livestock carrier 2, passenger 1, petroleum tanker 23, refrigerated cargo 4, roll on/roll off 10, short-sea/passenger 6 |
+| | *foreign-owned:* Egypt 3, Greece 4, Norway 2, Sudan 1, United Kingdom 3 |
+| | *registered in other countries:* 54 (2004 est.) |
+| **Seychelles** | *total:* 8 ships (1,000 GRT or over) 42,223 GRT/63,538 DWT |
+| | *by type:* cargo 4, chemical tanker 3, container 1 |
+| | *foreign-owned:* Bulgaria 1, Cyprus 1, Nigeria 1, South Africa 2 (2004 est.) |
+| **Sierra Leone** | *total:* 2 ships (1,000 GRT or over) 7,435 GRT/8,750 DWT |
+| | *by type:* cargo 2 (2004 est.) |
+| **Singapore** | *total:* 900 ships (1,000 GRT or over) 23,065,290 GRT/36,393,317 DWT |
+| | *by type:* bulk 136, cargo 84, chemical tanker 96, combination bulk 4, combination ore/oil 8, container 186, liquefied gas 41, livestock carrier 3, multi-functional large load carrier 2, petroleum tanker 290, refrigerated cargo 2, roll on/roll off 5, short-sea/passenger 1, specialized tanker 10, vehicle carrier 32 |
+| | *foreign-owned:* Australia 6, China 15, Denmark 32, Germany 18, Greece 12, Hong Kong 31, India 3, Indonesia 33, Japan 58, South Korea 13, Malaysia 31, Monaco 19, Norway 53, Papua New Guinea 1, Philippines 9, Russia 2, Slovenia 1, Sweden 12, Switzerland 5, Taiwan 44, Tanzania 1, Thailand 16, United Kingdom 15, United States 1 |
+| | *registered in other countries:* 383 (2004 est.) |
+| **Slovakia** | *total:* 8 ships (1,000 GRT or over) 41,891 GRT/63,185 DWT |
+| | *by type:* bulk 4, cargo 4 |
+| | *foreign-owned:* Bulgaria 3, Estonia 1, Greece 1, India 1, Liberia 1, Panama 1 (2004 est.) |
+| **Solomon Islands** | none |
+| **Somalia** | none |
+| **South Africa** | *total:* 4 ships (1,000 GRT or over) 31,505 GRT/37,091 DWT |
+| | *by type:* container 1, liquefied gas 1, petroleum tanker 2 |
+| | *foreign-owned:* Denmark 1, Netherlands 1 |
+| | *registered in other countries:* 7 (2004 est.) |
+| **Spain** | *total:* 149 ships (1,000 GRT or over) 1,740,974 GRT/2,157,551 DWT |
+| | *by type:* bulk 9, cargo 29, chemical tanker 13, container 17, liquefied gas 6, livestock carrier 1, passenger 1, petroleum tanker 21, refrigerated cargo 5, roll on/roll off 32, short-sea/passenger 7, specialized tanker 1, vehicle carrier 7 |
+| | *foreign-owned:* Chile 1, Cuba 1, Denmark 1, Germany 9, Italy 2, Netherlands 1, Norway 6, Sweden 1, Uruguay 1 |
+| | *registered in other countries:* 115 (2004 est.) |
+| **Sri Lanka** | *total:* 18 ships (1,000 GRT or over) 120,924 GRT/173,604 DWT |
+| | *by type:* cargo 14, container 2, petroleum tanker 2 |
+| | *foreign-owned:* Germany 8, Singapore 1 |
+| | *registered in other countries:* 4 (2004 est.) |
+| **Sudan** | *total:* 3 ships (1,000 GRT or over) 20,466 GRT/26,973 DWT |
+| | *by type:* livestock carrier 1, roll on/roll off 2 |
+| | *registered in other countries:* 4 (2004 est.) |
+| **Suriname** | *total:* 2 ships (1,000 GRT or over) 2,421 GRT/2,990 DWT |
+| | *by type:* cargo 1, container 1 (2004 est.) |
+| **Svalbard** | none |
+| **Sweden** | *total:* 178 ships (1,000 GRT or over) 2,702,763 GRT/1,884,570 DWT |
+| | *by type:* bulk 7, cargo 36, chemical tanker 31, combination bulk 1, combination ore/oil 1, petroleum tanker 25, roll on/roll off 39, short-sea/passenger 8, specialized tanker 7, vehicle carrier 23 |
+| | *foreign-owned:* Denmark 12, Finland 10, Germany 3, Italy 7, Japan 2, Netherlands 1, Norway 12, Russia 1 |
+| | *registered in other countries:* 154 (2004 est.) |
+| **Switzerland** | *total:* 30 ships (1,000 GRT or over) 604,843 GRT/1,050,914 DWT |
+| | *by type:* bulk 15, cargo 6, chemical tanker 3, container 3, petroleum tanker 2, specialized tanker 1 |
+| | *foreign-owned:* Belgium 1, Netherlands 1, United Kingdom 6, United States 1 |
+| | *registered in other countries:* 182 (2004 est.) |
+| **Syria** | *total:* 122 ships (1,000 GRT or over) 446,981 GRT/636,620 DWT |
+| | *by type:* bulk 12, cargo 101, container 2, livestock carrier 4, petroleum tanker 1, refrigerated cargo 1, roll on/roll off 1 |
+| | *foreign-owned:* Egypt 1, Germany 1, Greece 1, Italy 1, Lebanon 10, Romania 1 |
+| | *registered in other countries:* 83 (2004 est.) |
+| **Taiwan** | *total:* 130 ships (1,000 GRT or over) 3,417,768 GRT/5,617,318 DWT |
+| | *by type:* bulk 36, cargo 23, chemical tanker 2, combination bulk 3, container 37, petroleum tanker 17, refrigerated cargo 10, roll on/roll off 2 |
+| | *foreign-owned:* Cuba 1, Hong Kong 4 |
+| | *registered in other countries:* 457 (2004 est.) |
+| **Tanzania** | *total:* 10 ships (1,000 GRT or over) 25,481 GRT/31,011 DWT |
+| | *by type:* cargo 3, passenger/cargo 2, petroleum tanker 3, roll on/roll off 1, short-sea/passenger 1 |
+| | *registered in other countries:* 5 (2004 est.) |
+| **Thailand** | *total:* 339 ships (1,000 GRT or over) 2,038,597 GRT/3,104,712 DWT |
+| | *by type:* bulk 40, cargo 135, chemical tanker 5, combination bulk 2, combination ore/oil 1, container 19, liquefied gas 22, multi-functional large load carrier 2, passenger 1, petroleum tanker 79, refrigerated cargo 22, roll on/roll off 2, short-sea/passenger 2, specialized tanker 6, vehicle carrier 1 |
+| | *foreign-owned:* Egypt 1, Germany 3, Indonesia 1, Japan 4, Norway 38, Panama 2, Singapore 3 |
+| | *registered in other countries:* 43 (2004 est.) |
+| **Togo** | *total:* 2 ships (1,000 GRT or over) 3,918 GRT/3,852 DWT |
+| | *by type:* cargo 1, specialized tanker 1 |
+| | *registered in other countries:* 1 (2004 est.) |
+| **Tokelau** | none |
+| **Tonga** | *total:* 40 ships (1,000 GRT or over) 136,977 GRT/200,751 DWT |
+| | *by type:* bulk 3, cargo 21, chemical tanker 2, container 1, liquefied gas 4, petroleum tanker 5, refrigerated cargo 1, roll on/roll off 1, specialized tanker 1, vehicle carrier 1 |
+| | *foreign-owned:* Albania 1, Australia 4, Brazil 1, Cyprus 1, Egypt 1, Greece 1, Lebanon 1, Liberia 1, Marshall Islands 1, Norway 1, Panama 2, Romania 1, Russia 1, Saudi Arabia 1, Switzerland 3, Syria 1, United (2004 est.) |
+| **Trinidad and Tobago** | *total:* 5 ships (1,000 GRT or over) 7,178 GRT/3,633 DWT |
+| | *by type:* cargo 1, passenger 1, passenger/cargo 1, petroleum tanker 1, short-sea/passenger 1 |
+| | *foreign-owned:* United States 1 |
+| | *registered in other countries:* 4 (2004 est.) |
+| **Tunisia** | *total:* 11 ships (1,000 GRT or over) 124,733 GRT/122,664 DWT |
+| | *by type:* bulk 2, cargo 1, chemical tanker 4, liquefied gas 1, short-sea/passenger 3 |
+| | *registered in other countries:* 2 (2004 est.) |
+| **Turkey** | *total:* 508 ships (1,000 GRT or over) 4,666,895 GRT/7,311,504 DWT |
+| | *by type:* bulk 111, cargo 229, chemical tanker 46, combination bulk 1, combination ore/oil 2, container 34, liquefied gas 6, passenger 1, passenger/cargo 1, petroleum tanker 36, refrigerated cargo 4, roll on/roll off 26, short-sea/passenger 8, specialized tanker 3 |
+| | *foreign-owned:* Belize 1, Cambodia 1, China 1, Cyprus 4, Greece 1, Italy 3, Liberia 1, Monaco 1, Switzerland 1, Thailand 1, United Kingdom 9 |
+| | *registered in other countries:* 243 (2004 est.) |
+| **Turkmenistan** | *total:* 2 ships (1,000 GRT or over) 6,873 GRT/8,345 DWT |
+| | *by type:* combination ore/oil 1, petroleum tanker 1 |
+| | *registered in other countries:* 2 (2004 est.) |
+| **Turks and Caicos Islands** | none |
+| **Tuvalu** | *total:* 6 ships (1,000 GRT or over) 54,993 GRT/86,048 DWT |
+| | *by type:* cargo 3, passenger/cargo 1, petroleum tanker 1, specialized tanker 1 |
+| | *foreign-owned:* Germany 4, Singapore 1, Thailand 1 (2004 est.) |
+| **Uganda** | *total:* 3 ships (1,000 GRT or over) 5,091 GRT/5,943 DWT |
+| | *by type:* roll on/roll off 3 (2003 est.) |
+| **Ukraine** | *total:* 140 ships (1,000 GRT or over) 675,904 GRT/709,802 DWT |
+| | *by type:* bulk 7, cargo 92, container 7, liquefied gas 2, passenger 11, passenger/cargo 3, petroleum tanker 10, rail car carrier 2, refrigerated cargo 2, roll on/roll off 3, short-sea/passenger 1 |
+| | *foreign-owned:* Belize 2, Canada 1, Cyprus 1, Hungary 2, Italy 1, Russia 4, Turkey 3 |
+| | *registered in other countries:* 87 (2004 est.) |
+| **United Arab Emirates** | *total:* 59 ships (1,000 GRT or over) 578,477 GRT/739,823 DWT |
+| | *by type:* cargo 12, chemical tanker 5, container 7, liquefied gas 1, petroleum tanker 21, roll on/roll off 8, short-sea/passenger 4, specialized tanker 1 (2004 est.) |
+| **United Kingdom** | *total:* 384 ships (1,000 GRT or over) 9,181,284 GRT/9,566,275 DWT |
+| | *by type:* bulk 20, cargo 50, chemical tanker 28, combination ore/oil 1, container 130, liquefied gas 23, livestock carrier 1, multi-functional large load carrier 1, passenger 20, petroleum tanker 45, refrigerated cargo 18, roll on/roll off 34, short-sea/passenger 11, specialized tanker 1, vehicle carrier 1 |
+| | *foreign-owned:* Australia 2, Croatia 4, Cyprus 1, Denmark 42, Finland 1, Germany 52, Greece 36, Hong Kong 16, Italy 3, Japan 1, Monaco 13, Nigeria 1, Norway 32, South Africa 2, Sweden 13, Taiwan 7, United |
+| | *registered in other countries:* 522 (2004 est.) |
+| **United States** | *total:* 466 ships (1,000 GRT or over) 12,436,658 GRT/14,630,116 DWT |
+| | *by type:* barge carrier 8, bulk 69, cargo 75, chemical tanker 12, combination bulk 2, combination ore/oil 1, container 100, multi-functional large load carrier 3, passenger 12, passenger/cargo 2, petroleum tanker 81, refrigerated cargo 3, roll on/roll off 83, short-sea/passenger 3, vehicle carrier 12 |
+| | *foreign-owned:* Australia 2, Canada 7, Denmark 17, Malaysia 1, Netherlands 1, Norway 6, Singapore 3, United Kingdom 5 |
+| | *registered in other countries:* 670 (2004 est.) |
+| **Uruguay** | *total:* 4 ships (1,000 GRT or over) 10,918 GRT/10,342 DWT |
+| | *by type:* chemical tanker 1, container 1, petroleum tanker 1, roll on/roll off 1 |
+| | *foreign-owned:* Argentina 4, Greece 1 |
+| | *registered in other countries:* 6 (2004 est.) |
+| **Vanuatu** | *total:* 51 ships (1,000 GRT or over) 1,192,474 GRT/1,560,828 DWT |
+| | *by type:* bulk 28, cargo 2, combination bulk 3, container 2, liquefied gas 2, multi-functional large load carrier 1, refrigerated cargo 6, roll on/roll off 2, vehicle carrier 5 |
+| | *foreign-owned:* Australia 2, Canada 1, Estonia 1, Germany 1, Japan 25, Monaco 4, New Zealand 2, Panama 1, Poland 7, Switzerland 3, United Kingdom 5, United States 2 |
+| | *registered in other countries:* 1 (2004 est.) |
+| **Venezuela** | *total:* 48 ships (1,000 GRT or over) 740,919 GRT/1,191,483 DWT |
+| | *by type:* bulk 6, cargo 7, container 2, liquefied gas 5, multi-functional large load carrier 1, passenger 1, passenger/cargo 1, petroleum tanker 16, roll on/roll off 8, short-sea/passenger 1 |
+| | *foreign-owned:* Belgium 1, Denmark 2, Greece 2, Spain 1, United States 2 |
+| | *registered in other countries:* 4 (2004 est.) |
+| **Vietnam** | *total:* 194 ships (1,000 GRT or over) 1,170,621 GRT/1,798,376 DWT |
+| | *by type:* bulk 16, cargo 135, chemical tanker 1, container 8, liquefied gas 4, petroleum tanker 25, refrigerated cargo 3, roll on/roll off 1, specialized tanker 1 |
+| | *foreign-owned:* Cambodia 1, Germany 1, Japan 2, South Korea 1, United Kingdom 3 |
+| | *registered in other countries:* 11 (2004 est.) |
+| **Virgin Islands** | none |
+| **Wallis and Futuna** | *total:* 6 ships (1,000 GRT or over) 134,037 GRT/14,271 DWT |
+| | *by type:* passenger 6 |
+| | *foreign-owned:* France 3, Greece 1, Monaco 1, United States 1 (2004 est.) |
+| **Yemen** | *total:* 6 ships (1,000 GRT or over) 19,766 GRT/24,794 DWT |
+| | *by type:* cargo 1, livestock carrier 1, petroleum tanker 3, roll on/roll off 1 |
+| | *foreign-owned:* Hong Kong 2, Lebanon 1 |
+| | *registered in other countries:* 5 (2004 est.) |
+
+This page was last updated on 10 February, 2005
+ 

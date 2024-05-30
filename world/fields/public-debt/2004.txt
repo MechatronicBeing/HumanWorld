@@ -1,0 +1,116 @@
+CIA - The World Factbook -- Field Listing - Public debt
+
+| Country | Public debt (% of GDP) |
+| --- | --- |
+| **Algeria** | 41.5% of GDP (2003 est.) |
+| **Argentina** | 65.7% of GDP (2003 est.) |
+| **Australia** | 18.2% of GDP (2003) |
+| **Austria** | 67.6% of GDP (2003) |
+| **Azerbaijan** | 16.3% of GDP (2003 est.) |
+| **Bahrain** | 57.5% of GDP (2003) |
+| **Bangladesh** | 43.3% of GDP (2003) |
+| **Belgium** | 102% of GDP (2003 est.) |
+| **Botswana** | 7% of GDP (2003) |
+| **Brazil** | 58.5% of GDP (2003) |
+| **Bulgaria** | 48% of GDP (2003) |
+| **Cameroon** | 57.1% of GDP (2003) |
+| **Canada** | 77% of GDP (2003) |
+| **Chile** | 14.8% of GDP (2003) |
+| **China** | 30.1% of GDP (2003) |
+| **Colombia** | 51.9% of GDP (2003) |
+| **Costa Rica** | 56.1% of GDP (2003) |
+| **Cote d'Ivoire** | 82.5% of GDP (2003) |
+| **Croatia** | 69.1% of GDP (2003) |
+| **Cyprus** | 62.3% of GDP (2003) |
+| **Czech Republic** | 29.7% of GDP (2003) |
+| **Denmark** | 45% of GDP (2003) |
+| **Dominican Republic** | 59.4% of GDP (2003) |
+| **Ecuador** | 53.7% of GDP (2003) |
+| **Egypt** | 101.8% of GDP (2003) |
+| **El Salvador** | 43.7% of GDP (2003) |
+| **Estonia** | 7.4% of GDP (2003) |
+| **Finland** | 48.7% of GDP (2003) |
+| **France** | 68.8% of GDP (2003) |
+| **Gabon** | 31.5% of GDP (2003) |
+| **Germany** | 64.2% of GDP (2003) |
+| **Greece** | 100.9% of GDP (2003) |
+| **Guatemala** | 30.8% of GDP (2003) |
+| **Honduras** | 57.8% of GDP (2003) |
+| **Hungary** | 57% of GDP (2003) |
+| **Iceland** | 41.5% of GDP (2003) |
+| **India** | 59.7% of GDP (2003) |
+| **Indonesia** | 72.9% of GDP (2003) |
+| **Iran** | 28.2% of GDP (2003) |
+| **Ireland** | 31.2% of GDP (2003) |
+| **Israel** | 108.6% of GDP (2003) |
+| **Italy** | 106.4% of GDP (2003) |
+| **Jamaica** | 145.6% of GDP (2003) |
+| **Japan** | 154.6% of GDP (2003) |
+| **Jordan** | 92.7% of GDP (2003) |
+| **Kazakhstan** | 15.5% of GDP (2003) |
+| **Kenya** | 62.9% of GDP (2003) |
+| **Korea, South** | 13.8% of GDP (2003) |
+| **Kuwait** | 29.5% of GDP (2003) |
+| **Latvia** | 14.4% of GDP (2003) |
+| **Lebanon** | 185.1% of GDP (2003) |
+| **Libya** | 16.6% of GDP (2003) |
+| **Lithuania** | 23.6% of GDP (2003) |
+| **Macedonia** | 30.2% of GDP (2003) |
+| **Malawi** | 235.7% of GDP (2003) |
+| **Malaysia** | 45.5% of GDP (2003) |
+| **Mauritius** | 31.9% of GDP (2003) |
+| **Mexico** | 23.1% of GDP (2003) |
+| **Moldova** | 88.4% of GDP (2003) |
+| **Morocco** | 76.2% of GDP (2003) |
+| **Namibia** | 35.6% of GDP (2003) |
+| **Netherlands** | 54.1% of GDP (2003) |
+| **New Zealand** | 25.6% of GDP (2003) |
+| **Nicaragua** | 125.3% of GDP (2003) |
+| **Nigeria** | 28.6% of GDP (2003) |
+| **Norway** | 22.1% of GDP (2003) |
+| **Oman** | 15.6% of GDP (2003) |
+| **Pakistan** | 72.7% of GDP (2003) |
+| **Panama** | 73.3% of GDP (2003) |
+| **Papua New Guinea** | 72.4% of GDP (2003) |
+| **Paraguay** | 45.1% of GDP (2003) |
+| **Peru** | 49.2% of GDP (2003) |
+| **Philippines** | 77% of GDP (2003) |
+| **Poland** | 47.4% of GDP (2003) |
+| **Portugal** | 59.8% of GDP (2003) |
+| **Qatar** | 72.7% of GDP (2003) |
+| **Romania** | 25.5% of GDP (2003) |
+| **Russia** | 34.1% of GDP (2003) |
+| **Saudi Arabia** | 94.6% of GDP (2003) |
+| **Senegal** | 54.2% of GDP (2003) |
+| **Serbia and Montenegro** | 123.2% of GDP (2003) |
+| **Seychelles** | 129.3% of GDP (2003) |
+| **Singapore** | 106.4% of GDP (2003) |
+| **Slovakia** | 37.6% of GDP (2003) |
+| **Slovenia** | 31.9% of GDP (2003) |
+| **South Africa** | 38.2% of GDP (2003) |
+| **Spain** | 62.7% of GDP (2003) |
+| **Sri Lanka** | 105.1% of GDP (2003) |
+| **Sudan** | 87% of GDP (2003) |
+| **Sweden** | 51.8% of GDP (2003) |
+| **Switzerland** | 57.1% of GDP (2003) |
+| **Syria** | 89% of GDP (2003) |
+| **Taiwan** | 30.5% of GDP (2003) |
+| **Tanzania** | 6.1% of GDP (2003) |
+| **Thailand** | 46.6% of GDP (2003) |
+| **Trinidad and Tobago** | 55.9% of GDP (2003) |
+| **Tunisia** | 59.5% of GDP (2003) |
+| **Turkey** | 78.7% of GDP (2003) |
+| **Uganda** | 62.2% of GDP (2003) |
+| **Ukraine** | 28.7% of GDP (2003) |
+| **United Arab Emirates** | 18.1% of GDP (2003) |
+| **United Kingdom** | 51% of GDP (2003) |
+| **United States** | 62.4% of GDP (2003) |
+| **Uzbekistan** | 42.3% of GDP (2003) |
+| **Venezuela** | 38.8% of GDP (2003) |
+| **Vietnam** | 64.3% of GDP (2003) |
+| **Yemen** | 39.5% of GDP (2003) |
+| **Zambia** | 133.6% of GDP (2003) |
+| **Zimbabwe** | 41.3% of GDP (2003) |
+
+This page was last updated on 10 February, 2005
+ 

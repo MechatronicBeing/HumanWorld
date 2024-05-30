@@ -1,0 +1,219 @@
+CIA - The World Factbook -- Field Listing - Oil - imports
+
+| Country | Oil - imports (bbl/day) |
+| --- | --- |
+| **Afghanistan** | NA |
+| **Albania** | 5,500 bbl/day (2004 est.) |
+| **Algeria** | NA |
+| **American Samoa** | NA |
+| **Angola** | NA |
+| **Antigua and Barbuda** | NA |
+| **Argentina** | NA |
+| **Armenia** | NA |
+| **Aruba** | NA |
+| **Australia** | 530,800 bbl/day (2001) |
+| **Austria** | 262,000 bbl/day (2001) |
+| **Azerbaijan** | NA |
+| **Bahamas, The** | NA |
+| **Bahrain** | NA |
+| **Bangladesh** | NA |
+| **Barbados** | NA |
+| **Belarus** | 360,000 bbl/day (2004 est.) |
+| **Belgium** | 1.042 million bbl/day (2001) |
+| **Belize** | NA |
+| **Benin** | NA |
+| **Bermuda** | NA |
+| **Bhutan** | NA |
+| **Bolivia** | NA |
+| **Bosnia and Herzegovina** | NA |
+| **Botswana** | NA |
+| **Brazil** | NA |
+| **British Virgin Islands** | NA |
+| **Brunei** | NA |
+| **Bulgaria** | NA |
+| **Burkina Faso** | NA |
+| **Burma** | 49,230 bbl/day (2003) |
+| **Burundi** | NA |
+| **Cambodia** | NA |
+| **Cameroon** | NA |
+| **Canada** | 987,000 bbl/day (2004) |
+| **Cape Verde** | NA |
+| **Cayman Islands** | NA |
+| **Central African Republic** | NA |
+| **Chad** | NA |
+| **Chile** | 221,500 bbl/day (2003 est.) |
+| **China** | 2.414 million bbl/day (2002) |
+| **Colombia** | NA |
+| **Comoros** | NA |
+| **Congo, Democratic Republic of the** | NA |
+| **Congo, Republic of the** | NA |
+| **Cook Islands** | NA |
+| **Costa Rica** | NA |
+| **Cote d'Ivoire** | NA |
+| **Croatia** | NA |
+| **Cuba** | NA |
+| **Cyprus** | NA |
+| **Czech Republic** | 192,300 bbl/day (2001) |
+| **Denmark** | 195,000 bbl/day (2001) |
+| **Djibouti** | NA |
+| **Dominica** | NA |
+| **Dominican Republic** | 129,900 bbl/day (2003) |
+| **Ecuador** | NA |
+| **Egypt** | NA |
+| **El Salvador** | NA |
+| **Equatorial Guinea** | NA |
+| **Eritrea** | NA |
+| **Estonia** | NA |
+| **Ethiopia** | NA |
+| **European Union** | 15.69 million bbl/day (2001) |
+| **Falkland Islands (Islas Malvinas)** | NA |
+| **Faroe Islands** | NA |
+| **Fiji** | NA |
+| **Finland** | 318,300 bbl/day (2001) |
+| **France** | 2.281 million bbl/day (2001) |
+| **French Guiana** | NA |
+| **French Polynesia** | NA |
+| **Gabon** | NA |
+| **Gambia, The** | NA |
+| **Georgia** | NA |
+| **Germany** | 2.135 million bbl/day (2003) |
+| **Ghana** | NA |
+| **Gibraltar** | NA |
+| **Greece** | 468,300 bbl/day (2001) |
+| **Greenland** | NA |
+| **Grenada** | NA |
+| **Guadeloupe** | NA |
+| **Guam** | NA |
+| **Guatemala** | NA |
+| **Guinea** | NA |
+| **Guinea-Bissau** | NA |
+| **Guyana** | NA |
+| **Haiti** | NA |
+| **Honduras** | NA |
+| **Hong Kong** | NA |
+| **Hungary** | 136,600 bbl/day (2001) |
+| **Iceland** | 15,470 bbl/day (2001) |
+| **India** | NA |
+| **Indonesia** | 370,500 bbl/day (2003) |
+| **Iran** | NA |
+| **Iraq** | NA |
+| **Ireland** | 178,600 bbl/day (2001) |
+| **Israel** | NA |
+| **Italy** | 2.158 million bbl/day (2001) |
+| **Jamaica** | NA |
+| **Japan** | 5.449 million bbl/day (2001) |
+| **Jordan** | 100,000 bbl/day (2004 est.) |
+| **Kazakhstan** | 47,000 bbl/day (2003) |
+| **Kenya** | NA |
+| **Kiribati** | NA |
+| **Korea, North** | 11,500 bbl/day (2003 est.) |
+| **Korea, South** | 2.263 million bbl/day (2003) |
+| **Kuwait** | NA |
+| **Kyrgyzstan** | NA |
+| **Laos** | NA |
+| **Latvia** | NA |
+| **Lebanon** | NA |
+| **Lesotho** | NA |
+| **Liberia** | NA |
+| **Libya** | NA |
+| **Lithuania** | NA |
+| **Luxembourg** | 50,700 bbl/day (2001) |
+| **Macau** | NA |
+| **Macedonia** | NA |
+| **Madagascar** | NA |
+| **Malawi** | NA |
+| **Malaysia** | NA |
+| **Maldives** | NA |
+| **Mali** | NA |
+| **Malta** | NA |
+| **Martinique** | NA |
+| **Mauritania** | NA |
+| **Mauritius** | NA |
+| **Mexico** | 205,000 bbl/day (2004) |
+| **Moldova** | NA |
+| **Mongolia** | 11,000 bbl/day (2004 est.) |
+| **Montserrat** | NA |
+| **Morocco** | NA |
+| **Mozambique** | NA |
+| **Namibia** | NA |
+| **Nauru** | NA |
+| **Nepal** | NA |
+| **Netherlands** | 2.284 million bbl/day (2001) |
+| **Netherlands Antilles** | NA |
+| **New Caledonia** | NA |
+| **New Zealand** | 119,700 bbl/day (2001) |
+| **Nicaragua** | 27,950 bbl/day (2003) |
+| **Niger** | NA |
+| **Nigeria** | NA |
+| **Niue** | NA |
+| **Norway** | 88,870 bbl/day (2001) |
+| **Oman** | NA |
+| **Pakistan** | NA |
+| **Panama** | NA |
+| **Papua New Guinea** | NA |
+| **Paraguay** | NA |
+| **Peru** | NA |
+| **Philippines** | 312,000 bbl/day (2003) |
+| **Poland** | 413,700 bbl/day (2001) |
+| **Portugal** | 357,300 bbl/day (2001) |
+| **Puerto Rico** | NA |
+| **Qatar** | NA |
+| **Reunion** | NA |
+| **Romania** | NA |
+| **Russia** | NA |
+| **Rwanda** | NA |
+| **Saint Helena** | NA |
+| **Saint Kitts and Nevis** | NA |
+| **Saint Lucia** | NA |
+| **Saint Pierre and Miquelon** | NA |
+| **Saint Vincent and the Grenadines** | NA |
+| **Samoa** | NA |
+| **Sao Tome and Principe** | NA |
+| **Saudi Arabia** | 0 bbl/day (2003) |
+| **Senegal** | NA |
+| **Serbia and Montenegro** | NA |
+| **Seychelles** | NA |
+| **Sierra Leone** | NA |
+| **Singapore** | NA |
+| **Slovakia** | NA |
+| **Slovenia** | NA |
+| **Solomon Islands** | NA |
+| **Somalia** | NA |
+| **South Africa** | NA |
+| **Spain** | 1.582 million bbl/day (2001) |
+| **Sri Lanka** | NA |
+| **Sudan** | 0 bbl/day (2004) |
+| **Suriname** | 1,644 bbl/day (2003) |
+| **Swaziland** | NA |
+| **Sweden** | 553,100 bbl/day (2001) |
+| **Switzerland** | 289,500 bbl/day (2001) |
+| **Syria** | NA |
+| **Taiwan** | NA |
+| **Tajikistan** | NA |
+| **Tanzania** | NA |
+| **Thailand** | NA |
+| **Togo** | NA |
+| **Tonga** | NA |
+| **Trinidad and Tobago** | NA |
+| **Tunisia** | NA |
+| **Turkey** | 616,500 bbl/day (2001) |
+| **Turkmenistan** | NA |
+| **Turks and Caicos Islands** | NA |
+| **Uganda** | NA |
+| **Ukraine** | NA |
+| **United Arab Emirates** | 0 bbl/day (2004) |
+| **United Kingdom** | 1.084 million bbl/day (2003) |
+| **United States** | NA |
+| **Uruguay** | NA |
+| **Uzbekistan** | NA |
+| **Vanuatu** | NA |
+| **Venezuela** | NA |
+| **Vietnam** | NA |
+| **Virgin Islands** | NA |
+| **Western Sahara** | NA |
+| **Yemen** | NA |
+| **Zambia** | NA |
+| **Zimbabwe** | NA |
+
+This page was last updated on 20 October, 2005
+ 

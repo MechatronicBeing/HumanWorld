@@ -1,0 +1,216 @@
+CIA - The World Factbook -- Field Listing - Natural gas - consumption
+
+| Country | Natural gas - consumption (cu m) |
+| --- | --- |
+| **Afghanistan** | 19.18 million cu m (2005 est.) |
+| **Albania** | 28.77 million cu m (2005 est.) |
+| **Algeria** | 21.8 billion cu m (2005 est.) |
+| **American Samoa** | 0 cu m (2005 est.) |
+| **Angola** | 767.3 million cu m (2005 est.) |
+| **Antigua and Barbuda** | 0 cu m (2005 est.) |
+| **Argentina** | 38.79 billion cu m (2005 est.) |
+| **Armenia** | 1.63 billion cu m (2005 est.) |
+| **Aruba** | 0 cu m (2005 est.) |
+| **Australia** | 25.72 billion cu m (2005 est.) |
+| **Austria** | 9.217 billion cu m (2005) |
+| **Azerbaijan** | 9.955 billion cu m (2005 est.) |
+| **Bahamas, The** | 0 cu m (2005 est.) |
+| **Bahrain** | 10.27 billion cu m (2005 est.) |
+| **Bangladesh** | 13.43 billion cu m (2005 est.) |
+| **Barbados** | 27.97 million cu m (2005 est.) |
+| **Belarus** | 19.47 billion cu m (2005 est.) |
+| **Belgium** | 16.61 billion cu m (2005 est.) |
+| **Belize** | 0 cu m (2005 est.) |
+| **Benin** | 0 cu m (2005 est.) |
+| **Bermuda** | 0 cu m (2005 est.) |
+| **Bhutan** | 0 cu m (2005 est.) |
+| **Bolivia** | 2.024 billion cu m (2005 est.) |
+| **Bosnia and Herzegovina** | 383.6 million cu m (2005 est.) |
+| **Botswana** | 0 cu m (2005 est.) |
+| **Brazil** | 17.85 billion cu m (2005 est.) |
+| **British Virgin Islands** | 0 cu m (2005 est.) |
+| **Brunei** | 2.254 billion cu m (2005 est.) |
+| **Bulgaria** | 5.179 billion cu m (2005 est.) |
+| **Burkina Faso** | 0 cu m (2005 est.) |
+| **Burma** | 3.971 billion cu m (2005 est.) |
+| **Burundi** | 0 cu m (2005 est.) |
+| **Cambodia** | 0 cu m (2005 est.) |
+| **Cameroon** | 0 cu m (2005 est.) |
+| **Canada** | 92.76 billion cu m (2005 est.) |
+| **Cape Verde** | 0 cu m (2005 est.) |
+| **Cayman Islands** | 0 cu m (2005 est.) |
+| **Central African Republic** | 0 cu m (2005 est.) |
+| **Chad** | 0 cu m (2005 est.) |
+| **Chile** | 8.191 billion cu m (2005 est.) |
+| **China** | 44.93 billion cu m (2005 est.) |
+| **Colombia** | 6.397 billion cu m (2005 est.) |
+| **Comoros** | 0 cu m (2005 est.) |
+| **Congo, Democratic Republic of the** | 0 cu m (2005 est.) |
+| **Congo, Republic of the** | 115.1 million cu m (2005 est.) |
+| **Cook Islands** | 0 cu m (2005 est.) |
+| **Costa Rica** | 0 cu m (2005 est.) |
+| **Cote d'Ivoire** | 1.247 billion cu m (2005 est.) |
+| **Croatia** | 2.58 billion cu m (2005 est.) |
+| **Cuba** | 383.6 million cu m (2005) |
+| **Czech Republic** | 9.076 billion cu m (2005 est.) |
+| **Denmark** | 4.775 billion cu m (2005 est.) |
+| **Djibouti** | 0 cu m (2005 est.) |
+| **Dominica** | 0 cu m (2005 est.) |
+| **Dominican Republic** | 239.8 million cu m (2005 est.) |
+| **Ecuador** | 249.4 million cu m (2005 est.) |
+| **Egypt** | 32.81 billion cu m (2005 est.) |
+| **El Salvador** | 0 cu m (2005 est.) |
+| **Equatorial Guinea** | 1.247 billion cu m (2005 est.) |
+| **Eritrea** | 0 cu m (2005 est.) |
+| **Estonia** | 1.458 billion cu m (2005 est.) |
+| **Ethiopia** | 0 cu m (2005 est.) |
+| **European Union** | 496.3 billion cu m (2005 est.) |
+| **Falkland Islands (Islas Malvinas)** | 0 cu m (2005 est.) |
+| **Faroe Islands** | 0 cu m (2005 est.) |
+| **Fiji** | 0 cu m (2005 est.) |
+| **Finland** | 4.244 billion cu m (2005 est.) |
+| **France** | 47.26 billion cu m (2005 est.) |
+| **French Polynesia** | 0 cu m (2005 est.) |
+| **Gabon** | 95.91 million cu m (2005 est.) |
+| **Gambia, The** | 0 cu m (2005 est.) |
+| **Georgia** | 1.415 billion cu m (2005 est.) |
+| **Germany** | 96.84 billion cu m (2005 est.) |
+| **Ghana** | 0 cu m (2005 est.) |
+| **Gibraltar** | 0 cu m (2005 est.) |
+| **Greece** | 2.724 billion cu m (2005 est.) |
+| **Greenland** | 0 cu m (2005 est.) |
+| **Grenada** | 0 cu m (2005 est.) |
+| **Guam** | 0 cu m (2005 est.) |
+| **Guatemala** | 0 cu m (2005 est.) |
+| **Guinea** | 0 cu m (2005 est.) |
+| **Guinea-Bissau** | 0 cu m (2005 est.) |
+| **Guyana** | 0 cu m (2005 est.) |
+| **Haiti** | 0 cu m (2005 est.) |
+| **Honduras** | 0 cu m (2005 est.) |
+| **Hong Kong** | 2.944 billion cu m (2005 est.) |
+| **Hungary** | 14.37 billion cu m (2005 est.) |
+| **Iceland** | 0 cu m (2005 est.) |
+| **India** | 34.47 billion cu m (2005 est.) |
+| **Indonesia** | 35.97 billion cu m (2005 est.) |
+| **Iran** | 98.19 billion cu m (2005 est.) |
+| **Iraq** | 2.35 billion cu m (2005 est.) |
+| **Ireland** | 3.895 billion cu m (2005 est.) |
+| **Israel** | 709.7 million cu m (2005 est.) |
+| **Italy** | 82.64 billion cu m (2005 est.) |
+| **Jamaica** | 0 cu m (2005 est.) |
+| **Japan** | 83.67 billion cu m (2005 est.) |
+| **Jordan** | 1.496 billion cu m (2005 est.) |
+| **Kazakhstan** | 29.2 billion cu m (2005 est.) |
+| **Kenya** | 0 cu m (2005 est.) |
+| **Kiribati** | 0 cu m (2005 est.) |
+| **Korea, North** | 0 cu m (2005 est.) |
+| **Korea, South** | 29.17 billion cu m (2005 est.) |
+| **Kuwait** | 11.8 billion cu m (2005 est.) |
+| **Kyrgyzstan** | 709.7 million cu m (2005 est.) |
+| **Laos** | 0 cu m (2005 est.) |
+| **Latvia** | 1.861 billion cu m (2005 est.) |
+| **Lebanon** | 0 cu m (2005 est.) |
+| **Lesotho** | 0 cu m (2005 est.) |
+| **Liberia** | 0 cu m (2005 est.) |
+| **Libya** | 5.591 billion cu m (2005 est.) |
+| **Lithuania** | 2.916 billion cu m (2005 est.) |
+| **Luxembourg** | 1.356 billion cu m (2005 est.) |
+| **Macau** | 0 cu m (2005 est.) |
+| **Macedonia** | 95.91 million cu m (2005 est.) |
+| **Madagascar** | 0 cu m (2005 est.) |
+| **Malawi** | 0 cu m (2005 est.) |
+| **Malaysia** | 31.84 billion cu m (2005 est.) |
+| **Maldives** | 0 cu m (2005 est.) |
+| **Mali** | 0 cu m (2005 est.) |
+| **Malta** | 0 cu m (2005 est.) |
+| **Mauritania** | 0 cu m (2005 est.) |
+| **Mauritius** | 0 cu m (2005 est.) |
+| **Mexico** | 47.5 billion cu m (2005 est.) |
+| **Moldova** | 2.35 billion cu m (2005 est.) |
+| **Mongolia** | NA cu m |
+| **Montenegro** | NA cu m |
+| **Montserrat** | 0 cu m (2005 est.) |
+| **Morocco** | 47.95 million cu m (2005 est.) |
+| **Mozambique** | 191.8 million cu m (2005 est.) |
+| **Namibia** | 0 cu m (2005 est.) |
+| **Nauru** | 0 cu m (2005 est.) |
+| **Nepal** | 0 cu m (2005 est.) |
+| **Netherlands** | 47.46 billion cu m (2005 est.) |
+| **Netherlands Antilles** | 0 cu m (2005 est.) |
+| **New Caledonia** | 0 cu m (2005 est.) |
+| **New Zealand** | 3.913 billion cu m (2005 est.) |
+| **Nicaragua** | 0 cu m (2005 est.) |
+| **Niger** | 0 cu m (2005 est.) |
+| **Nigeria** | 9.936 billion cu m (2005 est.) |
+| **Niue** | 0 cu m (2005 est.) |
+| **Norway** | 5.342 billion cu m (2005 est.) |
+| **Oman** | 8.795 billion cu m (2005 est.) |
+| **Pakistan** | 29.54 billion cu m (2005 est.) |
+| **Panama** | 0 cu m (2005 est.) |
+| **Papua New Guinea** | 95.91 million cu m (2005 est.) |
+| **Paraguay** | 0 cu m (2005 est.) |
+| **Peru** | 1.515 billion cu m (2005 est.) |
+| **Philippines** | 2.781 billion cu m (2005 est.) |
+| **Poland** | 15.58 billion cu m (2005 est.) |
+| **Portugal** | 4.125 billion cu m (2005 est.) |
+| **Puerto Rico** | 642.6 million cu m (2005 est.) |
+| **Qatar** | 17.93 billion cu m (2005 est.) |
+| **Romania** | 17.46 billion cu m (2005 est.) |
+| **Russia** | 438.7 billion cu m (2005 est.) |
+| **Rwanda** | 0 cu m (2005 est.) |
+| **Saint Helena** | 0 cu m (2005 est.) |
+| **Saint Kitts and Nevis** | 0 cu m (2005 est.) |
+| **Saint Lucia** | 0 cu m (2005 est.) |
+| **Saint Pierre and Miquelon** | 0 cu m (2005 est.) |
+| **Saint Vincent and the Grenadines** | 0 cu m (2005 est.) |
+| **Samoa** | 0 cu m (2005 est.) |
+| **Sao Tome and Principe** | 0 cu m (2005 est.) |
+| **Saudi Arabia** | 68.32 billion cu m (2005 est.) |
+| **Senegal** | 47.95 million cu m (2005 est.) |
+| **Serbia** | 2.55 billion cu m (2005 est.) |
+| **Seychelles** | 0 cu m (2005 est.) |
+| **Sierra Leone** | 0 cu m (2005 est.) |
+| **Singapore** | 6.339 billion cu m (2005 est.) |
+| **Slovakia** | 6.231 billion cu m (2005 est.) |
+| **Slovenia** | 1.078 billion cu m (2005 est.) |
+| **Solomon Islands** | 0 cu m (2005 est.) |
+| **Somalia** | 0 cu m (2005 est.) |
+| **South Africa** | 2.11 billion cu m (2005 est.) |
+| **Spain** | 30.58 billion cu m (2005 est.) |
+| **Sri Lanka** | 0 cu m (2005 est.) |
+| **Sudan** | 0 cu m (2005 est.) |
+| **Suriname** | 0 cu m (2005 est.) |
+| **Swaziland** | 0 cu m (2005 est.) |
+| **Sweden** | 893.9 million cu m (2005 est.) |
+| **Switzerland** | 3.26 billion cu m (2005 est.) |
+| **Syria** | 5.1 billion cu m (2006 est.) |
+| **Taiwan** | 9.984 billion cu m (2005 est.) |
+| **Tajikistan** | 1.371 billion cu m (2005 est.) |
+| **Tanzania** | 0 cu m (2005 est.) |
+| **Thailand** | 31.23 billion cu m (2005 est.) |
+| **Togo** | 0 cu m (2005 est.) |
+| **Tonga** | 0 cu m (2005 est.) |
+| **Trinidad and Tobago** | 15.6 billion cu m (2005 est.) |
+| **Tunisia** | 4.124 billion cu m (2005 est.) |
+| **Turkey** | 26.25 billion cu m (2005 est.) |
+| **Turkmenistan** | 17.07 billion cu m (2005 est.) |
+| **Turks and Caicos Islands** | 0 cu m (2005 est.) |
+| **Uganda** | 0 cu m (2005 est.) |
+| **Ukraine** | 73.94 billion cu m (2006 est.) |
+| **United Arab Emirates** | 39.56 billion cu m (2005 est.) |
+| **United Kingdom** | 91.16 billion cu m (2005 est.) |
+| **United States** | 604 billion cu m (2005 est.) |
+| **Uruguay** | 86.32 million cu m (2005 est.) |
+| **Uzbekistan** | 48.4 billion cu m (2006 est.) |
+| **Vanuatu** | 0 cu m (2005 est.) |
+| **Venezuela** | 27.53 billion cu m (2005 est.) |
+| **Vietnam** | 3.836 billion cu m (2005 est.) |
+| **Virgin Islands** | 0 cu m (2005 est.) |
+| **Western Sahara** | 0 cu m (2005 est.) |
+| **World** | 2.811 trillion cu m (2005 est.) |
+| **Yemen** | 0 cu m (2005 est.) |
+| **Zambia** | 0 cu m (2005 est.) |
+| **Zimbabwe** | 0 cu m (2005 est.) |
+
+This page was last updated on 13 December, 2007
+ 

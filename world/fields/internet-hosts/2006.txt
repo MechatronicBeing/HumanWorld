@@ -1,0 +1,241 @@
+CIA - The World Factbook -- Field Listing - Internet hosts
+
+| Country | Internet hosts |
+| --- | --- |
+| **Afghanistan** | 22 (2006) |
+| **Albania** | 430 (2006) |
+| **Algeria** | 1,202 (2006) |
+| **American Samoa** | 1,456 (2006) |
+| **Andorra** | 14,944 (2006) |
+| **Angola** | 2,525 (2006) |
+| **Anguilla** | 403 (2006) |
+| **Antarctica** | 7,757 (2006) |
+| **Antigua and Barbuda** | 2,231 (2006) |
+| **Argentina** | 1,612,423 (2006) |
+| **Armenia** | 8,163 (2006) |
+| **Aruba** | 11,548 (2006) |
+| **Australia** | 7,772,888 (2006) |
+| **Austria** | 2,062,035 (2006) |
+| **Azerbaijan** | 880 (2006) |
+| **Bahamas, The** | 591 (2006) |
+| **Bahrain** | 2,165 (2006) |
+| **Bangladesh** | 469 (2006) |
+| **Barbados** | 282 (2006) |
+| **Belarus** | 33,641 (2006) |
+| **Belgium** | 2,870,770 (2006) |
+| **Belize** | 3,905 (2006) |
+| **Benin** | 867 (2006) |
+| **Bermuda** | 8,114 (2006) |
+| **Bhutan** | 7,567 (2006) |
+| **Bolivia** | 20,085 (2006) |
+| **Bosnia and Herzegovina** | 31,490 (2006) |
+| **Botswana** | 5,499 (2006) |
+| **Bouvet Island** | 6 (2006) |
+| **Brazil** | 6,508,431 (2006) |
+| **British Indian Ocean Territory** | 65 (2006) |
+| **British Virgin Islands** | 525 (2006) |
+| **Brunei** | 27 (2005) |
+| **Bulgaria** | 184,975 (2006) |
+| **Burkina Faso** | 399 (2006) |
+| **Burma** | 42 (2006) |
+| **Burundi** | 160 (2006) |
+| **Cambodia** | 1,378 (2006) |
+| **Cameroon** | 39 (2006) |
+| **Canada** | 3,934,223 (2006) |
+| **Cape Verde** | 234 (2006) |
+| **Cayman Islands** | 8,611 (2006) |
+| **Central African Republic** | 10 (2006) |
+| **Chad** | 9 (2006) |
+| **Chile** | 506,055 (2006) |
+| **China** | 232,780 (2006) |
+| **Christmas Island** | 2,368 (2006) |
+| **Colombia** | 581,877 (2006) |
+| **Comoros** | 5 (2006) |
+| **Congo, Democratic Republic of the** | 1,778 (2006) |
+| **Congo, Republic of the** | 46 (2004) |
+| **Cook Islands** | 1,456 (2006) |
+| **Costa Rica** | 12,751 (2006) |
+| **Cote d'Ivoire** | 2,534 (2006) |
+| **Croatia** | 18,825 (2006) |
+| **Cuba** | 2,234 (2006) |
+| **Cyprus** | 67,589 (2006) |
+| **Czech Republic** | 1,267,265 (2006) |
+| **Denmark** | 2,415,530 (2006) |
+| **Djibouti** | 1,540 (2006) |
+| **Dominica** | 263 (2006) |
+| **Dominican Republic** | 91,895 (2006) |
+| **East Timor** | 68 (2006) |
+| **Ecuador** | 19,027 (2006) |
+| **Egypt** | 2,254 (2006) |
+| **El Salvador** | 4,682 (2006) |
+| **Equatorial Guinea** | 19 (2006) |
+| **Eritrea** | 1,088 (2006) |
+| **Estonia** | 52,241 (2006) |
+| **Ethiopia** | 88 (2006) |
+| **European Union** | 22,000,414 (2004); note - sum of individual country Internet hosts |
+| **Falkland Islands (Islas Malvinas)** | 103 (2006) |
+| **Faroe Islands** | 6,915 (2006) |
+| **Fiji** | 8,987 (2006) |
+| **Finland** | 1,633,614 (2006) |
+| **France** | 3,148,379 (2006) |
+| **French Guiana** | 106 (2006) |
+| **French Polynesia** | 14,047 (2006) |
+| **French Southern and Antarctic Lands** | 38 (2006) |
+| **Gabon** | 322 (2006) |
+| **Gambia, The** | 14 (2006) |
+| **Georgia** | 10,752 (2006) |
+| **Germany** | 11,859,131 (2006) |
+| **Ghana** | 380 (2006) |
+| **Gibraltar** | 641 (2006) |
+| **Greece** | 587,717 (2006) |
+| **Greenland** | 8,851 (2006) |
+| **Grenada** | 17 (2006) |
+| **Guadeloupe** | 422 (2006) |
+| **Guam** | 76 (2006) |
+| **Guatemala** | 49,026 (2006) |
+| **Guernsey** | 1,245 (2006) |
+| **Guinea** | 367 (2006) |
+| **Guinea-Bissau** | 5 (2006) |
+| **Guyana** | 1,046 (2006) |
+| **Haiti** | 6 (2006) |
+| **Holy See (Vatican City)** | 45 (2006) |
+| **Honduras** | 3,973 (2006) |
+| **Hong Kong** | 800,834 (2006) |
+| **Hungary** | 608,085 (2006) |
+| **Iceland** | 212,897 (2006) |
+| **India** | 1,543,289 (2006) |
+| **Indonesia** | 170,834 (2006) |
+| **Iran** | 5,242 (2006) |
+| **Iraq** | 5 (2006) |
+| **Ireland** | 238,191 (2006) |
+| **Isle of Man** | 290 (2006) |
+| **Israel** | 1,251,881 (2006) |
+| **Italy** | 1,731,165 (2006) |
+| **Jamaica** | 1,402 (2006) |
+| **Japan** | 28,321,846 (2006) |
+| **Jersey** | 1,240 (2006) |
+| **Jordan** | 3,441 (2006) |
+| **Kazakhstan** | 21,187 (2006) |
+| **Kenya** | 13,274 (2006) |
+| **Kiribati** | 42 (2006) |
+| **Korea, South** | 5,433,591 (2005) |
+| **Kuwait** | 2,310 (2006) |
+| **Kyrgyzstan** | 18,928 (2006) |
+| **Laos** | 1,108 (2006) |
+| **Latvia** | 65,858 (2006) |
+| **Lebanon** | 3,307 (2006) |
+| **Lesotho** | 168 (2006) |
+| **Liberia** | 8 (2006) |
+| **Libya** | 31 (2006) |
+| **Liechtenstein** | 4,697 (2006) |
+| **Lithuania** | 148,675 (2006) |
+| **Luxembourg** | 88,661 (2006) |
+| **Macau** | 108 (2006) |
+| **Macedonia** | 3,716 (2006) |
+| **Madagascar** | 1,504 (2006) |
+| **Malawi** | 377 (2006) |
+| **Malaysia** | 158,650 (2006) |
+| **Maldives** | 1,357 (2006) |
+| **Mali** | 278 (2006) |
+| **Malta** | 14,025 (2006) |
+| **Marshall Islands** | 6 (2006) |
+| **Martinique** | 72 (2006) |
+| **Mauritania** | 32 (2006) |
+| **Mauritius** | 4,997 (2006) |
+| **Mayotte** | 1 (2006) |
+| **Mexico** | 3,426,680 (2006) |
+| **Micronesia, Federated States of** | 550 (2006) |
+| **Moldova** | 58,886 (2006) |
+| **Monaco** | 12,720 (2006) |
+| **Mongolia** | 272 (2006) |
+| **Montserrat** | 386 (2006) |
+| **Morocco** | 3,218 (2006) |
+| **Mozambique** | 6,985 (2006) |
+| **Namibia** | 3,527 (2006) |
+| **Nauru** | 52 (2006) |
+| **Nepal** | 17,789 (2006) |
+| **Netherlands** | 8,363,158 (2006) |
+| **Netherlands Antilles** | 19,204 (2006) |
+| **New Caledonia** | 13,962 (2006) |
+| **New Zealand** | 1,050,197 (2006) |
+| **Nicaragua** | 24,452 (2006) |
+| **Niger** | 189 (2006) |
+| **Nigeria** | 1,549 (2006) |
+| **Norfolk Island** | 100 (2006) |
+| **Northern Mariana Islands** | 20 (2005) |
+| **Norway** | 1,364,448 (2006) |
+| **Oman** | 3,555 (2006) |
+| **Pakistan** | 72,765 (2006) |
+| **Palau** | 3 (2006) |
+| **Panama** | 7,149 (2006) |
+| **Papua New Guinea** | 1,573 (2006) |
+| **Paraguay** | 13,178 (2006) |
+| **Peru** | 269,981 (2006) |
+| **Philippines** | 111,262 (2006) |
+| **Pitcairn Islands** | 8 (2006) |
+| **Poland** | 358,476 (2006) |
+| **Portugal** | 845,980 (2005) |
+| **Puerto Rico** | 404 (2006) |
+| **Qatar** | 301 (2006) |
+| **Reunion** | 29 (2006) |
+| **Romania** | 57,470 (2006) |
+| **Russia** | 1,979,924 (2006) |
+| **Rwanda** | 1,590 (2006) |
+| **Saint Helena** | 329 (2006) |
+| **Saint Kitts and Nevis** | 50 (2006) |
+| **Saint Lucia** | 21 (2006) |
+| **Saint Pierre and Miquelon** | 0 (2006) |
+| **Saint Vincent and the Grenadines** | 94 (2006) |
+| **Samoa** | 10,680 (2006) |
+| **San Marino** | 3,140 (2006) |
+| **Sao Tome and Principe** | 735 (2006) |
+| **Saudi Arabia** | 10,931 (2006) |
+| **Senegal** | 412 (2006) |
+| **Serbia** | NA |
+| **Seychelles** | 72 (2006) |
+| **Sierra Leone** | 20 (2006) |
+| **Singapore** | 898,762 (2006) |
+| **Slovakia** | 210,758 (2006) |
+| **Slovenia** | 61,735 (2006) |
+| **Solomon Islands** | 2,658 (2006) |
+| **Somalia** | 3 (2006) |
+| **South Africa** | 645,179 (2006) |
+| **South Georgia and the South Sandwich Islands** | 271 (2006) |
+| **Spain** | 2,520,711 (2006) |
+| **Sri Lanka** | 6,526 (2006) |
+| **Sudan** | 16 (2006) |
+| **Suriname** | 126 (2006) |
+| **Swaziland** | 2,472 (2006) |
+| **Sweden** | 2,958,435 (2006) |
+| **Switzerland** | 2,442,659 (2006) |
+| **Syria** | 66 (2006) |
+| **Taiwan** | 4,320,310 (2006) |
+| **Tajikistan** | 98 (2006) |
+| **Tanzania** | 8,609 (2006) |
+| **Thailand** | 938,784 (2006) |
+| **Togo** | 520 (2006) |
+| **Tokelau** | 298 (2006) |
+| **Tonga** | 18,775 (2006) |
+| **Trinidad and Tobago** | 30,732 (2006) |
+| **Tunisia** | 428 (2006) |
+| **Turkey** | 1,313,135 (2006) |
+| **Turkmenistan** | 585 (2006) |
+| **Turks and Caicos Islands** | 2,735 (2006) |
+| **Uganda** | 1,365 (2006) |
+| **Ukraine** | 229,110 (2006) |
+| **United Arab Emirates** | 337,092 (2006) |
+| **United Kingdom** | 6,064,860 (2006) |
+| **United States** | 195,138,696 (2005) |
+| **Uruguay** | 145,774 (2006) |
+| **Uzbekistan** | 9,058 (2006) |
+| **Vanuatu** | 413 (2006) |
+| **Venezuela** | 51,968 (2006) |
+| **Vietnam** | 12,114 (2006) |
+| **Virgin Islands** | 3,855 (2006) |
+| **Wallis and Futuna** | 1 (2006) |
+| **Yemen** | 171 (2006) |
+| **Zambia** | 3,227 (2006) |
+| **Zimbabwe** | 7,954 (2006) |
+
+This page was last updated on 19 December, 2006
+ 

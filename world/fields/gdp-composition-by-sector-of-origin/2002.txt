@@ -1,0 +1,712 @@
+CIA - The World Factbook 2002 -- Field Listing - GDP - composition by sector
+
+| Country | GDP - composition by sector (%) |
+| --- | --- |
+| **Afghanistan** | *agriculture:* 60% |
+| | *industry:* 20% |
+| | *services:* 20% (1990 est.) |
+| **Albania** | *agriculture:* 49% |
+| | *industry:* 27% |
+| | *services:* 24% (2002 est.) |
+| **Algeria** | *agriculture:* 17% |
+| | *industry:* 33% |
+| | *services:* 50% (2000 est.) |
+| **American Samoa** | *agriculture:* NA% |
+| | *industry:* NA% |
+| | *services:* NA% |
+| **Andorra** | *agriculture:* NA% |
+| | *industry:* NA% |
+| | *services:* NA% |
+| **Angola** | *agriculture:* 6% |
+| | *industry:* 70% |
+| | *services:* 24% (2000 est.) |
+| **Anguilla** | *agriculture:* 4% |
+| | *industry:* 18% |
+| | *services:* 78% (1997 est.) |
+| **Antigua and Barbuda** | *agriculture:* 4% |
+| | *industry:* 19% |
+| | *services:* 77% (2001 est.) |
+| **Argentina** | *agriculture:* 5% |
+| | *industry:* 28% |
+| | *services:* 66% (2000 est.) |
+| **Armenia** | *agriculture:* 29% |
+| | *industry:* 32% |
+| | *services:* 39% (2000 est.) |
+| **Aruba** | *agriculture:* NA% |
+| | *industry:* NA% |
+| | *services:* NA% |
+| **Australia** | *agriculture:* 3% |
+| | *industry:* 26% |
+| | *services:* 71% (2001 est.) |
+| **Austria** | *agriculture:* 2% |
+| | *industry:* 33% |
+| | *services:* 65% (2002 est.) |
+| **Azerbaijan** | *agriculture:* 20% |
+| | *industry:* 33% |
+| | *services:* 47% (2001 est.) |
+| **Bahamas, The** | *agriculture:* 3% |
+| | *industry:* 7% |
+| | *services:* 90% (1999 est.) |
+| **Bahrain** | *agriculture:* 1% |
+| | *industry:* 35% |
+| | *services:* 64% (2001 est.) |
+| **Bangladesh** | *agriculture:* 30% |
+| | *industry:* 18% |
+| | *services:* 52% (2000 est.) |
+| **Barbados** | *agriculture:* 6% |
+| | *industry:* 16% |
+| | *services:* 78% (2000 est.) |
+| **Belarus** | *agriculture:* 13% |
+| | *industry:* 42% |
+| | *services:* 45% (2000) |
+| **Belgium** | *agriculture:* 1% |
+| | *industry:* 24% |
+| | *services:* 74% (2001) |
+| **Belize** | *agriculture:* 18% |
+| | *industry:* 24% |
+| | *services:* 58% (2001 est.) |
+| **Benin** | *agriculture:* 36% |
+| | *industry:* 14% |
+| | *services:* 50% (2001 est.) |
+| **Bermuda** | *agriculture:* 1% |
+| | *industry:* 10% |
+| | *services:* 89% (1995 est.) |
+| **Bhutan** | *agriculture:* 45% |
+| | *industry:* 20% |
+| | *services:* 35% (2001 est.) |
+| **Bolivia** | *agriculture:* 14% |
+| | *industry:* 31% |
+| | *services:* 55% (2000 est.) |
+| **Bosnia and Herzegovina** | *agriculture:* 16% |
+| | *industry:* 28% |
+| | *services:* 56% (1998 est.) |
+| **Botswana** | *agriculture:* 4% |
+| | *industry:* 44% (including 36% mining) |
+| | *services:* 52% (2000 est.) |
+| **Brazil** | *agriculture:* 9% |
+| | *industry:* 32% |
+| | *services:* 59% (2000 est.) |
+| **British Virgin Islands** | *agriculture:* 2% |
+| | *industry:* 6% |
+| | *services:* 92% (1996 est.) |
+| **Brunei** | *agriculture:* 5% |
+| | *industry:* 45% |
+| | *services:* 50% (2001 est.) |
+| **Bulgaria** | *agriculture:* 14% |
+| | *industry:* 29% |
+| | *services:* 58% (2001) |
+| **Burkina Faso** | *agriculture:* 31% |
+| | *industry:* 28% |
+| | *services:* 41% (2000) |
+| **Burma** | *agriculture:* 42% |
+| | *industry:* 17% |
+| | *services:* 41% (2000 est.) |
+| **Burundi** | *agriculture:* 50% |
+| | *industry:* 18% |
+| | *services:* 32% (2001 est.) |
+| **Cambodia** | *agriculture:* 50% |
+| | *industry:* 15% |
+| | *services:* 35% (2000 est.) |
+| **Cameroon** | *agriculture:* 44% |
+| | *industry:* 20% |
+| | *services:* 36% (2000 est.) |
+| **Canada** | *agriculture:* 2% |
+| | *industry:* 27% |
+| | *services:* 71% (2001 est.) |
+| **Cape Verde** | *agriculture:* 11% |
+| | *industry:* 17% |
+| | *services:* 72% (2001) |
+| **Cayman Islands** | *agriculture:* 1% |
+| | *industry:* 3% |
+| | *services:* 95% (1994 est.) |
+| **Central African Republic** | *agriculture:* 55% |
+| | *industry:* 20% |
+| | *services:* 25% (2001 est.) |
+| **Chad** | *agriculture:* 38% |
+| | *industry:* 13% |
+| | *services:* 49% (2001 est.) |
+| **Chile** | *agriculture:* 8% |
+| | *industry:* 38% |
+| | *services:* 54% (2000) (2000) |
+| **China** | *agriculture:* 18% |
+| | *industry:* 49% |
+| | *services:* 33% (2001 est.) |
+| **Christmas Island** | *agriculture:* NA% |
+| | *industry:* NA% |
+| | *services:* NA% |
+| **Cocos (Keeling) Islands** | *agriculture:* NA% |
+| | *industry:* NA% |
+| | *services:* NA% |
+| **Colombia** | *agriculture:* 19% |
+| | *industry:* 26% |
+| | *services:* 55% (2001 est.) |
+| **Comoros** | *agriculture:* 40% |
+| | *industry:* 4% |
+| | *services:* 56% (2001 est.) |
+| **Congo, Democratic Republic of the** | *agriculture:* 54% |
+| | *industry:* 9% |
+| | *services:* 37% (1999 est.) |
+| **Congo, Republic of the** | *agriculture:* 10% |
+| | *industry:* 48% |
+| | *services:* 42% (2001 est.) |
+| **Cook Islands** | *agriculture:* 17% |
+| | *industry:* 8% |
+| | *services:* 75% (2000 est.) |
+| **Costa Rica** | *agriculture:* 11% |
+| | *industry:* 37% |
+| | *services:* 52% (2000) (2000) |
+| **Cote d'Ivoire** | *agriculture:* 28% |
+| | *industry:* 29% |
+| | *services:* 43% (2000 est.) |
+| **Croatia** | *agriculture:* 9% |
+| | *industry:* 33% |
+| | *services:* 58% (2002 est.) |
+| **Cuba** | *agriculture:* 8% |
+| | *industry:* 35% |
+| | *services:* 58% |
+| **Cyprus** | *Greek Cypriot area:* agriculture 4.6%; industry 19.9%; services 75.5% (2001) |
+| | *Turkish Cypriot area:* agriculture 8.3%; industry 20.7%; services 71% (2000) |
+| **Czech Republic** | *agriculture:* 4% |
+| | *industry:* 41% |
+| | *services:* 56% (2001) |
+| **Denmark** | *agriculture:* 3% |
+| | *industry:* 26% |
+| | *services:* 71% (2002 est.) |
+| **Djibouti** | *agriculture:* 3% |
+| | *industry:* 10% |
+| | *services:* 87% (2001 est.) |
+| **Dominica** | *agriculture:* 18% |
+| | *industry:* 23% |
+| | *services:* 59% (2001 est.) |
+| **Dominican Republic** | *agriculture:* 11% |
+| | *industry:* 34% |
+| | *services:* 55% (2000) (2000) |
+| **East Timor** | *agriculture:* 25% |
+| | *industry:* 17% |
+| | *services:* 57% (2001) |
+| **Ecuador** | *agriculture:* 11% |
+| | *industry:* 25% |
+| | *services:* 64% (2000 est.) |
+| **Egypt** | *agriculture:* 14% |
+| | *industry:* 30% |
+| | *services:* 56% (2001) |
+| **El Salvador** | *agriculture:* 10% |
+| | *industry:* 30% |
+| | *services:* 60% (2000) (2000) |
+| **Equatorial Guinea** | *agriculture:* 20% |
+| | *industry:* 60% |
+| | *services:* 20% (1999 est.) |
+| **Eritrea** | *agriculture:* 17% |
+| | *industry:* 29% |
+| | *services:* 54% (2001 est.) |
+| **Estonia** | *agriculture:* 6% |
+| | *industry:* 29% |
+| | *services:* 66% (2001) |
+| **Ethiopia** | *agriculture:* 52% |
+| | *industry:* 11% |
+| | *services:* 37% (2000 est.) |
+| **Falkland Islands (Islas Malvinas)** | *agriculture:* NA% |
+| | *industry:* NA% |
+| | *services:* NA% |
+| **Faroe Islands** | *agriculture:* 27% |
+| | *industry:* 11% |
+| | *services:* 62% (1999) |
+| **Fiji** | *agriculture:* 17% |
+| | *industry:* 25% |
+| | *services:* 58% (2000 est.) |
+| **Finland** | *agriculture:* 4% |
+| | *industry:* 34% |
+| | *services:* 62% (2002 est.) |
+| **France** | *agriculture:* 3% |
+| | *industry:* 26% |
+| | *services:* 71% (2002 est.) |
+| **French Guiana** | *agriculture:* NA% |
+| | *industry:* NA% |
+| | *services:* NA% |
+| **French Polynesia** | *agriculture:* 6% |
+| | *industry:* 18% |
+| | *services:* 76% (1997) |
+| **Gabon** | *agriculture:* 10% |
+| | *industry:* 60% |
+| | *services:* 30% (1999 est.) |
+| **Gambia, The** | *agriculture:* 21% |
+| | *industry:* 12% |
+| | *services:* 67% (1998 est.) |
+| **Gaza Strip** | *agriculture:* 9% |
+| | *industry:* 28% |
+| | *services:* 63% (includes West Bank) (1999 est.) |
+| **Georgia** | *agriculture:* 20% |
+| | *industry:* 25% |
+| | *services:* 55% (2002 est.) |
+| **Germany** | *agriculture:* 1% |
+| | *industry:* 31% |
+| | *services:* 68% (2002 est.) |
+| **Ghana** | *agriculture:* 36% |
+| | *industry:* 25% |
+| | *services:* 39% (2000 est.) |
+| **Gibraltar** | *agriculture:* NA% |
+| | *industry:* NA% |
+| | *services:* NA% |
+| **Greece** | *agriculture:* 9% |
+| | *industry:* 22% |
+| | *services:* 70% (2000) (2000) |
+| **Greenland** | *agriculture:* NA% |
+| | *industry:* NA% |
+| | *services:* NA% |
+| **Grenada** | *agriculture:* 8% |
+| | *industry:* 24% |
+| | *services:* 68% (2000) (2000) |
+| **Guadeloupe** | *agriculture:* 15% |
+| | *industry:* 17% |
+| | *services:* 68% (1997 est.) |
+| **Guam** | *agriculture:* NA% |
+| | *industry:* 15% (1993) |
+| | *services:* NA% (1993) |
+| **Guatemala** | *agriculture:* 23% |
+| | *industry:* 20% |
+| | *services:* 57% (2000 est.) |
+| **Guernsey** | *agriculture:* 3% |
+| | *industry:* 10% |
+| | *services:* 87% (2000) |
+| **Guinea** | *agriculture:* 24% |
+| | *industry:* 38% |
+| | *services:* 38% (2000 est.) |
+| **Guinea-Bissau** | *agriculture:* 54% |
+| | *industry:* 15% |
+| | *services:* 31% (1997 est.) |
+| **Guyana** | *agriculture:* 36% |
+| | *industry:* 32% |
+| | *services:* 32% (2000) (2000) |
+| **Haiti** | *agriculture:* 30% |
+| | *industry:* 20% |
+| | *services:* 50% (2001 est.) |
+| **Honduras** | *agriculture:* 18% |
+| | *industry:* 32% |
+| | *services:* 50% (2000 est.) |
+| **Hong Kong** | *agriculture:* 0% |
+| | *industry:* 14% |
+| | *services:* 86% (1999 est.) |
+| **Hungary** | *agriculture:* 4% |
+| | *industry:* 34% |
+| | *services:* 62% (2000 est.) |
+| **Iceland** | *agriculture:* 14% (includes fishing 12%) |
+| | *industry:* 21% |
+| | *services:* 65% (2001 est.) |
+| **India** | *agriculture:* 25% |
+| | *industry:* 25% |
+| | *services:* 50% (2002 est.) |
+| **Indonesia** | *agriculture:* 17% |
+| | *industry:* 41% |
+| | *services:* 42% (2001 est.) |
+| **Iran** | *agriculture:* 19% |
+| | *industry:* 26% |
+| | *services:* 55% (2002 est.) |
+| **Iraq** | *agriculture:* 6% |
+| | *industry:* 13% |
+| | *services:* 81% (1993 est.) |
+| **Ireland** | *agriculture:* 4% |
+| | *industry:* 36% |
+| | *services:* 60% (2001) |
+| **Israel** | *agriculture:* 3% |
+| | *industry:* 30% |
+| | *services:* 67% (2001 est.) |
+| **Italy** | *agriculture:* 2% |
+| | *industry:* 30% |
+| | *services:* 68% (2001 est.) |
+| **Jamaica** | *agriculture:* 7% |
+| | *industry:* 28% |
+| | *services:* 65% (2000 est.) |
+| **Japan** | *agriculture:* 1% |
+| | *industry:* 31% |
+| | *services:* 68% (2001 est.) |
+| **Jersey** | *agriculture:* 5% |
+| | *industry:* 2% |
+| | *services:* 93% (1996) |
+| **Jordan** | *agriculture:* 4% |
+| | *industry:* 26% |
+| | *services:* 70% (2001 est.) |
+| **Kazakhstan** | *agriculture:* 10% |
+| | *industry:* 30% |
+| | *services:* 60% (2000 est.) |
+| **Kenya** | *agriculture:* 24% |
+| | *industry:* 13% |
+| | *services:* 63% (2000 est.) |
+| **Kiribati** | *agriculture:* 30% |
+| | *industry:* 7% |
+| | *services:* 63% (1998 est.) |
+| **Korea, North** | *agriculture:* 30% |
+| | *industry:* 32% |
+| | *services:* 37% (2000 est.) |
+| **Korea, South** | *agriculture:* 4% |
+| | *industry:* 42% |
+| | *services:* 54% (2002 est.) |
+| **Kuwait** | *industry:* 60% |
+| | *services:* 40% |
+| | *agriculture:* 0% (2000) |
+| **Kyrgyzstan** | *agriculture:* 38% |
+| | *industry:* 27% |
+| | *services:* 35% (2000 est.) |
+| **Laos** | *agriculture:* 53% |
+| | *industry:* 22% |
+| | *services:* 25% (2000 est.) |
+| **Latvia** | *agriculture:* 5% |
+| | *industry:* 26% |
+| | *services:* 70% (2001) |
+| **Lebanon** | *agriculture:* 12% |
+| | *industry:* 21% |
+| | *services:* 67% (2000) |
+| **Lesotho** | *agriculture:* 18% |
+| | *industry:* 38% |
+| | *services:* 44% (2001) |
+| **Liberia** | *agriculture:* 60% |
+| | *industry:* 10% |
+| | *services:* 30% (2001 est.) |
+| **Libya** | *agriculture:* 7% |
+| | *industry:* 47% |
+| | *services:* 46% (1997 est.) |
+| **Liechtenstein** | *agriculture:* NA% |
+| | *industry:* NA% 40% |
+| | *services:* NA% (1999) |
+| **Lithuania** | *agriculture:* 8% |
+| | *industry:* 31% |
+| | *services:* 61% (2001 est.) |
+| **Luxembourg** | *agriculture:* 1% |
+| | *industry:* 30% |
+| | *services:* 69% (2000 est.) |
+| **Macau** | *agriculture:* 1% |
+| | *industry:* 25% |
+| | *services:* 74% (2000 est.) |
+| **Macedonia, The Former Yugoslav Republic of** | *agriculture:* 11% |
+| | *industry:* 31% |
+| | *services:* 58% (2001 est.) |
+| **Madagascar** | *agriculture:* 34% |
+| | *industry:* 11% |
+| | *services:* 55% (1999 est.) |
+| **Malawi** | *agriculture:* 40% |
+| | *industry:* 19% |
+| | *services:* 41% (2000 est.) |
+| **Malaysia** | *agriculture:* 12% |
+| | *industry:* 40% |
+| | *services:* 48% (2001) |
+| **Maldives** | *agriculture:* 20% |
+| | *industry:* 18% |
+| | *services:* 62% (2000 est.) |
+| **Mali** | *agriculture:* 45% |
+| | *industry:* 17% |
+| | *services:* 38% (2001 est.) |
+| **Malta** | *agriculture:* 3% |
+| | *industry:* 26% |
+| | *services:* 72% (1999) |
+| **Man, Isle of** | *agriculture:* 1% |
+| | *industry:* 13% |
+| | *services:* 86% (2000 est.) |
+| **Marshall Islands** | *agriculture:* 14% |
+| | *industry:* 16% |
+| | *services:* 70% (2000 est.) |
+| **Martinique** | *agriculture:* 6% |
+| | *industry:* 11% |
+| | *services:* 83% (1997 est.) |
+| **Mauritania** | *agriculture:* 25% |
+| | *industry:* 29% |
+| | *services:* 46% (2001 est.) |
+| **Mauritius** | *agriculture:* 6% |
+| | *industry:* 33% |
+| | *services:* 61% (1999 est.) |
+| **Mayotte** | *agriculture:* NA% |
+| | *industry:* NA% |
+| | *services:* NA% |
+| **Mexico** | *agriculture:* 5% |
+| | *industry:* 26% |
+| | *services:* 69% (2001 est.) |
+| **Micronesia, Federated States of** | *agriculture:* 50% |
+| | *industry:* 4% |
+| | *services:* 46% (2000 est.) |
+| **Moldova** | *agriculture:* 28% |
+| | *industry:* 23% |
+| | *services:* 49% (2000) |
+| **Monaco** | *agriculture:* NA% |
+| | *industry:* NA% |
+| | *services:* NA% |
+| **Mongolia** | *agriculture:* 32% |
+| | *industry:* 30% |
+| | *services:* 38% (2000 est.) |
+| **Montserrat** | *agriculture:* 5% |
+| | *industry:* 14% |
+| | *services:* 81% (1996 est.) |
+| **Morocco** | *agriculture:* 15% |
+| | *industry:* 33% |
+| | *services:* 52% (2000 est.) |
+| **Mozambique** | *agriculture:* 33% |
+| | *industry:* 25% |
+| | *services:* 42% (2000 est.) |
+| **Namibia** | *agriculture:* 11% |
+| | *industry:* 28% |
+| | *services:* 61% (2000 est.) |
+| **Nauru** | *agriculture:* NA% |
+| | *industry:* NA% |
+| | *services:* NA% |
+| **Nepal** | *agriculture:* 41% |
+| | *industry:* 22% |
+| | *services:* 37% (2000 est.) |
+| **Netherlands** | *agriculture:* 3% |
+| | *industry:* 26% |
+| | *services:* 71% (2001 est.) |
+| **Netherlands Antilles** | *agriculture:* 1% |
+| | *industry:* 15% |
+| | *services:* 84% (1996 est.) |
+| **New Caledonia** | *agriculture:* 5% |
+| | *industry:* 30% |
+| | *services:* 65% (1997 est.) |
+| **New Zealand** | *agriculture:* 8% |
+| | *industry:* 23% |
+| | *services:* 69% (1999) |
+| **Nicaragua** | *agriculture:* 33% |
+| | *industry:* 23% |
+| | *services:* 44% (2000) (2000) |
+| **Niger** | *agriculture:* 41% |
+| | *industry:* 17% |
+| | *services:* 42% (2000) |
+| **Nigeria** | *agriculture:* 39% |
+| | *industry:* 33% |
+| | *services:* 28% (2000 est.) |
+| **Niue** | *agriculture:* NA% |
+| | *industry:* NA% |
+| | *services:* 55% |
+| **Norfolk Island** | *agriculture:* NA% |
+| | *industry:* NA% |
+| | *services:* NA% |
+| **Northern Mariana Islands** | *agriculture:* NA% |
+| | *industry:* NA% |
+| | *services:* NA% |
+| **Norway** | *agriculture:* 2% |
+| | *industry:* 31% |
+| | *services:* 67% (2000) |
+| **Oman** | *agriculture:* 3% |
+| | *industry:* 40% |
+| | *services:* 57% (1999 est.) |
+| **Pakistan** | *agriculture:* 26% |
+| | *industry:* 24% |
+| | *services:* 50% (2001 est.) |
+| **Palau** | *agriculture:* NA% |
+| | *industry:* NA% |
+| | *services:* NA% |
+| **Panama** | *agriculture:* 7% |
+| | *industry:* 17% |
+| | *services:* 76% (2000 est.) |
+| **Papua New Guinea** | *agriculture:* 30% |
+| | *industry:* 37% |
+| | *services:* 33% (2000 est.) |
+| **Paraguay** | *agriculture:* 29% |
+| | *industry:* 26% |
+| | *services:* 45% (2000 est.) |
+| **Peru** | *agriculture:* 10% |
+| | *industry:* 35% |
+| | *services:* 55% (2001 est.) |
+| **Philippines** | *agriculture:* 17% |
+| | *industry:* 30% |
+| | *services:* 53% (2000 est.) |
+| **Pitcairn Islands** | *agriculture:* NA% |
+| | *industry:* NA% |
+| | *services:* NA% |
+| **Poland** | *agriculture:* 4% |
+| | *industry:* 35% |
+| | *services:* 61% (2000 est.) |
+| **Portugal** | *agriculture:* 4% |
+| | *industry:* 29% |
+| | *services:* 68% (2001) |
+| **Puerto Rico** | *agriculture:* 1% |
+| | *industry:* 45% |
+| | *services:* 54% (1999 est.) |
+| **Qatar** | *agriculture:* 1% |
+| | *industry:* 49% |
+| | *services:* 50% (1996 est.) |
+| **Reunion** | *agriculture:* NA% |
+| | *industry:* NA% |
+| | *services:* NA% |
+| **Romania** | *agriculture:* 15% |
+| | *industry:* 30% |
+| | *services:* 55% (2000) |
+| **Russia** | *agriculture:* 7% |
+| | *industry:* 39% |
+| | *services:* 53% (2001 est.) |
+| **Rwanda** | *agriculture:* 46% |
+| | *industry:* 20% |
+| | *services:* 34% (2000 est.) |
+| **Saint Helena** | *agriculture:* NA% |
+| | *industry:* NA% |
+| | *services:* NA% |
+| **Saint Kitts and Nevis** | *agriculture:* 4% |
+| | *industry:* 26% |
+| | *services:* 71% (2001) (2001) |
+| **Saint Lucia** | *agriculture:* 8% |
+| | *industry:* 20% |
+| | *services:* 73% (2000 est.) |
+| **Saint Pierre and Miquelon** | *agriculture:* NA% |
+| | *industry:* NA% |
+| | *services:* NA% |
+| **Saint Vincent and the Grenadines** | *agriculture:* 10% |
+| | *industry:* 26% |
+| | *services:* 64% (2001 est.) |
+| **Samoa** | *agriculture:* 16% |
+| | *industry:* 18% |
+| | *services:* 66% (2000 est.) |
+| **San Marino** | *agriculture:* NA% |
+| | *industry:* NA% |
+| | *services:* NA% |
+| **Sao Tome and Principe** | *agriculture:* 25% |
+| | *industry:* 10% |
+| | *services:* 65% (1999 est.) |
+| **Saudi Arabia** | *agriculture:* 7% |
+| | *industry:* 48% |
+| | *services:* 45% (2000 est.) |
+| **Senegal** | *agriculture:* 19% |
+| | *industry:* 21% |
+| | *services:* 61% (2000 est.) |
+| **Serbia and Montenegro** | *agriculture:* 26% |
+| | *industry:* 36% |
+| | *services:* 38% (2001 est.) |
+| **Seychelles** | *agriculture:* 3% |
+| | *industry:* 26% |
+| | *services:* 71% (1999) (1999) |
+| **Sierra Leone** | *agriculture:* 43% |
+| | *industry:* 27% |
+| | *services:* 30% (2000) |
+| **Singapore** | *agriculture:* NEGL% |
+| | *industry:* 33% |
+| | *services:* 67% (2001 est.) |
+| **Slovakia** | *agriculture:* 5% |
+| | *industry:* 34% |
+| | *services:* 61% (2000) |
+| **Slovenia** | *agriculture:* 3% |
+| | *industry:* 36% |
+| | *services:* 61% (2001 est.) |
+| **Solomon Islands** | *agriculture:* 42% |
+| | *industry:* 11% |
+| | *services:* 47% (2000 est.) |
+| **Somalia** | *agriculture:* 65% |
+| | *industry:* 10% |
+| | *services:* 25% (2000 est.) |
+| **South Africa** | *agriculture:* 3% |
+| | *industry:* 31% |
+| | *services:* 66% (2000 est.) |
+| **Spain** | *agriculture:* 4% |
+| | *industry:* 31% |
+| | *services:* 65% (2000 est.) |
+| **Sri Lanka** | *agriculture:* 21% |
+| | *industry:* 27% |
+| | *services:* 52% (2000) |
+| **Sudan** | *agriculture:* 43% |
+| | *industry:* 17% |
+| | *services:* 40% (1999 est.) |
+| **Suriname** | *agriculture:* 13% |
+| | *industry:* 22% |
+| | *services:* 65% (1998 est.) |
+| **Swaziland** | *agriculture:* 10% |
+| | *industry:* 43% |
+| | *services:* 47% (1999 est.) |
+| **Sweden** | *agriculture:* 2% |
+| | *industry:* 29% |
+| | *services:* 69% (2001) |
+| **Switzerland** | *agriculture:* 2% |
+| | *industry:* 34% |
+| | *services:* 64% (2002 est.) |
+| **Syria** | *agriculture:* 27% |
+| | *industry:* 23% |
+| | *services:* 50% (2000 est.) |
+| **Taiwan** | *agriculture:* 2% |
+| | *industry:* 32% |
+| | *services:* 66% (2000 est.) |
+| **Tajikistan** | *agriculture:* 19% |
+| | *industry:* 25% |
+| | *services:* 56% (2000) |
+| **Tanzania** | *agriculture:* 48% |
+| | *industry:* 17% |
+| | *services:* 35% (2000 est.) |
+| **Thailand** | *agriculture:* 11% |
+| | *industry:* 40% |
+| | *services:* 49% (2001) |
+| **Togo** | *agriculture:* 42% |
+| | *industry:* 21% |
+| | *services:* 37% (2001 est.) |
+| **Tokelau** | *agriculture:* NA% |
+| | *industry:* NA% |
+| | *services:* NA% |
+| **Tonga** | *agriculture:* 30% |
+| | *industry:* 10% |
+| | *services:* 60% (2001 est.) |
+| **Trinidad and Tobago** | *agriculture:* 2% |
+| | *industry:* 43% |
+| | *services:* 55% (2000 est.) |
+| **Tunisia** | *agriculture:* 13% |
+| | *industry:* 33% |
+| | *services:* 54% (2000 est.) |
+| **Turkey** | *agriculture:* 13% |
+| | *industry:* 30% |
+| | *services:* 57% (2001) |
+| **Turkmenistan** | *agriculture:* 27% |
+| | *industry:* 45% |
+| | *services:* 28% (2000 est.) |
+| **Turks and Caicos Islands** | *agriculture:* NA% |
+| | *industry:* NA% |
+| | *services:* NA% |
+| **Tuvalu** | *agriculture:* NA% |
+| | *industry:* NA% |
+| | *services:* NA% |
+| **Uganda** | *agriculture:* 44% |
+| | *industry:* 18% |
+| | *services:* 38% (2000 est.) |
+| **Ukraine** | *agriculture:* 13% |
+| | *industry:* 40% |
+| | *services:* 47% (2000 est.) |
+| **United Arab Emirates** | *agriculture:* 3% |
+| | *industry:* 46% |
+| | *services:* 51% (2000 est.) |
+| **United Kingdom** | *agriculture:* 1% |
+| | *industry:* 25% |
+| | *services:* 74% (2000) |
+| **United States** | *agriculture:* 2% |
+| | *industry:* 18% |
+| | *services:* 80% (2001 est.) |
+| **Uruguay** | *agriculture:* 6% |
+| | *industry:* 29% |
+| | *services:* 65% (2001) (2001) |
+| **Uzbekistan** | *agriculture:* 33% |
+| | *industry:* 24% |
+| | *services:* 43% (2000 est.) |
+| **Vanuatu** | *agriculture:* 26% |
+| | *industry:* 12% |
+| | *services:* 62% (2000 est.) |
+| **Venezuela** | *agriculture:* 5% |
+| | *industry:* 40% |
+| | *services:* 55% (2001 est.) |
+| **Vietnam** | *agriculture:* 25% |
+| | *industry:* 35% |
+| | *services:* 40% (2000 est.) |
+| **Virgin Islands** | *agriculture:* NA% |
+| | *industry:* NA% |
+| | *services:* NA% |
+| **Wallis and Futuna** | *agriculture:* NA% |
+| | *industry:* NA% |
+| | *services:* NA% |
+| **West Bank** | *agriculture:* 9% |
+| | *industry:* 28% |
+| | *services:* 63% |
+| | *note:* includes Gaza Strip (1999 est.) |
+| **Western Sahara** | *agriculture:* NA% |
+| | *industry:* NA% |
+| | *services:* 40%-45% (1996 est.) (1996 est.) |
+| **World** | *agriculture:* 4% |
+| | *industry:* 32% |
+| | *services:* 64% (2001 est.) |
+| **Yemen** | *agriculture:* 17% |
+| | *industry:* 40% |
+| | *services:* 43% (1998) |
+| **Zambia** | *agriculture:* 24% |
+| | *industry:* 25% |
+| | *services:* 51% (2000) |
+| **Zimbabwe** | *agriculture:* 11% |
+| | *industry:* 14% |
+| | *services:* 75% (2000 est.) |
+
+This page was last updated on 19 March 2003
+ 

@@ -1,0 +1,718 @@
+Field Listing :: Life expectancy at birth :: The World Factbook
+
+This entry contains the average number of years to be lived by a group of people born in the same year, if mortality at each age remains constant in the future. Life expectancy at birth is also a measure of overall quality of life in a country and summarizes the mortality at all ages. It can also be thought of as indicating the potential return on investment in human capital and is necessary for the calculation of various actuarial measures.
+
+| Country | Life expectancy at birth |
+| --- | --- |
+| **Afghanistan** | *total population:* 52.8 years |
+| | *male:* 51.4 years |
+| | *female:* 54.4 years (2020 est.) |
+| **Albania** | *total population:* 79 years |
+| | *male:* 76.3 years |
+| | *female:* 81.9 years (2020 est.) |
+| **Algeria** | *total population:* 77.5 years |
+| | *male:* 76.1 years |
+| | *female:* 79.1 years (2020 est.) |
+| **American Samoa** | *total population:* 74.8 years |
+| | *male:* 72.3 years |
+| | *female:* 77.5 years (2020 est.) |
+| **Andorra** | *total population:* 83 years |
+| | *male:* 80.8 years |
+| | *female:* 85.4 years (2020 est.) |
+| **Angola** | *total population:* 61.3 years |
+| | *male:* 59.3 years |
+| | *female:* 63.4 years (2020 est.) |
+| **Anguilla** | *total population:* 81.8 years |
+| | *male:* 79.2 years |
+| | *female:* 84.5 years (2020 est.) |
+| **Antigua and Barbuda** | *total population:* 77.3 years |
+| | *male:* 75.1 years |
+| | *female:* 79.6 years (2020 est.) |
+| **Argentina** | *total population:* 77.8 years |
+| | *male:* 74.7 years |
+| | *female:* 81.1 years (2020 est.) |
+| **Armenia** | *total population:* 75.6 years |
+| | *male:* 72.3 years |
+| | *female:* 79.2 years (2020 est.) |
+| **Aruba** | *total population:* 77.5 years |
+| | *male:* 74.4 years |
+| | *female:* 80.7 years (2020 est.) |
+| **Australia** | *total population:* 82.7 years |
+| | *male:* 80.5 years |
+| | *female:* 85 years (2020 est.) |
+| **Austria** | *total population:* 81.9 years |
+| | *male:* 79.2 years |
+| | *female:* 84.7 years (2020 est.) |
+| **Azerbaijan** | *total population:* 73.6 years |
+| | *male:* 70.5 years |
+| | *female:* 76.9 years (2020 est.) |
+| **Bahamas, The** | *total population:* 73.3 years |
+| | *male:* 70.8 years |
+| | *female:* 75.8 years (2020 est.) |
+| **Bahrain** | *total population:* 79.4 years |
+| | *male:* 77.1 years |
+| | *female:* 81.8 years (2020 est.) |
+| **Bangladesh** | *total population:* 74.2 years |
+| | *male:* 72 years |
+| | *female:* 76.5 years (2020 est.) |
+| **Barbados** | *total population:* 76 years |
+| | *male:* 73.6 years |
+| | *female:* 78.4 years (2020 est.) |
+| **Belarus** | *total population:* 73.8 years |
+| | *male:* 68.3 years |
+| | *female:* 79.5 years (2020 est.) |
+| **Belgium** | *total population:* 81.4 years |
+| | *male:* 78.8 years |
+| | *female:* 84.2 years (2020 est.) |
+| **Belize** | *total population:* 75.3 years |
+| | *male:* 73.7 years |
+| | *female:* 77 years (2020 est.) |
+| **Benin** | *total population:* 61.4 years |
+| | *male:* 59.6 years |
+| | *female:* 63.3 years (2020 est.) |
+| **Bermuda** | *total population:* 81.7 years |
+| | *male:* 78.5 years |
+| | *female:* 84.9 years (2020 est.) |
+| **Bhutan** | *total population:* 72.1 years |
+| | *male:* 71 years |
+| | *female:* 73.2 years (2020 est.) |
+| **Bolivia** | *total population:* 70.4 years |
+| | *male:* 67.6 years |
+| | *female:* 73.4 years (2020 est.) |
+| **Bosnia and Herzegovina** | *total population:* 77.5 years |
+| | *male:* 74.5 years |
+| | *female:* 80.7 years (2020 est.) |
+| **Botswana** | *total population:* 64.8 years |
+| | *male:* 62.8 years |
+| | *female:* 66.9 years (2020 est.) |
+| **Brazil** | *total population:* 74.7 years |
+| | *male:* 71.2 years |
+| | *female:* 78.4 years (2020 est.) |
+| **British Virgin Islands** | *total population:* 79.2 years |
+| | *male:* 77.7 years |
+| | *female:* 80.8 years (2020 est.) |
+| **Brunei** | *total population:* 77.9 years |
+| | *male:* 75.5 years |
+| | *female:* 80.4 years (2020 est.) |
+| **Bulgaria** | *total population:* 75 years |
+| | *male:* 71.8 years |
+| | *female:* 78.5 years (2020 est.) |
+| **Burkina Faso** | *total population:* 62.7 years |
+| | *male:* 60.9 years |
+| | *female:* 64.5 years (2020 est.) |
+| **Burma** | *total population:* 69.3 years |
+| | *male:* 67.7 years |
+| | *female:* 71.1 years (2020 est.) |
+| **Burundi** | *total population:* 66.7 years |
+| | *male:* 64.6 years |
+| | *female:* 68.8 years (2020 est.) |
+| **Cabo Verde** | *total population:* 73.2 years |
+| | *male:* 70.8 years |
+| | *female:* 75.6 years (2020 est.) |
+| **Cambodia** | *total population:* 65.9 years |
+| | *male:* 63.4 years |
+| | *female:* 68.6 years (2020 est.) |
+| **Cameroon** | *total population:* 62.3 years |
+| | *male:* 60.6 years |
+| | *female:* 64 years (2020 est.) |
+| **Canada** | *total population:* 83.4 years |
+| | *male:* 81.1 years |
+| | *female:* 85.9 years (2020 est.) |
+| **Cayman Islands** | *total population:* 81.6 years |
+| | *male:* 78.9 years |
+| | *female:* 84.4 years (2020 est.) |
+| **Central African Republic** | *total population:* 54.2 years |
+| | *male:* 52.7 years |
+| | *female:* 55.7 years (2020 est.) |
+| **Chad** | *total population:* 58.3 years |
+| | *male:* 56.5 years |
+| | *female:* 60.1 years (2020 est.) |
+| **Chile** | *total population:* 79.4 years |
+| | *male:* 76.3 years |
+| | *female:* 82.5 years (2020 est.) |
+| **China** | *total population:* 76.1 years |
+| | *male:* 74 years |
+| | *female:* 78.4 years (2020 est.) |
+| **Christmas Island** | *total population:* NA (2017 est.) |
+| | *male:* NA |
+| | *female:* NA |
+| **Cocos (Keeling) Islands** | *total population:* NA (2017 est.) |
+| | *male:* NA |
+| | *female:* NA |
+| **Colombia** | *total population:* 76.6 years |
+| | *male:* 73.5 years |
+| | *female:* 80 years (2020 est.) |
+| **Comoros** | *total population:* 65.7 years |
+| | *male:* 63.3 years |
+| | *female:* 68.1 years (2020 est.) |
+| **Congo, Democratic Republic of the** | *total population:* 61 years |
+| | *male:* 59.3 years |
+| | *female:* 62.8 years (2020 est.) |
+| **Congo, Republic of the** | *total population:* 61.3 years |
+| | *male:* 59.9 years |
+| | *female:* 62.7 years (2020 est.) |
+| **Cook Islands** | *total population:* 76.6 years |
+| | *male:* 73.8 years |
+| | *female:* 79.6 years (2020 est.) |
+| **Costa Rica** | *total population:* 79.2 years |
+| | *male:* 76.5 years |
+| | *female:* 82 years (2020 est.) |
+| **Cote d'Ivoire** | *total population:* 61.3 years |
+| | *male:* 59.2 years |
+| | *female:* 63.6 years (2020 est.) |
+| **Croatia** | *total population:* 76.7 years |
+| | *male:* 73.6 years |
+| | *female:* 80.1 years (2020 est.) |
+| **Cuba** | *total population:* 79.2 years |
+| | *male:* 76.8 years |
+| | *female:* 81.7 years (2020 est.) |
+| **Curacao** | *total population:* 79 years |
+| | *male:* 76.6 years |
+| | *female:* 81.4 years (2020 est.) |
+| **Cyprus** | *total population:* 79.3 years |
+| | *male:* 76.4 years |
+| | *female:* 82.2 years (2020 est.) |
+| **Czechia** | *total population:* 79.3 years |
+| | *male:* 76.3 years |
+| | *female:* 82.4 years (2020 est.) |
+| **Denmark** | *total population:* 81.2 years |
+| | *male:* 79.3 years |
+| | *female:* 83.3 years (2020 est.) |
+| **Djibouti** | *total population:* 64.7 years |
+| | *male:* 62.1 years |
+| | *female:* 67.4 years (2020 est.) |
+| **Dominica** | *total population:* 77.7 years |
+| | *male:* 74.7 years |
+| | *female:* 80.9 years (2020 est.) |
+| **Dominican Republic** | *total population:* 72 years |
+| | *male:* 70.3 years |
+| | *female:* 73.8 years (2020 est.) |
+| **Ecuador** | *total population:* 77.5 years |
+| | *male:* 74.5 years |
+| | *female:* 80.6 years (2020 est.) |
+| **Egypt** | *total population:* 73.7 years |
+| | *male:* 72.3 years |
+| | *female:* 75.3 years (2020 est.) |
+| **El Salvador** | *total population:* 74.8 years |
+| | *male:* 71.3 years |
+| | *female:* 78.6 years (2020 est.) |
+| **Equatorial Guinea** | *total population:* 65.7 years |
+| | *male:* 64.4 years |
+| | *female:* 66.9 years (2020 est.) |
+| **Eritrea** | *total population:* 66.2 years |
+| | *male:* 63.6 years |
+| | *female:* 68.8 years (2020 est.) |
+| **Estonia** | *total population:* 77.4 years |
+| | *male:* 72.7 years |
+| | *female:* 82.3 years (2020 est.) |
+| **Eswatini** | *total population:* 58.6 years |
+| | *male:* 56.5 years |
+| | *female:* 60.7 years (2020 est.) |
+| **Ethiopia** | *total population:* 67.5 years |
+| | *male:* 65.5 years |
+| | *female:* 69.7 years (2020 est.) |
+| **European Union** | *total population:* 80.9 years |
+| | *male:* 78 years |
+| | *female:* 83.9 years (2020 est.) |
+| **Falkland Islands (Islas Malvinas)** | *total population:* 77.9 (2017 est.) |
+| | *male:* 75.6 |
+| | *female:* 79.6 |
+| **Faroe Islands** | *total population:* 80.8 years |
+| | *male:* 78.3 years |
+| | *female:* 83.6 years (2020 est.) |
+| **Fiji** | *total population:* 73.7 years |
+| | *male:* 71 years |
+| | *female:* 76.6 years (2020 est.) |
+| **Finland** | *total population:* 81.3 years |
+| | *male:* 78.4 years |
+| | *female:* 84.4 years (2020 est.) |
+| **France** | *total population:* 82.2 years |
+| | *male:* 79.1 years |
+| | *female:* 85.4 years (2020 est.) |
+| **French Polynesia** | *total population:* 77.9 years |
+| | *male:* 75.6 years |
+| | *female:* 80.4 years (2020 est.) |
+| **Gabon** | *total population:* 69 years |
+| | *male:* 67.3 years |
+| | *female:* 70.8 years (2020 est.) |
+| **Gambia, The** | *total population:* 65.8 years |
+| | *male:* 63.5 years |
+| | *female:* 68.3 years (2020 est.) |
+| **Gaza Strip** | *total population:* 74.9 years |
+| | *male:* 73.1 years |
+| | *female:* 76.7 years (2020 est.) |
+| **Georgia** | *total population:* 77 years |
+| | *male:* 72.9 years |
+| | *female:* 81.3 years (2020 est.) |
+| **Germany** | *total population:* 81.1 years |
+| | *male:* 78.7 years |
+| | *female:* 83.6 years (2020 est.) |
+| **Ghana** | *total population:* 68.2 years |
+| | *male:* 65.6 years |
+| | *female:* 70.8 years (2020 est.) |
+| **Gibraltar** | *total population:* 80 years |
+| | *male:* 77.1 years |
+| | *female:* 83 years (2020 est.) |
+| **Greece** | *total population:* 81.1 years |
+| | *male:* 78.5 years |
+| | *female:* 83.8 years (2020 est.) |
+| **Greenland** | *total population:* 73.4 years |
+| | *male:* 70.7 years |
+| | *female:* 76.3 years (2020 est.) |
+| **Grenada** | *total population:* 75.2 years |
+| | *male:* 72.6 years |
+| | *female:* 78.1 years (2020 est.) |
+| **Guam** | *total population:* 77 years |
+| | *male:* 74.6 years |
+| | *female:* 79.6 years (2020 est.) |
+| **Guatemala** | *total population:* 72.4 years |
+| | *male:* 70.3 years |
+| | *female:* 74.5 years (2020 est.) |
+| **Guernsey** | *total population:* 82.8 years |
+| | *male:* 80.1 years |
+| | *female:* 85.7 years (2020 est.) |
+| **Guinea** | *total population:* 63.2 years |
+| | *male:* 61.3 years |
+| | *female:* 65 years (2020 est.) |
+| **Guinea-Bissau** | *total population:* 62.8 years |
+| | *male:* 60.6 years |
+| | *female:* 65.1 years (2020 est.) |
+| **Guyana** | *total population:* 69.5 years |
+| | *male:* 66.5 years |
+| | *female:* 72.6 years (2020 est.) |
+| **Haiti** | *total population:* 65.3 years |
+| | *male:* 62.6 years |
+| | *female:* 68 years (2020 est.) |
+| **Honduras** | *total population:* 74.6 years |
+| | *male:* 71.1 years |
+| | *female:* 78.3 years (2020 est.) |
+| **Hong Kong** | *total population:* 83.2 years |
+| | *male:* 80.5 years |
+| | *female:* 86.1 years (2020 est.) |
+| **Hungary** | *total population:* 76.7 years |
+| | *male:* 73 years |
+| | *female:* 80.6 years (2020 est.) |
+| **Iceland** | *total population:* 83.3 years |
+| | *male:* 81 years |
+| | *female:* 85.6 years (2020 est.) |
+| **India** | *total population:* 69.7 years |
+| | *male:* 68.4 years |
+| | *female:* 71.2 years (2020 est.) |
+| **Indonesia** | *total population:* 73.7 years |
+| | *male:* 71.1 years |
+| | *female:* 76.5 years (2020 est.) |
+| **Iran** | *total population:* 74.5 years |
+| | *male:* 73.1 years |
+| | *female:* 76 years (2020 est.) |
+| **Iraq** | *total population:* 72.6 years |
+| | *male:* 70.7 years |
+| | *female:* 74.6 years (2020 est.) |
+| **Ireland** | *total population:* 81.2 years |
+| | *male:* 78.9 years |
+| | *female:* 83.7 years (2020 est.) |
+| **Isle of Man** | *total population:* 81.6 years |
+| | *male:* 79.8 years |
+| | *female:* 83.6 years (2020 est.) |
+| **Israel** | *total population:* 83 years |
+| | *male:* 81.1 years |
+| | *female:* 85 years (2020 est.) |
+| **Italy** | *total population:* 82.5 years |
+| | *male:* 79.8 years |
+| | *female:* 85.3 years (2020 est.) |
+| **Jamaica** | *total population:* 75.2 years |
+| | *male:* 73.4 years |
+| | *female:* 77.1 years (2020 est.) |
+| **Japan** | *total population:* 86 years |
+| | *male:* 82.7 years |
+| | *female:* 89.5 years (2020 est.) |
+| **Jersey** | *total population:* 82.2 years |
+| | *male:* 79.7 years |
+| | *female:* 84.9 years (2020 est.) |
+| **Jordan** | *total population:* 75.5 years |
+| | *male:* 74 years |
+| | *female:* 77.1 years (2020 est.) |
+| **Kazakhstan** | *total population:* 72 years |
+| | *male:* 66.8 years |
+| | *female:* 76.8 years (2020 est.) |
+| **Kenya** | *total population:* 69 years |
+| | *male:* 67.3 years |
+| | *female:* 70.6 years (2020 est.) |
+| **Kiribati** | *total population:* 67.5 years |
+| | *male:* 65 years |
+| | *female:* 70.2 years (2020 est.) |
+| **Korea, North** | *total population:* 71.6 years |
+| | *male:* 67.7 years |
+| | *female:* 75.6 years (2020 est.) |
+| **Korea, South** | *total population:* 82.6 years |
+| | *male:* 79.4 years |
+| | *female:* 85.9 years (2020 est.) |
+| **Kosovo** | *total population:* 72.7 years |
+| | *male:* 70.5 years |
+| | *female:* 75.1 years (2020 est.) |
+| **Kuwait** | *total population:* 78.6 years |
+| | *male:* 77.2 years |
+| | *female:* 80.2 years (2020 est.) |
+| **Kyrgyzstan** | *total population:* 71.8 years |
+| | *male:* 67.7 years |
+| | *female:* 76.2 years (2020 est.) |
+| **Laos** | *total population:* 65.7 years |
+| | *male:* 63.6 years |
+| | *female:* 67.9 years (2020 est.) |
+| **Latvia** | *total population:* 75.4 years |
+| | *male:* 70.9 years |
+| | *female:* 80.1 years (2020 est.) |
+| **Lebanon** | *total population:* 78.3 years |
+| | *male:* 76.9 years |
+| | *female:* 79.8 years (2020 est.) |
+| **Lesotho** | *total population:* 53 years |
+| | *male:* 53.1 years |
+| | *female:* 53 years (2020 est.) |
+| **Liberia** | *total population:* 64.7 years |
+| | *male:* 62.5 years |
+| | *female:* 67 years (2020 est.) |
+| **Libya** | *total population:* 76.7 years |
+| | *male:* 74.4 years |
+| | *female:* 79.1 years (2020 est.) |
+| **Liechtenstein** | *total population:* 82.2 years |
+| | *male:* 79.9 years |
+| | *female:* 85 years (2020 est.) |
+| **Lithuania** | *total population:* 75.5 years |
+| | *male:* 70.3 years |
+| | *female:* 81.1 years (2020 est.) |
+| **Luxembourg** | *total population:* 82.6 years |
+| | *male:* 80.1 years |
+| | *female:* 85.2 years (2020 est.) |
+| **Macau** | *total population:* 84.6 years |
+| | *male:* 81.7 years |
+| | *female:* 87.7 years (2020 est.) |
+| **Madagascar** | *total population:* 67.3 years |
+| | *male:* 65.7 years |
+| | *female:* 68.9 years (2020 est.) |
+| **Malawi** | *total population:* 63.2 years |
+| | *male:* 61.2 years |
+| | *female:* 65.3 years (2020 est.) |
+| **Malaysia** | *total population:* 75.9 years |
+| | *male:* 73 years |
+| | *female:* 78.9 years (2020 est.) |
+| **Maldives** | *total population:* 76.4 years |
+| | *male:* 74 years |
+| | *female:* 78.9 years (2020 est.) |
+| **Mali** | *total population:* 61.6 years |
+| | *male:* 59.4 years |
+| | *female:* 63.9 years (2020 est.) |
+| **Malta** | *total population:* 82.8 years |
+| | *male:* 80.7 years |
+| | *female:* 85 years (2020 est.) |
+| **Marshall Islands** | *total population:* 74.1 years |
+| | *male:* 71.8 years |
+| | *female:* 76.5 years (2020 est.) |
+| **Mauritania** | *total population:* 64.5 years |
+| | *male:* 62.1 years |
+| | *female:* 67 years (2020 est.) |
+| **Mauritius** | *total population:* 76.5 years |
+| | *male:* 73 years |
+| | *female:* 80.1 years (2020 est.) |
+| **Mexico** | *total population:* 76.7 years |
+| | *male:* 73.9 years |
+| | *female:* 79.6 years (2020 est.) |
+| **Micronesia, Federated States of** | *total population:* 73.9 years |
+| | *male:* 71.8 years |
+| | *female:* 76.1 years (2020 est.) |
+| **Moldova** | *total population:* 71.9 years |
+| | *male:* 68 years |
+| | *female:* 76 years (2020 est.) |
+| **Monaco** | *total population:* 89.3 years |
+| | *male:* 85.4 years |
+| | *female:* 93.3 years (2020 est.) |
+| **Mongolia** | *total population:* 70.8 years |
+| | *male:* 66.6 years |
+| | *female:* 75.2 years (2020 est.) |
+| **Montenegro** | *total population:* 77.3 years |
+| | *male:* 74.8 years |
+| | *female:* 79.8 years (2020 est.) |
+| **Montserrat** | *total population:* 75.3 years |
+| | *male:* 76.4 years |
+| | *female:* 74.1 years (2020 est.) |
+| **Morocco** | *total population:* 73.3 years |
+| | *male:* 71.6 years |
+| | *female:* 75.1 years (2020 est.) |
+| **Mozambique** | *total population:* 55.9 years |
+| | *male:* 54.4 years |
+| | *female:* 57.4 years (2020 est.) |
+| **Namibia** | *total population:* 65.3 years |
+| | *male:* 63.3 years |
+| | *female:* 67.3 years (2020 est.) |
+| **Nauru** | *total population:* 68.4 years |
+| | *male:* 64.3 years |
+| | *female:* 71.9 years (2020 est.) |
+| **Nepal** | *total population:* 71.8 years |
+| | *male:* 71.1 years |
+| | *female:* 72.6 years (2020 est.) |
+| **Netherlands** | *total population:* 81.7 years |
+| | *male:* 79.5 years |
+| | *female:* 84.1 years (2020 est.) |
+| **New Caledonia** | *total population:* 78.4 years |
+| | *male:* 74.4 years |
+| | *female:* 82.5 years (2020 est.) |
+| **New Zealand** | *total population:* 82.1 years |
+| | *male:* 80.4 years |
+| | *female:* 84 years (2020 est.) |
+| **Nicaragua** | *total population:* 74.2 years |
+| | *male:* 72 years |
+| | *female:* 76.6 years (2020 est.) |
+| **Niger** | *total population:* 59.3 years |
+| | *male:* 57.8 years |
+| | *female:* 60.8 years (2020 est.) |
+| **Nigeria** | *total population:* 60.4 years |
+| | *male:* 58.6 years |
+| | *female:* 62.3 years (2020 est.) |
+| **Niue** | *total population:* NA (2017 est.) |
+| | *male:* NA |
+| | *female:* NA |
+| **Norfolk Island** | *total population:* NA (2017 est.) |
+| | *male:* NA |
+| | *female:* NA |
+| **North Macedonia** | *total population:* 76.3 years |
+| | *male:* 74.2 years |
+| | *female:* 78.6 years (2020 est.) |
+| **Northern Mariana Islands** | *total population:* 76.1 years |
+| | *male:* 74 years |
+| | *female:* 78.5 years (2020 est.) |
+| **Norway** | *total population:* 82.1 years |
+| | *male:* 80 years |
+| | *female:* 84.4 years (2020 est.) |
+| **Oman** | *total population:* 76.3 years |
+| | *male:* 74.4 years |
+| | *female:* 78.4 years (2020 est.) |
+| **Pakistan** | *total population:* 69.2 years |
+| | *male:* 67.2 years |
+| | *female:* 71.3 years (2020 est.) |
+| **Palau** | *total population:* 74.1 years |
+| | *male:* 70.9 years |
+| | *female:* 77.5 years (2020 est.) |
+| **Panama** | *total population:* 79.2 years |
+| | *male:* 76.4 years |
+| | *female:* 82.2 years (2020 est.) |
+| **Papua New Guinea** | *total population:* 67.8 years |
+| | *male:* 65.6 years |
+| | *female:* 70 years (2020 est.) |
+| **Paraguay** | *total population:* 77.9 years |
+| | *male:* 75.2 years |
+| | *female:* 80.7 years (2020 est.) |
+| **Peru** | *total population:* 74.7 years |
+| | *male:* 72.6 years |
+| | *female:* 76.9 years (2020 est.) |
+| **Philippines** | *total population:* 70 years |
+| | *male:* 66.5 years |
+| | *female:* 73.8 years (2020 est.) |
+| **Pitcairn Islands** | *total population:* NA (2017 est.) |
+| | *male:* NA |
+| | *female:* NA |
+| **Poland** | *total population:* 78.3 years |
+| | *male:* 74.5 years |
+| | *female:* 82.3 years (2020 est.) |
+| **Portugal** | *total population:* 81.1 years |
+| | *male:* 77.9 years |
+| | *female:* 84.4 years (2020 est.) |
+| **Puerto Rico** | *total population:* 81.3 years |
+| | *male:* 78 years |
+| | *female:* 84.7 years (2020 est.) |
+| **Qatar** | *total population:* 79.4 years |
+| | *male:* 77.2 years |
+| | *female:* 81.6 years (2020 est.) |
+| **Romania** | *total population:* 76 years |
+| | *male:* 72.6 years |
+| | *female:* 79.7 years (2020 est.) |
+| **Russia** | *total population:* 71.9 years |
+| | *male:* 66.3 years |
+| | *female:* 77.8 years (2020 est.) |
+| **Rwanda** | *total population:* 65.1 years |
+| | *male:* 63.2 years |
+| | *female:* 67.1 years (2020 est.) |
+| **Saint Barthelemy** | *total population:* 80.2 years |
+| | *male:* 77 years |
+| | *female:* 83.4 years (2020 est.) |
+| **Saint Helena, Ascension, and Tristan da Cunha** | *total population:* 80 years |
+| | *male:* 77.1 years |
+| | *female:* 83.1 years (2020 est.) |
+| **Saint Kitts and Nevis** | *total population:* 76.6 years |
+| | *male:* 74.1 years |
+| | *female:* 79.1 years (2020 est.) |
+| **Saint Lucia** | *total population:* 78.5 years |
+| | *male:* 75.7 years |
+| | *female:* 81.4 years (2020 est.) |
+| **Saint Martin** | *total population:* 80.2 years |
+| | *male:* 77 years |
+| | *female:* 83.4 years (2020 est.) |
+| **Saint Pierre and Miquelon** | *total population:* 81 years |
+| | *male:* 78.6 years |
+| | *female:* 83.5 years (2020 est.) |
+| **Saint Vincent and the Grenadines** | *total population:* 76.2 years |
+| | *male:* 74.1 years |
+| | *female:* 78.3 years (2020 est.) |
+| **Samoa** | *total population:* 74.7 years |
+| | *male:* 71.7 years |
+| | *female:* 77.7 years (2020 est.) |
+| **San Marino** | *total population:* 83.5 years |
+| | *male:* 80.9 years |
+| | *female:* 86.3 years (2020 est.) |
+| **Sao Tome and Principe** | *total population:* 66.3 years |
+| | *male:* 64.9 years |
+| | *female:* 67.8 years (2020 est.) |
+| **Saudi Arabia** | *total population:* 76.2 years |
+| | *male:* 74.6 years |
+| | *female:* 77.8 years (2020 est.) |
+| **Senegal** | *total population:* 63.2 years |
+| | *male:* 61.1 years |
+| | *female:* 65.4 years (2020 est.) |
+| **Serbia** | *total population:* 76.3 years |
+| | *male:* 73.4 years |
+| | *female:* 79.4 years (2020 est.) |
+| **Seychelles** | *total population:* 75.6 years |
+| | *male:* 71.1 years |
+| | *female:* 80.2 years (2020 est.) |
+| **Sierra Leone** | *total population:* 59.8 years |
+| | *male:* 57.1 years |
+| | *female:* 62.6 years (2020 est.) |
+| **Singapore** | *total population:* 86 years |
+| | *male:* 83.3 years |
+| | *female:* 88.9 years (2020 est.) |
+| **Sint Maarten** | *total population:* 78.8 years |
+| | *male:* 76.4 years |
+| | *female:* 81.3 years (2020 est.) |
+| **Slovakia** | *total population:* 77.8 years |
+| | *male:* 74.3 years |
+| | *female:* 81.6 years (2020 est.) |
+| **Slovenia** | *total population:* 81.4 years |
+| | *male:* 78.5 years |
+| | *female:* 84.4 years (2020 est.) |
+| **Solomon Islands** | *total population:* 76.2 years |
+| | *male:* 73.5 years |
+| | *female:* 79 years (2020 est.) |
+| **Somalia** | *total population:* 54 years |
+| | *male:* 51.8 years |
+| | *female:* 56.2 years (2020 est.) |
+| **South Africa** | *total population:* 64.8 years |
+| | *male:* 63.4 years |
+| | *female:* 66.2 years (2020 est.) |
+| **South Sudan** | *total population:* 55.5 years |
+| | *male:* 54.6 years |
+| | *female:* 56.5 years (2020 est.) |
+| **Spain** | *total population:* 82 years |
+| | *male:* 79 years |
+| | *female:* 85.2 years (2020 est.) |
+| **Sri Lanka** | *total population:* 77.5 years |
+| | *male:* 74 years |
+| | *female:* 81.1 years (2020 est.) |
+| **Sudan** | *total population:* 66.5 years |
+| | *male:* 64.3 years |
+| | *female:* 68.8 years (2020 est.) |
+| **Suriname** | *total population:* 73.3 years |
+| | *male:* 70.8 years |
+| | *female:* 75.9 years (2020 est.) |
+| **Svalbard** | *total population:* NA (2017 est.) |
+| | *male:* NA |
+| | *female:* NA |
+| **Sweden** | *total population:* 82.4 years |
+| | *male:* 80.4 years |
+| | *female:* 84.5 years (2020 est.) |
+| **Switzerland** | *total population:* 82.8 years |
+| | *male:* 80.5 years |
+| | *female:* 85.3 years (2020 est.) |
+| **Syria** | *total population:* 73.7 years |
+| | *male:* 72.3 years |
+| | *female:* 75.3 years (2020 est.) |
+| **Taiwan** | *total population:* 80.6 years |
+| | *male:* 77.5 years |
+| | *female:* 83.9 years (2020 est.) |
+| **Tajikistan** | *total population:* 69 years |
+| | *male:* 65.9 years |
+| | *female:* 72.3 years (2020 est.) |
+| **Tanzania** | *total population:* 63.9 years |
+| | *male:* 62.3 years |
+| | *female:* 65.5 years (2020 est.) |
+| **Thailand** | *total population:* 75.6 years |
+| | *male:* 72.4 years |
+| | *female:* 78.9 years (2020 est.) |
+| **Timor-Leste** | *total population:* 69.3 years |
+| | *male:* 67.6 years |
+| | *female:* 71.1 years (2020 est.) |
+| **Togo** | *total population:* 66.6 years |
+| | *male:* 63.9 years |
+| | *female:* 69.3 years (2020 est.) |
+| **Tokelau** | *total population:* NA (2017 est.) |
+| | *male:* NA |
+| | *female:* NA |
+| **Tonga** | *total population:* 77 years |
+| | *male:* 75.4 years |
+| | *female:* 78.8 years (2020 est.) |
+| **Trinidad and Tobago** | *total population:* 73.9 years |
+| | *male:* 70.9 years |
+| | *female:* 76.9 years (2020 est.) |
+| **Tunisia** | *total population:* 76.3 years |
+| | *male:* 74.6 years |
+| | *female:* 78.1 years (2020 est.) |
+| **Turkey** | *total population:* 75.7 years |
+| | *male:* 73.3 years |
+| | *female:* 78.2 years (2020 est.) |
+| **Turkmenistan** | *total population:* 71.3 years |
+| | *male:* 68.2 years |
+| | *female:* 74.5 years (2020 est.) |
+| **Turks and Caicos Islands** | *total population:* 80.3 years |
+| | *male:* 77.6 years |
+| | *female:* 83.3 years (2020 est.) |
+| **Tuvalu** | *total population:* 67.9 years |
+| | *male:* 65.6 years |
+| | *female:* 70.2 years (2020 est.) |
+| **Uganda** | *total population:* 68.2 years |
+| | *male:* 66 years |
+| | *female:* 70.5 years (2020 est.) |
+| **Ukraine** | *total population:* 72.9 years |
+| | *male:* 68.2 years |
+| | *female:* 77.9 years (2020 est.) |
+| **United Arab Emirates** | *total population:* 79 years |
+| | *male:* 77.6 years |
+| | *female:* 80.5 years (2020 est.) |
+| **United Kingdom** | *total population:* 81.1 years |
+| | *male:* 78.8 years |
+| | *female:* 83.5 years (2020 est.) |
+| **United States** | *total population:* 80.3 years |
+| | *male:* 78 years |
+| | *female:* 82.5 years (2020 est.) |
+| **Uruguay** | *total population:* 77.9 years |
+| | *male:* 74.8 years |
+| | *female:* 81.2 years (2020 est.) |
+| **Uzbekistan** | *total population:* 74.8 years |
+| | *male:* 71.7 years |
+| | *female:* 78 years (2020 est.) |
+| **Vanuatu** | *total population:* 74.6 years |
+| | *male:* 72.9 years |
+| | *female:* 76.4 years (2020 est.) |
+| **Venezuela** | *total population:* 71 years |
+| | *male:* 67.5 years |
+| | *female:* 74.7 years (2020 est.) |
+| **Vietnam** | *total population:* 74.4 years |
+| | *male:* 71.9 years |
+| | *female:* 77.1 years (2020 est.) |
+| **Virgin Islands** | *total population:* 79.8 years |
+| | *male:* 76.6 years |
+| | *female:* 83.2 years (2020 est.) |
+| **Wallis and Futuna** | *total population:* 80.2 years |
+| | *male:* 77.2 years |
+| | *female:* 83.4 years (2020 est.) |
+| **West Bank** | *total population:* 75.9 years |
+| | *male:* 73.8 years |
+| | *female:* 78.1 years (2020 est.) |
+| **World** | *total population:* 70.5 years |
+| | *male:* 68.4 years |
+| | *female:* 72.6 years (2020 est.) |
+| **Yemen** | *total population:* 66.9 years |
+| | *male:* 64.7 years |
+| | *female:* 69.3 years (2020 est.) |
+| **Zambia** | *total population:* 53.6 years |
+| | *male:* 51.9 years |
+| | *female:* 55.3 years (2020 est.) |
+| **Zimbabwe** | *total population:* 62.3 years |
+| | *male:* 60.2 years |
+| | *female:* 64.5 years (2020 est.) |
+

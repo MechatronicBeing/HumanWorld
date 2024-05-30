@@ -1,0 +1,218 @@
+CIA - The World Factbook -- Field Listing :: Oil - production   
+
+This entry is the total oil produced in barrels per day (bbl/day). The discrepancy between the amount of oil produced and/or imported and the amount consumed and/or exported is due to the omission of stock changes, refinery gains, and other complicating factors.
+
+| Country | Oil - production(bbl/day) |
+| --- | --- |
+| **Afghanistan** | 0 bbl/day (2008 est.) |
+| **Albania** | 5,985 bbl/day (2008 est.) |
+| **Algeria** | 2.18 million bbl/day (2008 est.) |
+| **American Samoa** | 0 bbl/day (2008 est.) |
+| **Angola** | 2.015 million bbl/day (2008 est.) |
+| **Antigua and Barbuda** | 0 bbl/day (2008 est.) |
+| **Argentina** | 792,300 bbl/day (2008 est.) |
+| **Armenia** | 0 bbl/day (2008 est.) |
+| **Aruba** | 2,351 bbl/day (2008 est.) |
+| **Australia** | 586,400 bbl/day (2008 est.) |
+| **Austria** | 24,850 bbl/day (2008 est.) |
+| **Azerbaijan** | 875,200 bbl/day (2008 est.) |
+| **Bahamas, The** | 0 bbl/day (2008 est.) |
+| **Bahrain** | 48,520 bbl/day (2008 est.) |
+| **Bangladesh** | 6,426 bbl/day (2008 est.) |
+| **Barbados** | 1,100 bbl/day (2008 est.) |
+| **Belarus** | 32,950 bbl/day (2008 est.) |
+| **Belgium** | 11,220 bbl/day (2008 est.) |
+| **Belize** | 3,511 bbl/day (2008 est.) |
+| **Benin** | 0 bbl/day (2008 est.) |
+| **Bermuda** | 0 bbl/day (2008 est.) |
+| **Bhutan** | 0 bbl/day (2008 est.) |
+| **Bolivia** | 51,360 bbl/day (2008 est.) |
+| **Bosnia and Herzegovina** | 0 bbl/day (2008 est.) |
+| **Botswana** | 0 bbl/day (2008 est.) |
+| **Brazil** | 2.422 million bbl/day (2008 est.) |
+| **British Virgin Islands** | 0 bbl/day (2008 est.) |
+| **Brunei** | 157,400 bbl/day (2008 est.) |
+| **Bulgaria** | 3,357 bbl/day (2008 est.) |
+| **Burkina Faso** | 0 bbl/day (2008 est.) |
+| **Burma** | 22,120 bbl/day (2008 est.) |
+| **Burundi** | 0 bbl/day (2008 est.) |
+| **Cambodia** | 0 bbl/day (2008 est.) |
+| **Cameroon** | 81,720 bbl/day (2008 est.) |
+| **Canada** | 3.35 million bbl/day (2008 est.) |
+| **Cape Verde** | 0 bbl/day (2008 est.) |
+| **Cayman Islands** | 0 bbl/day (2008 est.) |
+| **Central African Republic** | 0 bbl/day (2008 est.) |
+| **Chad** | 127,000 bbl/day (2008 est.) |
+| **Chile** | 11,190 bbl/day (2008 est.) |
+| **China** | 3.973 million bbl/day (2008 est.) |
+| **Colombia** | 600,600 bbl/day (2008 est.) |
+| **Comoros** | 0 bbl/day (2008 est.) |
+| **Congo, Democratic Republic of the** | 19,960 bbl/day (2008 est.) |
+| **Congo, Republic of the** | 239,900 bbl/day (2008 est.) |
+| **Cook Islands** | 0 bbl/day (2008 est.) |
+| **Costa Rica** | 0 bbl/day (2008 est.) |
+| **Cote d'Ivoire** | 60,100 bbl/day (2008 est.) |
+| **Croatia** | 22,200 bbl/day (2008 est.) |
+| **Cuba** | 52,630 bbl/day (2008 est.) |
+| **Cyprus** | 0 bbl/day (2008 est.) |
+| **Czech Republic** | 16,080 bbl/day (2008 est.) |
+| **Denmark** | 288,800 bbl/day (2008 est.) |
+| **Djibouti** | 0 bbl/day (2008 est.) |
+| **Dominica** | 0 bbl/day (2008 est.) |
+| **Dominican Republic** | 0 bbl/day (2008 est.) |
+| **Ecuador** | 505,100 bbl/day (2008 est.) |
+| **Egypt** | 630,600 bbl/day (2008 est.) |
+| **El Salvador** | 0 bbl/day (2008 est.) |
+| **Equatorial Guinea** | 359,200 bbl/day (2008 est.) |
+| **Eritrea** | 0 bbl/day (2008 est.) |
+| **Estonia** | 7,600 bbl/day (2008 est.) |
+| **Ethiopia** | 0 bbl/day (2008 est.) |
+| **European Union** | 2.538 million bbl/day (2007 est.) |
+| **Falkland Islands (Islas Malvinas)** | 0 bbl/day (2008 est.) |
+| **Faroe Islands** | 0 bbl/day (2008 est.) |
+| **Fiji** | 0 bbl/day (2008 est.) |
+| **Finland** | 9,789 bbl/day (2008 est.) |
+| **France** | 70,800 bbl/day (2008 est.) |
+| **French Polynesia** | 0 bbl/day (2008 est.) |
+| **Gabon** | 247,800 bbl/day (2008 est.) |
+| **Gambia, The** | 0 bbl/day (2008 est.) |
+| **Georgia** | 977.4 bbl/day (2008 est.) |
+| **Germany** | 150,800 bbl/day (2008 est.) |
+| **Ghana** | 7,399 bbl/day (2008 est.) |
+| **Gibraltar** | 0 bbl/day (2008 est.) |
+| **Greece** | 4,891 bbl/day (2008 est.) |
+| **Greenland** | 0 bbl/day (2008 est.) |
+| **Grenada** | 0 bbl/day (2008 est.) |
+| **Guam** | 0 bbl/day (2008 est.) |
+| **Guatemala** | 15,550 bbl/day (2008 est.) |
+| **Guinea** | 0 bbl/day (2008 est.) |
+| **Guinea-Bissau** | 0 bbl/day (2008 est.) |
+| **Guyana** | 0 bbl/day (2008 est.) |
+| **Haiti** | 0 bbl/day (2008 est.) |
+| **Honduras** | 0 bbl/day (2008 est.) |
+| **Hong Kong** | 0 bbl/day (2008 est.) |
+| **Hungary** | 37,830 bbl/day (2008 est.) |
+| **Iceland** | 0 bbl/day (2008 est.) |
+| **India** | 883,500 bbl/day (2008 est.) |
+| **Indonesia** | 1.051 million bbl/day (2008 est.) |
+| **Iran** | 4.174 million bbl/day (2008 est.) |
+| **Iraq** | 2.385 million bbl/day (2008 est.) |
+| **Ireland** | 0 bbl/day (2008 est.) |
+| **Israel** | 5,246 bbl/day (2008 est.) |
+| **Italy** | 162,200 bbl/day (2008 est.) |
+| **Jamaica** | 0 bbl/day (2008 est.) |
+| **Japan** | 133,100 bbl/day (2008 est.) |
+| **Jordan** | 0 bbl/day (2008 est.) |
+| **Kazakhstan** | 1.429 million bbl/day (2008 est.) |
+| **Kenya** | 0 bbl/day (2008 est.) |
+| **Kiribati** | 0 bbl/day (2008 est.) |
+| **Korea, North** | 120.7 bbl/day (2008 est.) |
+| **Korea, South** | 30,440 bbl/day (2008 est.) |
+| **Kosovo** | 0 bbl/day (2007) |
+| **Kuwait** | 2.741 million bbl/day (2008 est.) |
+| **Kyrgyzstan** | 958.4 bbl/day (2008 est.) |
+| **Laos** | 0 bbl/day (2008 est.) |
+| **Latvia** | 0 bbl/day (2008 est.) |
+| **Lebanon** | 0 bbl/day (2008 est.) |
+| **Lesotho** | 0 bbl/day (2008 est.) |
+| **Liberia** | 0 bbl/day (2008 est.) |
+| **Libya** | 1.875 million bbl/day (2008 est.) |
+| **Lithuania** | 8,247 bbl/day (2008 est.) |
+| **Luxembourg** | 0 bbl/day (2008 est.) |
+| **Macau** | 0 bbl/day (2008 est.) |
+| **Macedonia** | 0 bbl/day (2008 est.) |
+| **Madagascar** | 84.57 bbl/day (2008 est.) |
+| **Malawi** | 0 bbl/day (2008 est.) |
+| **Malaysia** | 727,200 bbl/day (2008 est.) |
+| **Maldives** | 0 bbl/day (2008 est.) |
+| **Mali** | 0 bbl/day (2008 est.) |
+| **Malta** | 0 bbl/day (2008 est.) |
+| **Mauritania** | 12,830 bbl/day (2008 est.) |
+| **Mauritius** | 0 bbl/day (2008 est.) |
+| **Mexico** | 3.186 million bbl/day (2008 est.) |
+| **Moldova** | 0 bbl/day (2008 est.) |
+| **Mongolia** | 3,216 bbl/day (2008) |
+| **Montenegro** | 0 bbl/day (2008 est.) |
+| **Montserrat** | 0 bbl/day (2008 est.) |
+| **Morocco** | 4,310 bbl/day (2008 est.) |
+| **Mozambique** | 0 bbl/day (2008 est.) |
+| **Namibia** | 0 bbl/day (2008 est.) |
+| **Nauru** | 0 bbl/day (2008 est.) |
+| **Nepal** | 0 bbl/day (2008 est.) |
+| **Netherlands** | 72,090 bbl/day (2008 est.) |
+| **Netherlands Antilles** | 0 bbl/day (2008 est.) |
+| **New Caledonia** | 0 bbl/day (2008 est.) |
+| **New Zealand** | 65,400 bbl/day (2008 est.) |
+| **Nicaragua** | 0 bbl/day (2008 est.) |
+| **Niger** | 0 bbl/day (2008 est.) |
+| **Nigeria** | 2.169 million bbl/day (2008 est.) |
+| **Niue** | 0 bbl/day (2008 est.) |
+| **Norway** | 2.466 million bbl/day (2008 est.) |
+| **Oman** | 761,000 bbl/day (2008 est.) |
+| **Pakistan** | 61,870 bbl/day (2008 est.) |
+| **Panama** | 0 bbl/day (2008 est.) |
+| **Papua New Guinea** | 38,100 bbl/day (2008 est.) |
+| **Paraguay** | 26.97 bbl/day (2008 est.) |
+| **Peru** | 120,200 bbl/day (2008 est.) |
+| **Philippines** | 25,120 bbl/day (2008 est.) |
+| **Poland** | 35,560 bbl/day (2008 est.) |
+| **Portugal** | 7,861 bbl/day (2008 est.) |
+| **Puerto Rico** | 1,354 bbl/day (2008 est.) |
+| **Qatar** | 1.208 million bbl/day (2008 est.) |
+| **Romania** | 115,200 bbl/day (2008 est.) |
+| **Russia** | 9.79 million bbl/day (2008 est.) |
+| **Rwanda** | 0 bbl/day (2008 est.) |
+| **Saint Helena** | 0 bbl/day (2008 est.) |
+| **Saint Kitts and Nevis** | 0 bbl/day (2008 est.) |
+| **Saint Lucia** | 0 bbl/day (2008 est.) |
+| **Saint Pierre and Miquelon** | 0 bbl/day (2008 est.) |
+| **Saint Vincent and the Grenadines** | 0 bbl/day (2008 est.) |
+| **Samoa** | 0 bbl/day (2008 est.) |
+| **Sao Tome and Principe** | 0 bbl/day (2008 est.) |
+| **Saudi Arabia** | 10.78 million bbl/day (2008 est.) |
+| **Senegal** | 0 bbl/day (2008 est.) |
+| **Serbia** | 11,420 bbl/day (2008 est.) |
+| **Seychelles** | 0 bbl/day (2008 est.) |
+| **Sierra Leone** | 2.99 bbl/day (2008 est.) |
+| **Singapore** | 8,553 bbl/day (2008 est.) |
+| **Slovakia** | 14,000 bbl/day (2008 est.) |
+| **Slovenia** | 5 bbl/day (2008 est.) |
+| **Solomon Islands** | 0 bbl/day (2008 est.) |
+| **Somalia** | 0 bbl/day (2008 est.) |
+| **South Africa** | 195,000 bbl/day (2008 est.) |
+| **Spain** | 28,130 bbl/day (2008 est.) |
+| **Sri Lanka** | 0 bbl/day (2008 est.) |
+| **Sudan** | 480,200 bbl/day (2008 est.) |
+| **Suriname** | 15,280 bbl/day (2008 est.) |
+| **Swaziland** | 0 bbl/day (2008 est.) |
+| **Sweden** | 3,572 bbl/day (2008 est.) |
+| **Switzerland** | 3,244 bbl/day (2008 est.) |
+| **Syria** | 426,100 bbl/day (2008 est.) |
+| **Taiwan** | 12,310 bbl/day (2008 est.) |
+| **Tajikistan** | 238 bbl/day (2008 est.) |
+| **Tanzania** | 0 bbl/day (2008 est.) |
+| **Thailand** | 361,300 bbl/day (2008 est.) |
+| **Timor-Leste** | 100,000 bbl/day (2008 est.) |
+| **Togo** | 0 bbl/day (2008 est.) |
+| **Tonga** | 0 bbl/day (2008 est.) |
+| **Trinidad and Tobago** | 163,300 bbl/day (2008 est.) |
+| **Tunisia** | 86,930 bbl/day (2008 est.) |
+| **Turkey** | 46,120 bbl/day (2008 est.) |
+| **Turkmenistan** | 189,400 bbl/day (2008 est.) |
+| **Turks and Caicos Islands** | 0 bbl/day (2008 est.) |
+| **Uganda** | bbl/day NA |
+| **Ukraine** | 101,300 bbl/day (2008 est.) |
+| **United Arab Emirates** | 3.046 million bbl/day (2008 est.) |
+| **United Kingdom** | 1.584 million bbl/day (2008 est.) |
+| **United States** | 8.514 million bbl/day (2008 est.) |
+| **Uruguay** | 946.1 bbl/day (2008 est.) |
+| **Uzbekistan** | 83,820 bbl/day (2008 est.) |
+| **Vanuatu** | 0 bbl/day (2008 est.) |
+| **Venezuela** | 2.643 million bbl/day (2008 est.) |
+| **Vietnam** | 313,600 bbl/day (2008 est.) |
+| **Virgin Islands** | 17,620 bbl/day (2008 est.) |
+| **Western Sahara** | 0 bbl/day (2008 est.) |
+| **World** | 85.43 million bbl/day (2008 est.) |
+| **Yemen** | 300,100 bbl/day (2008 est.) |
+| **Zambia** | 159.3 bbl/day (2008 est.) |
+| **Zimbabwe** | 0 bbl/day (2008 est.) |

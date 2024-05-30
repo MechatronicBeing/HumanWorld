@@ -1,0 +1,391 @@
+CIA - The World Factbook -- Field Listing :: Commercial bank prime lending rate   
+
+This entry provides a simple average of annualized interest rates commercial banks charge on new loans, denominated in the national currency, to their most credit-worthy customers.
+
+| Country | Commercial bank prime lending rate(%) |
+| --- | --- |
+| **Afghanistan** | 15.689% (31 December 2010 est.) |
+| | 15.222% (31 December 2009 est.) |
+| **Albania** | 12.833% (31 December 2010 est.) |
+| | 12.667% (31 December 2009 est.) |
+| **Algeria** | 8% (31 December 2010 est.) |
+| | 8% (31 December 2009 est.) |
+| **Angola** | 22.68% (31 December 2010 est.) |
+| | 15.68% (31 December 2009 est.) |
+| **Anguilla** | 10.6% (31 December 2010 est.) |
+| | 9.273% (31 December 2009 est.) |
+| **Antigua and Barbuda** | 11.025% (31 December 2010 est.) |
+| | 10.05% (31 December 2009 est.) |
+| **Argentina** | 10.558% (31 December 2010 est.) |
+| | 15.655% (31 December 2009 est.) |
+| **Armenia** | 19.2% (31 December 2010 est.) |
+| | 18.763% (31 December 2009 est.) |
+| **Aruba** | 10.3% (31 December 2010 est.) |
+| | 10.7% (31 December 2009 est.) |
+| **Australia** | 7.279% (31 December 2010 est.) |
+| | 6.021% (31 December 2009 est.) |
+| **Austria** | 2.564% (31 December 2010 est.) |
+| | 3.101% (31 December 2009 est.) |
+| **Azerbaijan** | 21% (31 December 2010 est.) |
+| | 20.03% (31 December 2009 est.) |
+| **Bahamas, The** | 5.5% (31 December 2010 est.) |
+| | 5.5% (31 December 2009 est.) |
+| **Bahrain** | 7.25% (31 December 2010 est.) |
+| | 7.9% (31 December 2009 est.) |
+| **Bangladesh** | 13% (31 December 2010 est.) |
+| | 14.6% (31 December 2009 est.) |
+| **Barbados** | 8.7% (31 December 2010 est.) |
+| | 9.204% (31 December 2009 est.) |
+| **Belarus** | 9.217% (31 December 2010 est.) |
+| | 11.675% (31 December 2009 est.) |
+| **Belgium** | 4.21% (31 December 2010 est.) |
+| | 4.576% (31 December 2009 est.) |
+| **Belize** | 13.9% (31 December 2010 est.) |
+| | 14.1% (31 December 2009 est.) |
+| **Benin** | NA% |
+| | NA% |
+| **Bhutan** | 14.5% (31 December 2010 est.) |
+| | 14.5% (31 December 2009 est.) |
+| **Bolivia** | 9.911% (31 December 2010 est.) |
+| | 12.36% (31 December 2009 est.) |
+| **Bosnia and Herzegovina** | 7.89% (31 December 2010 est.) |
+| | 7.93% (31 December 2009 est.) |
+| **Botswana** | 11.46% (31 December 2010 est.) |
+| | 13.76% (31 December 2009 est.) |
+| **Brazil** | 39.992% (31 December 2010 est.) |
+| | 44.65% (31 December 2009 est.) |
+| **Brunei** | 5.5% (31 December 2010 est.) |
+| | 5.5% (31 December 2009 est.) |
+| **Bulgaria** | 11.144% (31 December 2010 est.) |
+| | 11.335% (31 December 2009 est.) |
+| **Burkina Faso** | NA% |
+| **Burma** | 17% (31 December 2010 est.) |
+| | 17% (31 December 2009 est.) |
+| **Burundi** | 12.4% (31 December 2010 est.) |
+| | 14.076% (31 December 2009 est.) |
+| **Cambodia** | 15.633% (31 December 2010 est.) |
+| | 15.812% (31 December 2009 est.) |
+| **Cameroon** | 14% (31 December 2010 est.) |
+| **Canada** | 2.604% (31 December 2010 est.) |
+| | 2.396% (31 December 2009 est.) |
+| **Cape Verde** | 11% (31 December 2010 est.) |
+| | 11% (31 December 2009 est.) |
+| **Cayman Islands** | 14.5% (31 December 2010 est.) |
+| | 14.5% (31 December 2009 est.) |
+| **Central African Republic** | 15% (31 December 2010 est.) |
+| | 15% (31 December 2009 est.) |
+| **Chad** | 14% (31 December 2010 est.) |
+| | 15% (31 December 2009 est.) |
+| **Chile** | 4.753% (31 December 2010 est.) |
+| | 7.25% (31 December 2009 est.) |
+| **China** | 5.81% (31 December 2010 est.) |
+| | 5.31% (31 December 2009 est.) |
+| **Colombia** | 9.383% (31 December 2010 est.) |
+| | 13.008% (31 December 2009 est.) |
+| **Comoros** | 10.5% (31 December 2010 est.) |
+| | 10.5% (31 December 2009 est.) |
+| **Congo, Democratic Republic of the** | 56.8% (31 December 2010 est.) |
+| | 65.392% (31 December 2009 est.) |
+| **Congo, Republic of the** | 14.8% (31 December 2010 est.) |
+| | 15% (31 December 2009 est.) |
+| **Costa Rica** | 17.091% (31 December 2010 est.) |
+| | 19.723% (31 December 2009 est.) |
+| **Cote d'Ivoire** | 4.3% (31 December 2010 est.) |
+| | 4.3% (31 December 2009 est.) |
+| **Croatia** | 10.38% (31 December 2010 est.) |
+| | 11.55% (31 December 2009 est.) |
+| **Cuba** | NA% |
+| **Curacao** | 14.5% (31 December 2010 est.) |
+| | 7.507% (31 December 2009 est.) |
+| **Cyprus** | 6.815% (31 December 2010 est.) |
+| | 7.493% (31 December 2009 est.) |
+| **Czech Republic** | 5.889% (31 December 2010 est.) |
+| | 5.991% (31 December 2009 est.) |
+| **Denmark** | 4.3% (31 December 2010 est.) |
+| | 5.3% (31 December 2009 est.) |
+| **Djibouti** | 10.3% (31 December 2010 est.) |
+| | 11.1% (31 December 2009 est.) |
+| **Dominica** | 9.475% (31 December 2010 est.) |
+| | 10.025% (31 December 2009 est.) |
+| **Dominican Republic** | 12.14% (31 December 2010 est.) |
+| | 18.14% (31 December 2009 est.) |
+| **Ecuador** | 9% (31 December 2010 est.) |
+| | 9.203% (31 December 2009 est.) |
+| **Egypt** | 11.008% (31 December 2010 est.) |
+| | 11.975% (31 December 2009 est.) |
+| **El Salvador** | 7.62% (31 December 2010) |
+| | 9.32% (31 December 2009) |
+| **Equatorial Guinea** | 15% (31 December 2010 est.) |
+| | 15% (31 December 2009 est.) |
+| **Eritrea** | NA% |
+| **Estonia** | 7.759% (31 December 2010 est.) |
+| | 9.385% (31 December 2009 est.) |
+| **Ethiopia** | 14.5% (31 December 2010 est.) |
+| | 14.183% (31 December 2009 est.) |
+| **European Union** | 5.9% (31 December 2010 est.) |
+| | 7.52% (31 December 2009 est.) |
+| **Fiji** | 7.5% (31 December 2010 est.) |
+| | 7.9% (31 December 2009 est.) |
+| **Finland** | 2.267% (31 December 2010 est.) |
+| | 2.552% (31 December 2009 est.) |
+| **France** | 3.373% (31 December 2010 est.) |
+| | 4.249% (31 December 2009 est.) |
+| **Gabon** | 15% (31 December 2010 est.) |
+| | 15% (31 December 2009 est.) |
+| **Gambia, The** | 28% (31 December 2010 est.) |
+| | 27% (31 December 2009 est.) |
+| **Gaza Strip** | see entry for West Bank |
+| **Georgia** | 24.213% (31 December 2010 est.) |
+| | 25.521% (31 December 2009 est.) |
+| **Germany** | 3.77% (31 December 2010 est.) |
+| | 4.96% (31 December 2009 est.) |
+| **Ghana** | 22.7% (31 December 2010 est.) |
+| | 28.8% (31 December 2009 est.) |
+| **Greece** | 5.984% (31 December 2010 est.) |
+| | 6.055% (31 December 2009 est.) |
+| **Grenada** | 10.6% (31 December 2010 est.) |
+| | 10.983% (31 December 2009 est.) |
+| **Guatemala** | 13.34% (31 December 2010 est.) |
+| | 13.85% (31 December 2009 est.) |
+| **Guinea** | 24% (31 December 2010 est.) |
+| | 23.8% (31 December 2009 est.) |
+| **Guinea-Bissau** | 15% (31 December 2010 est.) |
+| | 15% (31 December 2009 est.) |
+| **Guyana** | 14.54% (31 December 2010 est.) |
+| | 14.54% (31 December 2009 est.) |
+| **Haiti** | 17.5% (31 December 2010 est.) |
+| | 17.3% (31 December 2009 est.) |
+| **Honduras** | 18.87% (31 December 2010 est.) |
+| | 19.45% (31 December 2009 est.) |
+| **Hong Kong** | 5% (31 December 2010 est.) |
+| | 5% (31 December 2009 est.) |
+| **Hungary** | 7.592% (31 December 2010 est.) |
+| | 11.058% (31 December 2009 est.) |
+| **Iceland** | 10.242% (31 December 2010 est.) |
+| | 19% (31 December 2009 est.) |
+| **India** | 10.167% (31 December 2010 est.) |
+| | 12.2% (31 December 2009 est.) |
+| **Indonesia** | 13.252% (31 December 2010 est.) |
+| | 14.498% (31 December 2009 est.) |
+| | *note:* these figures represent the average annualized rate on working capital loans |
+| **Iran** | 12.5% (31 December 2010 est.) |
+| | 12% (31 December 2009 est.) |
+| **Iraq** | 6% (31 December 2010 est.) |
+| | 7% (31 December 2009 est.) |
+| **Ireland** | 5.45% (31 December 2010 est.) |
+| | 4.32% (31 December 2009 est.) |
+| **Israel** | 4.492% (31 December 2010 est.) |
+| | 3.7% (31 December 2009 est.) |
+| **Italy** | 4.032% (31 December 2010 est.) |
+| | 4.757% (31 December 2009 est.) |
+| **Jamaica** | 16% (31 December 2010 est.) |
+| | 16.43% (31 December 2009 est.) |
+| **Japan** | 1.475% (31 December 2010 est.) |
+| | 1.475% (31 December 2009 est.) |
+| **Jordan** | 8.9% (31 December 2010 est.) |
+| | 9.25% (31 December 2009 est.) |
+| **Kazakhstan** | 8.161% (31 December 2010 est.) |
+| | 6.757% (31 December 2009 est.) |
+| **Kenya** | 14.37% (31 December 2010 est.) |
+| | 14.8% (31 December 2009 est.) |
+| **Korea, South** | 5.508% (31 December 2010 est.) |
+| | 5.65% (31 December 2009 est.) |
+| **Kosovo** | 14.31% (31 December 2010 est.) |
+| | 14.09% (31 December 2009 est.) |
+| **Kuwait** | 2.9% (31 December 2010 est.) |
+| | 6.2% (31 December 2009 est.) |
+| **Kyrgyzstan** | 29.425% (31 December 2010 est.) |
+| | 21.683% (31 December 2009 est.) |
+| **Laos** | 22.613% (31 December 2010) |
+| | 24.775% (31 December 2009 est.) |
+| **Latvia** | 9.56% (31 December 2010 est.) |
+| | 16.23% (31 December 2009 est.) |
+| **Lebanon** | 8.337% (31 December 2010 est.) |
+| | 9.568% (31 December 2009 est.) |
+| **Lesotho** | 11.2% (31 December 2010 est.) |
+| | 13% (31 December 2009 est.) |
+| **Liberia** | 14.3% (31 December 2010 est.) |
+| | 14.183% (31 December 2009 est.) |
+| **Libya** | 6% (31 December 2010 est.) |
+| | 6% (31 December 2009 est.) |
+| **Lithuania** | 5.988% (31 December 2010 est.) |
+| | 8.393% (31 December 2009 est.) |
+| **Luxembourg** | 2.283% (31 December 2010 est.) |
+| | 2.692% (31 December 2009 est.) |
+| **Macau** | 5.3% (31 December 2010 est.) |
+| | 5.25% (31 December 2009 est.) |
+| **Macedonia** | 9.5% (31 December 2010 est.) |
+| | 10.062% (31 December 2009 est.) |
+| **Madagascar** | 46% (31 December 2010 est.) |
+| | 44.617% (31 December 2009 est.) |
+| **Malawi** | 24.675% (31 December 2010 est.) |
+| | 25.3% (31 December 2009 est.) |
+| **Malaysia** | 5.05% (31 December 2010 est.) |
+| | 4.83% (31 December 2009 est.) |
+| **Maldives** | 10.38% (31 December 2010 est.) |
+| | 13% (31 December 2009 est.) |
+| **Mali** | 9.2% (31 December 2010 est.) |
+| | 9.5% (31 December 2009 est.) |
+| **Malta** | 4.617% (31 December 2010 est.) |
+| | 4.492% (31 December 2009 est.) |
+| **Mauritania** | 17% (31 December 2010 est.) |
+| | 19.5% (31 December 2009 est.) |
+| **Mauritius** | 19.25% (31 December 2010 est.) |
+| | 19.25% (31 December 2009 est.) |
+| **Mexico** | 5.287% (31 December 2010 est.) |
+| | 7.074% (31 December 2009 est.) |
+| **Micronesia, Federated States of** | 15.13% (31 December 2010 est.) |
+| | 15.38% (31 December 2009 est.) |
+| **Moldova** | 16.36% (31 December 2010 est.) |
+| | 20.54% (31 December 2009 est.) |
+| **Mongolia** | 17.9% (31 December 2010 est.) |
+| | 20.8% (31 December 2009 est.) |
+| **Montenegro** | 9.53% (31 December 2010 est.) |
+| | 9.36% (31 December 2009 est.) |
+| **Montserrat** | 8.728% (31 December 2010 est.) |
+| | 9.045% (31 December 2009 est.) |
+| **Morocco** | 6.3% (31 December 2010 est.) |
+| | 6.2% (31 December 2009 est.) |
+| **Mozambique** | 16.263% (31 December 2010 est.) |
+| | 15.675% (31 December 2009 est.) |
+| **Namibia** | 9.72% (31 December 2010 est.) |
+| | 11.12% (31 December 2009 est.) |
+| **Nepal** | 8% (31 December 2010 est.) |
+| | 8% (31 December 2009 est.) |
+| **Netherlands** | 3.013% (31 December 2010 est.) |
+| | 3.367% (31 December 2009 est.) |
+| **New Zealand** | 10.095% (31 December 2010 est.) |
+| | 10.389% (31 December 2009 est.) |
+| **Nicaragua** | 13.32% (31 December 2010 est.) |
+| | 14.04% (31 December 2009 est.) |
+| **Niger** | 4.3% (31 December 2010 est.) |
+| | 4.3% (31 December 2009 est.) |
+| **Nigeria** | 17.585% (31 December 2010 est.) |
+| | 18.362% (31 December 2009 est.) |
+| **Norway** | 4.6% (31 December 2010 est.) |
+| | 4.525% (31 December 2009 est.) |
+| **Oman** | 6.835% (31 December 2010 est.) |
+| | 7.442% (31 December 2009 est.) |
+| **Pakistan** | 13.462% (31 December 2010 est.) |
+| | 14.189% (31 December 2009 est.) |
+| **Panama** | 7.74% (31 December 2010 est.) |
+| | 8.25% (31 December 2009 est.) |
+| **Papua New Guinea** | 10.45% (31 December 2010 est.) |
+| | 10.09% (31 December 2009 est.) |
+| **Paraguay** | 26.04% (31 December 2010 est.) |
+| | 28.26% (31 December 2009 est.) |
+| **Peru** | 18.975% (31 December 2010 est.) |
+| | 21.033% (31 December 2009 est.) |
+| | *note:* domestic currency lending rate |
+| **Philippines** | 7.673% (31 December 2010 est.) |
+| | 8.566% (31 December 2009 est.) |
+| **Poland** | 8.367% (31 December 2010 est.) |
+| | 8.513% (31 December 2009 est.) |
+| **Portugal** | 4.225% (31 December 2010 est.) |
+| | 4.694% (31 December 2009 est.) |
+| **Puerto Rico** | 3.25% (31 December 2010 est.) |
+| | 3.25% (31 December 2009 est.) |
+| **Qatar** | 7.34% (31 December 2010 est.) |
+| | 7.27% (31 December 2009 est.) |
+| **Romania** | 14.11% (31 December 2010 est.) |
+| | 17.3% (31 December 2009 est.) |
+| **Russia** | 10.817% (31 December 2010 est.) |
+| | 15.308% (31 December 2009 est.) |
+| **Rwanda** | 16% (31 December 2010 est.) |
+| | 16% (31 December 2009 est.) |
+| **Saint Kitts and Nevis** | 8.625% (31 December 2010 est.) |
+| | 8.775% (31 December 2009 est.) |
+| **Saint Lucia** | 10.625% (31 December 2010 est.) |
+| | 10.6% (31 December 2009 est.) |
+| **Saint Vincent and the Grenadines** | 9.2% (31 December 2010 est.) |
+| | 9.2% (31 December 2009 est.) |
+| **Samoa** | 10.725% (31 December 2010 est.) |
+| | 12.108% (31 December 2009 est.) |
+| **San Marino** | 5.39% (September 2010) |
+| | 5.74% (31 December 2009 est.) |
+| **Sao Tome and Principe** | 20% (31 December 2010 est.) |
+| | 32% (31 December 2009 est.) |
+| **Saudi Arabia** | 7.2% (31 December 2010 est.) |
+| | 7.2% (31 December 2009 est.) |
+| **Senegal** | 14.5% (31 December 2010 est.) |
+| | 14.5% (31 December 2009 est.) |
+| **Serbia** | 12.43% (31 December 2010 est.) |
+| | 11.8% (31 December 2009 est.) |
+| **Seychelles** | 12.703% (31 December 2010 est.) |
+| | 15.347% (31 December 2009 est.) |
+| **Sierra Leone** | 21.25% (31 December 2010 est.) |
+| | 22.167% (31 December 2009 est.) |
+| **Singapore** | 5.38% (31 December 2010 est.) |
+| | 5.38% (31 December 2009 est.) |
+| **Slovakia** | 3.39% (31 December 2010 est.) |
+| | 2.91% (31 December 2009 est.) |
+| **Slovenia** | 5.681% (31 December 2010 est.) |
+| | 5.908% (31 December 2009 est.) |
+| **Solomon Islands** | 14.4% (31 December 2010 est.) |
+| | 15.3% (31 December 2009 est.) |
+| **Somalia** | NA% |
+| **South Africa** | 9.833% (31 December 2010 est.) |
+| | 11.708% (31 December 2009 est.) |
+| **Spain** | 7.223% (31 December 2010 est.) |
+| | 6.964% (31 December 2009 est.) |
+| **Sri Lanka** | 10.22% (31 December 2010 est.) |
+| | 15.67% (31 December 2009 est.) |
+| **Sudan** | 9.7% (31 December 2010 est.) |
+| | 11% (31 December 2009 est.) |
+| **Suriname** | 11.55% (31 December 2010 est.) |
+| | 11.65% (31 December 2009 est.) |
+| **Swaziland** | 9.75% (31 December 2010 est.) |
+| | 11.375% (31 December 2009 est.) |
+| **Sweden** | 3.386% (31 December 2010 est.) |
+| | 2.38% (31 December 2009 est.) |
+| **Switzerland** | 2.733% (31 December 2010 est.) |
+| | 2.751% (31 December 2009 est.) |
+| **Syria** | 10% (31 December 2010 est.) |
+| | 10% (31 December 2009 est.) |
+| **Taiwan** | 2.676% (31 December 2010) |
+| | 2.563% (31 December 2009 est.) |
+| **Tajikistan** | 21.73% (31 December 2010 est.) |
+| | 25.88% (31 December 2009 est.) |
+| **Tanzania** | 14.55% (31 December 2010 est.) |
+| | 15.03% (31 December 2009 est.) |
+| **Thailand** | 5.935% (31 December 2010 est.) |
+| | 5.963% (31 December 2009 est.) |
+| **Timor-Leste** | 11% (31 December 2010 est.) |
+| | 11.2% (31 December 2009 est.) |
+| **Togo** | NA% |
+| **Tonga** | 11.53% (31 December 2010 est.) |
+| | 12.13% (31 December 2009 est.) |
+| **Trinidad and Tobago** | 9.3% (31 December 2010 est.) |
+| | 11.9% (31 December 2009 est.) |
+| **Tunisia** | NA% (31 December 2010 est.) |
+| | 7.305% (31 December 2009 est.) |
+| **Turkey** | 19% (31 December 2010 est.) |
+| | 21% (31 December 2009 est.) |
+| **Turkmenistan** | 17.5% (31 December 2010 est.) |
+| | 15% (31 December 2009 est.) |
+| **Uganda** | 20.17% (31 December 2010 est.) |
+| | 20.96% (31 December 2009 est.) |
+| **Ukraine** | 15.869% (31 December 2010 est.) |
+| | 20.863% (31 December 2009 est.) |
+| **United Arab Emirates** | 5.2% (31 December 2010 est.) |
+| | 5.9% (31 December 2009 est.) |
+| **United Kingdom** | 3.962% (31 December 2010 est.) |
+| | 4.048% (31 December 2009 est.) |
+| **United States** | 3.25% (31 December 2010 est.) |
+| | 3.25% (31 December 2009 est.) |
+| **Uruguay** | 10.33% (31 December 2010 est.) |
+| | 15.28% (31 December 2009 est.) |
+| **Vanuatu** | 5.5% (31 December 2010 est.) |
+| | 5.5% (31 December 2009 est.) |
+| **Venezuela** | 18.348% (31 December 2010 est.) |
+| | 19.893% (31 December 2009 est.) |
+| **Vietnam** | 13.135% (31 December 2010 est.) |
+| | 10.068% (31 December 2009 est.) |
+| **West Bank** | 7.3% (31 December 2010 est.) |
+| | 7.3% (31 December 2009 est.) |
+| **Yemen** | 25% (31 December 2010 est.) |
+| | 18% (31 December 2009 est.) |
+| **Zambia** | 20.92% (31 December 2010 est.) |
+| | 22.06% (31 December 2009 est.) |
+| **Zimbabwe** | 41% (January 2011 est.) |
+| | 352% (31 December 2009 est.) |

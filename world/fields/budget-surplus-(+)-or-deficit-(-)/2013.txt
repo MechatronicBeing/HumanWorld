@@ -1,0 +1,226 @@
+CIA - The World Factbook -- Field Listing :: Budget surplus (+) or deficit (-)   
+
+This entry records the difference between national government revenues and expenditures, expressed as a percent of GDP. A positive (+) number indicates that revenues exceeded expenditures (a budget surplus), while a negative (-) number indicates the reverse (a budget deficit). Normalizing the data, by dividing the budget balance by GDP, enables easy comparisons across countries and indicates whether a national government saves or borrows money. Countries with high budget deficits (relative to their GDPs) generally have more difficulty raising funds to finance expenditures, than those with lower deficits.
+
+| Country | Budget surplus (+) or deficit (-)(% of GDP) |
+| --- | --- |
+| **Afghanistan** | -8.7% of GDP (2012 est.) |
+| **Albania** | -3.4% of GDP (2012 est.) |
+| **Algeria** | -4.7% of GDP (2012 est.) |
+| **American Samoa** | -6.1% of GDP (2007) |
+| **Andorra** | -1.4% of GDP (2011) |
+| **Angola** | 6.2% of GDP (2012 est.) |
+| **Anguilla** | -5% of GDP (2012 est.) |
+| **Antigua and Barbuda** | -0.8% of GDP (2012 est.) |
+| **Argentina** | -2.6% of GDP (2012 est.) |
+| **Armenia** | -1.6% of GDP (2012 est.) |
+| **Aruba** | -9.8% of GDP (2012 est.) |
+| **Australia** | -3.4% of GDP (2012 est.) |
+| **Austria** | -1.4% of GDP (2012 est.) |
+| **Azerbaijan** | 0.3% of GDP (2012 est.) |
+| **Bahamas, The** | -6.2% of GDP (2012 est.) |
+| **Bahrain** | -2.3% of GDP (2012 est.) |
+| **Bangladesh** | -4.7% of GDP (2012 est.) |
+| **Barbados** | -8.1% of GDP (2012 est.) |
+| **Belarus** | 0.7% of GDP (2012 est.) |
+| **Belgium** | -4.2% of GDP (2012 est.) |
+| **Belize** | 0% of GDP (2012 est.) |
+| **Benin** | -0.5% of GDP (2012 est.) |
+| **Bermuda** | -2.5% of GDP (FY11/12 est.) |
+| **Bhutan** | -1.7% of GDP (2012 est.) |
+| **Bolivia** | 1.8% of GDP (2012 est.) |
+| **Bosnia and Herzegovina** | -2.9% of GDP (2012 est.) |
+| **Botswana** | 0.8% of GDP (2012 est.) |
+| **Brazil** | 2.4% of GDP (2012 est.) |
+| **British Virgin Islands** | 0% of GDP (2012 est.) |
+| **Brunei** | 13.4% of GDP (2012 est.) |
+| **Bulgaria** | -0.5% of GDP (2012 est.) |
+| **Burkina Faso** | -3.2% of GDP (2012 est.) |
+| **Burma** | -4.1% of GDP (2012 est.) |
+| **Burundi** | -3.8% of GDP (2012 est.) |
+| **Cabo Verde** | -12.1% of GDP (2012 est.) |
+| **Cambodia** | -2.9% of GDP (2012 est.) |
+| **Cameroon** | -3.6% of GDP (2012 est.) |
+| **Canada** | -3.3% of GDP (2012 est.) |
+| **Cayman Islands** | -2.7% of GDP (2012 est.) |
+| **Central African Republic** | -0.7% of GDP (2012 est.) |
+| **Chad** | -1.8% of GDP (2012 est.) |
+| **Chile** | 0.5% of GDP (2012 est.) |
+| **China** | -1.7% of GDP (2012 est.) |
+| **Colombia** | 0.5% of GDP (2012 est.) |
+| **Comoros** | 1.5% of GDP (2012 est.) |
+| **Congo, Democratic Republic of the** | -2.5% of GDP (2012 est.) |
+| **Congo, Republic of the** | 6.5% of GDP (2012 est.) |
+| **Cook Islands** | 1% of GDP (FY05/06) |
+| **Costa Rica** | -4.5% of GDP (2012 est.) |
+| **Cote d'Ivoire** | -3.5% of GDP (2012 est.) |
+| **Croatia** | -3.3% of GDP (2012 est.) |
+| **Cuba** | -3.7% of GDP (2012 est.) |
+| **Curacao** | -0.9% of GDP (2011 est.) |
+| **Cyprus** | -6.4% of GDP (2012 est.) |
+| **Czech Republic** | -4.5% of GDP (2012 est.) |
+| **Denmark** | -4.1% of GDP (2012 est.) |
+| **Djibouti** | -2.8% of GDP (2012 est.) |
+| **Dominica** | -12.4% of GDP (2012 est.) |
+| **Dominican Republic** | -6.6% of GDP (2012 est.) |
+| **Ecuador** | -1.1% of GDP (2012 est.) |
+| **Egypt** | -10.9% of GDP (2012 est.) |
+| **El Salvador** | -3.5% of GDP (2012 est.) |
+| **Equatorial Guinea** | -0.9% of GDP (2012 est.) |
+| **Eritrea** | -12.6% of GDP (2012 est.) |
+| **Estonia** | -0.3% of GDP (2012 est.) |
+| **Ethiopia** | -2.7% of GDP (2012 est.) |
+| **Falkland Islands (Islas Malvinas)** | -5% of GDP (FY09/10) |
+| **Faroe Islands** | -11.9% of GDP (2010 est.) |
+| **Fiji** | -1.7% of GDP (2012 est.) |
+| **Finland** | -2.3% of GDP (2012 est.) |
+| **France** | -4.9% of GDP (2012 est.) |
+| **French Polynesia** | 3.9% of GDP (1999) |
+| **Gabon** | 2% of GDP (2012 est.) |
+| **Gambia, The** | -4.5% of GDP (2012 est.) |
+| **Georgia** | -3.1% of GDP (2012 est.) |
+| **Germany** | 0.1% of GDP (2012 est.) |
+| **Ghana** | -12.2% of GDP (2012 est.) |
+| **Gibraltar** | 2.1% of GDP (2008 est.) |
+| **Greece** | -10.2% of GDP (2012 est.) |
+| **Greenland** | 1.9% of GDP (2010) |
+| **Grenada** | -5.2% of GDP (2009 est.) |
+| **Guam** | -3% of GDP (FY10/11 est.) |
+| **Guatemala** | -2.4% of GDP (2012 est.) |
+| **Guernsey** | 1.2% of GDP (2005) |
+| **Guinea** | -3.4% of GDP (2012 est.) |
+| **Guinea-Bissau** | -3% of GDP (2012 est.) |
+| **Guyana** | -5% of GDP (2012 est.) |
+| **Haiti** | -6% of GDP (2012 est.) |
+| **Honduras** | -6% of GDP (2012 est.) |
+| **Hong Kong** | 3.1% of GDP (2012 est.) |
+| **Hungary** | -2.1% of GDP |
+| | *note:* Hungary has been under the EU Excessive Deficit Procedure since it joined the EU in 2004; in March 2012 the EU elevated its Excessive Deficit Procedure against Hungary and proposed freezing 30% of the country's Cohesion Funds because 2011 deficit reductions were not achieved in a sustainable manner; in June 2012, the EU lifted the freeze, reognizing that steps had been taken to reduce the deficit; the latest EC forecasts project the Hungarian deficit to increase above 3% both in 2013 and in 2014 due to sluggish growth and the government's fiscal tightening (2012 est.) |
+| **Iceland** | -3.5% of GDP (2012 est.) |
+| **India** | -5% of GDP (2012 est.) |
+| **Indonesia** | -2.1% of GDP (2012 est.) |
+| **Iran** | -2.4% of GDP (2012 est.) |
+| **Iraq** | 7% of GDP (2012 est.) |
+| **Ireland** | -7.6% of GDP (2012 est.) |
+| **Isle of Man** | 0.5% of GDP (FY05/06 est.) |
+| **Israel** | -4% of GDP (2012 est.) |
+| **Italy** | -2.9% of GDP (2012 est.) |
+| **Jamaica** | -4.2% of GDP (2012 est.) |
+| **Japan** | -10% of GDP (2012 est.) |
+| **Jersey** | -0.4% of GDP (2005) |
+| **Jordan** | -9.8% of GDP (2012 est.) |
+| **Kazakhstan** | -2.9% of GDP (2012 est.) |
+| **Kenya** | -5.1% of GDP (2012 est.) |
+| **Kiribati** | -29.9% of GDP (2010 est.) |
+| **Korea, North** | -0.4% of GDP (2007 est.) |
+| **Korea, South** | 1.5% of GDP (2012 est.) |
+| **Kosovo** | -5% of GDP (2011 est.) |
+| **Kuwait** | 31.7% of GDP (2012 est.) |
+| **Kyrgyzstan** | -6% of GDP (2012 est.) |
+| **Laos** | -1.4% of GDP (2012 est.) |
+| **Latvia** | 0.1% of GDP (2012 est.) |
+| **Lebanon** | -9.6% of GDP (2012 est.) |
+| **Lesotho** | 5% of GDP (2012 est.) |
+| **Liberia** | -2.7% of GDP (2012 est.) |
+| **Libya** | 27.7% of GDP (2012 est.) |
+| **Liechtenstein** | -1.6% of GDP (2011 est.) |
+| **Lithuania** | -3.4% of GDP (2012 est.) |
+| **Luxembourg** | -0.8% of GDP (2012 est.) |
+| **Macau** | 25.6% of GDP (2012 est.) |
+| **Macedonia** | -3.9% of GDP (2012 est.) |
+| **Madagascar** | -1.7% of GDP (2012 est.) |
+| **Malawi** | -7.9% of GDP (2012 est.) |
+| **Malaysia** | -4.5% of GDP (2012 est.) |
+| **Maldives** | -13.4% of GDP (2012 est.) |
+| **Mali** | -1.2% of GDP (2012 est.) |
+| **Malta** | -3.4% of GDP (2012 est.) |
+| **Marshall Islands** | 0.4% of GDP (FY09 est.) |
+| **Mauritania** | 2.9% of GDP (2012 est.) |
+| **Mauritius** | -1.8% of GDP (2012 est.) |
+| **Mexico** | -2.7% of GDP (2012 est.) |
+| **Micronesia, Federated States of** | 1.6% of GDP (FY10/11 est.) |
+| **Moldova** | -2.1% of GDP (2012 est.) |
+| **Monaco** | -1.3% of GDP (2011 est.) |
+| **Mongolia** | -8.5% of GDP (2012 est.) |
+| **Montenegro** | 2.4% of GDP (2012 est.) |
+| **Morocco** | -8.4% of GDP (2012 est.) |
+| **Mozambique** | -4.2% of GDP (2012 est.) |
+| **Namibia** | -2.8% of GDP (2012 est.) |
+| **Nepal** | -6.4% of GDP (FY11/12) |
+| **Netherlands** | -4.1% of GDP (2012 est.) |
+| **New Caledonia** | NA% of GDP |
+| **New Zealand** | -3.8% of GDP (2012 est.) |
+| **Nicaragua** | -0.2% of GDP (2012 est.) |
+| **Niger** | -2.7% of GDP (2012 est.) |
+| **Nigeria** | -2.1% of GDP (2012 est.) |
+| **Niue** | -12.6% of GDP (FY04/05) |
+| **Northern Mariana Islands** | -7.9% of GDP (FY10/11 est.) |
+| **Norway** | 14% of GDP (2012 est.) |
+| **Oman** | -0.3% of GDP (2012 est.) |
+| **Pakistan** | -6.6% of GDP (2012 est.) |
+| **Palau** | -2.4% of GDP (2010 est.) |
+| **Panama** | -2.1% of GDP (2012 est.) |
+| **Papua New Guinea** | -1.6% of GDP (2012 est.) |
+| **Paraguay** | -1.7% of GDP (2012 est.) |
+| **Peru** | 2.2% of GDP (2012 est.) |
+| **Philippines** | -2.3% of GDP (2012 est.) |
+| **Poland** | -1.9% of GDP (2012 est.) |
+| **Portugal** | -6.5% of GDP (2012 est.) |
+| **Puerto Rico** | -3.1% of GDP (FY99/00) |
+| **Qatar** | 14.4% of GDP (2012 est.) |
+| **Romania** | -2.5% of GDP (2012 est.) |
+| **Russia** | -0.1% of GDP (2012 est.) |
+| **Rwanda** | -1.1% of GDP (2012 est.) |
+| **Saint Kitts and Nevis** | 3.6% of GDP (2012 est.) |
+| **Saint Lucia** | -2.8% of GDP (2011 est.) |
+| **Saint Pierre and Miquelon** | 4.6% of GDP |
+| **Saint Vincent and the Grenadines** | -1% of GDP (2012 est.) |
+| **Samoa** | -4.5% of GDP (2012 est.) |
+| **San Marino** | -1.5% of GDP (2011) |
+| **Sao Tome and Principe** | -10.9% of GDP (2012 est.) |
+| **Saudi Arabia** | 13.1% of GDP (2012 est.) |
+| **Senegal** | -5.9% of GDP (2012 est.) |
+| **Serbia** | -7.6% of GDP (2012 est.) |
+| **Seychelles** | 2.2% of GDP (2012 est.) |
+| **Sierra Leone** | -5.3% of GDP (2012 est.) |
+| **Singapore** | 2.1% of GDP (2012 est.) |
+| **Slovakia** | -4.4% of GDP (2012 est.) |
+| **Slovenia** | -3.2% of GDP (2012 est.) |
+| **Solomon Islands** | 2% of GDP (2012 est.) |
+| **South Africa** | -4.8% of GDP (2012 est.) |
+| **Spain** | -10.9% of GDP (2012 est.) |
+| **Sri Lanka** | -6.5% of GDP (2012 est.) |
+| **Sudan** | -8.6% of GDP (2012 est.) |
+| **Suriname** | -2.4% of GDP (2010 est.) |
+| **Svalbard** | NA% of GDP |
+| **Swaziland** | 0.3% of GDP (2012 est.) |
+| **Sweden** | -0.7% of GDP (2012 est.) |
+| **Switzerland** | 0.1% of GDP (2012 est.) |
+| **Syria** | -11.4% of GDP (2012 est.) |
+| **Taiwan** | -2.6% of GDP (2012 est.) |
+| **Tajikistan** | 1.4% of GDP (2012 est.) |
+| **Tanzania** | -4.1% of GDP (2012 est.) |
+| **Thailand** | -4.4% of GDP (2012 est.) |
+| **Timor-Leste** | -1.6% of GDP (2012 est.) |
+| **Togo** | -3.7% of GDP (2012 est.) |
+| **Tonga** | 0% of GDP (2012 est.) |
+| **Trinidad and Tobago** | -1.1% of GDP (2012 est.) |
+| **Tunisia** | -2.7% of GDP (2012 est.) |
+| **Turkey** | -2.1% of GDP (2012 est.) |
+| **Turkmenistan** | 1.4% of GDP (2012 est.) |
+| **Tuvalu** | -3.8% of GDP (2006) |
+| **Uganda** | -2.9% of GDP (2012 est.) |
+| **Ukraine** | -4.4% of GDP (2012 est.) |
+| **United Arab Emirates** | 7.2% of GDP (2012 est.) |
+| **United Kingdom** | -8.2% of GDP (2012 est.) |
+| **United States** | -6.8% of GDP (2012 est.) |
+| **Uruguay** | -2.8% of GDP (2012 est.) |
+| **Uzbekistan** | 0.2% of GDP (2012 est.) |
+| **Vanuatu** | -1.9% of GDP (2012 est.) |
+| **Venezuela** | -14.8% of GDP (2012 est.) |
+| **Vietnam** | -4.2% of GDP (2012 est.) |
+| **West Bank** | -16.6% of GDP (2011 est.) |
+| **World** | -3.8% of GDP (2012 est.) |
+| **Yemen** | -7.2% of GDP (2012 est.) |
+| **Zambia** | -4.9% of GDP (2012 est.) |
+| **Zimbabwe** | NA% of GDP |

@@ -1,0 +1,831 @@
+FIELD LISTING :: CITIZENSHIP
+
+| Country | PIPELINES |
+| --- | --- |
+| **Afghanistan** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must have been born in - and continuously lived in - Afghanistan |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **Albania** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Albania |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 5 years |
+| **Algeria** | *citizenship by birth:* no |
+| | *citizenship by descent only:* the mother must be a citizen of Algeria |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 7 years |
+| **American Samoa** | see United States |
+| **Andorra** | *citizenship by birth:* no |
+| | *citizenship by descent only:* the mother must be an Andorran citizen or the father must have been born in Andorra and both parents maintain permanent residence in Andorra |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 25 years |
+| **Angola** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Angola |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 10 years |
+| **Anguilla** | see United Kingdom |
+| **Antigua and Barbuda** | *citizenship by birth:* yes |
+| | *citizenship by descent:* yes |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 7 years |
+| **Argentina** | *citizenship by birth:* yes |
+| | *citizenship by descent:* yes |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 2 years |
+| **Armenia** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Armenia |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 3 years |
+| **Aruba** | see the Netherlands |
+| **Ashmore and Cartier Islands** | see Australia |
+| **Australia** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen or permanent resident of Australia |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 4 years |
+| **Austria** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Austria |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 10 years |
+| **Azerbaijan** | *citizenship by birth:* yes |
+| | *citizenship by descent:* yes |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **Bahamas, The** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of The Bahamas |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 6-9 years |
+| **Bahrain** | *citizenship by birth:* no |
+| | *citizenship by descent only:* the father must be a citizen of Bahrain |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 25 years; 15 years for Arab nationals |
+| **Bangladesh** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Bangladesh |
+| | *dual citizenship recognized:* yes, but limited to select countries |
+| | *residency requirement for naturalization:* 5 years |
+| **Barbados** | *citizenship by birth:* yes |
+| | *citizenship by descent:* yes |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 5 years |
+| **Belarus** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Belarus |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 7 years |
+| **Belgium** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Belgium |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 5 years |
+| **Belize** | *citizenship by birth:* yes |
+| | *citizenship by descent:* yes |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 5 years |
+| **Benin** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Benin |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 10 years |
+| **Bermuda** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of the UK |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 10 years |
+| **Bhutan** | *citizenship by birth:* no |
+| | *citizenship by descent only:* the father must be a citizen of Bhutan |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 10 years |
+| **Bolivia** | *citizenship by birth:* yes |
+| | *citizenship by descent:* yes |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 3 years |
+| **Bosnia and Herzegovina** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Bosnia and Herzegovina |
+| | *dual citizenship recognized:* yes, provided there is a bilateral agreement with the other state |
+| | *residency requirement for naturalization:* 8 years |
+| **Botswana** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Botswana |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 10 years |
+| **Brazil** | *citizenship by birth:* yes |
+| | *citizenship by descent:* yes |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 4 years |
+| **British Virgin Islands** | see United Kingdom |
+| **Brunei** | *citizenship by birth:* no |
+| | *citizenship by descent only:* the father must be a citizen of Brunei |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 12 years |
+| **Bulgaria** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Bulgaria |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 5 years |
+| **Burkina Faso** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Burkina Faso |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 10 years |
+| **Burma** | *citizenship by birth:* no |
+| | *citizenship by descent only:* both parents must be citizens of Burma |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* none |
+| | *note:* an applicant for naturalization must be the child or spouse of a citizen |
+| **Burundi** | *citizenship by birth:* no |
+| | *citizenship by descent only:* the father must be a citizen of Burundi |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 10 years |
+| **Cabo Verde** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Cabo Verde |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 5 years |
+| **Cambodia** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Cambodia |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 7 years |
+| **Cameroon** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Cameroon |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **Canada** | *citizenship by birth:* yes |
+| | *citizenship by descent:* yes |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 3 years |
+| **Cayman Islands** | see United Kingdom |
+| **Central African Republic** | *citizenship by birth:* no |
+| | *citizenship by descent only:* least one parent must be a citizen of the Central African Republic |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 35 years |
+| **Chad** | *citizenship by birth:* no |
+| | *citizenship by descent only:* both parents must be citizens of Chad |
+| | *dual citizenship recognized:* Chadian law does not address dual citizenship |
+| | *residency requirement for naturalization:* 15 years |
+| **Chile** | *citizenship by birth:* yes |
+| | *citizenship by descent:* yes |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 5 years |
+| **China** | *citizenship by birth:* no |
+| | *citizenship by descent only:* least one parent must be a citizen of China |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* while naturalization is theoretically possible, in practical terms it is extremely difficult; residency is required but not specified |
+| **Christmas Island** | see Australia |
+| **Cocos (Keeling) Islands** | see Australia |
+| **Colombia** | *citizenship by birth:* no |
+| | *citizenship by descent only:* least one parent must be a citizen or permanent resident of Colombia |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 5 years |
+| **Comoros** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of the Comoros |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 10 years |
+| **Congo, Democratic Republic of the** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of the Democratic Republic of the Congo |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **Congo, Republic of the** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of the Republic of the Congo |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 10 years |
+| **Coral Sea Islands** | see Australia |
+| **Costa Rica** | *citizenship by birth:* yes |
+| | *citizenship by descent:* yes |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 7 years |
+| **Cote d'Ivoire** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Cote d'Ivoire |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **Croatia** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Croatia |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 5 years |
+| **Cuba** | *citizenship by birth:* yes |
+| | *citizenship by descent:* yes |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* unknown |
+| **Curacao** | see the Netherlands |
+| **Cyprus** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Cyprus |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 7 years |
+| **Czechia** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Czechia |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **Denmark** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Denmark |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 7 years |
+| **Djibouti** | *citizenship by birth:* no |
+| | *citizenship by descent only:* the mother must be a citizen of Djibouti |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 10 years |
+| **Dominica** | *citizenship by birth:* yes |
+| | *citizenship by descent:* yes |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 5 years |
+| **Dominican Republic** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of the Dominican Republic |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 2 years |
+| **Ecuador** | *citizenship by birth:* yes |
+| | *citizenship by descent:* yes |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 3 years |
+| **Egypt** | *citizenship by birth:* no |
+| | *citizenship by descent only:* if the father was born in Egypt |
+| | *dual citizenship recognized:* only with prior permission from the government |
+| | *residency requirement for naturalization:* 10 years |
+| **El Salvador** | *citizenship by birth:* yes |
+| | *citizenship by descent:* yes |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 5 years |
+| **Equatorial Guinea** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Equatorial Guinea |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 10 years |
+| **Eritrea** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Eritrea |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 20 years |
+| **Estonia** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Estonia |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **Ethiopia** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Ethiopia |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 4 years |
+| **Falkland Islands (Islas Malvinas)** | see United Kingdom |
+| **Faroe Islands** | see Denmark |
+| **Fiji** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Fiji |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 5 years |
+| **Finland** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Finland |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 6 years |
+| **France** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of France |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 5 years |
+| **French Polynesia** | see France |
+| **French Southern and Antarctic Lands** | see France |
+| **Gabon** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Gabon |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 10 years |
+| **Gambia, The** | *citizenship by birth:* yes |
+| | *citizenship by descent:* yes |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **Georgia** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Georgia |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 10 years |
+| **Germany** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a German citizen or a resident alien who has lived in Germany at least 8 years |
+| | *dual citizenship recognized:* yes, but requires prior permission from government |
+| | *residency requirement for naturalization:* 8 years |
+| **Ghana** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent or grandparent must be a citizen of Ghana |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 5 years |
+| **Gibraltar** | see United Kingdom |
+| **Greece** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Greece |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 10 years |
+| **Greenland** | see Denmark |
+| **Grenada** | *citizenship by birth:* yes |
+| | *citizenship by descent:* yes |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 7 years for persons from a non-Caribbean state and 4 years for a person from a Caribbean state |
+| **Guam** | see United States |
+| **Guatemala** | *citizenship by birth:* yes |
+| | *citizenship by descent:* yes |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 5 years with no absences of six consecutive months or longer or absences totaling more than a year |
+| **Guernsey** | see United Kingdom |
+| **Guinea-Bissau** | *citizenship by birth:* yes |
+| | *citizenship by descent:* yes |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **Guinea** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Guinea |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* na |
+| **Guyana** | *citizenship by birth:* yes |
+| | *citizenship by descent:* yes |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* na |
+| **Haiti** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a native-born citizen of Haiti |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **Holy See (Vatican City)** | *citizenship by birth:* no |
+| | *citizenship by descent:* no |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* not applicable |
+| | *note:* in the Holy See, citizenship is acquired by law, ex iure, or by adminstrative decision; in the first instance, citizenship is a function of holding office within the Holy See as in the case of cardinals resident in Vatican City or diplomats of the Holy See; in the second instance, citizenship may be requested in a limited set of circumstances for those who reside within Vatican City under papal authorization, as a function of their office or service, or as the spouses and children of current citizens; citizenship is lost once an individual no longer permanently resides in Vatican City, normally reverting to the citizenship previously held |
+| **Honduras** | *citizenship by birth:* yes |
+| | *citizenship by descent:* yes |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 1 to 3 years |
+| **Hong Kong** | see China |
+| **Hungary** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Hungary |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 8 years |
+| **Iceland** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Iceland |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 3 to 7 years |
+| **India** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of India |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **Indonesia** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Indonesia |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 continuous years |
+| **Iran** | *citizenship by birth:* no |
+| | *citizenship by descent only:* the father must be a citizen of Iran |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **Iraq** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Iraq |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 10 years |
+| **Ireland** | *citizenship by birth:* yes |
+| | *citizenship by descent:* yes |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 4 of the previous 8 years |
+| **Isle of Man** | see United Kingdom |
+| **Israel** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Israel |
+| | *dual citizenship recognized:* yes, but naturalized citizens are not allowed to maintain dual citizenship |
+| | *residency requirement for naturalization:* 3 out of the 5 years preceding the application for naturalization |
+| | *note:* Israeli law (Law of Return, 5 July 1950) provides for the granting of citizenship to any Jew - defined as a person being born to a Jewish mother or having converted to Judaism while renouncing any other religion - who immigrates to and expresses a desire to settle in Israel on the basis of the Right of aliyah; the 1970 amendment of this act extended the right to family members including the spouse of a Jew, any child or grandchild, and the spouses of children and grandchildren |
+| **Italy** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Italy |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 4 years for EU nationals, 5 years for refugees and specified exceptions, 10 years for all others |
+| **Jamaica** | *citizenship by birth:* yes |
+| | *citizenship by descent:* yes |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 4 out of the previous 5 years |
+| **Japan** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Japan |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **Jersey** | see United Kingdom |
+| **Jordan** | *citizenship by birth:* no |
+| | *citizenship by descent only:* the father must be a citizen of Jordan |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 15 years |
+| **Kazakhstan** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Kazakhstan |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **Kenya** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Kenya |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 4 out of the previous 7 years |
+| **Kiribati** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a native-born citizen of Kiribati |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 7 years |
+| **Korea, North** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of North Korea |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* unknown |
+| **Korea, South** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of South Korea |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **Kosovo** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Kosovo |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 5 years |
+| **Kuwait** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Kuwait |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* not specified |
+| **Kyrgyzstan** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Kyrgyzstan |
+| | *dual citizenship recognized:* yes, but only if a mutual treaty on dual citizenship is in force |
+| | *residency requirement for naturalization:* 5 years |
+| **Laos** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Laos |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 10 years |
+| **Latvia** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Latvia |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **Lebanon** | *citizenship by birth:* no |
+| | *citizenship by descent only:* the father must be a citizen of Lebanon |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* unknown |
+| **Lesotho** | *citizenship by birth:* yes |
+| | *citizenship by descent:* yes |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **Liberia** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Liberia |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 2 years |
+| **Libya** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent or grandparent must be a citizen of Libya |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* varies from 3 to 5 years |
+| **Liechtenstein** | *citizenship by birth:* no |
+| | *citizenship by descent only:* the father must be a citizen of Liechtenstein; in the case of a child born out of wedlock, the mother must be a citizen |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **Lithuania** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Lithuania |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 10 years |
+| **Luxembourg** | *citizenship by birth:* limited to situations where the parents are either unknown, stateless, or when the nationality law of the parents' state of origin does not permit acquisition of citizenship by descent when the birth occurs outside of national territory |
+| | *citizenship by descent:* at least one parent must be a citizen of Luxembourg |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 7 years |
+| **Macau** | see China |
+| **Macedonia** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Macedonia |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 8 years |
+| **Madagascar** | *citizenship by birth:* no |
+| | *citizenship by descent only:* the father must be a citizen of Madagascar; in the case of a child born out of wedlock, the mother must be a citizen |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* unknown |
+| **Malawi** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Malawi |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 7 years |
+| **Malaysia** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Malaysia |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 10 out 12 years preceding application |
+| **Maldives** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of the Maldives |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* unknown |
+| **Mali** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Mali |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 5 years |
+| **Malta** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Malta |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **Marshall Islands** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of the Marshall Islands |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **Mauritania** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Mauritania |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **Mauritius** | *citizenship by birth:* yes |
+| | *citizenship by descent:* yes |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 5 out of the previous 7 years including the last 12 months |
+| **Mexico** | *citizenship by birth:* yes |
+| | *citizenship by descent:* yes |
+| | *dual citizenship recognized:* not specified |
+| | *residency requirement for naturalization:* 5 years |
+| **Micronesia, Federated States of** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of FSM |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **Midway Islands** | see United States |
+| **Moldova** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Moldova |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 10 years |
+| **Monaco** | *citizenship by birth:* no |
+| | *citizenship by descent only:* the father must be a citizen of Monaco; in the case of a child born out of wedlock, the mother must be a citizen and father unknown |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 10 years |
+| **Mongolia** | *citizenship by birth:* no |
+| | *citizenship by descent only:* both parents must be citizens of Mongolia; one parent if born within Mongolia |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **Montenegro** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Montenegro |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 10 years |
+| **Montserrat** | see United Kingdom |
+| **Morocco** | *citizenship by birth:* no |
+| | *citizenship by descent only:* the father must be a citizen of Morocco; if the father is unknown or stateless, the mother must be a citizen |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 5 years |
+| **Mozambique** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Mozambique |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **Namibia** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Namibia |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **Nepal** | *citizenship by birth:* yes |
+| | *citizenship by descent:* yes |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 15 years |
+| **Netherlands** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of the Netherlands |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **New Caledonia** | see France |
+| **New Zealand** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of New Zealand |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 3 years |
+| **Nicaragua** | *citizenship by birth:* yes |
+| | *citizenship by descent:* yes |
+| | *dual citizenship recognized:* no, except in cases where bilateral agreements exist |
+| | *residency requirement for naturalization:* 4 years |
+| **Nigeria** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Nigeria |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 15 years |
+| **Niger** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Niger |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* unknown |
+| **Norfolk Island** | see Australia |
+| **Northern Mariana Islands** | see United States |
+| **Norway** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Norway |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 7 years |
+| **Oman** | *citizenship by birth:* no |
+| | *citizenship by descent only:* the father must be a citizen of Oman |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* unknown |
+| **Pakistan** | *citizenship by birth:* yes |
+| | *citizenship by descent:* at least one parent must be a citizen of Pakistan |
+| | *dual citizenship recognized:* yes, but limited to select countries |
+| | *residency requirement for naturalization:* 4 out of the previous 7 years and including the 12 months preceding application |
+| **Palau** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Palau |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* note - no procedure for naturalization |
+| **Panama** | *citizenship by birth:* yes |
+| | *citizenship by descent:* yes |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **Papua New Guinea** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Papua New Guinea |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 8 years |
+| **Paraguay** | *citizenship by birth:* yes |
+| | *citizenship by descent:* at least one parent must be a native-born citizen of Paraguay |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 3 years |
+| **Peru** | *citizenship by birth:* yes |
+| | *citizenship by descent:* yes |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 2 years |
+| **Philippines** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of the Philippines |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 10 years |
+| **Pitcairn Islands** | see United Kingdom |
+| **Poland** | *citizenship by birth:* no |
+| | *citizenship by descent only:* both parents must be citizens of Poland |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **Portugal** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Portugal |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 10 years; 6 years if from a Portuguese-speaking country |
+| **Puerto Rico** | see United States |
+| **Qatar** | *citizenship by birth:* no |
+| | *citizenship by descent only:* the father must be a citizen of Qatar |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 20 years; 15 years if an Arab national |
+| **Romania** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Romania |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 5 years |
+| **Russia** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Russia |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 3-5 years |
+| **Rwanda** | *citizenship by birth:* no |
+| | *citizenship by descent only:* the father must be a citizen of Rwanda; if the father is stateless or unknown, the mother must be a citizen |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 10 years |
+| **Saint Barthelemy** | see France |
+| **Saint Helena, Ascension, and Tristan da Cunha** | see United Kingdom |
+| **Saint Kitts and Nevis** | *citizenship by birth:* yes |
+| | *citizenship by descent:* yes |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 14 years |
+| **Saint Lucia** | *citizenship by birth:* yes |
+| | *citizenship by descent:* at least one parent must be a citizen of Saint Lucia |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 8 years |
+| **Saint Martin** | see France |
+| **Saint Pierre and Miquelon** | see France |
+| **Saint Vincent and the Grenadines** | *citizenship by birth:* yes |
+| | *citizenship by descent:* at least one parent must be a citizen of Saint Vincent and the Grenadines |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 7 years |
+| **Samoa** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Samoa |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **San Marino** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of San Marino |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 30 years |
+| **Sao Tome and Principe** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Sao Tome and Principe |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **Saudi Arabia** | *citizenship by birth:* no |
+| | *citizenship by descent only:* the father must be a citizen of Saudi Arabia; a child born out of wedlock in Saudi Arabia to a Saudi mother and unknown father |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **Senegal** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Senegal |
+| | *dual citizenship recognized:* no, but Senegalese citizens do not automatically lose their citizenship if they acquire citizenship in another state |
+| | *residency requirement for naturalization:* 5 years |
+| **Serbia** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Serbia |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 3 years |
+| **Seychelles** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of the Seychelles |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **Sierra Leone** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent or grandparent must be a citizen of Sierra Leone |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 5 years |
+| **Singapore** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Singapore |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 10 years |
+| **Sint Maarten** | see the Netherlands |
+| **Slovakia** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Slovakia |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **Slovenia** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Slovenia; both parents if the child is born outside of Slovenia |
+| | *dual citizenship recognized:* yes, for select cases |
+| | *residency requirement for naturalization:* 10 years, the last 5 of which have been continuous |
+| **Solomon Islands** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of the Solomon Islands |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 7 years |
+| **Somalia** | *citizenship by birth:* no |
+| | *citizenship by descent only:* the father must be a citizen of Somalia |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 7 years |
+| **South Africa** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of South Africa |
+| | *dual citizenship recognized:* yes, but requires prior permission of the government |
+| | *residency requirement for naturalization:* 1 year |
+| **South Sudan** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of South Sudan |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 10 years |
+| **Spain** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Spain |
+| | *dual citizenship recognized:* only with select Latin American countries |
+| | *residency requirement for naturalization:* 10 years for persons with no ties to Spain |
+| **Sri Lanka** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Sri Lanka |
+| | *dual citizenship recognized:* no, except in cases where the government rules it is to the benefit of Sri Lanka |
+| | *residency requirement for naturalization:* 7 years |
+| **Sudan** | *citizenship by birth:* no |
+| | *citizenship by descent only:* the father must be a citizen of Sudan |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 10 years |
+| **Suriname** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Suriname |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **Svalbard** | see Norway |
+| **Swaziland** | *citizenship by birth:* no |
+| | *citizenship by descent only:* both parents must be citizens of Swaziland |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **Sweden** | *citizenship by birth:* no |
+| | *citizenship by descent only:* the father must be a citizen of Sweden; in the case of a child born out of wedlock, the mother must be a citizen of Sweden and the father unknown |
+| | *dual citizenship recognized:* no, unless the other citizenship was acquired involuntarily |
+| | *residency requirement for naturalization:* 5 years |
+| **Switzerland** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Switzerland |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 12 years including at least 3 of the last 5 years prior to application |
+| **Syria** | *citizenship by birth:* no |
+| | *citizenship by descent only:* the father must be a citizen of Syria; if the father is unknown or stateless, the mother must be a citizen of Syria |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 10 years |
+| **Taiwan** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Taiwan |
+| | *dual citizenship recognized:* yes, except that citizens of Taiwan are not recognized as dual citizens of the People's Republic of China |
+| | *residency requirement for naturalization:* 5 years |
+| **Tajikistan** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Tajikistan |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years or 3 years of continuous residence prior to application |
+| **Tanzania** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Tanzania; if a child is born abroad, the father must be a citizen of Tanzania |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **Thailand** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Thailand |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **Timor-Leste** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Timor-Leste |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 10 years |
+| **Togo** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Togo |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 5 years |
+| **Tokelau** | see New Zealand |
+| **Tonga** | *citizenship by birth:* no |
+| | *citizenship by descent only:* the father must be a citizen of Tonga; if a child is born out of wedlock, the mother must be a citizen of Tonga |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 5 years |
+| **Trinidad and Tobago** | *citizenship by birth:* yes |
+| | *citizenship by descent:* yes |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 8 years |
+| **Tunisia** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Tunisia |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 5 years |
+| **Turkey** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Turkey |
+| | *dual citizenship recognized:* yes, but requires prior permission from the government |
+| | *residency requirement for naturalization:* 5 years |
+| **Turkmenistan** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Turkmenistan |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 7 years |
+| **Turks and Caicos Islands** | see United Kingdom |
+| **Tuvalu** | *citizenship by birth:* yes |
+| | *citizenship by descent:* yes; for a child born abroad, at least one parent must be a citizen of Tuvalu |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* na |
+| **Uganda** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent or grandparent must be a native-born citizen of Uganda |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* an aggregate of 20 years and continuously for the last 2 years prior to applying for citizenship |
+| **Ukraine** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Ukraine |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **United Arab Emirates** | *citizenship by birth:* no |
+| | *citizenship by descent only:* the father must be a citizen of the United Arab Emirates; if the father is unknown, the mother must be a citizen |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 30 years |
+| **United Kingdom** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of the United Kingdom |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 5 years |
+| **United States** | *citizenship by birth:* yes |
+| | *citizenship by descent:* yes |
+| | *dual citizenship recognized:* no, but the US government acknowledges such situtations exist; US citizens are not encouraged to seek dual citizenship since it limits protection by the US |
+| | *residency requirement for naturalization:* 5 years |
+| **Uruguay** | *citizenship by birth:* yes |
+| | *citizenship by descent:* yes |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 3-5 years |
+| **Uzbekistan** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Uzbekistan |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **Vanuatu** | *citizenship by birth:* no |
+| | *citizenship by descent only:* both parents must be citizens of Vanuatu; in the case of only one parent, it must be the father who is a citizen |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 10 years |
+| **Venezuela** | *citizenship by birth:* yes |
+| | *citizenship by descent:* yes |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **Vietnam** | *citizenship by birth:* no |
+| | *citizenship by descent only:* at least one parent must be a citizen of Vietnam |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |
+| **Virgin Islands** | see United States |
+| **Wake Island** | see United States |
+| **Wallis and Futuna** | see France |
+| **Yemen** | *citizenship by birth:* no |
+| | *citizenship by descent only:* the father must be a citizen of Yemen; if the father is unknown, the mother must be a citizen |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 10 years |
+| **Zambia** | *citizenship by birth:* only if at least one parent is a citizen of Zambia |
+| | *citizenship by descent:* yes, if at least one parent was a citizen of Zambia |
+| | *dual citizenship recognized:* yes |
+| | *residency requirement for naturalization:* 5 years for those with an ancestor who was a citizen of Zambia, otherwise 10 years residency is required |
+| **Zimbabwe** | *citizenship by birth:* no |
+| | *citizenship by descent only:* the father must be a citizen of Zimbabwe; in the case of a child born out of wedlock, the mother must be a citizen |
+| | *dual citizenship recognized:* no |
+| | *residency requirement for naturalization:* 5 years |

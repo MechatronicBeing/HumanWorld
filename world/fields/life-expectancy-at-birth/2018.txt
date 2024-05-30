@@ -1,0 +1,706 @@
+Field Listing :: Life expectancy at birth :: The World Factbook - Central Intelligence Agency
+
+This entry contains the average number of years to be lived by a group of people born in the same year, if mortality at each age remains constant in the future. Life expectancy at birth is also a measure of overall quality of life in a country and summarizes the mortality at all ages. It can also be thought of as indicating the potential return on investment in human capital and is necessary for the calculation of various actuarial measures.
+
+| Country | Life expectancy at birth |
+| --- | --- |
+| **Afghanistan** | *total population:* 52.1 years (2018 est.) |
+| | *male:* 50.6 years (2018 est.) |
+| | *female:* 53.6 years (2018 est.) |
+| **Albania** | *total population:* 78.6 years (2018 est.) |
+| | *male:* 76 years (2018 est.) |
+| | *female:* 81.6 years (2018 est.) |
+| **Algeria** | *total population:* 77.2 years (2018 est.) |
+| | *male:* 75.8 years (2018 est.) |
+| | *female:* 78.7 years (2018 est.) |
+| **American Samoa** | *total population:* 73.9 years (2018 est.) |
+| | *male:* 71.6 years (2018 est.) |
+| | *female:* 76.2 years (2018 est.) |
+| **Andorra** | *total population:* 82.9 years (2018 est.) |
+| | *male:* 80.7 years (2018 est.) |
+| | *female:* 85.3 years (2018 est.) |
+| **Angola** | *total population:* 60.6 years (2018 est.) |
+| | *male:* 58.5 years (2018 est.) |
+| | *female:* 62.7 years (2018 est.) |
+| **Anguilla** | *total population:* 81.6 years (2018 est.) |
+| | *male:* 79 years (2018 est.) |
+| | *female:* 84.3 years (2018 est.) |
+| **Antigua and Barbuda** | *total population:* 76.9 years (2018 est.) |
+| | *male:* 74.8 years (2018 est.) |
+| | *female:* 79.2 years (2018 est.) |
+| **Argentina** | *total population:* 77.5 years (2018 est.) |
+| | *male:* 74.4 years (2018 est.) |
+| | *female:* 80.8 years (2018 est.) |
+| **Armenia** | *total population:* 75.1 years (2018 est.) |
+| | *male:* 71.8 years (2018 est.) |
+| | *female:* 78.7 years (2018 est.) |
+| **Aruba** | *total population:* 77.1 years (2018 est.) |
+| | *male:* 74.1 years (2018 est.) |
+| | *female:* 80.3 years (2018 est.) |
+| **Australia** | *total population:* 82.4 years (2018 est.) |
+| | *male:* 79.9 years (2018 est.) |
+| | *female:* 85 years (2018 est.) |
+| **Austria** | *total population:* 81.7 years (2018 est.) |
+| | *male:* 79 years (2018 est.) |
+| | *female:* 84.5 years (2018 est.) |
+| **Azerbaijan** | *total population:* 73 years (2018 est.) |
+| | *male:* 70 years (2018 est.) |
+| | *female:* 76.4 years (2018 est.) |
+| **Bahamas, The** | *total population:* 72.9 years (2018 est.) |
+| | *male:* 70.4 years (2018 est.) |
+| | *female:* 75.4 years (2018 est.) |
+| **Bahrain** | *total population:* 79.1 years (2018 est.) |
+| | *male:* 76.9 years (2018 est.) |
+| | *female:* 81.5 years (2018 est.) |
+| **Bangladesh** | *total population:* 73.7 years (2018 est.) |
+| | *male:* 71.5 years (2018 est.) |
+| | *female:* 75.9 years (2018 est.) |
+| **Barbados** | *total population:* 75.7 years (2018 est.) |
+| | *male:* 73.3 years (2018 est.) |
+| | *female:* 78.1 years (2018 est.) |
+| **Belarus** | *total population:* 73.2 years (2018 est.) |
+| | *male:* 67.8 years (2018 est.) |
+| | *female:* 79 years (2018 est.) |
+| **Belgium** | *total population:* 81.2 years (2018 est.) |
+| | *male:* 78.6 years (2018 est.) |
+| | *female:* 83.9 years (2018 est.) |
+| **Belize** | *total population:* 74.7 years (2018 est.) |
+| | *male:* 73.1 years (2018 est.) |
+| | *female:* 76.3 years (2018 est.) |
+| **Benin** | *total population:* 62.7 years (2018 est.) |
+| | *male:* 61.2 years (2018 est.) |
+| | *female:* 64.2 years (2018 est.) |
+| **Bermuda** | *total population:* 81.5 years (2018 est.) |
+| | *male:* 78.3 years (2018 est.) |
+| | *female:* 84.7 years (2018 est.) |
+| **Bhutan** | *total population:* 71.1 years (2018 est.) |
+| | *male:* 70.1 years (2018 est.) |
+| | *female:* 72.2 years (2018 est.) |
+| **Bolivia** | *total population:* 69.8 years (2018 est.) |
+| | *male:* 67 years (2018 est.) |
+| | *female:* 72.8 years (2018 est.) |
+| **Bosnia and Herzegovina** | *total population:* 77.1 years (2018 est.) |
+| | *male:* 74.1 years (2018 est.) |
+| | *female:* 80.3 years (2018 est.) |
+| **Botswana** | *total population:* 63.8 years (2018 est.) |
+| | *male:* 61.8 years (2018 est.) |
+| | *female:* 66 years (2018 est.) |
+| **Brazil** | *total population:* 74.3 years (2018 est.) |
+| | *male:* 70.7 years (2018 est.) |
+| | *female:* 78 years (2018 est.) |
+| **British Virgin Islands** | *total population:* 78.9 years (2018 est.) |
+| | *male:* 77.5 years (2018 est.) |
+| | *female:* 80.4 years (2018 est.) |
+| **Brunei** | *total population:* 77.5 years (2018 est.) |
+| | *male:* 75.2 years (2018 est.) |
+| | *female:* 80 years (2018 est.) |
+| **Bulgaria** | *total population:* 74.8 years (2018 est.) |
+| | *male:* 71.5 years (2018 est.) |
+| | *female:* 78.3 years (2018 est.) |
+| **Burkina Faso** | *total population:* 61.8 years (2018 est.) |
+| | *male:* 60.1 years (2018 est.) |
+| | *female:* 63.6 years (2018 est.) |
+| **Burma** | *total population:* 68.6 years (2018 est.) |
+| | *male:* 67 years (2018 est.) |
+| | *female:* 70.3 years (2018 est.) |
+| **Burundi** | *total population:* 61.4 years (2018 est.) |
+| | *male:* 59.6 years (2018 est.) |
+| | *female:* 63.2 years (2018 est.) |
+| **Cabo Verde** | *total population:* 72.7 years (2018 est.) |
+| | *male:* 70.3 years (2018 est.) |
+| | *female:* 75.1 years (2018 est.) |
+| **Cambodia** | *total population:* 65.2 years (2018 est.) |
+| | *male:* 62.7 years (2018 est.) |
+| | *female:* 67.9 years (2018 est.) |
+| **Cameroon** | *total population:* 59.4 years (2018 est.) |
+| | *male:* 58 years (2018 est.) |
+| | *female:* 60.9 years (2018 est.) |
+| **Canada** | *total population:* 82 years (2018 est.) |
+| | *male:* 79.4 years (2018 est.) |
+| | *female:* 84.8 years (2018 est.) |
+| **Cayman Islands** | *total population:* 81.4 years (2018 est.) |
+| | *male:* 78.7 years (2018 est.) |
+| | *female:* 84.2 years (2018 est.) |
+| **Central African Republic** | *total population:* 53.3 years (2018 est.) |
+| | *male:* 51.9 years (2018 est.) |
+| | *female:* 54.7 years (2018 est.) |
+| **Chad** | *total population:* 57.5 years (2018 est.) |
+| | *male:* 55.7 years (2018 est.) |
+| | *female:* 59.3 years (2018 est.) |
+| **Chile** | *total population:* 79.1 years (2018 est.) |
+| | *male:* 76 years (2018 est.) |
+| | *female:* 82.2 years (2018 est.) |
+| **China** | *total population:* 75.8 years (2018 est.) |
+| | *male:* 73.7 years (2018 est.) |
+| | *female:* 78.1 years (2018 est.) |
+| **Christmas Island** | *total population:* NA (2017 est.) |
+| | *male:* NA (2017 est.) |
+| | *female:* NA (2017 est.) |
+| **Cocos (Keeling) Islands** | *total population:* NA (2017 est.) |
+| | *male:* NA (2017 est.) |
+| | *female:* NA (2017 est.) |
+| **Colombia** | *total population:* 76.2 years (2018 est.) |
+| | *male:* 73 years (2018 est.) |
+| | *female:* 79.5 years (2018 est.) |
+| **Comoros** | *total population:* 64.9 years (2018 est.) |
+| | *male:* 62.6 years (2018 est.) |
+| | *female:* 67.4 years (2018 est.) |
+| **Congo, Democratic Republic of the** | *total population:* 58.1 years (2018 est.) |
+| | *male:* 56.5 years (2018 est.) |
+| | *female:* 59.7 years (2018 est.) |
+| **Congo, Republic of the** | *total population:* 60.3 years (2018 est.) |
+| | *male:* 59 years (2018 est.) |
+| | *female:* 61.6 years (2018 est.) |
+| **Cook Islands** | *total population:* 76.2 years (2018 est.) |
+| | *male:* 73.4 years (2018 est.) |
+| | *female:* 79.2 years (2018 est.) |
+| **Costa Rica** | *total population:* 78.9 years (2018 est.) |
+| | *male:* 76.2 years (2018 est.) |
+| | *female:* 81.7 years (2018 est.) |
+| **Cote d'Ivoire** | *total population:* 60.1 years (2018 est.) |
+| | *male:* 58 years (2018 est.) |
+| | *female:* 62.4 years (2018 est.) |
+| **Croatia** | *total population:* 76.3 years (2018 est.) |
+| | *male:* 73.2 years (2018 est.) |
+| | *female:* 79.6 years (2018 est.) |
+| **Cuba** | *total population:* 78.9 years (2018 est.) |
+| | *male:* 76.6 years (2018 est.) |
+| | *female:* 81.4 years (2018 est.) |
+| **Curacao** | *total population:* 78.6 years (2018 est.) |
+| | *male:* 76.3 years (2018 est.) |
+| | *female:* 81.1 years (2018 est.) |
+| **Cyprus** | *total population:* 79 years (2018 est.) |
+| | *male:* 76.2 years (2018 est.) |
+| | *female:* 81.9 years (2018 est.) |
+| **Czechia** | *total population:* 78.9 years (2018 est.) |
+| | *male:* 76 years (2018 est.) |
+| | *female:* 82.1 years (2018 est.) |
+| **Denmark** | *total population:* 81 years (2018 est.) |
+| | *male:* 79.1 years (2018 est.) |
+| | *female:* 83.1 years (2018 est.) |
+| **Djibouti** | *total population:* 64 years (2018 est.) |
+| | *male:* 61.4 years (2018 est.) |
+| | *female:* 66.6 years (2018 est.) |
+| **Dominica** | *total population:* 77.4 years (2018 est.) |
+| | *male:* 74.4 years (2018 est.) |
+| | *female:* 80.5 years (2018 est.) |
+| **Dominican Republic** | *total population:* 71.3 years (2018 est.) |
+| | *male:* 69.7 years (2018 est.) |
+| | *female:* 73.1 years (2018 est.) |
+| **Ecuador** | *total population:* 77.1 years (2018 est.) |
+| | *male:* 74.2 years (2018 est.) |
+| | *female:* 80.3 years (2018 est.) |
+| **Egypt** | *total population:* 73.2 years (2018 est.) |
+| | *male:* 71.8 years (2018 est.) |
+| | *female:* 74.7 years (2018 est.) |
+| **El Salvador** | *total population:* 75.1 years (2018 est.) |
+| | *male:* 71.8 years (2018 est.) |
+| | *female:* 78.6 years (2018 est.) |
+| **Equatorial Guinea** | *total population:* 65 years (2018 est.) |
+| | *male:* 63.8 years (2018 est.) |
+| | *female:* 66.2 years (2018 est.) |
+| **Eritrea** | *total population:* 65.6 years (2018 est.) |
+| | *male:* 63 years (2018 est.) |
+| | *female:* 68.2 years (2018 est.) |
+| **Estonia** | *total population:* 77 years (2018 est.) |
+| | *male:* 72.3 years (2018 est.) |
+| | *female:* 82 years (2018 est.) |
+| **Eswatini** | *total population:* 57.2 years |
+| | *male:* 55.1 years |
+| | *female:* 59.3 years (2018 est.) |
+| **Ethiopia** | *total population:* 63 years |
+| | *male:* 60.5 years |
+| | *female:* 65.5 years (2018 est.) |
+| **European Union** | *total population:* 80.7 years |
+| | *male:* 77.9 years |
+| | *female:* 83.6 years (2018 est.) |
+| **Falkland Islands (Islas Malvinas)** | *total population:* 77.9 (2017 est.) |
+| | *male:* 75.6 (2017 est.) |
+| | *female:* 79.6 (2017 est.) |
+| **Faroe Islands** | *total population:* 80.6 years (2018 est.) |
+| | *male:* 78.1 years (2018 est.) |
+| | *female:* 83.3 years (2018 est.) |
+| **Fiji** | *total population:* 73.2 years (2018 est.) |
+| | *male:* 70.5 years (2018 est.) |
+| | *female:* 76 years (2018 est.) |
+| **Finland** | *total population:* 81.1 years (2018 est.) |
+| | *male:* 78.1 years (2018 est.) |
+| | *female:* 84.2 years (2018 est.) |
+| **France** | *total population:* 82 years (2018 est.) |
+| | *male:* 78.9 years (2018 est.) |
+| | *female:* 85.3 years (2018 est.) |
+| **French Polynesia** | *total population:* 77.5 years (2018 est.) |
+| | *male:* 75.2 years (2018 est.) |
+| | *female:* 80 years (2018 est.) |
+| **Gabon** | *total population:* 68 years (2018 est.) |
+| | *male:* 66.3 years (2018 est.) |
+| | *female:* 69.6 years (2018 est.) |
+| **Gambia, The** | *total population:* 65.4 years (2018 est.) |
+| | *male:* 63 years (2018 est.) |
+| | *female:* 67.8 years (2018 est.) |
+| **Gaza Strip** | *total population:* 74.4 years (2018 est.) |
+| | *male:* 72.7 years (2018 est.) |
+| | *female:* 76.2 years (2018 est.) |
+| **Georgia** | *total population:* 76.6 years (2018 est.) |
+| | *male:* 72.5 years (2018 est.) |
+| | *female:* 80.9 years (2018 est.) |
+| **Germany** | *total population:* 80.9 years (2018 est.) |
+| | *male:* 78.6 years (2018 est.) |
+| | *female:* 83.4 years (2018 est.) |
+| **Ghana** | *total population:* 67.4 years (2018 est.) |
+| | *male:* 64.9 years (2018 est.) |
+| | *female:* 70 years (2018 est.) |
+| **Gibraltar** | *total population:* 79.7 years (2018 est.) |
+| | *male:* 76.8 years (2018 est.) |
+| | *female:* 82.8 years (2018 est.) |
+| **Greece** | *total population:* 80.8 years (2018 est.) |
+| | *male:* 78.2 years (2018 est.) |
+| | *female:* 83.6 years (2018 est.) |
+| **Greenland** | *total population:* 72.9 years (2018 est.) |
+| | *male:* 70.2 years (2018 est.) |
+| | *female:* 75.8 years (2018 est.) |
+| **Grenada** | *total population:* 74.8 years (2018 est.) |
+| | *male:* 72.1 years (2018 est.) |
+| | *female:* 77.6 years (2018 est.) |
+| **Guam** | *total population:* 76.4 years (2018 est.) |
+| | *male:* 73.9 years (2018 est.) |
+| | *female:* 78.9 years (2018 est.) |
+| **Guatemala** | *total population:* 71.8 years (2018 est.) |
+| | *male:* 69.8 years (2018 est.) |
+| | *female:* 73.9 years (2018 est.) |
+| **Guernsey** | *total population:* 82.7 years (2018 est.) |
+| | *male:* 80 years (2018 est.) |
+| | *female:* 85.5 years (2018 est.) |
+| **Guinea** | *total population:* 62.1 years (2018 est.) |
+| | *male:* 60.4 years (2018 est.) |
+| | *female:* 64 years (2018 est.) |
+| **Guinea-Bissau** | *total population:* 61.4 years (2018 est.) |
+| | *male:* 59.2 years (2018 est.) |
+| | *female:* 63.6 years (2018 est.) |
+| **Guyana** | *total population:* 68.9 years (2018 est.) |
+| | *male:* 65.9 years (2018 est.) |
+| | *female:* 72.1 years (2018 est.) |
+| **Haiti** | *total population:* 64.6 years (2018 est.) |
+| | *male:* 61.9 years (2018 est.) |
+| | *female:* 67.2 years (2018 est.) |
+| **Honduras** | *total population:* 71.3 years (2018 est.) |
+| | *male:* 69.6 years (2018 est.) |
+| | *female:* 73 years (2018 est.) |
+| **Hong Kong** | *total population:* 83.1 years (2018 est.) |
+| | *male:* 80.4 years (2018 est.) |
+| | *female:* 86 years (2018 est.) |
+| **Hungary** | *total population:* 76.3 years (2018 est.) |
+| | *male:* 72.6 years (2018 est.) |
+| | *female:* 80.2 years (2018 est.) |
+| **Iceland** | *total population:* 83.1 years (2018 est.) |
+| | *male:* 80.9 years (2018 est.) |
+| | *female:* 85.5 years (2018 est.) |
+| **India** | *total population:* 69.1 years (2018 est.) |
+| | *male:* 67.8 years (2018 est.) |
+| | *female:* 70.5 years (2018 est.) |
+| **Indonesia** | *total population:* 73.2 years (2018 est.) |
+| | *male:* 70.6 years (2018 est.) |
+| | *female:* 76 years (2018 est.) |
+| **Iran** | *total population:* 74.2 years (2018 est.) |
+| | *male:* 72.8 years (2018 est.) |
+| | *female:* 75.6 years (2018 est.) |
+| **Iraq** | *total population:* 74.9 years (2018 est.) |
+| | *male:* 72.6 years (2018 est.) |
+| | *female:* 77.2 years (2018 est.) |
+| **Ireland** | *total population:* 81 years (2018 est.) |
+| | *male:* 78.7 years (2018 est.) |
+| | *female:* 83.5 years (2018 est.) |
+| **Isle of Man** | *total population:* 81.4 years (2018 est.) |
+| | *male:* 79.6 years (2018 est.) |
+| | *female:* 83.3 years (2018 est.) |
+| **Israel** | *total population:* 82.7 years (2018 est.) |
+| | *male:* 80.8 years (2018 est.) |
+| | *female:* 84.7 years (2018 est.) |
+| **Italy** | *total population:* 82.4 years (2018 est.) |
+| | *male:* 79.7 years (2018 est.) |
+| | *female:* 85.2 years (2018 est.) |
+| **Jamaica** | *total population:* 74.5 years (2018 est.) |
+| | *male:* 72.7 years (2018 est.) |
+| | *female:* 76.5 years (2018 est.) |
+| **Japan** | *total population:* 85.5 years (2018 est.) |
+| | *male:* 82.2 years (2018 est.) |
+| | *female:* 89 years (2018 est.) |
+| **Jersey** | *total population:* 82 years (2018 est.) |
+| | *male:* 79.5 years (2018 est.) |
+| | *female:* 84.7 years (2018 est.) |
+| **Jordan** | *total population:* 75 years (2018 est.) |
+| | *male:* 73.6 years (2018 est.) |
+| | *female:* 76.6 years (2018 est.) |
+| **Kazakhstan** | *total population:* 71.4 years (2018 est.) |
+| | *male:* 66.2 years (2018 est.) |
+| | *female:* 76.3 years (2018 est.) |
+| **Kenya** | *total population:* 64.6 years (2018 est.) |
+| | *male:* 63.1 years (2018 est.) |
+| | *female:* 66.1 years (2018 est.) |
+| **Kiribati** | *total population:* 66.9 years (2018 est.) |
+| | *male:* 64.3 years (2018 est.) |
+| | *female:* 69.5 years (2018 est.) |
+| **Korea, North** | *total population:* 71 years (2018 est.) |
+| | *male:* 67.2 years (2018 est.) |
+| | *female:* 75 years (2018 est.) |
+| **Korea, South** | *total population:* 82.5 years (2018 est.) |
+| | *male:* 79.4 years (2018 est.) |
+| | *female:* 85.8 years (2018 est.) |
+| **Kuwait** | *total population:* 78.3 years (2018 est.) |
+| | *male:* 76.9 years (2018 est.) |
+| | *female:* 79.8 years (2018 est.) |
+| **Kyrgyzstan** | *total population:* 71.2 years (2018 est.) |
+| | *male:* 67.1 years (2018 est.) |
+| | *female:* 75.6 years (2018 est.) |
+| **Laos** | *total population:* 65 years (2018 est.) |
+| | *male:* 62.9 years (2018 est.) |
+| | *female:* 67.1 years (2018 est.) |
+| **Latvia** | *total population:* 74.9 years (2018 est.) |
+| | *male:* 70.4 years (2018 est.) |
+| | *female:* 79.7 years (2018 est.) |
+| **Lebanon** | *total population:* 77.9 years (2018 est.) |
+| | *male:* 76.6 years (2018 est.) |
+| | *female:* 79.3 years (2018 est.) |
+| **Lesotho** | *total population:* 53 years (2018 est.) |
+| | *male:* 53 years (2018 est.) |
+| | *female:* 53.1 years (2018 est.) |
+| **Liberia** | *total population:* 63.8 years (2018 est.) |
+| | *male:* 61.6 years (2018 est.) |
+| | *female:* 66 years (2018 est.) |
+| **Libya** | *total population:* 76.9 years (2018 est.) |
+| | *male:* 75.1 years (2018 est.) |
+| | *female:* 78.7 years (2018 est.) |
+| **Liechtenstein** | *total population:* 82 years (2018 est.) |
+| | *male:* 79.8 years (2018 est.) |
+| | *female:* 84.8 years (2018 est.) |
+| **Lithuania** | *total population:* 75.2 years (2018 est.) |
+| | *male:* 69.9 years (2018 est.) |
+| | *female:* 80.8 years (2018 est.) |
+| **Luxembourg** | *total population:* 82.4 years (2018 est.) |
+| | *male:* 79.9 years (2018 est.) |
+| | *female:* 85 years (2018 est.) |
+| **Macau** | *total population:* 84.6 years (2018 est.) |
+| | *male:* 81.6 years (2018 est.) |
+| | *female:* 87.7 years (2018 est.) |
+| **Macedonia** | *total population:* 75.9 years (2018 est.) |
+| | *male:* 73.8 years (2018 est.) |
+| | *female:* 78.2 years (2018 est.) |
+| **Madagascar** | *total population:* 66.6 years (2018 est.) |
+| | *male:* 65.1 years (2018 est.) |
+| | *female:* 68.2 years (2018 est.) |
+| **Malawi** | *total population:* 62.2 years (2018 est.) |
+| | *male:* 60.2 years (2018 est.) |
+| | *female:* 64.3 years (2018 est.) |
+| **Malaysia** | *total population:* 75.4 years (2018 est.) |
+| | *male:* 72.6 years (2018 est.) |
+| | *female:* 78.4 years (2018 est.) |
+| **Maldives** | *total population:* 76 years (2018 est.) |
+| | *male:* 73.7 years (2018 est.) |
+| | *female:* 78.5 years (2018 est.) |
+| **Mali** | *total population:* 60.8 years (2018 est.) |
+| | *male:* 58.6 years (2018 est.) |
+| | *female:* 63 years (2018 est.) |
+| **Malta** | *total population:* 82.7 years (2018 est.) |
+| | *male:* 80.6 years (2018 est.) |
+| | *female:* 84.8 years (2018 est.) |
+| **Marshall Islands** | *total population:* 73.6 years (2018 est.) |
+| | *male:* 71.4 years (2018 est.) |
+| | *female:* 76 years (2018 est.) |
+| **Mauritania** | *total population:* 63.8 years (2018 est.) |
+| | *male:* 61.4 years (2018 est.) |
+| | *female:* 66.2 years (2018 est.) |
+| **Mauritius** | *total population:* 76 years (2018 est.) |
+| | *male:* 72.6 years (2018 est.) |
+| | *female:* 79.7 years (2018 est.) |
+| **Mexico** | *total population:* 76.3 years (2018 est.) |
+| | *male:* 73.5 years (2018 est.) |
+| | *female:* 79.2 years (2018 est.) |
+| **Micronesia, Federated States of** | *total population:* 73.4 years (2018 est.) |
+| | *male:* 71.3 years (2018 est.) |
+| | *female:* 75.6 years (2018 est.) |
+| **Moldova** | *total population:* 71.3 years (2018 est.) |
+| | *male:* 67.4 years (2018 est.) |
+| | *female:* 75.4 years (2018 est.) |
+| **Monaco** | *total population:* 89.4 years (2018 est.) |
+| | *male:* 85.5 years (2018 est.) |
+| | *female:* 93.4 years (2018 est.) |
+| **Mongolia** | *total population:* 70.2 years (2018 est.) |
+| | *male:* 66 years (2018 est.) |
+| | *female:* 74.7 years (2018 est.) |
+| **Montserrat** | *total population:* 74.8 years (2018 est.) |
+| | *male:* 76.1 years (2018 est.) |
+| | *female:* 73.5 years (2018 est.) |
+| **Morocco** | *total population:* 77.3 years (2018 est.) |
+| | *male:* 74.2 years (2018 est.) |
+| | *female:* 80.5 years (2018 est.) |
+| **Mozambique** | *total population:* 54.1 years (2018 est.) |
+| | *male:* 53.3 years (2018 est.) |
+| | *female:* 54.9 years (2018 est.) |
+| **Namibia** | *total population:* 64.4 years (2018 est.) |
+| | *male:* 62.7 years (2018 est.) |
+| | *female:* 66.2 years (2018 est.) |
+| **Nauru** | *total population:* 67.8 years (2018 est.) |
+| | *male:* 63.6 years (2018 est.) |
+| | *female:* 71.2 years (2018 est.) |
+| **Nepal** | *total population:* 71.3 years (2018 est.) |
+| | *male:* 70.6 years (2018 est.) |
+| | *female:* 72 years (2018 est.) |
+| **Netherlands** | *total population:* 81.5 years (2018 est.) |
+| | *male:* 79.3 years (2018 est.) |
+| | *female:* 83.8 years (2018 est.) |
+| **New Caledonia** | *total population:* 78 years (2018 est.) |
+| | *male:* 74.1 years (2018 est.) |
+| | *female:* 82.2 years (2018 est.) |
+| **New Zealand** | *total population:* 81.4 years (2018 est.) |
+| | *male:* 79.2 years (2018 est.) |
+| | *female:* 83.6 years (2018 est.) |
+| **Nicaragua** | *total population:* 73.7 years (2018 est.) |
+| | *male:* 71.5 years (2018 est.) |
+| | *female:* 76.1 years (2018 est.) |
+| **Niger** | *total population:* 56.3 years (2018 est.) |
+| | *male:* 55 years (2018 est.) |
+| | *female:* 57.7 years (2018 est.) |
+| **Nigeria** | *total population:* 59.3 years (2018 est.) |
+| | *male:* 57.5 years (2018 est.) |
+| | *female:* 61.1 years (2018 est.) |
+| **Niue** | *total population:* NA (2017 est.) |
+| | *male:* NA (2017 est.) |
+| | *female:* NA (2017 est.) |
+| **Norfolk Island** | *total population:* NA (2017 est.) |
+| | *male:* NA (2017 est.) |
+| | *female:* NA (2017 est.) |
+| **Northern Mariana Islands** | *total population:* 75.6 years (2018 est.) |
+| | *male:* 73.6 years (2018 est.) |
+| | *female:* 78.1 years (2018 est.) |
+| **Norway** | *total population:* 82 years (2018 est.) |
+| | *male:* 79.9 years (2018 est.) |
+| | *female:* 84.1 years (2018 est.) |
+| **Oman** | *total population:* 75.9 years (2018 est.) |
+| | *male:* 73.9 years (2018 est.) |
+| | *female:* 78 years (2018 est.) |
+| **Pakistan** | *total population:* 68.4 years (2018 est.) |
+| | *male:* 66.4 years (2018 est.) |
+| | *female:* 70.5 years (2018 est.) |
+| **Palau** | *total population:* 73.6 years (2018 est.) |
+| | *male:* 70.4 years (2018 est.) |
+| | *female:* 77 years (2018 est.) |
+| **Panama** | *total population:* 78.9 years (2018 est.) |
+| | *male:* 76.1 years (2018 est.) |
+| | *female:* 81.9 years (2018 est.) |
+| **Papua New Guinea** | *total population:* 67.5 years (2018 est.) |
+| | *male:* 65.3 years (2018 est.) |
+| | *female:* 69.8 years (2018 est.) |
+| **Paraguay** | *total population:* 77.6 years (2018 est.) |
+| | *male:* 74.9 years (2018 est.) |
+| | *female:* 80.4 years (2018 est.) |
+| **Peru** | *total population:* 74.2 years (2018 est.) |
+| | *male:* 72.1 years (2018 est.) |
+| | *female:* 76.4 years (2018 est.) |
+| **Philippines** | *total population:* 69.6 years (2018 est.) |
+| | *male:* 66.1 years (2018 est.) |
+| | *female:* 73.3 years (2018 est.) |
+| **Pitcairn Islands** | *total population:* NA (2017 est.) |
+| | *male:* NA (2017 est.) |
+| | *female:* NA (2017 est.) |
+| **Poland** | *total population:* 77.9 years (2018 est.) |
+| | *male:* 74.1 years (2018 est.) |
+| | *female:* 82 years (2018 est.) |
+| **Portugal** | *total population:* 80.9 years (2018 est.) |
+| | *male:* 77.7 years (2018 est.) |
+| | *female:* 84.2 years (2018 est.) |
+| **Puerto Rico** | *total population:* 81 years (2018 est.) |
+| | *male:* 77.7 years (2018 est.) |
+| | *female:* 84.5 years (2018 est.) |
+| **Qatar** | *total population:* 79 years (2018 est.) |
+| | *male:* 76.9 years (2018 est.) |
+| | *female:* 81.2 years (2018 est.) |
+| **Romania** | *total population:* 75.6 years (2018 est.) |
+| | *male:* 72.1 years (2018 est.) |
+| | *female:* 79.2 years (2018 est.) |
+| **Russia** | *total population:* 71.3 years (2018 est.) |
+| | *male:* 65.6 years (2018 est.) |
+| | *female:* 77.3 years (2018 est.) |
+| **Rwanda** | *total population:* 64.5 years (2018 est.) |
+| | *male:* 62.6 years (2018 est.) |
+| | *female:* 66.5 years (2018 est.) |
+| **Saint Helena, Ascension, and Tristan da Cunha** | *total population:* 79.8 years (2018 est.) |
+| | *male:* 76.8 years (2018 est.) |
+| | *female:* 82.9 years (2018 est.) |
+| **Saint Kitts and Nevis** | *total population:* 76.2 years (2018 est.) |
+| | *male:* 73.7 years (2018 est.) |
+| | *female:* 78.7 years (2018 est.) |
+| **Saint Lucia** | *total population:* 78.1 years (2018 est.) |
+| | *male:* 75.4 years (2018 est.) |
+| | *female:* 81 years (2018 est.) |
+| **Saint Pierre and Miquelon** | *total population:* 80.7 years (2018 est.) |
+| | *male:* 78.4 years (2018 est.) |
+| | *female:* 83.2 years (2018 est.) |
+| **Saint Vincent and the Grenadines** | *total population:* 75.8 years (2018 est.) |
+| | *male:* 73.7 years (2018 est.) |
+| | *female:* 77.9 years (2018 est.) |
+| **Samoa** | *total population:* 74.2 years (2018 est.) |
+| | *male:* 71.3 years (2018 est.) |
+| | *female:* 77.3 years (2018 est.) |
+| **San Marino** | *total population:* 83.4 years (2018 est.) |
+| | *male:* 80.8 years (2018 est.) |
+| | *female:* 86.2 years (2018 est.) |
+| **Sao Tome and Principe** | *total population:* 65.7 years (2018 est.) |
+| | *male:* 64.3 years (2018 est.) |
+| | *female:* 67.1 years (2018 est.) |
+| **Saudi Arabia** | *total population:* 75.7 years (2018 est.) |
+| | *male:* 74.2 years (2018 est.) |
+| | *female:* 77.3 years (2018 est.) |
+| **Senegal** | *total population:* 62.5 years (2018 est.) |
+| | *male:* 60.4 years (2018 est.) |
+| | *female:* 64.7 years (2018 est.) |
+| **Serbia** | *total population:* 75.9 years (2018 est.) |
+| | *male:* 73 years (2018 est.) |
+| | *female:* 79 years (2018 est.) |
+| **Seychelles** | *total population:* 75.2 years (2018 est.) |
+| | *male:* 70.7 years (2018 est.) |
+| | *female:* 79.8 years (2018 est.) |
+| **Sierra Leone** | *total population:* 59 years (2018 est.) |
+| | *male:* 56.4 years (2018 est.) |
+| | *female:* 61.7 years (2018 est.) |
+| **Singapore** | *total population:* 85.5 years (2018 est.) |
+| | *male:* 82.8 years (2018 est.) |
+| | *female:* 88.3 years (2018 est.) |
+| **Sint Maarten** | *total population:* 78.5 years (2018 est.) |
+| | *male:* 76.1 years (2018 est.) |
+| | *female:* 80.9 years (2018 est.) |
+| **Slovakia** | *total population:* 77.4 years (2018 est.) |
+| | *male:* 73.9 years (2018 est.) |
+| | *female:* 81.2 years (2018 est.) |
+| **Slovenia** | *total population:* 81.2 years (2018 est.) |
+| | *male:* 78.3 years (2018 est.) |
+| | *female:* 84.2 years (2018 est.) |
+| **Solomon Islands** | *total population:* 75.8 years (2018 est.) |
+| | *male:* 73.1 years (2018 est.) |
+| | *female:* 78.6 years (2018 est.) |
+| **Somalia** | *total population:* 53.2 years (2018 est.) |
+| | *male:* 51 years (2018 est.) |
+| | *female:* 55.4 years (2018 est.) |
+| **South Africa** | *total population:* 64.1 years (2018 est.) |
+| | *male:* 62.7 years (2018 est.) |
+| | *female:* 65.6 years (2018 est.) |
+| **Spain** | *total population:* 81.8 years (2018 est.) |
+| | *male:* 78.8 years (2018 est.) |
+| | *female:* 85 years (2018 est.) |
+| **Sri Lanka** | *total population:* 77.1 years (2018 est.) |
+| | *male:* 73.7 years (2018 est.) |
+| | *female:* 80.8 years (2018 est.) |
+| **Sudan** | *total population:* 65.8 years (2018 est.) |
+| | *male:* 63.7 years (2018 est.) |
+| | *female:* 68.1 years (2018 est.) |
+| **Suriname** | *total population:* 72.8 years (2018 est.) |
+| | *male:* 70.3 years (2018 est.) |
+| | *female:* 75.3 years (2018 est.) |
+| **Svalbard** | *total population:* NA (2017 est.) |
+| | *male:* NA (2017 est.) |
+| | *female:* NA (2017 est.) |
+| **Sweden** | *total population:* 82.2 years (2018 est.) |
+| | *male:* 80.3 years (2018 est.) |
+| | *female:* 84.3 years (2018 est.) |
+| **Switzerland** | *total population:* 82.7 years (2018 est.) |
+| | *male:* 80.4 years (2018 est.) |
+| | *female:* 85.2 years (2018 est.) |
+| **Syria** | *total population:* 75.2 years (2018 est.) |
+| | *male:* 72.8 years (2018 est.) |
+| | *female:* 77.8 years (2018 est.) |
+| **Taiwan** | *total population:* 80.4 years (2018 est.) |
+| | *male:* 77.2 years (2018 est.) |
+| | *female:* 83.7 years (2018 est.) |
+| **Tajikistan** | *total population:* 68.4 years (2018 est.) |
+| | *male:* 65.2 years (2018 est.) |
+| | *female:* 71.7 years (2018 est.) |
+| **Tanzania** | *total population:* 63.1 years (2018 est.) |
+| | *male:* 61.6 years (2018 est.) |
+| | *female:* 64.6 years (2018 est.) |
+| **Thailand** | *total population:* 75.1 years (2018 est.) |
+| | *male:* 71.9 years (2018 est.) |
+| | *female:* 78.5 years (2018 est.) |
+| **Timor-Leste** | *total population:* 68.7 years (2018 est.) |
+| | *male:* 67.1 years (2018 est.) |
+| | *female:* 70.4 years (2018 est.) |
+| **Togo** | *total population:* 65.8 years (2018 est.) |
+| | *male:* 63.1 years (2018 est.) |
+| | *female:* 68.6 years (2018 est.) |
+| **Tokelau** | *total population:* NA (2017 est.) |
+| | *male:* NA (2017 est.) |
+| | *female:* NA (2017 est.) |
+| **Tonga** | *total population:* 76.6 years (2018 est.) |
+| | *male:* 75 years (2018 est.) |
+| | *female:* 78.3 years (2018 est.) |
+| **Trinidad and Tobago** | *total population:* 73.4 years (2018 est.) |
+| | *male:* 70.5 years (2018 est.) |
+| | *female:* 76.4 years (2018 est.) |
+| **Tunisia** | *total population:* 75.9 years (2018 est.) |
+| | *male:* 74.3 years (2018 est.) |
+| | *female:* 77.6 years (2018 est.) |
+| **Turkey** | *total population:* 75.3 years (2018 est.) |
+| | *male:* 72.9 years (2018 est.) |
+| | *female:* 77.7 years (2018 est.) |
+| **Turkmenistan** | *total population:* 70.7 years (2018 est.) |
+| | *male:* 67.6 years (2018 est.) |
+| | *female:* 73.9 years (2018 est.) |
+| **Turks and Caicos Islands** | *total population:* 80.1 years (2018 est.) |
+| | *male:* 77.3 years (2018 est.) |
+| | *female:* 83 years (2018 est.) |
+| **Tuvalu** | *total population:* 67.2 years (2018 est.) |
+| | *male:* 65 years (2018 est.) |
+| | *female:* 69.5 years (2018 est.) |
+| **Uganda** | *total population:* 56.3 years (2018 est.) |
+| | *male:* 54.8 years (2018 est.) |
+| | *female:* 57.8 years (2018 est.) |
+| **Ukraine** | *total population:* 72.4 years (2018 est.) |
+| | *male:* 67.7 years (2018 est.) |
+| | *female:* 77.4 years (2018 est.) |
+| **United Arab Emirates** | *total population:* 78.7 years (2018 est.) |
+| | *male:* 77.3 years (2018 est.) |
+| | *female:* 80.1 years (2018 est.) |
+| **United Kingdom** | *total population:* 80.9 years (2018 est.) |
+| | *male:* 78.7 years (2018 est.) |
+| | *female:* 83.2 years (2018 est.) |
+| **United States** | *total population:* 80.1 years (2018 est.) |
+| | *male:* 77.8 years (2018 est.) |
+| | *female:* 82.3 years (2018 est.) |
+| **Uruguay** | *total population:* 77.6 years (2018 est.) |
+| | *male:* 74.4 years (2018 est.) |
+| | *female:* 80.8 years (2018 est.) |
+| **Uzbekistan** | *total population:* 74.3 years (2018 est.) |
+| | *male:* 71.2 years (2018 est.) |
+| | *female:* 77.5 years (2018 est.) |
+| **Vanuatu** | *total population:* 74 years (2018 est.) |
+| | *male:* 72.4 years (2018 est.) |
+| | *female:* 75.7 years (2018 est.) |
+| **Venezuela** | *total population:* 76.2 years (2018 est.) |
+| | *male:* 73.2 years (2018 est.) |
+| | *female:* 79.3 years (2018 est.) |
+| **Vietnam** | *total population:* 73.9 years (2018 est.) |
+| | *male:* 71.4 years (2018 est.) |
+| | *female:* 76.7 years (2018 est.) |
+| **Virgin Islands** | *total population:* 79.5 years (2018 est.) |
+| | *male:* 76.3 years (2018 est.) |
+| | *female:* 83 years (2018 est.) |
+| **Wallis and Futuna** | *total population:* 80 years (2018 est.) |
+| | *male:* 77 years (2018 est.) |
+| | *female:* 83.1 years (2018 est.) |
+| **West Bank** | *total population:* 75.4 years (2018 est.) |
+| | *male:* 73.4 years (2018 est.) |
+| | *female:* 77.6 years (2018 est.) |
+| **Western Sahara** | *total population:* 63.8 years (2018 est.) |
+| | *male:* 61.4 years (2018 est.) |
+| | *female:* 66.2 years (2018 est.) |
+| **World** | *total population:* 69 years (2017 est.) |
+| | *male:* 67 years (2017 est.) |
+| | *female:* 71.1 years (2017 est.) |
+| **Yemen** | *total population:* 66.2 years (2018 est.) |
+| | *male:* 64 years (2018 est.) |
+| | *female:* 68.5 years (2018 est.) |
+| **Zambia** | *total population:* 53 years (2018 est.) |
+| | *male:* 51.4 years (2018 est.) |
+| | *female:* 54.7 years (2018 est.) |
+| **Zimbabwe** | *total population:* 61.1 years (2018 est.) |
+| | *male:* 59 years (2018 est.) |
+| | *female:* 63.2 years (2018 est.) |
+

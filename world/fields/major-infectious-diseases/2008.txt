@@ -1,0 +1,406 @@
+CIA - The World Factbook -- Field Listing - Major infectious diseases
+
+| Country | Major infectious diseases |
+| --- | --- |
+| **Afghanistan** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* malaria |
+| | *animal contact disease:* rabies |
+| | *note:* highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2008) |
+| **Angola** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, typhoid fever |
+| | *vectorborne diseases:* malaria, African trypanosomiasis (sleeping sickness) |
+| | *water contact disease:* schistosomiasis (2008) |
+| **Argentina** | *degree of risk:* intermediate |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A |
+| | *water contact disease:* leptospirosis (2008) |
+| **Bangladesh** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever |
+| | *vectorborne diseases:* dengue fever and malaria are high risks in some locations |
+| | *water contact disease:* leptospirosis |
+| | *animal contact disease:* rabies |
+| | *note:* highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2008) |
+| **Belize** | *degree of risk:* intermediate |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever and malaria |
+| | *water contact disease:* leptospirosis (2008) |
+| **Benin** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and yellow fever |
+| | *respiratory disease:* meningococcal meningitis (2008) |
+| **Bhutan** | *degree of risk:* intermediate |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria |
+| | *water contact disease:* leptospirosis (2008) |
+| **Bolivia** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever, malaria, and yellow fever |
+| | *water contact disease:* leptospirosis (2008) |
+| **Botswana** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* malaria (2008) |
+| **Burkina Faso** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* malaria |
+| | *water contact disease:* schistosomiasis |
+| | *respiratory disease:* meningococcal meningitis |
+| | *note:* highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2008) |
+| **Burma** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever and malaria |
+| | *water contact disease:* leptospirosis |
+| | *animal contact disease:* rabies |
+| | *note:* highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2008) |
+| **Burundi** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* malaria (2008) |
+| **Cambodia** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever, Japanese encephalitis, and malaria |
+| | *note:* highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2008) |
+| **Cameroon** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever |
+| | *vectorborne diseases:* malaria and yellow fever |
+| | *water contact disease:* schistosomiasis |
+| | *respiratory disease:* meningococcal meningitis |
+| | *animal contact disease:* rabies (2008) |
+| **Central African Republic** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* malaria |
+| | *respiratory disease:* meningococcal meningitis (2008) |
+| **Chad** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* malaria |
+| | *water contact disease:* schistosomiasis |
+| | *respiratory disease:* meningococcal meningitis (2008) |
+| **China** | *degree of risk:* intermediate |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* Crimean Congo hemorrhagic fever, Japanese encephalitis, and malaria |
+| | *water contact disease:* leptospirosis |
+| | *animal contact disease:* rabies |
+| | *note:* highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2008) |
+| **Colombia** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A |
+| | *vectorborne diseases:* dengue fever, malaria, and yellow fever |
+| | *water contact disease:* leptospirosis (2008) |
+| **Congo, Democratic Republic of the** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria, plague, and African trypanosomiasis (sleeping sickness) |
+| | *water contact disease:* schistosomiasis |
+| | *animal contact disease:* rabies (2008) |
+| **Congo, Republic of the** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* malaria and African trypanosomiasis (sleeping sickness) |
+| | *animal contact disease:* rabies (2008) |
+| **Costa Rica** | *degree of risk:* intermediate |
+| | *food or waterborne diseases:* bacterial diarrhea and hepatitis A |
+| | *vectorborne diseases:* dengue fever (2008) |
+| **Cote d'Ivoire** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and yellow fever |
+| | *water contact:* schistosomiasis |
+| | *animal contact disease:* rabies |
+| | *note:* highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2008) |
+| **Croatia** | *degree of risk:* intermediate |
+| | *food or waterborne diseases:* bacterial diarrhea and hepatitis A |
+| | *vectorborne diseases:* tickborne encephalitis |
+| | *note:* highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2008) |
+| **Cuba** | *degree of risk:* intermediate |
+| | *food or waterborne diseases:* bacterial diarrhea and hepatitis A |
+| | *vectorborne diseases:* dengue fever (2008) |
+| **Djibouti** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever |
+| | *vectorborne disease:* malaria |
+| | *note:* highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2008) |
+| **Dominican Republic** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever and malaria |
+| | *water contact disease:* leptospirosis (2008) |
+| **Ecuador** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever, malaria, and yellow fever |
+| | *water contact disease:* leptospirosis (2008) |
+| **Egypt** | *degree of risk:* intermediate |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *water contact disease:* schistosomiasis |
+| | *note:* highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2008) |
+| **El Salvador** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever |
+| | *water contact disease:* leptospirosis (2008) |
+| **Equatorial Guinea** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* malaria (2008) |
+| **Eritrea** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* malaria (2008) |
+| **Estonia** | *degree of risk:* intermediate |
+| | *food or waterborne diseases:* bacterial diarrhea and hepatitis A |
+| | *vectorborne disease:* tickborne encephalitis (2008) |
+| **Ethiopia** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever |
+| | *vectorborne diseases:* malaria |
+| | *respiratory disease:* meningococcal meningitis |
+| | *animal contact disease:* rabies |
+| | *water contact disease:* schistosomiasis (2008) |
+| **Gabon** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* malaria (2008) |
+| **Gambia, The** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever, malaria, Crimean-Congo hemorrhagic fever, and yellow fever |
+| | *water contact disease:* schistosomiasis |
+| | *respiratory disease:* meningococcal meningitis (2008) |
+| **Ghana** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and yellow fever |
+| | *water contact disease:* schistosomiasis |
+| | *respiratory disease:* meningococcal meningitis |
+| | *note:* highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2008) |
+| **Guatemala** | *degree of risk:* intermediate |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* dengue fever and malaria (2008) |
+| **Guinea** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and yellow fever |
+| | *water contact disease:* schistosomiasis |
+| | *respiratory disease:* meningococcal meningitis |
+| | *aerosolized dust or soil contact disease:* Lassa fever (2008) |
+| **Guinea-Bissau** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and yellow fever |
+| | *water contact disease:* schistosomiasis |
+| | *respiratory disease:* meningococcal meningitis (2008) |
+| **Guyana** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever and malaria |
+| | *water contact disease:* leptospirosis (2008) |
+| **Haiti** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever |
+| | *vectorborne diseases:* dengue fever and malaria |
+| | *water contact disease:* leptospirosis (2008) |
+| **Honduras** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever and malaria |
+| | *water contact disease:* leptospirosis (2008) |
+| **Hungary** | *degree of risk:* intermediate |
+| | *food or waterborne diseases:* bacterial diarrhea and hepatitis A |
+| | *vectorborne diseases:* tickborne encephalitis (2008) |
+| **India** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A and E, and typhoid fever |
+| | *vectorborne diseases:* chikungunya, dengue fever, Japanese encephalitis, and malaria |
+| | *animal contact disease:* rabies |
+| | *note:* highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2008) |
+| **Indonesia** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A and E, and typhoid fever |
+| | *vectorborne diseases:* chikungunya, dengue fever, and malaria |
+| | *note:* highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2008) |
+| **Iran** | *degree of risk:* intermediate |
+| | *food or waterborne diseases:* bacterial diarrhea and hepatitis A |
+| | *vectorborne diseases:* Crimean Congo hemorrhagic fever and malaria |
+| | *note:* highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2008) |
+| **Iraq** | *degree of risk:* intermediate |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *note:* highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2008) |
+| **Kenya** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* malaria |
+| | *water contact disease:* schistosomiasis (2008) |
+| **Laos** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever, Japanese encephalitis, and malaria |
+| | *note:* highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2008) |
+| **Latvia** | *degree of risk:* intermediate |
+| | *food or waterborne diseases:* bacterial diarrhea and hepatitis A |
+| | *vectorborne diseases:* tickborne encephalitis (2008) |
+| **Liberia** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and yellow fever |
+| | *water contact disease:* schistosomiasis |
+| | *aerosolized dust or soil contact disease:* Lassa fever |
+| | *animal contact disease:* rabies (2008) |
+| **Lithuania** | *degree of risk:* intermediate |
+| | *food or waterborne diseases:* bacterial diarrhea and hepatitis A |
+| | *vectorborne diseases:* tickborne encephalitis (2008) |
+| **Madagascar** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* chikungunya, malaria, and plague |
+| | *water contact disease:* schistosomiasis (2008) |
+| **Malawi** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and plague |
+| | *water contact disease:* schistosomiasis (2008) |
+| **Malaysia** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever and malaria |
+| | *note:* highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2008) |
+| **Mali** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* malaria |
+| | *water contact disease:* schistosomiasis |
+| | *respiratory disease:* meningococcal meningitis (2008) |
+| **Mauritania** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and Rift Valley fever (2008) |
+| **Mexico** | *degree of risk:* intermediate |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* dengue fever |
+| | *water contact disease:* leptospirosis (2008) |
+| **Montenegro** | *degree of risk:* intermediate |
+| | *food or waterborne diseases:* bacterial diarrhea and hepatitis A |
+| | *vectorborne disease:* Crimean Congo hemorrhagic fever (2008) |
+| **Mozambique** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and plague |
+| | *water contact disease:* schistosomiasis (2008) |
+| **Namibia** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* malaria |
+| | *water contact disease:* schistosomiasis (2008) |
+| **Nepal** | *degree of risk:* intermediate |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* Japanese encephalitis and malaria (2008) |
+| **Nicaragua** | *degree of risk:* intermediate |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* dengue fever and malaria |
+| | *water contact disease:* leptospirosis (2008) |
+| **Niger** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* malaria |
+| | *respiratory disease:* meningococcal meningitis |
+| | *note:* highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2008) |
+| **Nigeria** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* malaria and yellow fever |
+| | *respiratory disease:* meningococcal meningitis |
+| | *aerosolized dust or soil contact disease:* one of the most highly endemic areas for Lassa fever |
+| | *water contact disease:* leptospirosis and shistosomiasis |
+| | *note:* highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2008) |
+| **Pakistan** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A and E, and typhoid fever |
+| | *vectorborne diseases:* dengue fever and malaria |
+| | *animal contact disease:* rabies |
+| | *note:* highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2008) |
+| **Panama** | *degree of risk:* intermediate |
+| | *food or waterborne diseases:* bacterial diarrhea and hepatitis A |
+| | *vectorborne disease:* dengue fever and malaria |
+| | *water contact disease:* leptospirosis (2008) |
+| **Papua New Guinea** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever and malaria (2008) |
+| **Paraguay** | *degree of risk:* intermediate |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* dengue fever and malaria (2008) |
+| **Peru** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* dengue fever, malaria, Oroya fever, and yellow fever |
+| | *water contact disease:* leptospirosis (2008) |
+| **Philippines** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever and malaria (2008) |
+| **Poland** | *degree of risk:* intermediate |
+| | *food or waterborne diseases:* bacterial diarrhea |
+| | *vectorborne disease:* tickborne encephalitis |
+| | *note:* highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2008) |
+| **Russia** | *degree of risk:* intermediate |
+| | *food or waterborne diseases:* bacterial diarrhea and hepatitis A |
+| | *vectorborne disease:* Crimean Congo hemorrhagic fever and tickborne encephalitis |
+| | *note:* highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2008) |
+| **Rwanda** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* malaria (2008) |
+| **Sao Tome and Principe** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* malaria (2008) |
+| **Senegal** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* Crimean-Congo hemorrhagic fever, dengue fever, malaria, Rift Valley fever, and yellow fever |
+| | *water contact disease:* schistosomiasis |
+| | *respiratory disease:* meningococcal meningitis (2008) |
+| **Serbia** | *degree of risk:* intermediate |
+| | *food or waterborne diseases:* bacterial diarrhea and hepatitis A |
+| | *vectorborne disease:* Crimean Congo hemorrhagic fever |
+| | *note:* highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2008) |
+| **Sierra Leone** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and yellow fever |
+| | *water contact disease:* schistosomiasis |
+| | *aerosolized dust or soil contact disease:* Lassa fever (2008) |
+| **Somalia** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever |
+| | *vectorborne diseases:* dengue fever, malaria, and Rift Valley fever |
+| | *water contact disease:* schistosomiasis |
+| | *animal contact disease:* rabies (2008) |
+| **South Africa** | *degree of risk:* intermediate |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* Crimean Congo hemorrhagic fever and malaria |
+| | *water contact disease:* schistosomiasis (2008) |
+| **Sri Lanka** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial diarrhea and hepatitis A |
+| | *vectorborne disease:* dengue fever and malaria |
+| | *water contact disease:* leptospirosis (2008) |
+| **Sudan** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria, dengue fever, African trypanosomiasis (sleeping sickness) |
+| | *water contact disease:* schistosomiasis |
+| | *respiratory disease:* meningococcal meningitis |
+| | *note:* highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2008) |
+| **Suriname** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* dengue fever, Mayaro virus, and malaria |
+| | *water contact disease:* leptospirosis (2008) |
+| **Swaziland** | *degree of risk:* intermediate |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* malaria |
+| | *water contact disease:* schistosomiasis (2008) |
+| **Tajikistan** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* malaria (2008) |
+| **Tanzania** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and plague |
+| | *water contact disease:* schistosomiasis (2008) |
+| **Thailand** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial diarrhea and hepatitis A |
+| | *vectorborne diseases:* dengue fever, Japanese encephalitis, and malaria |
+| | *animal contact disease:* rabies |
+| | *water contact disease:* leptospirosis |
+| | *note:* highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2008) |
+| **Timor-Leste** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* chikungunya, dengue fever and malaria (2008) |
+| **Togo** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and yellow fever |
+| | *water contact disease:* schistosomiasis |
+| | *respiratory disease:* meningococcal meningitis |
+| | *note:* highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2008) |
+| **Uganda** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* chikungunya, malaria, plague, and African trypanosomiasis (sleeping sickness) |
+| | *water contact disease:* schistosomiasis (2008) |
+| **Venezuela** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial diarrhea and hepatitis A |
+| | *vectorborne disease:* dengue fever, malaria, and Venezuelan equine encephalitis (2008) |
+| **Vietnam** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever, malaria, Japanese encephalitis, and plague |
+| | *water contact disease:* leptospirosis |
+| | *note:* highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2008) |
+| **Yemen** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever and malaria |
+| | *water contact disease:* schistosomiasis (2008) |
+| **Zambia** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and plague are high risks in some locations |
+| | *water contact disease:* schistosomiasis |
+| | *animal contact disease:* rabies (2008) |
+| **Zimbabwe** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* malaria |
+| | *water contact disease:* schistosomiasis |
+| | *animal contact disease:* rabies (2008) |
+
+This page was last updated on 18 December 2008
+ 

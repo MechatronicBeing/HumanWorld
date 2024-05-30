@@ -1,0 +1,416 @@
+Field Listing :: Credit ratings :: The World Factbook
+
+This entry gives the current bond ratings for a country/territory from the three credit bureaus.
+
+| Country | Credit ratings |
+| --- | --- |
+| **Albania** | *Moody's rating:* B1 (2007) |
+| | *Standard & Poors rating:* B+ (2016) |
+| **Andorra** | *Fitch rating:* BBB+ (2018) |
+| | *Standard & Poors rating:* BBB (2017) |
+| **Angola** | *Fitch rating:* CCC (2020) |
+| | *Moody's rating:* Caa1 (2020) |
+| | *Standard & Poors rating:* CCC+ (2020) |
+| **Argentina** | *Fitch rating:* CCC (2020) |
+| | *Moody's rating:* Ca (2020) |
+| | *Standard & Poors rating:* CCC+ (2020) |
+| **Armenia** | *Fitch rating:* B+ (2020) |
+| | *Moody's rating:* Ba3 (2019) |
+| **Aruba** | *Fitch rating:* BB (2020) |
+| | *Standard & Poors rating:* BBB+ (2013) |
+| **Australia** | *Fitch rating:* AAA (2011) |
+| | *Moody's rating:* Aaa (2002) |
+| | *Standard & Poors rating:* AAA (2003) |
+| **Austria** | *Fitch rating:* AA+ (2015) |
+| | *Moody's rating:* Aa1 (2016) |
+| | *Standard & Poors rating:* AA+ (2012) |
+| **Azerbaijan** | *Fitch rating:* BB+ (2016) |
+| | *Moody's rating:* Ba2 (2017) |
+| | *Standard & Poors rating:* BB+ (2016) |
+| **Bahamas, The** | *Moody's rating:* Ba2 (2020) |
+| | *Standard & Poors rating:* BB- (2020) |
+| **Bahrain** | *Fitch rating:* B+ (2020) |
+| | *Moody's rating:* B2 (2018) |
+| | *Standard & Poors rating:* B+ (2017) |
+| **Bangladesh** | *Fitch rating:* BB- (2014) |
+| | *Moody's rating:* Ba3 (2012) |
+| | *Standard & Poors rating:* BB- (2010) |
+| **Barbados** | *Moody's rating:* Caa1 (2019) |
+| | *Standard & Poors rating:* B- (2019) |
+| **Belarus** | *Fitch rating:* B (2018) |
+| | *Moody's rating:* B3 (2018) |
+| | *Standard & Poors rating:* B (2017) |
+| **Belgium** | *Fitch rating:* AA- (2016) |
+| | *Moody's rating:* Aa3 (2011) |
+| | *Standard & Poors rating:* AA (2011) |
+| **Belize** | *Moody's rating:* Caa3 (2020) |
+| | *Standard & Poors rating:* CCC+ (2020) |
+| **Benin** | *Fitch rating:* B (2019) |
+| | *Moody's rating:* B2 (2019) |
+| | *Standard & Poors rating:* B+ (2018) |
+| **Bermuda** | *Fitch rating:* N/A (2015) |
+| | *Moody's rating:* A2 (2016) |
+| | *Standard & Poors rating:* A+ (2015) |
+| **Bhutan** | |
+| **Bolivia** | *Fitch rating:* B (2020) |
+| | *Moody's rating:* B2 (2020) |
+| | *Standard & Poors rating:* B+ (2020) |
+| **Bosnia and Herzegovina** | *Moody's rating:* B3 (2012) |
+| | *Standard & Poors rating:* B (2011) |
+| **Botswana** | *Moody's rating:* A2 (2020) |
+| | *Standard & Poors rating:* BBB+ (2020) |
+| **Brazil** | *Fitch rating:* BB- (2018) |
+| | *Moody's rating:* Ba2 (2016) |
+| | *Standard & Poors rating:* BB- (2018) |
+| **Bulgaria** | *Fitch rating:* BBB (2017) |
+| | *Moody's rating:* Baa1 (2020) |
+| | *Standard & Poors rating:* BBB (2019) |
+| **Burkina Faso** | *Standard & Poors rating:* B (2017) |
+| **Cabo Verde** | *Fitch rating:* B- (2020) |
+| | *Standard & Poors rating:* B (2013) |
+| **Cambodia** | *Moody's rating:* B2 (2007) |
+| | *Standard & Poors rating:* N/A (2014) |
+| **Cameroon** | *Fitch rating:* B (2006) |
+| | *Moody's rating:* B2 (2016) |
+| | *Standard & Poors rating:* B- (2020) |
+| **Canada** | *Fitch rating:* AA+ (2020) |
+| | *Moody's rating:* Aaa (2002) |
+| | *Standard & Poors rating:* AAA (2002) |
+| **Cayman Islands** | *Moody's rating:* Aa3 (1997) |
+| **Chile** | *Fitch rating:* A- (2020) |
+| | *Moody's rating:* A1 (2018) |
+| | *Standard & Poors rating:* A+ (2017) |
+| **China** | *Fitch rating:* A+ (2007) |
+| | *Moody's rating:* A1 (2017) |
+| | *Standard & Poors rating:* A+ (2017) |
+| **Colombia** | *Fitch rating:* BBB- (2020) |
+| | *Moody's rating:* Baa2 (2014) |
+| | *Standard & Poors rating:* BBB- (2017) |
+| **Congo, Democratic Republic of the** | *Moody's rating:* Caa1 (2019) |
+| | *Standard & Poors rating:* CCC+ (2017) |
+| **Congo, Republic of the** | *Fitch rating:* CCC (2019) |
+| | *Moody's rating:* Caa2 (2018) |
+| | *Standard & Poors rating:* CCC+ (2020) |
+| **Costa Rica** | *Fitch rating:* B (2020) |
+| | *Moody's rating:* B2 (2020) |
+| | *Standard & Poors rating:* B (2020) |
+| **Cote d'Ivoire** | *Fitch rating:* B+ (2015) |
+| | *Moody's rating:* Ba3 (2015) |
+| **Croatia** | *Fitch rating:* BBB- (2019) |
+| | *Moody's rating:* Ba1 (2020) |
+| | *Standard & Poors rating:* BBB- (2019) |
+| **Cuba** | *Moody's rating:* Caa2 (2014) |
+| **Cyprus** | *Fitch rating:* BBB- (2018) |
+| | *Moody's rating:* Ba2 (2018) |
+| | *Standard & Poors rating:* BBB- (2018) |
+| **Czechia** | *Fitch rating:* AA- (2018) |
+| | *Moody's rating:* Aa3 (2019) |
+| | *Standard & Poors rating:* AA- (2011) |
+| **Denmark** | *Fitch rating:* AAA (2003) |
+| | *Moody's rating:* Aaa (1999) |
+| | *Standard & Poors rating:* AAA (2001) |
+| **Dominican Republic** | *Fitch rating:* BB- (2016) |
+| | *Moody's rating:* Ba3 (2017) |
+| | *Standard & Poors rating:* BB- (2015) |
+| **Ecuador** | *Fitch rating:* B- (2020) |
+| | *Moody's rating:* Caa3 (2020) |
+| | *Standard & Poors rating:* B- (2020) |
+| **Egypt** | *Fitch rating:* B+ (2019) |
+| | *Moody's rating:* B2 (2019) |
+| | *Standard & Poors rating:* B (2018) |
+| **El Salvador** | *Fitch rating:* B- (2017) |
+| | *Moody's rating:* B3 (2018) |
+| | *Standard & Poors rating:* B- (2018) |
+| **Estonia** | *Fitch rating:* AA- (2018) |
+| | *Moody's rating:* A1 (2002) |
+| | *Standard & Poors rating:* AA- (2011) |
+| **Eswatini** | *Moody's rating:* B3 (2020) |
+| **Ethiopia** | *Fitch rating:* B (2014) |
+| | *Moody's rating:* B2 (2020) |
+| | *Standard & Poors rating:* B (2014) |
+| **European Union** | *Fitch rating:* AAA (2010) |
+| | *Moody's rating:* Aaa (2014) |
+| | *Standard & Poors rating:* AA (2016) |
+| **Fiji** | *Moody's rating:* Ba3 (2017) |
+| | *Standard & Poors rating:* BB- (2019) |
+| **Finland** | *Fitch rating:* AA+ (2016) |
+| | *Moody's rating:* Aa1 (2016) |
+| | *Standard & Poors rating:* AA+ (2014) |
+| **France** | *Fitch rating:* AA (2014) |
+| | *Moody's rating:* Aa2 (2015) |
+| | *Standard & Poors rating:* AA (2013) |
+| **Gabon** | *Fitch rating:* CCC (2020) |
+| | *Moody's rating:* Caa1 (2018) |
+| | *Standard & Poors rating:* N/A (2016) |
+| **Georgia** | *Fitch rating:* BB (2019) |
+| | *Moody's rating:* Ba2 (2017) |
+| | *Standard & Poors rating:* BB (2019) |
+| **Germany** | *Fitch rating:* AAA (1994) |
+| | *Moody's rating:* Aaa (1986) |
+| | *Standard & Poors rating:* AAA (1983) |
+| | Credit ratings prior to 1989 refer to West Germany. |
+| **Ghana** | *Fitch rating:* B (2013) |
+| | *Moody's rating:* B3 (2015) |
+| | *Standard & Poors rating:* B- (2020) |
+| **Greece** | *Fitch rating:* BB (2020) |
+| | *Moody's rating:* Ba3 (2020) |
+| | *Standard & Poors rating:* BB- (2019) |
+| **Grenada** | *Standard & Poors rating:* SD (2013) |
+| **Guatemala** | *Fitch rating:* BB- (2020) |
+| | *Moody's rating:* Ba1 (2010) |
+| | *Standard & Poors rating:* BB- (2017) |
+| **Guyana** | |
+| **Honduras** | *Moody's rating:* B1 (2017) |
+| | *Standard & Poors rating:* BB- (2017) |
+| **Hong Kong** | *Fitch rating:* AA- (2020) |
+| | *Moody's rating:* Aa3 (2020) |
+| | *Standard & Poors rating:* AA+ (2017) |
+| **Hungary** | *Fitch rating:* BBB (2019) |
+| | *Moody's rating:* Baa3 (2016) |
+| | *Standard & Poors rating:* BBB (2019) |
+| **Iceland** | *Fitch rating:* A (2017) |
+| | *Moody's rating:* A2 (2019) |
+| | *Standard & Poors rating:* A (2017) |
+| **India** | *Fitch rating:* BBB- (2006) |
+| | *Moody's rating:* Baa3 (2020) |
+| | *Standard & Poors rating:* BBB- (2007) |
+| **Indonesia** | *Fitch rating:* BBB (2017) |
+| | *Moody's rating:* Baa2 (2018) |
+| | *Standard & Poors rating:* BBB (2019) |
+| **Iran** | |
+| **Iraq** | *Fitch rating:* B- (2015) |
+| | *Moody's rating:* Caa1 (2017) |
+| | *Standard & Poors rating:* B- (2015) |
+| **Ireland** | *Fitch rating:* A+ (2017) |
+| | *Moody's rating:* A2 (2017) |
+| | *Standard & Poors rating:* AA- (2019) |
+| **Isle of Man** | *Moody's rating:* Aa3 (2020) |
+| | *Standard & Poors rating:* N/A (2014) |
+| **Israel** | *Fitch rating:* A+ (2016) |
+| | *Moody's rating:* A1 (2008) |
+| | *Standard & Poors rating:* AA- (2018) |
+| **Italy** | *Fitch rating:* BBB- (2020) |
+| | *Moody's rating:* Baa3 (2018) |
+| | *Standard & Poors rating:* BBB (2017) |
+| **Jamaica** | *Fitch rating:* B+ (2019) |
+| | *Moody's rating:* B2 (2019) |
+| | *Standard & Poors rating:* B+ (2019) |
+| **Japan** | *Fitch rating:* A (2015) |
+| | *Moody's rating:* A1 (2014) |
+| | *Standard & Poors rating:* A+ (2015) |
+| **Jordan** | *Fitch rating:* BB- (2019) |
+| | *Moody's rating:* B1 (2013) |
+| | *Standard & Poors rating:* B+ (2017) |
+| **Kazakhstan** | *Fitch rating:* BBB (2016) |
+| | *Moody's rating:* Baa3 (2016) |
+| | *Standard & Poors rating:* BBB- (2016) |
+| **Kenya** | *Fitch rating:* B+ (2007) |
+| | *Moody's rating:* B2 (2018) |
+| | *Standard & Poors rating:* B+ (2010) |
+| **Korea, South** | *Fitch rating:* AA- (2012) |
+| | *Moody's rating:* Aa2 (2015) |
+| | *Standard & Poors rating:* AA (2016) |
+| **Kuwait** | *Fitch rating:* AA (2008) |
+| | *Moody's rating:* A1 (2020) |
+| | *Standard & Poors rating:* AA- (2020) |
+| **Kyrgyzstan** | *Moody's rating:* B2 (2015) |
+| | *Standard & Poors rating:* NR (2016) |
+| **Laos** | *Fitch rating:* CCC (2020) |
+| | *Moody's rating:* Caa2 (2020) |
+| **Latvia** | *Fitch rating:* A- (2014) |
+| | *Moody's rating:* A3 (2015) |
+| | *Standard & Poors rating:* A+ (2020) |
+| **Lebanon** | *Fitch rating:* RD (2020) |
+| | *Moody's rating:* C (2020) |
+| | *Standard & Poors rating:* D (2020) |
+| **Lesotho** | *Fitch rating:* B (2019) |
+| **Liechtenstein** | *Standard & Poors rating:* AAA (1996) |
+| **Lithuania** | *Fitch rating:* A (2020) |
+| | *Moody's rating:* A3 (2015) |
+| | *Standard & Poors rating:* A+ (2020) |
+| **Luxembourg** | *Fitch rating:* AAA (1994) |
+| | *Moody's rating:* Aaa (1989) |
+| | *Standard & Poors rating:* AAA (1994) |
+| **Macau** | *Fitch rating:* AA (2018) |
+| | *Moody's rating:* Aa3 (2016) |
+| **Malawi** | |
+| **Malaysia** | *Fitch rating:* BBB+ (2020) |
+| | *Moody's rating:* A3 (2004) |
+| | *Standard & Poors rating:* A- (2003) |
+| **Maldives** | *Fitch rating:* CCC (2020) |
+| | *Moody's rating:* B3 (2020) |
+| **Mali** | *Moody's rating:* Caa1 (2020) |
+| **Malta** | *Fitch rating:* A+ (2017) |
+| | *Moody's rating:* A2 (2019) |
+| | *Standard & Poors rating:* A- (2016) |
+| **Mauritius** | *Moody's rating:* Baa1 (2012) |
+| **Mexico** | *Fitch rating:* BBB- (2020) |
+| | *Moody's rating:* Baa1 (2020) |
+| | *Standard & Poors rating:* BBB (2020) |
+| **Moldova** | *Moody's rating:* B3 (2010) |
+| **Mongolia** | *Fitch rating:* B (2018) |
+| | *Moody's rating:* B3 (2018) |
+| | *Standard & Poors rating:* B (2018) |
+| **Montenegro** | *Moody's rating:* B1 (2016) |
+| | *Standard & Poors rating:* B+ (2014) |
+| **Montserrat** | *Standard & Poors rating:* BBB- (2020) |
+| **Morocco** | *Fitch rating:* BB+ (2020) |
+| | *Moody's rating:* Ba1 (1999) |
+| | *Standard & Poors rating:* BBB- (2010) |
+| **Mozambique** | *Fitch rating:* CCC (2019) |
+| | *Moody's rating:* Caa2 (2019) |
+| | *Standard & Poors rating:* CCC+ (2019) |
+| **Namibia** | *Fitch rating:* BB (2019) |
+| | *Moody's rating:* Ba3 (2020) |
+| **Nepal** | |
+| **Netherlands** | *Fitch rating:* AAA (1994) |
+| | *Moody's rating:* Aaa (1986) |
+| | *Standard & Poors rating:* AAA (2015) |
+| **New Zealand** | *Fitch rating:* AA (2011) |
+| | *Moody's rating:* Aaa (2002) |
+| | *Standard & Poors rating:* AA (2011) |
+| **Nicaragua** | *Fitch rating:* B- (2018) |
+| | *Moody's rating:* B3 (2020) |
+| | *Standard & Poors rating:* B- (2018) |
+| **Niger** | *Moody's rating:* B3 (2019) |
+| **Nigeria** | *Fitch rating:* B (2020) |
+| | *Moody's rating:* B2 (2017) |
+| | *Standard & Poors rating:* B- (2020) |
+| **North Macedonia** | *Fitch rating:* BB+ (2019) |
+| | *Standard & Poors rating:* BB- (2013) |
+| **Norway** | *Fitch rating:* AAA (1995) |
+| | *Moody's rating:* Aaa (1997) |
+| | *Standard & Poors rating:* AAA (1975) |
+| **Oman** | *Fitch rating:* BB- (2020) |
+| | *Moody's rating:* Ba3 (2020) |
+| | *Standard & Poors rating:* B+ (2020) |
+| **Pakistan** | *Fitch rating:* B- (2018) |
+| | *Moody's rating:* B3 (2015) |
+| | *Standard & Poors rating:* B- (2019) |
+| **Panama** | *Fitch rating:* BBB (2011) |
+| | *Moody's rating:* Baa1 (2019) |
+| | *Standard & Poors rating:* BBB (2020) |
+| **Papua New Guinea** | *Moody's rating:* B2 (2016) |
+| | *Standard & Poors rating:* B- (2020) |
+| **Paraguay** | *Fitch rating:* BB+ (2018) |
+| | *Moody's rating:* Ba1 (2015) |
+| | *Standard & Poors rating:* BB (2014) |
+| **Peru** | *Fitch rating:* BBB+ (2013) |
+| | *Moody's rating:* A3 (2014) |
+| | *Standard & Poors rating:* BBB+ (2013) |
+| **Philippines** | *Fitch rating:* BBB (2017) |
+| | *Moody's rating:* Baa2 (2014) |
+| | *Standard & Poors rating:* BBB+ (2019) |
+| **Poland** | *Fitch rating:* A- (2007) |
+| | *Moody's rating:* A2 (2002) |
+| | *Standard & Poors rating:* A- (2018) |
+| **Portugal** | *Fitch rating:* BBB (2007) |
+| | *Moody's rating:* Baa3 (2018) |
+| | *Standard & Poors rating:* BBB (2019) |
+| **Puerto Rico** | *Standard & Poors rating:* D (2015) |
+| **Qatar** | *Fitch rating:* AA- (2017) |
+| | *Moody's rating:* Aa3 (2017) |
+| | *Standard & Poors rating:* AA- (2017) |
+| **Romania** | *Fitch rating:* BBB- (2011) |
+| | *Moody's rating:* Baa3 (2006) |
+| | *Standard & Poors rating:* BBB- (2014) |
+| **Russia** | *Fitch rating:* BBB (2019) |
+| | *Moody's rating:* Baa3 (2019) |
+| | *Standard & Poors rating:* BBB- (2018) |
+| **Rwanda** | *Fitch rating:* B+ (2014) |
+| | *Moody's rating:* B2 (2016) |
+| | *Standard & Poors rating:* B+ (2019) |
+| **Saint Kitts and Nevis** | |
+| **Saint Vincent and the Grenadines** | *Moody's rating:* B3 (2014) |
+| **San Marino** | *Fitch rating:* BB+ (2020) |
+| **Saudi Arabia** | *Fitch rating:* A (2019) |
+| | *Moody's rating:* A1 (2016) |
+| | *Standard & Poors rating:* A- (2016) |
+| **Senegal** | *Moody's rating:* Ba3 (2017) |
+| | *Standard & Poors rating:* B+ (2000) |
+| **Serbia** | *Fitch rating:* BB+ (2019) |
+| | *Moody's rating:* Ba3 (2017) |
+| | *Standard & Poors rating:* BB+ (2019) |
+| **Seychelles** | *Fitch rating:* B+ (2020) |
+| **Singapore** | *Fitch rating:* AAA (2003) |
+| | *Moody's rating:* Aaa (2002) |
+| | *Standard & Poors rating:* AAA (1995) |
+| **Slovakia** | *Fitch rating:* A (2020) |
+| | *Moody's rating:* A2 (2012) |
+| | *Standard & Poors rating:* A+ (2015) |
+| **Slovenia** | *Fitch rating:* A (2019) |
+| | *Moody's rating:* A3 (2020) |
+| | *Standard & Poors rating:* AA- (2019) |
+| **Solomon Islands** | *Moody's rating:* B3 (2015) |
+| **South Africa** | *Fitch rating:* BB- (2020) |
+| | *Moody's rating:* Ba2 (2020) |
+| | *Standard & Poors rating:* BB- (2020) |
+| **Spain** | *Fitch rating:* A- (2018) |
+| | *Moody's rating:* Baa1 (2018) |
+| | *Standard & Poors rating:* A (2019) |
+| **Sri Lanka** | *Fitch rating:* CCC (2020) |
+| | *Moody's rating:* Caa1 (2020) |
+| | *Standard & Poors rating:* CCC+ (2020) |
+| **Suriname** | *Fitch rating:* C (2020) |
+| | *Moody's rating:* Caa3 (2020) |
+| | *Standard & Poors rating:* SD (2020) |
+| **Sweden** | *Fitch rating:* AAA (2004) |
+| | *Moody's rating:* Aaa (2002) |
+| | *Standard & Poors rating:* AAA (2004) |
+| **Switzerland** | *Fitch rating:* AAA (2000) |
+| | *Moody's rating:* Aaa (1982) |
+| | *Standard & Poors rating:* AAA (1988) |
+| **Taiwan** | *Fitch rating:* AA- (2016) |
+| | *Moody's rating:* Aa3 (1994) |
+| | *Standard & Poors rating:* AA- (2002) |
+| **Tajikistan** | *Moody's rating:* B3 (2017) |
+| | *Standard & Poors rating:* B- (2017) |
+| **Tanzania** | *Moody's rating:* B2 (2020) |
+| **Thailand** | *Fitch rating:* BBB+ (2013) |
+| | *Moody's rating:* Baa1 (2003) |
+| | *Standard & Poors rating:* BBB+ (2004) |
+| **Togo** | *Moody's rating:* B3 (2019) |
+| | *Standard & Poors rating:* B (2019) |
+| **Trinidad and Tobago** | *Moody's rating:* Ba1 (2017) |
+| | *Standard & Poors rating:* BBB- (2020) |
+| **Tunisia** | *Fitch rating:* B (2020) |
+| | *Moody's rating:* B2 (2018) |
+| | *Standard & Poors rating:* N/A (2013) |
+| **Turkey** | *Fitch rating:* BB- (2019) |
+| | *Moody's rating:* B2 (2020) |
+| | *Standard & Poors rating:* B+ (2018) |
+| **Tuvalu** | |
+| **Uganda** | *Fitch rating:* B+ (2015) |
+| | *Moody's rating:* B2 (2016) |
+| | *Standard & Poors rating:* B (2014) |
+| **Ukraine** | *Fitch rating:* B (2019) |
+| | *Moody's rating:* B3 (2020) |
+| | *Standard & Poors rating:* B (2019) |
+| **United Arab Emirates** | *Fitch rating:* AA- (2020) |
+| | *Moody's rating:* Aa2 (2007) |
+| | *Standard & Poors rating:* AA (2007) |
+| **United Kingdom** | *Fitch rating:* AA- (2020) |
+| | *Moody's rating:* Aaa (2020) |
+| | *Standard & Poors rating:* AA (2016) |
+| **United States** | *Fitch rating:* AAA (1994) |
+| | *Moody's rating:* Aaa (1949) |
+| | *Standard & Poors rating:* AA+ (2011) |
+| **Uruguay** | *Fitch rating:* BBB- (2013) |
+| | *Moody's rating:* Baa2 (2014) |
+| | *Standard & Poors rating:* BBB (2015) |
+| **Uzbekistan** | *Fitch rating:* BB- (2018) |
+| | *Moody's rating:* B1 (2019) |
+| | *Standard & Poors rating:* BB- (2018) |
+| **Venezuela** | *Fitch rating:* RD (2017) |
+| | *Moody's rating:* WR (2019) |
+| | *Standard & Poors rating:* SD (2017) |
+| **Vietnam** | *Fitch rating:* BB (2018) |
+| | *Moody's rating:* Ba3 (2018) |
+| | *Standard & Poors rating:* BB (2019) |
+| **West Bank** | |
+| **World** | |
+| **Zambia** | *Fitch rating:* RD (2020) |
+| | *Moody's rating:* Ca (2020) |
+| | *Standard & Poors rating:* SD (2020) |
+| **Zimbabwe** | |
+

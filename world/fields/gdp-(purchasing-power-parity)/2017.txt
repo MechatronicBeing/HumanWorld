@@ -1,0 +1,899 @@
+FIELD LISTING :: GDP (PURCHASING POWER PARITY)
+
+This entry gives the gross domestic product (GDP) or value of all final goods and services produced within a nation in a given year. A nation's GDP at purchasing power parity (PPP) exchange rates is the sum value of all goods and services produced in the country valued at prices prevailing in the United States in the year noted. This is the measure most economists prefer when looking at per-capita welfare and when comparing living conditions or use of resources across countries. The measure is difficult to compute, as a US dollar value has to be assigned to all goods and services in the country regardless of whether these goods and services have a direct equivalent in the United States (for example, the value of an ox-cart or non-US military equipment); as a result, PPP estimates for some countries are based on a small and sometimes different set of goods and services. In addition, many countries do not formally participate in the World Bank's PPP project that calculates these measures, so the resulting GDP estimates for these countries may lack precision. For many developing countries, PPP-based GDP measures are multiples of the official exchange rate (OER) measure. The differences between the OER- and PPP-denominated GDP values for most of the wealthy industrialized countries are generally much smaller.
+
+| Country | GDP (PURCHASING POWER PARITY) |
+| --- | --- |
+| **Afghanistan** | $66.65 billion (2016 est.) |
+| | $64.29 billion (2015 est.) |
+| | $62.78 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Albania** | $34 billion (2016 est.) |
+| | $32.48 billion (2015 est.) |
+| | $31.43 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| | unreported output may be as large as 50% of official GDP |
+| **Algeria** | $609.6 billion (2016 est.) |
+| | $582.7 billion (2015 est.) |
+| | $555.9 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **American Samoa** | $711 million (2013 est.) |
+| | $718 million (2012 est.) |
+| | $647 million (2012 est.) |
+| **Andorra** | $3.327 billion (2015 est.) |
+| | $3.363 billion (2014 est.) |
+| | $3.273 billion (2013 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Angola** | $186 billion (2016 est.) |
+| | $184.9 billion (2015 est.) |
+| | $177.5 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Anguilla** | $175.4 million (2009 est.) |
+| | $191.7 million (2008 est.) |
+| | $108.9 million (2004 est.) |
+| **Antigua and Barbuda** | $2.288 billion (2016 est.) |
+| | $2.145 billion (2015 est.) |
+| | $2.039 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Argentina** | $874.3 billion (2016 est.) |
+| | $883.1 billion (2015 est.) |
+| | $851.1 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Armenia** | $25.83 billion (2016 est.) |
+| | $25.46 billion (2015 est.) |
+| | $24.39 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Aruba** | $2.516 billion (2009 est.) |
+| | $2.258 billion (2005 est.) |
+| | $2.205 billion (2004 est.) |
+| **Australia** | $1.188 trillion (2016 est.) |
+| | $1.144 trillion (2015 est.) |
+| | $1.105 trillion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Austria** | $417.1 billion (2016 est.) |
+| | $405.8 billion (2015 est.) |
+| | $397.7 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Azerbaijan** | $165.7 billion (2016 est.) |
+| | $168.8 billion (2015 est.) |
+| | $165.9 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Bahamas, The** | $9.017 billion (2016 est.) |
+| | $8.926 billion (2015 est.) |
+| | $8.98 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Bahrain** | $66.92 billion (2016 est.) |
+| | $64.17 billion (2015 est.) |
+| | $61.71 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Bangladesh** | $629.7 billion (2016 est.) |
+| | $580.1 billion (2015 est.) |
+| | $537.3 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Barbados** | $4.793 billion (2016 est.) |
+| | $4.658 billion (2015 est.) |
+| | $4.567 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Belarus** | $171.7 billion (2016 est.) |
+| | $174.1 billion (2015 est.) |
+| | $179.1 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Belgium** | $509 billion (2016 est.) |
+| | $496.7 billion (2015 est.) |
+| | $484.2 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Belize** | $3.097 billion (2016 est.) |
+| | $3.082 billion (2015 est.) |
+| | $2.963 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Benin** | $23.58 billion (2016 est.) |
+| | $22.38 billion (2015 est.) |
+| | $21.69 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Bermuda** | $5.198 billion (2013 est.) |
+| | $5.331 billion (2012 est.) |
+| | $5.6 billion (2011 est.) |
+| **Bhutan** | $6.508 billion (2016 est.) |
+| | $6.049 billion (2015 est.) |
+| | $5.638 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Bolivia** | $78.77 billion (2016 est.) |
+| | $74.59 billion (2015 est.) |
+| | $70.37 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Bosnia and Herzegovina** | $42.04 billion (2016 est.) |
+| | $40.71 billion (2015 est.) |
+| | $39.09 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Botswana** | $37.21 billion (2016 est.) |
+| | $35.23 billion (2015 est.) |
+| | $35.45 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Brazil** | $3.141 trillion (2016 est.) |
+| | $3.217 trillion (2015 est.) |
+| | $3.307 trillion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **British Virgin Islands** | $500 million (2010 est.) |
+| **Brunei** | $32.76 billion (2016 est.) |
+| | $33.17 billion (2015 est.) |
+| | $32.95 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Bulgaria** | $144.6 billion (2016 est.) |
+| | $138 billion (2015 est.) |
+| | $131.7 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Burkina Faso** | $32.97 billion (2016 est.) |
+| | $30.75 billion (2015 est.) |
+| | $29.24 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Burma** | $303.3 billion (2016 est.) |
+| | $282.2 billion (2015 est.) |
+| | $260.9 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Burundi** | $7.849 billion (2016 est.) |
+| | $7.831 billion (2015 est.) |
+| | $8.066 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Cabo Verde** | $3.529 billion (2016 est.) |
+| | $3.357 billion (2015 est.) |
+| | $3.288 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Cambodia** | $59.02 billion (2016 est.) |
+| | $54.44 billion (2015 est.) |
+| | $50.24 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Cameroon** | $77.1 billion (2016 est.) |
+| | $72.73 billion (2015 est.) |
+| | $68.03 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Canada** | $1.683 trillion (2016 est.) |
+| | $1.637 trillion (2015 est.) |
+| | $1.605 trillion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Cayman Islands** | $2.507 billion (2014 est.) |
+| | $2.465 billion (2013 est.) |
+| | $2.435 billion (2012 est.) |
+| **Central African Republic** | $3.185 billion (2016 est.) |
+| | $3.009 billion (2015 est.) |
+| | $2.84 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Chad** | $28.96 billion (2016 est.) |
+| | $30.56 billion (2015 est.) |
+| | $29.71 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Chile** | $438.3 billion (2016 est.) |
+| | $426 billion (2015 est.) |
+| | $412.1 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **China** | $21.29 trillion (2016 est.) |
+| | $19.7 trillion (2015 est.) |
+| | $18.23 trillion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Christmas Island** | $NA |
+| **Cocos (Keeling) Islands** | $NA |
+| **Colombia** | $688.6 billion (2016 est.) |
+| | $666.9 billion (2015 est.) |
+| | $640.2 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Comoros** | $1.259 billion (2016 est.) |
+| | $1.217 billion (2015 est.) |
+| | $1.191 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Congo, Democratic Republic of the** | $65.02 billion (2016 est.) |
+| | $62.7 billion (2015 est.) |
+| | $58.01 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Congo, Republic of the** | $29.74 billion (2016 est.) |
+| | $30.22 billion (2015 est.) |
+| | $29.13 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Cook Islands** | $244.1 million (2010 est.) |
+| | $183.2 million (2005 est.) |
+| **Costa Rica** | $80.68 billion (2016 est.) |
+| | $76.36 billion (2015 est.) |
+| | $72.13 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Cote d'Ivoire** | $87.91 billion (2016 est.) |
+| | $80.59 billion (2015 est.) |
+| | $73.18 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Croatia** | $95.65 billion (2016 est.) |
+| | $91.71 billion (2015 est.) |
+| | $88.74 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Cuba** | $132.9 billion (2016 est.) |
+| | $134.2 billion (2015 est.) |
+| | $128.5 billion (2014 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Curacao** | $3.128 billion (2012 est.) |
+| | $3.02 billion (2011 est.) |
+| | $2.96 billion (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Cyprus** | $29.66 billion (2016 est.) |
+| | $28.48 billion (2015 est.) |
+| | $27.71 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Czechia** | $353.9 billion (2016 est.) |
+| | $340.6 billion (2015 est.) |
+| | $319.9 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Denmark** | $275.3 billion (2016 est.) |
+| | $267.3 billion (2015 est.) |
+| | $260.3 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Djibouti** | $3.344 billion (2016 est.) |
+| | $3.1 billion (2015 est.) |
+| | $2.88 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Dominica** | $805 million (2016 est.) |
+| | $774 million (2015 est.) |
+| | $786 million (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Dominican Republic** | $161.9 billion (2016 est.) |
+| | $149.9 billion (2015 est.) |
+| | $138.5 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Ecuador** | $184.9 billion (2016 est.) |
+| | $185.3 billion (2015 est.) |
+| | $183 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Egypt** | $1.132 trillion (2016 est.) |
+| | $1.072 trillion (2015 est.) |
+| | $1.016 trillion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **El Salvador** | $54.67 billion (2016 est.) |
+| | $52.73 billion (2015 est.) |
+| | $51 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Equatorial Guinea** | $31.18 billion (2016 est.) |
+| | $34.09 billion (2015 est.) |
+| | $37.11 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Eritrea** | $9.167 billion (2016 est.) |
+| | $8.731 billion (2015 est.) |
+| | $8.244 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Estonia** | $38.94 billion (2016 est.) |
+| | $37.67 billion (2015 est.) |
+| | $36.65 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Ethiopia** | $177.4 billion (2016 est.) |
+| | $162.3 billion (2015 est.) |
+| | $145.4 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **European Union** | $19.97 trillion (2016 est.) |
+| | $19.6 trillion (2015 est.) |
+| | $18.91 trillion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Falkland Islands (Islas Malvinas)** | $281.8 million (2012 est.) |
+| | $164.5 million (2007 est.) |
+| | $105.1 million (2002 est.) |
+| **Faroe Islands** | $2.001 billion (2014 est.) |
+| | $1.89 billion (2013 est.) |
+| | $1.608 billion (2013 est.) |
+| **Fiji** | $8.188 billion (2016 est.) |
+| | $8.054 billion (2015 est.) |
+| | $7.673 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Finland** | $231.9 billion (2016 est.) |
+| | $224.6 billion (2015 est.) |
+| | $222.3 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **France** | $2.735 trillion (2016 est.) |
+| | $2.669 trillion (2015 est.) |
+| | $2.612 trillion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **French Polynesia** | $5.49 billion (2015 est.) |
+| | $5.383 billion (2014 est.) |
+| | $6.963 billion (2010 est.) |
+| **Gabon** | $35.78 billion (2016 est.) |
+| | $34.61 billion (2015 est.) |
+| | $32.96 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Gambia, The** | $3.418 billion (2016 est.) |
+| | $3.302 billion (2015 est.) |
+| | $3.132 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Gaza Strip** | see entry for the West Bank |
+| **Georgia** | $37.17 billion (2016 est.) |
+| | $35.72 billion (2015 est.) |
+| | $34.35 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Germany** | $3.997 trillion (2016 est.) |
+| | $3.874 trillion (2015 est.) |
+| | $3.776 trillion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Ghana** | $120.9 billion (2016 est.) |
+| | $115.3 billion (2015 est.) |
+| | $109.9 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Gibraltar** | $2.044 billion (2014 est.) |
+| | $1.85 billion (2013 est.) |
+| | $2 billion (2012 est.) |
+| | *note:* data are in 2014 dollars |
+| **Greece** | $289.3 billion (2016 est.) |
+| | $285.6 billion (2015 est.) |
+| | $283.2 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Greenland** | $2.173 billion (2015 est.) |
+| | $2.137 billion (2014 est.) |
+| | $2.154 billion (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Grenada** | $1.524 billion (2016 est.) |
+| | $1.451 billion (2015 est.) |
+| | $1.349 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Guam** | $4.882 billion (2013 est.) |
+| | $4.756 billion (2012 est.) |
+| | $4.562 billion (2011 est.) |
+| **Guatemala** | $131.7 billion (2016 est.) |
+| | $126.2 billion (2015 est.) |
+| | $119.9 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Guernsey** | $3.465 billion (2015 est.) |
+| | $3.451 billion (2014 est.) |
+| | $3.42 billion (2013 est.) |
+| | *note:* data are in 2015 dollars |
+| **Guinea-Bissau** | $2.875 billion (2016 est.) |
+| | $2.701 billion (2015 est.) |
+| | $2.542 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Guinea** | $24.38 billion (2016 est.) |
+| | $22.57 billion (2015 est.) |
+| | $21.57 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Guyana** | $6.045 billion (2016 est.) |
+| | $5.778 billion (2015 est.) |
+| | $5.542 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Haiti** | $19.35 billion (2016 est.) |
+| | $18.83 billion (2015 est.) |
+| | $18.41 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Holy See (Vatican City)** | $NA |
+| **Honduras** | $43.17 billion (2016 est.) |
+| | $41.14 billion (2015 est.) |
+| | $39.27 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Hong Kong** | $430.1 billion (2016 est.) |
+| | $416.1 billion (2015 est.) |
+| | $402 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Hungary** | $270.1 billion (2016 est.) |
+| | $261.6 billion (2015 est.) |
+| | $250.9 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Iceland** | $16.52 billion (2016 est.) |
+| | $15.21 billion (2015 est.) |
+| | $14.46 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **India** | $8.701 trillion (2016 est.) |
+| | $8.021 trillion (2015 est.) |
+| | $7.346 trillion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Indonesia** | $3.031 trillion (2016 est.) |
+| | $2.85 trillion (2015 est.) |
+| | $2.688 trillion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Iran** | $1.549 trillion (2016 est.) |
+| | $1.36 trillion (2015 est.) |
+| | $1.367 trillion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Iraq** | $652.3 billion (2016 est.) |
+| | $580.3 billion (2015 est.) |
+| | $547.5 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Ireland** | $325.5 billion (2016 est.) |
+| | $305.8 billion (2015 est.) |
+| | $241 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Isle of Man** | $7.428 billion (2014 est.) |
+| | $6.298 billion (2013 est.) |
+| | $5.85 billion (2012 est.) |
+| | *note:* data are in 2014 US dollars |
+| **Israel** | $300.9 billion (2016 est.) |
+| | $285.8 billion (2015 est.) |
+| | $275.5 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Italy** | $2.234 trillion (2016 est.) |
+| | $2.187 trillion (2015 est.) |
+| | $2.146 trillion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Jamaica** | $25.33 billion (2016 est.) |
+| | $24.69 billion (2015 est.) |
+| | $24.2 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Japan** | $5.233 trillion (2016 est.) |
+| | $5.115 trillion (2015 est.) |
+| | $5.004 trillion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Jersey** | $5.08 billion (2015 est.) |
+| | $4.98 billion (2014) |
+| | *note:* data are in 2015 US dollars |
+| **Jordan** | $85.55 billion (2016 est.) |
+| | $82.81 billion (2015 est.) |
+| | $80.01 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Kazakhstan** | $451.2 billion (2016 est.) |
+| | $440.7 billion (2015 est.) |
+| | $430.8 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Kenya** | $152.9 billion (2016 est.) |
+| | $142.6 billion (2015 est.) |
+| | $133.5 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Kiribati** | $215 million (2016 est.) |
+| | $203 million (2015 est.) |
+| | $187 million (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Korea, North** | $40 billion (2015 est.) |
+| | $40 billion (2014 est.) |
+| | $40 billion (2013 est.) |
+| | *note:* data are in 2014 US dollars; |
+| | North Korea does not publish reliable National Income Accounts data; the data shown are derived from purchasing power parity (PPP) GDP estimates for North Korea that were made by Angus MADDISON in a study conducted for the OECD; his figure for 1999 was extrapolated to 2015 using estimated real growth rates for North Korea's GDP and an inflation factor based on the US GDP deflator; the results were rounded to the nearest $10 billion. |
+| **Korea, South** | $1.934 trillion (2016 est.) |
+| | $1.857 trillion (2015 est.) |
+| | $1.787 trillion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Kosovo** | $18.41 billion (2016 est.) |
+| | $17.57 billion (2015 est.) |
+| | $16.7 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Kuwait** | $303.7 billion (2016 est.) |
+| | $292.6 billion (2015 est.) |
+| | $283.6 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Kyrgyzstan** | $21.5 billion (2016 est.) |
+| | $20.46 billion (2015 est.) |
+| | $19.56 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Laos** | $45.25 billion (2016 est.) |
+| | $41.75 billion (2015 est.) |
+| | $38.5 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Latvia** | $50.61 billion (2016 est.) |
+| | $49.01 billion (2015 est.) |
+| | $47.21 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Lebanon** | $85.11 billion (2016 est.) |
+| | $83.2 billion (2015 est.) |
+| | $81.64 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Lesotho** | $6.996 billion (2016 est.) |
+| | $6.749 billion (2015 est.) |
+| | $6.512 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Liberia** | $3.743 billion (2016 est.) |
+| | $3.758 billion (2015 est.) |
+| | $3.716 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Libya** | $40.02 billion (2016 est.) |
+| | $40.73 billion (2015 est.) |
+| | $44.91 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Liechtenstein** | $4.978 billion (2014 est.) |
+| | $3.2 billion (2009 est.) |
+| | $3.216 billion (2008 est.) |
+| **Lithuania** | $86.05 billion (2016 est.) |
+| | $83.06 billion (2015 est.) |
+| | $80.73 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Luxembourg** | $60.93 billion (2016 est.) |
+| | $57.75 billion (2015 est.) |
+| | $54.93 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Macau** | $63.75 billion (2016 est.) |
+| | $64.32 billion (2015 est.) |
+| | $81.1 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Macedonia** | $30.26 billion (2016 est.) |
+| | $29.17 billion (2015 est.) |
+| | $27.79 billion (2014 est.) |
+| | *note:* data are in 2016 dollars; Macedonia has a large informal sector that may not be reflected in these data |
+| **Madagascar** | $37.5 billion (2016 est.) |
+| | $35.54 billion (2015 est.) |
+| | $34.1 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Malawi** | $21.13 billion (2016 est.) |
+| | $20.4 billion (2015 est.) |
+| | $19.61 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Malaysia** | $863.3 billion (2016 est.) |
+| | $818 billion (2015 est.) |
+| | $770.4 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Maldives** | $6.483 billion (2016 est.) |
+| | $6.161 billion (2015 est.) |
+| | $5.9 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Mali** | $38.25 billion (2016 est.) |
+| | $35.7 billion (2015 est.) |
+| | $33.33 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Malta** | $17.32 billion (2016 est.) |
+| | $16.21 billion (2015 est.) |
+| | $14.98 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Marshall Islands** | $182 million (2016 est.) |
+| | $177 million (2015 est.) |
+| | $171 million (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Mauritania** | $16.45 billion (2016 est.) |
+| | $15.96 billion (2015 est.) |
+| | $15.65 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Mauritius** | $25.96 billion (2016 est.) |
+| | $24.67 billion (2015 est.) |
+| | $23.58 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Mexico** | $2.315 trillion (2016 est.) |
+| | $2.235 trillion (2015 est.) |
+| | $2.154 trillion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Micronesia, Federated States of** | $334 million (2016 est.) |
+| | $320 million (2015 est.) |
+| | $305 million (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Moldova** | $18.96 billion (2016 est.) |
+| | $17.96 billion (2015 est.) |
+| | $17.84 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Monaco** | $7.672 billion (2015 est.) |
+| | $7.279 billion (2014 est.) |
+| | $6.79 billion (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Mongolia** | $36.99 billion (2016 est.) |
+| | $36.17 billion (2015 est.) |
+| | $34.96 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Montenegro** | $10.37 billion (2016 est.) |
+| | $9.992 billion (2015 est.) |
+| | $9.559 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Montserrat** | $43.78 million (2006 est.) |
+| **Morocco** | $281.4 billion (2016 est.) |
+| | $274.5 billion (2015 est.) |
+| | $259.8 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Mozambique** | $35.08 billion (2016 est.) |
+| | $33.35 billion (2015 est.) |
+| | $30.96 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Namibia** | $26.35 billion (2016 est.) |
+| | $25.74 billion (2015 est.) |
+| | $24.02 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Nauru** | $151 million (2016 est.) |
+| | $135 million (2015 est.) |
+| | $130 million (2014 est.) |
+| | *note:* data are in 2015 dollars |
+| **Nepal** | $71.82 billion (2016 est.) |
+| | $70.62 billion (2015 est.) |
+| | $67.62 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Netherlands** | $872.8 billion (2016 est.) |
+| | $843.1 billion (2015 est.) |
+| | $815.7 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **New Caledonia** | $10.77 billion (2015 est.) |
+| | $10.62 billion (2014 est.) |
+| | $10.33 billion (2013 est.) |
+| | *note:* data are in 2015 dollars |
+| **New Zealand** | $176.4 billion (2016 est.) |
+| | $168.2 billion (2015 est.) |
+| | $161.2 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Nicaragua** | $34.07 billion (2016 est.) |
+| | $32.13 billion (2015 est.) |
+| | $30.31 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Nigeria** | $1.09 trillion (2016 est.) |
+| | $1.094 trillion (2015 est.) |
+| | $1.054 trillion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Niger** | $20.39 billion (2016 est.) |
+| | $19.17 billion (2015 est.) |
+| | $18.24 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Niue** | $10.01 million (2003 est.) |
+| **Norfolk Island** | $NA |
+| **Northern Mariana Islands** | $682 million (2013 est.) |
+| | $665 million (2012) |
+| | $649 million (2011) |
+| | *note:* GDP estimate includes US subsidy; data are in 2013 dollars |
+| **Norway** | $364.5 billion (2016 est.) |
+| | $356.1 billion (2015 est.) |
+| | $346.7 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Oman** | $184.7 billion (2016 est.) |
+| | $177 billion (2015 est.) |
+| | $168.1 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Pakistan** | $986.3 billion (2016 est.) |
+| | $931.9 billion (2015 est.) |
+| | $885.9 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| | data are for fiscal years |
+| **Palau** | $292 million (2016 est.) |
+| | $283 million (2015 est.) |
+| | $252 million (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Panama** | $92.81 billion (2016 est.) |
+| | $87.38 billion (2015 est.) |
+| | $81.73 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Papua New Guinea** | $29.4 billion (2016 est.) |
+| | $28.36 billion (2015 est.) |
+| | $25.69 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Paraguay** | $64.39 billion (2016 est.) |
+| | $61.08 billion (2015 est.) |
+| | $58.68 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Peru** | $406.5 billion (2016 est.) |
+| | $386 billion (2015 est.) |
+| | $369.6 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Philippines** | $806.3 billion (2016 est.) |
+| | $744.6 billion (2015 est.) |
+| | $694.5 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Pitcairn Islands** | $NA |
+| **Poland** | $1.051 trillion (2016 est.) |
+| | $1.011 trillion (2015 est.) |
+| | $963.1 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Portugal** | $298.6 billion (2016 est.) |
+| | $290.7 billion (2015 est.) |
+| | $283.1 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Puerto Rico** | $128.7 billion (2016 est.) |
+| | $130.5 billion (2015 est.) |
+| | $130.6 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Qatar** | $327.6 billion (2016 est.) |
+| | $316.4 billion (2015 est.) |
+| | $302.3 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Romania** | $441.6 billion (2016 est.) |
+| | $416 billion (2015 est.) |
+| | $396 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Russia** | $3.862 trillion (2016 est.) |
+| | $3.822 trillion (2015 est.) |
+| | $3.891 trillion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Rwanda** | $22.79 billion (2016 est.) |
+| | $21.24 billion (2015 est.) |
+| | $19.3 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Saint Helena, Ascension, and Tristan da Cunha** | $31.1 million (FY09/10 est.) |
+| **Saint Kitts and Nevis** | $1.463 billion (2016 est.) |
+| | $1.4 billion (2015 est.) |
+| | $1.321 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Saint Lucia** | $2.306 billion (2016 est.) |
+| | $2.254 billion (2015 est.) |
+| | $2.187 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Saint Martin** | $561.5 million (2005 est.) |
+| **Saint Pierre and Miquelon** | $215.3 million (2006 est.) |
+| | *note:* supplemented by annual payments from France of about $60 million |
+| **Saint Vincent and the Grenadines** | $1.232 billion (2016 est.) |
+| | $1.207 billion (2015 est.) |
+| | $1.184 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Samoa** | $1.087 billion (2016 est.) |
+| | $1.002 billion (2015 est.) |
+| | $975 million (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **San Marino** | $2.023 billion (2016 est.) |
+| | $1.978 billion (2015 est.) |
+| | $1.947 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Sao Tome and Principe** | $638 million (2016 est.) |
+| | $606 million (2015 est.) |
+| | $576 million (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Saudi Arabia** | $1.756 trillion (2016 est.) |
+| | $1.705 trillion (2015 est.) |
+| | $1.62 trillion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Senegal** | $39.64 billion (2016 est.) |
+| | $36.67 billion (2015 est.) |
+| | $34.07 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Serbia** | $101.7 billion (2016 est.) |
+| | $97.73 billion (2015 est.) |
+| | $95.95 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Seychelles** | $2.561 billion (2016 est.) |
+| | $2.421 billion (2015 est.) |
+| | $2.281 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Sierra Leone** | $10.9 billion (2016 est.) |
+| | $10.14 billion (2015 est.) |
+| | $12.62 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Singapore** | $492.5 billion (2016 est.) |
+| | $476.8 billion (2015 est.) |
+| | $462.7 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Sint Maarten** | $365.8 million (2014 est.) |
+| | $353.5 million (2013 est.) |
+| | $339.6 million (2012 est.) |
+| | *note:* datar are in 2014 US dollars |
+| **Slovakia** | $170 billion (2016 est.) |
+| | $162.5 billion (2015 est.) |
+| | $154.9 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Slovenia** | $66.5 billion (2016 est.) |
+| | $63.66 billion (2015 est.) |
+| | $61.58 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Solomon Islands** | $1.257 billion (2016 est.) |
+| | $1.202 billion (2015 est.) |
+| | $1.16 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Somalia** | $16.77 billion (2016 est.) |
+| | $16.04 billion (2015 est.) |
+| | $15.32 billion (2014 est.) |
+| | *note:* data are in 2016 US dollars |
+| **South Africa** | $739.2 billion (2016 est.) |
+| | $727.9 billion (2015 est.) |
+| | $710.8 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **South Sudan** | $20.71 billion (2016 est.) |
+| | $23.73 billion (2015 est.) |
+| | $23.52 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Spain** | $1.686 trillion (2016 est.) |
+| | $1.613 trillion (2015 est.) |
+| | $1.546 trillion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Sri Lanka** | $261.1 billion (2016 est.) |
+| | $247 billion (2015 est.) |
+| | $233 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Sudan** | $177 billion (2016 est.) |
+| | $169.6 billion (2015 est.) |
+| | $160 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Suriname** | $7.885 billion (2016 est.) |
+| | $8.699 billion (2015 est.) |
+| | $8.845 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Swaziland** | $11.11 billion (2016 est.) |
+| | $10.97 billion (2015 est.) |
+| | $10.74 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Sweden** | $497.4 billion (2016 est.) |
+| | $476 billion (2015 est.) |
+| | $452.4 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Switzerland** | $502.7 billion (2016 est.) |
+| | $489.6 billion (2015 est.) |
+| | $478.7 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Syria** | $NA (2015 est.) |
+| | $55.8 billion (2014 est.) |
+| | $61.9 billion (2013 est.) |
+| | *notes:* data are in 2015 US dollars |
+| | the war-driven deterioration of the economy resulted in a disappearance of quality national level statistics in the 2012-13 period |
+| **Taiwan** | $1.133 trillion (2016 est.) |
+| | $1.102 trillion (2015 est.) |
+| | $1.083 trillion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Tajikistan** | $26.02 billion (2016 est.) |
+| | $24.04 billion (2015 est.) |
+| | $22.43 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Tanzania** | $150.3 billion (2016 est.) |
+| | $138.7 billion (2015 est.) |
+| | $128.3 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Thailand** | $1.165 trillion (2016 est.) |
+| | $1.114 trillion (2015 est.) |
+| | $1.071 trillion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Timor-Leste** | $6.597 billion (2016 est.) |
+| | $7.093 billion (2015 est.) |
+| | $5.805 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Togo** | $11.64 billion (2016 est.) |
+| | $10.95 billion (2015 est.) |
+| | $10.28 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Tokelau** | $1.5 million (1993 est.) |
+| **Tonga** | $560 million (2016 est.) |
+| | $536 million (2015 est.) |
+| | $512 million (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Trinidad and Tobago** | $43.42 billion (2016 est.) |
+| | $45.31 billion (2015 est.) |
+| | $45.08 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Tunisia** | $130.5 billion (2016 est.) |
+| | $127.6 billion (2015 est.) |
+| | $124.9 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Turkey** | $1.994 trillion (2016 est.) |
+| | $1.908 trillion (2015 est.) |
+| | $1.78 trillion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Turkmenistan** | $95.5 billion (2016 est.) |
+| | $88.78 billion (2015 est.) |
+| | $82.5 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Turks and Caicos Islands** | $632 million (2007 est.) |
+| | $568.3 million (2006 est.) |
+| **Tuvalu** | $40 million (2016 est.) |
+| | $38 million (2015 est.) |
+| | $34 million (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Uganda** | $83.39 billion (2016 est.) |
+| | $80.47 billion (2015 est.) |
+| | $75.33 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Ukraine** | $352.9 billion (2016 est.) |
+| | $340.6 billion (2015 est.) |
+| | $373.4 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **United Arab Emirates** | $671.1 billion (2016 est.) |
+| | $643.1 billion (2015 est.) |
+| | $612.8 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **United Kingdom** | $2.785 trillion (2016 est.) |
+| | $2.701 trillion (2015 est.) |
+| | $2.615 trillion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **United States** | $18.62 trillion (2016 est.) |
+| | $18.12 trillion (2015 est.) |
+| | $17.43 trillion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Uruguay** | $74.46 billion (2016 est.) |
+| | $72.47 billion (2015 est.) |
+| | $71.43 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Uzbekistan** | $205.6 billion (2016 est.) |
+| | $188.4 billion (2015 est.) |
+| | $172.5 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Vanuatu** | $740 million (2016 est.) |
+| | $703 million (2015 est.) |
+| | $684 million (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Venezuela** | $434.9 billion (2016 est.) |
+| | $514 billion (2015 est.) |
+| | $542.2 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Vietnam** | $595.4 billion (2016 est.) |
+| | $553.5 billion (2015 est.) |
+| | $513.3 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Virgin Islands** | $3.792 billion (2013 est.) |
+| | $4.143 billion (2012 est.) |
+| | $4.288 billion (2011 est.) |
+| | *note:* data are in 2013 dollars |
+| **Wallis and Futuna** | $60 million (2004 est.) |
+| **West Bank** | $21.22 billion (2014 est.) |
+| | $20.15 billion (2013 est.) |
+| | $19.95 billion (2012 est.) |
+| | *note:* data are in 2014 US dollars; includes Gaza Strip |
+| **Western Sahara** | $906.5 million (2007 est.) |
+| **World** | $120.2 trillion (2016 est.) |
+| | $116.7 trillion (2015 est.) |
+| | $113.1 trillion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Yemen** | $69.17 billion (2016 est.) |
+| | $75.7 billion (2015 est.) |
+| | $104.1 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Zambia** | $65.13 billion (2016 est.) |
+| | $62.19 billion (2015 est.) |
+| | $59.77 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |
+| **Zimbabwe** | $32.38 billion (2016 est.) |
+| | $31.77 billion (2015 est.) |
+| | $30.98 billion (2014 est.) |
+| | *note:* data are in 2016 dollars |

@@ -1,0 +1,826 @@
+CIA - The World Factbook -- Field Listing :: GDP - per capita (PPP)   
+
+This entry shows GDP on a purchasing power parity basis divided by population as of 1 July for the same year.
+
+| Country | GDP - per capita (PPP) |
+| --- | --- |
+| **Afghanistan** | $1,000 (2012 est.) |
+| | $1,000 (2011 est.) |
+| | $900 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Albania** | $8,000 (2012 est.) |
+| | $7,800 (2011 est.) |
+| | $7,500 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Algeria** | $7,500 (2012 est.) |
+| | $7,400 (2011 est.) |
+| | $7,400 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **American Samoa** | $8,000 (2007 est.) |
+| | $5,800 (2005 est.) |
+| **Andorra** | $37,200 (2011 est.) |
+| | $37,700 (2010 est.) |
+| | $38,400 (2009 est.) |
+| **Angola** | $6,200 (2012 est.) |
+| | $6,000 (2011 est.) |
+| | $6,000 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Anguilla** | $12,200 (2008 est.) |
+| **Antarctica** | $1.12346 |
+| **Antigua and Barbuda** | $17,500 (2012 est.) |
+| | $17,300 (2011 est.) |
+| | $18,400 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Argentina** | $18,200 (2012 est.) |
+| | $17,900 (2011 est.) |
+| | $16,700 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Armenia** | $5,600 (2012 est.) |
+| | $5,500 (2011 est.) |
+| | $5,300 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Aruba** | $21,800 (2004 est.) |
+| **Australia** | $42,400 (2012 est.) |
+| | $41,500 (2011 est.) |
+| | $41,000 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Austria** | $42,500 (2012 est.) |
+| | $42,200 (2011 est.) |
+| | $41,300 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Azerbaijan** | $10,700 (2012 est.) |
+| | $10,400 (2011 est.) |
+| | $10,400 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Bahamas, The** | $31,300 (2012 est.) |
+| | $30,900 (2011 est.) |
+| | $30,800 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Bahrain** | $28,200 (2012 est.) |
+| | $28,200 (2011 est.) |
+| | $28,200 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Bangladesh** | $2,000 (2012 est.) |
+| | $1,900 (2011 est.) |
+| | $1,800 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Barbados** | $25,500 (2012 est.) |
+| | $25,400 (2011 est.) |
+| | $25,300 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Belarus** | $16,000 (2012 est.) |
+| | $15,300 (2011 est.) |
+| | $14,400 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Belgium** | $38,100 (2012 est.) |
+| | $38,400 (2011 est.) |
+| | $38,100 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Belize** | $8,400 (2012 est.) |
+| | $8,400 (2011 est.) |
+| | $8,400 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Benin** | $1,700 (2012 est.) |
+| | $1,600 (2011 est.) |
+| | $1,600 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Bermuda** | $69,900 (2004 est.) |
+| **Bhutan** | $6,500 (2012 est.) |
+| | $5,900 (2011 est.) |
+| | $5,700 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Bolivia** | $5,000 (2012 est.) |
+| | $4,900 (2011 est.) |
+| | $4,700 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Bosnia and Herzegovina** | $8,300 (2012 est.) |
+| | $8,200 (2011 est.) |
+| | $8,100 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Botswana** | $16,800 (2012 est.) |
+| | $16,400 (2011 est.) |
+| | $15,800 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Brazil** | $12,000 (2012 est.) |
+| | $12,000 (2011 est.) |
+| | $11,700 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **British Virgin Islands** | $38,500 (2004 est.) |
+| **Brunei** | $50,500 (2012 est.) |
+| | $50,300 (2011 est.) |
+| | $50,500 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Bulgaria** | $14,200 (2012 est.) |
+| | $14,000 (2011 est.) |
+| | $13,500 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Burkina Faso** | $1,400 (2012 est.) |
+| | $1,300 (2011 est.) |
+| | $1,300 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Burma** | $1,400 (2012 est.) |
+| | $1,300 (2011 est.) |
+| | $1,300 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Burundi** | $600 (2012 est.) |
+| | $600 (2011 est.) |
+| | $600 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Cambodia** | $2,400 (2012 est.) |
+| | $2,300 (2011 est.) |
+| | $2,100 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Cameroon** | $2,300 (2012 est.) |
+| | $2,300 (2011 est.) |
+| | $2,300 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Canada** | $41,500 (2012 est.) |
+| | $41,200 (2011 est.) |
+| | $40,600 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Cape Verde** | $4,100 (2012 est.) |
+| | $4,000 (2011 est.) |
+| | $3,900 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Cayman Islands** | $43,800 (2004 est.) |
+| **Central African Republic** | $800 (2012 est.) |
+| | $800 (2011 est.) |
+| | $800 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Chad** | $2,000 (2012 est.) |
+| | $1,900 (2011 est.) |
+| | $1,900 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Chile** | $18,400 (2012 est.) |
+| | $17,600 (2011 est.) |
+| | $16,800 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **China** | $9,100 (2012 est.) |
+| | $8,500 (2011 est.) |
+| | $7,800 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Colombia** | $10,700 (2012 est.) |
+| | $10,400 (2011 est.) |
+| | $9,900 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Comoros** | $1,300 (2012 est.) |
+| | $1,300 (2011 est.) |
+| | $1,300 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Congo, Democratic Republic of the** | $400 (2012 est.) |
+| | $400 (2011 est.) |
+| | $300 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Congo, Republic of the** | $4,700 (2012 est.) |
+| | $4,600 (2011 est.) |
+| | $4,600 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Cook Islands** | $9,100 (2005 est.) |
+| **Costa Rica** | $12,600 (2012 est.) |
+| | $12,100 (2011 est.) |
+| | $11,800 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Cote d'Ivoire** | $1,700 (2012 est.) |
+| | $1,600 (2011 est.) |
+| | $1,700 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Croatia** | $18,100 (2012 est.) |
+| | $18,300 (2011 est.) |
+| | $18,200 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Cuba** | $9,900 (2010 est.) |
+| | $9,800 (2009 est.) |
+| | $9,700 (2008 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Curacao** | $15,000 (2004 est.) |
+| **Cyprus** | $26,900 (2012 est.) |
+| | $28,000 (2011 est.) |
+| | $28,600 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Czech Republic** | $27,200 (2012 est.) |
+| | $27,500 (2011 est.) |
+| | $27,100 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Denmark** | $37,700 (2012 est.) |
+| | $37,700 (2011 est.) |
+| | $37,500 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Djibouti** | $2,700 (2012 est.) |
+| | $2,700 (2011 est.) |
+| | $2,600 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Dominica** | $14,600 (2012 est.) |
+| | $14,600 (2011 est.) |
+| | $14,400 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Dominican Republic** | $9,600 (2012 est.) |
+| | $9,400 (2011 est.) |
+| | $9,200 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Ecuador** | $8,800 (2012 est.) |
+| | $8,600 (2011 est.) |
+| | $8,100 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Egypt** | $6,600 (2012 est.) |
+| | $6,600 (2011 est.) |
+| | $6,600 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **El Salvador** | $7,700 (2012 est.) |
+| | $7,700 (2011 est.) |
+| | $7,600 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Equatorial Guinea** | $20,200 (2012 est.) |
+| | $19,600 (2011 est.) |
+| | $18,700 (2010 est.) |
+| | *note:* data are in 2010 US dollars; population figures are uncertain for Equatorial Guinea; these per capita income figures are based on a estimated population of less than 700,000; some estimates put the figure as high as 1.2 million people; if true, the per capita GDP figures would be significantly lower |
+| **Eritrea** | $800 (2012 est.) |
+| | $700 (2011 est.) |
+| | $700 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Estonia** | $21,200 (2012 est.) |
+| | $20,700 (2011 est.) |
+| | $19,200 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Ethiopia** | $1,200 (2012 est.) |
+| | $1,100 (2011 est.) |
+| | $1,100 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **European Union** | $34,500 (2012 est.) |
+| | $34,700 (2011 est.) |
+| | $34,300 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Falkland Islands (Islas Malvinas)** | $55,400 (2002 est.) |
+| **Faroe Islands** | $30,500 (2008 est.) |
+| **Fiji** | $4,800 (2012 est.) |
+| | $4,700 (2011 est.) |
+| | $4,600 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Finland** | $36,500 (2012 est.) |
+| | $36,600 (2011 est.) |
+| | $35,800 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **France** | $35,500 (2012 est.) |
+| | $35,600 (2011 est.) |
+| | $35,200 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **French Polynesia** | $18,000 (2004 est.) |
+| | $17,500 (2003 est.) |
+| **Gabon** | $17,300 (2012 est.) |
+| | $16,600 (2011 est.) |
+| | $15,800 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Gambia, The** | $1,900 (2012 est.) |
+| | $2,000 (2011 est.) |
+| | $2,000 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Gaza Strip** | see entry for West Bank |
+| **Georgia** | $5,900 (2012 est.) |
+| | $5,600 (2011 est.) |
+| | $5,300 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Germany** | $39,100 (2012 est.) |
+| | $38,700 (2011 est.) |
+| | $37,500 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Ghana** | $3,300 (2012 est.) |
+| | $3,200 (2011 est.) |
+| | $2,800 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Gibraltar** | $43,000 (2006 est.) |
+| | $41,200 (2007 est.) |
+| | $38,400 (2006 est.) |
+| **Greece** | $25,100 (2012 est.) |
+| | $26,700 (2011 est.) |
+| | $28,700 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Greenland** | $37,400 (2008 est.) |
+| | $36,600 (2007 est.) |
+| **Grenada** | $14,100 (2012 est.) |
+| | $14,000 (2011 est.) |
+| | $14,000 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Guam** | $15,000 (2005 est.) |
+| **Guatemala** | $5,200 (2012 est.) |
+| | $5,200 (2011 est.) |
+| | $5,100 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Guernsey** | $44,600 (2005) |
+| **Guinea** | $1,100 (2012 est.) |
+| | $1,100 (2011 est.) |
+| | $1,100 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Guinea-Bissau** | $1,100 (2012 est.) |
+| | $1,200 (2011 est.) |
+| | $1,100 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Guyana** | $8,000 (2012 est.) |
+| | $7,700 (2011 est.) |
+| | $7,300 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Haiti** | $1,300 (2012 est.) |
+| | $1,300 (2011 est.) |
+| | $1,200 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Honduras** | $4,600 (2012 est.) |
+| | $4,500 (2011 est.) |
+| | $4,400 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Hong Kong** | $50,700 (2012 est.) |
+| | $50,200 (2011 est.) |
+| | $48,200 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Hungary** | $19,800 (2012 est.) |
+| | $19,900 (2011 est.) |
+| | $19,500 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Iceland** | $39,400 (2012 est.) |
+| | $38,700 (2011 est.) |
+| | $37,900 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **India** | $3,900 (2012 est.) |
+| | $3,700 (2011 est.) |
+| | $3,500 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Indonesia** | $5,000 (2012 est.) |
+| | $4,700 (2011 est.) |
+| | $4,500 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Iran** | $13,100 (2012 est.) |
+| | $13,400 (2011 est.) |
+| | $13,300 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Iraq** | $4,600 (2012 est.) |
+| | $4,300 (2011 est.) |
+| | $4,000 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Ireland** | $41,700 (2012 est.) |
+| | $41,500 (2011 est.) |
+| | $41,900 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Isle of Man** | $35,000 (2005 est.) |
+| **Israel** | $32,200 (2012 est.) |
+| | $32,000 (2011 est.) |
+| | $31,200 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Italy** | $30,100 (2012 est.) |
+| | $31,000 (2011 est.) |
+| | $31,000 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Jamaica** | $9,100 (2012 est.) |
+| | $9,100 (2011 est.) |
+| | $9,000 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Japan** | $36,200 (2012 est.) |
+| | $35,300 (2011 est.) |
+| | $35,500 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Jersey** | $57,000 (2005 est.) |
+| **Jordan** | $6,000 (2012 est.) |
+| | $6,000 (2011 est.) |
+| | $6,000 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Kazakhstan** | $13,900 (2012 est.) |
+| | $13,200 (2011 est.) |
+| | $12,500 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Kenya** | $1,800 (2012 est.) |
+| | $1,800 (2011 est.) |
+| | $1,700 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Kiribati** | $5,900 (2012 est.) |
+| | $5,800 (2011 est.) |
+| | $5,800 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Korea, North** | $1,800 (2011 est.) |
+| | $1,800 (2010 est.) |
+| | $1,900 (2009 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Korea, South** | $32,400 (2012 est.) |
+| | $31,700 (2011 est.) |
+| | $30,800 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Kosovo** | $7,400 (2011 est.) |
+| | $6,700 (2011 est.) |
+| | $6,400 (2010 est.) |
+| **Kuwait** | $43,800 (2012 est.) |
+| | $42,400 (2011 est.) |
+| | $40,300 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Kyrgyzstan** | $2,400 (2012 est.) |
+| | $2,400 (2011 est.) |
+| | $2,300 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Laos** | $3,000 (2012 est.) |
+| | $2,800 (2011 est.) |
+| | $2,600 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Latvia** | $18,100 (2012 est.) |
+| | $17,100 (2011 est.) |
+| | $15,000 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Lebanon** | $15,900 (2012 est.) |
+| | $15,800 (2011 est.) |
+| | $15,700 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Lesotho** | $2,000 (2012 est.) |
+| | $1,900 (2011 est.) |
+| | $1,900 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Liberia** | $700 (2012 est.) |
+| | $600 (2011 est.) |
+| | $600 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Libya** | $13,300 (2012 est.) |
+| | $6,100 (2011 est.) |
+| | *note:* $15,000 (2010 est.) |
+| **Liechtenstein** | $89,400 (2009 est.) |
+| | $90,600 (2008 est.) |
+| | $89,700 (2007 est.) |
+| **Lithuania** | $20,100 (2012 est.) |
+| | $19,400 (2011 est.) |
+| | $18,000 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Luxembourg** | $80,700 (2012 est.) |
+| | $81,900 (2011 est.) |
+| | $81,900 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Macau** | $74,900 (2011 est.) |
+| | $62,600 (2010 est.) |
+| | $50,000 (2009 est.) |
+| **Macedonia** | $10,700 (2012 est.) |
+| | $10,600 (2011 est.) |
+| | $10,300 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Madagascar** | $1,000 (2012 est.) |
+| | $1,000 (2011 est.) |
+| | $1,000 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Malawi** | $900 (2012 est.) |
+| | $900 (2011 est.) |
+| | $900 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Malaysia** | $16,900 (2012 est.) |
+| | $16,500 (2011 est.) |
+| | $15,900 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Maldives** | $8,700 (2012 est.) |
+| | $8,700 (2011 est.) |
+| | $8,400 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Mali** | $1,100 (2012 est.) |
+| | $1,100 (2011 est.) |
+| | $1,200 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Malta** | $26,100 (2012 est.) |
+| | $26,000 (2011 est.) |
+| | $25,700 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Marshall Islands** | $2,500 (2008 est.) |
+| | $2,900 (2005 est.) |
+| **Mauritania** | $2,100 (2012 est.) |
+| | $2,000 (2011 est.) |
+| | $2,000 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Mauritius** | $15,600 (2012 est.) |
+| | $15,200 (2011 est.) |
+| | $14,700 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Mexico** | $15,300 (2012 est.) |
+| | $14,900 (2011 est.) |
+| | $14,500 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Micronesia, Federated States of** | $2,200 (2008 est.) |
+| | $2,300 (2005 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Moldova** | $3,500 (2012 est.) |
+| | $3,400 (2011 est.) |
+| | $3,200 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Monaco** | $NA (2010) |
+| | $63,400 (2009 est.) |
+| | $71,600 (2008 est.) |
+| **Mongolia** | $5,400 (2012 est.) |
+| | $4,800 (2011 est.) |
+| | $4,200 (2010 est.) |
+| | *note:* data are in 2011 US dollars |
+| **Montenegro** | $11,700 (2012 est.) |
+| | $11,700 (2011 est.) |
+| | $11,000 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Montserrat** | $8,500 (2006 est.) |
+| **Morocco** | $5,300 (2012 est.) |
+| | $5,200 (2011 est.) |
+| | $5,000 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Mozambique** | $1,200 (2012 est.) |
+| | $1,100 (2011 est.) |
+| | $1,100 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Namibia** | $7,800 (2012 est.) |
+| | $7,600 (2011 est.) |
+| | $7,300 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Nauru** | $5,000 (2005 est.) |
+| **Nepal** | $1,300 (2012 est.) |
+| | $1,300 (2011 est.) |
+| | $1,200 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Netherlands** | $42,300 (2012 est.) |
+| | $42,700 (2011 est.) |
+| | $42,400 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **New Caledonia** | $15,000 (2003 est.) |
+| **New Zealand** | $28,800 (2012 est.) |
+| | $28,500 (2011 est.) |
+| | $28,400 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Nicaragua** | $3,300 (2012 est.) |
+| | $3,300 (2011 est.) |
+| | $3,200 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Niger** | $900 (2012 est.) |
+| | $800 (2011 est.) |
+| | $800 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Nigeria** | $2,700 (2012 est.) |
+| | $2,600 (2011 est.) |
+| | $2,500 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Niue** | $5,800 (2003 est.) |
+| **Northern Mariana Islands** | $12,500 (2000 est.) |
+| **Norway** | $55,300 (2012 est.) |
+| | $54,300 (2011 est.) |
+| | $54,200 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Oman** | $28,500 (2012 est.) |
+| | $28,000 (2011 est.) |
+| | $27,500 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Pakistan** | $2,900 (2012 est.) |
+| | $2,800 (2011 est.) |
+| | $2,800 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Palau** | $8,100 (2008 est.) |
+| | $7,600 (2005 est.) |
+| **Panama** | $15,300 (2012 est.) |
+| | $14,300 (2011 est.) |
+| | $13,200 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Papua New Guinea** | $2,700 (2012 est.) |
+| | $2,600 (2011 est.) |
+| | $2,400 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Paraguay** | $6,100 (2012 est.) |
+| | $6,300 (2011 est.) |
+| | $6,200 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Peru** | $10,700 (2012 est.) |
+| | $10,200 (2011 est.) |
+| | $9,700 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Philippines** | $4,300 (2012 est.) |
+| | $4,100 (2011 est.) |
+| | $4,100 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Poland** | $21,000 (2012 est.) |
+| | $20,500 (2011 est.) |
+| | $19,700 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Portugal** | $23,000 (2012 est.) |
+| | $23,700 (2011 est.) |
+| | $24,100 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Puerto Rico** | $16,300 (2010 est.) |
+| | $17,400 (2009 est.) |
+| | $18,100 (2008 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Qatar** | $102,800 (2012 est.) |
+| | $100,600 (2011 est.) |
+| | $91,600 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Romania** | $12,800 (2012 est.) |
+| | $12,700 (2011 est.) |
+| | $12,400 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Russia** | $17,700 (2012 est.) |
+| | $17,000 (2011 est.) |
+| | $16,300 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Rwanda** | $1,400 (2012 est.) |
+| | $1,400 (2011 est.) |
+| | $1,300 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Saint Helena, Ascension, and Tristan da Cunha** | $2,500 (1998 est.) |
+| **Saint Kitts and Nevis** | $15,500 (2012 est.) |
+| | $15,800 (2011 est.) |
+| | $16,500 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Saint Lucia** | $13,300 (2012 est.) |
+| | $13,300 (2011 est.) |
+| | $13,200 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Saint Pierre and Miquelon** | $7,000 (2001 est.) |
+| **Saint Vincent and the Grenadines** | $11,900 (2012 est.) |
+| | $11,700 (2011 est.) |
+| | $11,700 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Samoa** | $6,200 (2012 est.) |
+| | $6,100 (2011 est.) |
+| | $6,000 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **San Marino** | $36,200 (2009) |
+| | $41,900 (2007) |
+| **Sao Tome and Principe** | $2,300 (2012 est.) |
+| | $2,300 (2011 est.) |
+| | $2,200 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Saudi Arabia** | $25,700 (2012 est.) |
+| | $24,800 (2011 est.) |
+| | $23,700 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Senegal** | $1,900 (2012 est.) |
+| | $2,000 (2011 est.) |
+| | $2,000 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Serbia** | $10,500 (2012 est.) |
+| | $10,600 (2011 est.) |
+| | $10,500 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Seychelles** | $26,200 (2012 est.) |
+| | $25,800 (2011 est.) |
+| | $24,800 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Sierra Leone** | $1,400 (2012 est.) |
+| | $1,200 (2011 est.) |
+| | $1,100 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Singapore** | $60,900 (2012 est.) |
+| | $60,700 (2011 est.) |
+| | $58,900 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Sint Maarten** | $15,400 (2008 est.) |
+| **Slovakia** | $24,300 (2012 est.) |
+| | $23,700 (2011 est.) |
+| | $23,000 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Slovenia** | $28,600 (2012 est.) |
+| | $29,300 (2011 est.) |
+| | $29,200 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Solomon Islands** | $3,400 (2012 est.) |
+| | $3,200 (2011 est.) |
+| | $3,000 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Somalia** | $600 (2010 est.) |
+| | $600 (2009 est.) |
+| | $600 (2008 est.) |
+| | *note:* data are in 2012 US dollars |
+| **South Africa** | $11,300 (2012 est.) |
+| | $11,100 (2011 est.) |
+| | $10,900 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **South Sudan** | $900 (2012 est.) |
+| | $2,200 (2011 est.) |
+| | $2,500 (2010 est.) |
+| **Spain** | $30,400 (2012 est.) |
+| | $31,000 (2011 est.) |
+| | $30,900 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Sri Lanka** | $6,100 (2012 est.) |
+| | $5,800 (2011 est.) |
+| | $5,400 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Sudan** | $2,400 (2012 est.) |
+| | $2,800 (2011 est.) |
+| | $2,400 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Suriname** | $12,300 (2012 est.) |
+| | $11,900 (2011 est.) |
+| | $11,600 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Swaziland** | $5,300 (2012 est.) |
+| | $5,400 (2011 est.) |
+| | $5,400 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Sweden** | $41,700 (2012 est.) |
+| | $41,400 (2011 est.) |
+| | $39,900 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Switzerland** | $45,300 (2012 est.) |
+| | $45,200 (2011 est.) |
+| | $44,800 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Syria** | $5,100 (2011 est.) |
+| | $5,100 (2010 est.) |
+| | $5,200 (2009 est.) |
+| | *note:* data are in 2011 US dollars |
+| **Taiwan** | $38,500 (2012 est.) |
+| | $38,300 (2011 est.) |
+| | $36,900 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Tajikistan** | $2,200 (2012 est.) |
+| | $2,100 (2011 est.) |
+| | $2,000 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Tanzania** | $1,700 (2012 est.) |
+| | $1,600 (2011 est.) |
+| | $1,600 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Thailand** | $10,000 (2012 est.) |
+| | $9,600 (2011 est.) |
+| | $9,600 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Timor-Leste** | $9,500 (2012 est.) |
+| | $8,800 (2011 est.) |
+| | $8,200 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Togo** | $1,100 (2012 est.) |
+| | $1,100 (2011 est.) |
+| | $1,000 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Tokelau** | $1,000 (1993 est.) |
+| **Tonga** | $7,500 (2012 est.) |
+| | $7,500 (2011 est.) |
+| | $7,400 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Trinidad and Tobago** | $20,400 (2012 est.) |
+| | $20,300 (2011 est.) |
+| | $20,700 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Tunisia** | $9,700 (2012 est.) |
+| | $9,500 (2011 est.) |
+| | $9,800 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Turkey** | $15,000 (2012 est.) |
+| | $14,600 (2011 est.) |
+| | $13,800 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Turkmenistan** | $8,500 (2012 est.) |
+| | $8,000 (2011 est.) |
+| | $7,100 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Turks and Caicos Islands** | $11,500 (2002 est.) |
+| **Tuvalu** | $3,300 (2012 est.) |
+| | $3,300 (2011 est.) |
+| | $3,300 (2010 est.) |
+| **Uganda** | $1,400 (2012 est.) |
+| | $1,400 (2011 est.) |
+| | $1,400 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Ukraine** | $7,600 (2012 est.) |
+| | $7,300 (2011 est.) |
+| | $7,000 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **United Arab Emirates** | $49,000 (2012 est.) |
+| | $48,500 (2011 est.) |
+| | $47,500 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **United Kingdom** | $36,700 (2012 est.) |
+| | $37,100 (2011 est.) |
+| | $37,100 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **United States** | $49,800 (2012 est.) |
+| | $49,100 (2011 est.) |
+| | $48,600 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Uruguay** | $15,800 (2012 est.) |
+| | $15,400 (2011 est.) |
+| | $14,600 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Uzbekistan** | $3,500 (2012 est.) |
+| | $3,300 (2011 est.) |
+| | $3,100 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Vanuatu** | $4,900 (2012 est.) |
+| | $4,900 (2011 est.) |
+| | $4,900 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Venezuela** | $13,200 (2012 est.) |
+| | $12,800 (2011 est.) |
+| | $12,500 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Vietnam** | $3,500 (2012 est.) |
+| | $3,400 (2011 est.) |
+| | $3,300 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Virgin Islands** | $14,500 (2004 est.) |
+| **Wallis and Futuna** | $3,800 (2004 est.) |
+| **West Bank** | $2,900 (2008 est.) |
+| | *note:* includes Gaza Strip |
+| **Western Sahara** | $2,500 (2007 est.) |
+| **World** | $12,500 (2012 est.) |
+| | $12,200 (2011 est.) |
+| | $11,900 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Yemen** | $2,200 (2012 est.) |
+| | $2,300 (2011 est.) |
+| | $2,700 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Zambia** | $1,700 (2012 est.) |
+| | $1,600 (2011 est.) |
+| | $1,600 (2010 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Zimbabwe** | $500 (2012 est.) |
+| | $500 (2011 est.) |
+| | $500 (2010 est.) |
+| | *note:* data are in 2012 US dollars |

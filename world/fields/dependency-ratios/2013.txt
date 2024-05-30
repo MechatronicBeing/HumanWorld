@@ -1,0 +1,804 @@
+CIA - The World Factbook -- Field Listing :: Dependency ratios   
+
+Dependency ratios are a measure of the age structure of a population. They relate the number of individuals that are likely to be economically "dependent" on the support of others. Dependency ratios contrast the ratio of youths (ages 0-14) and the elderly (ages 65+) to the number of those in the working-age group (ages 15-64). Changes in the dependency ratio provide an indication of potential social support requirements resulting from changes in population age structures. As fertility levels decline, the dependency ratio initially falls because the proportion of youths decreases while the proportion of the population of working age increases. As fertility levels continue to decline, dependency ratios eventually increase because the proportion of the population of working age starts to decline and the proportion of elderly persons continues to increase.
+| | total dependency ratio - The total dependency ratio is the ratio of combined youth population (ages 0-14) and elderly population (ages 65+) per 100 people of working age (ages 15-64). A high total dependency ratio indicates that the working-age population and the overall economy face a greater burden to support and provide social services for youth and elderly persons, who are often economically dependent. |
+| | youth dependency ratio - The youth dependency ratio is the ratio of the youth population (ages 0-14) per 100 people of working age (ages 15-64). A high youth dependency ratio indicates that a greater investment needs to be made in schooling and other services for children. |
+| | elderly dependency ratio - The elderly dependency ratio is the ratio of the elderly population (ages 65+) per 100 people of working age (ages 15-64). Increases in the elderly dependency ratio put added pressure on governments to fund pensions and healthcare. |
+| potential support ratio - The potential support ratio is the number of working-age people (ages 15-64) per one elderly person (ages 65+). As a population ages, the potential support ratio tends to fall, meaning there are fewer potential workers to support the elderly. | Country | Dependency ratios |
+| --- | --- |
+| **Afghanistan** | *total dependency ratio:* 96 % |
+| | *youth dependency ratio:* 91.4 % |
+| | *elderly dependency ratio:* 4.6 % |
+| | *potential support ratio:* 21.7 (2013) |
+| **Albania** | *total dependency ratio:* 45.7 % |
+| | *youth dependency ratio:* 30.1 % |
+| | *elderly dependency ratio:* 15.6 % |
+| | *potential support ratio:* 6.4 (2013) |
+| **Algeria** | *total dependency ratio:* 47.9 % |
+| | *youth dependency ratio:* 41.1 % |
+| | *elderly dependency ratio:* 6.8 % |
+| | *potential support ratio:* 14.7 (2013) |
+| **Angola** | *total dependency ratio:* 99.6 % |
+| | *youth dependency ratio:* 94.8 % |
+| | *elderly dependency ratio:* 4.8 % |
+| | *potential support ratio:* 20.9 (2013) |
+| **Antigua and Barbuda** | *total dependency ratio:* 47.2 % |
+| | *youth dependency ratio:* 36.7 % |
+| | *elderly dependency ratio:* 10.5 % |
+| | *potential support ratio:* 9.5 (2013) |
+| **Argentina** | *total dependency ratio:* 54.3 % |
+| | *youth dependency ratio:* 37.4 % |
+| | *elderly dependency ratio:* 16.9 % |
+| | *potential support ratio:* 5.9 (2013) |
+| **Armenia** | *total dependency ratio:* 44.1 % |
+| | *youth dependency ratio:* 29.2 % |
+| | *elderly dependency ratio:* 14.9 % |
+| | *potential support ratio:* 6.7 (2013) |
+| **Aruba** | *total dependency ratio:* 44.3 % |
+| | *youth dependency ratio:* 28 % |
+| | *elderly dependency ratio:* 16.4 % |
+| | *potential support ratio:* 6.1 (2013) |
+| **Australia** | *total dependency ratio:* 50.2 % |
+| | *youth dependency ratio:* 28.6 % |
+| | *elderly dependency ratio:* 21.5 % |
+| | *potential support ratio:* 4.6 (2013) |
+| **Austria** | *total dependency ratio:* 48.9 % |
+| | *youth dependency ratio:* 21.6 % |
+| | *elderly dependency ratio:* 27.3 % |
+| | *potential support ratio:* 3.7 (2013) |
+| **Azerbaijan** | *total dependency ratio:* 38.5 % |
+| | *youth dependency ratio:* 30.8 % |
+| | *elderly dependency ratio:* 7.8 % |
+| | *potential support ratio:* 12.9 (2013) |
+| **Bahamas, The** | *total dependency ratio:* 40.9 % |
+| | *youth dependency ratio:* 30 % |
+| | *elderly dependency ratio:* 10.8 % |
+| | *potential support ratio:* 9.2 (2013) |
+| **Bahrain** | *total dependency ratio:* 30.3 % |
+| | *youth dependency ratio:* 27.3 % |
+| | *elderly dependency ratio:* 2.9 % |
+| | *potential support ratio:* 34.3 (2013) |
+| **Bangladesh** | *total dependency ratio:* 53.3 % |
+| | *youth dependency ratio:* 46 % |
+| | *elderly dependency ratio:* 7.3 % |
+| | *potential support ratio:* 13.6 (2013) |
+| **Barbados** | *total dependency ratio:* 42.3 % |
+| | *youth dependency ratio:* 26.9 % |
+| | *elderly dependency ratio:* 15.5 % |
+| | *potential support ratio:* 6.5 (2013) |
+| **Belarus** | *total dependency ratio:* 41.1 % |
+| | *youth dependency ratio:* 21.6 % |
+| | *elderly dependency ratio:* 19.5 % |
+| | *potential support ratio:* 5.1 (2013) |
+| **Belgium** | *total dependency ratio:* 53.8 % |
+| | *youth dependency ratio:* 26.1 % |
+| | *elderly dependency ratio:* 27.7 % |
+| | *potential support ratio:* 3.6 (2013) |
+| **Belize** | *total dependency ratio:* 60.9 % |
+| | *youth dependency ratio:* 54.5 % |
+| | *elderly dependency ratio:* 6.4 % |
+| | *potential support ratio:* 15.6 (2013) |
+| **Benin** | *total dependency ratio:* 84 % |
+| | *youth dependency ratio:* 78.7 % |
+| | *elderly dependency ratio:* 5.3 % |
+| | *potential support ratio:* 18.8 (2013) |
+| **Bhutan** | *total dependency ratio:* 48.9 % |
+| | *youth dependency ratio:* 41.8 % |
+| | *elderly dependency ratio:* 7.1 % |
+| | *potential support ratio:* 14 (2013) |
+| **Bolivia** | *total dependency ratio:* 66 % |
+| | *youth dependency ratio:* 57.9 % |
+| | *elderly dependency ratio:* 8.1 % |
+| | *potential support ratio:* 12.3 (2013) |
+| **Bosnia and Herzegovina** | *total dependency ratio:* 45.5 % |
+| | *youth dependency ratio:* 22.9 % |
+| | *elderly dependency ratio:* 22.7 % |
+| | *potential support ratio:* 4.4 (2013) |
+| **Botswana** | *total dependency ratio:* 59.1 % |
+| | *youth dependency ratio:* 53.3 % |
+| | *elderly dependency ratio:* 5.8 % |
+| | *potential support ratio:* 17.3 (2013) |
+| **Brazil** | *total dependency ratio:* 46.2 % |
+| | *youth dependency ratio:* 35.2 % |
+| | *elderly dependency ratio:* 11 % |
+| | *potential support ratio:* 9.1 (2013) |
+| **Brunei** | *total dependency ratio:* 42 % |
+| | *youth dependency ratio:* 36 % |
+| | *elderly dependency ratio:* 6.1 % |
+| | *potential support ratio:* 16.4 (2013) |
+| **Bulgaria** | *total dependency ratio:* 49.2 % |
+| | *youth dependency ratio:* 20.4 % |
+| | *elderly dependency ratio:* 28.8 % |
+| | *potential support ratio:* 3.5 (2013) |
+| **Burkina Faso** | *total dependency ratio:* 92.3 % |
+| | *youth dependency ratio:* 87.6 % |
+| | *elderly dependency ratio:* 4.7 % |
+| | *potential support ratio:* 21.3 (2013) |
+| **Burma** | *total dependency ratio:* 43.1 % |
+| | *youth dependency ratio:* 35.7 % |
+| | *elderly dependency ratio:* 7.5 % |
+| | *potential support ratio:* 13.4 (2013) |
+| **Burundi** | *total dependency ratio:* 88.6 % |
+| | *youth dependency ratio:* 84 % |
+| | *elderly dependency ratio:* 4.5 % |
+| | *potential support ratio:* 22 (2013) |
+| **Cabo Verde** | *total dependency ratio:* 53.5 % |
+| | *youth dependency ratio:* 45.3 % |
+| | *elderly dependency ratio:* 8.2 % |
+| | *potential support ratio:* 12.2 (2013) |
+| **Cambodia** | *total dependency ratio:* 57.3 % |
+| | *youth dependency ratio:* 48.9 % |
+| | *elderly dependency ratio:* 8.4 % |
+| | *potential support ratio:* 11.9 (2013) |
+| **Cameroon** | *total dependency ratio:* 85.8 % |
+| | *youth dependency ratio:* 79.8 % |
+| | *elderly dependency ratio:* 6 % |
+| | *potential support ratio:* 16.7 (2013) |
+| **Canada** | *total dependency ratio:* 46.3 % |
+| | *youth dependency ratio:* 24 % |
+| | *elderly dependency ratio:* 22.2 % |
+| | *potential support ratio:* 4.5 (2013) |
+| **Central African Republic** | *total dependency ratio:* 77.5 % |
+| | *youth dependency ratio:* 70.7 % |
+| | *elderly dependency ratio:* 6.8 % |
+| | *potential support ratio:* 14.7 (2013) |
+| **Chad** | *total dependency ratio:* 103.3 % |
+| | *youth dependency ratio:* 98.4 % |
+| | *elderly dependency ratio:* 4.9 % |
+| | *potential support ratio:* 20.4 (2013) |
+| **Chile** | *total dependency ratio:* 45 % |
+| | *youth dependency ratio:* 30.6 % |
+| | *elderly dependency ratio:* 14.5 % |
+| | *potential support ratio:* 6.9 (2013) |
+| **China** | *total dependency ratio:* 36.8 % |
+| | *youth dependency ratio:* 24.7 % |
+| | *elderly dependency ratio:* 12.1 % |
+| | *potential support ratio:* 8.2 (2013) |
+| **Colombia** | *total dependency ratio:* 51.2 % |
+| | *youth dependency ratio:* 41.9 % |
+| | *elderly dependency ratio:* 9.3 % |
+| | *potential support ratio:* 10.7 (2013) |
+| **Comoros** | *total dependency ratio:* 81.6 % |
+| | *youth dependency ratio:* 76.4 % |
+| | *elderly dependency ratio:* 5.2 % |
+| | *potential support ratio:* 19.3 (2013) |
+| **Congo, Democratic Republic of the** | *total dependency ratio:* 91.9 % |
+| | *youth dependency ratio:* 86.4 % |
+| | *elderly dependency ratio:* 5.5 % |
+| | *potential support ratio:* 18.2 (2013) |
+| **Congo, Republic of the** | *total dependency ratio:* 84.9 % |
+| | *youth dependency ratio:* 78.7 % |
+| | *elderly dependency ratio:* 6.3 % |
+| | *potential support ratio:* 15.9 (2013) |
+| **Costa Rica** | *total dependency ratio:* 44 % |
+| | *youth dependency ratio:* 33.9 % |
+| | *elderly dependency ratio:* 10.1 % |
+| | *potential support ratio:* 9.9 (2013) |
+| **Cote d'Ivoire** | *total dependency ratio:* 80.2 % |
+| | *youth dependency ratio:* 74.5 % |
+| | *elderly dependency ratio:* 5.7 % |
+| | *potential support ratio:* 17.5 (2013) |
+| **Croatia** | *total dependency ratio:* 49.6 % |
+| | *youth dependency ratio:* 22.3 % |
+| | *elderly dependency ratio:* 27.4 % |
+| | *potential support ratio:* 3.7 (2013) |
+| **Cuba** | *total dependency ratio:* 41.9 % |
+| | *youth dependency ratio:* 23 % |
+| | *elderly dependency ratio:* 18.9 % |
+| | *potential support ratio:* 5.3 (2013) |
+| **Curacao** | *total dependency ratio:* 50.1 % |
+| | *youth dependency ratio:* 29 % |
+| | *elderly dependency ratio:* 21 % |
+| | *potential support ratio:* 4.8 (2013) |
+| **Cyprus** | *total dependency ratio:* 41.3 % |
+| | *youth dependency ratio:* 24 % |
+| | *elderly dependency ratio:* 17.3 % |
+| | *potential support ratio:* 5.8 (2013) |
+| **Czech Republic** | *total dependency ratio:* 46.1 % |
+| | *youth dependency ratio:* 21.7 % |
+| | *elderly dependency ratio:* 24.4 % |
+| | *potential support ratio:* 4.1 (2013) |
+| **Denmark** | *total dependency ratio:* 55 % |
+| | *youth dependency ratio:* 27.2 % |
+| | *elderly dependency ratio:* 27.7 % |
+| | *potential support ratio:* 3.6 (2013) |
+| **Djibouti** | *total dependency ratio:* 60.5 % |
+| | *youth dependency ratio:* 54.1 % |
+| | *elderly dependency ratio:* 6.4 % |
+| | *potential support ratio:* 15.7 (2013) |
+| **Dominican Republic** | *total dependency ratio:* 57.5 % |
+| | *youth dependency ratio:* 47.6 % |
+| | *elderly dependency ratio:* 9.9 % |
+| | *potential support ratio:* 10.1 (2013) |
+| **Ecuador** | *total dependency ratio:* 57.4 % |
+| | *youth dependency ratio:* 47.2 % |
+| | *elderly dependency ratio:* 10.3 % |
+| | *potential support ratio:* 9.8 (2013) |
+| **Egypt** | *total dependency ratio:* 58.5 % |
+| | *youth dependency ratio:* 49.4 % |
+| | *elderly dependency ratio:* 9.1 % |
+| | *potential support ratio:* 10.9 (2013) |
+| **El Salvador** | *total dependency ratio:* 59 % |
+| | *youth dependency ratio:* 47.6 % |
+| | *elderly dependency ratio:* 11.3 % |
+| | *potential support ratio:* 8.8 (2013) |
+| **Equatorial Guinea** | *total dependency ratio:* 71.4 % |
+| | *youth dependency ratio:* 66.6 % |
+| | *elderly dependency ratio:* 4.8 % |
+| | *potential support ratio:* 21 (2013) |
+| **Eritrea** | *total dependency ratio:* 83.2 % |
+| | *youth dependency ratio:* 79.1 % |
+| | *elderly dependency ratio:* 4.1 % |
+| | *potential support ratio:* 24.1 (2013) |
+| **Estonia** | *total dependency ratio:* 51.2 % |
+| | *youth dependency ratio:* 23.9 % |
+| | *elderly dependency ratio:* 27.3 % |
+| | *potential support ratio:* 3.7 (2013) |
+| **Ethiopia** | *total dependency ratio:* 85.5 % |
+| | *youth dependency ratio:* 79.2 % |
+| | *elderly dependency ratio:* 6.3 % |
+| | *potential support ratio:* 15.8 (2013) |
+| **Fiji** | *total dependency ratio:* 52.2 % |
+| | *youth dependency ratio:* 43.9 % |
+| | *elderly dependency ratio:* 8.3 % |
+| | *potential support ratio:* 12.1 (2013) |
+| **Finland** | *total dependency ratio:* 55 % |
+| | *youth dependency ratio:* 25.5 % |
+| | *elderly dependency ratio:* 29.5 % |
+| | *potential support ratio:* 3.4 (2013) |
+| **France** | *total dependency ratio:* 56.5 % |
+| | *youth dependency ratio:* 28.5 % |
+| | *elderly dependency ratio:* 27.9 % |
+| | *potential support ratio:* 3.6 (2013) |
+| **French Polynesia** | *total dependency ratio:* 42.4 % |
+| | *youth dependency ratio:* 32.2 % |
+| | *elderly dependency ratio:* 10.2 % |
+| | *potential support ratio:* 9.8 (2013) |
+| **Gabon** | *total dependency ratio:* 77.4 % |
+| | *youth dependency ratio:* 68.3 % |
+| | *elderly dependency ratio:* 9.2 % |
+| | *potential support ratio:* 10.9 (2013) |
+| **Gambia, The** | *total dependency ratio:* 93.5 % |
+| | *youth dependency ratio:* 88.9 % |
+| | *elderly dependency ratio:* 4.6 % |
+| | *potential support ratio:* 21.6 (2013) |
+| **Gaza Strip** | *total dependency ratio:* 75.6 % |
+| | *youth dependency ratio:* 70.4 % |
+| | *elderly dependency ratio:* 5.2 % |
+| | *potential support ratio:* 19.2 |
+| | *note:* data represents the Palestinian Territories (2013) |
+| **Georgia** | *total dependency ratio:* 47.7 % |
+| | *youth dependency ratio:* 26.4 % |
+| | *elderly dependency ratio:* 21.3 % |
+| | *potential support ratio:* 4.7 (2013) |
+| **Germany** | *total dependency ratio:* 52 % |
+| | *youth dependency ratio:* 19.9 % |
+| | *elderly dependency ratio:* 32.1 % |
+| | *potential support ratio:* 3.1 (2013) |
+| **Ghana** | *total dependency ratio:* 72.2 % |
+| | *youth dependency ratio:* 66.2 % |
+| | *elderly dependency ratio:* 6 % |
+| | *potential support ratio:* 16.7 (2013) |
+| **Greece** | *total dependency ratio:* 52.3 % |
+| | *youth dependency ratio:* 22.3 % |
+| | *elderly dependency ratio:* 29.9 % |
+| | *potential support ratio:* 3.3 (2013) |
+| **Grenada** | *total dependency ratio:* 51.3 % |
+| | *youth dependency ratio:* 40.5 % |
+| | *elderly dependency ratio:* 10.8 % |
+| | *potential support ratio:* 9.3 (2013) |
+| **Guam** | *total dependency ratio:* 52.3 % |
+| | *youth dependency ratio:* 39.9 % |
+| | *elderly dependency ratio:* 12.3 % |
+| | *potential support ratio:* 8.1 (2013) |
+| **Guatemala** | *total dependency ratio:* 81.8 % |
+| | *youth dependency ratio:* 73.5 % |
+| | *elderly dependency ratio:* 8.3 % |
+| | *potential support ratio:* 12.1 (2013) |
+| **Guernsey** | *total dependency ratio:* 46 % |
+| | *youth dependency ratio:* 21.8 % |
+| | *elderly dependency ratio:* 24.2 % |
+| | *potential support ratio:* 4.1 |
+| | *note:* data represents the Channel Islands (2013) |
+| **Guinea** | *total dependency ratio:* 83.2 % |
+| | *youth dependency ratio:* 77.5 % |
+| | *elderly dependency ratio:* 5.7 % |
+| | *potential support ratio:* 17.5 (2013) |
+| **Guinea-Bissau** | *total dependency ratio:* 79.7 % |
+| | *youth dependency ratio:* 74.5 % |
+| | *elderly dependency ratio:* 5.2 % |
+| | *potential support ratio:* 19.3 (2013) |
+| **Guyana** | *total dependency ratio:* 65.3 % |
+| | *youth dependency ratio:* 59.6 % |
+| | *elderly dependency ratio:* 5.7 % |
+| | *potential support ratio:* 17.7 (2013) |
+| **Haiti** | *total dependency ratio:* 65.2 % |
+| | *youth dependency ratio:* 57.8 % |
+| | *elderly dependency ratio:* 7.5 % |
+| | *potential support ratio:* 13.4 (2013) |
+| **Honduras** | *total dependency ratio:* 65.8 % |
+| | *youth dependency ratio:* 58.4 % |
+| | *elderly dependency ratio:* 7.4 % |
+| | *potential support ratio:* 13.6 (2013) |
+| **Hong Kong** | *total dependency ratio:* 34.6 % |
+| | *youth dependency ratio:* 15.8 % |
+| | *elderly dependency ratio:* 18.9 % |
+| | *potential support ratio:* 5.3 (2013) |
+| **Hungary** | *total dependency ratio:* 46.8 % |
+| | *youth dependency ratio:* 21.5 % |
+| | *elderly dependency ratio:* 25.3 % |
+| | *potential support ratio:* 4 (2013) |
+| **Iceland** | *total dependency ratio:* 50.4 % |
+| | *youth dependency ratio:* 31.1 % |
+| | *elderly dependency ratio:* 19.3 % |
+| | *potential support ratio:* 5.2 (2013) |
+| **India** | *total dependency ratio:* 52.4 % |
+| | *youth dependency ratio:* 44.3 % |
+| | *elderly dependency ratio:* 8 % |
+| | *potential support ratio:* 12.4 (2013) |
+| **Indonesia** | *total dependency ratio:* 51.8 % |
+| | *youth dependency ratio:* 43.8 % |
+| | *elderly dependency ratio:* 7.9 % |
+| | *potential support ratio:* 12.6 (2013) |
+| **Iran** | *total dependency ratio:* 41 % |
+| | *youth dependency ratio:* 33.6 % |
+| | *elderly dependency ratio:* 7.5 % |
+| | *potential support ratio:* 13.4 (2013) |
+| **Iraq** | *total dependency ratio:* 76.2 % |
+| | *youth dependency ratio:* 70.6 % |
+| | *elderly dependency ratio:* 5.6 % |
+| | *potential support ratio:* 17.8 (2013) |
+| **Ireland** | *total dependency ratio:* 50.8 % |
+| | *youth dependency ratio:* 32.6 % |
+| | *elderly dependency ratio:* 18.2 % |
+| | *potential support ratio:* 5.5 (2013) |
+| **Israel** | *total dependency ratio:* 62.5 % |
+| | *youth dependency ratio:* 45.1 % |
+| | *elderly dependency ratio:* 17.4 % |
+| | *potential support ratio:* 5.7 (2013) |
+| **Italy** | *total dependency ratio:* 54.3 % |
+| | *youth dependency ratio:* 21.7 % |
+| | *elderly dependency ratio:* 32.6 % |
+| | *potential support ratio:* 3.1 (2013) |
+| **Jamaica** | *total dependency ratio:* 54 % |
+| | *youth dependency ratio:* 41.8 % |
+| | *elderly dependency ratio:* 12.2 % |
+| | *potential support ratio:* 8.2 (2013) |
+| **Japan** | *total dependency ratio:* 61.6 % |
+| | *youth dependency ratio:* 21.1 % |
+| | *elderly dependency ratio:* 40.5 % |
+| | *potential support ratio:* 2.5 (2013) |
+| **Jersey** | *total dependency ratio:* 46 % |
+| | *youth dependency ratio:* 21.8 % |
+| | *elderly dependency ratio:* 24.2 % |
+| | *potential support ratio:* 4.1 |
+| | *note:* data represents the Channel Islands (2013) |
+| **Jordan** | *total dependency ratio:* 60.2 % |
+| | *youth dependency ratio:* 54.5 % |
+| | *elderly dependency ratio:* 5.7 % |
+| | *potential support ratio:* 17.6 (2013) |
+| **Kazakhstan** | *total dependency ratio:* 48 % |
+| | *youth dependency ratio:* 38.1 % |
+| | *elderly dependency ratio:* 9.9 % |
+| | *potential support ratio:* 10.1 (2013) |
+| **Kenya** | *total dependency ratio:* 81.5 % |
+| | *youth dependency ratio:* 76.6 % |
+| | *elderly dependency ratio:* 4.9 % |
+| | *potential support ratio:* 20.6 (2013) |
+| **Kiribati** | *total dependency ratio:* 56.2 % |
+| | *youth dependency ratio:* 49.8 % |
+| | *elderly dependency ratio:* 6.5 % |
+| | *potential support ratio:* 15.5 (2013) |
+| **Korea, North** | *total dependency ratio:* 45.2 % |
+| | *youth dependency ratio:* 31.5 % |
+| | *elderly dependency ratio:* 13.7 % |
+| | *potential support ratio:* 7.3 (2013) |
+| **Korea, South** | *total dependency ratio:* 37.1 % |
+| | *youth dependency ratio:* 20.4 % |
+| | *elderly dependency ratio:* 16.7 % |
+| | *potential support ratio:* 6 (2013) |
+| **Kuwait** | *total dependency ratio:* 37.2 % |
+| | *youth dependency ratio:* 34 % |
+| | *elderly dependency ratio:* 3.2 % |
+| | *potential support ratio:* 31.3 (2013) |
+| **Kyrgyzstan** | *total dependency ratio:* 52.7 % |
+| | *youth dependency ratio:* 46.4 % |
+| | *elderly dependency ratio:* 6.4 % |
+| | *potential support ratio:* 15.7 (2013) |
+| **Laos** | *total dependency ratio:* 63.8 % |
+| | *youth dependency ratio:* 57.6 % |
+| | *elderly dependency ratio:* 6.2 % |
+| | *potential support ratio:* 16.1 (2013) |
+| **Latvia** | *total dependency ratio:* 50.2 % |
+| | *youth dependency ratio:* 22.3 % |
+| | *elderly dependency ratio:* 27.9 % |
+| | *potential support ratio:* 3.6 (2013) |
+| **Lebanon** | *total dependency ratio:* 41.8 % |
+| | *youth dependency ratio:* 29.5 % |
+| | *elderly dependency ratio:* 12.3 % |
+| | *potential support ratio:* 8.1 (2013) |
+| **Lesotho** | *total dependency ratio:* 68.3 % |
+| | *youth dependency ratio:* 61.2 % |
+| | *elderly dependency ratio:* 7.1 % |
+| | *potential support ratio:* 14.1 (2013) |
+| **Liberia** | *total dependency ratio:* 84.9 % |
+| | *youth dependency ratio:* 79.3 % |
+| | *elderly dependency ratio:* 5.6 % |
+| | *potential support ratio:* 17.8 (2013) |
+| **Libya** | *total dependency ratio:* 52.1 % |
+| | *youth dependency ratio:* 44.8 % |
+| | *elderly dependency ratio:* 7.3 % |
+| | *potential support ratio:* 13.7 (2013) |
+| **Lithuania** | *total dependency ratio:* 44.6 % |
+| | *youth dependency ratio:* 22 % |
+| | *elderly dependency ratio:* 22.7 % |
+| | *potential support ratio:* 4.4 (2013) |
+| **Luxembourg** | *total dependency ratio:* 46.5 % |
+| | *youth dependency ratio:* 25.7 % |
+| | *elderly dependency ratio:* 20.8 % |
+| | *potential support ratio:* 4.8 (2013) |
+| **Macau** | *total dependency ratio:* 25.8 % |
+| | *youth dependency ratio:* 15.6 % |
+| | *elderly dependency ratio:* 10.2 % |
+| | *potential support ratio:* 9.8 (2013) |
+| **Macedonia** | *total dependency ratio:* 40.9 % |
+| | *youth dependency ratio:* 23.5 % |
+| | *elderly dependency ratio:* 17.4 % |
+| | *potential support ratio:* 5.7 (2013) |
+| **Madagascar** | *total dependency ratio:* 82.5 % |
+| | *youth dependency ratio:* 77.4 % |
+| | *elderly dependency ratio:* 5.1 % |
+| | *potential support ratio:* 19.5 (2013) |
+| **Malawi** | *total dependency ratio:* 94.1 % |
+| | *youth dependency ratio:* 87.9 % |
+| | *elderly dependency ratio:* 6.2 % |
+| | *potential support ratio:* 16.1 (2013) |
+| **Malaysia** | *total dependency ratio:* 45.9 % |
+| | *youth dependency ratio:* 38.1 % |
+| | *elderly dependency ratio:* 7.8 % |
+| | *potential support ratio:* 12.8 (2013) |
+| **Maldives** | *total dependency ratio:* 50.8 % |
+| | *youth dependency ratio:* 43.3 % |
+| | *elderly dependency ratio:* 7.4 % |
+| | *potential support ratio:* 13.4 (2013) |
+| **Mali** | *total dependency ratio:* 100.7 % |
+| | *youth dependency ratio:* 95.1 % |
+| | *elderly dependency ratio:* 5.6 % |
+| | *potential support ratio:* 17.9 (2013) |
+| **Malta** | *total dependency ratio:* 44.9 % |
+| | *youth dependency ratio:* 21.3 % |
+| | *elderly dependency ratio:* 23.6 % |
+| | *potential support ratio:* 4.2 (2013) |
+| **Mauritania** | *total dependency ratio:* 76.3 % |
+| | *youth dependency ratio:* 70.7 % |
+| | *elderly dependency ratio:* 5.6 % |
+| | *potential support ratio:* 17.9 (2013) |
+| **Mauritius** | *total dependency ratio:* 39.8 % |
+| | *youth dependency ratio:* 27.6 % |
+| | *elderly dependency ratio:* 12.2 % |
+| | *potential support ratio:* 8.2 (2013) |
+| **Mexico** | *total dependency ratio:* 53.6 % |
+| | *youth dependency ratio:* 43.7 % |
+| | *elderly dependency ratio:* 9.8 % |
+| | *potential support ratio:* 10.2 (2013) |
+| **Micronesia, Federated States of** | *total dependency ratio:* 64.4 % |
+| | *youth dependency ratio:* 57.7 % |
+| | *elderly dependency ratio:* 6.7 % |
+| | *potential support ratio:* 14.9 (2013) |
+| **Moldova** | *total dependency ratio:* 38.8 % |
+| | *youth dependency ratio:* 23 % |
+| | *elderly dependency ratio:* 15.8 % |
+| | *potential support ratio:* 6.3 (2013) |
+| **Mongolia** | *total dependency ratio:* 45.1 % |
+| | *youth dependency ratio:* 39.6 % |
+| | *elderly dependency ratio:* 5.5 % |
+| | *potential support ratio:* 18.1 (2013) |
+| **Montenegro** | *total dependency ratio:* 46.7 % |
+| | *youth dependency ratio:* 27.5 % |
+| | *elderly dependency ratio:* 19.2 % |
+| | *potential support ratio:* 5.2 (2013) |
+| **Morocco** | *total dependency ratio:* 48.9 % |
+| | *youth dependency ratio:* 41.5 % |
+| | *elderly dependency ratio:* 7.4 % |
+| | *potential support ratio:* 13.5 (2013) |
+| **Mozambique** | *total dependency ratio:* 94.8 % |
+| | *youth dependency ratio:* 88.4 % |
+| | *elderly dependency ratio:* 6.4 % |
+| | *potential support ratio:* 15.6 (2013) |
+| **Namibia** | *total dependency ratio:* 65.5 % |
+| | *youth dependency ratio:* 59.6 % |
+| | *elderly dependency ratio:* 5.9 % |
+| | *potential support ratio:* 17 (2013) |
+| **Nepal** | *total dependency ratio:* 66.1 % |
+| | *youth dependency ratio:* 57.6 % |
+| | *elderly dependency ratio:* 8.5 % |
+| | *potential support ratio:* 11.7 (2013) |
+| **Netherlands** | *total dependency ratio:* 51.7 % |
+| | *youth dependency ratio:* 25.9 % |
+| | *elderly dependency ratio:* 25.8 % |
+| | *potential support ratio:* 3.9 (2013) |
+| **New Caledonia** | *total dependency ratio:* 48.3 % |
+| | *youth dependency ratio:* 33.6 % |
+| | *elderly dependency ratio:* 14.7 % |
+| | *potential support ratio:* 6.8 (2013) |
+| **New Zealand** | *total dependency ratio:* 51.9 % |
+| | *youth dependency ratio:* 30.7 % |
+| | *elderly dependency ratio:* 21.2 % |
+| | *potential support ratio:* 4.7 (2013) |
+| **Nicaragua** | *total dependency ratio:* 59.9 % |
+| | *youth dependency ratio:* 52.5 % |
+| | *elderly dependency ratio:* 7.4 % |
+| | *potential support ratio:* 13.5 (2013) |
+| **Niger** | *total dependency ratio:* 111.5 % |
+| | *youth dependency ratio:* 105.9 % |
+| | *elderly dependency ratio:* 5.5 % |
+| | *potential support ratio:* 18.1 (2013) |
+| **Nigeria** | *total dependency ratio:* 89 % |
+| | *youth dependency ratio:* 83.8 % |
+| | *elderly dependency ratio:* 5.2 % |
+| | *potential support ratio:* 19.3 (2013) |
+| **Norway** | *total dependency ratio:* 52.6 % |
+| | *youth dependency ratio:* 28.5 % |
+| | *elderly dependency ratio:* 24.1 % |
+| | *potential support ratio:* 4.1 (2013) |
+| **Oman** | *total dependency ratio:* 35.7 % |
+| | *youth dependency ratio:* 31.9 % |
+| | *elderly dependency ratio:* 3.8 % |
+| | *potential support ratio:* 26.2 (2013) |
+| **Pakistan** | *total dependency ratio:* 61.8 % |
+| | *youth dependency ratio:* 54.7 % |
+| | *elderly dependency ratio:* 7.1 % |
+| | *potential support ratio:* 14.1 (2013) |
+| **Panama** | *total dependency ratio:* 55.1 % |
+| | *youth dependency ratio:* 43.9 % |
+| | *elderly dependency ratio:* 11.2 % |
+| | *potential support ratio:* 8.9 (2013) |
+| **Papua New Guinea** | *total dependency ratio:* 69.3 % |
+| | *youth dependency ratio:* 64.3 % |
+| | *elderly dependency ratio:* 4.9 % |
+| | *potential support ratio:* 20.3 (2013) |
+| **Paraguay** | *total dependency ratio:* 61 % |
+| | *youth dependency ratio:* 52.2 % |
+| | *elderly dependency ratio:* 8.8 % |
+| | *potential support ratio:* 11.4 (2013) |
+| **Peru** | *total dependency ratio:* 54.2 % |
+| | *youth dependency ratio:* 44.4 % |
+| | *elderly dependency ratio:* 9.9 % |
+| | *potential support ratio:* 10.1 (2013) |
+| **Philippines** | *total dependency ratio:* 61.4 % |
+| | *youth dependency ratio:* 55.1 % |
+| | *elderly dependency ratio:* 6.3 % |
+| | *potential support ratio:* 15.9 (2013) |
+| **Poland** | *total dependency ratio:* 41.6 % |
+| | *youth dependency ratio:* 21.2 % |
+| | *elderly dependency ratio:* 20.4 % |
+| | *potential support ratio:* 4.9 (2013) |
+| **Portugal** | *total dependency ratio:* 50.5 % |
+| | *youth dependency ratio:* 22.2 % |
+| | *elderly dependency ratio:* 28.2 % |
+| | *potential support ratio:* 3.5 (2013) |
+| **Puerto Rico** | *total dependency ratio:* 50.1 % |
+| | *youth dependency ratio:* 29.3 % |
+| | *elderly dependency ratio:* 20.9 % |
+| | *potential support ratio:* 4.8 (2013) |
+| **Qatar** | *total dependency ratio:* 17.2 % |
+| | *youth dependency ratio:* 16 % |
+| | *elderly dependency ratio:* 1.2 % |
+| | *potential support ratio:* 83.9 (2013) |
+| **Romania** | *total dependency ratio:* 43.3 % |
+| | *youth dependency ratio:* 21.6 % |
+| | *elderly dependency ratio:* 21.7 % |
+| | *potential support ratio:* 4.6 (2013) |
+| **Russia** | *total dependency ratio:* 40.5 % |
+| | *youth dependency ratio:* 22.2 % |
+| | *elderly dependency ratio:* 18.3 % |
+| | *potential support ratio:* 5.5 (2013) |
+| **Rwanda** | *total dependency ratio:* 82.8 % |
+| | *youth dependency ratio:* 78.5 % |
+| | *elderly dependency ratio:* 4.3 % |
+| | *potential support ratio:* 23 (2013) |
+| **Saint Lucia** | *total dependency ratio:* 48.6 % |
+| | *youth dependency ratio:* 35.6 % |
+| | *elderly dependency ratio:* 13 % |
+| | *potential support ratio:* 7.7 (2013) |
+| **Saint Vincent and the Grenadines** | *total dependency ratio:* 47.6 % |
+| | *youth dependency ratio:* 37.3 % |
+| | *elderly dependency ratio:* 10.3 % |
+| | *potential support ratio:* 9.7 (2013) |
+| **Samoa** | *total dependency ratio:* 75.1 % |
+| | *youth dependency ratio:* 66.1 % |
+| | *elderly dependency ratio:* 9 % |
+| | *potential support ratio:* 11.1 (2013) |
+| **Sao Tome and Principe** | *total dependency ratio:* 81.8 % |
+| | *youth dependency ratio:* 75.6 % |
+| | *elderly dependency ratio:* 6.1 % |
+| | *potential support ratio:* 16.3 (2013) |
+| **Saudi Arabia** | *total dependency ratio:* 46.9 % |
+| | *youth dependency ratio:* 42.6 % |
+| | *elderly dependency ratio:* 4.2 % |
+| | *potential support ratio:* 23.6 (2013) |
+| **Senegal** | *total dependency ratio:* 86.9 % |
+| | *youth dependency ratio:* 81.3 % |
+| | *elderly dependency ratio:* 5.6 % |
+| | *potential support ratio:* 17.9 (2013) |
+| **Serbia** | *total dependency ratio:* 44 % |
+| | *youth dependency ratio:* 23.4 % |
+| | *elderly dependency ratio:* 20.7 % |
+| | *potential support ratio:* 4.8 (2013) |
+| **Seychelles** | *total dependency ratio:* 42.6 % |
+| | *youth dependency ratio:* 31.6 % |
+| | *elderly dependency ratio:* 11 % |
+| | *potential support ratio:* 9.1 (2013) |
+| **Sierra Leone** | *total dependency ratio:* 79.3 % |
+| | *youth dependency ratio:* 74.5 % |
+| | *elderly dependency ratio:* 4.8 % |
+| | *potential support ratio:* 20.9 (2013) |
+| **Singapore** | *total dependency ratio:* 35.6 % |
+| | *youth dependency ratio:* 21.8 % |
+| | *elderly dependency ratio:* 13.8 % |
+| | *potential support ratio:* 7.2 (2013) |
+| **Slovakia** | *total dependency ratio:* 38.9 % |
+| | *youth dependency ratio:* 20.9 % |
+| | *elderly dependency ratio:* 18 % |
+| | *potential support ratio:* 5.6 (2013) |
+| **Slovenia** | *total dependency ratio:* 46 % |
+| | *youth dependency ratio:* 20.9 % |
+| | *elderly dependency ratio:* 25.2 % |
+| | *potential support ratio:* 4 (2013) |
+| **Solomon Islands** | *total dependency ratio:* 77.1 % |
+| | *youth dependency ratio:* 71.2 % |
+| | *elderly dependency ratio:* 6 % |
+| | *potential support ratio:* 16.8 (2013) |
+| **Somalia** | *total dependency ratio:* 100.1 % |
+| | *youth dependency ratio:* 94.4 % |
+| | *elderly dependency ratio:* 5.7 % |
+| | *potential support ratio:* 17.7 (2013) |
+| **South Africa** | *total dependency ratio:* 53.9 % |
+| | *youth dependency ratio:* 45.4 % |
+| | *elderly dependency ratio:* 8.5 % |
+| | *potential support ratio:* 11.7 (2013) |
+| **South Sudan** | *total dependency ratio:* 83.8 % |
+| | *youth dependency ratio:* 77.4 % |
+| | *elderly dependency ratio:* 6.4 % |
+| | *potential support ratio:* 15.6 (2013) |
+| **Spain** | *total dependency ratio:* 49.5 % |
+| | *youth dependency ratio:* 23 % |
+| | *elderly dependency ratio:* 26.6 % |
+| | *potential support ratio:* 3.8 (2013) |
+| **Sri Lanka** | *total dependency ratio:* 50.7 % |
+| | *youth dependency ratio:* 37.9 % |
+| | *elderly dependency ratio:* 12.8 % |
+| | *potential support ratio:* 7.8 (2013) |
+| **Sudan** | *total dependency ratio:* 79.9 % |
+| | *youth dependency ratio:* 74.1 % |
+| | *elderly dependency ratio:* 5.8 % |
+| | *potential support ratio:* 17.1 (2013) |
+| **Suriname** | *total dependency ratio:* 51.6 % |
+| | *youth dependency ratio:* 41.5 % |
+| | *elderly dependency ratio:* 10.1 % |
+| | *potential support ratio:* 9.9 (2013) |
+| **Swaziland** | *total dependency ratio:* 70.4 % |
+| | *youth dependency ratio:* 64.4 % |
+| | *elderly dependency ratio:* 5.9 % |
+| | *potential support ratio:* 16.8 (2013) |
+| **Sweden** | *total dependency ratio:* 56.8 % |
+| | *youth dependency ratio:* 26.5 % |
+| | *elderly dependency ratio:* 30.3 % |
+| | *potential support ratio:* 3.3 (2013) |
+| **Switzerland** | *total dependency ratio:* 48.1 % |
+| | *youth dependency ratio:* 21.9 % |
+| | *elderly dependency ratio:* 26.2 % |
+| | *potential support ratio:* 3.8 (2013) |
+| **Syria** | *total dependency ratio:* 64.3 % |
+| | *youth dependency ratio:* 57.7 % |
+| | *elderly dependency ratio:* 6.7 % |
+| | *potential support ratio:* 15 (2013) |
+| **Tajikistan** | *total dependency ratio:* 64.1 % |
+| | *youth dependency ratio:* 58.9 % |
+| | *elderly dependency ratio:* 5.2 % |
+| | *potential support ratio:* 19.1 (2013) |
+| **Tanzania** | *total dependency ratio:* 92.5 % |
+| | *youth dependency ratio:* 86.3 % |
+| | *elderly dependency ratio:* 6.2 % |
+| | *potential support ratio:* 16.2 (2013) |
+| **Thailand** | *total dependency ratio:* 38.6 % |
+| | *youth dependency ratio:* 25.2 % |
+| | *elderly dependency ratio:* 13.5 % |
+| | *potential support ratio:* 7.4 (2013) |
+| **Timor-Leste** | *total dependency ratio:* 96.3 % |
+| | *youth dependency ratio:* 89.9 % |
+| | *elderly dependency ratio:* 6.4 % |
+| | *potential support ratio:* 15.5 (2013) |
+| **Togo** | *total dependency ratio:* 80.5 % |
+| | *youth dependency ratio:* 75.5 % |
+| | *elderly dependency ratio:* 5 % |
+| | *potential support ratio:* 20.1 (2013) |
+| **Tonga** | *total dependency ratio:* 75.7 % |
+| | *youth dependency ratio:* 65.4 % |
+| | *elderly dependency ratio:* 10.3 % |
+| | *potential support ratio:* 9.7 (2013) |
+| **Trinidad and Tobago** | *total dependency ratio:* 42.5 % |
+| | *youth dependency ratio:* 29.6 % |
+| | *elderly dependency ratio:* 12.9 % |
+| | *potential support ratio:* 7.8 (2013) |
+| **Tunisia** | *total dependency ratio:* 43.6 % |
+| | *youth dependency ratio:* 33.3 % |
+| | *elderly dependency ratio:* 10.3 % |
+| | *potential support ratio:* 9.7 (2013) |
+| **Turkey** | *total dependency ratio:* 49.3 % |
+| | *youth dependency ratio:* 38.3 % |
+| | *elderly dependency ratio:* 11 % |
+| | *potential support ratio:* 9.1 (2013) |
+| **Turkmenistan** | *total dependency ratio:* 48.3 % |
+| | *youth dependency ratio:* 42.2 % |
+| | *elderly dependency ratio:* 6.1 % |
+| | *potential support ratio:* 16.5 (2013) |
+| **Uganda** | *total dependency ratio:* 103.3 % |
+| | *youth dependency ratio:* 98.4 % |
+| | *elderly dependency ratio:* 4.9 % |
+| | *potential support ratio:* 20.3 (2013) |
+| **Ukraine** | *total dependency ratio:* 41.9 % |
+| | *youth dependency ratio:* 20.5 % |
+| | *elderly dependency ratio:* 21.4 % |
+| | *potential support ratio:* 4.7 (2013) |
+| **United Arab Emirates** | *total dependency ratio:* 18.6 % |
+| | *youth dependency ratio:* 18.1 % |
+| | *elderly dependency ratio:* 0.5 % |
+| | *potential support ratio:* 201.7 (2013) |
+| **United Kingdom** | *total dependency ratio:* 54 % |
+| | *youth dependency ratio:* 27.1 % |
+| | *elderly dependency ratio:* 26.9 % |
+| | *potential support ratio:* 3.7 (2013) |
+| **United States** | *total dependency ratio:* 50.4 % |
+| | *youth dependency ratio:* 29.4 % |
+| | *elderly dependency ratio:* 21 % |
+| | *potential support ratio:* 4.8 (2013) |
+| **Uruguay** | *total dependency ratio:* 56.2 % |
+| | *youth dependency ratio:* 34.1 % |
+| | *elderly dependency ratio:* 22 % |
+| | *potential support ratio:* 4.5 (2013) |
+| **Uzbekistan** | *total dependency ratio:* 49 % |
+| | *youth dependency ratio:* 42.6 % |
+| | *elderly dependency ratio:* 6.4 % |
+| | *potential support ratio:* 15.7 (2013) |
+| **Vanuatu** | *total dependency ratio:* 69.5 % |
+| | *youth dependency ratio:* 62.8 % |
+| | *elderly dependency ratio:* 6.7 % |
+| | *potential support ratio:* 15 (2013) |
+| **Venezuela** | *total dependency ratio:* 53.2 % |
+| | *youth dependency ratio:* 43.7 % |
+| | *elderly dependency ratio:* 9.5 % |
+| | *potential support ratio:* 10.6 (2013) |
+| **Vietnam** | *total dependency ratio:* 41.4 % |
+| | *youth dependency ratio:* 32.1 % |
+| | *elderly dependency ratio:* 9.3 % |
+| | *potential support ratio:* 10.7 (2013) |
+| **Virgin Islands** | *total dependency ratio:* 58.1 % |
+| | *youth dependency ratio:* 32.7 % |
+| | *elderly dependency ratio:* 25.3 % |
+| | *potential support ratio:* 3.9 (2013) |
+| **West Bank** | *total dependency ratio:* 75.6 % |
+| | *youth dependency ratio:* 70.4 % |
+| | *elderly dependency ratio:* 5.2 % |
+| | *potential support ratio:* 19.2 |
+| | *note:* data represents the Palestinian Territories (2013) |
+| **Western Sahara** | *total dependency ratio:* 41.2 % |
+| | *youth dependency ratio:* 37.5 % |
+| | *elderly dependency ratio:* 3.7 % |
+| | *potential support ratio:* 27 (2013) |
+| **World** | *total dependency ratio:* 52 % |
+| | *youth dependency ratio:* 39.9 % |
+| | *elderly dependency ratio:* 12.1 % |
+| | *potential support ratio:* 8.3 (2013) |
+| **Yemen** | *total dependency ratio:* 75.6 % |
+| | *youth dependency ratio:* 70.6 % |
+| | *elderly dependency ratio:* 5.1 % |
+| | *potential support ratio:* 19.8 (2013) |
+| **Zambia** | *total dependency ratio:* 97 % |
+| | *youth dependency ratio:* 91.8 % |
+| | *elderly dependency ratio:* 5.2 % |
+| | *potential support ratio:* 19.4 (2013) |
+| **Zimbabwe** | *total dependency ratio:* 76.4 % |
+| | *youth dependency ratio:* 69.6 % |
+| | *elderly dependency ratio:* 6.8 % |
+| | *potential support ratio:* 14.7 (2013) |

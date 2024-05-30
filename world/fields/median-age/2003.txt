@@ -1,0 +1,676 @@
+CIA - The World Factbook -- Field Listing - Median age
+
+| Country | Median age (years) |
+| --- | --- |
+| **Afghanistan** | *total:* 18.9 years |
+| | *male:* 19.1 years |
+| | *female:* 18.7 years (2002) |
+| **Albania** | *total:* 26.5 years |
+| | *male:* 24.8 years |
+| | *female:* 28.1 years (2002) |
+| **Algeria** | *total:* 22.5 years |
+| | *male:* 22.3 years |
+| | *female:* 22.6 years (2002) |
+| **American Samoa** | *total:* 21.6 years |
+| | *male:* 21.1 years |
+| | *female:* 22.2 years (2002) |
+| **Andorra** | *total:* 39.1 years |
+| | *male:* 39.4 years |
+| | *female:* 38.8 years (2002) |
+| **Angola** | *total:* 18.2 years |
+| | *male:* 18.2 years |
+| | *female:* 18.2 years (2002) |
+| **Anguilla** | *total:* 30 years |
+| | *male:* 30 years |
+| | *female:* 29.9 years (2002) |
+| **Antigua and Barbuda** | *total:* 29.1 years |
+| | *male:* 28.6 years |
+| | *female:* 29.6 years (2002) |
+| **Argentina** | *total:* 29 years |
+| | *male:* 28 years |
+| | *female:* 29.9 years (2002) |
+| **Armenia** | *total:* 32.3 years |
+| | *male:* 30.6 years |
+| | *female:* 34.1 years (2002) |
+| **Aruba** | *total:* 37.1 years |
+| | *male:* 35.3 years |
+| | *female:* 38.5 years (2002) |
+| **Australia** | *total:* 36 years |
+| | *male:* 35.2 years |
+| | *female:* 36.8 years (2002) |
+| **Austria** | *total:* 39.4 years |
+| | *male:* 38.2 years |
+| | *female:* 40.7 years (2002) |
+| **Azerbaijan** | *total:* 27.1 years |
+| | *male:* 25.7 years |
+| | *female:* 28.6 years (2002) |
+| **Bahamas, The** | *total:* 27 years |
+| | *male:* 26.2 years |
+| | *female:* 27.7 years (2002) |
+| **Bahrain** | *total:* 28.7 years |
+| | *male:* 31.6 years |
+| | *female:* 25.1 years (2002) |
+| **Bangladesh** | *total:* 21.2 years |
+| | *male:* 21.2 years |
+| | *female:* 21.1 years (2002) |
+| **Barbados** | *total:* 33.3 years |
+| | *male:* 32.2 years |
+| | *female:* 34.4 years (2002) |
+| **Belarus** | *total:* 36.7 years |
+| | *male:* 34.1 years |
+| | *female:* 39.3 years (2002) |
+| **Belgium** | *total:* 40 years |
+| | *male:* 38.7 years |
+| | *female:* 41.3 years (2002) |
+| **Belize** | *total:* 18.9 years |
+| | *male:* 18.8 years |
+| | *female:* 19 years (2002) |
+| **Benin** | *total:* 16.4 years |
+| | *male:* 15.9 years |
+| | *female:* 16.9 years (2002) |
+| **Bermuda** | *total:* 38.7 years |
+| | *male:* 37.8 years |
+| | *female:* 39.6 years (2002) |
+| **Bhutan** | *total:* 20.1 years |
+| | *male:* 19.9 years |
+| | *female:* 20.3 years (2002) |
+| **Bolivia** | *total:* 20.8 years |
+| | *male:* 20.1 years |
+| | *female:* 21.5 years (2002) |
+| **Bosnia and Herzegovina** | *total:* 35.5 years |
+| | *male:* 35.1 years |
+| | *female:* 35.9 years (2002) |
+| **Botswana** | *total:* 19.1 years |
+| | *male:* 18.4 years |
+| | *female:* 19.8 years (2002) |
+| **Brazil** | *total:* 27 years |
+| | *male:* 26.2 years |
+| | *female:* 27.7 years (2002) |
+| **British Virgin Islands** | *total:* 30.7 years |
+| | *male:* 31 years |
+| | *female:* 30.4 years (2002) |
+| **Brunei** | *total:* 26.4 years |
+| | *male:* 27 years |
+| | *female:* 25.7 years (2002) |
+| **Bulgaria** | *total:* 40.5 years |
+| | *male:* 38.4 years |
+| | *female:* 42.4 years (2002) |
+| **Burkina Faso** | *total:* 16.8 years |
+| | *male:* 16.4 years |
+| | *female:* 17.2 years (2002) |
+| **Burma** | *total:* 25.3 years |
+| | *male:* 24.8 years |
+| | *female:* 25.9 years (2002) |
+| **Burundi** | *total:* 16.3 years |
+| | *male:* 15.9 years |
+| | *female:* 16.7 years (2002) |
+| **Cambodia** | *total:* 19.2 years |
+| | *male:* 18.4 years |
+| | *female:* 20 years (2002) |
+| **Cameroon** | *total:* 18.4 years |
+| | *male:* 18.2 years |
+| | *female:* 18.5 years (2002) |
+| **Canada** | *total:* 37.8 years |
+| | *male:* 36.9 years |
+| | *female:* 38.8 years (2002) |
+| **Cape Verde** | *total:* 18.7 years |
+| | *male:* 17.9 years |
+| | *female:* 19.6 years (2002) |
+| **Cayman Islands** | *total:* 36.1 years |
+| | *male:* 35.8 years |
+| | *female:* 36.4 years (2002) |
+| **Central African Republic** | *total:* 17.9 years |
+| | *male:* 17.6 years |
+| | *female:* 18.3 years (2002) |
+| **Chad** | *total:* 16 years |
+| | *male:* 15.2 years |
+| | *female:* 16.8 years (2002) |
+| **Chile** | *total:* 29.5 years |
+| | *male:* 28.6 years |
+| | *female:* 30.4 years (2002) |
+| **China** | *total:* 31.5 years |
+| | *male:* 31.2 years |
+| | *female:* 31.7 years (2002) |
+| **Colombia** | *total:* 25.6 years |
+| | *male:* 24.8 years |
+| | *female:* 26.4 years (2002) |
+| **Comoros** | *total:* 18.6 years |
+| | *male:* 18.3 years |
+| | *female:* 18.9 years (2002) |
+| **Congo, Democratic Republic of the** | *total:* 15.8 years |
+| | *male:* 15.4 years |
+| | *female:* 16.1 years (2002) |
+| **Congo, Republic of the** | *total:* 20.2 years |
+| | *male:* 19.8 years |
+| | *female:* 20.7 years (2002) |
+| **Costa Rica** | *total:* 25.4 years |
+| | *male:* 24.9 years |
+| | *female:* 25.8 years (2002) |
+| **Cote d'Ivoire** | *total:* 17 years |
+| | *male:* 17.3 years |
+| | *female:* 16.6 years (2002) |
+| **Croatia** | *total:* 38.9 years |
+| | *male:* 37.1 years |
+| | *female:* 40.7 years (2002) |
+| **Cuba** | *total:* 34.5 years |
+| | *male:* 33.9 years |
+| | *female:* 35.1 years (2002) |
+| **Cyprus** | *total:* 34.2 years |
+| | *male:* 33.1 years |
+| | *female:* 35.2 years (2002) |
+| **Czech Republic** | *total:* 38.4 years |
+| | *male:* 36.6 years |
+| | *female:* 40.2 years (2002) |
+| **Denmark** | *total:* 39.1 years |
+| | *male:* 38.1 years |
+| | *female:* 40.1 years (2002) |
+| **Djibouti** | *total:* 18.3 years |
+| | *male:* 18.9 years |
+| | *female:* 17.7 years (2002) |
+| **Dominica** | *total:* 28.4 years |
+| | *male:* 28.1 years |
+| | *female:* 28.8 years (2002) |
+| **Dominican Republic** | *total:* 23.5 years |
+| | *male:* 23.3 years |
+| | *female:* 23.7 years (2002) |
+| **East Timor** | *total:* 19.7 years |
+| | *male:* 19.8 years |
+| | *female:* 19.6 years (2002) |
+| **Ecuador** | *total:* 22.5 years |
+| | *male:* 22 years |
+| | *female:* 23 years (2002) |
+| **Egypt** | *total:* 23.1 years |
+| | *male:* 22.8 years |
+| | *female:* 23.5 years (2002) |
+| **El Salvador** | *total:* 21.1 years |
+| | *male:* 20 years |
+| | *female:* 22.2 years (2002) |
+| **Equatorial Guinea** | *total:* 18.7 years |
+| | *male:* 18 years |
+| | *female:* 19.3 years (2002) |
+| **Eritrea** | *total:* 17.6 years |
+| | *male:* 17.4 years |
+| | *female:* 17.7 years (2002) |
+| **Estonia** | *total:* 38.1 years |
+| | *male:* 34.7 years |
+| | *female:* 41.3 years (2002) |
+| **Ethiopia** | *total:* 17.3 years |
+| | *male:* 17.3 years |
+| | *female:* 17.4 years (2002) |
+| **Faroe Islands** | *total:* 35.1 years |
+| | *male:* 34.5 years |
+| | *female:* 35.8 years (2002) |
+| **Fiji** | *total:* 23.7 years |
+| | *male:* 23.3 years |
+| | *female:* 24.2 years (2002) |
+| **Finland** | *total:* 40.3 years |
+| | *male:* 38.8 years |
+| | *female:* 41.8 years (2002) |
+| **France** | *total:* 38.3 years |
+| | *male:* 36.8 years |
+| | *female:* 39.8 years (2002) |
+| **French Guiana** | *total:* 28.2 years |
+| | *male:* 29.2 years |
+| | *female:* 27.1 years (2002) |
+| **French Polynesia** | *total:* 26.7 years |
+| | *male:* 27.1 years |
+| | *female:* 26.3 years (2002) |
+| **Gabon** | *total:* 18.5 years |
+| | *male:* 18.3 years |
+| | *female:* 18.7 years (2002) |
+| **Gambia, The** | *total:* 17.4 years |
+| | *male:* 17.3 years |
+| | *female:* 17.6 years (2002) |
+| **Gaza Strip** | *total:* 15.3 years |
+| | *male:* 15.1 years |
+| | *female:* 15.5 years (2002) |
+| **Georgia** | *total:* 34.8 years |
+| | *male:* 32.6 years |
+| | *female:* 37 years (2002) |
+| **Germany** | *total:* 41.3 years |
+| | *male:* 39.9 years |
+| | *female:* 42.8 years (2002) |
+| **Ghana** | *total:* 19.8 years |
+| | *male:* 19.5 years |
+| | *female:* 20 years (2002) |
+| **Gibraltar** | *total:* 38.8 years |
+| | *male:* 38.6 years |
+| | *female:* 39 years (2002) |
+| **Greece** | *total:* 39.8 years |
+| | *male:* 38.6 years |
+| | *female:* 41 years (2002) |
+| **Greenland** | *total:* 33.1 years |
+| | *male:* 34.3 years |
+| | *female:* 31.7 years (2002) |
+| **Grenada** | *total:* 20.5 years |
+| | *male:* 21 years |
+| | *female:* 20 years (2002) |
+| **Guadeloupe** | *total:* 31 years |
+| | *male:* 30.2 years |
+| | *female:* 31.9 years (2002) |
+| **Guam** | *total:* 25.2 years |
+| | *male:* 25.6 years |
+| | *female:* 24.9 years (2002) |
+| **Guatemala** | *total:* 18.3 years |
+| | *male:* 18.1 years |
+| | *female:* 18.5 years (2002) |
+| **Guernsey** | *total:* 40.2 years |
+| | *male:* 39.3 years |
+| | *female:* 41.1 years (2002) |
+| **Guinea** | *total:* 17.7 years |
+| | *male:* 17.4 years |
+| | *female:* 17.9 years (2002) |
+| **Guinea-Bissau** | *total:* 18.8 years |
+| | *male:* 18.2 years |
+| | *female:* 19.4 years (2002) |
+| **Guyana** | *total:* 25.7 years |
+| | *male:* 25.2 years |
+| | *female:* 26.3 years (2002) |
+| **Haiti** | *total:* 17.9 years |
+| | *male:* 17.4 years |
+| | *female:* 18.5 years (2002) |
+| **Honduras** | *total:* 18.8 years |
+| | *male:* 18.4 years |
+| | *female:* 19.2 years (2002) |
+| **Hong Kong** | *total:* 37.5 years |
+| | *male:* 37.1 years |
+| | *female:* 37.7 years (2002) |
+| **Hungary** | *total:* 38.4 years |
+| | *male:* 35.7 years |
+| | *female:* 41.1 years (2002) |
+| **Iceland** | *total:* 34 years |
+| | *male:* 33.2 years |
+| | *female:* 34.7 years (2002) |
+| **India** | *total:* 24.1 years |
+| | *male:* 24.1 years |
+| | *female:* 24.2 years (2002) |
+| **Indonesia** | *total:* 25.8 years |
+| | *male:* 25.4 years |
+| | *female:* 26.2 years (2002) |
+| **Iran** | *total:* 22.9 years |
+| | *male:* 22.7 years |
+| | *female:* 23.2 years (2002) |
+| **Iraq** | *total:* 19 years |
+| | *male:* 18.9 years |
+| | *female:* 19.1 years (2002) |
+| **Ireland** | *total:* 33.1 years |
+| | *male:* 32.2 years |
+| | *female:* 34 years (2002) |
+| **Israel** | *total:* 28.9 years |
+| | *male:* 28.1 years |
+| | *female:* 29.8 years (2002) |
+| **Italy** | *total:* 41 years |
+| | *male:* 39.4 years |
+| | *female:* 42.6 years (2002) |
+| **Jamaica** | *total:* 26.5 years |
+| | *male:* 25.8 years |
+| | *female:* 27.2 years (2002) |
+| **Japan** | *total:* 42 years |
+| | *male:* 40.3 years |
+| | *female:* 43.8 years (2002) |
+| **Jersey** | *total:* 39.8 years |
+| | *male:* 39.1 years |
+| | *female:* 40.6 years (2002) |
+| **Jordan** | *total:* 21.8 years |
+| | *male:* 22.4 years |
+| | *female:* 21.1 years (2002) |
+| **Kazakhstan** | *total:* 28.2 years |
+| | *male:* 26.6 years |
+| | *female:* 29.7 years (2002) |
+| **Kenya** | *total:* 18.4 years |
+| | *male:* 18.2 years |
+| | *female:* 18.5 years (2002) |
+| **Kiribati** | *total:* 19.7 years |
+| | *male:* 19.3 years |
+| | *female:* 20.2 years (2002) |
+| **Korea, North** | *total:* 31.1 years |
+| | *male:* 30 years |
+| | *female:* 32.3 years (2002) |
+| **Korea, South** | *total:* 33.2 years |
+| | *male:* 32.2 years |
+| | *female:* 34.2 years (2002) |
+| **Kuwait** | *total:* 25.9 years |
+| | *male:* 28.4 years |
+| | *female:* 21.8 years (2002) |
+| **Kyrgyzstan** | *total:* 22.7 years |
+| | *male:* 21.8 years |
+| | *female:* 23.6 years (2002) |
+| **Laos** | *total:* 18.5 years |
+| | *male:* 18.1 years |
+| | *female:* 18.9 years (2002) |
+| **Latvia** | *total:* 39 years |
+| | *male:* 35.5 years |
+| | *female:* 42.1 years (2002) |
+| **Lebanon** | *total:* 26.4 years |
+| | *male:* 25.4 years |
+| | *female:* 27.5 years (2002) |
+| **Lesotho** | *total:* 19.8 years |
+| | *male:* 19.3 years |
+| | *female:* 20.4 years (2002) |
+| **Liberia** | *total:* 18.1 years |
+| | *male:* 17.7 years |
+| | *female:* 18.4 years (2002) |
+| **Libya** | *total:* 22.1 years |
+| | *male:* 22.2 years |
+| | *female:* 21.9 years (2002) |
+| **Liechtenstein** | *total:* 38.3 years |
+| | *male:* 37.9 years |
+| | *female:* 38.8 years (2002) |
+| **Lithuania** | *total:* 36.6 years |
+| | *male:* 33.9 years |
+| | *female:* 39.2 years (2002) |
+| **Luxembourg** | *total:* 38.1 years |
+| | *male:* 37.2 years |
+| | *female:* 38.9 years (2002) |
+| **Macau** | *total:* 33.1 years |
+| | *male:* 32.9 years |
+| | *female:* 33.3 years (2002) |
+| **Macedonia, The Former Yugoslav Republic of** | *total:* 32.5 years |
+| | *male:* 31.4 years |
+| | *female:* 33.6 years (2002) |
+| **Madagascar** | *total:* 17.4 years |
+| | *male:* 17.2 years |
+| | *female:* 17.6 years (2002) |
+| **Malawi** | *total:* 16.4 years |
+| | *male:* 16.1 years |
+| | *female:* 16.7 years (2002) |
+| **Malaysia** | *total:* 23.6 years |
+| | *male:* 23 years |
+| | *female:* 24.3 years (2002) |
+| **Maldives** | *total:* 17.3 years |
+| | *male:* 17.2 years |
+| | *female:* 17.4 years (2002) |
+| **Mali** | *total:* 16.3 years |
+| | *male:* 15.7 years |
+| | *female:* 16.9 years (2002) |
+| **Malta** | *total:* 37.2 years |
+| | *male:* 35.6 years |
+| | *female:* 38.8 years (2002) |
+| **Man, Isle of** | *total:* 39.1 years |
+| | *male:* 37.8 years |
+| | *female:* 40.6 years (2002) |
+| **Marshall Islands** | *total:* 19.3 years |
+| | *male:* 19.3 years |
+| | *female:* 19.2 years (2002) |
+| **Martinique** | *total:* 32.7 years |
+| | *male:* 32 years |
+| | *female:* 33.3 years (2002) |
+| **Mauritania** | *total:* 16.9 years |
+| | *male:* 16.6 years |
+| | *female:* 17.2 years (2002) |
+| **Mauritius** | *total:* 29.8 years |
+| | *male:* 29.1 years |
+| | *female:* 30.8 years (2002) |
+| **Mayotte** | *total:* 16.9 years |
+| | *male:* 18.1 years |
+| | *female:* 15.7 years (2002) |
+| **Mexico** | *total:* 23.8 years |
+| | *male:* 22.9 years |
+| | *female:* 24.6 years (2002) |
+| **Moldova** | *total:* 32 years |
+| | *male:* 29.8 years |
+| | *female:* 34.2 years (2002) |
+| **Monaco** | *total:* 45 years |
+| | *male:* 43 years |
+| | *female:* 47 years (2002) |
+| **Mongolia** | *total:* 23.5 years |
+| | *male:* 23.2 years |
+| | *female:* 23.9 years (2002) |
+| **Montserrat** | *total:* 27.8 years |
+| | *male:* 27.7 years |
+| | *female:* 27.9 years (2002) |
+| **Morocco** | *total:* 23 years |
+| | *male:* 22.5 years |
+| | *female:* 23.5 years (2002) |
+| **Mozambique** | *total:* 19 years |
+| | *male:* 18.7 years |
+| | *female:* 19.3 years (2002) |
+| **Namibia** | *total:* 18.3 years |
+| | *male:* 17.9 years |
+| | *female:* 18.6 years (2002) |
+| **Nauru** | *total:* 19.6 years |
+| | *male:* 19.3 years |
+| | *female:* 20 years (2002) |
+| **Nepal** | *total:* 19.7 years |
+| | *male:* 19.6 years |
+| | *female:* 19.9 years (2002) |
+| **Netherlands** | *total:* 38.6 years |
+| | *male:* 37.7 years |
+| | *female:* 39.5 years (2002) |
+| **Netherlands Antilles** | *total:* 31.8 years |
+| | *male:* 30.3 years |
+| | *female:* 33.2 years (2002) |
+| **New Caledonia** | *total:* 26.9 years |
+| | *male:* 26.7 years |
+| | *female:* 27.2 years (2002) |
+| **New Zealand** | *total:* 33.1 years |
+| | *male:* 32.4 years |
+| | *female:* 33.9 years (2002) |
+| **Nicaragua** | *total:* 20.4 years |
+| | *male:* 20 years |
+| | *female:* 20.8 years (2002) |
+| **Niger** | *total:* 16.1 years |
+| | *male:* 15.6 years |
+| | *female:* 16.6 years (2002) |
+| **Nigeria** | *total:* 18 years |
+| | *male:* 18.1 years |
+| | *female:* 17.9 years (2002) |
+| **Northern Mariana Islands** | *total:* 30.4 years |
+| | *male:* 31 years |
+| | *female:* 30.1 years (2002) |
+| **Norway** | *total:* 37.7 years |
+| | *male:* 36.7 years |
+| | *female:* 38.7 years (2002) |
+| **Oman** | *total:* 19.4 years |
+| | *male:* 22.3 years |
+| | *female:* 16.5 years (2002) |
+| **Pakistan** | *total:* 19.8 years |
+| | *male:* 19.7 years |
+| | *female:* 20 years (2002) |
+| **Palau** | *total:* 30.8 years |
+| | *male:* 31.8 years |
+| | *female:* 29.7 years (2002) |
+| **Panama** | *total:* 25.6 years |
+| | *male:* 25.4 years |
+| | *female:* 25.9 years (2002) |
+| **Papua New Guinea** | *total:* 20.8 years |
+| | *male:* 21 years |
+| | *female:* 20.6 years (2002) |
+| **Paraguay** | *total:* 20.9 years |
+| | *male:* 20.7 years |
+| | *female:* 21.2 years (2002) |
+| **Peru** | *total:* 23.5 years |
+| | *male:* 23.2 years |
+| | *female:* 23.7 years (2002) |
+| **Philippines** | *total:* 21.8 years |
+| | *male:* 21.3 years |
+| | *female:* 22.4 years (2002) |
+| **Poland** | *total:* 36 years |
+| | *male:* 34.1 years |
+| | *female:* 38 years (2002) |
+| **Portugal** | *total:* 37.6 years |
+| | *male:* 35.8 years |
+| | *female:* 39.3 years (2002) |
+| **Puerto Rico** | *total:* 33.3 years |
+| | *male:* 31.6 years |
+| | *female:* 34.9 years (2002) |
+| **Qatar** | *total:* 31.2 years |
+| | *male:* 36.4 years |
+| | *female:* 21.6 years (2002) |
+| **Reunion** | *total:* 26.4 years |
+| | *male:* 25.2 years |
+| | *female:* 27.5 years (2002) |
+| **Romania** | *total:* 35.4 years |
+| | *male:* 34 years |
+| | *female:* 37.1 years (2002) |
+| **Russia** | *total:* 37.6 years |
+| | *male:* 34.7 years |
+| | *female:* 40.3 years (2002) |
+| **Rwanda** | *total:* 18.1 years |
+| | *male:* 17.8 years |
+| | *female:* 18.3 years (2002) |
+| **Saint Helena** | *total:* 34.2 years |
+| | *male:* 34.4 years |
+| | *female:* 33.9 years (2002) |
+| **Saint Kitts and Nevis** | *total:* 27.1 years |
+| | *male:* 26.3 years |
+| | *female:* 27.9 years (2002) |
+| **Saint Lucia** | *total:* 24.1 years |
+| | *male:* 23.3 years |
+| | *female:* 24.9 years (2002) |
+| **Saint Pierre and Miquelon** | *total:* 32.9 years |
+| | *male:* 32.7 years |
+| | *female:* 33.1 years (2002) |
+| **Saint Vincent and the Grenadines** | *total:* 25.3 years |
+| | *male:* 25.1 years |
+| | *female:* 25.5 years (2002) |
+| **Samoa** | *total:* 23.7 years |
+| | *male:* 26.3 years |
+| | *female:* 20.2 years (2002) |
+| **San Marino** | *total:* 39.6 years |
+| | *male:* 39.2 years |
+| | *female:* 40 years (2002) |
+| **Sao Tome and Principe** | *total:* 16.1 years |
+| | *male:* 15.5 years |
+| | *female:* 16.7 years (2002) |
+| **Saudi Arabia** | *total:* 18.8 years |
+| | *male:* 20.9 years |
+| | *female:* 16.8 years (2002) |
+| **Senegal** | *total:* 17.8 years |
+| | *male:* 17.2 years |
+| | *female:* 18.4 years (2002) |
+| **Serbia and Montenegro** | *total:* 36.2 years |
+| | *male:* 34.3 years |
+| | *female:* 37.9 years (2002) |
+| **Seychelles** | *total:* 26.9 years |
+| | *male:* 25.8 years |
+| | *female:* 27.9 years (2002) |
+| **Sierra Leone** | *total:* 17.5 years |
+| | *male:* 17.2 years |
+| | *female:* 17.8 years (2002) |
+| **Singapore** | *total:* 34.5 years |
+| | *male:* 34.3 years |
+| | *female:* 34.8 years (2002) |
+| **Slovakia** | *total:* 35 years |
+| | *male:* 33.3 years |
+| | *female:* 36.7 years (2002) |
+| **Slovenia** | *total:* 38.6 years |
+| | *male:* 37.1 years |
+| | *female:* 40.2 years (2002) |
+| **Solomon Islands** | *total:* 18.2 years |
+| | *male:* 18.1 years |
+| | *female:* 18.3 years (2002) |
+| **Somalia** | *total:* 17.6 years |
+| | *male:* 17.6 years |
+| | *female:* 17.6 years (2002) |
+| **South Africa** | *total:* 24.5 years |
+| | *male:* 24 years |
+| | *female:* 25 years (2002) |
+| **Spain** | *total:* 38.7 years |
+| | *male:* 37.4 years |
+| | *female:* 40.1 years (2002) |
+| **Sri Lanka** | *total:* 28.7 years |
+| | *male:* 27.7 years |
+| | *female:* 29.7 years (2002) |
+| **Sudan** | *total:* 17.7 years |
+| | *male:* 17.5 years |
+| | *female:* 17.9 years (2002) |
+| **Suriname** | *total:* 25.5 years |
+| | *male:* 25.1 years |
+| | *female:* 26 years (2002) |
+| **Swaziland** | *total:* 18.5 years |
+| | *male:* 18.2 years |
+| | *female:* 18.8 years (2002) |
+| **Sweden** | *total:* 40.1 years |
+| | *male:* 39 years |
+| | *female:* 41.4 years (2002) |
+| **Switzerland** | *total:* 40.2 years |
+| | *male:* 39.3 years |
+| | *female:* 41.2 years (2002) |
+| **Syria** | *total:* 19.7 years |
+| | *male:* 19.6 years |
+| | *female:* 19.9 years (2002) |
+| **Taiwan** | *total:* 33.2 years |
+| | *male:* 32.9 years |
+| | *female:* 33.6 years (2002) |
+| **Tajikistan** | *total:* 19.3 years |
+| | *male:* 19 years |
+| | *female:* 19.6 years (2002) |
+| **Tanzania** | *total:* 17.5 years |
+| | *male:* 17.2 years |
+| | *female:* 17.7 years (2002) |
+| **Thailand** | *total:* 30.1 years |
+| | *male:* 29.4 years |
+| | *female:* 30.8 years (2002) |
+| **Togo** | *total:* 17.3 years |
+| | *male:* 16.9 years |
+| | *female:* 17.7 years (2002) |
+| **Tonga** | *total:* 19.8 years |
+| | *male:* 19.3 years |
+| | *female:* 20.3 years (2002) |
+| **Trinidad and Tobago** | *total:* 29.9 years |
+| | *male:* 29.5 years |
+| | *female:* 30.4 years (2002) |
+| **Tunisia** | *total:* 26.2 years |
+| | *male:* 25.7 years |
+| | *female:* 26.7 years (2002) |
+| **Turkey** | *total:* 26.8 years |
+| | *male:* 26.7 years |
+| | *female:* 27 years (2002) |
+| **Turkmenistan** | *total:* 21.1 years |
+| | *male:* 20.2 years |
+| | *female:* 22 years (2002) |
+| **Turks and Caicos Islands** | *total:* 27 years |
+| | *male:* 27.7 years |
+| | *female:* 26.3 years (2002) |
+| **Tuvalu** | *total:* 24.2 years |
+| | *male:* 22.9 years |
+| | *female:* 25.8 years (2002) |
+| **Uganda** | *total:* 14.7 years |
+| | *male:* 14.6 years |
+| | *female:* 14.8 years (2002) |
+| **Ukraine** | *total:* 38 years |
+| | *male:* 34.8 years |
+| | *female:* 40.9 years (2002) |
+| **United Arab Emirates** | *total:* 27.6 years |
+| | *male:* 36.1 years |
+| | *female:* 21.9 years (2002) |
+| **United Kingdom** | *total:* 38.4 years |
+| | *male:* 37.3 years |
+| | *female:* 39.5 years (2002) |
+| **United States** | *total:* 35.8 years |
+| | *male:* 34.5 years |
+| | *female:* 37.1 years (2002) |
+| **Uruguay** | *total:* 31.8 years |
+| | *male:* 30.2 years |
+| | *female:* 33.4 years (2002) |
+| **Uzbekistan** | *total:* 21.8 years |
+| | *male:* 21.2 years |
+| | *female:* 22.5 years (2002) |
+| **Vanuatu** | *total:* 21.9 years |
+| | *male:* 22 years |
+| | *female:* 21.8 years (2002) |
+| **Venezuela** | *total:* 24.8 years |
+| | *male:* 24.3 years |
+| | *female:* 25.4 years (2002) |
+| **Vietnam** | *total:* 24.5 years |
+| | *male:* 23.6 years |
+| | *female:* 25.5 years (2002) |
+| **Virgin Islands** | *total:* 31.2 years |
+| | *male:* 28.6 years |
+| | *female:* 33.7 years (2002) |
+| **West Bank** | *total:* 17.9 years |
+| | *male:* 17.7 years |
+| | *female:* 18 years (2002) |
+| **Yemen** | *total:* 16.4 years |
+| | *male:* 16.4 years |
+| | *female:* 16.4 years (2002) |
+| **Zambia** | *total:* 16.5 years |
+| | *male:* 16.4 years |
+| | *female:* 16.6 years (2002) |
+| **Zimbabwe** | *total:* 18.9 years |
+| | *male:* 18.9 years |
+| | *female:* 18.9 years (2002) |
+
+This page was last updated on 18 December, 2003
+ 

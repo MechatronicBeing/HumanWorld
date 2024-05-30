@@ -1,0 +1,242 @@
+CIA - The World Factbook -- Field Listing :: Population growth rate   
+
+The average annual percent change in the population, resulting from a surplus (or deficit) of births over deaths and the balance of migrants entering and leaving a country. The rate may be positive or negative. The growth rate is a factor in determining how great a burden would be imposed on a country by the changing needs of its people for infrastructure (e.g., schools, hospitals, housing, roads), resources (e.g., food, water, electricity), and jobs. Rapid population growth can be seen as threatening by neighboring countries.
+
+| Country | Population growth rate(%) |
+| --- | --- |
+| **Afghanistan** | 2.629% (2009 est.) |
+| **Albania** | 0.546% (2009 est.) |
+| **Algeria** | 1.196% (2009 est.) |
+| **American Samoa** | 1.222% (2009 est.) |
+| **Andorra** | 1.135% (2009 est.) |
+| **Angola** | 2.095% (2009 est.) |
+| **Anguilla** | 2.272% (2009 est.) |
+| **Antigua and Barbuda** | 1.303% (2009 est.) |
+| **Argentina** | 1.053% (2009 est.) |
+| **Armenia** | -0.03% (2009 est.) |
+| **Aruba** | 1.478% (2009 est.) |
+| **Australia** | 1.195% (2009 est.) |
+| **Austria** | 0.052% (2009 est.) |
+| **Azerbaijan** | 0.762% (2009 est.) |
+| **Bahamas, The** | 0.536% (2009 est.) |
+| **Bahrain** | 1.285% (2009 est.) |
+| **Bangladesh** | 1.292% (2009 est.) |
+| **Barbados** | 0.383% (2009 est.) |
+| **Belarus** | -0.378% (2009 est.) |
+| **Belgium** | 0.094% (2009 est.) |
+| **Belize** | 2.154% (2009 est.) |
+| **Benin** | 2.977% (2009 est.) |
+| **Bermuda** | 0.647% (2009 est.) |
+| **Bhutan** | 1.267% (2009 est.) |
+| **Bolivia** | 1.772% (2009 est.) |
+| **Bosnia and Herzegovina** | 0.339% (2009 est.) |
+| **Botswana** | 1.937% (2009 est.) |
+| **Brazil** | 1.199% (2009 est.) |
+| **British Virgin Islands** | 1.837% (2009 est.) |
+| **Brunei** | 1.759% (2009 est.) |
+| **Bulgaria** | -0.79% (2009 est.) |
+| **Burkina Faso** | 3.103% (2009 est.) |
+| **Burma** | 0.783% (2009 est.) |
+| **Burundi** | 3.279% (2009 est.) |
+| **Cambodia** | 1.765% (2009 est.) |
+| **Cameroon** | 2.19% (2009 est.) |
+| **Canada** | 0.817% (2009 est.) |
+| **Cape Verde** | 0.561% (2009 est.) |
+| **Cayman Islands** | 2.394% (2009 est.) |
+| **Central African Republic** | 1.491% (2009 est.) |
+| **Chad** | 2.069% (2009 est.) |
+| **Chile** | 0.881% (2009 est.) |
+| **China** | 0.655% (2009 est.) |
+| **Christmas Island** | 0% (2009 est.) |
+| **Cocos (Keeling) Islands** | 0% (2009 est.) |
+| **Colombia** | 1.377% (2009 est.) |
+| **Comoros** | 2.766% (2009 est.) |
+| **Congo, Democratic Republic of the** | 3.208% (2009 est.) |
+| **Congo, Republic of the** | 2.754% (2009 est.) |
+| **Cook Islands** | -3.302% (2009 est.) |
+| **Costa Rica** | 1.356% (2009 est.) |
+| **Cote d'Ivoire** | 2.133% (2009 est.) |
+| **Croatia** | -0.052% (2009 est.) |
+| **Cuba** | 0.233% (2009 est.) |
+| **Cyprus** | 0.519% (2009 est.) |
+| **Czech Republic** | -0.094% (2009 est.) |
+| **Denmark** | 0.28% (2009 est.) |
+| **Djibouti** | 1.903% (2009 est.) |
+| **Dominica** | 0.208% (2009 est.) |
+| **Dominican Republic** | 1.489% (2009 est.) |
+| **Ecuador** | 1.497% (2009 est.) |
+| **Egypt** | 1.642% (2009 est.) |
+| **El Salvador** | 1.656% (2009 est.) |
+| **Equatorial Guinea** | 2.703% (2009 est.) |
+| **Eritrea** | 2.577% (2009 est.) |
+| **Estonia** | -0.632% (2009 est.) |
+| **Ethiopia** | 3.208% (2009 est.) |
+| **European Union** | 0.108 % (2009 est.) |
+| **Falkland Islands (Islas Malvinas)** | 0.011% (2009 est.) |
+| **Faroe Islands** | 0.397% (2009 est.) |
+| **Fiji** | 1.379% (2009 est.) |
+| **Finland** | 0.098% (2009 est.) |
+| **France** | 0.549% (2009 est.) |
+| **French Polynesia** | 1.391% (2009 est.) |
+| **Gabon** | 1.934% (2009 est.) |
+| **Gambia, The** | 2.668% (2009 est.) |
+| **Gaza Strip** | 3.349% (2009 est.) |
+| **Georgia** | -0.325% (2009 est.) |
+| **Germany** | -0.053% (2009 est.) |
+| **Ghana** | 1.882% (2009 est.) |
+| **Gibraltar** | 0.111% (2009 est.) |
+| **Greece** | 0.127% (2009 est.) |
+| **Greenland** | 0.062% (2009 est.) |
+| **Grenada** | 0.468% (2009 est.) |
+| **Guam** | 1.365% (2009 est.) |
+| **Guatemala** | 2.066% (2009 est.) |
+| **Guernsey** | 0.21% (2009 est.) |
+| **Guinea** | 2.572% (2009 est.) |
+| **Guinea-Bissau** | 2.019% (2009 est.) |
+| **Guyana** | 0.181% (2009 est.) |
+| **Haiti** | 1.838% (2009 est.) |
+| **Holy See (Vatican City)** | 0.003% (2009 est.) |
+| **Honduras** | 1.956% (2009 est.) |
+| **Hong Kong** | 0.504% (2009 est.) |
+| **Hungary** | -0.257% (2009 est.) |
+| **Iceland** | 0.741% (2009 est.) |
+| **India** | 1.548% (2009 est.) |
+| **Indonesia** | 1.136% (2009 est.) |
+| **Iran** | 0.883% (2009 est.) |
+| **Iraq** | 2.507% (2009 est.) |
+| **Ireland** | 1.12% (2009 est.) |
+| **Isle of Man** | 0.524% (2009 est.) |
+| **Israel** | 1.671% (2009 est.) |
+| **Italy** | -0.047% (2009 est.) |
+| **Jamaica** | 0.755% (2009 est.) |
+| **Japan** | -0.191% (2009 est.) |
+| **Jersey** | 0.211% (2009 est.) |
+| **Jordan** | 2.264% (2009 est.) |
+| **Kazakhstan** | 0.392% (2009 est.) |
+| **Kenya** | 2.691% (2009 est.) |
+| **Kiribati** | 2.235% (2009 est.) |
+| **Korea, North** | 0.42% (2009 est.) |
+| **Korea, South** | 0.266% (2009 est.) |
+| **Kuwait** | 3.547% |
+| | *note:* this rate reflects a return to pre-Gulf crisis immigration of expatriates (2009 est.) |
+| **Kyrgyzstan** | 1.396% (2009 est.) |
+| **Laos** | 2.316% (2009 est.) |
+| **Latvia** | -0.614% (2009 est.) |
+| **Lebanon** | 1.107% (2009 est.) |
+| **Lesotho** | 0.116% (2009 est.) |
+| **Liberia** | 2.665% (2009 est.) |
+| **Libya** | 2.17% (2009 est.) |
+| **Liechtenstein** | 0.702% (2009 est.) |
+| **Lithuania** | -0.279% (2009 est.) |
+| **Luxembourg** | 1.172% (2009 est.) |
+| **Macau** | 1.995% (2009 est.) |
+| **Macedonia** | 0.262% (2009 est.) |
+| **Madagascar** | 3% (2009 est.) |
+| **Malawi** | 2.388% (2009 est.) |
+| **Malaysia** | 1.723% (2009 est.) |
+| **Maldives** | -0.168% (2009 est.) |
+| **Mali** | 2.765% (2009 est.) |
+| **Malta** | 0.4% (2009 est.) |
+| **Marshall Islands** | 2.08% (2009 est.) |
+| **Mauritania** | 2.399% (2009 est.) |
+| **Mauritius** | 0.776% (2009 est.) |
+| **Mayotte** | 3.317% (2009 est.) |
+| **Mexico** | 1.13% (2009 est.) |
+| **Micronesia, Federated States of** | -0.238% (2009 est.) |
+| **Moldova** | -0.079% (2009 est.) |
+| **Monaco** | 0.394% (2009 est.) |
+| **Mongolia** | 1.493% (2009 est.) |
+| **Montenegro** | -0.851% (2009 est.) |
+| **Montserrat** | 0.392% (2009 est.) |
+| **Morocco** | 1.479% (2009 est.) |
+| **Mozambique** | 1.791% (2009 est.) |
+| **Namibia** | 0.95% (2009 est.) |
+| **Nauru** | 1.748% (2009 est.) |
+| **Nepal** | 1.281% (2009 est.) |
+| **Netherlands** | 0.412% (2009 est.) |
+| **Netherlands Antilles** | 0.732% (2009 est.) |
+| **New Caledonia** | 1.136% (2009 est.) |
+| **New Zealand** | 0.935% (2009 est.) |
+| **Nicaragua** | 1.784% (2009 est.) |
+| **Niger** | 3.677% (2009 est.) |
+| **Nigeria** | 1.999% (2009 est.) |
+| **Niue** | -0.032% (2009 est.) |
+| **Norfolk Island** | 0.006% (2009 est.) |
+| **Northern Mariana Islands** | 2.292% (2009 est.) |
+| **Norway** | 0.341% (2009 est.) |
+| **Oman** | 3.138% (2009 est.) |
+| **Pakistan** | 1.947% (2009 est.) |
+| **Palau** | 0.428% (2009 est.) |
+| **Panama** | 1.503% (2009 est.) |
+| **Papua New Guinea** | 2.069% (2009 est.) |
+| **Paraguay** | 2.364% (2009 est.) |
+| **Peru** | 1.229% (2009 est.) |
+| **Philippines** | 1.957% (2009 est.) |
+| **Pitcairn Islands** | 0% (2009 est.) |
+| **Poland** | -0.047% (2009 est.) |
+| **Portugal** | 0.275% (2009 est.) |
+| **Puerto Rico** | 0.34% (2009 est.) |
+| **Qatar** | 0.957% (2009 est.) |
+| **Romania** | -0.147% (2009 est.) |
+| **Russia** | -0.467% (2009 est.) |
+| **Rwanda** | 2.782% (2009 est.) |
+| **Saint Helena** | 0.445% (2009 est.) |
+| **Saint Kitts and Nevis** | 0.847% (2009 est.) |
+| **Saint Lucia** | 0.416% (2009 est.) |
+| **Saint Pierre and Miquelon** | 0.085% (2009 est.) |
+| **Saint Vincent and the Grenadines** | -0.344% (2009 est.) |
+| **Samoa** | 1.346% (2009 est.) |
+| **San Marino** | 1.148% (2009 est.) |
+| **Sao Tome and Principe** | 3.093% (2009 est.) |
+| **Saudi Arabia** | 1.848% (2009 est.) |
+| **Senegal** | 2.709% (2009 est.) |
+| **Serbia** | -0.468% (2009 est.) |
+| **Seychelles** | 0.999% (2009 est.) |
+| **Sierra Leone** | 2.282% (2009 est.) |
+| **Singapore** | 0.998% (2009 est.) |
+| **Slovakia** | 0.137% (2009 est.) |
+| **Slovenia** | -0.113% (2009 est.) |
+| **Solomon Islands** | 2.392% (2009 est.) |
+| **Somalia** | 2.815% (2009 est.) |
+| **South Africa** | 0.281% (2009 est.) |
+| **Spain** | 0.072% (2009 est.) |
+| **Sri Lanka** | 0.904% (2009 est.) |
+| **Sudan** | 2.143% (2009 est.) |
+| **Suriname** | 1.103% (2009 est.) |
+| **Svalbard** | -0.023% (2009 est.) |
+| **Swaziland** | -0.459% (2009 est.) |
+| **Sweden** | 0.158% (2009 est.) |
+| **Switzerland** | 0.276% (2009 est.) |
+| **Syria** | 2.129% (2009 est.) |
+| **Taiwan** | 0.227% (2009 est.) |
+| **Tajikistan** | 1.878% (2009 est.) |
+| **Tanzania** | 2.04% (2009 est.) |
+| **Thailand** | 0.615% (2009 est.) |
+| **Timor-Leste** | 2.027% (2009 est.) |
+| **Togo** | 2.711% (2009 est.) |
+| **Tokelau** | -0.011% (2009 est.) |
+| **Tonga** | 1.482% (2009 est.) |
+| **Trinidad and Tobago** | -0.102% (2009 est.) |
+| **Tunisia** | 0.98% (2009 est.) |
+| **Turkey** | 1.312% (2009 est.) |
+| **Turkmenistan** | 1.141% (2009 est.) |
+| **Turks and Caicos Islands** | 2.563% (2009 est.) |
+| **Tuvalu** | 1.616% (2009 est.) |
+| **Uganda** | 2.692% (2009 est.) |
+| **Ukraine** | -0.632% (2009 est.) |
+| **United Arab Emirates** | 3.689% (2009 est.) |
+| **United Kingdom** | 0.279% (2009 est.) |
+| **United States** | 0.975% (2009 est.) |
+| **Uruguay** | 0.466% (2009 est.) |
+| **Uzbekistan** | 0.935% (2009 est.) |
+| **Vanuatu** | 1.398% (2009 est.) |
+| **Venezuela** | 1.508% (2009 est.) |
+| **Vietnam** | 0.977% (2009 est.) |
+| **Virgin Islands** | -0.029% (2009 est.) |
+| **Wallis and Futuna** | 0.347% (2009 est.) |
+| **West Bank** | 2.178% (2009 est.) |
+| **Western Sahara** | 2.829% NA (2009 est.) |
+| **World** | 1.167% (2009 est.) |
+| **Yemen** | 3.453% (2009 est.) |
+| **Zambia** | 1.631% (2009 est.) |
+| **Zimbabwe** | 1.53% (2009 est.) |

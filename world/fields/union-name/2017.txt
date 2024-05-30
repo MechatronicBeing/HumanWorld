@@ -1,0 +1,7 @@
+FIELD LISTING :: UNION NAME
+
+| Country | UNION NAME |
+| --- | --- |
+| **European Union** | *conventional long form:* European Union |
+| | *abbreviation:* EU |
+

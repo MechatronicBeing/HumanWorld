@@ -1,0 +1,857 @@
+FIELD LISTING :: GDP - PER CAPITA (PPP)
+
+This entry shows GDP on a purchasing power parity basis divided by population as of 1 July for the same year.
+
+| Country | GDP - PER CAPITA (PPP) |
+| --- | --- |
+| **Afghanistan** | $1,900 (2015 est.) |
+| | $2,000 (2014 est.) |
+| | $2,000 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Albania** | $11,900 (2015 est.) |
+| | $11,400 (2014 est.) |
+| | $11,000 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Algeria** | $14,500 (2015 est.) |
+| | $14,300 (2014 est.) |
+| | $14,000 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **American Samoa** | $13,000 (2013 est.) |
+| | $13,100 (2012 est.) |
+| | $11,700 (2011 est.) |
+| **Andorra** | $37,200 (2011 est.) |
+| | $37,700 (2010 est.) |
+| | $37,900 (2009 est.) |
+| **Angola** | $7,300 (2015 est.) |
+| | $7,300 (2014 est.) |
+| | $7,200 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Anguilla** | $12,200 (2008 est.) |
+| **Antigua and Barbuda** | $23,600 (2015 est.) |
+| | $23,300 (2014 est.) |
+| | $22,600 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Argentina** | $22,600 (2015 est.) |
+| | $22,500 (2014 est.) |
+| | $22,700 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Armenia** | $8,500 (2015 est.) |
+| | $8,200 (2014 est.) |
+| | $8,000 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Aruba** | $25,300 (2011 est.) |
+| **Australia** | $65,400 (2015 est.) |
+| | $64,700 (2014 est.) |
+| | $65,400 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Austria** | $47,300 (2015 est.) |
+| | $47,100 (2014 est.) |
+| | $47,300 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Azerbaijan** | $18,000 (2015 est.) |
+| | $17,900 (2014 est.) |
+| | $17,600 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Bahamas, The** | $25,200 (2015 est.) |
+| | $25,300 (2014 est.) |
+| | $25,400 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Bahrain** | $50,100 (2015 est.) |
+| | $49,500 (2014 est.) |
+| | $48,400 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Bangladesh** | $3,600 (2015 est.) |
+| | $3,400 (2014 est.) |
+| | $3,300 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Barbados** | $16,600 (2015 est.) |
+| | $16,500 (2014 est.) |
+| | $16,600 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Belarus** | $17,700 (2015 est.) |
+| | $18,400 (2014 est.) |
+| | $18,100 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Belgium** | $43,600 (2015 est.) |
+| | $43,500 (2014 est.) |
+| | $43,100 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Belize** | $8,400 (2015 est.) |
+| | $8,400 (2014 est.) |
+| | $8,300 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Benin** | $2,100 (2015 est.) |
+| | $2,100 (2014 est.) |
+| | $2,000 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Bermuda** | $85,700 (2013 est.) |
+| | $85,400 (2012 est.) |
+| | $86,000 (2011 est.) |
+| **Bhutan** | $8,200 (2015 est.) |
+| | $7,700 (2014 est.) |
+| | $7,400 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Bolivia** | $6,500 (2015 est.) |
+| | $6,300 (2014 est.) |
+| | $6,100 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Bosnia and Herzegovina** | $10,500 (2015 est.) |
+| | $10,200 (2014 est.) |
+| | $10,100 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Botswana** | $16,400 (2015 est.) |
+| | $16,600 (2014 est.) |
+| | $16,300 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Brazil** | $15,600 (2015 est.) |
+| | $16,400 (2014 est.) |
+| | $16,500 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **British Virgin Islands** | $42,300 (2010 est.) |
+| **Brunei** | $79,700 (2015 est.) |
+| | $80,800 (2014 est.) |
+| | $84,000 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Bulgaria** | $19,100 (2015 est.) |
+| | $18,500 (2014 est.) |
+| | $18,100 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Burkina Faso** | $1,700 (2015 est.) |
+| | $1,700 (2014 est.) |
+| | $1,700 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Burma** | $5,500 (2015 est.) |
+| | $5,200 (2014 est.) |
+| | $4,800 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Burundi** | $800 (2015 est.) |
+| | $900 (2014 est.) |
+| | $900 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Cabo Verde** | $6,500 (2015 est.) |
+| | $6,500 (2014 est.) |
+| | $6,400 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Cambodia** | $3,500 (2015 est.) |
+| | $3,300 (2014 est.) |
+| | $3,100 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Cameroon** | $3,100 (2015 est.) |
+| | $3,000 (2014 est.) |
+| | $2,900 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Canada** | $45,600 (2015 est.) |
+| | $45,400 (2014 est.) |
+| | $44,800 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Cayman Islands** | $43,800 (2004 est.) |
+| **Central African Republic** | $600 (2015 est.) |
+| | $600 (2014 est.) |
+| | $600 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Chad** | $2,600 (2015 est.) |
+| | $2,700 (2014 est.) |
+| | $2,500 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Chile** | $23,500 (2015 est.) |
+| | $23,200 (2014 est.) |
+| | $23,000 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **China** | $14,100 (2015 est.) |
+| | $13,300 (2014 est.) |
+| | $12,400 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Colombia** | $13,800 (2015 est.) |
+| | $13,600 (2014 est.) |
+| | $13,200 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Comoros** | $1,500 (2015 est.) |
+| | $1,500 (2014 est.) |
+| | $1,600 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Congo, Democratic Republic of the** | $800 (2015 est.) |
+| | $700 (2014 est.) |
+| | $700 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Congo, Republic of the** | $6,700 (2015 est.) |
+| | $6,700 (2014 est.) |
+| | $6,400 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Cook Islands** | $12,300 (2010 est.) |
+| | $9,100 (2005 est.) |
+| **Costa Rica** | $15,500 (2015 est.) |
+| | $15,100 (2014 est.) |
+| | $14,900 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Cote d'Ivoire** | $3,300 (2015 est.) |
+| | $3,100 (2014 est.) |
+| | $3,000 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Croatia** | $21,600 (2015 est.) |
+| | $21,100 (2014 est.) |
+| | $21,100 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Cuba** | $10,200 (2010 est.) |
+| | $10,000 (2009 est.) |
+| | $10,000 (2008 est.) |
+| | *note:* data are in 2010 US dollars |
+| **Curacao** | $15,000 (2004 est.) |
+| **Cyprus** | $32,800 (2015 est.) |
+| | $32,600 (2014 est.) |
+| | $33,000 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Czechia** | $31,600 (2015 est.) |
+| | $30,300 (2014 est.) |
+| | $29,700 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Denmark** | $45,700 (2015 est.) |
+| | $45,400 (2014 est.) |
+| | $45,100 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Djibouti** | $3,200 (2015 est.) |
+| | $3,100 (2014 est.) |
+| | $3,000 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Dominica** | $10,700 (2015 est.) |
+| | $11,200 (2014 est.) |
+| | $10,800 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Dominican Republic** | $15,000 (2015 est.) |
+| | $14,200 (2014 est.) |
+| | $13,300 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Ecuador** | $11,300 (2015 est.) |
+| | $11,400 (2014 est.) |
+| | $11,200 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Egypt** | $11,800 (2015 est.) |
+| | $11,600 (2014 est.) |
+| | $11,600 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **El Salvador** | $8,300 (2015 est.) |
+| | $8,100 (2014 est.) |
+| | $8,000 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Equatorial Guinea** | $31,800 (2015 est.) |
+| | $37,200 (2014 est.) |
+| | $38,300 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Eritrea** | $1,300 (2015 est.) |
+| | $1,300 (2014 est.) |
+| | $1,300 (2013 est.) |
+| | *note:* data are in 2015 US dollars; estimates for the size of the Eritrean population vary widely from 3 to 6 million |
+| **Estonia** | $28,600 (2015 est.) |
+| | $28,200 (2014 est.) |
+| | $27,400 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Ethiopia** | $1,800 (2015 est.) |
+| | $1,700 (2014 est.) |
+| | $1,500 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **European Union** | $37,800 (2015 est.) |
+| | $36,900 (2014 est.) |
+| | $35,900 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Falkland Islands (Islas Malvinas)** | $55,400 (2002 est.) |
+| **Faroe Islands** | $36,600 (2014 est.) |
+| **Fiji** | $9,000 (2015 est.) |
+| | $8,700 (2014 est.) |
+| | $8,300 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Finland** | $41,100 (2015 est.) |
+| | $41,100 (2014 est.) |
+| | $41,600 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **France** | $41,200 (2015 est.) |
+| | $40,900 (2014 est.) |
+| | $41,000 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **French Polynesia** | $26,100 (2012 est.) |
+| | $26,000 (2010 est.) |
+| **Gabon** | $18,600 (2015 est.) |
+| | $18,200 (2014 est.) |
+| | $17,700 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Gambia, The** | $1,600 (2015 est.) |
+| | $1,600 (2014 est.) |
+| | $1,700 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Gaza Strip** | see entry for the the West Bank |
+| **Georgia** | $9,600 (2015 est.) |
+| | $9,300 (2014 est.) |
+| | $8,800 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Germany** | $46,900 (2015 est.) |
+| | $46,600 (2014 est.) |
+| | $46,100 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Ghana** | $4,300 (2015 est.) |
+| | $4,200 (2014 est.) |
+| | $4,200 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Gibraltar** | $43,000 (2008 est.) |
+| | $41,200 (2007 est.) |
+| | $38,400 (2006 est.) |
+| **Greece** | $26,400 (2015 est.) |
+| | $26,200 (2014 est.) |
+| | $25,900 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Greenland** | $37,900 (2008 est.) |
+| | $38,100 (2007 est.) |
+| **Grenada** | $13,100 (2015 est.) |
+| | $12,600 (2014 est.) |
+| | $12,000 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Guam** | $30,500 (2013 est.) |
+| | $29,800 (2012 est.) |
+| | $28,600 (2011 est.) |
+| **Guatemala** | $7,700 (2015 est.) |
+| | $7,600 (2014 est.) |
+| | $7,500 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Guernsey** | $52,300 (2014 est.) |
+| **Guinea-Bissau** | $1,500 (2015 est.) |
+| | $1,500 (2014 est.) |
+| | $1,500 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Guinea** | $1,200 (2015 est.) |
+| | $1,200 (2014 est.) |
+| | $1,300 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Guyana** | $7,500 (2015 est.) |
+| | $7,300 (2014 est.) |
+| | $7,100 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Haiti** | $1,800 (2015 est.) |
+| | $1,800 (2014 est.) |
+| | $1,700 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Honduras** | $4,900 (2015 est.) |
+| | $4,800 (2014 est.) |
+| | $4,700 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Hong Kong** | $56,700 (2015 est.) |
+| | $55,700 (2014 est.) |
+| | $54,600 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Hungary** | $26,200 (2015 est.) |
+| | $25,400 (2014 est.) |
+| | $24,400 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Iceland** | $46,100 (2015 est.) |
+| | $44,700 (2014 est.) |
+| | $44,400 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **India** | $6,200 (2015 est.) |
+| | $5,800 (2014 est.) |
+| | $5,500 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Indonesia** | $11,100 (2015 est.) |
+| | $10,800 (2014 est.) |
+| | $10,400 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Iran** | $17,300 (2015 est.) |
+| | $17,500 (2014 est.) |
+| | $17,000 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Iraq** | $15,500 (2015 est.) |
+| | $15,500 (2014 est.) |
+| | $16,200 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Ireland** | $55,500 (2015 est.) |
+| | $51,800 (2014 est.) |
+| | $49,400 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Isle of Man** | $83,100 (2007 est.) |
+| | $35,000 (2005 est.) |
+| **Israel** | $33,700 (2015 est.) |
+| | $33,500 (2014 est.) |
+| | $33,300 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Italy** | $35,700 (2015 est.) |
+| | $35,400 (2014 est.) |
+| | $36,200 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Jamaica** | $8,800 (2015 est.) |
+| | $8,700 (2014 est.) |
+| | $8,700 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Japan** | $38,100 (2015 est.) |
+| | $37,800 (2014 est.) |
+| | $37,800 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Jersey** | $57,000 (2005 est.) |
+| **Jordan** | $12,100 (2015 est.) |
+| | $12,100 (2014 est.) |
+| | $12,000 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Kazakhstan** | $24,300 (2015 est.) |
+| | $24,300 (2014 est.) |
+| | $23,700 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Kenya** | $3,200 (2015 est.) |
+| | $3,100 (2014 est.) |
+| | $3,100 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Kiribati** | $1,800 (2015 est.) |
+| | $1,700 (2014 est.) |
+| | $1,700 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Korea, North** | $1,800 (2014 est.) |
+| | $1,800 (2013 est.) |
+| | $1,800 (2012 est.) |
+| | *note:* data are in 2014 US dollars |
+| **Korea, South** | $36,500 (2015 est.) |
+| | $35,700 (2014 est.) |
+| | $34,700 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Kosovo** | NA (2015 est.) |
+| | NA (2014 est.) |
+| | NA (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Kuwait** | $70,200 (2015 est.) |
+| | $71,500 (2014 est.) |
+| | $73,500 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Kyrgyzstan** | $3,400 (2015 est.) |
+| | $3,300 (2014 est.) |
+| | $3,200 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Laos** | $5,300 (2015 est.) |
+| | $5,100 (2014 est.) |
+| | $4,800 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Latvia** | $24,700 (2015 est.) |
+| | $23,900 (2014 est.) |
+| | $23,100 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Lebanon** | $18,200 (2015 est.) |
+| | $18,200 (2014 est.) |
+| | $18,000 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Lesotho** | $3,000 (2015 est.) |
+| | $2,900 (2014 est.) |
+| | $2,800 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Liberia** | $900 (2015 est.) |
+| | $900 (2014 est.) |
+| | $900 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Libya** | $14,600 (2015 est.) |
+| | $15,800 (2014 est.) |
+| | $20,800 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Liechtenstein** | $89,400 (2009 est.) |
+| | $90,600 (2008 est.) |
+| | $89,700 (2007 est.) |
+| **Lithuania** | $28,400 (2015 est.) |
+| | $27,600 (2014 est.) |
+| | $26,600 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Luxembourg** | $99,000 (2015 est.) |
+| | $96,900 (2014 est.) |
+| | $95,400 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Macau** | $98,200 (2015 est.) |
+| | $129,100 (2014 est.) |
+| | $136,200 (2013 est.) |
+| **Macedonia** | $14,000 (2015 est.) |
+| | $13,500 (2014 est.) |
+| | $13,100 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Madagascar** | $1,500 (2015 est.) |
+| | $1,500 (2014 est.) |
+| | $1,500 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Malawi** | $1,100 (2015 est.) |
+| | $1,100 (2014 est.) |
+| | $1,100 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Malaysia** | $26,300 (2015 est.) |
+| | $25,400 (2014 est.) |
+| | $24,500 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Maldives** | $14,900 (2015 est.) |
+| | $14,900 (2014 est.) |
+| | $14,200 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Mali** | $2,200 (2015 est.) |
+| | $2,100 (2014 est.) |
+| | $2,100 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Malta** | $35,900 (2015 est.) |
+| | $34,300 (2014 est.) |
+| | $33,300 (2013 est.) |
+| | *note:* data are in 2012 US dollars |
+| **Marshall Islands** | $3,200 (2015 est.) |
+| | $3,200 (2014 est.) |
+| | $3,200 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Mauritania** | $4,400 (2015 est.) |
+| | $4,400 (2014 est.) |
+| | $4,200 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Mauritius** | $19,500 (2015 est.) |
+| | $18,900 (2014 est.) |
+| | $18,200 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Mexico** | $17,500 (2015 est.) |
+| | $17,300 (2014 est.) |
+| | $17,200 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Micronesia, Federated States of** | $3,000 (2015 est.) |
+| | $2,900 (2014 est.) |
+| | $3,100 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Moldova** | $5,000 (2015 est.) |
+| | $5,100 (2014 est.) |
+| | $4,800 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Monaco** | $78,700 (2013 est.) |
+| | $73,200 (2012 est.) |
+| | $72,600 (2011 est.) |
+| **Mongolia** | $12,100 (2015 est.) |
+| | $12,100 (2014 est.) |
+| | $11,300 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Montenegro** | $16,100 (2015 est.) |
+| | $15,500 (2014 est.) |
+| | $15,300 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Montserrat** | $8,500 (2006 est.) |
+| **Morocco** | $8,200 (2015 est.) |
+| | $7,900 (2014 est.) |
+| | $7,800 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Mozambique** | $1,200 (2015 est.) |
+| | $1,100 (2014 est.) |
+| | $1,100 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Namibia** | $11,400 (2015 est.) |
+| | $11,000 (2014 est.) |
+| | $10,500 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Nauru** | $14,800 (2015 est.) |
+| | $13,700 (2014 est.) |
+| | $12,500 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Nepal** | $2,500 (2015 est.) |
+| | $2,400 (2014 est.) |
+| | $2,300 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Netherlands** | $49,200 (2015 est.) |
+| | $48,400 (2014 est.) |
+| | $48,100 (2013 est.) |
+| | *note:* data are in 2012 US dollars |
+| **New Caledonia** | $38,800 (2012 est.) |
+| | $36,500 (2010 est.) |
+| | $27,300 (2005) |
+| **New Zealand** | $36,200 (2015 est.) |
+| | $35,700 (2014 est.) |
+| | $35,300 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Nicaragua** | $5,000 (2015 est.) |
+| | $4,800 (2014 est.) |
+| | $4,700 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Nigeria** | $6,100 (2015 est.) |
+| | $6,100 (2014 est.) |
+| | $5,900 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Niger** | $1,100 (2015 est.) |
+| | $1,100 (2014 est.) |
+| | $1,000 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Niue** | $5,800 (2003 est.) |
+| **Northern Mariana Islands** | $13,300 (2013 est.) |
+| | $12,900 (2012) |
+| | $12,400 (2011) |
+| **Norway** | $68,400 (2015 est.) |
+| | $68,000 (2014 est.) |
+| | $67,300 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Oman** | $44,600 (2015 est.) |
+| | $44,300 (2014 est.) |
+| | $44,500 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Pakistan** | $5,000 (2015 est.) |
+| | $4,900 (2014 est.) |
+| | $4,800 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Palau** | $15,100 (2015 est.) |
+| | $13,800 (2014 est.) |
+| | $13,300 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Panama** | $21,800 (2015 est.) |
+| | $21,000 (2014 est.) |
+| | $20,200 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Papua New Guinea** | $2,700 (2015 est.) |
+| | $2,500 (2014 est.) |
+| | $2,400 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Paraguay** | $8,700 (2015 est.) |
+| | $8,600 (2014 est.) |
+| | $8,300 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Peru** | $12,200 (2015 est.) |
+| | $12,000 (2014 est.) |
+| | $11,900 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Philippines** | $7,300 (2015 est.) |
+| | $7,000 (2014 est.) |
+| | $6,700 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Poland** | $26,500 (2015 est.) |
+| | $25,500 (2014 est.) |
+| | $24,700 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Portugal** | $27,800 (2015 est.) |
+| | $27,500 (2014 est.) |
+| | $27,100 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Puerto Rico** | $38,000 (2015 est.) |
+| | $37,800 (2014 est.) |
+| | $37,200 (2013 est.) |
+| | *note:* data are in 2010 US dollars |
+| **Qatar** | $132,100 (2015 est.) |
+| | $138,600 (2014 est.) |
+| | $145,600 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Romania** | $20,800 (2015 est.) |
+| | $20,000 (2014 est.) |
+| | $19,400 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Russia** | $25,400 (2015 est.) |
+| | $26,400 (2014 est.) |
+| | $26,700 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Rwanda** | $1,800 (2015 est.) |
+| | $1,700 (2014 est.) |
+| | $1,700 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Saint Helena, Ascension, and Tristan da Cunha** | $7,800 (FY09/10 est.) |
+| **Saint Kitts and Nevis** | $24,600 (2015 est.) |
+| | $23,500 (2014 est.) |
+| | $22,600 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Saint Lucia** | $11,700 (2015 est.) |
+| | $11,600 (2014 est.) |
+| | $11,600 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Saint Martin** | $19,300 (2005 est.) |
+| **Saint Pierre and Miquelon** | $34,900 (2006 est.) |
+| **Saint Vincent and the Grenadines** | $11,000 (2015 est.) |
+| | $10,800 (2014 est.) |
+| | $10,800 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Samoa** | $5,200 (2015 est.) |
+| | $5,100 (2014 est.) |
+| | $5,100 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **San Marino** | $63,900 (2015 est.) |
+| | $63,300 (2014 est.) |
+| | $63,900 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Sao Tome and Principe** | $3,200 (2015 est.) |
+| | $3,200 (2014 est.) |
+| | $3,100 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Saudi Arabia** | $53,600 (2015 est.) |
+| | $52,900 (2014 est.) |
+| | $52,400 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Senegal** | $2,500 (2015 est.) |
+| | $2,400 (2014 est.) |
+| | $2,300 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Serbia** | $13,700 (2015 est.) |
+| | $13,600 (2014 est.) |
+| | $13,800 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Seychelles** | $26,300 (2015 est.) |
+| | $25,400 (2014 est.) |
+| | $24,200 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Sierra Leone** | $1,600 (2015 est.) |
+| | $2,000 (2014 est.) |
+| | $2,000 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Singapore** | $85,300 (2015 est.) |
+| | $84,600 (2014 est.) |
+| | $83,000 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Sint Maarten** | $66,800 (2014 est.) |
+| | $65,500 (2013 est.) |
+| | $63,900 (2012 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Slovakia** | $29,700 (2015 est.) |
+| | $28,700 (2014 est.) |
+| | $28,000 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Slovenia** | $31,000 (2015 est.) |
+| | $30,200 (2014 est.) |
+| | $29,300 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Solomon Islands** | $1,900 (2015 est.) |
+| | $1,900 (2014 est.) |
+| | $1,900 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Somalia** | $400 (2014 est.) |
+| | $400 (2013 est.) |
+| | $600 (2008 est.) |
+| **South Africa** | $13,200 (2015 est.) |
+| | $13,200 (2014 est.) |
+| | $13,200 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **South Sudan** | $2,000 (2015 est.) |
+| | $2,100 (2014 est.) |
+| | $2,100 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Spain** | $34,800 (2015 est.) |
+| | $33,700 (2014 est.) |
+| | $33,100 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Sri Lanka** | $10,600 (2015 est.) |
+| | $10,100 (2014 est.) |
+| | $9,700 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Sudan** | $4,300 (2015 est.) |
+| | $4,300 (2014 est.) |
+| | $4,300 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Suriname** | $16,300 (2015 est.) |
+| | $16,200 (2014 est.) |
+| | $16,200 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Swaziland** | $8,500 (2015 est.) |
+| | $8,400 (2014 est.) |
+| | $8,300 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Sweden** | $47,900 (2015 est.) |
+| | $46,700 (2014 est.) |
+| | $46,100 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Switzerland** | $58,600 (2015 est.) |
+| | $58,800 (2014 est.) |
+| | $58,400 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Syria** | $5,100 (2011 est.) |
+| | $5,100 (2010 est.) |
+| | $5,200 (2010 est.) |
+| | *note:* data are in 2011 US dollars |
+| **Taiwan** | $46,800 (2015 est.) |
+| | $46,600 (2014 est.) |
+| | $44,900 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Tajikistan** | $2,700 (2015 est.) |
+| | $2,700 (2014 est.) |
+| | $2,600 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Tanzania** | $2,900 (2015 est.) |
+| | $2,800 (2014 est.) |
+| | $2,600 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Thailand** | $16,100 (2015 est.) |
+| | $15,700 (2014 est.) |
+| | $15,700 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Timor-Leste** | $5,600 (2015 est.) |
+| | $5,500 (2014 est.) |
+| | $5,300 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Togo** | $1,500 (2015 est.) |
+| | $1,400 (2014 est.) |
+| | $1,400 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Tokelau** | $1,000 (1993 est.) |
+| **Tonga** | $5,100 (2015 est.) |
+| | $4,900 (2014 est.) |
+| | $4,800 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Trinidad and Tobago** | $30,900 (2015 est.) |
+| | $31,500 (2014 est.) |
+| | $31,400 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Tunisia** | $11,400 (2015 est.) |
+| | $11,500 (2014 est.) |
+| | $11,300 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Turkey** | $20,400 (2015 est.) |
+| | $19,900 (2014 est.) |
+| | $19,500 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Turkmenistan** | $16,400 (2015 est.) |
+| | $15,700 (2014 est.) |
+| | $14,400 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Turks and Caicos Islands** | $29,100 (2007 est.) |
+| **Tuvalu** | $3,400 (2015 est.) |
+| | $3,300 (2014 est.) |
+| | $3,200 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Uganda** | $2,000 (2015 est.) |
+| | $2,000 (2014 est.) |
+| | $1,900 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Ukraine** | $7,500 (2015 est.) |
+| | $8,300 (2014 est.) |
+| | $9,400 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **United Arab Emirates** | $67,600 (2015 est.) |
+| | $67,000 (2014 est.) |
+| | $66,000 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **United Kingdom** | $41,200 (2015 est.) |
+| | $40,600 (2014 est.) |
+| | $39,800 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **United States** | $55,800 (2015 est.) |
+| | $54,900 (2014 est.) |
+| | $54,000 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Uruguay** | $21,500 (2015 est.) |
+| | $21,300 (2014 est.) |
+| | $20,600 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Uzbekistan** | $6,100 (2015 est.) |
+| | $5,700 (2014 est.) |
+| | $5,300 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Vanuatu** | $2,500 (2015 est.) |
+| | $2,600 (2014 est.) |
+| | $2,600 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Venezuela** | $16,700 (2015 est.) |
+| | $18,000 (2014 est.) |
+| | $19,000 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Vietnam** | $6,000 (2015 est.) |
+| | $5,700 (2014 est.) |
+| | $5,400 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Virgin Islands** | $36,100 (2013 est.) |
+| | $39,300 (2012 est.) |
+| | $40,500 (2011 est.) |
+| **Wallis and Futuna** | $3,800 (2004 est.) |
+| **West Bank** | $4,300 (2014 est.) |
+| | $4,400 (2013 est.) |
+| | $4,600 (2012 est.) |
+| | *note:* includes Gaza Strip |
+| **Western Sahara** | $2,500 (2007 est.) |
+| **World** | $15,700 (2015 est.) |
+| | $16,800 (2014 est.) |
+| | $16,500 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Yemen** | $2,700 (2015 est.) |
+| | $3,800 (2014 est.) |
+| | $3,900 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Zambia** | $3,900 (2015 est.) |
+| | $3,800 (2014 est.) |
+| | $3,800 (2013 est.) |
+| | *note:* data are in 2015 US dollars |
+| **Zimbabwe** | $2,100 (2015 est.) |
+| | $2,100 (2014 est.) |
+| | $2,000 (2013 est.) |
+| | *note:* data are in 2015 US dollars |

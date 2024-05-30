@@ -1,0 +1,243 @@
+CIA - The World Factbook -- Field Listing - Birth rate
+
+| Country | Birth rate (births/1,000 population) |
+| --- | --- |
+| **Afghanistan** | 40.63 births/1,000 population (2003 est.) |
+| **Albania** | 18.2 births/1,000 population (2003 est.) |
+| **Algeria** | 21.94 births/1,000 population (2003 est.) |
+| **American Samoa** | 23.26 births/1,000 population (2003 est.) |
+| **Andorra** | 9.65 births/1,000 population (2003 est.) |
+| **Angola** | 45.57 births/1,000 population (2003 est.) |
+| **Anguilla** | 14.68 births/1,000 population (2003 est.) |
+| **Antigua and Barbuda** | 18.23 births/1,000 population (2003 est.) |
+| **Argentina** | 17.47 births/1,000 population (2003 est.) |
+| **Armenia** | 12.57 births/1,000 population (2003 est.) |
+| **Aruba** | 11.86 births/1,000 population (2003 est.) |
+| **Australia** | 12.55 births/1,000 population (2003 est.) |
+| **Austria** | 9.43 births/1,000 population (2003 est.) |
+| **Azerbaijan** | 19.28 births/1,000 population (2003 est.) |
+| **Bahamas, The** | 18.57 births/1,000 population (2003 est.) |
+| **Bahrain** | 19.02 births/1,000 population (2003 est.) |
+| **Bangladesh** | 29.9 births/1,000 population (2003 est.) |
+| **Barbados** | 13.15 births/1,000 population (2003 est.) |
+| **Belarus** | 10.18 births/1,000 population (2003 est.) |
+| **Belgium** | 10.45 births/1,000 population (2003 est.) |
+| **Belize** | 30.46 births/1,000 population (2003 est.) |
+| **Benin** | 43.15 births/1,000 population (2003 est.) |
+| **Bermuda** | 12.13 births/1,000 population (2003 est.) |
+| **Bhutan** | 34.82 births/1,000 population (2003 est.) |
+| **Bolivia** | 25.53 births/1,000 population (2003 est.) |
+| **Bosnia and Herzegovina** | 12.65 births/1,000 population (2003 est.) |
+| **Botswana** | 25.5 births/1,000 population (2003 est.) |
+| **Brazil** | 17.67 births/1,000 population (2003 est.) |
+| **British Virgin Islands** | 15 births/1,000 population (2003 est.) |
+| **Brunei** | 19.68 births/1,000 population (2003 est.) |
+| **Bulgaria** | 8.02 births/1,000 population (2003 est.) |
+| **Burkina Faso** | 44.78 births/1,000 population (2003 est.) |
+| **Burma** | 19.15 births/1,000 population (2003 est.) |
+| **Burundi** | 39.72 births/1,000 population (2003 est.) |
+| **Cambodia** | 27.28 births/1,000 population (2003 est.) |
+| **Cameroon** | 35.49 births/1,000 population (2003 est.) |
+| **Canada** | 10.99 births/1,000 population (2003 est.) |
+| **Cape Verde** | 26.95 births/1,000 population (2003 est.) |
+| **Cayman Islands** | 13.33 births/1,000 population (2003 est.) |
+| **Central African Republic** | 35.93 births/1,000 population (2003 est.) |
+| **Chad** | 47.06 births/1,000 population (2003 est.) |
+| **Chile** | 16.1 births/1,000 population (2003 est.) |
+| **China** | 12.96 births/1,000 population (2003 est.) |
+| **Christmas Island** | NA births/1,000 population (2003 est.) |
+| **Cocos (Keeling) Islands** | NA births/1,000 population (2003 est.) |
+| **Colombia** | 21.59 births/1,000 population (2003 est.) |
+| **Comoros** | 38.5 births/1,000 population (2003 est.) |
+| **Congo, Democratic Republic of the** | 45.12 births/1,000 population (2003 est.) |
+| **Congo, Republic of the** | 29.46 births/1,000 population (2003 est.) |
+| **Cook Islands** | NA births/1,000 population (2003 est.) |
+| **Costa Rica** | 19.4 births/1,000 population (2003 est.) |
+| **Cote d'Ivoire** | 40.01 births/1,000 population (2003 est.) |
+| **Croatia** | 12.76 births/1,000 population (2003 est.) |
+| **Cuba** | 11.87 births/1,000 population (2003 est.) |
+| **Cyprus** | 12.77 births/1,000 population (2003 est.) |
+| **Czech Republic** | 9.01 births/1,000 population (2003 est.) |
+| **Denmark** | 11.52 births/1,000 population (2003 est.) |
+| **Djibouti** | 40.78 births/1,000 population (2003 est.) |
+| **Dominica** | 16.78 births/1,000 population (2003 est.) |
+| **Dominican Republic** | 23.94 births/1,000 population (2003 est.) |
+| **East Timor** | 27.75 births/1,000 population (2003 est.) |
+| **Ecuador** | 24.94 births/1,000 population (2003 est.) |
+| **Egypt** | 24.36 births/1,000 population (2003 est.) |
+| **El Salvador** | 27.9 births/1,000 population (2003 est.) |
+| **Equatorial Guinea** | 36.94 births/1,000 population (2003 est.) |
+| **Eritrea** | 39.44 births/1,000 population (2003 est.) |
+| **Estonia** | 9.24 births/1,000 population (2003 est.) |
+| **Ethiopia** | 39.81 births/1,000 population (2003 est.) |
+| **Falkland Islands (Islas Malvinas)** | NA births/1,000 population |
+| **Faroe Islands** | 13.81 births/1,000 population (2003 est.) |
+| **Fiji** | 23.06 births/1,000 population (2003 est.) |
+| **Finland** | 10.54 births/1,000 population (2003 est.) |
+| **France** | 12.54 births/1,000 population (2003 est.) |
+| **French Guiana** | 21.33 births/1,000 population (2003 est.) |
+| **French Polynesia** | 17.74 births/1,000 population (2003 est.) |
+| **Gabon** | 36.54 births/1,000 population (2003 est.) |
+| **Gambia, The** | 40.77 births/1,000 population (2003 est.) |
+| **Gaza Strip** | 41.23 births/1,000 population (2003 est.) |
+| **Georgia** | 11.79 births/1,000 population (2003 est.) |
+| **Germany** | 8.6 births/1,000 population (2003 est.) |
+| **Ghana** | 25.84 births/1,000 population (2003 est.) |
+| **Gibraltar** | 11.09 births/1,000 population (2003 est.) |
+| **Greece** | 9.79 births/1,000 population (2003 est.) |
+| **Greenland** | 16.09 births/1,000 population (2003 est.) |
+| **Grenada** | 22.87 births/1,000 population (2003 est.) |
+| **Guadeloupe** | 16.16 births/1,000 population (2003 est.) |
+| **Guam** | 23.19 births/1,000 population (2003 est.) |
+| **Guatemala** | 35.05 births/1,000 population (2003 est.) |
+| **Guernsey** | 9.43 births/1,000 population (2003 est.) |
+| **Guinea** | 42.5 births/1,000 population (2003 est.) |
+| **Guinea-Bissau** | 38.41 births/1,000 population (2003 est.) |
+| **Guyana** | 17.87 births/1,000 population (2003 est.) |
+| **Haiti** | 34.06 births/1,000 population (2003 est.) |
+| **Honduras** | 31.67 births/1,000 population (2003 est.) |
+| **Hong Kong** | 10.71 births/1,000 population (2003 est.) |
+| **Hungary** | 9.32 births/1,000 population (2003 est.) |
+| **Iceland** | 14.13 births/1,000 population (2003 est.) |
+| **India** | 23.28 births/1,000 population (2003 est.) |
+| **Indonesia** | 21.49 births/1,000 population (2003 est.) |
+| **Iran** | 17.23 births/1,000 population (2003 est.) |
+| **Iraq** | 33.66 births/1,000 population (2003 est.) |
+| **Ireland** | 14.63 births/1,000 population (2003 est.) |
+| **Israel** | 18.67 births/1,000 population (2003 est.) |
+| **Italy** | 9.18 births/1,000 population (2003 est.) |
+| **Jamaica** | 17.35 births/1,000 population (2003 est.) |
+| **Japan** | 9.61 births/1,000 population (2003 est.) |
+| **Jersey** | 10.44 births/1,000 population (2003 est.) |
+| **Jordan** | 23.68 births/1,000 population (2003 est.) |
+| **Kazakhstan** | 18.36 births/1,000 population (2003 est.) |
+| **Kenya** | 28.81 births/1,000 population (2003 est.) |
+| **Kiribati** | 31.24 births/1,000 population (2003 est.) |
+| **Korea, North** | 17.61 births/1,000 population (2003 est.) |
+| **Korea, South** | 12.6 births/1,000 population (2003 est.) |
+| **Kuwait** | 21.83 births/1,000 population (2003 est.) |
+| **Kyrgyzstan** | 26.06 births/1,000 population (2003 est.) |
+| **Laos** | 36.93 births/1,000 population (2003 est.) |
+| **Latvia** | 8.55 births/1,000 population (2003 est.) |
+| **Lebanon** | 19.68 births/1,000 population (2003 est.) |
+| **Lesotho** | 27.26 births/1,000 population (2003 est.) |
+| **Liberia** | 45.28 births/1,000 population (2003 est.) |
+| **Libya** | 27.43 births/1,000 population (2003 est.) |
+| **Liechtenstein** | 10.92 births/1,000 population (2003 est.) |
+| **Lithuania** | 10.48 births/1,000 population (2003 est.) |
+| **Luxembourg** | 11.92 births/1,000 population (2003 est.) |
+| **Macau** | 12.07 births/1,000 population (2003 est.) |
+| **Macedonia, The Former Yugoslav Republic of** | 13.2 births/1,000 population (2003 est.) |
+| **Madagascar** | 42.16 births/1,000 population (2003 est.) |
+| **Malawi** | 44.7 births/1,000 population (2003 est.) |
+| **Malaysia** | 23.7 births/1,000 population (2003 est.) |
+| **Maldives** | 36.71 births/1,000 population (2003 est.) |
+| **Mali** | 47.79 births/1,000 population (2003 est.) |
+| **Malta** | 12.75 births/1,000 population (2003 est.) |
+| **Man, Isle of** | 11.38 births/1,000 population (2003 est.) |
+| **Marshall Islands** | 34.18 births/1,000 population (2003 est.) |
+| **Martinique** | 14.96 births/1,000 population (2003 est.) |
+| **Mauritania** | 42.16 births/1,000 population (2003 est.) |
+| **Mauritius** | 16.1 births/1,000 population (2003 est.) |
+| **Mayotte** | 42.86 births/1,000 population (2003 est.) |
+| **Mexico** | 21.92 births/1,000 population (2003 est.) |
+| **Micronesia, Federated States of** | 26.47 births/1,000 population (2003 est.) |
+| **Moldova** | 14.31 births/1,000 population (2003 est.) |
+| **Monaco** | 9.46 births/1,000 population (2003 est.) |
+| **Mongolia** | 21.39 births/1,000 population (2003 est.) |
+| **Montserrat** | 17.57 births/1,000 population (2003 est.) |
+| **Morocco** | 23.26 births/1,000 population (2003 est.) |
+| **Mozambique** | 38.2 births/1,000 population (2003 est.) |
+| **Namibia** | 34.1 births/1,000 population (2003 est.) |
+| **Nauru** | 26.09 births/1,000 population (2003 est.) |
+| **Nepal** | 32.46 births/1,000 population (2003 est.) |
+| **Netherlands** | 11.31 births/1,000 population (2003 est.) |
+| **Netherlands Antilles** | 15.76 births/1,000 population (2003 est.) |
+| **New Caledonia** | 19.45 births/1,000 population (2003 est.) |
+| **New Zealand** | 14.14 births/1,000 population (2003 est.) |
+| **Nicaragua** | 26.29 births/1,000 population (2003 est.) |
+| **Niger** | 49.54 births/1,000 population (2003 est.) |
+| **Nigeria** | 38.75 births/1,000 population (2003 est.) |
+| **Niue** | NA births/1,000 population (2003 est.) |
+| **Norfolk Island** | NA births/1,000 population (2003 est.) |
+| **Northern Mariana Islands** | 19.97 births/1,000 population (2003 est.) |
+| **Norway** | 12.17 births/1,000 population (2003 est.) |
+| **Oman** | 37.47 births/1,000 population (2003 est.) |
+| **Pakistan** | 29.59 births/1,000 population (2003 est.) |
+| **Palau** | 19.02 births/1,000 population (2003 est.) |
+| **Panama** | 20.78 births/1,000 population (2003 est.) |
+| **Papua New Guinea** | 31.07 births/1,000 population (2003 est.) |
+| **Paraguay** | 30.14 births/1,000 population (2003 est.) |
+| **Peru** | 22.81 births/1,000 population (2003 est.) |
+| **Philippines** | 26.3 births/1,000 population (2003 est.) |
+| **Pitcairn Islands** | NA births/1,000 population (2003 est.) |
+| **Poland** | 10.47 births/1,000 population (2003 est.) |
+| **Portugal** | 11.45 births/1,000 population (2003 est.) |
+| **Puerto Rico** | 15 births/1,000 population (2003 est.) |
+| **Qatar** | 15.68 births/1,000 population (2003 est.) |
+| **Reunion** | 20.17 births/1,000 population (2003 est.) |
+| **Romania** | 10.79 births/1,000 population (2003 est.) |
+| **Russia** | 10.09 births/1,000 population (2003 est.) |
+| **Rwanda** | 40.1 births/1,000 population (2003 est.) |
+| **Saint Helena** | 12.9 births/1,000 population (2003 est.) |
+| **Saint Kitts and Nevis** | 18.45 births/1,000 population (2003 est.) |
+| **Saint Lucia** | 20.93 births/1,000 population (2003 est.) |
+| **Saint Pierre and Miquelon** | 14.62 births/1,000 population (2003 est.) |
+| **Saint Vincent and the Grenadines** | 17.16 births/1,000 population (2003 est.) |
+| **Samoa** | 15.41 births/1,000 population (2003 est.) |
+| **San Marino** | 10.49 births/1,000 population (2003 est.) |
+| **Sao Tome and Principe** | 41.87 births/1,000 population (2003 est.) |
+| **Saudi Arabia** | 37.2 births/1,000 population (2003 est.) |
+| **Senegal** | 36.23 births/1,000 population (2003 est.) |
+| **Serbia and Montenegro** | 12.74 births/1,000 population (2003 est.) |
+| **Seychelles** | 16.89 births/1,000 population (2003 est.) |
+| **Sierra Leone** | 43.89 births/1,000 population (2003 est.) |
+| **Singapore** | 12.75 births/1,000 population (2003 est.) |
+| **Slovakia** | 10.1 births/1,000 population (2003 est.) |
+| **Slovenia** | 9.23 births/1,000 population (2003 est.) |
+| **Solomon Islands** | 32.45 births/1,000 population (2003 est.) |
+| **Somalia** | 46.42 births/1,000 population (2003 est.) |
+| **South Africa** | 18.87 births/1,000 population (2003 est.) |
+| **Spain** | 10.08 births/1,000 population (2003 est.) |
+| **Sri Lanka** | 16.12 births/1,000 population (2003 est.) |
+| **Sudan** | 36.48 births/1,000 population (2003 est.) |
+| **Suriname** | 19.4 births/1,000 population (2003 est.) |
+| **Svalbard** | NA births/1,000 population (2003 est.) |
+| **Swaziland** | 29.37 births/1,000 population (2003 est.) |
+| **Sweden** | 9.71 births/1,000 population (2003 est.) |
+| **Switzerland** | 9.59 births/1,000 population (2003 est.) |
+| **Syria** | 29.54 births/1,000 population (2003 est.) |
+| **Taiwan** | 12.74 births/1,000 population (2003 est.) |
+| **Tajikistan** | 32.78 births/1,000 population (2003 est.) |
+| **Tanzania** | 39.5 births/1,000 population (2003 est.) |
+| **Thailand** | 16.37 births/1,000 population (2003 est.) |
+| **Togo** | 35.23 births/1,000 population (2003 est.) |
+| **Tokelau** | NA births/1,000 population (2003 est.) |
+| **Tonga** | 24.51 births/1,000 population (2003 est.) |
+| **Trinidad and Tobago** | 12.74 births/1,000 population (2003 est.) |
+| **Tunisia** | 16.53 births/1,000 population (2003 est.) |
+| **Turkey** | 17.59 births/1,000 population (2003 est.) |
+| **Turkmenistan** | 28.02 births/1,000 population (2003 est.) |
+| **Turks and Caicos Islands** | 23.51 births/1,000 population (2003 est.) |
+| **Tuvalu** | 21.58 births/1,000 population (2003 est.) |
+| **Uganda** | 46.57 births/1,000 population (2003 est.) |
+| **Ukraine** | 9.89 births/1,000 population (2003 est.) |
+| **United Arab Emirates** | 18.48 births/1,000 population (2003 est.) |
+| **United Kingdom** | 10.99 births/1,000 population (2003 est.) |
+| **United States** | 14.14 births/1,000 population (2003 est.) |
+| **Uruguay** | 17.19 births/1,000 population (2003 est.) |
+| **Uzbekistan** | 26.09 births/1,000 population (2003 est.) |
+| **Vanuatu** | 24.26 births/1,000 population (2003 est.) |
+| **Venezuela** | 19.78 births/1,000 population (2003 est.) |
+| **Vietnam** | 19.58 births/1,000 population (2003 est.) |
+| **Virgin Islands** | 15.8 births/1,000 population (2003 est.) |
+| **Wallis and Futuna** | NA births/1,000 population (2003 est.) |
+| **West Bank** | 34.07 births/1,000 population (2003 est.) |
+| **Western Sahara** | NA births/1,000 population (2003 est.) |
+| **World** | 20.43 births/1,000 population (2003 est.) |
+| **Yemen** | 43.23 births/1,000 population (2003 est.) |
+| **Zambia** | 39.53 births/1,000 population (2003 est.) |
+| **Zimbabwe** | 30.34 births/1,000 population (2003 est.) |
+
+This page was last updated on 18 December, 2003
+ 

@@ -1,0 +1,704 @@
+CIA - The World Factbook -- Field Listing :: Infant mortality rate   
+
+This entry gives the number of deaths of infants under one year old in a given year per 1,000 live births in the same year; included is the total death rate, and deaths by sex, male and female. This rate is often used as an indicator of the level of health in a country.
+
+| Country | Infant mortality rate(deaths/1,000 live births) |
+| --- | --- |
+| **Afghanistan** | *total:* 119.41 deaths/1,000 live births |
+| | *male:* 127.18 deaths/1,000 live births |
+| | *female:* 111.25 deaths/1,000 live births (2013 est.) |
+| **Albania** | *total:* 13.65 deaths/1,000 live births |
+| | *male:* 15.18 deaths/1,000 live births |
+| | *female:* 11.94 deaths/1,000 live births (2013 est.) |
+| **Algeria** | *total:* 22.57 deaths/1,000 live births |
+| | *male:* 24.4 deaths/1,000 live births |
+| | *female:* 20.64 deaths/1,000 live births (2013 est.) |
+| **American Samoa** | *total:* 9.15 deaths/1,000 live births |
+| | *male:* 11.79 deaths/1,000 live births |
+| | *female:* 6.34 deaths/1,000 live births (2013 est.) |
+| **Andorra** | *total:* 3.73 deaths/1,000 live births |
+| | *male:* 3.71 deaths/1,000 live births |
+| | *female:* 3.75 deaths/1,000 live births (2013 est.) |
+| **Angola** | *total:* 81.75 deaths/1,000 live births |
+| | *male:* 85.56 deaths/1,000 live births |
+| | *female:* 77.75 deaths/1,000 live births (2013 est.) |
+| **Anguilla** | *total:* 3.42 deaths/1,000 live births |
+| | *male:* 3.84 deaths/1,000 live births |
+| | *female:* 2.98 deaths/1,000 live births (2013 est.) |
+| **Antigua and Barbuda** | *total:* 13.72 deaths/1,000 live births |
+| | *male:* 15.8 deaths/1,000 live births |
+| | *female:* 11.53 deaths/1,000 live births (2013 est.) |
+| **Argentina** | *total:* 10.24 deaths/1,000 live births |
+| | *male:* 11.45 deaths/1,000 live births |
+| | *female:* 8.96 deaths/1,000 live births (2013 est.) |
+| **Armenia** | *total:* 17.59 deaths/1,000 live births |
+| | *male:* 21.9 deaths/1,000 live births |
+| | *female:* 12.83 deaths/1,000 live births (2013 est.) |
+| **Aruba** | *total:* 12.12 deaths/1,000 live births |
+| | *male:* 15.97 deaths/1,000 live births |
+| | *female:* 8.2 deaths/1,000 live births (2013 est.) |
+| **Australia** | *total:* 4.49 deaths/1,000 live births |
+| | *male:* 4.8 deaths/1,000 live births |
+| | *female:* 4.15 deaths/1,000 live births (2013 est.) |
+| **Austria** | *total:* 4.21 deaths/1,000 live births |
+| | *male:* 5.09 deaths/1,000 live births |
+| | *female:* 3.3 deaths/1,000 live births (2013 est.) |
+| **Azerbaijan** | *total:* 27.69 deaths/1,000 live births |
+| | *male:* 28.46 deaths/1,000 live births |
+| | *female:* 26.82 deaths/1,000 live births (2013 est.) |
+| **Bahamas, The** | *total:* 12.89 deaths/1,000 live births |
+| | *male:* 12.9 deaths/1,000 live births |
+| | *female:* 12.88 deaths/1,000 live births (2013 est.) |
+| **Bahrain** | *total:* 9.93 deaths/1,000 live births |
+| | *male:* 11.1 deaths/1,000 live births |
+| | *female:* 8.72 deaths/1,000 live births (2013 est.) |
+| **Bangladesh** | *total:* 47.3 deaths/1,000 live births |
+| | *male:* 49.79 deaths/1,000 live births |
+| | *female:* 44.71 deaths/1,000 live births (2013 est.) |
+| **Barbados** | *total:* 11.13 deaths/1,000 live births |
+| | *male:* 12.49 deaths/1,000 live births |
+| | *female:* 9.76 deaths/1,000 live births (2013 est.) |
+| **Belarus** | *total:* 3.67 deaths/1,000 live births |
+| | *male:* 4.1 deaths/1,000 live births |
+| | *female:* 3.22 deaths/1,000 live births (2013 est.) |
+| **Belgium** | *total:* 4.23 deaths/1,000 live births |
+| | *male:* 4.73 deaths/1,000 live births |
+| | *female:* 3.7 deaths/1,000 live births (2013 est.) |
+| **Belize** | *total:* 20.82 deaths/1,000 live births |
+| | *male:* 23.3 deaths/1,000 live births |
+| | *female:* 18.23 deaths/1,000 live births (2013 est.) |
+| **Benin** | *total:* 58.54 deaths/1,000 live births |
+| | *male:* 61.76 deaths/1,000 live births |
+| | *female:* 55.15 deaths/1,000 live births (2013 est.) |
+| **Bermuda** | *total:* 2.47 deaths/1,000 live births |
+| | *male:* 2.58 deaths/1,000 live births |
+| | *female:* 2.36 deaths/1,000 live births (2013 est.) |
+| **Bhutan** | *total:* 39.97 deaths/1,000 live births |
+| | *male:* 40.52 deaths/1,000 live births |
+| | *female:* 39.4 deaths/1,000 live births (2013 est.) |
+| **Bolivia** | *total:* 39.76 deaths/1,000 live births |
+| | *male:* 43.44 deaths/1,000 live births |
+| | *female:* 35.9 deaths/1,000 live births (2013 est.) |
+| **Bosnia and Herzegovina** | *total:* 5.97 deaths/1,000 live births |
+| | *male:* 6.02 deaths/1,000 live births |
+| | *female:* 5.92 deaths/1,000 live births (2013 est.) |
+| **Botswana** | *total:* 9.9 deaths/1,000 live births |
+| | *male:* 10.34 deaths/1,000 live births |
+| | *female:* 9.45 deaths/1,000 live births (2013 est.) |
+| **Brazil** | *total:* 19.83 deaths/1,000 live births |
+| | *male:* 23.16 deaths/1,000 live births |
+| | *female:* 16.34 deaths/1,000 live births (2013 est.) |
+| **British Virgin Islands** | *total:* 13.93 deaths/1,000 live births |
+| | *male:* 15.85 deaths/1,000 live births |
+| | *female:* 11.92 deaths/1,000 live births (2013 est.) |
+| **Brunei** | *total:* 10.81 deaths/1,000 live births |
+| | *male:* 12.89 deaths/1,000 live births |
+| | *female:* 8.64 deaths/1,000 live births (2013 est.) |
+| **Bulgaria** | *total:* 15.6 deaths/1,000 live births |
+| | *male:* 18.67 deaths/1,000 live births |
+| | *female:* 12.34 deaths/1,000 live births (2013 est.) |
+| **Burkina Faso** | *total:* 78.3 deaths/1,000 live births |
+| | *male:* 85.67 deaths/1,000 live births |
+| | *female:* 70.72 deaths/1,000 live births (2013 est.) |
+| **Burma** | *total:* 46.31 deaths/1,000 live births |
+| | *male:* 52.91 deaths/1,000 live births |
+| | *female:* 39.31 deaths/1,000 live births (2013 est.) |
+| **Burundi** | *total:* 58.86 deaths/1,000 live births |
+| | *male:* 63.32 deaths/1,000 live births |
+| | *female:* 54.27 deaths/1,000 live births (2013 est.) |
+| **Cabo Verde** | *total:* 25.13 deaths/1,000 live births |
+| | *male:* 28.78 deaths/1,000 live births |
+| | *female:* 21.38 deaths/1,000 live births (2013 est.) |
+| **Cambodia** | *total:* 52.7 deaths/1,000 live births |
+| | *male:* 59.54 deaths/1,000 live births |
+| | *female:* 45.55 deaths/1,000 live births (2013 est.) |
+| **Cameroon** | *total:* 58.51 deaths/1,000 live births |
+| | *male:* 62.92 deaths/1,000 live births |
+| | *female:* 53.96 deaths/1,000 live births (2013 est.) |
+| **Canada** | *total:* 4.78 deaths/1,000 live births |
+| | *male:* 5.11 deaths/1,000 live births |
+| | *female:* 4.43 deaths/1,000 live births (2013 est.) |
+| **Cayman Islands** | *total:* 6.35 deaths/1,000 live births |
+| | *male:* 7.26 deaths/1,000 live births |
+| | *female:* 5.42 deaths/1,000 live births (2013 est.) |
+| **Central African Republic** | *total:* 95.04 deaths/1,000 live births |
+| | *male:* 102.83 deaths/1,000 live births |
+| | *female:* 87.02 deaths/1,000 live births (2013 est.) |
+| **Chad** | *total:* 91.94 deaths/1,000 live births |
+| | *male:* 97.64 deaths/1,000 live births |
+| | *female:* 86.01 deaths/1,000 live births (2013 est.) |
+| **Chile** | *total:* 7.19 deaths/1,000 live births |
+| | *male:* 7.67 deaths/1,000 live births |
+| | *female:* 6.68 deaths/1,000 live births (2013 est.) |
+| **China** | *total:* 15.2 deaths/1,000 live births |
+| | *male:* 15.16 deaths/1,000 live births |
+| | *female:* 15.25 deaths/1,000 live births (2013 est.) |
+| **Christmas Island** | *total:* NA |
+| | *male:* NA |
+| | *female:* NA |
+| **Cocos (Keeling) Islands** | *total:* NA |
+| | *male:* NA |
+| | *female:* NA |
+| **Colombia** | *total:* 15.46 deaths/1,000 live births |
+| | *male:* 18.77 deaths/1,000 live births |
+| | *female:* 11.96 deaths/1,000 live births (2013 est.) |
+| **Comoros** | *total:* 67.12 deaths/1,000 live births |
+| | *male:* 78.09 deaths/1,000 live births |
+| | *female:* 55.82 deaths/1,000 live births (2013 est.) |
+| **Congo, Democratic Republic of the** | *total:* 74.87 deaths/1,000 live births |
+| | *male:* 78.56 deaths/1,000 live births |
+| | *female:* 71.07 deaths/1,000 live births (2013 est.) |
+| **Congo, Republic of the** | *total:* 72.45 deaths/1,000 live births |
+| | *male:* 77.76 deaths/1,000 live births |
+| | *female:* 66.98 deaths/1,000 live births (2013 est.) |
+| **Cook Islands** | *total:* 14.81 deaths/1,000 live births |
+| | *male:* 18.01 deaths/1,000 live births |
+| | *female:* 11.45 deaths/1,000 live births (2013 est.) |
+| **Costa Rica** | *total:* 8.95 deaths/1,000 live births |
+| | *male:* 9.76 deaths/1,000 live births |
+| | *female:* 8.09 deaths/1,000 live births (2013 est.) |
+| **Cote d'Ivoire** | *total:* 61.66 deaths/1,000 live births |
+| | *male:* 68.06 deaths/1,000 live births |
+| | *female:* 55.06 deaths/1,000 live births (2013 est.) |
+| **Croatia** | *total:* 5.96 deaths/1,000 live births |
+| | *male:* 6.07 deaths/1,000 live births |
+| | *female:* 5.85 deaths/1,000 live births (2013 est.) |
+| **Cuba** | *total:* 4.76 deaths/1,000 live births |
+| | *male:* 5.12 deaths/1,000 live births |
+| | *female:* 4.39 deaths/1,000 live births (2013 est.) |
+| **Cyprus** | *total:* 8.82 deaths/1,000 live births |
+| | *male:* 10.39 deaths/1,000 live births |
+| | *female:* 7.17 deaths/1,000 live births (2013 est.) |
+| **Czech Republic** | *total:* 3.67 deaths/1,000 live births |
+| | *male:* 4 deaths/1,000 live births |
+| | *female:* 3.33 deaths/1,000 live births (2013 est.) |
+| **Denmark** | *total:* 4.14 deaths/1,000 live births |
+| | *male:* 4.21 deaths/1,000 live births |
+| | *female:* 4.07 deaths/1,000 live births (2013 est.) |
+| **Djibouti** | *total:* 51.77 deaths/1,000 live births |
+| | *male:* 59.2 deaths/1,000 live births |
+| | *female:* 44.11 deaths/1,000 live births (2013 est.) |
+| **Dominica** | *total:* 11.99 deaths/1,000 live births |
+| | *male:* 15.99 deaths/1,000 live births |
+| | *female:* 7.79 deaths/1,000 live births (2013 est.) |
+| **Dominican Republic** | *total:* 20.44 deaths/1,000 live births |
+| | *male:* 22.39 deaths/1,000 live births |
+| | *female:* 18.41 deaths/1,000 live births (2013 est.) |
+| **Ecuador** | *total:* 18.48 deaths/1,000 live births |
+| | *male:* 21.73 deaths/1,000 live births |
+| | *female:* 15.07 deaths/1,000 live births (2013 est.) |
+| **Egypt** | *total:* 23.3 deaths/1,000 live births |
+| | *male:* 24.83 deaths/1,000 live births |
+| | *female:* 21.7 deaths/1,000 live births (2013 est.) |
+| **El Salvador** | *total:* 19.05 deaths/1,000 live births |
+| | *male:* 21.12 deaths/1,000 live births |
+| | *female:* 16.87 deaths/1,000 live births (2013 est.) |
+| **Equatorial Guinea** | *total:* 73.12 deaths/1,000 live births |
+| | *male:* 74.18 deaths/1,000 live births |
+| | *female:* 72.03 deaths/1,000 live births (2013 est.) |
+| **Eritrea** | *total:* 39.38 deaths/1,000 live births |
+| | *male:* 44.63 deaths/1,000 live births |
+| | *female:* 33.97 deaths/1,000 live births (2013 est.) |
+| **Estonia** | *total:* 6.82 deaths/1,000 live births |
+| | *male:* 7.94 deaths/1,000 live births |
+| | *female:* 5.63 deaths/1,000 live births (2013 est.) |
+| **Ethiopia** | *total:* 58.28 deaths/1,000 live births |
+| | *male:* 66.58 deaths/1,000 live births |
+| | *female:* 49.73 deaths/1,000 live births (2013 est.) |
+| **European Union** | *total:* 4.43 deaths/1,000 live births |
+| | *male:* 4.89 deaths/1,000 live births |
+| | *female:* 3.95 deaths/1,000 live births (2013 est.) |
+| **Falkland Islands (Islas Malvinas)** | *total:* NA |
+| | *male:* NA |
+| | *female:* NA |
+| **Faroe Islands** | *total:* 5.82 deaths/1,000 live births |
+| | *male:* 6.08 deaths/1,000 live births |
+| | *female:* 5.55 deaths/1,000 live births (2013 est.) |
+| **Fiji** | *total:* 10.46 deaths/1,000 live births |
+| | *male:* 11.53 deaths/1,000 live births |
+| | *female:* 9.33 deaths/1,000 live births (2013 est.) |
+| **Finland** | *total:* 3.38 deaths/1,000 live births |
+| | *male:* 3.68 deaths/1,000 live births |
+| | *female:* 3.07 deaths/1,000 live births (2013 est.) |
+| **France** | *total:* 3.34 deaths/1,000 live births |
+| | *male:* 3.67 deaths/1,000 live births |
+| | *female:* 2.99 deaths/1,000 live births (2013 est.) |
+| **French Polynesia** | *total:* 4.83 deaths/1,000 live births |
+| | *male:* 5.36 deaths/1,000 live births |
+| | *female:* 4.26 deaths/1,000 live births (2013 est.) |
+| **Gabon** | *total:* 48.02 deaths/1,000 live births |
+| | *male:* 55.49 deaths/1,000 live births |
+| | *female:* 40.32 deaths/1,000 live births (2013 est.) |
+| **Gambia, The** | *total:* 67.63 deaths/1,000 live births |
+| | *male:* 73.15 deaths/1,000 live births |
+| | *female:* 61.94 deaths/1,000 live births (2013 est.) |
+| **Gaza Strip** | *total:* 16 deaths/1,000 live births |
+| | *male:* 17.07 deaths/1,000 live births |
+| | *female:* 14.86 deaths/1,000 live births (2013 est.) |
+| **Georgia** | *total:* 14.21 deaths/1,000 live births |
+| | *male:* 16.07 deaths/1,000 live births |
+| | *female:* 12.16 deaths/1,000 live births (2013 est.) |
+| **Germany** | *total:* 3.48 deaths/1,000 live births |
+| | *male:* 3.78 deaths/1,000 live births |
+| | *female:* 3.17 deaths/1,000 live births (2013 est.) |
+| **Ghana** | *total:* 39.7 deaths/1,000 live births |
+| | *male:* 43.8 deaths/1,000 live births |
+| | *female:* 35.48 deaths/1,000 live births (2013 est.) |
+| **Gibraltar** | *total:* 6.42 deaths/1,000 live births |
+| | *male:* 7.14 deaths/1,000 live births |
+| | *female:* 5.64 deaths/1,000 live births (2013 est.) |
+| **Greece** | *total:* 4.85 deaths/1,000 live births |
+| | *male:* 5.33 deaths/1,000 live births |
+| | *female:* 4.34 deaths/1,000 live births (2013 est.) |
+| **Greenland** | *total:* 9.63 deaths/1,000 live births |
+| | *male:* 10.99 deaths/1,000 live births |
+| | *female:* 8.19 deaths/1,000 live births (2013 est.) |
+| **Grenada** | *total:* 10.81 deaths/1,000 live births |
+| | *male:* 10.05 deaths/1,000 live births |
+| | *female:* 11.63 deaths/1,000 live births (2013 est.) |
+| **Guam** | *total:* 5.61 deaths/1,000 live births |
+| | *male:* 6.02 deaths/1,000 live births |
+| | *female:* 5.18 deaths/1,000 live births (2013 est.) |
+| **Guatemala** | *total:* 24.32 deaths/1,000 live births |
+| | *male:* 26.44 deaths/1,000 live births |
+| | *female:* 22.09 deaths/1,000 live births (2013 est.) |
+| **Guernsey** | *total:* 3.49 deaths/1,000 live births |
+| | *male:* 3.8 deaths/1,000 live births |
+| | *female:* 3.17 deaths/1,000 live births (2013 est.) |
+| **Guinea** | *total:* 57.11 deaths/1,000 live births |
+| | *male:* 60.14 deaths/1,000 live births |
+| | *female:* 53.99 deaths/1,000 live births (2013 est.) |
+| **Guinea-Bissau** | *total:* 92.66 deaths/1,000 live births |
+| | *male:* 102.42 deaths/1,000 live births |
+| | *female:* 82.61 deaths/1,000 live births (2013 est.) |
+| **Guyana** | *total:* 34.45 deaths/1,000 live births |
+| | *male:* 38.59 deaths/1,000 live births |
+| | *female:* 30.09 deaths/1,000 live births (2013 est.) |
+| **Haiti** | *total:* 50.92 deaths/1,000 live births |
+| | *male:* 54.85 deaths/1,000 live births |
+| | *female:* 46.94 deaths/1,000 live births |
+| | *note:* the preliminary 2011 numbers differ significantly from those of 2010, which were strongly influenced by the demographic effect of the January 2010 earthquake; the latest figures more closely correspond to those of 2009 (2013 est.) |
+| **Honduras** | *total:* 19.28 deaths/1,000 live births |
+| | *male:* 21.83 deaths/1,000 live births |
+| | *female:* 16.6 deaths/1,000 live births (2013 est.) |
+| **Hong Kong** | *total:* 2.89 deaths/1,000 live births |
+| | *male:* 3.06 deaths/1,000 live births |
+| | *female:* 2.7 deaths/1,000 live births (2013 est.) |
+| **Hungary** | *total:* 5.16 deaths/1,000 live births |
+| | *male:* 5.43 deaths/1,000 live births |
+| | *female:* 4.88 deaths/1,000 live births (2013 est.) |
+| **Iceland** | *total:* 3.17 deaths/1,000 live births |
+| | *male:* 3.31 deaths/1,000 live births |
+| | *female:* 3.02 deaths/1,000 live births (2013 est.) |
+| **India** | *total:* 44.6 deaths/1,000 live births |
+| | *male:* 43.28 deaths/1,000 live births |
+| | *female:* 46.08 deaths/1,000 live births (2013 est.) |
+| **Indonesia** | *total:* 26.06 deaths/1,000 live births |
+| | *male:* 30.47 deaths/1,000 live births |
+| | *female:* 21.42 deaths/1,000 live births (2013 est.) |
+| **Iran** | *total:* 40.02 deaths/1,000 live births |
+| | *male:* 40.54 deaths/1,000 live births |
+| | *female:* 39.48 deaths/1,000 live births (2013 est.) |
+| **Iraq** | *total:* 38.86 deaths/1,000 live births |
+| | *male:* 42.98 deaths/1,000 live births |
+| | *female:* 34.55 deaths/1,000 live births (2013 est.) |
+| **Ireland** | *total:* 3.78 deaths/1,000 live births |
+| | *male:* 4.16 deaths/1,000 live births |
+| | *female:* 3.38 deaths/1,000 live births (2013 est.) |
+| **Isle of Man** | *total:* 4.22 deaths/1,000 live births |
+| | *male:* 4.16 deaths/1,000 live births |
+| | *female:* 4.28 deaths/1,000 live births (2013 est.) |
+| **Israel** | *total:* 4.03 deaths/1,000 live births |
+| | *male:* 4.2 deaths/1,000 live births |
+| | *female:* 3.84 deaths/1,000 live births (2013 est.) |
+| **Italy** | *total:* 3.33 deaths/1,000 live births |
+| | *male:* 3.54 deaths/1,000 live births |
+| | *female:* 3.12 deaths/1,000 live births (2013 est.) |
+| **Jamaica** | *total:* 13.98 deaths/1,000 live births |
+| | *male:* 14.55 deaths/1,000 live births |
+| | *female:* 13.38 deaths/1,000 live births (2013 est.) |
+| **Japan** | *total:* 2.17 deaths/1,000 live births |
+| | *male:* 2.4 deaths/1,000 live births |
+| | *female:* 1.92 deaths/1,000 live births (2013 est.) |
+| **Jersey** | *total:* 3.9 deaths/1,000 live births |
+| | *male:* 4.12 deaths/1,000 live births |
+| | *female:* 3.67 deaths/1,000 live births (2013 est.) |
+| **Jordan** | *total:* 15.26 deaths/1,000 live births |
+| | *male:* 15.89 deaths/1,000 live births |
+| | *female:* 14.59 deaths/1,000 live births (2013 est.) |
+| **Kazakhstan** | *total:* 22.32 deaths/1,000 live births |
+| | *male:* 25.07 deaths/1,000 live births |
+| | *female:* 19.75 deaths/1,000 live births (2013 est.) |
+| **Kenya** | *total:* 42.18 deaths/1,000 live births |
+| | *male:* 46.89 deaths/1,000 live births |
+| | *female:* 37.37 deaths/1,000 live births (2013 est.) |
+| **Kiribati** | *total:* 36.5 deaths/1,000 live births |
+| | *male:* 37.74 deaths/1,000 live births |
+| | *female:* 35.21 deaths/1,000 live births (2013 est.) |
+| **Korea, North** | *total:* 25.34 deaths/1,000 live births |
+| | *male:* 28.1 deaths/1,000 live births |
+| | *female:* 22.44 deaths/1,000 live births (2013 est.) |
+| **Korea, South** | *total:* 4.01 deaths/1,000 live births |
+| | *male:* 4.21 deaths/1,000 live births |
+| | *female:* 3.79 deaths/1,000 live births (2013 est.) |
+| **Kuwait** | *total:* 7.68 deaths/1,000 live births |
+| | *male:* 7.41 deaths/1,000 live births |
+| | *female:* 7.95 deaths/1,000 live births (2013 est.) |
+| **Kyrgyzstan** | *total:* 29.73 deaths/1,000 live births |
+| | *male:* 34.05 deaths/1,000 live births |
+| | *female:* 25.12 deaths/1,000 live births (2013 est.) |
+| **Laos** | *total:* 56.13 deaths/1,000 live births |
+| | *male:* 61.91 deaths/1,000 live births |
+| | *female:* 50.11 deaths/1,000 live births (2013 est.) |
+| **Latvia** | *total:* 8.08 deaths/1,000 live births |
+| | *male:* 9.8 deaths/1,000 live births |
+| | *female:* 6.26 deaths/1,000 live births (2013 est.) |
+| **Lebanon** | *total:* 14.81 deaths/1,000 live births |
+| | *male:* 14.98 deaths/1,000 live births |
+| | *female:* 14.64 deaths/1,000 live births (2013 est.) |
+| **Lesotho** | *total:* 51.93 deaths/1,000 live births |
+| | *male:* 55.96 deaths/1,000 live births |
+| | *female:* 47.78 deaths/1,000 live births (2013 est.) |
+| **Liberia** | *total:* 70.93 deaths/1,000 live births |
+| | *male:* 75.25 deaths/1,000 live births |
+| | *female:* 66.47 deaths/1,000 live births (2013 est.) |
+| **Libya** | *total:* 12.26 deaths/1,000 live births |
+| | *male:* 13.25 deaths/1,000 live births |
+| | *female:* 11.22 deaths/1,000 live births (2013 est.) |
+| **Liechtenstein** | *total:* 4.36 deaths/1,000 live births |
+| | *male:* 4.64 deaths/1,000 live births |
+| | *female:* 4 deaths/1,000 live births (2013 est.) |
+| **Lithuania** | *total:* 6.09 deaths/1,000 live births |
+| | *male:* 7.26 deaths/1,000 live births |
+| | *female:* 4.85 deaths/1,000 live births (2013 est.) |
+| **Luxembourg** | *total:* 4.33 deaths/1,000 live births |
+| | *male:* 4.37 deaths/1,000 live births |
+| | *female:* 4.3 deaths/1,000 live births (2013 est.) |
+| **Macau** | *total:* 3.15 deaths/1,000 live births |
+| | *male:* 3.31 deaths/1,000 live births |
+| | *female:* 2.99 deaths/1,000 live births (2013 est.) |
+| **Macedonia** | *total:* 8.11 deaths/1,000 live births |
+| | *male:* 8.35 deaths/1,000 live births |
+| | *female:* 7.85 deaths/1,000 live births (2013 est.) |
+| **Madagascar** | *total:* 46.13 deaths/1,000 live births |
+| | *male:* 50.17 deaths/1,000 live births |
+| | *female:* 41.97 deaths/1,000 live births (2013 est.) |
+| **Malawi** | *total:* 76.98 deaths/1,000 live births |
+| | *male:* 80.99 deaths/1,000 live births |
+| | *female:* 72.91 deaths/1,000 live births (2013 est.) |
+| **Malaysia** | *total:* 14.12 deaths/1,000 live births |
+| | *male:* 16.32 deaths/1,000 live births |
+| | *female:* 11.77 deaths/1,000 live births (2013 est.) |
+| **Maldives** | *total:* 25.5 deaths/1,000 live births |
+| | *male:* 27.95 deaths/1,000 live births |
+| | *female:* 22.93 deaths/1,000 live births (2013 est.) |
+| **Mali** | *total:* 106.49 deaths/1,000 live births |
+| | *male:* 113.23 deaths/1,000 live births |
+| | *female:* 99.56 deaths/1,000 live births (2013 est.) |
+| **Malta** | *total:* 3.62 deaths/1,000 live births |
+| | *male:* 4.04 deaths/1,000 live births |
+| | *female:* 3.18 deaths/1,000 live births (2013 est.) |
+| **Marshall Islands** | *total:* 22.15 deaths/1,000 live births |
+| | *male:* 24.93 deaths/1,000 live births |
+| | *female:* 19.22 deaths/1,000 live births (2013 est.) |
+| **Mauritania** | *total:* 57.48 deaths/1,000 live births |
+| | *male:* 62.51 deaths/1,000 live births |
+| | *female:* 52.3 deaths/1,000 live births (2013 est.) |
+| **Mauritius** | *total:* 10.89 deaths/1,000 live births |
+| | *male:* 12.95 deaths/1,000 live births |
+| | *female:* 8.73 deaths/1,000 live births (2013 est.) |
+| **Mexico** | *total:* 16.26 deaths/1,000 live births |
+| | *male:* 18.04 deaths/1,000 live births |
+| | *female:* 14.38 deaths/1,000 live births (2013 est.) |
+| **Micronesia, Federated States of** | *total:* 22.71 deaths/1,000 live births |
+| | *male:* 25.12 deaths/1,000 live births |
+| | *female:* 20.18 deaths/1,000 live births (2013 est.) |
+| **Moldova** | *total:* 13.28 deaths/1,000 live births |
+| | *male:* 15.2 deaths/1,000 live births |
+| | *female:* 11.25 deaths/1,000 live births (2013 est.) |
+| **Monaco** | *total:* 1.81 deaths/1,000 live births |
+| | *male:* 2.05 deaths/1,000 live births |
+| | *female:* 1.55 deaths/1,000 live births (2013 est.) |
+| **Mongolia** | *total:* 34.78 deaths/1,000 live births |
+| | *male:* 37.66 deaths/1,000 live births |
+| | *female:* 31.76 deaths/1,000 live births (2013 est.) |
+| **Montserrat** | *total:* 14.16 deaths/1,000 live births |
+| | *male:* 10.86 deaths/1,000 live births |
+| | *female:* 17.62 deaths/1,000 live births (2013 est.) |
+| **Morocco** | *total:* 25.49 deaths/1,000 live births |
+| | *male:* 30.04 deaths/1,000 live births |
+| | *female:* 20.71 deaths/1,000 live births (2013 est.) |
+| **Mozambique** | *total:* 74.63 deaths/1,000 live births |
+| | *male:* 76.78 deaths/1,000 live births |
+| | *female:* 72.43 deaths/1,000 live births (2013 est.) |
+| **Namibia** | *total:* 45.62 deaths/1,000 live births |
+| | *male:* 48.68 deaths/1,000 live births |
+| | *female:* 42.46 deaths/1,000 live births (2013 est.) |
+| **Nauru** | *total:* 8.36 deaths/1,000 live births |
+| | *male:* 10.74 deaths/1,000 live births |
+| | *female:* 6.37 deaths/1,000 live births (2013 est.) |
+| **Nepal** | *total:* 41.76 deaths/1,000 live births |
+| | *male:* 41.8 deaths/1,000 live births |
+| | *female:* 41.71 deaths/1,000 live births (2013 est.) |
+| **Netherlands** | *total:* 3.69 deaths/1,000 live births |
+| | *male:* 3.99 deaths/1,000 live births |
+| | *female:* 3.38 deaths/1,000 live births (2013 est.) |
+| **New Caledonia** | *total:* 5.54 deaths/1,000 live births |
+| | *male:* 6.54 deaths/1,000 live births |
+| | *female:* 4.49 deaths/1,000 live births (2013 est.) |
+| **New Zealand** | *total:* 4.65 deaths/1,000 live births |
+| | *male:* 5.22 deaths/1,000 live births |
+| | *female:* 4.06 deaths/1,000 live births (2013 est.) |
+| **Nicaragua** | *total:* 21.09 deaths/1,000 live births |
+| | *male:* 24.19 deaths/1,000 live births |
+| | *female:* 17.84 deaths/1,000 live births (2013 est.) |
+| **Niger** | *total:* 87.98 deaths/1,000 live births |
+| | *male:* 92.64 deaths/1,000 live births |
+| | *female:* 83.17 deaths/1,000 live births (2013 est.) |
+| **Nigeria** | *total:* 72.97 deaths/1,000 live births |
+| | *male:* 77.98 deaths/1,000 live births |
+| | *female:* 67.66 deaths/1,000 live births (2013 est.) |
+| **Niue** | *total:* NA |
+| | *male:* NA |
+| | *female:* NA |
+| **Norfolk Island** | *total:* NA |
+| | *male:* NA |
+| | *female:* NA |
+| **Northern Mariana Islands** | *total:* 5.59 deaths/1,000 live births |
+| | *male:* 5.98 deaths/1,000 live births |
+| | *female:* 5.18 deaths/1,000 live births (2013 est.) |
+| **Norway** | *total:* 3.47 deaths/1,000 live births |
+| | *male:* 3.79 deaths/1,000 live births |
+| | *female:* 3.13 deaths/1,000 live births (2013 est.) |
+| **Oman** | *total:* 14.46 deaths/1,000 live births |
+| | *male:* 14.76 deaths/1,000 live births |
+| | *female:* 14.15 deaths/1,000 live births (2013 est.) |
+| **Pakistan** | *total:* 59.35 deaths/1,000 live births |
+| | *male:* 62.56 deaths/1,000 live births |
+| | *female:* 55.97 deaths/1,000 live births (2013 est.) |
+| **Palau** | *total:* 11.77 deaths/1,000 live births |
+| | *male:* 13.35 deaths/1,000 live births |
+| | *female:* 10.1 deaths/1,000 live births (2013 est.) |
+| **Panama** | *total:* 11.01 deaths/1,000 live births |
+| | *male:* 11.77 deaths/1,000 live births |
+| | *female:* 10.21 deaths/1,000 live births (2013 est.) |
+| **Papua New Guinea** | *total:* 40.84 deaths/1,000 live births |
+| | *male:* 44.53 deaths/1,000 live births |
+| | *female:* 36.97 deaths/1,000 live births (2013 est.) |
+| **Paraguay** | *total:* 21.48 deaths/1,000 live births |
+| | *male:* 25.21 deaths/1,000 live births |
+| | *female:* 17.57 deaths/1,000 live births (2013 est.) |
+| **Peru** | *total:* 20.85 deaths/1,000 live births |
+| | *male:* 23.1 deaths/1,000 live births |
+| | *female:* 18.49 deaths/1,000 live births (2013 est.) |
+| **Philippines** | *total:* 18.19 deaths/1,000 live births |
+| | *male:* 20.59 deaths/1,000 live births |
+| | *female:* 15.66 deaths/1,000 live births (2013 est.) |
+| **Pitcairn Islands** | *total:* NA |
+| | *male:* NA |
+| | *female:* NA |
+| **Poland** | *total:* 6.3 deaths/1,000 live births |
+| | *male:* 7 deaths/1,000 live births |
+| | *female:* 5.56 deaths/1,000 live births (2013 est.) |
+| **Portugal** | *total:* 4.54 deaths/1,000 live births |
+| | *male:* 4.98 deaths/1,000 live births |
+| | *female:* 4.07 deaths/1,000 live births (2013 est.) |
+| **Puerto Rico** | *total:* 8 deaths/1,000 live births |
+| | *male:* 8.82 deaths/1,000 live births |
+| | *female:* 7.14 deaths/1,000 live births (2013 est.) |
+| **Qatar** | *total:* 6.6 deaths/1,000 live births |
+| | *male:* 6.86 deaths/1,000 live births |
+| | *female:* 6.33 deaths/1,000 live births (2013 est.) |
+| **Romania** | *total:* 10.44 deaths/1,000 live births |
+| | *male:* 11.82 deaths/1,000 live births |
+| | *female:* 8.98 deaths/1,000 live births (2013 est.) |
+| **Russia** | *total:* 7.19 deaths/1,000 live births |
+| | *male:* 8.04 deaths/1,000 live births |
+| | *female:* 6.29 deaths/1,000 live births (2013 est.) |
+| **Rwanda** | *total:* 61.03 deaths/1,000 live births |
+| | *male:* 64.58 deaths/1,000 live births |
+| | *female:* 57.38 deaths/1,000 live births (2013 est.) |
+| **Saint Helena, Ascension, and Tristan da Cunha** | *total:* 15.25 deaths/1,000 live births |
+| | *male:* 17.97 deaths/1,000 live births |
+| | *female:* 12.38 deaths/1,000 live births (2013 est.) |
+| **Saint Kitts and Nevis** | *total:* 9.2 deaths/1,000 live births |
+| | *male:* 6.2 deaths/1,000 live births |
+| | *female:* 12.27 deaths/1,000 live births (2013 est.) |
+| **Saint Lucia** | *total:* 12.07 deaths/1,000 live births |
+| | *male:* 11.4 deaths/1,000 live births |
+| | *female:* 12.78 deaths/1,000 live births (2013 est.) |
+| **Saint Pierre and Miquelon** | *total:* 7.12 deaths/1,000 live births |
+| | *male:* 8.28 deaths/1,000 live births |
+| | *female:* 5.89 deaths/1,000 live births (2013 est.) |
+| **Saint Vincent and the Grenadines** | *total:* 13.46 deaths/1,000 live births |
+| | *male:* 14.66 deaths/1,000 live births |
+| | *female:* 12.22 deaths/1,000 live births (2013 est.) |
+| **Samoa** | *total:* 20.95 deaths/1,000 live births |
+| | *male:* 24.8 deaths/1,000 live births |
+| | *female:* 16.91 deaths/1,000 live births (2013 est.) |
+| **San Marino** | *total:* 4.58 deaths/1,000 live births |
+| | *male:* 4.77 deaths/1,000 live births |
+| | *female:* 4.38 deaths/1,000 live births (2013 est.) |
+| **Sao Tome and Principe** | *total:* 50.48 deaths/1,000 live births |
+| | *male:* 52.51 deaths/1,000 live births |
+| | *female:* 48.39 deaths/1,000 live births (2013 est.) |
+| **Saudi Arabia** | *total:* 15.08 deaths/1,000 live births |
+| | *male:* 17.31 deaths/1,000 live births |
+| | *female:* 12.75 deaths/1,000 live births (2013 est.) |
+| **Senegal** | *total:* 53.93 deaths/1,000 live births |
+| | *male:* 60.22 deaths/1,000 live births |
+| | *female:* 47.44 deaths/1,000 live births (2013 est.) |
+| **Serbia** | *total:* 6.28 deaths/1,000 live births |
+| | *male:* 7.24 deaths/1,000 live births |
+| | *female:* 5.26 deaths/1,000 live births (2013 est.) |
+| **Seychelles** | *total:* 11.06 deaths/1,000 live births |
+| | *male:* 13.85 deaths/1,000 live births |
+| | *female:* 8.18 deaths/1,000 live births (2013 est.) |
+| **Sierra Leone** | *total:* 74.95 deaths/1,000 live births |
+| | *male:* 83.59 deaths/1,000 live births |
+| | *female:* 66.06 deaths/1,000 live births (2013 est.) |
+| **Singapore** | *total:* 2.59 deaths/1,000 live births |
+| | *male:* 2.73 deaths/1,000 live births |
+| | *female:* 2.44 deaths/1,000 live births (2013 est.) |
+| **Sint Maarten** | *total:* 9.05 deaths/1,000 live births |
+| | *male:* 9.84 deaths/1,000 live births |
+| | *female:* 8.22 deaths/1,000 live births (2013 est.) |
+| **Slovakia** | *total:* 6.35 deaths/1,000 live births |
+| | *male:* 7.4 deaths/1,000 live births |
+| | *female:* 5.24 deaths/1,000 live births (2013 est.) |
+| **Slovenia** | *total:* 4.08 deaths/1,000 live births |
+| | *male:* 4.61 deaths/1,000 live births |
+| | *female:* 3.52 deaths/1,000 live births (2013 est.) |
+| **Solomon Islands** | *total:* 16.7 deaths/1,000 live births |
+| | *male:* 19.03 deaths/1,000 live births |
+| | *female:* 14.26 deaths/1,000 live births (2013 est.) |
+| **Somalia** | *total:* 101.91 deaths/1,000 live births |
+| | *male:* 110.74 deaths/1,000 live births |
+| | *female:* 92.82 deaths/1,000 live births (2013 est.) |
+| **South Africa** | *total:* 42.15 deaths/1,000 live births |
+| | *male:* 45.9 deaths/1,000 live births |
+| | *female:* 38.33 deaths/1,000 live births (2013 est.) |
+| **South Sudan** | *total:* 69.97 deaths/1,000 live births (2013 est.) |
+| **Spain** | *total:* 3.35 deaths/1,000 live births |
+| | *male:* 3.68 deaths/1,000 live births |
+| | *female:* 2.99 deaths/1,000 live births (2013 est.) |
+| **Sri Lanka** | *total:* 9.24 deaths/1,000 live births |
+| | *male:* 10.21 deaths/1,000 live births |
+| | *female:* 8.24 deaths/1,000 live births (2013 est.) |
+| **Sudan** | *total:* 54.23 deaths/1,000 live births |
+| | *male:* 59.75 deaths/1,000 live births |
+| | *female:* 48.43 deaths/1,000 live births (2013 est.) |
+| **Suriname** | *total:* 27.99 deaths/1,000 live births |
+| | *male:* 32.54 deaths/1,000 live births |
+| | *female:* 23.21 deaths/1,000 live births (2013 est.) |
+| **Svalbard** | *total:* NA |
+| | *male:* NA |
+| | *female:* NA |
+| **Swaziland** | *total:* 57.19 deaths/1,000 live births |
+| | *male:* 61.21 deaths/1,000 live births |
+| | *female:* 53.04 deaths/1,000 live births (2013 est.) |
+| **Sweden** | *total:* 2.73 deaths/1,000 live births |
+| | *male:* 2.89 deaths/1,000 live births |
+| | *female:* 2.57 deaths/1,000 live births (2013 est.) |
+| **Switzerland** | *total:* 3.8 deaths/1,000 live births |
+| | *male:* 4.21 deaths/1,000 live births |
+| | *female:* 3.36 deaths/1,000 live births (2013 est.) |
+| **Syria** | *total:* 14.63 deaths/1,000 live births |
+| | *male:* 16.83 deaths/1,000 live births |
+| | *female:* 12.31 deaths/1,000 live births (2013 est.) |
+| **Taiwan** | *total:* 4.55 deaths/1,000 live births |
+| | *male:* 4.96 deaths/1,000 live births |
+| | *female:* 4.12 deaths/1,000 live births (2013 est.) |
+| **Tajikistan** | *total:* 36.16 deaths/1,000 live births |
+| | *male:* 40.65 deaths/1,000 live births |
+| | *female:* 31.45 deaths/1,000 live births (2013 est.) |
+| **Tanzania** | *total:* 45.1 deaths/1,000 live births |
+| | *male:* 47.13 deaths/1,000 live births |
+| | *female:* 43 deaths/1,000 live births (2013 est.) |
+| **Thailand** | *total:* 15.41 deaths/1,000 live births |
+| | *male:* 16.38 deaths/1,000 live births |
+| | *female:* 14.39 deaths/1,000 live births (2013 est.) |
+| **Timor-Leste** | *total:* 40.09 deaths/1,000 live births |
+| | *male:* 43.23 deaths/1,000 live births |
+| | *female:* 36.73 deaths/1,000 live births (2013 est.) |
+| **Togo** | *total:* 48.28 deaths/1,000 live births |
+| | *male:* 55.03 deaths/1,000 live births |
+| | *female:* 41.33 deaths/1,000 live births (2013 est.) |
+| **Tokelau** | *total:* NA |
+| | *male:* NA |
+| | *female:* NA |
+| **Tonga** | *total:* 12.78 deaths/1,000 live births |
+| | *male:* 13.2 deaths/1,000 live births |
+| | *female:* 12.34 deaths/1,000 live births (2013 est.) |
+| **Trinidad and Tobago** | *total:* 25.74 deaths/1,000 live births |
+| | *male:* 27.08 deaths/1,000 live births |
+| | *female:* 24.35 deaths/1,000 live births (2013 est.) |
+| **Tunisia** | *total:* 24.07 deaths/1,000 live births |
+| | *male:* 27.59 deaths/1,000 live births |
+| | *female:* 20.3 deaths/1,000 live births (2013 est.) |
+| **Turkey** | *total:* 22.23 deaths/1,000 live births |
+| | *male:* 23.29 deaths/1,000 live births |
+| | *female:* 21.12 deaths/1,000 live births (2013 est.) |
+| **Turkmenistan** | *total:* 39.48 deaths/1,000 live births |
+| | *male:* 47.17 deaths/1,000 live births |
+| | *female:* 31.41 deaths/1,000 live births (2013 est.) |
+| **Turks and Caicos Islands** | *total:* 11.29 deaths/1,000 live births |
+| | *male:* 14.13 deaths/1,000 live births |
+| | *female:* 8.31 deaths/1,000 live births (2013 est.) |
+| **Tuvalu** | *total:* 32.61 deaths/1,000 live births |
+| | *male:* 35.45 deaths/1,000 live births |
+| | *female:* 29.63 deaths/1,000 live births (2013 est.) |
+| **Uganda** | *total:* 62.47 deaths/1,000 live births |
+| | *male:* 72 deaths/1,000 live births |
+| | *female:* 52.66 deaths/1,000 live births (2013 est.) |
+| **Ukraine** | *total:* 8.24 deaths/1,000 live births |
+| | *male:* 10.31 deaths/1,000 live births |
+| | *female:* 6.03 deaths/1,000 live births (2013 est.) |
+| **United Arab Emirates** | *total:* 11.25 deaths/1,000 live births |
+| | *male:* 13.12 deaths/1,000 live births |
+| | *female:* 9.28 deaths/1,000 live births (2013 est.) |
+| **United Kingdom** | *total:* 4.5 deaths/1,000 live births |
+| | *male:* 4.93 deaths/1,000 live births |
+| | *female:* 4.05 deaths/1,000 live births (2013 est.) |
+| **United States** | *total:* 5.9 deaths/1,000 live births |
+| | *male:* 6.55 deaths/1,000 live births |
+| | *female:* 5.22 deaths/1,000 live births (2013 est.) |
+| **Uruguay** | *total:* 9.2 deaths/1,000 live births |
+| | *male:* 10.2 deaths/1,000 live births |
+| | *female:* 8.17 deaths/1,000 live births (2013 est.) |
+| **Uzbekistan** | *total:* 20.51 deaths/1,000 live births |
+| | *male:* 24.32 deaths/1,000 live births |
+| | *female:* 16.48 deaths/1,000 live births (2013 est.) |
+| **Vanuatu** | *total:* 17.15 deaths/1,000 live births |
+| | *male:* 18.34 deaths/1,000 live births |
+| | *female:* 15.91 deaths/1,000 live births (2013 est.) |
+| **Venezuela** | *total:* 19.75 deaths/1,000 live births |
+| | *male:* 23.18 deaths/1,000 live births |
+| | *female:* 16.14 deaths/1,000 live births (2013 est.) |
+| **Vietnam** | *total:* 19.61 deaths/1,000 live births |
+| | *male:* 19.97 deaths/1,000 live births |
+| | *female:* 19.19 deaths/1,000 live births (2013 est.) |
+| **Virgin Islands** | *total:* 6.94 deaths/1,000 live births |
+| | *male:* 7.65 deaths/1,000 live births |
+| | *female:* 6.17 deaths/1,000 live births (2013 est.) |
+| **Wallis and Futuna** | *total:* 4.55 deaths/1,000 live births |
+| | *male:* 4.79 deaths/1,000 live births |
+| | *female:* 4.3 deaths/1,000 live births (2013 est.) |
+| **West Bank** | *total:* 13.98 deaths/1,000 live births |
+| | *male:* 15.71 deaths/1,000 live births |
+| | *female:* 12.15 deaths/1,000 live births (2013 est.) |
+| **Western Sahara** | *total:* 57.5 deaths/1,000 live births |
+| | *male:* 62.51 deaths/1,000 live births |
+| | *female:* 52.3 deaths/1,000 live births (2013 est.) |
+| **World** | *total:* 37.61 deaths/1,000 live births |
+| | *male:* 39.39 deaths/1,000 live births |
+| | *female:* 35.69 deaths/1,000 live births (2013 est.) |
+| **Yemen** | *total:* 51.93 deaths/1,000 live births |
+| | *male:* 56.33 deaths/1,000 live births |
+| | *female:* 47.31 deaths/1,000 live births (2013 est.) |
+| **Zambia** | *total:* 68.58 deaths/1,000 live births |
+| | *male:* 74.16 deaths/1,000 live births |
+| | *female:* 62.84 deaths/1,000 live births (2013 est.) |
+| **Zimbabwe** | *total:* 27.25 deaths/1,000 live births |
+| | *male:* 29.63 deaths/1,000 live births |
+| | *female:* 24.79 deaths/1,000 live births (2013 est.) |

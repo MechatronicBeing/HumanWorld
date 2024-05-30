@@ -1,0 +1,243 @@
+CIA - The World Factbook -- Field Listing - Death rate
+
+| Country | Death rate (deaths/1,000 population) |
+| --- | --- |
+| **Afghanistan** | 17.15 deaths/1,000 population (2003 est.) |
+| **Albania** | 6.48 deaths/1,000 population (2003 est.) |
+| **Algeria** | 5.09 deaths/1,000 population (2003 est.) |
+| **American Samoa** | 4.38 deaths/1,000 population (2003 est.) |
+| **Andorra** | 5.74 deaths/1,000 population (2003 est.) |
+| **Angola** | 25.83 deaths/1,000 population (2003 est.) |
+| **Anguilla** | 5.42 deaths/1,000 population (2003 est.) |
+| **Antigua and Barbuda** | 5.64 deaths/1,000 population (2003 est.) |
+| **Argentina** | 7.58 deaths/1,000 population (2003 est.) |
+| **Armenia** | 10.16 deaths/1,000 population (2003 est.) |
+| **Aruba** | 6.38 deaths/1,000 population (2003 est.) |
+| **Australia** | 7.31 deaths/1,000 population (2003 est.) |
+| **Austria** | 9.69 deaths/1,000 population (2003 est.) |
+| **Azerbaijan** | 9.68 deaths/1,000 population (2003 est.) |
+| **Bahamas, The** | 8.68 deaths/1,000 population (2003 est.) |
+| **Bahrain** | 3.99 deaths/1,000 population (2003 est.) |
+| **Bangladesh** | 8.63 deaths/1,000 population (2003 est.) |
+| **Barbados** | 9.02 deaths/1,000 population (2003 est.) |
+| **Belarus** | 14.05 deaths/1,000 population (2003 est.) |
+| **Belgium** | 10.07 deaths/1,000 population (2003 est.) |
+| **Belize** | 6.05 deaths/1,000 population (2003 est.) |
+| **Benin** | 13.65 deaths/1,000 population (2003 est.) |
+| **Bermuda** | 7.46 deaths/1,000 population (2003 est.) |
+| **Bhutan** | 13.47 deaths/1,000 population (2003 est.) |
+| **Bolivia** | 7.91 deaths/1,000 population (2003 est.) |
+| **Bosnia and Herzegovina** | 8.21 deaths/1,000 population (2003 est.) |
+| **Botswana** | 31 deaths/1,000 population (2003 est.) |
+| **Brazil** | 6.13 deaths/1,000 population (2003 est.) |
+| **British Virgin Islands** | 4.46 deaths/1,000 population (2003 est.) |
+| **Brunei** | 3.39 deaths/1,000 population (2003 est.) |
+| **Bulgaria** | 14.34 deaths/1,000 population (2003 est.) |
+| **Burkina Faso** | 18.76 deaths/1,000 population (2003 est.) |
+| **Burma** | 12.17 deaths/1,000 population (2003 est.) |
+| **Burundi** | 17.8 deaths/1,000 population (2003 est.) |
+| **Cambodia** | 9.26 deaths/1,000 population (2003 est.) |
+| **Cameroon** | 15.3 deaths/1,000 population (2003 est.) |
+| **Canada** | 7.61 deaths/1,000 population (2003 est.) |
+| **Cape Verde** | 6.86 deaths/1,000 population (2003 est.) |
+| **Cayman Islands** | 4.7 deaths/1,000 population (2003 est.) |
+| **Central African Republic** | 19.73 deaths/1,000 population (2003 est.) |
+| **Chad** | 16.38 deaths/1,000 population (2003 est.) |
+| **Chile** | 5.63 deaths/1,000 population (2003 est.) |
+| **China** | 6.74 deaths/1,000 population (2003 est.) |
+| **Christmas Island** | NA deaths/1,000 population (2003 est.) |
+| **Cocos (Keeling) Islands** | NA deaths/1,000 population (2003 est.) |
+| **Colombia** | 5.63 deaths/1,000 population (2003 est.) |
+| **Comoros** | 8.86 deaths/1,000 population (2003 est.) |
+| **Congo, Democratic Republic of the** | 14.87 deaths/1,000 population (2003 est.) |
+| **Congo, Republic of the** | 14.2 deaths/1,000 population (2003 est.) |
+| **Cook Islands** | NA deaths/1,000 population (2003 est.) |
+| **Costa Rica** | 4.31 deaths/1,000 population (2003 est.) |
+| **Cote d'Ivoire** | 18.41 deaths/1,000 population (2003 est.) |
+| **Croatia** | 11.25 deaths/1,000 population (2003 est.) |
+| **Cuba** | 7.38 deaths/1,000 population (2003 est.) |
+| **Cyprus** | 7.63 deaths/1,000 population (2003 est.) |
+| **Czech Republic** | 10.74 deaths/1,000 population (2003 est.) |
+| **Denmark** | 10.72 deaths/1,000 population (2003 est.) |
+| **Djibouti** | 19.45 deaths/1,000 population (2003 est.) |
+| **Dominica** | 6.99 deaths/1,000 population (2003 est.) |
+| **Dominican Republic** | 6.88 deaths/1,000 population (2003 est.) |
+| **East Timor** | 6.41 deaths/1,000 population (2003 est.) |
+| **Ecuador** | 5.29 deaths/1,000 population (2003 est.) |
+| **Egypt** | 5.35 deaths/1,000 population (2003 est.) |
+| **El Salvador** | 6.01 deaths/1,000 population (2003 est.) |
+| **Equatorial Guinea** | 12.54 deaths/1,000 population (2003 est.) |
+| **Eritrea** | 13.23 deaths/1,000 population (2003 est.) |
+| **Estonia** | 13.42 deaths/1,000 population (2003 est.) |
+| **Ethiopia** | 20.17 deaths/1,000 population (2003 est.) |
+| **Falkland Islands (Islas Malvinas)** | NA deaths/1,000 population |
+| **Faroe Islands** | 8.7 deaths/1,000 population (2003 est.) |
+| **Fiji** | 5.7 deaths/1,000 population (2003 est.) |
+| **Finland** | 9.82 deaths/1,000 population (2003 est.) |
+| **France** | 9.05 deaths/1,000 population (2003 est.) |
+| **French Guiana** | 4.8 deaths/1,000 population (2003 est.) |
+| **French Polynesia** | 4.53 deaths/1,000 population (2003 est.) |
+| **Gabon** | 11.17 deaths/1,000 population (2003 est.) |
+| **Gambia, The** | 12.35 deaths/1,000 population (2003 est.) |
+| **Gaza Strip** | 4.03 deaths/1,000 population (2003 est.) |
+| **Georgia** | 14.71 deaths/1,000 population (2003 est.) |
+| **Germany** | 10.34 deaths/1,000 population (2003 est.) |
+| **Ghana** | 10.53 deaths/1,000 population (2003 est.) |
+| **Gibraltar** | 8.93 deaths/1,000 population (2003 est.) |
+| **Greece** | 9.86 deaths/1,000 population (2003 est.) |
+| **Greenland** | 7.66 deaths/1,000 population (2003 est.) |
+| **Grenada** | 7.46 deaths/1,000 population (2003 est.) |
+| **Guadeloupe** | 6.04 deaths/1,000 population (2003 est.) |
+| **Guam** | 4.29 deaths/1,000 population (2003 est.) |
+| **Guatemala** | 6.78 deaths/1,000 population (2003 est.) |
+| **Guernsey** | 9.84 deaths/1,000 population (2003 est.) |
+| **Guinea** | 15.7 deaths/1,000 population (2003 est.) |
+| **Guinea-Bissau** | 16.62 deaths/1,000 population (2003 est.) |
+| **Guyana** | 9.27 deaths/1,000 population (2003 est.) |
+| **Haiti** | 13.36 deaths/1,000 population (2003 est.) |
+| **Honduras** | 6.44 deaths/1,000 population (2003 est.) |
+| **Hong Kong** | 6.19 deaths/1,000 population (2003 est.) |
+| **Hungary** | 13 deaths/1,000 population (2003 est.) |
+| **Iceland** | 6.95 deaths/1,000 population (2003 est.) |
+| **India** | 8.49 deaths/1,000 population (2003 est.) |
+| **Indonesia** | 6.26 deaths/1,000 population (2003 est.) |
+| **Iran** | 5.54 deaths/1,000 population (2003 est.) |
+| **Iraq** | 5.84 deaths/1,000 population (2003 est.) |
+| **Ireland** | 7.94 deaths/1,000 population (2003 est.) |
+| **Israel** | 6.2 deaths/1,000 population (2003 est.) |
+| **Italy** | 10.12 deaths/1,000 population (2003 est.) |
+| **Jamaica** | 5.42 deaths/1,000 population (2003 est.) |
+| **Japan** | 8.55 deaths/1,000 population (2003 est.) |
+| **Jersey** | 9.17 deaths/1,000 population (2003 est.) |
+| **Jordan** | 2.62 deaths/1,000 population (2003 est.) |
+| **Kazakhstan** | 10.78 deaths/1,000 population (2003 est.) |
+| **Kenya** | 16.01 deaths/1,000 population (2003 est.) |
+| **Kiribati** | 8.63 deaths/1,000 population (2003 est.) |
+| **Korea, North** | 6.93 deaths/1,000 population (2003 est.) |
+| **Korea, South** | 6.03 deaths/1,000 population (2003 est.) |
+| **Kuwait** | 2.45 deaths/1,000 population (2003 est.) |
+| **Kyrgyzstan** | 9.1 deaths/1,000 population (2003 est.) |
+| **Laos** | 12.39 deaths/1,000 population (2003 est.) |
+| **Latvia** | 14.7 deaths/1,000 population (2003 est.) |
+| **Lebanon** | 6.32 deaths/1,000 population (2003 est.) |
+| **Lesotho** | 24.58 deaths/1,000 population (2003 est.) |
+| **Liberia** | 17.84 deaths/1,000 population (2003 est.) |
+| **Libya** | 3.49 deaths/1,000 population (2003 est.) |
+| **Liechtenstein** | 6.85 deaths/1,000 population (2003 est.) |
+| **Lithuania** | 12.89 deaths/1,000 population (2003 est.) |
+| **Luxembourg** | 8.78 deaths/1,000 population (2003 est.) |
+| **Macau** | 3.85 deaths/1,000 population (2003 est.) |
+| **Macedonia, The Former Yugoslav Republic of** | 7.78 deaths/1,000 population (2003 est.) |
+| **Madagascar** | 11.88 deaths/1,000 population (2003 est.) |
+| **Malawi** | 22.64 deaths/1,000 population (2003 est.) |
+| **Malaysia** | 5.12 deaths/1,000 population (2003 est.) |
+| **Maldives** | 7.65 deaths/1,000 population (2003 est.) |
+| **Mali** | 19.21 deaths/1,000 population (2003 est.) |
+| **Malta** | 7.8 deaths/1,000 population (2003 est.) |
+| **Man, Isle of** | 11.49 deaths/1,000 population (2003 est.) |
+| **Marshall Islands** | 5.03 deaths/1,000 population (2003 est.) |
+| **Martinique** | 6.41 deaths/1,000 population (2003 est.) |
+| **Mauritania** | 13.04 deaths/1,000 population (2003 est.) |
+| **Mauritius** | 6.81 deaths/1,000 population (2003 est.) |
+| **Mayotte** | 8.34 deaths/1,000 population (2003 est.) |
+| **Mexico** | 4.97 deaths/1,000 population (2003 est.) |
+| **Micronesia, Federated States of** | 5.1 deaths/1,000 population (2003 est.) |
+| **Moldova** | 12.7 deaths/1,000 population (2003 est.) |
+| **Monaco** | 12.82 deaths/1,000 population (2003 est.) |
+| **Mongolia** | 7.18 deaths/1,000 population (2003 est.) |
+| **Montserrat** | 7.34 deaths/1,000 population (2003 est.) |
+| **Morocco** | 5.78 deaths/1,000 population (2003 est.) |
+| **Mozambique** | 30.04 deaths/1,000 population (2003 est.) |
+| **Namibia** | 19.17 deaths/1,000 population (2003 est.) |
+| **Nauru** | 7.08 deaths/1,000 population (2003 est.) |
+| **Nepal** | 9.84 deaths/1,000 population (2003 est.) |
+| **Netherlands** | 8.66 deaths/1,000 population (2003 est.) |
+| **Netherlands Antilles** | 6.4 deaths/1,000 population (2003 est.) |
+| **New Caledonia** | 5.63 deaths/1,000 population (2003 est.) |
+| **New Zealand** | 7.54 deaths/1,000 population (2003 est.) |
+| **Nicaragua** | 4.69 deaths/1,000 population (2003 est.) |
+| **Niger** | 21.71 deaths/1,000 population (2003 est.) |
+| **Nigeria** | 13.76 deaths/1,000 population (2003 est.) |
+| **Niue** | NA deaths/1,000 population (2003 est.) |
+| **Norfolk Island** | NA deaths/1,000 population (2003 est.) |
+| **Northern Mariana Islands** | 2.44 deaths/1,000 population (2003 est.) |
+| **Norway** | 9.72 deaths/1,000 population (2003 est.) |
+| **Oman** | 3.97 deaths/1,000 population (2003 est.) |
+| **Pakistan** | 8.79 deaths/1,000 population (2003 est.) |
+| **Palau** | 7 deaths/1,000 population (2003 est.) |
+| **Panama** | 6.25 deaths/1,000 population (2003 est.) |
+| **Papua New Guinea** | 7.63 deaths/1,000 population (2003 est.) |
+| **Paraguay** | 4.64 deaths/1,000 population (2003 est.) |
+| **Peru** | 5.69 deaths/1,000 population (2003 est.) |
+| **Philippines** | 5.6 deaths/1,000 population (2003 est.) |
+| **Pitcairn Islands** | NA deaths/1,000 population (2003 est.) |
+| **Poland** | 9.96 deaths/1,000 population (2003 est.) |
+| **Portugal** | 10.21 deaths/1,000 population (2003 est.) |
+| **Puerto Rico** | 7.68 deaths/1,000 population (2003 est.) |
+| **Qatar** | 4.43 deaths/1,000 population (2003 est.) |
+| **Reunion** | 5.49 deaths/1,000 population (2003 est.) |
+| **Romania** | 12.25 deaths/1,000 population (2003 est.) |
+| **Russia** | 13.99 deaths/1,000 population (2003 est.) |
+| **Rwanda** | 21.72 deaths/1,000 population (2003 est.) |
+| **Saint Helena** | 6.24 deaths/1,000 population (2003 est.) |
+| **Saint Kitts and Nevis** | 8.85 deaths/1,000 population (2003 est.) |
+| **Saint Lucia** | 5.24 deaths/1,000 population (2003 est.) |
+| **Saint Pierre and Miquelon** | 6.74 deaths/1,000 population (2003 est.) |
+| **Saint Vincent and the Grenadines** | 6.08 deaths/1,000 population (2003 est.) |
+| **Samoa** | 6.41 deaths/1,000 population (2003 est.) |
+| **San Marino** | 7.86 deaths/1,000 population (2003 est.) |
+| **Sao Tome and Principe** | 7.11 deaths/1,000 population (2003 est.) |
+| **Saudi Arabia** | 5.79 deaths/1,000 population (2003 est.) |
+| **Senegal** | 10.88 deaths/1,000 population (2003 est.) |
+| **Serbia and Montenegro** | 10.62 deaths/1,000 population (2003 est.) |
+| **Seychelles** | 6.49 deaths/1,000 population (2003 est.) |
+| **Sierra Leone** | 20.66 deaths/1,000 population (2003 est.) |
+| **Singapore** | 4.31 deaths/1,000 population (2003 est.) |
+| **Slovakia** | 9.22 deaths/1,000 population (2003 est.) |
+| **Slovenia** | 10.15 deaths/1,000 population (2003 est.) |
+| **Solomon Islands** | 4.12 deaths/1,000 population (2003 est.) |
+| **Somalia** | 17.64 deaths/1,000 population (2003 est.) |
+| **South Africa** | 18.42 deaths/1,000 population (2003 est.) |
+| **Spain** | 9.48 deaths/1,000 population (2003 est.) |
+| **Sri Lanka** | 6.46 deaths/1,000 population (2003 est.) |
+| **Sudan** | 9.59 deaths/1,000 population (2003 est.) |
+| **Suriname** | 6.83 deaths/1,000 population (2003 est.) |
+| **Svalbard** | NA deaths/1,000 population (2003 est.) |
+| **Swaziland** | 21.08 deaths/1,000 population (2003 est.) |
+| **Sweden** | 10.58 deaths/1,000 population (2003 est.) |
+| **Switzerland** | 8.82 deaths/1,000 population (2003 est.) |
+| **Syria** | 5.04 deaths/1,000 population (2003 est.) |
+| **Taiwan** | 6.2 deaths/1,000 population (2003 est.) |
+| **Tajikistan** | 8.46 deaths/1,000 population (2003 est.) |
+| **Tanzania** | 17.38 deaths/1,000 population (2003 est.) |
+| **Thailand** | 6.86 deaths/1,000 population (2003 est.) |
+| **Togo** | 11.51 deaths/1,000 population (2003 est.) |
+| **Tokelau** | NA deaths/1,000 population (2003 est.) |
+| **Tonga** | 5.54 deaths/1,000 population (2003 est.) |
+| **Trinidad and Tobago** | 8.71 deaths/1,000 population (2003 est.) |
+| **Tunisia** | 5.02 deaths/1,000 population (2003 est.) |
+| **Turkey** | 5.95 deaths/1,000 population (2003 est.) |
+| **Turkmenistan** | 8.87 deaths/1,000 population (2003 est.) |
+| **Turks and Caicos Islands** | 4.34 deaths/1,000 population (2003 est.) |
+| **Tuvalu** | 7.34 deaths/1,000 population (2003 est.) |
+| **Uganda** | 16.95 deaths/1,000 population (2003 est.) |
+| **Ukraine** | 16.39 deaths/1,000 population (2003 est.) |
+| **United Arab Emirates** | 4.02 deaths/1,000 population (2003 est.) |
+| **United Kingdom** | 10.21 deaths/1,000 population (2003 est.) |
+| **United States** | 8.44 deaths/1,000 population (2003 est.) |
+| **Uruguay** | 8.97 deaths/1,000 population (2003 est.) |
+| **Uzbekistan** | 7.97 deaths/1,000 population (2003 est.) |
+| **Vanuatu** | 8.13 deaths/1,000 population (2003 est.) |
+| **Venezuela** | 4.9 deaths/1,000 population (2003 est.) |
+| **Vietnam** | 6.19 deaths/1,000 population (2003 est.) |
+| **Virgin Islands** | 5.68 deaths/1,000 population (2003 est.) |
+| **Wallis and Futuna** | NA deaths/1,000 population (2003 est.) |
+| **West Bank** | 4.16 deaths/1,000 population (2003 est.) |
+| **Western Sahara** | NA deaths/1,000 population (2003 est.) |
+| **World** | 8.83 deaths/1,000 population (2003 est.) |
+| **Yemen** | 9.04 deaths/1,000 population (2003 est.) |
+| **Zambia** | 24.3 deaths/1,000 population (2003 est.) |
+| **Zimbabwe** | 22.02 deaths/1,000 population (2003 est.) |
+
+This page was last updated on 18 December, 2003
+ 

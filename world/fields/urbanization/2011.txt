@@ -1,0 +1,463 @@
+CIA - The World Factbook -- Field Listing :: Urbanization   
+
+This entry provides two measures of the degree of urbanization of a population. The first, urban population, describes the percentage of the total population living in urban areas, as defined by the country. The second, rate of urbanization, describes the projected average rate of change of the size of the urban population over the given period of time. Additionally, the World entry includes a list of the ten largest urban agglomerations. An urban agglomeration is defined as comprising the city or town proper and also the suburban fringe or thickly settled territory lying outside of, but adjacent to, the boundaries of the city.
+
+| Country | Urbanization(%) |
+| --- | --- |
+| **Afghanistan** | *urban population:* 23% of total population (2010) |
+| | *rate of urbanization:* 4.7% annual rate of change (2010-15 est.) |
+| **Albania** | *urban population:* 52% of total population (2010) |
+| | *rate of urbanization:* 2.3% annual rate of change (2010-15 est.) |
+| **Algeria** | *urban population:* 66% of total population (2010) |
+| | *rate of urbanization:* 2.3% annual rate of change (2010-15 est.) |
+| **American Samoa** | *urban population:* 93% of total population (2010) |
+| | *rate of urbanization:* 1.8% annual rate of change (2010-15 est.) |
+| **Andorra** | *urban population:* 88% of total population (2010) |
+| | *rate of urbanization:* 1.1% annual rate of change (2010-15 est.) |
+| **Angola** | *urban population:* 59% of total population (2010) |
+| | *rate of urbanization:* 4% annual rate of change (2010-15 est.) |
+| **Anguilla** | *urban population:* 100% of total population (2010) |
+| | *rate of urbanization:* 1.7% annual rate of change (2010-15 est.) |
+| **Antigua and Barbuda** | *urban population:* 30% of total population (2010) |
+| | *rate of urbanization:* 1.4% annual rate of change (2010-15 est.) |
+| **Argentina** | *urban population:* 92% of total population (2010) |
+| | *rate of urbanization:* 1.1% annual rate of change (2010-15 est.) |
+| **Armenia** | *urban population:* 64% of total population (2010) |
+| | *rate of urbanization:* 0.5% annual rate of change (2010-15 est.) |
+| **Aruba** | *urban population:* 47% of total population (2010) |
+| | *rate of urbanization:* 0.6% annual rate of change (2010-15 est.) |
+| **Australia** | *urban population:* 89% of total population (2010) |
+| | *rate of urbanization:* 1.2% annual rate of change (2010-15 est.) |
+| **Austria** | *urban population:* 68% of total population (2010) |
+| | *rate of urbanization:* 0.6% annual rate of change (2010-15 est.) |
+| **Azerbaijan** | *urban population:* 52% of total population (2010) |
+| | *rate of urbanization:* 1.4% annual rate of change (2010-15 est.) |
+| **Bahamas, The** | *urban population:* 84% of total population (2010) |
+| | *rate of urbanization:* 1.3% annual rate of change (2010-15 est.) |
+| **Bahrain** | *urban population:* 89% of total population (2010) |
+| | *rate of urbanization:* 1.8% annual rate of change (2010-15 est.) |
+| **Bangladesh** | *urban population:* 28% of total population (2010) |
+| | *rate of urbanization:* 3.1% annual rate of change (2010-15 est.) |
+| **Barbados** | *urban population:* 44% of total population (2010) |
+| | *rate of urbanization:* 1.7% annual rate of change (2010-15 est.) |
+| **Belarus** | *urban population:* 75% of total population (2010) |
+| | *rate of urbanization:* 0.1% annual rate of change (2010-15 est.) |
+| **Belgium** | *urban population:* 97% of total population (2010) |
+| | *rate of urbanization:* 0.4% annual rate of change (2010-15 est.) |
+| **Belize** | *urban population:* 52% of total population (2010) |
+| | *rate of urbanization:* 2.7% annual rate of change (2010-15 est.) |
+| **Benin** | *urban population:* 42% of total population (2010) |
+| | *rate of urbanization:* 4% annual rate of change (2010-15 est.) |
+| **Bermuda** | *urban population:* 100% of total population (2010) |
+| | *rate of urbanization:* 0.2% annual rate of change (2010-15 est.) |
+| **Bhutan** | *urban population:* 35% of total population (2010) |
+| | *rate of urbanization:* 3.7% annual rate of change (2010-15 est.) |
+| **Bolivia** | *urban population:* 67% of total population (2010) |
+| | *rate of urbanization:* 2.2% annual rate of change (2010-15 est.) |
+| **Bosnia and Herzegovina** | *urban population:* 49% of total population (2010) |
+| | *rate of urbanization:* 1.1% annual rate of change (2010-15 est.) |
+| **Botswana** | *urban population:* 61% of total population (2010) |
+| | *rate of urbanization:* 2.3% annual rate of change (2010-15 est.) |
+| **Brazil** | *urban population:* 87% of total population (2010) |
+| | *rate of urbanization:* 1.1% annual rate of change (2010-15 est.) |
+| **British Virgin Islands** | *urban population:* 41% of total population (2010) |
+| | *rate of urbanization:* 1.7% annual rate of change (2010-15 est.) |
+| **Brunei** | *urban population:* 76% of total population (2010) |
+| | *rate of urbanization:* 2.2% annual rate of change (2010-15 est.) |
+| **Bulgaria** | *urban population:* 71% of total population (2010) |
+| | *rate of urbanization:* -0.3% annual rate of change (2010-15 est.) |
+| **Burkina Faso** | *urban population:* 26% of total population (2010) |
+| | *rate of urbanization:* 6.2% annual rate of change (2010-15 est.) |
+| **Burma** | *urban population:* 34% of total population (2010) |
+| | *rate of urbanization:* 2.9% annual rate of change (2010-15 est.) |
+| **Burundi** | *urban population:* 11% of total population (2010) |
+| | *rate of urbanization:* 4.9% annual rate of change (2010-15 est.) |
+| **Cambodia** | *urban population:* 20% of total population (2010) |
+| | *rate of urbanization:* 3.2% annual rate of change (2010-15 est.) |
+| **Cameroon** | *urban population:* 58% of total population (2010) |
+| | *rate of urbanization:* 3.3% annual rate of change (2010-15 est.) |
+| **Canada** | *urban population:* 81% of total population (2010) |
+| | *rate of urbanization:* 1.1% annual rate of change (2010-15 est.) |
+| **Cape Verde** | *urban population:* 61% of total population (2010) |
+| | *rate of urbanization:* 2.4% annual rate of change (2010-15 est.) |
+| **Cayman Islands** | *urban population:* 100% of total population (2010) |
+| | *rate of urbanization:* 0.9% annual rate of change (2010-15 est.) |
+| **Central African Republic** | *urban population:* 39% of total population (2010) |
+| | *rate of urbanization:* 2.5% annual rate of change (2010-15 est.) |
+| **Chad** | *urban population:* 28% of total population (2010) |
+| | *rate of urbanization:* 4.6% annual rate of change (2010-15 est.) |
+| **Chile** | *urban population:* 89% of total population (2010) |
+| | *rate of urbanization:* 1.1% annual rate of change (2010-15 est.) |
+| **China** | *urban population:* 47% of total population (2010) |
+| | *rate of urbanization:* 2.3% annual rate of change (2010-15 est.) |
+| **Colombia** | *urban population:* 75% of total population (2010) |
+| | *rate of urbanization:* 1.7% annual rate of change (2010-15 est.) |
+| **Comoros** | *urban population:* 28% of total population (2010) |
+| | *rate of urbanization:* 2.8% annual rate of change (2010-15 est.) |
+| **Congo, Democratic Republic of the** | *urban population:* 35% of total population (2010) |
+| | *rate of urbanization:* 4.5% annual rate of change (2010-15 est.) |
+| **Congo, Republic of the** | *urban population:* 62% of total population (2010) |
+| | *rate of urbanization:* 3% annual rate of change (2010-15 est.) |
+| **Cook Islands** | *urban population:* 75% of total population (2008) |
+| | *rate of urbanization:* 1.4% annual rate of change (2010-15 est.) |
+| **Costa Rica** | *urban population:* 64% of total population (2010) |
+| | *rate of urbanization:* 2.1% annual rate of change (2010-15 est.) |
+| **Cote d'Ivoire** | *urban population:* 51% of total population (2010) |
+| | *rate of urbanization:* 3.7% annual rate of change (2010-15 est.) |
+| **Croatia** | *urban population:* 58% of total population (2010) |
+| | *rate of urbanization:* 0.4% annual rate of change (2010-15 est.) |
+| **Cuba** | *urban population:* 75% of total population (2010) |
+| | *rate of urbanization:* 0% annual rate of change (2010-15 est.) |
+| **Cyprus** | *urban population:* 70% of total population (2010) |
+| | *rate of urbanization:* 1.3% annual rate of change (2010-15 est.) |
+| **Czech Republic** | *urban population:* 74% of total population (2010) |
+| | *rate of urbanization:* 0.3% annual rate of change (2010-15 est.) |
+| **Denmark** | *urban population:* 87% of total population (2010) |
+| | *rate of urbanization:* 0.4% annual rate of change (2010-15 est.) |
+| **Djibouti** | *urban population:* 76% of total population (2010) |
+| | *rate of urbanization:* 1.8% annual rate of change (2010-15 est.) |
+| **Dominica** | *urban population:* 67% of total population (2010) |
+| | *rate of urbanization:* 0.3% annual rate of change (2010-15 est.) |
+| **Dominican Republic** | *urban population:* 69% of total population (2010) |
+| | *rate of urbanization:* 2.1% annual rate of change (2010-15 est.) |
+| **Ecuador** | *urban population:* 67% of total population (2010) |
+| | *rate of urbanization:* 2% annual rate of change (2010-15 est.) |
+| **Egypt** | *urban population:* 43.4% of total population (2010) |
+| | *rate of urbanization:* 2.1% annual rate of change (2010-15 est.) |
+| **El Salvador** | *urban population:* 64% of total population (2010) |
+| | *rate of urbanization:* 1.4% annual rate of change (2010-15 est.) |
+| **Equatorial Guinea** | *urban population:* 40% of total population (2010) |
+| | *rate of urbanization:* 3.1% annual rate of change (2010-15 est.) |
+| **Eritrea** | *urban population:* 22% of total population (2010) |
+| | *rate of urbanization:* 5.2% annual rate of change (2010-15 est.) |
+| **Estonia** | *urban population:* 69% of total population (2010) |
+| | *rate of urbanization:* 0.1% annual rate of change (2010-15 est.) |
+| **Ethiopia** | *urban population:* 17% of total population (2010) |
+| | *rate of urbanization:* 3.8% annual rate of change (2010-15 est.) |
+| **Falkland Islands (Islas Malvinas)** | *urban population:* 74% of total population (2010) |
+| | *rate of urbanization:* 0.9% annual rate of change (2010-15 est.) |
+| **Faroe Islands** | *urban population:* 40% of total population (2010) |
+| | *rate of urbanization:* 0.9% annual rate of change (2010-15 est.) |
+| **Fiji** | *urban population:* 52% of total population (2010) |
+| | *rate of urbanization:* 1.3% annual rate of change (2010-15 est.) |
+| **Finland** | *urban population:* 85% of total population (2010) |
+| | *rate of urbanization:* 0.6% annual rate of change (2010-15 est.) |
+| **France** | *urban population:* 85% of total population (2010) |
+| | *rate of urbanization:* 1% annual rate of change (2010-15 est.) |
+| **French Polynesia** | *urban population:* 51% of total population (2010) |
+| | *rate of urbanization:* 1.3% annual rate of change (2010-15 est.) |
+| **Gabon** | *urban population:* 86% of total population (2010) |
+| | *rate of urbanization:* 2.1% annual rate of change (2010-15 est.) |
+| **Gambia, The** | *urban population:* 58% of total population (2010) |
+| | *rate of urbanization:* 3.7% annual rate of change (2010-15 est.) |
+| **Gaza Strip** | *urban population:* 72% of total population (2008) |
+| | *rate of urbanization:* 3.3% annual rate of change (2005-10 est.) |
+| **Georgia** | *urban population:* 53% of total population (2010) |
+| | *rate of urbanization:* -0.4% annual rate of change (2010-15 est.) |
+| **Germany** | *urban population:* 74% of total population (2010) |
+| | *rate of urbanization:* 0% annual rate of change (2010-15 est.) |
+| **Ghana** | *urban population:* 51% of total population (2010) |
+| | *rate of urbanization:* 3.4% annual rate of change (2010-15 est.) |
+| **Gibraltar** | *urban population:* 100% of total population (2010) |
+| | *rate of urbanization:* 0.2% annual rate of change (2010-15 est.) |
+| **Greece** | *urban population:* 61% of total population (2010) |
+| | *rate of urbanization:* 0.6% annual rate of change (2010-15 est.) |
+| **Greenland** | *urban population:* 84% of total population (2010) |
+| | *rate of urbanization:* 0.3% annual rate of change (2010-15 est.) |
+| **Grenada** | *urban population:* 39% of total population (2010) |
+| | *rate of urbanization:* 1.6% annual rate of change (2010-15 est.) |
+| **Guam** | *urban population:* 93% of total population (2010) |
+| | *rate of urbanization:* 1.2% annual rate of change (2010-15 est.) |
+| **Guatemala** | *urban population:* 49% of total population (2010) |
+| | *rate of urbanization:* 3.4% annual rate of change (2010-15 est.) |
+| **Guernsey** | *urban population:* 31% of total population (2010) |
+| | *rate of urbanization:* 0.8% annual rate of change (2010-15 est.) |
+| **Guinea** | *urban population:* 35% of total population (2010) |
+| | *rate of urbanization:* 4.3% annual rate of change (2010-15 est.) |
+| **Guinea-Bissau** | *urban population:* 30% of total population (2010) |
+| | *rate of urbanization:* 3% annual rate of change (2010-15 est.) |
+| **Guyana** | *urban population:* 29% of total population (2010) |
+| | *rate of urbanization:* 0.5% annual rate of change (2010-15 est.) |
+| **Haiti** | *urban population:* 52% of total population (2010) |
+| | *rate of urbanization:* 3.9% annual rate of change (2010-15 est.) |
+| **Holy See (Vatican City)** | *urban population:* 100% of total population (2010) |
+| | *rate of urbanization:* 0.1% annual rate of change (2010-15 est.) |
+| **Honduras** | *urban population:* 52% of total population (2010) |
+| | *rate of urbanization:* 3.1% annual rate of change (2010-15 est.) |
+| **Hong Kong** | *urban population:* 100% of total population (2010) |
+| | *rate of urbanization:* 0.9% annual rate of change (2010-15 est.) |
+| **Hungary** | *urban population:* 68% of total population (2010) |
+| | *rate of urbanization:* 0.3% annual rate of change (2010-15 est.) |
+| **Iceland** | *urban population:* 93% of total population (2010) |
+| | *rate of urbanization:* 1.5% annual rate of change (2010-15 est.) |
+| **India** | *urban population:* 30% of total population (2010) |
+| | *rate of urbanization:* 2.4% annual rate of change (2010-15 est.) |
+| **Indonesia** | *urban population:* 44% of total population (2010) |
+| | *rate of urbanization:* 1.7% annual rate of change (2010-15 est.) |
+| **Iran** | *urban population:* 71% of total population (2010) |
+| | *rate of urbanization:* 1.9% annual rate of change (2010-15 est.) |
+| **Iraq** | *urban population:* 66% of total population (2010) |
+| | *rate of urbanization:* 2.6% annual rate of change (2010-15 est.) |
+| **Ireland** | *urban population:* 62% of total population (2010) |
+| | *rate of urbanization:* 1.8% annual rate of change (2010-15 est.) |
+| **Isle of Man** | *urban population:* 51% of total population (2010) |
+| | *rate of urbanization:* 0% annual rate of change (2010-15 est.) |
+| **Israel** | *urban population:* 92% of total population (2010) |
+| | *rate of urbanization:* 1.5% annual rate of change (2010-15 est.) |
+| **Italy** | *urban population:* 68% of total population (2010) |
+| | *rate of urbanization:* 0.5% annual rate of change (2010-15 est.) |
+| **Jamaica** | *urban population:* 52% of total population (2010) |
+| | *rate of urbanization:* 0.6% annual rate of change (2010-15 est.) |
+| **Japan** | *urban population:* 67% of total population (2010) |
+| | *rate of urbanization:* 0.2% annual rate of change (2010-15 est.) |
+| **Jersey** | *urban population:* 31% of total population (2010) |
+| | *rate of urbanization:* 0.8% annual rate of change (2010-15 est.) |
+| **Jordan** | *urban population:* 79% of total population (2010) |
+| | *rate of urbanization:* 1.6% annual rate of change (2010-15 est.) |
+| **Kazakhstan** | *urban population:* 59% of total population (2010) |
+| | *rate of urbanization:* 1.3% annual rate of change (2010-15 est.) |
+| **Kenya** | *urban population:* 22% of total population (2010) |
+| | *rate of urbanization:* 4.2% annual rate of change (2010-15 est.) |
+| **Kiribati** | *urban population:* 44% of total population (2010) |
+| | *rate of urbanization:* 1.9% annual rate of change (2010-15 est.) |
+| **Korea, North** | *urban population:* 60% of total population (2010) |
+| | *rate of urbanization:* 0.6% annual rate of change (2010-15 est.) |
+| **Korea, South** | *urban population:* 83% of total population (2010) |
+| | *rate of urbanization:* 0.6% annual rate of change (2010-15 est.) |
+| **Kuwait** | *urban population:* 98% of total population (2010) |
+| | *rate of urbanization:* 2.1% annual rate of change (2010-15 est.) |
+| **Kyrgyzstan** | *urban population:* 35% of total population (2010) |
+| | *rate of urbanization:* 1.3% annual rate of change (2010-15 est.) |
+| **Laos** | *urban population:* 33% of total population (2010) |
+| | *rate of urbanization:* 4.9% annual rate of change (2010-15 est.) |
+| **Latvia** | *urban population:* 68% of total population (2010) |
+| | *rate of urbanization:* -0.4% annual rate of change (2010-15 est.) |
+| **Lebanon** | *urban population:* 87% of total population (2010) |
+| | *rate of urbanization:* 0.9% annual rate of change (2010-15 est.) |
+| **Lesotho** | *urban population:* 27% of total population (2010) |
+| | *rate of urbanization:* 3.4% annual rate of change (2010-15 est.) |
+| **Liberia** | *urban population:* 48% of total population (2010) |
+| | *rate of urbanization:* 3.4% annual rate of change (2010-15 est.) |
+| **Libya** | *urban population:* 78% of total population (2010) |
+| | *rate of urbanization:* 2.1% annual rate of change (2010-15 est.) |
+| **Liechtenstein** | *urban population:* 14% of total population (2010) |
+| | *rate of urbanization:* 0.9% annual rate of change (2010-15 est.) |
+| **Lithuania** | *urban population:* 67% of total population (2010) |
+| | *rate of urbanization:* -0.5% annual rate of change (2010-15 est.) |
+| **Luxembourg** | *urban population:* 85% of total population (2010) |
+| | *rate of urbanization:* 1.4% annual rate of change (2010-15 est.) |
+| **Macau** | *urban population:* 100% of total population (2010) |
+| | *rate of urbanization:* 0.7% annual rate of change (2010-15 est.) |
+| **Macedonia** | *urban population:* 59% of total population (2010) |
+| | *rate of urbanization:* 0.3% annual rate of change (2010-15 est.) |
+| **Madagascar** | *urban population:* 30% of total population (2010) |
+| | *rate of urbanization:* 3.9% annual rate of change (2010-15 est.) |
+| **Malawi** | *urban population:* 20% of total population (2010) |
+| | *rate of urbanization:* 5.3% annual rate of change (2010-15 est.) |
+| **Malaysia** | *urban population:* 72% of total population (2010) |
+| | *rate of urbanization:* 2.4% annual rate of change (2010-15 est.) |
+| **Maldives** | *urban population:* 40% of total population (2010) |
+| | *rate of urbanization:* 4.2% annual rate of change (2010-15 est.) |
+| **Mali** | *urban population:* 36% of total population (2010) |
+| | *rate of urbanization:* 4.4% annual rate of change (2010-15 est.) |
+| **Malta** | *urban population:* 95% of total population (2010) |
+| | *rate of urbanization:* 0.5% annual rate of change (2010-15 est.) |
+| **Marshall Islands** | *urban population:* 72% of total population (2010) |
+| | *rate of urbanization:* 2.3% annual rate of change (2010-15 est.) |
+| **Mauritania** | *urban population:* 41% of total population (2010) |
+| | *rate of urbanization:* 2.9% annual rate of change (2010-15 est.) |
+| **Mauritius** | *urban population:* 42% of total population (2010) |
+| | *rate of urbanization:* 0.8% annual rate of change (2010-15 est.) |
+| **Mexico** | *urban population:* 78% of total population (2010) |
+| | *rate of urbanization:* 1.2% annual rate of change (2010-15 est.) |
+| | *note:* Mexico City is the second-largest urban agglomeration in the Western Hemisphere, after Sao Paulo (Brazil), but before New York-Newark (US) |
+| **Micronesia, Federated States of** | *urban population:* 23% of total population (2010) |
+| | *rate of urbanization:* 1.3% annual rate of change (2010-15 est.) |
+| **Moldova** | *urban population:* 47% of total population (2010) |
+| | *rate of urbanization:* 0.9% annual rate of change (2010-15 est.) |
+| **Monaco** | *urban population:* 100% of total population (2010) |
+| | *rate of urbanization:* 0.3% annual rate of change (2010-15 est.) |
+| **Mongolia** | *urban population:* 62% of total population (2010) |
+| | *rate of urbanization:* 1.9% annual rate of change (2010-15 est.) |
+| **Montenegro** | *urban population:* 61% of total population (2010) |
+| | *rate of urbanization:* 0.1% annual rate of change (2010-15 est.) |
+| **Montserrat** | *urban population:* 14% of total population (2010) |
+| | *rate of urbanization:* 2.4% annual rate of change (2010-15 est.) |
+| **Morocco** | *urban population:* 58% of total population (2010) |
+| | *rate of urbanization:* 2.1% annual rate of change (2010-15 est.) |
+| **Mozambique** | *urban population:* 38% of total population (2010) |
+| | *rate of urbanization:* 4% annual rate of change (2010-15 est.) |
+| **Namibia** | *urban population:* 38% of total population (2010) |
+| | *rate of urbanization:* 3.3% annual rate of change (2010-15 est.) |
+| **Nauru** | *urban population:* 100% of total population (2010) |
+| | *rate of urbanization:* 0.6% annual rate of change (2010-15 est.) |
+| **Nepal** | *urban population:* 19% of total population (2010) |
+| | *rate of urbanization:* 4.7% annual rate of change (2010-15 est.) |
+| **Netherlands** | *urban population:* 83% of total population (2010) |
+| | *rate of urbanization:* 0.8% annual rate of change (2010-15 est.) |
+| **New Caledonia** | *urban population:* 57% of total population (2010) |
+| | *rate of urbanization:* 1.4% annual rate of change (2010-15 est.) |
+| **New Zealand** | *urban population:* 86% of total population (2010) |
+| | *rate of urbanization:* 0.9% annual rate of change (2010-15 est.) |
+| **Nicaragua** | *urban population:* 57% of total population (2010) |
+| | *rate of urbanization:* 2% annual rate of change (2010-15 est.) |
+| **Niger** | *urban population:* 17% of total population (2010) |
+| | *rate of urbanization:* 4.7% annual rate of change (2010-15 est.) |
+| **Nigeria** | *urban population:* 50% of total population (2010) |
+| | *rate of urbanization:* 3.5% annual rate of change (2010-15 est.) |
+| **Niue** | *urban population:* 38% of total population (2010) |
+| | *rate of urbanization:* -1.3% annual rate of change (2010-15 est.) |
+| **Northern Mariana Islands** | *urban population:* 91% of total population (2010) |
+| | *rate of urbanization:* 1.7% annual rate of change (2010-15 est.) |
+| **Norway** | *urban population:* 79% of total population (2010) |
+| | *rate of urbanization:* 1.2% annual rate of change (2010-15 est.) |
+| **Oman** | *urban population:* 73% of total population (2010) |
+| | *rate of urbanization:* 2.3% annual rate of change (2010-15 est.) |
+| **Pakistan** | *urban population:* 36% of total population (2010) |
+| | *rate of urbanization:* 3.1% annual rate of change (2010-15 est.) |
+| **Palau** | *urban population:* 83% of total population (2010) |
+| | *rate of urbanization:* 1.4% annual rate of change (2010-15 est.) |
+| **Panama** | *urban population:* 75% of total population (2010) |
+| | *rate of urbanization:* 2.3% annual rate of change (2010-15 est.) |
+| **Papua New Guinea** | *urban population:* 13% of total population (2010) |
+| | *rate of urbanization:* 2.9% annual rate of change (2010-15 est.) |
+| **Paraguay** | *urban population:* 61% of total population (2010) |
+| | *rate of urbanization:* 2.5% annual rate of change (2010-15 est.) |
+| **Peru** | *urban population:* 77% of total population (2010) |
+| | *rate of urbanization:* 1.6% annual rate of change (2010-15 est.) |
+| **Philippines** | *urban population:* 49% of total population (2010) |
+| | *rate of urbanization:* 2.3% annual rate of change (2010-15 est.) |
+| **Pitcairn Islands** | *urban population:* 0% of total population (2010) |
+| | *rate of urbanization:* 0% annual rate of change (2010-15 est.) |
+| **Poland** | *urban population:* 61% of total population (2010) |
+| | *rate of urbanization:* -0.1% annual rate of change (2010-15 est.) |
+| **Portugal** | *urban population:* 61% of total population (2010) |
+| | *rate of urbanization:* 1% annual rate of change (2010-15 est.) |
+| **Puerto Rico** | *urban population:* 99% of total population (2010) |
+| | *rate of urbanization:* 0.5% annual rate of change (2010-15 est.) |
+| **Qatar** | *urban population:* 96% of total population (2010) |
+| | *rate of urbanization:* 1.6% annual rate of change (2010-15 est.) |
+| **Romania** | *urban population:* 57% of total population (2010) |
+| | *rate of urbanization:* 0.6% annual rate of change (2010-15 est.) |
+| **Russia** | *urban population:* 73% of total population (2010) |
+| | *rate of urbanization:* -0.2% annual rate of change (2010-15 est.) |
+| **Rwanda** | *urban population:* 19% of total population (2010) |
+| | *rate of urbanization:* 4.4% annual rate of change (2010-15 est.) |
+| **Saint Helena, Ascension, and Tristan da Cunha** | *urban population:* 40% of total population (2010) |
+| | *rate of urbanization:* -0.3% annual rate of change (2010-15 est.) |
+| **Saint Kitts and Nevis** | *urban population:* 32% of total population (2010) |
+| | *rate of urbanization:* 1.8% annual rate of change (2010-15 est.) |
+| **Saint Lucia** | *urban population:* 28% of total population (2010) |
+| | *rate of urbanization:* 1.6% annual rate of change (2010-15 est.) |
+| **Saint Pierre and Miquelon** | *urban population:* 91% of total population (2010) |
+| | *rate of urbanization:* 0.1% annual rate of change (2010-15 est.) |
+| **Saint Vincent and the Grenadines** | *urban population:* 49% of total population (2010) |
+| | *rate of urbanization:* 1% annual rate of change (2010-15 est.) |
+| **Samoa** | *urban population:* 20% of total population (2010) |
+| | *rate of urbanization:* 0% annual rate of change (2010-15 est.) |
+| **San Marino** | *urban population:* 94% of total population (2010) |
+| | *rate of urbanization:* 0.6% annual rate of change (2010-15 est.) |
+| **Sao Tome and Principe** | *urban population:* 62% of total population (2010) |
+| | *rate of urbanization:* 2.8% annual rate of change (2010-15 est.) |
+| **Saudi Arabia** | *urban population:* 82% of total population (2010) |
+| | *rate of urbanization:* 2.2% annual rate of change (2010-15 est.) |
+| **Senegal** | *urban population:* 42% of total population (2010) |
+| | *rate of urbanization:* 3.3% annual rate of change (2010-15 est.) |
+| **Serbia** | *urban population:* 56% of total population (2010) |
+| | *rate of urbanization:* 0.6% annual rate of change (2010-15 est.) |
+| **Seychelles** | *urban population:* 55% of total population (2010) |
+| | *rate of urbanization:* 1.3% annual rate of change (2010-15 est.) |
+| **Sierra Leone** | *urban population:* 38% of total population (2010) |
+| | *rate of urbanization:* 3.3% annual rate of change (2010-15 est.) |
+| **Singapore** | *urban population:* 100% of total population (2010) |
+| | *rate of urbanization:* 0.9% annual rate of change (2010-15 est.) |
+| **Slovakia** | *urban population:* 55% of total population (2010) |
+| | *rate of urbanization:* 0.1% annual rate of change (2010-15 est.) |
+| **Slovenia** | *urban population:* 50% of total population (2010) |
+| | *rate of urbanization:* 0.2% annual rate of change (2010-15 est.) |
+| **Solomon Islands** | *urban population:* 19% of total population (2010) |
+| | *rate of urbanization:* 4.2% annual rate of change (2010-15 est.) |
+| **Somalia** | *urban population:* 37% of total population (2010) |
+| | *rate of urbanization:* 4.1% annual rate of change (2010-15 est.) |
+| **South Africa** | *urban population:* 62% of total population (2010) |
+| | *rate of urbanization:* 1.2% annual rate of change (2010-15 est.) |
+| **South Sudan** | *urban population:* 22% (2009 est.) |
+| **Spain** | *urban population:* 77% of total population (2010) |
+| | *rate of urbanization:* 1% annual rate of change (2010-15 est.) |
+| **Sri Lanka** | *urban population:* 14% of total population (2010) |
+| | *rate of urbanization:* 1.1% annual rate of change (2010-15 est.) |
+| **Sudan** | *urban population:* 40% of total population (2010) |
+| | *rate of urbanization:* 3.7% annual rate of change (2010-15 est.) |
+| **Suriname** | *urban population:* 69% of total population (2010) |
+| | *rate of urbanization:* 1.5% annual rate of change (2010-15 est.) |
+| **Swaziland** | *urban population:* 21% of total population (2010) |
+| | *rate of urbanization:* 1.5% annual rate of change (2010-15 est.) |
+| **Sweden** | *urban population:* 85% of total population (2010) |
+| | *rate of urbanization:* 0.6% annual rate of change (2010-15 est.) |
+| **Switzerland** | *urban population:* 74% of total population (2010) |
+| | *rate of urbanization:* 0.5% annual rate of change (2010-15 est.) |
+| **Syria** | *urban population:* 56% of total population (2010) |
+| | *rate of urbanization:* 2.5% annual rate of change (2010-15 est.) |
+| **Tajikistan** | *urban population:* 26% of total population (2010) |
+| | *rate of urbanization:* 2.2% annual rate of change (2010-15 est.) |
+| **Tanzania** | *urban population:* 26% of total population (2010) |
+| | *rate of urbanization:* 4.7% annual rate of change (2010-15 est.) |
+| **Thailand** | *urban population:* 34% of total population (2010) |
+| | *rate of urbanization:* 1.8% annual rate of change (2010-15 est.) |
+| **Timor-Leste** | *urban population:* 28% of total population (2010) |
+| | *rate of urbanization:* 5% annual rate of change (2010-15 est.) |
+| **Togo** | *urban population:* 43% of total population (2010) |
+| | *rate of urbanization:* 3.9% annual rate of change (2010-15 est.) |
+| **Tokelau** | *urban population:* 0% of total population (2010) |
+| | *rate of urbanization:* 0% annual rate of change (2010-15 est.) |
+| **Tonga** | *urban population:* 23% of total population (2010) |
+| | *rate of urbanization:* 0.8% annual rate of change (2010-15 est.) |
+| **Trinidad and Tobago** | *urban population:* 14% of total population (2010) |
+| | *rate of urbanization:* 3% annual rate of change (2010-15 est.) |
+| **Tunisia** | *urban population:* 67% of total population (2010) |
+| | *rate of urbanization:* 1.5% annual rate of change (2010-15 est.) |
+| **Turkey** | *urban population:* 70% of total population (2010) |
+| | *rate of urbanization:* 1.7% annual rate of change (2010-15 est.) |
+| **Turkmenistan** | *urban population:* 50% of total population (2010) |
+| | *rate of urbanization:* 2.2% annual rate of change (2010-15 est.) |
+| **Turks and Caicos Islands** | *urban population:* 93% of total population (2010) |
+| | *rate of urbanization:* 1.6% annual rate of change (2010-15 est.) |
+| **Tuvalu** | *urban population:* 50% of total population (2010) |
+| | *rate of urbanization:* 1.4% annual rate of change (2010-15 est.) |
+| **Uganda** | *urban population:* 13% of total population (2010) |
+| | *rate of urbanization:* 4.8% annual rate of change (2010-15 est.) |
+| **Ukraine** | *urban population:* 69% of total population (2010) |
+| | *rate of urbanization:* -0.1% annual rate of change (2010-15 est.) |
+| **United Arab Emirates** | *urban population:* 84% of total population (2010) |
+| | *rate of urbanization:* 2.3% annual rate of change (2010-15 est.) |
+| **United Kingdom** | *urban population:* 80% of total population (2010) |
+| | *rate of urbanization:* 0.7% annual rate of change (2010-15 est.) |
+| **United States** | *urban population:* 82% of total population (2010) |
+| | *rate of urbanization:* 1.2% annual rate of change (2010-15 est.) |
+| **Uruguay** | *urban population:* 92% of total population (2010) |
+| | *rate of urbanization:* 0.4% annual rate of change (2010-15 est.) |
+| **Uzbekistan** | *urban population:* 36% of total population (2010) |
+| | *rate of urbanization:* 1.4% annual rate of change (2010-15 est.) |
+| **Vanuatu** | *urban population:* 26% of total population (2010) |
+| | *rate of urbanization:* 4.2% annual rate of change (2010-15 est.) |
+| **Venezuela** | *urban population:* 93% of total population (2010) |
+| | *rate of urbanization:* 1.7% annual rate of change (2010-15 est.) |
+| **Vietnam** | *urban population:* 30% of total population (2010) |
+| | *rate of urbanization:* 3% annual rate of change (2010-15 est.) |
+| **Virgin Islands** | *urban population:* 95% of total population (2010) |
+| | *rate of urbanization:* -0.1% annual rate of change (2010-15 est.) |
+| **Wallis and Futuna** | *urban population:* 0% of total population (2008) |
+| | *rate of urbanization:* 0% annual rate of change (2005-10 est.) |
+| **West Bank** | *urban population:* 72% of total population (2008) |
+| | *rate of urbanization:* 3.3% annual rate of change (2005-10 est.) |
+| **Western Sahara** | *urban population:* 82% of total population (2010) |
+| | *rate of urbanization:* 3.5% annual rate of change (2010-15 est.) |
+| **World** | *urban population:* 50.5% of total population (2010) |
+| | *rate of urbanization:* 1.85% annual rate of change (2010-15 est.) |
+| | *ten largest urban agglomerations:* Tokyo (Japan) - 36,669,000; Delhi (India) - 22,157,000; Sao Paulo (Brazil) - 20,262,000; Mumbai (India) - 20,041,000; Mexico City (Mexico) - 19,460,000; New York-Newark (US) - 19,425,000; Shanghai (China) - 16,575,000; Kolkata (India) - 15,552,000; Dhaka (Bangladesh) - 14,648,000; Karachi (Pakistan) - 13,125,000 (2009) |
+| **Yemen** | *urban population:* 32% of total population (2010) |
+| | *rate of urbanization:* 4.6% annual rate of change (2010-15 est.) |
+| **Zambia** | *urban population:* 36% of total population (2010) |
+| | *rate of urbanization:* 3.2% annual rate of change (2010-15 est.) |
+| **Zimbabwe** | *urban population:* 38% of total population (2010) |
+| | *rate of urbanization:* 3.4% annual rate of change (2010-15 est.) |

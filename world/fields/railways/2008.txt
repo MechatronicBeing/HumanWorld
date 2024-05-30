@@ -1,0 +1,359 @@
+CIA - The World Factbook -- Field Listing - Railways
+
+| Country | Railways (km) |
+| --- | --- |
+| **Albania** | *total:* 447 km |
+| | *standard gauge:* 447 km 1.435-m gauge (2006) |
+| **Algeria** | *total:* 3,973 km |
+| | *standard gauge:* 2,888 km 1.435-m gauge (283 km electrified) |
+| | *narrow gauge:* 1,085 km 1.055-m gauge (2006) |
+| **Angola** | *total:* 2,761 km |
+| | *narrow gauge:* 2,638 km 1.067-m gauge; 123 km 0.600-m gauge (2006) |
+| **Argentina** | *total:* 31,902 km |
+| | *broad gauge:* 20,858 km 1.676-m gauge (141 km electrified) |
+| | *standard gauge:* 2,885 km 1.435-m gauge (26 km electrified) |
+| | *narrow gauge:* 7,922 km 1.000-m gauge; 237 km 0.750-m gauge (2006) |
+| **Armenia** | *total:* 839 km |
+| | *broad gauge:* 839 km 1.520-m gauge (828 km electrified) |
+| | *note:* some lines are out of service (2006) |
+| **Australia** | *total:* 38,550 km |
+| | *broad gauge:* 3,727 km 1.600-m gauge |
+| | *standard gauge:* 20,519 km 1.435-m gauge (1,877 km electrified) |
+| | *narrow gauge:* 14,074 km 1.067-m gauge (2,453 km electrified) |
+| | *dual gauge:* 230 km dual gauge (2006) |
+| **Austria** | *total:* 6,383 km |
+| | *standard gauge:* 5,924 km 1.435-m gauge (3,772 km electrified) |
+| | *narrow gauge:* 371 km 1.000-m gauge; 88 km 0.760-m gauge (25 km electrified) (2006) |
+| **Azerbaijan** | *total:* 2,122 km |
+| | *broad gauge:* 2,122 km 1.520-m gauge (1,278 km electrified) (2006) |
+| **Bangladesh** | *total:* 2,768 km |
+| | *broad gauge:* 946 km 1.676-m gauge |
+| | *narrow gauge:* 1,822 km 1.000-m gauge (2006) |
+| **Belarus** | *total:* 5,512 km |
+| | *broad gauge:* 5,497 km 1.520-m gauge (874 km electrified) |
+| | *standard gauge:* 15 km 1.435 m (2006) |
+| **Belgium** | *total:* 3,536 km |
+| | *standard gauge:* 3,536 km 1.435-m gauge (2,950 km electrified) (2006) |
+| **Benin** | *total:* 758 km |
+| | *narrow gauge:* 758 km 1.000-m gauge (2006) |
+| **Bolivia** | *total:* 3,504 km |
+| | *narrow gauge:* 3,504 km 1.000-m gauge (2006) |
+| **Bosnia and Herzegovina** | *total:* 608 km |
+| | *standard gauge:* 608 km 1.435-m gauge (2006) |
+| **Botswana** | *total:* 888 km |
+| | *narrow gauge:* 888 km 1.067-m gauge (2006) |
+| **Brazil** | *total:* 29,295 km |
+| | *broad gauge:* 4,932 km 1.600-m gauge (939 km electrified) |
+| | *standard gauge:* 194 km 1.440-m gauge |
+| | *narrow gauge:* 23,773 km 1.000-m gauge (581 km electrified) |
+| | *dual gauge:* 396 km 1.000 m and 1.600-m gauges (three rails) (78 km electrified) (2006) |
+| **Bulgaria** | *total:* 4,294 km |
+| | *standard gauge:* 4,049 km 1.435-m gauge (2,710 km electrified) |
+| | *narrow gauge:* 245 km 0.760-m gauge (2006) |
+| **Burkina Faso** | *total:* 622 km |
+| | *narrow gauge:* 622 km 1.000-m gauge |
+| | *note:* another 660 km of this railway extends into Cote D'Ivoire (2006) |
+| **Burma** | *total:* 3,955 km |
+| | *narrow gauge:* 3,955 km 1.000-m gauge (2006) |
+| **Cambodia** | *total:* 602 km |
+| | *narrow gauge:* 602 km 1.000-m gauge (2006) |
+| **Cameroon** | *total:* 987 km |
+| | *narrow gauge:* 987 km 1.000-m gauge (2006) |
+| **Canada** | *total:* 48,068 km |
+| | *standard gauge:* 48,068 km 1.435-m gauge (2006) |
+| **Chile** | *total:* 6,585 km |
+| | *broad gauge:* 2,831 km 1.676-m gauge (1,317 km electrified) |
+| | *narrow gauge:* 3,754 km 1.000-m gauge (2006) |
+| **China** | *total:* 75,438 km |
+| | *standard gauge:* 75,438 km 1.435-m gauge (20,151 km electrified) (2005) |
+| **Colombia** | *total:* 3,304 km |
+| | *standard gauge:* 150 km 1.435-m gauge |
+| | *narrow gauge:* 3,154 km 0.914-m gauge (2006) |
+| **Congo, Democratic Republic of the** | *total:* 5,138 km |
+| | *narrow gauge:* 3,987 km 1.067-m gauge (858 km electrified); 125 km 1.000-m gauge; 1,026 km 0.600-m gauge (2006) |
+| **Congo, Republic of the** | *total:* 894 km |
+| | *narrow gauge:* 894 km 1.067-m gauge (2006) |
+| **Costa Rica** | *total:* 278 km |
+| | *narrow gauge:* 278 km 1.067-m gauge |
+| | *note:* none of the railway network is in use (2007) |
+| **Cote d'Ivoire** | *total:* 660 km |
+| | *narrow gauge:* 660 km 1.000 meter gauge |
+| | *note:* an additional 622 km of this railroad extends into Burkina Faso (2006) |
+| **Croatia** | *total:* 2,726 km |
+| | *standard gauge:* 2,726 km 1.435-m gauge (1,199 km electrified) (2006) |
+| **Cuba** | *total:* 4,226 km |
+| | *standard gauge:* 4,226 km 1.435-m gauge (140 km electrified) |
+| | *note:* an additional 7,742 km of track is used by sugar plantations; about 65% of this track is standard gauge; the rest is narrow gauge (2006) |
+| **Czech Republic** | *total:* 9,597 km |
+| | *standard gauge:* 9,597 km 1.435-m gauge (3,041 km electrified) (2006) |
+| **Denmark** | *total:* 2,644 km |
+| | *standard gauge:* 2,644 km 1.435-m gauge (636 km electrified) (2007) |
+| **Djibouti** | *total:* 100 km (Djibouti segment of the Addis Ababa-Djibouti railway) |
+| | *narrow gauge:* 100 km 1.000-m gauge |
+| | *note:* railway under joint control of Djibouti and Ethiopia but remains largely inoperable (2006) |
+| **Dominican Republic** | *total:* 517 km |
+| | *standard gauge:* 375 km 1.435-m gauge |
+| | *narrow gauge:* 142 km 0.762-m gauge |
+| | *note:* additional 1,226 km operated by sugar companies in 1.076 m, 0.889 m, and 0.762-m gauges (2006) |
+| **Ecuador** | *total:* 966 km |
+| | *narrow gauge:* 966 km 1.067-m gauge (2006) |
+| **Egypt** | *total:* 5,063 km |
+| | *standard gauge:* 5,063 km 1.435-m gauge (62 km electrified) (2006) |
+| **El Salvador** | *total:* 562 km |
+| | *narrow gauge:* 562 km 0.914-m gauge |
+| | *note:* railways not in operation since 2005 because of disuse and high costs that led to a lack of maintenance (2007) |
+| **Eritrea** | *total:* 306 km |
+| | *narrow gauge:* 306 km 0.950-m gauge (2006) |
+| **Estonia** | *total:* 968 km |
+| | *broad gauge:* 968 km 1.520 m/1.524-m gauge (2006) |
+| **Ethiopia** | *total:* 699 km (Ethiopian segment of the Addis Ababa-Djibouti railroad) |
+| | *narrow gauge:* 699 km 1.000-m gauge |
+| | *note:* railway under joint control of Djibouti and Ethiopia but remains largely inoperable (2006) |
+| **European Union** | *total:* 236,436 km |
+| | *broad gauge:* 28,250 km |
+| | *standard gauge:* 200,401 km |
+| | *narrow gauge:* 7,771 km |
+| | *other:* 23 km (2007) |
+| **Fiji** | *total:* 597 km |
+| | *narrow gauge:* 597 km 0.600-m gauge |
+| | *note:* belongs to the government-owned Fiji Sugar Corporation; used to haul sugarcane during harvest season (May to December) (2006) |
+| **Finland** | *total:* 5,741 km |
+| | *broad gauge:* 5,741 km 1.524-m gauge (2,619 km electrified) (2006) |
+| **France** | *total:* 29,370 km |
+| | *standard gauge:* 29,203 km 1.435-m gauge (14,778 km electrified) |
+| | *narrow gauge:* 167 km 1.000-m gauge (2006) |
+| **Gabon** | *total:* 814 km |
+| | *standard gauge:* 814 km 1.435-m gauge (2006) |
+| **Georgia** | *total:* 1,612 km |
+| | *broad gauge:* 1,575 km 1.520-m gauge (1,575 electrified) |
+| | *narrow gauge:* 37 km 0.912-m gauge (37 electrified) (2006) |
+| **Germany** | *total:* 48,215 km |
+| | *standard gauge:* 47,962 km 1.435-m gauge (20,278 km electrified) |
+| | *narrow gauge:* 229 km 1.000-m gauge (16 km electrified); 24 km 0.750-m gauge (2006) |
+| **Ghana** | *total:* 953 km |
+| | *narrow gauge:* 953 km 1.067-m gauge (2006) |
+| **Greece** | *total:* 2,571 km |
+| | *standard gauge:* 1,565 km 1.435-m gauge (764 km electrified) |
+| | *narrow gauge:* 961 km 1.000-m gauge; 22 km 0.750-m gauge |
+| | *dual gauge:* 23 km combined 1.435 m and 1.000-m gauges (three rail system) (2006) |
+| **Guatemala** | *total:* 886 km |
+| | *narrow gauge:* 886 km 0.914-m gauge (2006) |
+| **Guinea** | *total:* 837 km |
+| | *standard gauge:* 175 km 1.435-m gauge |
+| | *narrow gauge:* 662 km 1.000-m gauge (2006) |
+| **Honduras** | *total:* 699 km |
+| | *narrow gauge:* 279 km 1.067-m gauge; 420 km 0.914-m gauge (2006) |
+| **Hungary** | *total:* 8,057 km |
+| | *broad gauge:* 36 km 1.524-m gauge |
+| | *standard gauge:* 7,802 km 1.435-m gauge (2,628 km electrified) |
+| | *narrow gauge:* 219 km 0.760-m gauge (2006) |
+| **India** | *total:* 63,221 km |
+| | *broad gauge:* 46,807 km 1.676-m gauge (17,343 km electrified) |
+| | *narrow gauge:* 13,290 km 1.000-m gauge (165 km electrified); 3,124 km 0.762-m gauge and 0.610-m gauge (2006) |
+| **Indonesia** | *total:* 6,458 km |
+| | *narrow gauge:* 5,961 km 1.067-m gauge (125 km electrified); 497 km 0.750-m gauge (2006) |
+| **Iran** | *total:* 8,367 km |
+| | *broad gauge:* 94 km 1.676-m gauge |
+| | *standard gauge:* 8,273 km 1.435-m gauge (146 km electrified) (2006) |
+| **Iraq** | *total:* 2,272 km |
+| | *standard gauge:* 2,272 km 1.435-m gauge (2006) |
+| **Ireland** | *total:* 3,237 km |
+| | *broad gauge:* 1,872 km 1.600-m gauge (37 km electrified) |
+| | *narrow gauge:* 1,365 km 0.914-m gauge (operated by the Irish Peat Board to transport peat to power stations and briquetting plants) (2006) |
+| **Isle of Man** | *total:* 65 km |
+| | *standard gauge:* 7 km 1.067-m gauge (7 km electrified) |
+| | *narrow gauge:* 58 km 0.914-m gauge (29 km electrified) |
+| | *note:* primarily summer tourist attractions (2006) |
+| **Israel** | *total:* 853 km |
+| | *standard gauge:* 853 km 1.435-m gauge (2006) |
+| **Italy** | *total:* 19,460 km |
+| | *standard gauge:* 18,038 km 1.435-m gauge (11,354 km electrified) |
+| | *narrow gauge:* 123 km 1.000-m gauge (123 km electrified); 1,299 km 0.950-m gauge (161 km electrified) (2006) |
+| **Japan** | *total:* 23,474 km |
+| | *standard gauge:* 3,204 km 1.435-m gauge (3,204 km electrified) |
+| | *narrow gauge:* 77 km 1.372-m gauge (77 km electrified); 20,182 km 1.067-m gauge (13,334 km electrified); 11 km 0.762-m gauge (11 km electrified) (2006) |
+| **Jordan** | *total:* 505 km |
+| | *narrow gauge:* 505 km 1.050-m gauge (2006) |
+| **Kazakhstan** | *total:* 13,700 km |
+| | *broad gauge:* 13,700 km 1.520-m gauge (3,700 km electrified) (2006) |
+| **Kenya** | *total:* 2,778 km |
+| | *narrow gauge:* 2,778 km 1.000-m gauge (2006) |
+| **Korea, North** | *total:* 5,235 km |
+| | *standard gauge:* 5,235 km 1.435-m gauge (3,500 km electrified) (2006) |
+| **Korea, South** | *total:* 3,472 km |
+| | *standard gauge:* 3,472 km 1.435-m gauge (1,342 km electrified) (2006) |
+| **Kosovo** | *total:* 430 km (2005) |
+| **Kyrgyzstan** | *total:* 470 km |
+| | *broad gauge:* 470 km 1.520-m gauge (2006) |
+| **Latvia** | *total:* 2,303 km |
+| | *broad gauge:* 2,270 km 1.520-m gauge (257 km electrified) |
+| | *narrow gauge:* 33 km 0.750-m gauge (2006) |
+| **Lebanon** | *total:* 401 km |
+| | *standard gauge:* 319 km 1.435 m |
+| | *narrow gauge:* 82 km 1.050 m |
+| | *note:* rail system became unusable because of damage done during fighting in the 1980s and in 2006 (2006) |
+| **Liberia** | *total:* 490 km |
+| | *standard gauge:* 345 km 1.435-m gauge |
+| | *narrow gauge:* 145 km 1.067-m gauge |
+| | *note:* sections of railway are inoperable because of damage suffered during the civil war (2008) |
+| **Libya** | 0 km |
+| | *note:* Libya has announced plans to build seven lines totaling 2,757 km of 1.435-m gauge track (2006) |
+| **Liechtenstein** | 9 km 1.435-m gauge (electrified) |
+| | *note:* belongs to the Austrian Railway System connecting Austria and Switzerland (2006) |
+| **Lithuania** | *total:* 1,771 km |
+| | *broad gauge:* 1,749 km 1.524-m gauge (122 km electrified) |
+| | *standard gauge:* 22 km 1.435-m gauge (2006) |
+| **Luxembourg** | *total:* 275 km |
+| | *standard gauge:* 275 km 1.435-m gauge (243 km electrified) (2006) |
+| **Macedonia** | *total:* 699 km |
+| | *standard gauge:* 699 km 1.435-m gauge (223 km electrified) (2006) |
+| **Madagascar** | *total:* 854 km |
+| | *narrow gauge:* 854 km 1.000-m gauge (2006) |
+| **Malawi** | *total:* 797 km |
+| | *narrow gauge:* 797 km 1.067-m gauge (2006) |
+| **Malaysia** | *total:* 1,890 km |
+| | *standard gauge:* 57 km 1.435-m gauge (57 km electrified) |
+| | *narrow gauge:* 1,833 km 1.000-m gauge (150 km electrified) (2006) |
+| **Mali** | *total:* 729 km |
+| | *narrow gauge:* 729 km 1.000-m gauge (2006) |
+| **Mauritania** | 717 km |
+| | *standard gauge:* 717 km 1.435-m gauge (2006) |
+| **Mexico** | *total:* 17,665 km |
+| | *standard gauge:* 17,665 km 1.435-m gauge (2006) |
+| **Moldova** | *total:* 1,138 km |
+| | *broad gauge:* 1,124 km 1.520-m gauge |
+| | *standard gauge:* 14 km 1.435-m gauge (2006) |
+| **Mongolia** | *total:* 1,810 km |
+| | *broad gauge:* 1,810 km 1.524-m gauge (2006) |
+| **Montenegro** | *total:* 250 km |
+| | *standard gauge:* 250 km 1.435-m gauge (electrified 169 km) (2006) |
+| **Morocco** | *total:* 1,907 km |
+| | *standard gauge:* 1,907 km 1.435-m gauge (1,003 km electrified) (2006) |
+| **Mozambique** | *total:* 3,123 km |
+| | *narrow gauge:* 2,983 km 1.067-m gauge; 140 km 0.762-m gauge (2006) |
+| **Namibia** | *total:* 2,382 km |
+| | *narrow gauge:* 2,382 km 1.067-m gauge (2006) |
+| **Nepal** | *total:* 59 km |
+| | *narrow gauge:* 59 km 0.762-m gauge (2006) |
+| **Netherlands** | *total:* 2,797 km |
+| | *standard gauge:* 2,797 km 1.435-m gauge (2,064 km electrified) (2006) |
+| **New Zealand** | *total:* 4,128 km |
+| | *narrow gauge:* 4,128 km 1.067-m gauge (506 km electrified) (2006) |
+| **Nicaragua** | *total:* 6 km |
+| | *narrow gauge:* 6 km 1.067-m gauge (2006) |
+| **Nigeria** | *total:* 3,505 km |
+| | *narrow gauge:* 3,505 km 1.067-m gauge (2006) |
+| **Norway** | *total:* 4,114 km |
+| | *standard gauge:* 4,114 km 1.435-m gauge (2,552 km electrified) (2008) |
+| **Pakistan** | *total:* 8,163 km |
+| | *broad gauge:* 7,718 km 1.676-m gauge (293 km electrified) |
+| | *narrow gauge:* 445 km 1.000-m gauge (2006) |
+| **Panama** | *total:* 355 km |
+| | *standard gauge:* 77 km 1.435-m gauge |
+| | *narrow gauge:* 278 km 0.914-m gauge (2006) |
+| **Paraguay** | *total:* 36 km |
+| | *standard gauge:* 36 km 1.435-m gauge (2006) |
+| **Peru** | *total:* 1,989 km |
+| | *standard gauge:* 1,726 km 1.435-m gauge |
+| | *narrow gauge:* 263 km 0.914-m gauge (2006) |
+| **Philippines** | *total:* 897 km |
+| | *narrow gauge:* 897 km 1.067-m gauge (492 km are in operation) (2006) |
+| **Poland** | *total:* 23,072 km |
+| | *broad gauge:* 629 km 1.524-m gauge |
+| | *standard gauge:* 22,443 km 1.435-m gauge (20,555 km operational; 11,910 km electrified) (2006) |
+| **Portugal** | *total:* 2,786 km |
+| | *broad gauge:* 2,603 km 1.668-m gauge (1,351 km electrified) |
+| | *narrow gauge:* 183 km 1.000-m gauge (2006) |
+| **Puerto Rico** | *total:* 96 km |
+| | *narrow gauge:* 96 km 1.000-m gauge (2006) |
+| **Romania** | *total:* 11,385 km |
+| | *broad gauge:* 60 km 1.524-m gauge |
+| | *standard gauge:* 10,898 km 1.435-m gauge (3,888 km electrified) |
+| | *narrow gauge:* 427 km 0.760-m gauge (2006) |
+| **Russia** | *total:* 87,157 km |
+| | *broad gauge:* 86,200 km 1.520-m gauge (40,300 km electrified) |
+| | *narrow gauge:* 957 km 1.067-m gauge (on Sakhalin Island) |
+| | *note:* an additional 30,000 km of non-common carrier lines serve industries (2006) |
+| **Saint Kitts and Nevis** | *total:* 50 km |
+| | *narrow gauge:* 50 km 0.762-m gauge on Saint Kitts for tourists (2006) |
+| **Saudi Arabia** | *total:* 1,392 km |
+| | *standard gauge:* 1,392 km 1.435-m gauge (with branch lines and sidings) (2006) |
+| **Senegal** | *total:* 906 km |
+| | *narrow gauge:* 906 km 1.000 meter gauge (2006) |
+| **Serbia** | *total:* 3,379 km |
+| | *standard gauge:* 3,379 km 1.435-m gauge (electrified 1,254 km) (2006) |
+| **Slovakia** | *total:* 3,662 km |
+| | *broad gauge:* 100 km 1.520-m gauge |
+| | *standard gauge:* 3,512 km 1.435-m gauge (1,588 km electrified) |
+| | *narrow gauge:* 50 km (1.000-m or 0.750-m gauge) (2006) |
+| **Slovenia** | *total:* 1,229 km |
+| | *standard gauge:* 1,229 km 1.435-m gauge (504 km electrified) (2006) |
+| **South Africa** | *total:* 20,872 km |
+| | *narrow gauge:* 20,436 km 1.065-m gauge (8,931 km electrified); 436 km 0.610-m gauge (2006) |
+| **Spain** | *total:* 14,974 km |
+| | *broad gauge:* 11,919 km 1.668-m gauge (6,950 km electrified) |
+| | *standard gauge:* 1,099 km 1.435-m gauge (1,054 km electrified) |
+| | *narrow gauge:* 1,928 km 1.000-m gauge (815 km electrified); 28 km 0.914-m gauge (28 km electrified) (2006) |
+| **Sri Lanka** | *total:* 1,449 km |
+| | *broad gauge:* 1,449 km 1.676-m gauge (2006) |
+| **Sudan** | *total:* 5,978 km |
+| | *narrow gauge:* 4,578 km 1.067-m gauge; 1,400 km 0.600-m gauge for cotton plantations (2006) |
+| **Swaziland** | *total:* 301 km |
+| | *narrow gauge:* 301 km 1.067-m gauge (2006) |
+| **Sweden** | *total:* 11,528 km |
+| | *standard gauge:* 11,528 km 1.435-m gauge (7,527 km electrified) (2006) |
+| **Switzerland** | *total:* 4,839 km |
+| | *standard gauge:* 3,561 km 1.435-m gauge (3,195 km electrified) |
+| | *narrow gauge:* 1,268 km 1.000-m gauge (1,274 km electrified); 10 km 0.800-m gauge (10 km electrified) (2006) |
+| **Syria** | *total:* 2,711 km |
+| | *standard gauge:* 2,460 km 1.435-m gauge |
+| | *narrow gauge:* 251 km 1.050-m gauge (2006) |
+| **Taiwan** | *total:* 1,588 km |
+| | *standard gauge:* 345 km 1.435-m gauge |
+| | *narrow gauge:* 1,093 km 1.067-m gauge |
+| | *note:* 150 km .762-m gauge (belonging primarily to Taiwan Sugar Corporation and Taiwan Forestry Bureau; some to other entities) (2007) |
+| **Tajikistan** | *total:* 482 km |
+| | *broad gauge:* 482 km 1.520-m gauge (2006) |
+| **Tanzania** | *total:* 3,690 km |
+| | *narrow gauge:* 969 km 1.067-m gauge; 2,721 km 1.000-m gauge (2006) |
+| **Thailand** | *total:* 4,071 km |
+| | *narrow gauge:* 4,071 km 1.000-m gauge (2006) |
+| **Togo** | *total:* 568 km |
+| | *narrow gauge:* 568 km 1.000-m gauge (2006) |
+| **Tunisia** | *total:* 2,153 km |
+| | *standard gauge:* 471 km 1.435-m gauge |
+| | *narrow gauge:* 1,674 km 1.000-m gauge (65 km electrified) |
+| | *dual gauge:* 8 km 1.435 m and 1.000-m gauges (three rails) (2006) |
+| **Turkey** | *total:* 8,697 km |
+| | *standard gauge:* 8,697 km 1.435-m gauge (1,920 km electrified) (2006) |
+| **Turkmenistan** | *total:* 2,440 km |
+| | *broad gauge:* 2,440 km 1.520-m gauge (2006) |
+| **Uganda** | *total:* 1,244 km |
+| | *narrow gauge:* 1,244 km 1.000-m gauge (2006) |
+| **Ukraine** | *total:* 22,473 km |
+| | *broad gauge:* 22,473 km 1.524-m gauge (9,250 km electrified) (2006) |
+| **United Kingdom** | *total:* 16,567 km |
+| | *broad gauge:* 303 km 1.600-m gauge (in Northern Ireland) |
+| | *standard gauge:* 16,264 km 1.435-m gauge (5,361 km electrified) (2006) |
+| **United States** | *total:* 226,612 km |
+| | *standard gauge:* 226,612 km 1.435-m gauge (2005) |
+| **Uruguay** | *total:* 2,073 km |
+| | *standard gauge:* 2,073 km 1.435-m gauge |
+| | *note:* 461 km have been taken out of service and 460 km are in partial use (2006) |
+| **Uzbekistan** | *total:* 3,950 km |
+| | *broad gauge:* 3,950 km 1.520-m gauge (620 km electrified) (2006) |
+| **Venezuela** | *total:* 682 km |
+| | *standard gauge:* 682 km 1.435-m gauge (2006) |
+| **Vietnam** | *total:* 2,600 km |
+| | *standard gauge:* 178 km 1.435-m gauge |
+| | *narrow gauge:* 2,169 km 1.000-m gauge |
+| | *dual gauge:* 253 km three-rail track combining 1.435 m and 1.000-m gauges (2006) |
+| **World** | *total:* 1,370,782 km (2006) |
+| **Zambia** | *total:* 2,157 km |
+| | *narrow gauge:* 2,157 km 1.067-m gauge |
+| | *note:* includes 891 km of the Tanzania-Zambia Railway Authority (TAZARA) (2006) |
+| **Zimbabwe** | *total:* 3,077 km |
+| | *narrow gauge:* 3,077 km 1.067-m gauge (313 km electrified) (2006) |
+
+This page was last updated on 18 December 2008
+ 

@@ -1,0 +1,716 @@
+CIA - The World Factbook -- Field Listing - Highways
+
+| Country | Highways (km) |
+| --- | --- |
+| **Afghanistan** | *total:* 21,000 km |
+| | *paved:* 2,793 km |
+| | *unpaved:* 18,207 km (1999 est.) |
+| **Albania** | *total:* 18,000 km |
+| | *paved:* 5,400 km |
+| | *unpaved:* 12,600 km (2002) |
+| **Algeria** | *total:* 104,000 km |
+| | *paved:* 71,656 km (including 640 km of expressways) |
+| | *unpaved:* 32,344 km (1999) |
+| **American Samoa** | *total:* 185 km |
+| | *paved:* 185 km |
+| | *unpaved:* 0 km (2004) |
+| **Andorra** | *total:* 269 km |
+| | *paved:* 198 km |
+| | *unpaved:* 71 km |
+| **Angola** | *total:* 51,429 km |
+| | *paved:* 5,328 km |
+| | *unpaved:* 46,101 km (2001) |
+| **Anguilla** | *total:* 105 km |
+| | *paved:* 65 km |
+| | *unpaved:* 40 km (1997) |
+| **Antigua and Barbuda** | *total:* 250 km (1999 est.) |
+| **Argentina** | *total:* 215,471 km |
+| | *paved:* 63,348 km (including 734 km of expressways) |
+| | *unpaved:* 152,123 km (1999) |
+| **Armenia** | *total:* 8,431 km |
+| | *paved:* 8,161 km (includes 7,567 km of expressways) |
+| | *unpaved:* 270 km (2002) |
+| **Aruba** | *total:* 800 km |
+| | *paved:* 513 km |
+| | *unpaved:* 287 km |
+| | *note:* most coastal roads are paved, while unpaved roads serve large tracts of the interior (1995) |
+| **Australia** | *total:* 811,603 km |
+| | *paved:* 314,090 km (including 18,619 km of expressways) |
+| | *unpaved:* 497,513 km (1999 est.) |
+| **Austria** | *total:* 200,000 km |
+| | *paved:* 200,000 km (including 1,645 km of expressways) |
+| | *unpaved:* 0 km (2002) |
+| **Azerbaijan** | *total:* 28,030 km |
+| | *paved:* 25,890 km |
+| | *unpaved:* 2,130 km (2002) |
+| **Bahamas, The** | *total:* 2,693 km |
+| | *paved:* 1,546 km |
+| | *unpaved:* 1,147 km (1999 est.) |
+| **Bahrain** | *total:* 3,459 km |
+| | *paved:* 2,653 km |
+| | *unpaved:* 806 km (2002) |
+| **Bangladesh** | *total:* 207,486 km |
+| | *paved:* 19,773 km |
+| | *unpaved:* 187,713 km (1999) |
+| **Barbados** | *total:* 1,600 km |
+| | *paved:* 1,578 km |
+| | *unpaved:* 22 km (2002) |
+| **Belarus** | *total:* 79,990 km |
+| | *paved:* 69,351 km |
+| | *unpaved:* 10,639 km (2002) |
+| **Belgium** | *total:* 149,028 km |
+| | *paved:* 116,540 km (including 1,729 km of expressways) |
+| | *unpaved:* 32,488 km (2002) |
+| **Belize** | *total:* 2,872 km |
+| | *paved:* 488 km |
+| | *unpaved:* 2,384 km (1999 est.) |
+| **Benin** | *total:* 6,787 km |
+| | *paved:* 1,357 km (including 10 km of expressways) |
+| | *unpaved:* 5,430 km (1999 est.) |
+| **Bermuda** | *total:* 450 km |
+| | *paved:* 450 km |
+| | *unpaved:* 0 km |
+| | *note:* public roads - 209 km; private roads - 241 km (2002) |
+| **Bhutan** | *total:* 4,007 km |
+| | *paved:* 24 km |
+| | *unpaved:* 3,983 km (2002) |
+| **Bolivia** | *total:* 60,282 km |
+| | *paved:* 3,979 km |
+| | *unpaved:* 56,303 km (2002) |
+| **Bosnia and Herzegovina** | *total:* 21,846 km |
+| | *paved:* 11,424 km |
+| | *unpaved:* 10,422 km (1999 est.) |
+| **Botswana** | *total:* 10,217 km |
+| | *paved:* 5,619 km |
+| | *unpaved:* 4,598 km (1999) |
+| **Brazil** | *total:* 1,724,929 km |
+| | *paved:* 94,871 km |
+| | *unpaved:* 1,630,058 km (2000) |
+| **British Indian Ocean Territory** | *total:* NA km |
+| | *paved:* short section of paved road between port and airfield on Diego Garcia |
+| | *unpaved:* NA km |
+| **British Virgin Islands** | *total:* 177 km |
+| | *paved:* 177 km |
+| | *unpaved:* 0 km (2000) |
+| **Brunei** | *total:* 2,525 km |
+| | *paved:* 2,525 km |
+| | *unpaved:* 0 km (2000) |
+| **Bulgaria** | *total:* 37,077 km |
+| | *paved:* 34,111 km (including 328 km of expressways) |
+| | *unpaved:* 2,966 km (2002) |
+| **Burkina Faso** | *total:* 12,506 km |
+| | *paved:* 2,001 km |
+| | *unpaved:* 10,505 km (1999) |
+| **Burma** | *total:* 28,200 km |
+| | *paved:* 3,440 km |
+| | *unpaved:* 24,760 km (1996 est.) |
+| **Burundi** | *total:* 14,480 km |
+| | *paved:* 1,028 km |
+| | *unpaved:* 13,452 km (1999 est.) |
+| **Cambodia** | *total:* 12,323 km |
+| | *paved:* 1,996 km |
+| | *unpaved:* 10,327 km (2000 est) |
+| **Cameroon** | *total:* 34,300 km |
+| | *paved:* 4,288 km |
+| | *unpaved:* 30,012 km (1999 est.) |
+| **Canada** | *total:* 1,408,800 km |
+| | *paved:* 497,306 km (including 16,900 km of expressways) |
+| | *unpaved:* 911,494 km (2002) |
+| **Cape Verde** | *total:* 1,350 km |
+| | *paved:* 932 km |
+| | *unpaved:* 418 km (2000) |
+| **Cayman Islands** | *total:* 785 km |
+| | *paved:* 785 km (2000) |
+| **Central African Republic** | *total:* 23,810 km |
+| | *paved:* 643 km |
+| | *unpaved:* 23,167 km (1999 est.) |
+| **Chad** | *total:* 33,400 km |
+| | *paved:* 267 km |
+| | *unpaved:* 33,133 km (1999 est.) |
+| **Chile** | *total:* 79,605 km |
+| | *paved:* 16,080 km (including 407 km of expressways) |
+| | *unpaved:* 63,525 km (2001) |
+| **China** | *total:* 1,765,222 km |
+| | *paved:* 395,410 km (with at least 25,130 km of expressways) |
+| | *unpaved:* 1,369,812 km (2002 est.) |
+| **Christmas Island** | *total:* 240 km |
+| | *paved:* 30 km |
+| | *unpaved:* 210 km (2000) |
+| **Cocos (Keeling) Islands** | *total:* 15 km |
+| | *paved:* NA km |
+| | *unpaved:* NA km (2003) |
+| **Colombia** | *total:* 112,998 km |
+| | *paved:* 26,000 km |
+| | *unpaved:* 84,000 km (2000) |
+| **Comoros** | *total:* 880 km |
+| | *paved:* 673 km |
+| | *unpaved:* 207 km (1999 est) |
+| **Congo, Democratic Republic of the** | *total:* 157,000 km (including 30 km of expressways) |
+| | *paved:* NA km |
+| | *unpaved:* NA km (1999 est.) |
+| **Congo, Republic of the** | *total:* 12,800 km |
+| | *paved:* 1,242 km |
+| | *unpaved:* 11,558 km (1999 est.) |
+| **Cook Islands** | *total:* 320 km |
+| | *paved:* 33 km |
+| | *unpaved:* 287 km (2000) |
+| **Costa Rica** | *total:* 35,303 km |
+| | *paved:* 4,236 km |
+| | *unpaved:* 31,067 km (2002) |
+| **Cote d'Ivoire** | *total:* 50,400 km |
+| | *paved:* 4,889 km |
+| | *unpaved:* 45,511 km (1999 est.) |
+| **Croatia** | *total:* 28,344 km |
+| | *paved:* 23,979 km (including 455 km of expressways) |
+| | *unpaved:* 4,365 km (2002) |
+| **Cuba** | *total:* 60,858 km |
+| | *paved:* 29,820 km (including 638 km of expressway) |
+| | *unpaved:* 31,038 km (1999 est.) |
+| **Cyprus** | *total:* 13,943 km (Republic of Cyprus: 11,593 km; north Cyprus: 2,350 km) |
+| | *paved:* Republic of Cyprus: 7,211 km; north Cyprus: 1,370 km |
+| | *unpaved:* Republic of Cyprus: 4,382 km; north Cyprus: 980 km (2002/1996 est.) |
+| **Czech Republic** | *total:* 127,204 km |
+| | *paved:* 127,204 km (including 518 km of expressways) |
+| | *unpaved:* 0 km (2002) |
+| **Denmark** | *total:* 71,847 km |
+| | *paved:* 71,847 km (including 918 km of expressways) |
+| | *unpaved:* 0 km (2002) |
+| **Djibouti** | *total:* 2,890 km |
+| | *paved:* 364 km |
+| | *unpaved:* 2,526 km (1999 est.) |
+| **Dominica** | *total:* 780 km |
+| | *paved:* 393 km |
+| | *unpaved:* 387 km (1999 est.) |
+| **Dominican Republic** | *total:* 12,600 km |
+| | *paved:* 6,224 km |
+| | *unpaved:* 6,376 km (1999) |
+| **East Timor** | *total:* 3,800 km |
+| | *paved:* 428 km |
+| | *unpaved:* 3,372 km (1995) |
+| **Ecuador** | *total:* 43,197 km |
+| | *paved:* 8,164 km |
+| | *unpaved:* 35,033 km (2002) |
+| **Egypt** | *total:* 64,000 km |
+| | *paved:* 49,984 km |
+| | *unpaved:* 14,016 km (1999 est.) |
+| **El Salvador** | *total:* 10,029 km |
+| | *paved:* 1,986 km (including 327 km of expressways) |
+| | *unpaved:* 8,043 km (1999 est.) |
+| **Equatorial Guinea** | *total:* 2,880 km (1999 est.) |
+| **Eritrea** | *total:* 4,010 km |
+| | *paved:* 874 km |
+| | *unpaved:* 3,136 km (1999 est.) |
+| **Estonia** | *total:* 55,944 km |
+| | *paved:* 13,874 km (including 99 km of expressways) |
+| | *unpaved:* 42,070 km (2002) |
+| **Ethiopia** | *total:* 33,297 km |
+| | *paved:* 3,996 km |
+| | *unpaved:* 29,301 km (2002) |
+| **European Union** | *total:* 4,634,810 km (including 56,704 km of expressways) |
+| | *paved:* 4,161,318 km |
+| | *unpaved:* 473,492 km (1999-2000) |
+| **Falkland Islands (Islas Malvinas)** | *total:* 440 km |
+| | *paved:* 50 km |
+| | *unpaved:* 390 km (2002) |
+| **Faroe Islands** | *total:* 463 km |
+| | *paved:* 454 km |
+| | *unpaved:* 9 km (1999) |
+| **Fiji** | *total:* 3,440 km |
+| | *paved:* 1,692 km |
+| | *unpaved:* 1,748 km (1999 est.) |
+| **Finland** | *total:* 78,197 km |
+| | *paved:* 50,539 km (including 794 km of expressways) |
+| | *unpaved:* 27,658 km (2004) |
+| **France** | *total:* 893,100 km |
+| | *paved:* 893,100 km (including 12,000 km of expressways) |
+| | *unpaved:* 0 km (2002) |
+| **French Guiana** | *total:* 817 km (1998) |
+| **French Polynesia** | *total:* 2,590 km |
+| | *paved:* 1,735 km |
+| | *unpaved:* 855 km (1999) |
+| **Gabon** | *total:* 8,464 km |
+| | *paved:* 838 km |
+| | *unpaved:* 7,626 km (2000 est.) |
+| **Gambia, The** | *total:* 2,700 km |
+| | *paved:* 956 km |
+| | *unpaved:* 1,744 km (1999) |
+| **Gaza Strip** | *total:* NA km |
+| | *paved:* NA km |
+| | *unpaved:* NA km |
+| | *note:* small, poorly developed road network |
+| **Georgia** | *total:* 20,229 km |
+| | *paved:* 18,914 km |
+| | *unpaved:* 1,315 km (2002) |
+| **Germany** | *total:* 230,735 km |
+| | *paved:* 230,735 km (including 11,515 km of expressways) |
+| | *unpaved:* 0 km (1999) |
+| **Ghana** | *total:* 46,176 km |
+| | *paved:* 8,496 km |
+| | *unpaved:* 37,679 km (1999 est.) |
+| **Gibraltar** | *total:* 29 km |
+| | *paved:* 29 km |
+| | *unpaved:* 0 km (2002) |
+| **Greece** | *total:* 117,000 km |
+| | *paved:* 107,406 km (including 470 km of expressways) |
+| | *unpaved:* 9,594 km (1999 est.) |
+| **Greenland** | *total:* NA (there are no roads between towns) (2003) |
+| **Grenada** | *total:* 1,040 km |
+| | *paved:* 638 km |
+| | *unpaved:* 402 km (1999 est.) |
+| **Guadeloupe** | *total:* 947 km (2002) |
+| **Guam** | *total:* 977 km |
+| | *paved:* 962 km |
+| | *unpaved:* 15 km (2004) |
+| **Guatemala** | *total:* 14,118 km |
+| | *paved:* 4,871 km (including 74 km of expressways) |
+| | *unpaved:* 9,247 km (1999) |
+| **Guernsey** | *total:* NA km |
+| | *paved:* NA km |
+| | *unpaved:* NA km |
+| **Guinea** | *total:* 30,500 km |
+| | *paved:* 5,033 km |
+| | *unpaved:* 25,467 km (1999 est.) |
+| **Guinea-Bissau** | *total:* 4,400 km |
+| | *paved:* 453 km |
+| | *unpaved:* 3,947 km (1999 est.) |
+| **Guyana** | *total:* 7,970 km |
+| | *paved:* 590 km |
+| | *unpaved:* 7,380 km (1999 est.) |
+| **Haiti** | *total:* 4,160 km |
+| | *paved:* 1,011 km |
+| | *unpaved:* 3,149 km (1999 est.) |
+| **Holy See (Vatican City)** | none; all city streets |
+| **Honduras** | *total:* 13,603 km |
+| | *paved:* 2,775 km |
+| | *unpaved:* 10,828 km (1999 est.) |
+| **Hong Kong** | *total:* 1,831 km |
+| | *paved:* 1,831 km |
+| | *unpaved:* 0 km (1999 est.) |
+| **Hungary** | *total:* 159,568 km |
+| | *paved:* 70,050 km (including 533 km of expressways) |
+| | *unpaved:* 89,518 km (2002) |
+| **Iceland** | *total:* 13,004 km |
+| | *paved/oiled gravel:* 4,331 km |
+| | *unpaved:* 8,673 km (2004) |
+| **India** | *total:* 2,525,989 km |
+| | *paved:* 1,448,655 km |
+| | *unpaved:* 1,077,334 km (1999) |
+| **Indonesia** | *total:* 342,700 km |
+| | *paved:* 158,670 km |
+| | *unpaved:* 184,030 km (1999 est.) |
+| **Iran** | *total:* 167,157 km |
+| | *paved:* 94,109 km (including 890 km of expressways) |
+| | *unpaved:* 73,048 km (1998) |
+| **Iraq** | *total:* 45,550 km |
+| | *paved:* 38,399 km |
+| | *unpaved:* 7,151 km (1999) |
+| **Ireland** | *total:* 95,736 km |
+| | *paved:* 95,736 km (including 125 km of expressways) |
+| | *unpaved:* 0 km (2002) |
+| **Israel** | *total:* 16,903 km |
+| | *paved:* 16,903 km (including 56 km of expressways) |
+| | *unpaved:* 0 km (2002) |
+| **Italy** | *total:* 479,688 km |
+| | *paved:* 479,688 km (including 6,621 km of expressways) |
+| | *unpaved:* 0 km (1999) |
+| **Jamaica** | *total:* 18,700 km |
+| | *paved:* 13,109 km |
+| | *unpaved:* 5,591 km (1999 est.) |
+| **Japan** | *total:* 1,171,647 km |
+| | *paved:* 903,340 km (including 6,851 km of expressways) |
+| | *unpaved:* 268,307 km (2001) |
+| **Jersey** | *total:* 577 km |
+| | *paved:* NA km |
+| | *unpaved:* NA km |
+| **Jordan** | *total:* 7,301 km |
+| | *paved:* 7,301 km |
+| | *unpaved:* 0 km (2002) |
+| **Kazakhstan** | *total:* 82,980 km |
+| | *paved:* 77,918 km |
+| | *unpaved:* 5,062 km (2002) |
+| **Kenya** | *total:* 63,942 km |
+| | *paved:* 7,737 km |
+| | *unpaved:* 56,205 km (2000) |
+| **Kiribati** | *total:* 670 km |
+| | *paved:* NA km |
+| | *unpaved:* NA km (1999 est.) |
+| **Korea, North** | *total:* 31,200 km |
+| | *paved:* 1,997 km |
+| | *unpaved:* 29,203 km (1999 est.) |
+| **Korea, South** | *total:* 86,990 km |
+| | *paved:* 66,721 km (including 1,996 km of expressways) |
+| | *unpaved:* 20,269 km (2001) |
+| **Kuwait** | *total:* 4,450 km |
+| | *paved:* 3,587 km |
+| | *unpaved:* 863 km (1999 est.) |
+| **Kyrgyzstan** | *total:* 18,500 km |
+| | *paved:* 16,854 km (including 140 km of expressways) |
+| | *unpaved:* 1,646 km (1999 est.) |
+| **Laos** | *total:* 21,716 km |
+| | *paved:* 9,664 km |
+| | *unpaved:* 12,052 km (1999 est.) |
+| **Latvia** | *total:* 60,472 km |
+| | *paved:* 57,206 km |
+| | *unpaved:* 3,265 km (2002) |
+| **Lebanon** | *total:* 7,300 km |
+| | *paved:* 6,198 km |
+| | *unpaved:* 1,102 km (1999 est.) |
+| **Lesotho** | *total:* 5,940 km |
+| | *paved:* 1,087 km |
+| | *unpaved:* 4,853 km (1999) |
+| **Liberia** | *total:* 10,600 km |
+| | *paved:* 657 km |
+| | *unpaved:* 9,943 km (1999 est.) |
+| **Libya** | *total:* 83,200 km |
+| | *paved:* 47,590 km |
+| | *unpaved:* 35,610 km (1999 est.) |
+| **Liechtenstein** | *total:* 250 km |
+| | *paved:* 250 km |
+| | *unpaved:* 0 km |
+| **Lithuania** | *total:* 77,148 km |
+| | *paved:* 69,202 km (including 417 km of expressways) |
+| | *unpaved:* 7,946 km (2002) |
+| **Luxembourg** | *total:* 5,210 km |
+| | *paved:* 5,210 km (including 126 km of expressways) |
+| | *unpaved:* 0 km (2002) |
+| **Macau** | *total:* 341 km |
+| | *paved:* 341 km |
+| | *unpaved:* 0 km (2002) |
+| **Macedonia** | *total:* 8,684 km |
+| | *paved:* 5,540 km (including 133 km of expressways) |
+| | *unpaved:* 3,144 km (1999 est.) |
+| **Madagascar** | *total:* 49,827 km |
+| | *paved:* 5,780 km |
+| | *unpaved:* 44,047 km (1999 est.) |
+| **Malawi** | *total:* 28,400 km |
+| | *paved:* 5,254 km |
+| | *unpaved:* 23,146 km (1999 est.) |
+| **Malaysia** | *total:* 65,877 km |
+| | *paved:* 51,318 km |
+| | *unpaved:* 14,559 km (2001) |
+| **Maldives** | *total:* NA km |
+| | *paved:* NA km |
+| | *unpaved:* NA km |
+| **Mali** | *total:* 15,100 km |
+| | *paved:* 1,827 km |
+| | *unpaved:* 13,273 km (1999 est.) |
+| **Malta** | *total:* 2,222 km |
+| | *paved:* 2,000 km |
+| | *unpaved:* 222 km (2002) |
+| **Man, Isle of** | *total:* 800 km |
+| | *paved:* 800 km |
+| | *unpaved:* 0 km (1999) |
+| **Marshall Islands** | *total:* 64.5 km |
+| | *paved:* 64.5 km |
+| | *unpaved:* NA km |
+| | *note:* paved roads on major islands (Majuro, Kwajalein), otherwise stone-, coral-, or laterite-surfaced roads and tracks (2002) |
+| **Martinique** | *total:* 2,105 km (2000) |
+| **Mauritania** | *total:* 7,660 km |
+| | *paved:* 866 km |
+| | *unpaved:* 6,794 km (1999 est.) |
+| **Mauritius** | *total:* 2,000 km |
+| | *paved:* 1,960 km (including 60 km of expressways) |
+| | *unpaved:* 40 km (2002) |
+| **Mayotte** | *total:* 93 km |
+| | *paved:* 72 km |
+| | *unpaved:* 21 km |
+| **Mexico** | *total:* 329,532 km |
+| | *paved:* 108,087 km (including 6,429 km of expressways) |
+| | *unpaved:* 221,445 km (1999 est.) |
+| **Micronesia, Federated States of** | *total:* 240 km |
+| | *paved:* 42 km |
+| | *unpaved:* 198 km (1999 est.) |
+| **Midway Islands** | *total:* NA km |
+| | *paved:* NA km |
+| | *unpaved:* NA km |
+| **Moldova** | *total:* 12,719 km |
+| | *paved:* 10,977 km |
+| | *unpaved:* 1,742 km (2002) |
+| **Monaco** | *total:* 50 km |
+| | *paved:* 50 km |
+| | *unpaved:* 0 km (1999 est.) |
+| **Mongolia** | *total:* 49,256 km |
+| | *paved:* 8,874 km |
+| | *unpaved:* 40,376 km (2002) |
+| **Montserrat** | *total:* 227 km |
+| | *paved:* NA km |
+| | *unpaved:* NA km |
+| | *note:* volcanic eruptions beginning in 1995 destroyed most of the road system (2003) |
+| **Morocco** | *total:* 57,694 km |
+| | *paved:* 32,551 km (including 481 km of expressways) |
+| | *unpaved:* 25,143 km (2002) |
+| **Mozambique** | *total:* 30,400 km |
+| | *paved:* 5,685 km |
+| | *unpaved:* 24,715 km (1999 est.) |
+| **Namibia** | *total:* 42,237 km |
+| | *paved:* 5,406 km |
+| | *unpaved:* 36,831 km (2002) |
+| **Nauru** | *total:* 30 km |
+| | *paved:* 24 km |
+| | *unpaved:* 6 km (1999 est.) |
+| **Nepal** | *total:* 13,223 km |
+| | *paved:* 4,073 km |
+| | *unpaved:* 9,150 km (1999 est.) |
+| **Netherlands** | *total:* 116,500 km |
+| | *paved:* 104,850 km (including 2,235 km of expressways) |
+| | *unpaved:* 11,650 km (1999) |
+| **Netherlands Antilles** | *total:* 600 km |
+| | *paved:* 300 km |
+| | *unpaved:* 300 km |
+| **New Caledonia** | *total:* 5,432 km (2000) |
+| **New Zealand** | *total:* 92,382 km |
+| | *paved:* 59,124 km (including at least 169 km of expressways) |
+| | *unpaved:* 33,258 km (2002) |
+| **Nicaragua** | *total:* 18,712 km |
+| | *paved:* 2,126 km |
+| | *unpaved:* 16,586 km (2002) |
+| **Niger** | *total:* 10,100 km |
+| | *paved:* 798 km |
+| | *unpaved:* 9,302 km (1999 est.) |
+| **Nigeria** | *total:* 194,394 km |
+| | *paved:* 60,068 km (including 1,194 km of expressways) |
+| | *unpaved:* 134,326 km (1999 est.) |
+| **Niue** | *total:* 234 km |
+| | *paved:* 86 km |
+| | *unpaved:* 148 km (2001) |
+| **Norfolk Island** | *total:* 80 km |
+| | *paved:* 53 km |
+| | *unpaved:* 27 km (2001) |
+| **Northern Mariana Islands** | *total:* 362 km |
+| | *paved:* NA km |
+| | *unpaved:* NA km (1991) |
+| **Norway** | *total:* 91,852 km |
+| | *paved:* 71,185 km (including 178 km of expressways) |
+| | *unpaved:* 20,667 km (2002) |
+| **Oman** | *total:* 34,965 km |
+| | *paved:* 9,673 km (including 550 km of expressways) |
+| | *unpaved:* 25,292 km (2001) |
+| **Pakistan** | *total:* 257,683 km |
+| | *paved:* 152,033 km (including 339 km of expressways) |
+| | *unpaved:* 105,650 km (2001) |
+| **Palau** | *total:* 61 km |
+| | *paved:* 36 km |
+| | *unpaved:* 25 km |
+| **Palmyra Atoll** | most of the roads and many causeways built during World War II are unserviceable and overgrown (2001) |
+| **Panama** | *total:* 11,643 km |
+| | *paved:* 4,028 km (including 30 km of expressways) |
+| | *unpaved:* 7,615 km (2000 est.) |
+| **Papua New Guinea** | *total:* 19,600 km |
+| | *paved:* 686 km |
+| | *unpaved:* 18,914 km (1999 est.) |
+| **Paraguay** | *total:* 29,500 km |
+| | *paved:* 14,986 km |
+| | *unpaved:* 14,514 km (1999 est) |
+| **Peru** | *total:* 78,230 km |
+| | *paved:* 10,452 km |
+| | *unpaved:* 67,778 km (2001) |
+| **Philippines** | *total:* 202,124 km |
+| | *paved:* 19,202 km |
+| | *unpaved:* 182,922 km (2002) |
+| **Pitcairn Islands** | *total:* 6.4 km |
+| | *paved:* 0 km |
+| | *unpaved:* 6.4 km |
+| **Poland** | *total:* 364,697 km |
+| | *paved:* 249,088 km (including 399 km of expressways) |
+| | *unpaved:* 115,609 km (2001) |
+| **Portugal** | *total:* 17,135 km |
+| | *paved:* 14,736 km (including 1,659 km of expressways) |
+| | *unpaved:* 2,399 km (2002) |
+| **Puerto Rico** | *total:* 25,328 km |
+| | *paved:* 23,665 km (including 426 km of expressways) |
+| | *unpaved:* 1,363 km (2004) |
+| **Qatar** | *total:* 1,230 km |
+| | *paved:* 1,107 km |
+| | *unpaved:* 123 km (1999 est.) |
+| **Reunion** | *total:* 1,214 km (including 88 km of four-lane roads) (2001) |
+| **Romania** | *total:* 198,755 km |
+| | *paved:* 100,173 km (including 113 km of expressways) |
+| | *unpaved:* 98,582 km (2002) |
+| **Russia** | *total:* 537,289 km |
+| | *paved:* 362,133 km |
+| | *unpaved:* 175,156 km (2001) |
+| **Rwanda** | *total:* 12,000 km |
+| | *paved:* 996 km |
+| | *unpaved:* 11,004 km (1999 est.) |
+| **Saint Helena** | *total:* 198 km (Saint Helena 138 km, Ascension 40 km, Tristan da Cunha 20 km) |
+| | *paved:* 168 km (Saint Helena 118km, Ascension 40 km, Tristan da Cunha 10 km) |
+| | *unpaved:* 30 km (Saint Helena 20 km, Ascension 0 km, Tristan da Cunha 10 km) (2000) |
+| **Saint Kitts and Nevis** | *total:* 320 km |
+| | *paved:* 136 km |
+| | *unpaved:* 184 km (1999 est) |
+| **Saint Lucia** | *total:* 1,210 km |
+| | *paved:* 63 km |
+| | *unpaved:* 1,147 km (1999 est.) |
+| **Saint Pierre and Miquelon** | *total:* 114 km |
+| | *paved:* 69 km |
+| | *unpaved:* 45 km |
+| **Saint Vincent and the Grenadines** | *total:* 829 km |
+| | *paved:* 580 km |
+| | *unpaved:* 249 km (2002) |
+| **Samoa** | *total:* 790 km |
+| | *paved:* 332 km |
+| | *unpaved:* 458 km (1999 est.) |
+| **San Marino** | *total:* 220 km |
+| | *paved:* 220 km |
+| | *unpaved:* 0 km (2001) |
+| **Sao Tome and Principe** | *total:* 320 km |
+| | *paved:* 218 km |
+| | *unpaved:* 102 km (1999 est.) |
+| **Saudi Arabia** | *total:* 152,044 km |
+| | *paved:* 45,461 km |
+| | *unpaved:* 106,583 km (2000) |
+| **Senegal** | *total:* 14,576 km |
+| | *paved:* 4,271 km including 7 km of expressways |
+| | *unpaved:* 10,305 km (2000) |
+| **Serbia and Montenegro** | *total:* 45,290 km |
+| | *paved:* 28,261 km (including 374 km of expressways) |
+| | *unpaved:* 17,029 km (2002) |
+| **Seychelles** | *total:* 373 km |
+| | *paved:* 315 km |
+| | *unpaved:* 58 km (1997 est.) |
+| **Sierra Leone** | *total:* 11,300 km |
+| | *paved:* 904 km |
+| | *unpaved:* 10,396 km (2002) |
+| **Singapore** | *total:* 3,130 km |
+| | *paved:* 3,130 km (including 150 km of expressways) |
+| | *unpaved:* 0 km (2002) |
+| **Slovakia** | *total:* 42,970 km |
+| | *paved:* 37,698 km (including 302 km of expressways) |
+| | *unpaved:* 5,272 km (2002) |
+| **Slovenia** | *total:* 20,250 km |
+| | *paved:* 20,250 km (including 456 km of expressways) |
+| | *unpaved:* 0 km (2002) |
+| **Solomon Islands** | *total:* 1,360 km |
+| | *paved:* 34 km |
+| | *unpaved:* 1,326 km (1999 est.) |
+| **Somalia** | *total:* 22,100 km |
+| | *paved:* 2,608 km |
+| | *unpaved:* 19,492 km (1999 est.) |
+| **South Africa** | *total:* 275,971 km |
+| | *paved:* 57,568 km (including 2,032 km of expressways) |
+| | *unpaved:* 218,403 km (2002) |
+| **Spain** | *total:* 664,852 km |
+| | *paved:* 658,203 km (including 11,152 km of expressways) |
+| | *unpaved:* 6,649 km (2001) |
+| **Sri Lanka** | *total:* 11,650 km |
+| | *paved:* 11,068 km |
+| | *unpaved:* 582 km (2002) |
+| **Sudan** | *total:* 11,900 km |
+| | *paved:* 4,320 km |
+| | *unpaved:* 7,580 km (1999 est.) |
+| **Suriname** | *total:* 4,492 km |
+| | *paved:* 1,168 km |
+| | *unpaved:* 3,324 km (2002) |
+| **Svalbard** | *total:* NA km |
+| | *paved:* NA km |
+| | *unpaved:* NA km |
+| **Swaziland** | *total:* 3,107 km |
+| | *paved:* NA |
+| | *unpaved:* NA (2000) |
+| **Sweden** | *total:* 213,237 km |
+| | *paved:* 167,604 km (including 1,542 km of expressways) |
+| | *unpaved:* 45,633 km (2002) |
+| **Switzerland** | *total:* 71,212 km |
+| | *paved:* 71,212 km (including 1,706 of expressways) |
+| | *unpaved:* 0 km (2002) |
+| **Syria** | *total:* 45,697 km |
+| | *paved:* 6,489 km (including 1,001 km of expressways) |
+| | *unpaved:* 39,208 km (2002) |
+| **Taiwan** | *total:* 37,299 km |
+| | *paved:* 35,621 km (including 608 km of expressways) |
+| | *unpaved:* 1,678 km (2002) |
+| **Tajikistan** | *total:* 27,767 km |
+| | *paved:* NA |
+| | *unpaved:* NA (2000) |
+| **Tanzania** | *total:* 88,200 km |
+| | *paved:* 3,704 km |
+| | *unpaved:* 84,496 km (1999 est.) |
+| **Thailand** | *total:* 57,403 km |
+| | *paved:* 56,542 km |
+| | *unpaved:* 861 km (2000 est.) |
+| **Togo** | *total:* 7,520 km |
+| | *paved:* 2,376 km |
+| | *unpaved:* 5,144 km (1999 est.) |
+| **Tokelau** | *total:* NA |
+| | *paved:* NA |
+| | *unpaved:* NA |
+| **Tonga** | *total:* 680 km |
+| | *paved:* 184 km |
+| | *unpaved:* 496 km (1999 est.) |
+| **Trinidad and Tobago** | *total:* 8,320 km |
+| | *paved:* 4,252 km |
+| | *unpaved:* 4,068 km (1999 est.) |
+| **Tunisia** | *total:* 18,997 km |
+| | *paved:* 12,424 km (including 142 km of expressways) |
+| | *unpaved:* 6,573 km (2001) |
+| **Turkey** | *total:* 354,421 km |
+| | *paved:* 147,404 km (including 1,851 km of expressways) |
+| | *unpaved:* 207,017 km (2002) |
+| **Turkmenistan** | *total:* 24,000 km |
+| | *paved:* 19,488 km |
+| | *unpaved:* 4,512 km (1999 est.) |
+| **Turks and Caicos Islands** | *total:* 121 km |
+| | *paved:* 24 km |
+| | *unpaved:* 97 km (2000) |
+| **Tuvalu** | *total:* 8 km |
+| | *paved:* 0 km |
+| | *unpaved:* 8 km (1999 est.) |
+| **Uganda** | *total:* 27,000 km |
+| | *paved:* 1,809 km |
+| | *unpaved:* 25,191 km (1999 est.) |
+| **Ukraine** | *total:* 169,679 km |
+| | *paved:* 164,249 km |
+| | *unpaved:* 5,430 km (2002) |
+| **United Arab Emirates** | *total:* 1,088 km |
+| | *paved:* 1,088 km (including 253 km of expressways) |
+| | *unpaved:* 0 km (1999 est.) |
+| **United Kingdom** | *total:* 392,931 km |
+| | *paved:* 392,931 km (including 3,431 km of expressways) |
+| | *unpaved:* 0 km (2003) |
+| **United States** | *total:* 6,393,603 km |
+| | *paved:* 4,180,053 km (including 74,406 km of expressways) |
+| | *unpaved:* 2,213,550 km (2003) |
+| **Uruguay** | *total:* 8,983 km |
+| | *paved:* 8,081 km |
+| | *unpaved:* 902 km (1999 est.) |
+| **Uzbekistan** | *total:* 81,600 km |
+| | *paved:* 71,237 km |
+| | *unpaved:* 10,363 km (1999 est.) |
+| **Vanuatu** | *total:* 1,070 km |
+| | *paved:* 256 km |
+| | *unpaved:* 814 km (1999 est.) |
+| **Venezuela** | *total:* 96,155 km |
+| | *paved:* 32,308 km |
+| | *unpaved:* 63,847 km (1999 est.) |
+| **Vietnam** | *total:* 93,300 km |
+| | *paved:* 23,418 km |
+| | *unpaved:* 69,882 km (1999 est.) |
+| **Virgin Islands** | *total:* 1,257 km |
+| | *paved:* 1,192 km |
+| | *unpaved:* 65 km |
+| | *note:* the only US possession where driving on the left side of the road is practiced (2003) |
+| **Wallis and Futuna** | *total:* 120 km (Ile Uvea 100 km, Ile Futuna 20 km) |
+| | *paved:* 16 km (all on Ile Uvea) |
+| | *unpaved:* 104 km (Ile Uvea 84 km, Ile Futuna 20 km) |
+| **West Bank** | *total:* 4,500 km |
+| | *paved:* 2,700 km |
+| | *unpaved:* 1,800 km |
+| | *note:* Israelis have developed many highways to service Jewish settlements (1997 est.) |
+| **Western Sahara** | *total:* 6,200 km |
+| | *paved:* 1,350 km |
+| | *unpaved:* 4,850 km (1991 est) |
+| **World** | *total:* 32,345,165 km |
+| | *paved:* 19,403,061 km |
+| | *unpaved:* 12,942,104 km (2002) |
+| **Yemen** | *total:* 67,000 km |
+| | *paved:* 7,705 km |
+| | *unpaved:* 59,295 km (1999 est.) |
+| **Zambia** | *total:* 91,440 km |
+| | *paved:* 20,117 km |
+| | *unpaved:* 71,323 km (2001) |
+| **Zimbabwe** | *total:* 18,338 km |
+| | *paved:* 8,692 km |
+| | *unpaved:* 9,646 km (1999 est.) |
+
+This page was last updated on 20 October, 2005
+ 

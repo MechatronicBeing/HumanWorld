@@ -1,0 +1,216 @@
+CIA - The World Factbook -- Field Listing :: Crude oil - exports   
+
+This entry is the total amount of crude oil exported, in barrels per day (bbl/day).
+
+| Country | Crude oil - exports(bbl/day) |
+| --- | --- |
+| **Afghanistan** | 0 bbl/day (2009 est.) |
+| **Albania** | 6,920 bbl/day (2009 est.) |
+| **Algeria** | 697,500 bbl/day (2009 est.) |
+| **American Samoa** | 0 bbl/day (2009 est.) |
+| **Angola** | 1.757 million bbl/day (2009 est.) |
+| **Antigua and Barbuda** | 0 bbl/day (2009 est.) |
+| **Argentina** | 93,600 bbl/day (2009 est.) |
+| **Armenia** | 0 bbl/day (2009 est.) |
+| **Aruba** | 0 bbl/day (2009 est.) |
+| **Australia** | 250,000 bbl/day (2009 est.) |
+| **Austria** | 0 bbl/day (2009 est.) |
+| **Azerbaijan** | 821,000 bbl/day (2011 est.) |
+| **Bahamas, The** | 0 bbl/day (2009 est.) |
+| **Bahrain** | 0 bbl/day (2009 est.) |
+| **Bangladesh** | 0 bbl/day (2009 est.) |
+| **Barbados** | 0 bbl/day (2009 est.) |
+| **Belarus** | 34,320 bbl/day (2009 est.) |
+| **Belgium** | 0 bbl/day (2009 est.) |
+| **Belize** | 0 bbl/day (2009 est.) |
+| **Benin** | 0 bbl/day (2009 est.) |
+| **Bermuda** | 0 bbl/day (2009 est.) |
+| **Bhutan** | 0 bbl/day (2009 est.) |
+| **Bolivia** | 0 bbl/day (2009 est.) |
+| **Bosnia and Herzegovina** | 0 bbl/day (2009 est.) |
+| **Botswana** | 0 bbl/day (2009 est.) |
+| **Brazil** | 533,200 bbl/day (2009 est.) |
+| **British Virgin Islands** | 0 bbl/day (2009 est.) |
+| **Brunei** | 141,300 bbl/day (2009 est.) |
+| **Bulgaria** | 0 bbl/day (2012 est.) |
+| **Burkina Faso** | 0 bbl/day (2009 est.) |
+| **Burma** | 880 bbl/day (2009 est.) |
+| **Burundi** | 0 bbl/day (2009 est.) |
+| **Cambodia** | 0 bbl/day (2009 est.) |
+| **Cameroon** | 64,740 bbl/day (2009 est.) |
+| **Canada** | 1.355 million bbl/day (2009 est.) |
+| **Cape Verde** | 0 bbl/day (2009 est.) |
+| **Cayman Islands** | 0 bbl/day (2009 est.) |
+| **Central African Republic** | 0 bbl/day (2009 est.) |
+| **Chad** | 115,000 bbl/day (2009 est.) |
+| **Chile** | 0 bbl/day (2009 est.) |
+| **China** | 50,650 bbl/day (2011 est.) |
+| **Colombia** | 361,700 bbl/day (2009 est.) |
+| **Comoros** | 0 bbl/day (2009 est.) |
+| **Congo, Democratic Republic of the** | 11,000 bbl/day (2009 est.) |
+| **Congo, Republic of the** | 269,800 bbl/day (2009 est.) |
+| **Cook Islands** | 0 bbl/day (2009 est.) |
+| **Costa Rica** | 0 bbl/day (2009 est.) |
+| **Cote d'Ivoire** | 46,340 bbl/day (2009 est.) |
+| **Croatia** | 0 bbl/day (2009 est.) |
+| **Cuba** | 0 bbl/day (2009 est.) |
+| **Cyprus** | 0 bbl/day (2009 est.) |
+| **Czech Republic** | 420 bbl/day (2009 est.) |
+| **Denmark** | 171,100 bbl/day (2009 est.) |
+| **Djibouti** | 0 bbl/day (2009 est.) |
+| **Dominica** | 0 bbl/day (2009 est.) |
+| **Dominican Republic** | 0 bbl/day (2009 est.) |
+| **Ecuador** | 341,900 bbl/day (2009 est.) |
+| **Egypt** | 86,720 bbl/day (2009 est.) |
+| **El Salvador** | 0 bbl/day (2009 est.) |
+| **Equatorial Guinea** | 299,400 bbl/day (2009 est.) |
+| **Eritrea** | 0 bbl/day (2009 est.) |
+| **Estonia** | 0 bbl/day (2009 est.) |
+| **Ethiopia** | 0 bbl/day (2009 est.) |
+| **Falkland Islands (Islas Malvinas)** | 0 bbl/day (2009 est.) |
+| **Faroe Islands** | 0 bbl/day (2009 est.) |
+| **Fiji** | 0 bbl/day (2009 est.) |
+| **Finland** | 0 bbl/day (2009 est.) |
+| **France** | 0 bbl/day (2009 est.) |
+| **French Polynesia** | 0 bbl/day (2009 est.) |
+| **Gabon** | 226,800 bbl/day (2009 est.) |
+| **Gambia, The** | 0 bbl/day (2009 est.) |
+| **Georgia** | 820 bbl/day (2009 est.) |
+| **Germany** | 2,200 bbl/day (2009 est.) |
+| **Ghana** | 14,000 bbl/day (2011 est.) |
+| **Gibraltar** | 0 bbl/day (2009 est.) |
+| **Greece** | 19,960 bbl/day (2009 est.) |
+| **Greenland** | 0 bbl/day (2009 est.) |
+| **Grenada** | 0 bbl/day (2009 est.) |
+| **Guam** | 0 bbl/day (2009 est.) |
+| **Guatemala** | 12,620 bbl/day (2009 est.) |
+| **Guinea** | 0 bbl/day (2009 est.) |
+| **Guinea-Bissau** | 0 bbl/day (2009 est.) |
+| **Guyana** | 0 bbl/day (2009 est.) |
+| **Haiti** | 0 bbl/day (2009 est.) |
+| **Honduras** | 0 bbl/day (2009 est.) |
+| **Hong Kong** | 0 bbl/day (2009 est.) |
+| **Hungary** | 0 bbl/day (2009 est.) |
+| **Iceland** | 0 bbl/day (2009 est.) |
+| **India** | 0 bbl/day (2009 est.) |
+| **Indonesia** | 293,100 bbl/day (2009 est.) |
+| **Iran** | 2.295 million bbl/day (2009 est.) |
+| **Iraq** | 2.6 million bbl/day (2012 est.) |
+| **Ireland** | 0 bbl/day (2009 est.) |
+| **Israel** | 0 bbl/day (2009 est.) |
+| **Italy** | 6,300 bbl/day (2010 est.) |
+| **Jamaica** | 0 bbl/day (2009 est.) |
+| **Japan** | 0 bbl/day (2009 est.) |
+| **Jordan** | 0 bbl/day (2009 est.) |
+| **Kazakhstan** | 1.078 million bbl/day (2009 est.) |
+| **Kenya** | 0 bbl/day (2009 est.) |
+| **Kiribati** | 0 bbl/day (2009 est.) |
+| **Korea, North** | 0 bbl/day (2009 est.) |
+| **Korea, South** | 0 bbl/day (2009 est.) |
+| **Kuwait** | 1.365 million bbl/day (2009 est.) |
+| **Kyrgyzstan** | 0 bbl/day (2009 est.) |
+| **Laos** | 0 bbl/day (2009 est.) |
+| **Latvia** | 0 bbl/day (2009 est.) |
+| **Lebanon** | 0 bbl/day (2009 est.) |
+| **Lesotho** | 0 bbl/day (2009 est.) |
+| **Liberia** | 0 bbl/day (2009 est.) |
+| **Libya** | 1.039 million bbl/day (2009 est.) |
+| **Lithuania** | 2,260 bbl/day (2009 est.) |
+| **Luxembourg** | 0 bbl/day (2009 est.) |
+| **Macau** | 0 bbl/day (2009 est.) |
+| **Macedonia** | 0 bbl/day (2009 est.) |
+| **Madagascar** | 0 bbl/day (2009 est.) |
+| **Malawi** | 0 bbl/day (2009 est.) |
+| **Malaysia** | 236,400 bbl/day (2009 est.) |
+| **Maldives** | 0 bbl/day (2012 est.) |
+| **Mali** | 0 bbl/day (2009 est.) |
+| **Malta** | 0 bbl/day (2011 est.) |
+| **Mauritania** | 10,000 bbl/day (2009 est.) |
+| **Mauritius** | 0 bbl/day (2009 est.) |
+| **Mexico** | 1.299 million bbl/day (2009 est.) |
+| **Moldova** | 0 bbl/day (2009 est.) |
+| **Mongolia** | 5,260 bbl/day (2009 est.) |
+| **Montenegro** | 0 bbl/day (2009 est.) |
+| **Montserrat** | 0 bbl/day (2009 est.) |
+| **Morocco** | 0 bbl/day (2009 est.) |
+| **Mozambique** | 0 bbl/day (2009 est.) |
+| **Namibia** | 0 bbl/day (2009 est.) |
+| **Nauru** | 0 bbl/day (2009 est.) |
+| **Nepal** | 0 bbl/day (2009 est.) |
+| **Netherlands** | 13,140 bbl/day (2009 est.) |
+| **New Caledonia** | 0 bbl/day (2009 est.) |
+| **New Zealand** | 45,180 bbl/day (2009 est.) |
+| **Nicaragua** | 0 bbl/day (2009 est.) |
+| **Niger** | 0 bbl/day (2009 est.) |
+| **Nigeria** | 2.051 million bbl/day (2009 est.) |
+| **Niue** | 0 bbl/day (2009 est.) |
+| **Norway** | 1.759 million bbl/day (2009 est.) |
+| **Oman** | 701,600 bbl/day (2009 est.) |
+| **Pakistan** | 0 bbl/day (2009 est.) |
+| **Panama** | 0 bbl/day (2009 est.) |
+| **Papua New Guinea** | 0 bbl/day (2009 est.) |
+| **Paraguay** | 0 bbl/day (2009 est.) |
+| **Peru** | 18,880 bbl/day (2009 est.) |
+| **Philippines** | 28,000 bbl/day (2009 est.) |
+| **Poland** | 4,520 bbl/day (2009 est.) |
+| **Portugal** | 0 bbl/day (2009 est.) |
+| **Puerto Rico** | 0 bbl/day (2009 est.) |
+| **Qatar** | 704,300 bbl/day (2009 est.) |
+| **Romania** | 0 bbl/day (2009 est.) |
+| **Russia** | 5.43 million bbl/day (2009 est.) |
+| **Rwanda** | 0 bbl/day (2009 est.) |
+| **Saint Helena, Ascension, and Tristan da Cunha** | 0 bbl/day (2009 est.) |
+| **Saint Kitts and Nevis** | 0 bbl/day (2009 est.) |
+| **Saint Lucia** | 0 bbl/day (2009 est.) |
+| **Saint Pierre and Miquelon** | 0 bbl/day (2009 est.) |
+| **Saint Vincent and the Grenadines** | 0 bbl/day (2009 est.) |
+| **Samoa** | 0 bbl/day (2009 est.) |
+| **Sao Tome and Principe** | 0 bbl/day (2009 est.) |
+| **Saudi Arabia** | 6.88 million bbl/day (2011 est.) |
+| **Senegal** | 0 bbl/day (2009 est.) |
+| **Serbia** | 0 bbl/day (2009 est.) |
+| **Seychelles** | 0 bbl/day (2009 est.) |
+| **Sierra Leone** | 0 bbl/day (2009 est.) |
+| **Singapore** | 900 bbl/day (2009 est.) |
+| **Slovakia** | 300 bbl/day (2009 est.) |
+| **Slovenia** | 0 bbl/day (2009 est.) |
+| **Solomon Islands** | 0 bbl/day (2009 est.) |
+| **Somalia** | 0 bbl/day (2009 est.) |
+| **South Africa** | 0 bbl/day (2009 est.) |
+| **Spain** | 0 bbl/day (2009 est.) |
+| **Sri Lanka** | 0 bbl/day (2012 est.) |
+| **Sudan** | 370,700 bbl/day (2009 est.) |
+| **Suriname** | 0 bbl/day (2009 est.) |
+| **Swaziland** | 0 bbl/day (2009 est.) |
+| **Sweden** | 0 bbl/day (2009 est.) |
+| **Switzerland** | 0 bbl/day (2011 est.) |
+| **Syria** | 144,000 bbl/day (2009 est.) |
+| **Taiwan** | 0 bbl/day (2009 est.) |
+| **Tajikistan** | 80 bbl/day (2009 est.) |
+| **Tanzania** | 0 bbl/day (2009 est.) |
+| **Thailand** | 39,820 bbl/day (2009 est.) |
+| **Timor-Leste** | 96,270 bbl/day (2009 est.) |
+| **Togo** | 0 bbl/day (2009 est.) |
+| **Tonga** | 0 bbl/day (2009 est.) |
+| **Trinidad and Tobago** | 55,240 bbl/day (2009 est.) |
+| **Tunisia** | 65,960 bbl/day (2009 est.) |
+| **Turkey** | 0 bbl/day (2009 est.) |
+| **Turkmenistan** | 67,000 bbl/day (2012 est.) |
+| **Turks and Caicos Islands** | 0 bbl/day (2009 est.) |
+| **Uganda** | 0 bbl/day (2009 est.) |
+| **Ukraine** | 160 bbl/day (2009 est.) |
+| **United Arab Emirates** | 2.036 million bbl/day (2009 est.) |
+| **United Kingdom** | 788,900 bbl/day (2009 est.) |
+| **United States** | 43,800 bbl/day (2009 est.) |
+| **Uruguay** | 0 bbl/day (2009 est.) |
+| **Uzbekistan** | 0 bbl/day (2009 est.) |
+| **Vanuatu** | 0 bbl/day (2009 est.) |
+| **Venezuela** | 1.691 million bbl/day (2009 est.) |
+| **Vietnam** | 267,500 bbl/day (2009 est.) |
+| **Virgin Islands** | 0 bbl/day (2009 est.) |
+| **West Bank** | 0 bbl/day (2009 est.) |
+| **Western Sahara** | 0 bbl/day (2009 est.) |
+| **World** | 41.51 million bbl/day (2009 est.) |
+| **Yemen** | 191,100 bbl/day (2009 est.) |
+| **Zambia** | 0 bbl/day (2009 est.) |
+| **Zimbabwe** | 0 bbl/day (2009 est.) |

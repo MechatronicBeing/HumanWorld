@@ -1,0 +1,718 @@
+CIA - The World Factbook -- Field Listing - Life expectancy at birth
+
+| Country | Life expectancy at birth (years) |
+| --- | --- |
+| **Afghanistan** | *total population:* 43.34 years |
+| | *male:* 43.16 years |
+| | *female:* 43.53 years (2006 est.) |
+| **Albania** | *total population:* 77.43 years |
+| | *male:* 74.78 years |
+| | *female:* 80.34 years (2006 est.) |
+| **Algeria** | *total population:* 73.26 years |
+| | *male:* 71.68 years |
+| | *female:* 74.92 years (2006 est.) |
+| **American Samoa** | *total population:* 76.05 years |
+| | *male:* 72.48 years |
+| | *female:* 79.82 years (2006 est.) |
+| **Andorra** | *total population:* 83.51 years |
+| | *male:* 80.61 years |
+| | *female:* 86.61 years (2006 est.) |
+| **Angola** | *total population:* 38.62 years |
+| | *male:* 37.47 years |
+| | *female:* 39.83 years (2006 est.) |
+| **Anguilla** | *total population:* 77.28 years |
+| | *male:* 74.35 years |
+| | *female:* 80.3 years (2006 est.) |
+| **Antigua and Barbuda** | *total population:* 72.16 years |
+| | *male:* 69.78 years |
+| | *female:* 74.66 years (2006 est.) |
+| **Argentina** | *total population:* 76.12 years |
+| | *male:* 72.38 years |
+| | *female:* 80.05 years (2006 est.) |
+| **Armenia** | *total population:* 71.84 years |
+| | *male:* 68.25 years |
+| | *female:* 76.02 years (2006 est.) |
+| **Aruba** | *total population:* 79.28 years |
+| | *male:* 75.95 years |
+| | *female:* 82.78 years (2006 est.) |
+| **Australia** | *total population:* 80.5 years |
+| | *male:* 77.64 years |
+| | *female:* 83.52 years (2006 est.) |
+| **Austria** | *total population:* 79.07 years |
+| | *male:* 76.17 years |
+| | *female:* 82.11 years (2006 est.) |
+| **Azerbaijan** | *total population:* 63.85 years |
+| | *male:* 59.78 years |
+| | *female:* 68.13 years (2006 est.) |
+| **Bahamas, The** | *total population:* 65.6 years |
+| | *male:* 62.24 years |
+| | *female:* 69.03 years (2006 est.) |
+| **Bahrain** | *total population:* 74.45 years |
+| | *male:* 71.97 years |
+| | *female:* 77 years (2006 est.) |
+| **Bangladesh** | *total population:* 62.46 years |
+| | *male:* 62.47 years |
+| | *female:* 62.45 years (2006 est.) |
+| **Barbados** | *total population:* 72.79 years |
+| | *male:* 70.79 years |
+| | *female:* 74.82 years (2006 est.) |
+| **Belarus** | *total population:* 69.08 years |
+| | *male:* 63.47 years |
+| | *female:* 74.98 years (2006 est.) |
+| **Belgium** | *total population:* 78.77 years |
+| | *male:* 75.59 years |
+| | *female:* 82.09 years (2006 est.) |
+| **Belize** | *total population:* 68.3 years |
+| | *male:* 66.43 years |
+| | *female:* 70.26 years (2006 est.) |
+| **Benin** | *total population:* 53.04 years |
+| | *male:* 51.9 years |
+| | *female:* 54.22 years (2006 est.) |
+| **Bermuda** | *total population:* 77.96 years |
+| | *male:* 75.85 years |
+| | *female:* 80.1 years (2006 est.) |
+| **Bhutan** | *total population:* 54.78 years |
+| | *male:* 55.02 years |
+| | *female:* 54.53 years (2006 est.) |
+| **Bolivia** | *total population:* 65.84 years |
+| | *male:* 63.21 years |
+| | *female:* 68.61 years (2006 est.) |
+| **Bosnia and Herzegovina** | *total population:* 78 years |
+| | *male:* 74.39 years |
+| | *female:* 81.88 years (2006 est.) |
+| **Botswana** | *total population:* 33.74 years |
+| | *male:* 33.9 years |
+| | *female:* 33.56 years (2006 est.) |
+| **Brazil** | *total population:* 71.97 years |
+| | *male:* 68.02 years |
+| | *female:* 76.12 years (2006 est.) |
+| **British Virgin Islands** | *total population:* 76.68 years |
+| | *male:* 75.56 years |
+| | *female:* 77.84 years (2006 est.) |
+| **Brunei** | *total population:* 75.01 years |
+| | *male:* 72.57 years |
+| | *female:* 77.59 years (2006 est.) |
+| **Bulgaria** | *total population:* 72.3 years |
+| | *male:* 68.68 years |
+| | *female:* 76.13 years (2006 est.) |
+| **Burkina Faso** | *total population:* 48.85 years |
+| | *male:* 47.33 years |
+| | *female:* 50.42 years (2006 est.) |
+| **Burma** | *total population:* 60.97 years |
+| | *male:* 58.07 years |
+| | *female:* 64.03 years (2006 est.) |
+| **Burundi** | *total population:* 50.81 years |
+| | *male:* 50.07 years |
+| | *female:* 51.58 years (2006 est.) |
+| **Cambodia** | *total population:* 59.29 years |
+| | *male:* 57.35 years |
+| | *female:* 61.32 years (2006 est.) |
+| **Cameroon** | *total population:* 51.16 years |
+| | *male:* 50.98 years |
+| | *female:* 51.34 years (2006 est.) |
+| **Canada** | *total population:* 80.22 years |
+| | *male:* 76.86 years |
+| | *female:* 83.74 years (2006 est.) |
+| **Cape Verde** | *total population:* 70.73 years |
+| | *male:* 67.41 years |
+| | *female:* 74.15 years (2006 est.) |
+| **Cayman Islands** | *total population:* 80.07 years |
+| | *male:* 77.45 years |
+| | *female:* 82.74 years (2006 est.) |
+| **Central African Republic** | *total population:* 43.54 years |
+| | *male:* 43.46 years |
+| | *female:* 43.62 years (2006 est.) |
+| **Chad** | *total population:* 47.52 years |
+| | *male:* 45.88 years |
+| | *female:* 49.21 years (2006 est.) |
+| **Chile** | *total population:* 76.77 years |
+| | *male:* 73.49 years |
+| | *female:* 80.21 years (2006 est.) |
+| **China** | *total population:* 72.58 years |
+| | *male:* 70.89 years |
+| | *female:* 74.46 years (2006 est.) |
+| **Christmas Island** | *total population:* NA |
+| | *male:* NA |
+| | *female:* NA |
+| **Cocos (Keeling) Islands** | *total population:* NA |
+| | *male:* NA |
+| | *female:* NA |
+| **Colombia** | *total population:* 71.99 years |
+| | *male:* 68.15 years |
+| | *female:* 75.96 years (2006 est.) |
+| **Comoros** | *total population:* 62.33 years |
+| | *male:* 60 years |
+| | *female:* 64.72 years (2006 est.) |
+| **Congo, Democratic Republic of the** | *total population:* 51.46 years |
+| | *male:* 50.01 years |
+| | *female:* 52.94 years (2006 est.) |
+| **Congo, Republic of the** | *total population:* 52.8 years |
+| | *male:* 51.65 years |
+| | *female:* 53.98 years (2006 est.) |
+| **Cook Islands** | *total population:* NA |
+| | *male:* NA |
+| | *female:* NA |
+| **Costa Rica** | *total population:* 77.02 years |
+| | *male:* 74.43 years |
+| | *female:* 79.74 years (2006 est.) |
+| **Cote d'Ivoire** | *total population:* 48.82 years |
+| | *male:* 46.24 years |
+| | *female:* 51.48 years (2006 est.) |
+| **Croatia** | *total population:* 74.68 years |
+| | *male:* 71.03 years |
+| | *female:* 78.53 years (2006 est.) |
+| **Cuba** | *total population:* 77.41 years |
+| | *male:* 75.11 years |
+| | *female:* 79.85 years (2006 est.) |
+| **Cyprus** | *total population:* 77.82 years |
+| | *male:* 75.44 years |
+| | *female:* 80.31 years (2006 est.) |
+| **Czech Republic** | *total population:* 76.22 years |
+| | *male:* 72.94 years |
+| | *female:* 79.69 years (2006 est.) |
+| **Denmark** | *total population:* 77.79 years |
+| | *male:* 75.49 years |
+| | *female:* 80.22 years (2006 est.) |
+| **Djibouti** | *total population:* 43.17 years |
+| | *male:* 41.86 years |
+| | *female:* 44.52 years (2006 est.) |
+| **Dominica** | *total population:* 74.87 years |
+| | *male:* 71.95 years |
+| | *female:* 77.93 years (2006 est.) |
+| **Dominican Republic** | *total population:* 71.73 years |
+| | *male:* 70.21 years |
+| | *female:* 73.33 years (2006 est.) |
+| **East Timor** | *total population:* 66.26 years |
+| | *male:* 63.96 years |
+| | *female:* 68.67 years (2006 est.) |
+| **Ecuador** | *total population:* 76.42 years |
+| | *male:* 73.55 years |
+| | *female:* 79.43 years (2006 est.) |
+| **Egypt** | *total population:* 71.29 years |
+| | *male:* 68.77 years |
+| | *female:* 73.93 years (2006 est.) |
+| **El Salvador** | *total population:* 71.49 years |
+| | *male:* 67.88 years |
+| | *female:* 75.28 years (2006 est.) |
+| **Equatorial Guinea** | *total population:* 49.54 years |
+| | *male:* 48 years |
+| | *female:* 51.13 years (2006 est.) |
+| **Eritrea** | *total population:* 59.03 years |
+| | *male:* 57.44 years |
+| | *female:* 60.66 years (2006 est.) |
+| **Estonia** | *total population:* 72.04 years |
+| | *male:* 66.58 years |
+| | *female:* 77.83 years (2006 est.) |
+| **Ethiopia** | *total population:* 49.03 years |
+| | *male:* 47.86 years |
+| | *female:* 50.24 years (2006 est.) |
+| **European Union** | *total population:* 78.3 years |
+| | *male:* 75.1 years |
+| | *female:* 81.6 years (2006 est.) |
+| **Falkland Islands (Islas Malvinas)** | *total population:* NA |
+| | *male:* NA |
+| | *female:* NA |
+| **Faroe Islands** | *total population:* 79.35 years |
+| | *male:* 75.91 years |
+| | *female:* 82.8 years (2006 est.) |
+| **Fiji** | *total population:* 69.82 years |
+| | *male:* 67.32 years |
+| | *female:* 72.45 years (2006 est.) |
+| **Finland** | *total population:* 78.5 years |
+| | *male:* 74.99 years |
+| | *female:* 82.17 years (2006 est.) |
+| **France** | *total population:* 79.73 years |
+| | *male:* 76.1 years |
+| | *female:* 83.54 years (2006 est.) |
+| **French Guiana** | *total population:* 77.27 years |
+| | *male:* 73.95 years |
+| | *female:* 80.75 years (2006 est.) |
+| **French Polynesia** | *total population:* 76.1 years |
+| | *male:* 73.69 years |
+| | *female:* 78.63 years (2006 est.) |
+| **Gabon** | *total population:* 54.49 years |
+| | *male:* 53.21 years |
+| | *female:* 55.81 years (2006 est.) |
+| **Gambia, The** | *total population:* 54.14 years |
+| | *male:* 52.3 years |
+| | *female:* 56.03 years (2006 est.) |
+| **Gaza Strip** | *total population:* 71.97 years |
+| | *male:* 70.67 years |
+| | *female:* 73.34 years (2006 est.) |
+| **Georgia** | *total population:* 76.09 years |
+| | *male:* 72.8 years |
+| | *female:* 79.87 years (2006 est.) |
+| **Germany** | *total population:* 78.8 years |
+| | *male:* 75.81 years |
+| | *female:* 81.96 years (2006 est.) |
+| **Ghana** | *total population:* 58.87 years |
+| | *male:* 58.07 years |
+| | *female:* 59.69 years (2006 est.) |
+| **Gibraltar** | *total population:* 79.8 years |
+| | *male:* 76.92 years |
+| | *female:* 82.83 years (2006 est.) |
+| **Greece** | *total population:* 79.24 years |
+| | *male:* 76.72 years |
+| | *female:* 81.91 years (2006 est.) |
+| **Greenland** | *total population:* 69.94 years |
+| | *male:* 66.36 years |
+| | *female:* 73.6 years (2006 est.) |
+| **Grenada** | *total population:* 64.87 years |
+| | *male:* 63.06 years |
+| | *female:* 66.68 years (2006 est.) |
+| **Guadeloupe** | *total population:* 78.06 years |
+| | *male:* 74.91 years |
+| | *female:* 81.37 years (2006 est.) |
+| **Guam** | *total population:* 78.58 years |
+| | *male:* 75.52 years |
+| | *female:* 81.83 years (2006 est.) |
+| **Guatemala** | *total population:* 69.38 years |
+| | *male:* 67.65 years |
+| | *female:* 71.18 years (2006 est.) |
+| **Guernsey** | *total population:* 80.42 years |
+| | *male:* 77.41 years |
+| | *female:* 83.53 years (2006 est.) |
+| **Guinea** | *total population:* 49.5 years |
+| | *male:* 48.34 years |
+| | *female:* 50.7 years (2006 est.) |
+| **Guinea-Bissau** | *total population:* 46.87 years |
+| | *male:* 45.05 years |
+| | *female:* 48.75 years (2006 est.) |
+| **Guyana** | *total population:* 65.86 years |
+| | *male:* 63.21 years |
+| | *female:* 68.65 years (2006 est.) |
+| **Haiti** | *total population:* 53.23 years |
+| | *male:* 51.89 years |
+| | *female:* 54.6 years (2006 est.) |
+| **Honduras** | *total population:* 69.33 years |
+| | *male:* 67.75 years |
+| | *female:* 70.98 years (2006 est.) |
+| **Hong Kong** | *total population:* 81.59 years |
+| | *male:* 78.9 years |
+| | *female:* 84.5 years (2006 est.) |
+| **Hungary** | *total population:* 72.66 years |
+| | *male:* 68.45 years |
+| | *female:* 77.14 years (2006 est.) |
+| **Iceland** | *total population:* 80.31 years |
+| | *male:* 78.23 years |
+| | *female:* 82.48 years (2006 est.) |
+| **India** | *total population:* 64.71 years |
+| | *male:* 63.9 years |
+| | *female:* 65.57 years (2006 est.) |
+| **Indonesia** | *total population:* 69.87 years |
+| | *male:* 67.42 years |
+| | *female:* 72.45 years (2006 est.) |
+| **Iran** | *total population:* 70.26 years |
+| | *male:* 68.86 years |
+| | *female:* 71.74 years (2006 est.) |
+| **Iraq** | *total population:* 69.01 years |
+| | *male:* 67.76 years |
+| | *female:* 70.31 years (2006 est.) |
+| **Ireland** | *total population:* 77.73 years |
+| | *male:* 75.11 years |
+| | *female:* 80.52 years (2006 est.) |
+| **Isle of Man** | *total population:* 78.49 years |
+| | *male:* 75.14 years |
+| | *female:* 82.02 years (2006 est.) |
+| **Israel** | *total population:* 79.46 years |
+| | *male:* 77.33 years |
+| | *female:* 81.7 years (2006 est.) |
+| **Italy** | *total population:* 79.81 years |
+| | *male:* 76.88 years |
+| | *female:* 82.94 years (2006 est.) |
+| **Jamaica** | *total population:* 73.24 years |
+| | *male:* 71.54 years |
+| | *female:* 75.03 years (2006 est.) |
+| **Japan** | *total population:* 81.25 years |
+| | *male:* 77.96 years |
+| | *female:* 84.7 years (2006 est.) |
+| **Jersey** | *total population:* 79.38 years |
+| | *male:* 76.89 years |
+| | *female:* 82.05 years (2006 est.) |
+| **Jordan** | *total population:* 78.4 years |
+| | *male:* 75.9 years |
+| | *female:* 81.05 years (2006 est.) |
+| **Kazakhstan** | *total population:* 66.89 years |
+| | *male:* 61.56 years |
+| | *female:* 72.52 years (2006 est.) |
+| **Kenya** | *total population:* 48.93 years |
+| | *male:* 49.78 years |
+| | *female:* 48.07 years (2006 est.) |
+| **Kiribati** | *total population:* 62.08 years |
+| | *male:* 59.06 years |
+| | *female:* 65.24 years (2006 est.) |
+| **Korea, North** | *total population:* 71.65 years |
+| | *male:* 68.92 years |
+| | *female:* 74.51 years (2006 est.) |
+| **Korea, South** | *total population:* 77.04 years |
+| | *male:* 73.61 years |
+| | *female:* 80.75 years (2006 est.) |
+| **Kuwait** | *total population:* 77.2 years |
+| | *male:* 76.13 years |
+| | *female:* 78.31 years (2006 est.) |
+| **Kyrgyzstan** | *total population:* 68.49 years |
+| | *male:* 64.48 years |
+| | *female:* 72.7 years (2006 est.) |
+| **Laos** | *total population:* 55.49 years |
+| | *male:* 53.45 years |
+| | *female:* 57.61 years (2006 est.) |
+| **Latvia** | *total population:* 71.33 years |
+| | *male:* 66.08 years |
+| | *female:* 76.85 years (2006 est.) |
+| **Lebanon** | *total population:* 72.88 years |
+| | *male:* 70.41 years |
+| | *female:* 75.48 years (2006 est.) |
+| **Lesotho** | *total population:* 34.4 years |
+| | *male:* 35.55 years |
+| | *female:* 33.21 years (2006 est.) |
+| **Liberia** | *total population:* 39.65 years |
+| | *male:* 37.99 years |
+| | *female:* 41.35 years (2006 est.) |
+| **Libya** | *total population:* 76.69 years |
+| | *male:* 74.46 years |
+| | *female:* 79.02 years (2006 est.) |
+| **Liechtenstein** | *total population:* 79.68 years |
+| | *male:* 76.1 years |
+| | *female:* 83.28 years (2006 est.) |
+| **Lithuania** | *total population:* 74.2 years |
+| | *male:* 69.2 years |
+| | *female:* 79.49 years (2006 est.) |
+| **Luxembourg** | *total population:* 78.89 years |
+| | *male:* 75.6 years |
+| | *female:* 82.38 years (2006 est.) |
+| **Macau** | *total population:* 82.19 years |
+| | *male:* 79.36 years |
+| | *female:* 85.17 years (2006 est.) |
+| **Macedonia** | *total population:* 73.97 years |
+| | *male:* 71.51 years |
+| | *female:* 76.62 years (2006 est.) |
+| **Madagascar** | *total population:* 57.34 years |
+| | *male:* 54.93 years |
+| | *female:* 59.82 years (2006 est.) |
+| **Malawi** | *total population:* 41.7 years |
+| | *male:* 41.93 years |
+| | *female:* 41.45 years (2006 est.) |
+| **Malaysia** | *total population:* 72.5 years |
+| | *male:* 69.8 years |
+| | *female:* 75.38 years (2006 est.) |
+| **Maldives** | *total population:* 64.41 years |
+| | *male:* 63.08 years |
+| | *female:* 65.8 years (2006 est.) |
+| **Mali** | *total population:* 49 years |
+| | *male:* 47.05 years |
+| | *female:* 51.01 years (2006 est.) |
+| **Malta** | *total population:* 79.01 years |
+| | *male:* 76.83 years |
+| | *female:* 81.31 years (2006 est.) |
+| **Marshall Islands** | *total population:* 70.31 years |
+| | *male:* 68.33 years |
+| | *female:* 72.39 years (2006 est.) |
+| **Martinique** | *total population:* 79.18 years |
+| | *male:* 79.5 years |
+| | *female:* 78.85 years (2006 est.) |
+| **Mauritania** | *total population:* 53.12 years |
+| | *male:* 50.88 years |
+| | *female:* 55.42 years (2006 est.) |
+| **Mauritius** | *total population:* 72.63 years |
+| | *male:* 68.66 years |
+| | *female:* 76.66 years (2006 est.) |
+| **Mayotte** | *total population:* 61.76 years |
+| | *male:* 59.57 years |
+| | *female:* 64.02 years (2006 est.) |
+| **Mexico** | *total population:* 75.41 years |
+| | *male:* 72.63 years |
+| | *female:* 78.33 years (2006 est.) |
+| **Micronesia, Federated States of** | *total population:* 70.05 years |
+| | *male:* 68.24 years |
+| | *female:* 71.95 years (2006 est.) |
+| **Moldova** | *total population:* 65.65 years |
+| | *male:* 61.61 years |
+| | *female:* 69.88 years (2006 est.) |
+| **Monaco** | *total population:* 79.69 years |
+| | *male:* 75.85 years |
+| | *female:* 83.74 years (2006 est.) |
+| **Mongolia** | *total population:* 64.89 years |
+| | *male:* 62.64 years |
+| | *female:* 67.25 years (2006 est.) |
+| **Montserrat** | *total population:* 78.85 years |
+| | *male:* 76.67 years |
+| | *female:* 81.14 years (2006 est.) |
+| **Morocco** | *total population:* 70.94 years |
+| | *male:* 68.62 years |
+| | *female:* 73.37 years (2006 est.) |
+| **Mozambique** | *total population:* 39.82 years |
+| | *male:* 39.53 years |
+| | *female:* 40.13 years (2006 est.) |
+| **Namibia** | *total population:* 43.39 years |
+| | *male:* 44.46 years |
+| | *female:* 42.29 years (2006 est.) |
+| **Nauru** | *total population:* 63.08 years |
+| | *male:* 59.5 years |
+| | *female:* 66.84 years (2006 est.) |
+| **Nepal** | *total population:* 60.18 years |
+| | *male:* 60.43 years |
+| | *female:* 59.91 years (2006 est.) |
+| **Netherlands** | *total population:* 78.96 years |
+| | *male:* 76.39 years |
+| | *female:* 81.67 years (2006 est.) |
+| **Netherlands Antilles** | *total population:* 76.03 years |
+| | *male:* 73.76 years |
+| | *female:* 78.41 years (2006 est.) |
+| **New Caledonia** | *total population:* 74.27 years |
+| | *male:* 71.29 years |
+| | *female:* 77.39 years (2006 est.) |
+| **New Zealand** | *total population:* 78.81 years |
+| | *male:* 75.82 years |
+| | *female:* 81.93 years (2006 est.) |
+| **Nicaragua** | *total population:* 70.63 years |
+| | *male:* 68.55 years |
+| | *female:* 72.81 years (2006 est.) |
+| **Niger** | *total population:* 43.76 years |
+| | *male:* 43.8 years |
+| | *female:* 43.73 years (2006 est.) |
+| **Nigeria** | *total population:* 47.08 years |
+| | *male:* 46.52 years |
+| | *female:* 47.66 years (2006 est.) |
+| **Niue** | *total population:* NA |
+| | *male:* NA |
+| | *female:* NA |
+| **Norfolk Island** | *total population:* NA |
+| | *male:* NA |
+| | *female:* NA |
+| **Northern Mariana Islands** | *total population:* 76.09 years |
+| | *male:* 73.5 years |
+| | *female:* 78.83 years (2006 est.) |
+| **Norway** | *total population:* 79.54 years |
+| | *male:* 76.91 years |
+| | *female:* 82.31 years (2006 est.) |
+| **Oman** | *total population:* 73.37 years |
+| | *male:* 71.14 years |
+| | *female:* 75.72 years (2006 est.) |
+| **Pakistan** | *total population:* 63.39 years |
+| | *male:* 62.4 years |
+| | *female:* 64.44 years (2006 est.) |
+| **Palau** | *total population:* 70.42 years |
+| | *male:* 67.26 years |
+| | *female:* 73.77 years (2006 est.) |
+| **Panama** | *total population:* 75.22 years |
+| | *male:* 72.68 years |
+| | *female:* 77.87 years (2006 est.) |
+| **Papua New Guinea** | *total population:* 65.28 years |
+| | *male:* 63.08 years |
+| | *female:* 67.58 years (2006 est.) |
+| **Paraguay** | *total population:* 75.1 years |
+| | *male:* 72.56 years |
+| | *female:* 77.78 years (2006 est.) |
+| **Peru** | *total population:* 69.84 years |
+| | *male:* 68.05 years |
+| | *female:* 71.71 years (2006 est.) |
+| **Philippines** | *total population:* 70.21 years |
+| | *male:* 67.32 years |
+| | *female:* 73.24 years (2006 est.) |
+| **Pitcairn Islands** | *total population:* NA |
+| | *male:* NA |
+| | *female:* NA |
+| **Poland** | *total population:* 74.97 years |
+| | *male:* 70.95 years |
+| | *female:* 79.23 years (2006 est.) |
+| **Portugal** | *total population:* 77.7 years |
+| | *male:* 74.43 years |
+| | *female:* 81.2 years (2006 est.) |
+| **Puerto Rico** | *total population:* 78.4 years |
+| | *male:* 74.46 years |
+| | *female:* 82.54 years (2006 est.) |
+| **Qatar** | *total population:* 73.9 years |
+| | *male:* 71.37 years |
+| | *female:* 76.57 years (2006 est.) |
+| **Reunion** | *total population:* 74.18 years |
+| | *male:* 70.78 years |
+| | *female:* 77.75 years (2006 est.) |
+| **Romania** | *total population:* 71.63 years |
+| | *male:* 68.14 years |
+| | *female:* 75.34 years (2006 est.) |
+| **Russia** | *total population:* 67.08 years |
+| | *male:* 60.45 years |
+| | *female:* 74.1 years (2006 est.) |
+| **Rwanda** | *total population:* 47.3 years |
+| | *male:* 46.26 years |
+| | *female:* 48.38 years (2006 est.) |
+| **Saint Helena** | *total population:* 77.93 years |
+| | *male:* 75.02 years |
+| | *female:* 80.98 years (2006 est.) |
+| **Saint Kitts and Nevis** | *total population:* 72.4 years |
+| | *male:* 69.56 years |
+| | *female:* 75.42 years (2006 est.) |
+| **Saint Lucia** | *total population:* 73.84 years |
+| | *male:* 70.29 years |
+| | *female:* 77.65 years (2006 est.) |
+| **Saint Pierre and Miquelon** | *total population:* 78.61 years |
+| | *male:* 76.27 years |
+| | *female:* 81.06 years (2006 est.) |
+| **Saint Vincent and the Grenadines** | *total population:* 73.85 years |
+| | *male:* 71.99 years |
+| | *female:* 75.77 years (2006 est.) |
+| **Samoa** | *total population:* 71 years |
+| | *male:* 68.2 years |
+| | *female:* 73.94 years (2006 est.) |
+| **San Marino** | *total population:* 81.71 years |
+| | *male:* 78.23 years |
+| | *female:* 85.5 years (2006 est.) |
+| **Sao Tome and Principe** | *total population:* 67.31 years |
+| | *male:* 65.73 years |
+| | *female:* 68.95 years (2006 est.) |
+| **Saudi Arabia** | *total population:* 75.67 years |
+| | *male:* 73.66 years |
+| | *female:* 77.78 years (2006 est.) |
+| **Senegal** | *total population:* 59.25 years |
+| | *male:* 57.7 years |
+| | *female:* 60.85 years (2006 est.) |
+| **Serbia** | *total population:* 74 years |
+| | *male:* 71 years |
+| | *female:* 76 years |
+| **Seychelles** | *total population:* 72.08 years |
+| | *male:* 66.69 years |
+| | *female:* 77.63 years (2006 est.) |
+| **Sierra Leone** | *total population:* 40.22 years |
+| | *male:* 38.05 years |
+| | *female:* 42.46 years (2006 est.) |
+| **Singapore** | *total population:* 81.71 years |
+| | *male:* 79.13 years |
+| | *female:* 84.49 years (2006 est.) |
+| **Slovakia** | *total population:* 74.73 years |
+| | *male:* 70.76 years |
+| | *female:* 78.89 years (2006 est.) |
+| **Slovenia** | *total population:* 76.33 years |
+| | *male:* 72.63 years |
+| | *female:* 80.29 years (2006 est.) |
+| **Solomon Islands** | *total population:* 72.91 years |
+| | *male:* 70.4 years |
+| | *female:* 75.55 years (2006 est.) |
+| **Somalia** | *total population:* 48.47 years |
+| | *male:* 46.71 years |
+| | *female:* 50.28 years (2006 est.) |
+| **South Africa** | *total population:* 42.73 years |
+| | *male:* 43.25 years |
+| | *female:* 42.19 years (2006 est.) |
+| **Spain** | *total population:* 79.65 years |
+| | *male:* 76.32 years |
+| | *female:* 83.2 years (2006 est.) |
+| **Sri Lanka** | *total population:* 73.41 years |
+| | *male:* 70.83 years |
+| | *female:* 76.12 years (2006 est.) |
+| **Sudan** | *total population:* 58.92 years |
+| | *male:* 57.69 years |
+| | *female:* 60.21 years (2006 est.) |
+| **Suriname** | *total population:* 69.01 years |
+| | *male:* 66.66 years |
+| | *female:* 71.47 years (2006 est.) |
+| **Svalbard** | *total population:* NA |
+| | *male:* NA |
+| | *female:* NA |
+| **Swaziland** | *total population:* 32.62 years |
+| | *male:* 32.1 years |
+| | *female:* 33.17 years (2006 est.) |
+| **Sweden** | *total population:* 80.51 years |
+| | *male:* 78.29 years |
+| | *female:* 82.87 years (2006 est.) |
+| **Switzerland** | *total population:* 80.51 years |
+| | *male:* 77.69 years |
+| | *female:* 83.48 years (2006 est.) |
+| **Syria** | *total population:* 70.32 years |
+| | *male:* 69.01 years |
+| | *female:* 71.7 years (2006 est.) |
+| **Taiwan** | *total population:* 77.43 years |
+| | *male:* 74.67 years |
+| | *female:* 80.47 years (2006 est.) |
+| **Tajikistan** | *total population:* 64.94 years |
+| | *male:* 62.03 years |
+| | *female:* 68 years (2006 est.) |
+| **Tanzania** | *total population:* 45.64 years |
+| | *male:* 44.93 years |
+| | *female:* 46.37 years (2006 est.) |
+| **Thailand** | *total population:* 72.25 years |
+| | *male:* 69.95 years |
+| | *female:* 74.68 years (2006 est.) |
+| **Togo** | *total population:* 57.42 years |
+| | *male:* 55.41 years |
+| | *female:* 59.49 years (2006 est.) |
+| **Tokelau** | *total population:* NA |
+| | *male:* NA |
+| | *female:* NA |
+| **Tonga** | *total population:* 69.82 years |
+| | *male:* 67.32 years |
+| | *female:* 72.45 years (2006 est.) |
+| **Trinidad and Tobago** | *total population:* 66.76 years |
+| | *male:* 65.71 years |
+| | *female:* 67.86 years (2006 est.) |
+| **Tunisia** | *total population:* 75.12 years |
+| | *male:* 73.4 years |
+| | *female:* 76.96 years (2006 est.) |
+| **Turkey** | *total population:* 72.62 years |
+| | *male:* 70.18 years |
+| | *female:* 75.18 years (2006 est.) |
+| **Turkmenistan** | *total population:* 61.83 years |
+| | *male:* 58.43 years |
+| | *female:* 65.41 years (2006 est.) |
+| **Turks and Caicos Islands** | *total population:* 74.73 years |
+| | *male:* 72.48 years |
+| | *female:* 77.08 years (2006 est.) |
+| **Tuvalu** | *total population:* 68.32 years |
+| | *male:* 66.08 years |
+| | *female:* 70.66 years (2006 est.) |
+| **Uganda** | *total population:* 52.67 years |
+| | *male:* 51.68 years |
+| | *female:* 53.69 years (2006 est.) |
+| **Ukraine** | *total population:* 69.98 years |
+| | *male:* 64.71 years |
+| | *female:* 75.59 years (2006 est.) |
+| **United Arab Emirates** | *total population:* 75.44 years |
+| | *male:* 72.92 years |
+| | *female:* 78.08 years (2006 est.) |
+| **United Kingdom** | *total population:* 78.54 years |
+| | *male:* 76.09 years |
+| | *female:* 81.13 years (2006 est.) |
+| **United States** | *total population:* 77.85 years |
+| | *male:* 75.02 years |
+| | *female:* 80.82 years (2006 est.) |
+| **Uruguay** | *total population:* 76.33 years |
+| | *male:* 73.12 years |
+| | *female:* 79.65 years (2006 est.) |
+| **Uzbekistan** | *total population:* 64.58 years |
+| | *male:* 61.19 years |
+| | *female:* 68.14 years (2006 est.) |
+| **Vanuatu** | *total population:* 62.85 years |
+| | *male:* 61.34 years |
+| | *female:* 64.44 years (2006 est.) |
+| **Venezuela** | *total population:* 74.54 years |
+| | *male:* 71.49 years |
+| | *female:* 77.81 years (2006 est.) |
+| **Vietnam** | *total population:* 70.85 years |
+| | *male:* 68.05 years |
+| | *female:* 73.85 years (2006 est.) |
+| **Virgin Islands** | *total population:* 79.05 years |
+| | *male:* 75.24 years |
+| | *female:* 83.09 years (2006 est.) |
+| **Wallis and Futuna** | *total population:* NA years |
+| | *male:* NA years |
+| | *female:* NA years |
+| **West Bank** | *total population:* 73.27 years |
+| | *male:* 71.5 years |
+| | *female:* 75.15 years (2006 est.) |
+| **Western Sahara** | *total population:* NA years |
+| | *male:* NA years |
+| | *female:* NA years |
+| **World** | *total population:* 64.77 years |
+| | *male:* 63.16 years |
+| | *female:* 66.47 years (2006 est.) |
+| **Yemen** | *total population:* 62.12 years |
+| | *male:* 60.23 years |
+| | *female:* 64.11 years (2006 est.) |
+| **Zambia** | *total population:* 40.03 years |
+| | *male:* 39.76 years |
+| | *female:* 40.31 years (2006 est.) |
+| **Zimbabwe** | *total population:* 39.29 years |
+| | *male:* 40.39 years |
+| | *female:* 38.16 years (2006 est.) |
+
+This page was last updated on 19 December, 2006
+ 

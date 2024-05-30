@@ -1,0 +1,802 @@
+CIA - The World Factbook -- Field Listing - Land use
+
+| Country | Land use (%) |
+| --- | --- |
+| **Afghanistan** | *arable land:* 12.13% |
+| | *permanent crops:* 0.22% |
+| | *other:* 87.65% (2001) |
+| **Albania** | *arable land:* 21.09% |
+| | *permanent crops:* 4.42% |
+| | *other:* 74.49% (2001) |
+| **Algeria** | *arable land:* 3.22% |
+| | *permanent crops:* 0.25% |
+| | *other:* 96.53% (2001) |
+| **American Samoa** | *arable land:* 10% |
+| | *permanent crops:* 15% |
+| | *other:* 75% (2001) |
+| **Andorra** | *arable land:* 2.22% |
+| | *permanent crops:* 0% |
+| | *other:* 97.78% (2001) |
+| **Angola** | *arable land:* 2.41% |
+| | *permanent crops:* 0.24% |
+| | *other:* 97.35% (2001) |
+| **Anguilla** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% (mostly rock with sparse scrub oak, few trees, some commercial salt ponds) (2001) |
+| **Antarctica** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% (ice 98%, barren rock 2%) (2001) |
+| **Antigua and Barbuda** | *arable land:* 18.18% |
+| | *permanent crops:* 4.55% |
+| | *other:* 77.27% (2001) |
+| **Argentina** | *arable land:* 12.31% |
+| | *permanent crops:* 0.48% |
+| | *other:* 87.21% (2001) |
+| **Armenia** | *arable land:* 17.55% |
+| | *permanent crops:* 2.3% |
+| | *other:* 80.15% (2001) |
+| **Aruba** | *arable land:* 10.53% (including aloe 0.01%) |
+| | *permanent crops:* 0% |
+| | *other:* 89.47% (2001) |
+| **Ashmore and Cartier Islands** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% (all grass and sand) (2001) |
+| **Australia** | *arable land:* 6.55% (includes about 27 million hectares of cultivated grassland) |
+| | *permanent crops:* 0.04% |
+| | *other:* 93.41% (2001) |
+| **Austria** | *arable land:* 16.91% |
+| | *permanent crops:* 0.86% |
+| | *other:* 82.23% (2001) |
+| **Azerbaijan** | *arable land:* 19.63% |
+| | *permanent crops:* 2.71% |
+| | *other:* 77.66% (2001) |
+| **Bahamas, The** | *arable land:* 0.8% |
+| | *permanent crops:* 0.4% |
+| | *other:* 98.8% (2001) |
+| **Bahrain** | *arable land:* 2.82% |
+| | *permanent crops:* 5.63% |
+| | *other:* 91.55% (2001) |
+| **Baker Island** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% (2001) |
+| **Bangladesh** | *arable land:* 62.11% |
+| | *permanent crops:* 3.07% |
+| | *other:* 34.82% (2001) |
+| **Barbados** | *arable land:* 37.21% |
+| | *permanent crops:* 2.33% |
+| | *other:* 60.46% (2001) |
+| **Bassas da India** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% (all rock) (2001) |
+| **Belarus** | *arable land:* 29.55% |
+| | *permanent crops:* 0.6% |
+| | *other:* 69.85% (2001) |
+| **Belgium** | *arable land:* 23.28% |
+| | *permanent crops:* 0.4% |
+| | *other:* 76.32% |
+| | *note:* includes Luxembourg (2001) |
+| **Belize** | *arable land:* 2.85% |
+| | *permanent crops:* 1.71% |
+| | *other:* 95.44% (2001) |
+| **Benin** | *arable land:* 18.08% |
+| | *permanent crops:* 2.4% |
+| | *other:* 79.52% (2001) |
+| **Bermuda** | *arable land:* 20% |
+| | *permanent crops:* 0% |
+| | *other:* 80% (55% developed, 45% rural/open space) (2001) |
+| **Bhutan** | *arable land:* 3.09% |
+| | *permanent crops:* 0.43% |
+| | *other:* 96.48% (2001) |
+| **Bolivia** | *arable land:* 2.67% |
+| | *permanent crops:* 0.19% |
+| | *other:* 97.54% (2001) |
+| **Bosnia and Herzegovina** | *arable land:* 13.6% |
+| | *permanent crops:* 2.96% |
+| | *other:* 83.44% (2001) |
+| **Botswana** | *arable land:* 0.65% |
+| | *permanent crops:* 0.01% |
+| | *other:* 99.34% (2001) |
+| **Bouvet Island** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% (93% ice) (2001) |
+| **Brazil** | *arable land:* 6.96% |
+| | *permanent crops:* 0.9% |
+| | *other:* 92.15% (2001) |
+| **British Indian Ocean Territory** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% (2001) |
+| **British Virgin Islands** | *arable land:* 20% |
+| | *permanent crops:* 6.67% |
+| | *other:* 73.33% (2001) |
+| **Brunei** | *arable land:* 0.57% |
+| | *permanent crops:* 0.76% |
+| | *other:* 98.67% (2001) |
+| **Bulgaria** | *arable land:* 40.02% |
+| | *permanent crops:* 1.92% |
+| | *other:* 58.06% (2001) |
+| **Burkina Faso** | *arable land:* 14.43% |
+| | *permanent crops:* 0.19% |
+| | *other:* 85.38% (2001) |
+| **Burma** | *arable land:* 15.19% |
+| | *permanent crops:* 0.97% |
+| | *other:* 83.84% (2001) |
+| **Burundi** | *arable land:* 35.05% |
+| | *permanent crops:* 14.02% |
+| | *other:* 50.93% (2001) |
+| **Cambodia** | *arable land:* 20.96% |
+| | *permanent crops:* 0.61% |
+| | *other:* 78.43% (2001) |
+| **Cameroon** | *arable land:* 12.81% |
+| | *permanent crops:* 2.58% |
+| | *other:* 84.61% (2001) |
+| **Canada** | *arable land:* 4.96% |
+| | *permanent crops:* 0.02% |
+| | *other:* 95.02% (2001) |
+| **Cape Verde** | *arable land:* 9.68% |
+| | *permanent crops:* 0.5% |
+| | *other:* 89.82% (2001) |
+| **Cayman Islands** | *arable land:* 3.85% |
+| | *permanent crops:* 0% |
+| | *other:* 96.15% (2001) |
+| **Central African Republic** | *arable land:* 3.1% |
+| | *permanent crops:* 0.14% |
+| | *other:* 96.76% (2001) |
+| **Chad** | *arable land:* 2.86% |
+| | *permanent crops:* 0.02% |
+| | *other:* 97.12% (2001) |
+| **Chile** | *arable land:* 2.65% |
+| | *permanent crops:* 0.42% |
+| | *other:* 96.93% (2001) |
+| **China** | *arable land:* 15.4% |
+| | *permanent crops:* 1.25% |
+| | *other:* 83.36% (2001) |
+| **Christmas Island** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% |
+| | *note:* mainly tropical rainforest; 63% of the island is a national park (2001) |
+| **Clipperton Island** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% (all coral) (2001) |
+| **Cocos (Keeling) Islands** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% (2001) |
+| **Colombia** | *arable land:* 2.42% |
+| | *permanent crops:* 1.67% |
+| | *other:* 95.91% (2001) |
+| **Comoros** | *arable land:* 35.87% |
+| | *permanent crops:* 23.32% |
+| | *other:* 40.81% (2001) |
+| **Congo, Democratic Republic of the** | *arable land:* 2.96% |
+| | *permanent crops:* 0.52% |
+| | *other:* 96.52% (2001) |
+| **Congo, Republic of the** | *arable land:* 0.51% |
+| | *permanent crops:* 0.13% |
+| | *other:* 99.36% (2001) |
+| **Cook Islands** | *arable land:* 17.39% |
+| | *permanent crops:* 13.04% |
+| | *other:* 69.57% (2001) |
+| **Coral Sea Islands** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% (mostly grass or scrub cover) (2001) |
+| **Costa Rica** | *arable land:* 4.41% |
+| | *permanent crops:* 5.88% |
+| | *other:* 89.71% (2001) |
+| **Cote d'Ivoire** | *arable land:* 9.75% |
+| | *permanent crops:* 13.84% |
+| | *other:* 76.41% (2001) |
+| **Croatia** | *arable land:* 26.09% |
+| | *permanent crops:* 2.27% |
+| | *other:* 71.65% (2001) |
+| **Cuba** | *arable land:* 33.05% |
+| | *permanent crops:* 7.6% |
+| | *other:* 59.35% (2001) |
+| **Cyprus** | *arable land:* 7.79% |
+| | *permanent crops:* 4.44% |
+| | *other:* 87.77% (2001) |
+| **Czech Republic** | *arable land:* 39.8% |
+| | *permanent crops:* 3.05% |
+| | *other:* 57.15% (2001) |
+| **Denmark** | *arable land:* 54.02% |
+| | *permanent crops:* 0.19% |
+| | *other:* 45.79% (2001) |
+| **Djibouti** | *arable land:* 0.04% |
+| | *permanent crops:* 0% |
+| | *other:* 99.96% (2001) |
+| **Dominica** | *arable land:* 6.67% |
+| | *permanent crops:* 20% |
+| | *other:* 73.33% (2001) |
+| **Dominican Republic** | *arable land:* 22.65% |
+| | *permanent crops:* 10.33% |
+| | *other:* 67.02% (2001) |
+| **East Timor** | *arable land:* 4.71% |
+| | *permanent crops:* 0.67% |
+| | *other:* 94.62% (2001) |
+| **Ecuador** | *arable land:* 5.85% |
+| | *permanent crops:* 4.93% |
+| | *other:* 89.22% (2001) |
+| **Egypt** | *arable land:* 2.87% |
+| | *permanent crops:* 0.48% |
+| | *other:* 96.65% (2001) |
+| **El Salvador** | *arable land:* 31.85% |
+| | *permanent crops:* 12.07% |
+| | *other:* 56.08% (2001) |
+| **Equatorial Guinea** | *arable land:* 4.63% |
+| | *permanent crops:* 3.57% |
+| | *other:* 91.8% (2001) |
+| **Eritrea** | *arable land:* 4.95% |
+| | *permanent crops:* 0.03% |
+| | *other:* 95.02% (2001) |
+| **Estonia** | *arable land:* 16.04% |
+| | *permanent crops:* 0.45% |
+| | *other:* 83.51% (2001) |
+| **Ethiopia** | *arable land:* 10.71% |
+| | *permanent crops:* 0.75% |
+| | *other:* 88.54% (2001) |
+| **Europa Island** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% (mangrove forests and woodlands) (2001) |
+| **European Union** | *arable land:* NA |
+| | *permanent crops:* NA |
+| **Falkland Islands (Islas Malvinas)** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% (99% permanent pastures, 1% other) (2001) |
+| **Faroe Islands** | *arable land:* 2.14% |
+| | *permanent crops:* 0% |
+| | *other:* 97.86% (2001) |
+| **Fiji** | *arable land:* 10.95% |
+| | *permanent crops:* 4.65% |
+| | *other:* 84.4% (2001) |
+| **Finland** | *arable land:* 7.19% |
+| | *permanent crops:* 0.03% |
+| | *other:* 92.78% (2001) |
+| **France** | *arable land:* 33.53% |
+| | *permanent crops:* 2.07% |
+| | *other:* 64.4% (2001) |
+| **French Guiana** | *arable land:* 0.14% |
+| | *permanent crops:* 0.05% |
+| | *other:* 99.81% (90% forest, 10% other) (2001) |
+| **French Polynesia** | *arable land:* 0.82% |
+| | *permanent crops:* 5.46% |
+| | *other:* 93.72% (2001) |
+| **French Southern and Antarctic Lands** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% (2001) |
+| **Gabon** | *arable land:* 1.26% |
+| | *permanent crops:* 0.66% |
+| | *other:* 98.08% (2001) |
+| **Gambia, The** | *arable land:* 25% |
+| | *permanent crops:* 0.5% |
+| | *other:* 74.5% (2001) |
+| **Gaza Strip** | *arable land:* 28.95% |
+| | *permanent crops:* 21.05% |
+| | *other:* 50% (2001) |
+| **Georgia** | *arable land:* 11.44% |
+| | *permanent crops:* 3.86% |
+| | *other:* 84.7% (2001) |
+| **Germany** | *arable land:* 33.85% |
+| | *permanent crops:* 0.59% |
+| | *other:* 65.56% (2001) |
+| **Ghana** | *arable land:* 16.26% |
+| | *permanent crops:* 9.67% |
+| | *other:* 74.07% (2001) |
+| **Gibraltar** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% (2001) |
+| **Glorioso Islands** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% (all lush vegetation and coconut palms) (2001) |
+| **Greece** | *arable land:* 21.1% |
+| | *permanent crops:* 8.78% |
+| | *other:* 70.12% (2001) |
+| **Greenland** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% (2001) |
+| **Grenada** | *arable land:* 5.88% |
+| | *permanent crops:* 29.41% |
+| | *other:* 64.71% (2001) |
+| **Guadeloupe** | *arable land:* 11.24% |
+| | *permanent crops:* 3.55% |
+| | *other:* 85.21% (2001) |
+| **Guam** | *arable land:* 9.09% |
+| | *permanent crops:* 16.36% |
+| | *other:* 74.55% (2001) |
+| **Guatemala** | *arable land:* 12.54% |
+| | *permanent crops:* 5.03% |
+| | *other:* 82.43% (2001) |
+| **Guernsey** | *arable land:* NA |
+| | *permanent crops:* NA |
+| | *other:* NA (2001) |
+| **Guinea** | *arable land:* 3.63% |
+| | *permanent crops:* 2.58% |
+| | *other:* 93.79% (2001) |
+| **Guinea-Bissau** | *arable land:* 10.67% |
+| | *permanent crops:* 8.82% |
+| | *other:* 80.51% (2001) |
+| **Guyana** | *arable land:* 2.44% |
+| | *permanent crops:* 0.15% |
+| | *other:* 97.41% (2001) |
+| **Haiti** | *arable land:* 28.3% |
+| | *permanent crops:* 11.61% |
+| | *other:* 60.09% (2001) |
+| **Heard Island and McDonald Islands** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% (2001) |
+| **Holy See (Vatican City)** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% (urban area) (2001) |
+| **Honduras** | *arable land:* 9.55% |
+| | *permanent crops:* 3.22% |
+| | *other:* 87.23% (2001) |
+| **Hong Kong** | *arable land:* 5.05% |
+| | *permanent crops:* 1.01% |
+| | *other:* 93.94% (2001) |
+| **Howland Island** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% (2001) |
+| **Hungary** | *arable land:* 50.09% |
+| | *permanent crops:* 2.06% |
+| | *other:* 47.85% (2001) |
+| **Iceland** | *arable land:* 0.07% |
+| | *permanent crops:* 0% |
+| | *other:* 99.93% (2001) |
+| **India** | *arable land:* 54.4% |
+| | *permanent crops:* 2.74% |
+| | *other:* 42.86% (2001) |
+| **Indonesia** | *arable land:* 11.32% |
+| | *permanent crops:* 7.23% |
+| | *other:* 81.45% (2001) |
+| **Iran** | *arable land:* 8.72% |
+| | *permanent crops:* 1.39% |
+| | *other:* 89.89% (2001) |
+| **Iraq** | *arable land:* 13.15% |
+| | *permanent crops:* 0.78% |
+| | *other:* 86.07% (2001) |
+| **Ireland** | *arable land:* 15.2% |
+| | *permanent crops:* 0.03% |
+| | *other:* 84.77% (2001) |
+| **Israel** | *arable land:* 16.39% |
+| | *permanent crops:* 4.17% |
+| | *other:* 79.44% (2001) |
+| **Italy** | *arable land:* 27.79% |
+| | *permanent crops:* 9.53% |
+| | *other:* 62.68% (2001) |
+| **Jamaica** | *arable land:* 16.07% |
+| | *permanent crops:* 10.16% |
+| | *other:* 73.77% (2001) |
+| **Jan Mayen** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% (2001) |
+| **Japan** | *arable land:* 12.19% |
+| | *permanent crops:* 0.96% |
+| | *other:* 86.85% (2001) |
+| **Jarvis Island** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% (2001) |
+| **Jersey** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% (2001) |
+| **Johnston Atoll** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% (2001) |
+| **Jordan** | *arable land:* 2.67% |
+| | *permanent crops:* 1.83% |
+| | *other:* 95.5% (2001) |
+| **Juan de Nova Island** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% (90% forest) (2001) |
+| **Kazakhstan** | *arable land:* 7.98% |
+| | *permanent crops:* 0.05% |
+| | *other:* 91.97% (2001) |
+| **Kenya** | *arable land:* 8.08% |
+| | *permanent crops:* 0.98% |
+| | *other:* 90.94% (2001) |
+| **Kingman Reef** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% (2001) |
+| **Kiribati** | *arable land:* 2.74% |
+| | *permanent crops:* 50.68% |
+| | *other:* 46.58% (2001) |
+| **Korea, North** | *arable land:* 20.76% |
+| | *permanent crops:* 2.49% |
+| | *other:* 76.75% (2001) |
+| **Korea, South** | *arable land:* 17.18% |
+| | *permanent crops:* 1.95% |
+| | *other:* 80.87% (2001) |
+| **Kuwait** | *arable land:* 0.73% |
+| | *permanent crops:* 0.11% |
+| | *other:* 99.16% (2001) |
+| **Kyrgyzstan** | *arable land:* 7.3% |
+| | *permanent crops:* 0.35% |
+| | *other:* 92.35% |
+| | *note:* Kyrgyzstan has the world's largest natural growth walnut forest (2001) |
+| **Laos** | *arable land:* 3.8% |
+| | *permanent crops:* 0.35% |
+| | *other:* 95.85% (2001) |
+| **Latvia** | *arable land:* 29.67% |
+| | *permanent crops:* 0.47% |
+| | *other:* 69.86% (2001) |
+| **Lebanon** | *arable land:* 16.62% |
+| | *permanent crops:* 13.98% |
+| | *other:* 69.4% (2001) |
+| **Lesotho** | *arable land:* 10.87% |
+| | *permanent crops:* 0.13% |
+| | *other:* 89% (2001) |
+| **Liberia** | *arable land:* 3.95% |
+| | *permanent crops:* 2.28% |
+| | *other:* 93.77% (2001) |
+| **Libya** | *arable land:* 1.03% |
+| | *permanent crops:* 0.19% |
+| | *other:* 98.78% (2001) |
+| **Liechtenstein** | *arable land:* 25% |
+| | *permanent crops:* 0% |
+| | *other:* 75% (2001) |
+| **Lithuania** | *arable land:* 45.22% |
+| | *permanent crops:* 0.91% |
+| | *other:* 53.87% (2001) |
+| **Luxembourg** | *arable land:* 23.28% |
+| | *permanent crops:* 0.4% |
+| | *other:* 76.32% (includes Belgium) (2001) |
+| **Macau** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% |
+| | *note:* "green areas" represent 22.4% (2001) |
+| **Macedonia** | *arable land:* 22.26% |
+| | *permanent crops:* 1.81% |
+| | *other:* 75.93% (2001) |
+| **Madagascar** | *arable land:* 5.07% |
+| | *permanent crops:* 1.03% |
+| | *other:* 93.91% (2001) |
+| **Malawi** | *arable land:* 23.38% |
+| | *permanent crops:* 1.49% |
+| | *other:* 75.13% (2001) |
+| **Malaysia** | *arable land:* 5.48% |
+| | *permanent crops:* 17.61% |
+| | *other:* 76.91% (2001) |
+| **Maldives** | *arable land:* 13.33% |
+| | *permanent crops:* 16.67% |
+| | *other:* 70% (2001) |
+| **Mali** | *arable land:* 3.82% |
+| | *permanent crops:* 0.03% |
+| | *other:* 96.15% (2001) |
+| **Malta** | *arable land:* 28.13% |
+| | *permanent crops:* 3.13% |
+| | *other:* 68.74% (2001) |
+| **Man, Isle of** | *arable land:* 9% |
+| | *permanent crops:* 0% |
+| | *other:* 91% (permanent pastures, forests, mountain, and heathland) (2002) |
+| **Marshall Islands** | *arable land:* 16.67% |
+| | *permanent crops:* 38.89% |
+| | *other:* 44.44% (2001) |
+| **Martinique** | *arable land:* 10.38% |
+| | *permanent crops:* 9.43% |
+| | *other:* 80.19% (2001) |
+| **Mauritania** | *arable land:* 0.48% |
+| | *permanent crops:* 0.01% |
+| | *other:* 99.51% (2001) |
+| **Mauritius** | *arable land:* 49.26% |
+| | *permanent crops:* 2.96% |
+| | *other:* 47.78% (2001) |
+| **Mayotte** | *arable land:* NA |
+| | *permanent crops:* NA |
+| | *other:* NA (2001) |
+| **Mexico** | *arable land:* 12.99% |
+| | *permanent crops:* 1.31% |
+| | *other:* 85.7% (2001) |
+| **Micronesia, Federated States of** | *arable land:* 5.71% |
+| | *permanent crops:* 45.71% |
+| | *other:* 48.58% (2001) |
+| **Midway Islands** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% (2001) |
+| **Moldova** | *arable land:* 55.3% |
+| | *permanent crops:* 10.79% |
+| | *other:* 33.91% (2001) |
+| **Monaco** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% (urban area) (2001) |
+| **Mongolia** | *arable land:* 0.77% |
+| | *permanent crops:* 0% |
+| | *other:* 99.23% (2001) |
+| **Montserrat** | *arable land:* 20% |
+| | *permanent crops:* 0% |
+| | *other:* 80% (2001) |
+| **Morocco** | *arable land:* 19.61% |
+| | *permanent crops:* 2.17% |
+| | *other:* 78.22% (2001) |
+| **Mozambique** | *arable land:* 5.1% |
+| | *permanent crops:* 0.3% |
+| | *other:* 94.6% (2001) |
+| **Namibia** | *arable land:* 0.99% |
+| | *permanent crops:* 0% |
+| | *other:* 99.01% (2001) |
+| **Nauru** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% (2001) |
+| **Navassa Island** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% (2001) |
+| **Nepal** | *arable land:* 21.68% |
+| | *permanent crops:* 0.64% |
+| | *other:* 77.68% (2001) |
+| **Netherlands** | *arable land:* 26.71% |
+| | *permanent crops:* 0.97% |
+| | *other:* 72.32% (2001) |
+| **Netherlands Antilles** | *arable land:* 10% |
+| | *permanent crops:* 0% |
+| | *other:* 90% (2001) |
+| **New Caledonia** | *arable land:* 0.38% |
+| | *permanent crops:* 0.33% |
+| | *other:* 99.29% (2001) |
+| **New Zealand** | *arable land:* 5.6% |
+| | *permanent crops:* 6.99% |
+| | *other:* 87.41% (2001) |
+| **Nicaragua** | *arable land:* 15.94% |
+| | *permanent crops:* 1.94% |
+| | *other:* 82.12% (2001) |
+| **Niger** | *arable land:* 3.54% |
+| | *permanent crops:* 0.01% |
+| | *other:* 96.45% (2001) |
+| **Nigeria** | *arable land:* 31.29% |
+| | *permanent crops:* 2.96% |
+| | *other:* 65.75% (2001) |
+| **Niue** | *arable land:* 15.38% |
+| | *permanent crops:* 11.54% |
+| | *other:* 73.08% (2001) |
+| **Norfolk Island** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% (2001) |
+| **Northern Mariana Islands** | *arable land:* 13.04% |
+| | *permanent crops:* 4.35% |
+| | *other:* 82.61% (2001) |
+| **Norway** | *arable land:* 2.87% |
+| | *permanent crops:* 0% |
+| | *other:* 97.13% (2001) |
+| **Oman** | *arable land:* 0.12% |
+| | *permanent crops:* 0.14% |
+| | *other:* 99.74% (2001) |
+| **Pakistan** | *arable land:* 27.87% |
+| | *permanent crops:* 0.87% |
+| | *other:* 71.26% (2001) |
+| **Palau** | *arable land:* 8.7% |
+| | *permanent crops:* 4.35% |
+| | *other:* 86.95% (2001) |
+| **Palmyra Atoll** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% (forests and woodlands) (2001) |
+| **Panama** | *arable land:* 7.36% |
+| | *permanent crops:* 1.98% |
+| | *other:* 90.66% (2001) |
+| **Papua New Guinea** | *arable land:* 0.46% |
+| | *permanent crops:* 1.44% |
+| | *other:* 98.1% (2001) |
+| **Paracel Islands** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% (2001) |
+| **Paraguay** | *arable land:* 7.6% |
+| | *permanent crops:* 0.23% |
+| | *other:* 92.17% (2001) |
+| **Peru** | *arable land:* 2.89% |
+| | *permanent crops:* 0.4% |
+| | *other:* 96.71% (2001) |
+| **Philippines** | *arable land:* 18.95% |
+| | *permanent crops:* 16.77% |
+| | *other:* 64.28% (2001) |
+| **Pitcairn Islands** | *arable land:* NA |
+| | *permanent crops:* NA |
+| | *other:* NA (2001) |
+| **Poland** | *arable land:* 45.91% |
+| | *permanent crops:* 1.12% |
+| | *other:* 52.97% (2001) |
+| **Portugal** | *arable land:* 21.75% |
+| | *permanent crops:* 7.81% |
+| | *other:* 70.44% (2001) |
+| **Puerto Rico** | *arable land:* 3.95% |
+| | *permanent crops:* 5.52% |
+| | *other:* 90.53% (2001) |
+| **Qatar** | *arable land:* 1.64% |
+| | *permanent crops:* 0.27% |
+| | *other:* 98.09% (2001) |
+| **Reunion** | *arable land:* 13.6% |
+| | *permanent crops:* 1.2% |
+| | *other:* 85.2% (2001) |
+| **Romania** | *arable land:* 40.82% |
+| | *permanent crops:* 2.25% |
+| | *other:* 56.93% (2001) |
+| **Russia** | *arable land:* 7.33% |
+| | *permanent crops:* 0.11% |
+| | *other:* 92.56% (2001) |
+| **Rwanda** | *arable land:* 40.54% |
+| | *permanent crops:* 12.16% |
+| | *other:* 47.3% (2001) |
+| **Saint Helena** | *arable land:* 12.9% |
+| | *permanent crops:* 0% |
+| | *other:* 87.1% (2001) |
+| **Saint Kitts and Nevis** | *arable land:* 19.44% |
+| | *permanent crops:* 2.78% |
+| | *other:* 77.78% (2001) |
+| **Saint Lucia** | *arable land:* 6.56% |
+| | *permanent crops:* 22.95% |
+| | *other:* 70.49% (2001) |
+| **Saint Pierre and Miquelon** | *arable land:* 13.04% |
+| | *permanent crops:* 0% |
+| | *other:* 86.96% (2001) |
+| **Saint Vincent and the Grenadines** | *arable land:* 17.95% |
+| | *permanent crops:* 17.95% |
+| | *other:* 64.1% (2001) |
+| **Samoa** | *arable land:* 21.2% |
+| | *permanent crops:* 24.38% |
+| | *other:* 54.42% (2001) |
+| **San Marino** | *arable land:* 16.67% |
+| | *permanent crops:* 0% |
+| | *other:* 83.33% (2001) |
+| **Sao Tome and Principe** | *arable land:* 6.25% |
+| | *permanent crops:* 48.96% |
+| | *other:* 44.79% (2001) |
+| **Saudi Arabia** | *arable land:* 1.67% |
+| | *permanent crops:* 0.09% |
+| | *other:* 98.24% (2001) |
+| **Senegal** | *arable land:* 12.78% |
+| | *permanent crops:* 0.21% |
+| | *other:* 87.01% (2001) |
+| **Serbia and Montenegro** | *arable land:* 33.35% |
+| | *permanent crops:* 3.2% |
+| | *other:* 63.45% (2001) |
+| **Seychelles** | *arable land:* 2.22% |
+| | *permanent crops:* 13.33% |
+| | *other:* 84.45% (2001) |
+| **Sierra Leone** | *arable land:* 6.98% |
+| | *permanent crops:* 0.89% |
+| | *other:* 92.13% (2001) |
+| **Singapore** | *arable land:* 1.64% |
+| | *permanent crops:* 0% |
+| | *other:* 98.36% (2001) |
+| **Slovakia** | *arable land:* 30.16% |
+| | *permanent crops:* 2.62% |
+| | *other:* 67.22% (2001) |
+| **Slovenia** | *arable land:* 8.6% |
+| | *permanent crops:* 1.49% |
+| | *other:* 89.91% (2001) |
+| **Solomon Islands** | *arable land:* 0.64% |
+| | *permanent crops:* 2% |
+| | *other:* 97.36% (2001) |
+| **Somalia** | *arable land:* 1.67% |
+| | *permanent crops:* 0.04% |
+| | *other:* 98.29% (2001) |
+| **South Africa** | *arable land:* 12.08% |
+| | *permanent crops:* 0.79% |
+| | *other:* 87.13% (2001) |
+| **South Georgia and the South Sandwich Islands** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% (largely covered by permanent ice and snow with some sparse vegetation consisting of grass, moss, and lichen) (2001) |
+| **Spain** | *arable land:* 26.07% |
+| | *permanent crops:* 9.87% |
+| | *other:* 64.06% (2001) |
+| **Spratly Islands** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% (2001) |
+| **Sri Lanka** | *arable land:* 13.86% |
+| | *permanent crops:* 15.7% |
+| | *other:* 70.44% (2001) |
+| **Sudan** | *arable land:* 6.83% |
+| | *permanent crops:* 0.18% |
+| | *other:* 92.99% (2001) |
+| **Suriname** | *arable land:* 0.37% |
+| | *permanent crops:* 0.06% |
+| | *other:* 99.57% (2001) |
+| **Svalbard** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% (no trees, and the only bushes are crowberry and cloudberry) (2001) |
+| **Swaziland** | *arable land:* 10.35% |
+| | *permanent crops:* 0.7% |
+| | *other:* 88.95% (2001) |
+| **Sweden** | *arable land:* 6.54% |
+| | *permanent crops:* 0.01% |
+| | *other:* 93.45% (2001) |
+| **Switzerland** | *arable land:* 10.42% |
+| | *permanent crops:* 0.61% |
+| | *other:* 88.97% (2001) |
+| **Syria** | *arable land:* 25.22% |
+| | *permanent crops:* 4.43% |
+| | *other:* 70.35% (2001) |
+| **Taiwan** | *arable land:* 24% |
+| | *permanent crops:* 1% |
+| | *other:* 75% (2001) |
+| **Tajikistan** | *arable land:* 6.61% |
+| | *permanent crops:* 0.92% |
+| | *other:* 92.47% (2001) |
+| **Tanzania** | *arable land:* 4.52% |
+| | *permanent crops:* 1.08% |
+| | *other:* 94.4% (2001) |
+| **Thailand** | *arable land:* 29.36% |
+| | *permanent crops:* 6.46% |
+| | *other:* 64.18% (2001) |
+| **Togo** | *arable land:* 46.15% |
+| | *permanent crops:* 2.21% |
+| | *other:* 51.64% (2001) |
+| **Tokelau** | *arable land:* 0% (soil is thin and infertile) |
+| | *permanent crops:* 0% |
+| | *other:* 100% (2001) |
+| **Tonga** | *arable land:* 23.61% |
+| | *permanent crops:* 43.06% |
+| | *other:* 33.33% (2001) |
+| **Trinidad and Tobago** | *arable land:* 14.62% |
+| | *permanent crops:* 9.16% |
+| | *other:* 76.22% (2001) |
+| **Tromelin Island** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% (grasses; scattered bushes) (2001) |
+| **Tunisia** | *arable land:* 17.86% |
+| | *permanent crops:* 13.74% |
+| | *other:* 68.4% (2001) |
+| **Turkey** | *arable land:* 30.93% |
+| | *permanent crops:* 3.31% |
+| | *other:* 65.76% (2001) |
+| **Turkmenistan** | *arable land:* 3.72% |
+| | *permanent crops:* 0.14% |
+| | *other:* 96.14% (2001) |
+| **Turks and Caicos Islands** | *arable land:* 2.33% |
+| | *permanent crops:* 0% |
+| | *other:* 97.67% (2001) |
+| **Tuvalu** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% (2001) |
+| **Uganda** | *arable land:* 25.88% |
+| | *permanent crops:* 10.65% |
+| | *other:* 63.47% (2001) |
+| **Ukraine** | *arable land:* 56.21% |
+| | *permanent crops:* 1.61% |
+| | *other:* 42.18% (2001) |
+| **United Arab Emirates** | *arable land:* 0.6% |
+| | *permanent crops:* 2.25% |
+| | *other:* 97.15% (2001) |
+| **United Kingdom** | *arable land:* 23.46% |
+| | *permanent crops:* 0.21% |
+| | *other:* 76.33% (2001) |
+| **United States** | *arable land:* 19.13% |
+| | *permanent crops:* 0.22% |
+| | *other:* 80.65% (2001) |
+| **Uruguay** | *arable land:* 7.43% |
+| | *permanent crops:* 0.23% |
+| | *other:* 92.34% (2001) |
+| **Uzbekistan** | *arable land:* 10.83% |
+| | *permanent crops:* 0.83% |
+| | *other:* 88.34% (2001) |
+| **Vanuatu** | *arable land:* 2.46% |
+| | *permanent crops:* 7.38% |
+| | *other:* 90.16% (2001) |
+| **Venezuela** | *arable land:* 2.95% |
+| | *permanent crops:* 0.92% |
+| | *other:* 96.13% (2001) |
+| **Vietnam** | *arable land:* 19.97% |
+| | *permanent crops:* 5.95% |
+| | *other:* 74.08% (2001) |
+| **Virgin Islands** | *arable land:* 11.76% |
+| | *permanent crops:* 2.94% |
+| | *other:* 85.29% (2001) |
+| **Wake Island** | *arable land:* 0% |
+| | *permanent crops:* 0% |
+| | *other:* 100% (2001) |
+| **Wallis and Futuna** | *arable land:* 5% |
+| | *permanent crops:* 25% |
+| | *other:* 70% (2001) |
+| **West Bank** | *arable land:* 16.9% |
+| | *permanent crops:* 18.97% |
+| | *other:* 64.13% (2001) |
+| **Western Sahara** | *arable land:* 0.02% |
+| | *permanent crops:* 0% |
+| | *other:* 99.98% (2001) |
+| **World** | *arable land:* 10.73% |
+| | *permanent crops:* 1% |
+| | *other:* 88.27% (2001) |
+| **Yemen** | *arable land:* 2.78% |
+| | *permanent crops:* 0.24% |
+| | *other:* 96.98% (2001) |
+| **Zambia** | *arable land:* 7.08% |
+| | *permanent crops:* 0.03% |
+| | *other:* 92.9% (2001) |
+| **Zimbabwe** | *arable land:* 8.32% |
+| | *permanent crops:* 0.34% |
+| | *other:* 91.34% (2001) |
+
+This page was last updated on 10 February, 2005
+ 

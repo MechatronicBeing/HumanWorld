@@ -1,0 +1,256 @@
+CIA - The World Factbook -- Field Listing - Airports
+
+| Country | Airports |
+| --- | --- |
+| **Afghanistan** | 46 (2007) |
+| **Albania** | 11 (2007) |
+| **Algeria** | 150 (2007) |
+| **American Samoa** | 3 (2007) |
+| **Angola** | 232 (2007) |
+| **Anguilla** | 3 (2007) |
+| **Antarctica** | 26 (2007) |
+| **Antigua and Barbuda** | 3 (2007) |
+| **Argentina** | 1,272 (2007) |
+| **Armenia** | 12 (2007) |
+| **Aruba** | 1 (2007) |
+| **Australia** | 461 (2007) |
+| **Austria** | 55 (2007) |
+| **Azerbaijan** | 35 (2007) |
+| **Bahamas, The** | 62 (2007) |
+| **Bahrain** | 3 (2007) |
+| **Baker Island** | one abandoned World War II runway of 1,665 m covered with vegetation and unusable (2006) |
+| **Bangladesh** | 16 (2007) |
+| **Barbados** | 1 (2007) |
+| **Belarus** | 67 (2007) |
+| **Belgium** | 43 (2007) |
+| **Belize** | 44 (2007) |
+| **Benin** | 5 (2007) |
+| **Bermuda** | 1 (2007) |
+| **Bhutan** | 2 (2007) |
+| **Bolivia** | 1,061 (2007) |
+| **Bosnia and Herzegovina** | 28 (2007) |
+| **Botswana** | 85 (2007) |
+| **Brazil** | 4,263 (2007) |
+| **British Indian Ocean Territory** | 1 (2007) |
+| **British Virgin Islands** | 3 (2007) |
+| **Brunei** | 2 (2007) |
+| **Bulgaria** | 214 (2007) |
+| **Burkina Faso** | 33 (2007) |
+| **Burma** | 86 (2007) |
+| **Burundi** | 8 (2007) |
+| **Cambodia** | 17 (2007) |
+| **Cameroon** | 45 (2007) |
+| **Canada** | 1,343 (2007) |
+| **Cape Verde** | 8 (2007) |
+| **Cayman Islands** | 3 (2007) |
+| **Central African Republic** | 51 (2007) |
+| **Chad** | 55 (2007) |
+| **Chile** | 358 (2007) |
+| **China** | 467 (2007) |
+| **Christmas Island** | 1 (2007) |
+| **Cocos (Keeling) Islands** | 1 (2007) |
+| **Colombia** | 934 (2007) |
+| **Comoros** | 4 (2007) |
+| **Congo, Democratic Republic of the** | 237 (2007) |
+| **Congo, Republic of the** | 31 (2007) |
+| **Cook Islands** | 9 (2007) |
+| **Costa Rica** | 151 (2007) |
+| **Cote d'Ivoire** | 34 (2007) |
+| **Croatia** | 68 (2007) |
+| **Cuba** | 165 (2007) |
+| **Cyprus** | 16 (2007) |
+| **Czech Republic** | 122 (2007) |
+| **Denmark** | 91 (2007) |
+| **Djibouti** | 13 (2007) |
+| **Dominica** | 2 (2007) |
+| **Dominican Republic** | 34 (2007) |
+| **Ecuador** | 406 (2007) |
+| **Egypt** | 88 (2007) |
+| **El Salvador** | 65 (2007) |
+| **Equatorial Guinea** | 5 (2007) |
+| **Eritrea** | 18 (2007) |
+| **Estonia** | 19 (2007) |
+| **Ethiopia** | 84 (2007) |
+| **European Union** | 3,393 (2006) |
+| **Falkland Islands (Islas Malvinas)** | 6 (2007) |
+| **Faroe Islands** | 1 (2007) |
+| **Fiji** | 28 (2007) |
+| **Finland** | 148 (2007) |
+| **France** | 476 (2007) |
+| **French Polynesia** | 54 (2007) |
+| **French Southern and Antarctic Lands** | 4 (one each on Europa Island, Glorioso Islands, Juan de Nova Island, and Tromelin Island in the Iles Eparses district) (2006) |
+| **Gabon** | 53 (2007) |
+| **Gambia, The** | 1 (2007) |
+| **Gaza Strip** | 2 (2007) |
+| **Georgia** | 23 (2007) |
+| **Germany** | 550 (2007) |
+| **Ghana** | 12 (2007) |
+| **Gibraltar** | 1 (2007) |
+| **Greece** | 81 (2007) |
+| **Greenland** | 14 (2007) |
+| **Grenada** | 3 (2007) |
+| **Guam** | 5 (2007) |
+| **Guatemala** | 402 (2007) |
+| **Guernsey** | 2 (2007) |
+| **Guinea** | 16 (2007) |
+| **Guinea-Bissau** | 27 (2007) |
+| **Guyana** | 93 (2007) |
+| **Haiti** | 14 (2007) |
+| **Honduras** | 112 (2007) |
+| **Hong Kong** | 2 (2007) |
+| **Howland Island** | one airstrip constructed in 1937 for scheduled refueling stop on the round-the-world flight of Amelia EARHART and Fred NOONAN - they left Lae, New Guinea, for Howland Island, but were never seen again; the airstrip is no longer serviceable (2006) |
+| **Hungary** | 46 (2007) |
+| **Iceland** | 99 (2007) |
+| **India** | 346 (2007) |
+| **Indonesia** | 652 (2007) |
+| **Iran** | 331 (2007) |
+| **Iraq** | 110 (2007) |
+| **Ireland** | 34 (2007) |
+| **Isle of Man** | 1 (2007) |
+| **Israel** | 53 (2007) |
+| **Italy** | 132 (2007) |
+| **Jamaica** | 34 (2007) |
+| **Jan Mayen** | 1 (2007) |
+| **Japan** | 176 (2007) |
+| **Jersey** | 1 (2007) |
+| **Johnston Atoll** | 1 (2007) |
+| **Jordan** | 17 (2007) |
+| **Kazakhstan** | 97 (2007) |
+| **Kenya** | 225 (2007) |
+| **Kingman Reef** | lagoon was used as a halfway station between Hawaii and American Samoa by Pan American Airways for flying boats in 1937 and 1938 (2006) |
+| **Kiribati** | 19 (2007) |
+| **Korea, North** | 77 (2007) |
+| **Korea, South** | 105 (2007) |
+| **Kuwait** | 7 (2007) |
+| **Kyrgyzstan** | 30 (2007) |
+| **Laos** | 42 (2007) |
+| **Latvia** | 42 (2007) |
+| **Lebanon** | 7 (2007) |
+| **Lesotho** | 28 (2007) |
+| **Liberia** | 53 (2007) |
+| **Libya** | 141 (2007) |
+| **Lithuania** | 87 (2007) |
+| **Luxembourg** | 2 (2007) |
+| **Macau** | 1 (2007) |
+| **Macedonia** | 17 (2007) |
+| **Madagascar** | 104 (2007) |
+| **Malawi** | 39 (2007) |
+| **Malaysia** | 116 (2007) |
+| **Maldives** | 5 (2007) |
+| **Mali** | 29 (2007) |
+| **Malta** | 1 (2007) |
+| **Marshall Islands** | 15 (2007) |
+| **Mauritania** | 25 (2007) |
+| **Mauritius** | 5 (2007) |
+| **Mayotte** | 1 (2007) |
+| **Mexico** | 1,834 (2007) |
+| **Micronesia, Federated States of** | 6 (2007) |
+| **Midway Islands** | 3 (2007) |
+| **Moldova** | 10 (2007) |
+| **Mongolia** | 44 (2007) |
+| **Montenegro** | 5 (2007) |
+| **Montserrat** | 2 (2007) |
+| **Morocco** | 60 (2007) |
+| **Mozambique** | 147 (2007) |
+| **Namibia** | 137 (2007) |
+| **Nauru** | 1 (2007) |
+| **Nepal** | 47 (2007) |
+| **Netherlands** | 27 (2007) |
+| **Netherlands Antilles** | 5 (2007) |
+| **New Caledonia** | 25 (2007) |
+| **New Zealand** | 121 (2007) |
+| **Nicaragua** | 163 (2007) |
+| **Niger** | 28 (2007) |
+| **Nigeria** | 70 (2007) |
+| **Niue** | 1 (2007) |
+| **Norfolk Island** | 1 (2007) |
+| **Northern Mariana Islands** | 5 (2007) |
+| **Norway** | 98 (2007) |
+| **Oman** | 137 (2007) |
+| **Pakistan** | 146 (2007) |
+| **Palau** | 3 (2007) |
+| **Palmyra Atoll** | 1 (2007) |
+| **Panama** | 116 (2007) |
+| **Papua New Guinea** | 578 (2007) |
+| **Paracel Islands** | 1 (2007) |
+| **Paraguay** | 838 (2007) |
+| **Peru** | 237 (2007) |
+| **Philippines** | 255 (2007) |
+| **Poland** | 123 (2007) |
+| **Portugal** | 66 (2007) |
+| **Puerto Rico** | 29 (2007) |
+| **Qatar** | 5 (2007) |
+| **Romania** | 61 (2007) |
+| **Russia** | 1,260 (2007) |
+| **Rwanda** | 9 (2007) |
+| **Saint Barthelemy** | 1 |
+| **Saint Helena** | 1 (2007) |
+| **Saint Kitts and Nevis** | 2 (2007) |
+| **Saint Lucia** | 2 (2007) |
+| **Saint Martin** | 1 |
+| **Saint Pierre and Miquelon** | 2 (2007) |
+| **Saint Vincent and the Grenadines** | 6 (2007) |
+| **Samoa** | 4 (2007) |
+| **Sao Tome and Principe** | 2 (2007) |
+| **Saudi Arabia** | 213 (2007) |
+| **Senegal** | 20 (2007) |
+| **Serbia** | 39 (2007) |
+| **Seychelles** | 15 (2007) |
+| **Sierra Leone** | 10 (2007) |
+| **Singapore** | 8 (2007) |
+| **Slovakia** | 35 (2007) |
+| **Slovenia** | 14 (2007) |
+| **Solomon Islands** | 35 (2007) |
+| **Somalia** | 67 (2007) |
+| **South Africa** | 728 (2007) |
+| **Spain** | 154 (2007) |
+| **Spratly Islands** | 3 (2007) |
+| **Sri Lanka** | 18 (2007) |
+| **Sudan** | 101 (2007) |
+| **Suriname** | 50 (2007) |
+| **Svalbard** | 4 (2007) |
+| **Swaziland** | 18 (2007) |
+| **Sweden** | 250 (2007) |
+| **Switzerland** | 65 (2007) |
+| **Syria** | 90 (2007) |
+| **Taiwan** | 41 (2007) |
+| **Tajikistan** | 26 (2007) |
+| **Tanzania** | 124 (2007) |
+| **Thailand** | 106 (2007) |
+| **Timor-Leste** | 8 (2007) |
+| **Togo** | 9 (2007) |
+| **Tonga** | 6 (2007) |
+| **Trinidad and Tobago** | 6 (2007) |
+| **Tunisia** | 30 (2007) |
+| **Turkey** | 117 (2007) |
+| **Turkmenistan** | 28 (2007) |
+| **Turks and Caicos Islands** | 8 (2007) |
+| **Tuvalu** | 1 (2007) |
+| **Uganda** | 32 (2007) |
+| **Ukraine** | 437 (2007) |
+| **United Arab Emirates** | 39 (2007) |
+| **United Kingdom** | 449 (2007) |
+| **United States** | 14,947 (2007) |
+| **United States Pacific Island Wildlife Refuges** | *Baker Island:* one abandoned World War II runway of 1,665 m covered with vegetation and unusable |
+| | *Howland Island:* airstrip constructed in 1937 for scheduled refueling stop on the round-the-world flight of Amelia EARHART and Fred NOONAN; the aviators left Lae, New Guinea, for Howland Island but were never seen again; the airstrip is no longer serviceable |
+| | *Johnston Atoll:* one closed and not maintained |
+| | *Kingman Reef:* lagoon was used as a halfway station between Hawaii and American Samoa by Pan American Airways for flying boats in 1937 and 1938 |
+| | *Midway Islands:* 3 - one operational (2,409 m paved); no fuel for sale except emergencies |
+| | *Palmyra Atoll:* 1 - 1,846 m unpaved runway; privately owned (2006) |
+| **Uruguay** | 60 (2007) |
+| **Uzbekistan** | 54 (2007) |
+| **Vanuatu** | 31 (2007) |
+| **Venezuela** | 390 (2007) |
+| **Vietnam** | 44 (2007) |
+| **Virgin Islands** | 2 (2007) |
+| **Wake Island** | 1 (2007) |
+| **Wallis and Futuna** | 2 (2007) |
+| **West Bank** | 3 (2007) |
+| **Western Sahara** | 9 (2007) |
+| **World** | 49,024 (2006) |
+| **Yemen** | 50 (2007) |
+| **Zambia** | 107 (2007) |
+| **Zimbabwe** | 341 (2007) |
+
+This page was last updated on 13 December, 2007
+ 

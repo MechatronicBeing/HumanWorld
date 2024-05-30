@@ -1,0 +1,254 @@
+Field Listing :: Airports :: The World Factbook
+
+This entry gives the total number of airports or airfields recognizable from the air. The runway(s) may be paved (concrete or asphalt surfaces) or unpaved (grass, earth, sand, or gravel surfaces) and may include closed or abandoned installations. Airports or airfields that are no longer recognizable (overgrown, no facilities, etc.) are not included. Note that not all airports have accommodations for refueling, maintenance, or air traffic control.
+
+| Country | Airports |
+| --- | --- |
+| **Afghanistan** | *total:* 46 (2020) |
+| **Akrotiri** | *total:* 1 (2020) |
+| **Albania** | *total:* 3 (2020) |
+| **Algeria** | *total:* 149 (2020) |
+| **American Samoa** | *total:* 3 (2020) |
+| **Angola** | *total:* 102 (2020) |
+| **Anguilla** | *total:* 1 (2020) |
+| **Antarctica** | *total:* 17 (2020) |
+| **Antigua and Barbuda** | *total:* 3 (2020) |
+| **Argentina** | *total:* 916 (2020) |
+| **Armenia** | *total:* 7 (2020) |
+| **Aruba** | *total:* 1 (2020) |
+| **Australia** | *total:* 418 (2020) |
+| **Austria** | *total:* 50 (2020) |
+| **Azerbaijan** | *total:* 23 (2020) |
+| **Bahamas, The** | *total:* 54 (2020) |
+| **Bahrain** | *total:* 4 (2013) |
+| **Bangladesh** | *total:* 18 (2013) |
+| **Barbados** | *total:* 1 (2020) |
+| **Belarus** | *total:* 65 (2013) |
+| **Belgium** | *total:* 41 (2013) |
+| **Belize** | *total:* 47 (2013) |
+| **Benin** | *total:* 6 (2013) |
+| **Bermuda** | *total:* 1 (2020) |
+| **Bhutan** | *total:* 2 (2013) |
+| **Bolivia** | *total:* 855 (2013) |
+| **Bosnia and Herzegovina** | *total:* 24 (2013) |
+| **Botswana** | *total:* 74 (2013) |
+| **Brazil** | *total:* 4,093 (2013) |
+| **British Indian Ocean Territory** | *total:* 1 (2020) |
+| **British Virgin Islands** | *total:* 4 (2020) |
+| **Brunei** | *total:* 1 (2020) |
+| **Bulgaria** | *total:* 68 (2013) |
+| **Burkina Faso** | *total:* 23 (2013) |
+| **Burma** | *total:* 64 (2013) |
+| **Burundi** | *total:* 7 (2013) |
+| **Cabo Verde** | *total:* 9 (2013) |
+| **Cambodia** | *total:* 16 (2013) |
+| **Cameroon** | *total:* 33 (2013) |
+| **Canada** | *total:* 1,467 (2013) |
+| **Cayman Islands** | *total:* 3 (2020) |
+| **Central African Republic** | *total:* 39 (2013) |
+| **Chad** | *total:* 59 (2013) |
+| **Chile** | *total:* 481 (2013) |
+| **China** | *total:* 507 (2013) |
+| **Christmas Island** | *total:* 1 (2020) |
+| **Cocos (Keeling) Islands** | *total:* 1 (2020) |
+| **Colombia** | *total:* 836 (2013) |
+| **Comoros** | *total:* 4 (2013) |
+| **Congo, Democratic Republic of the** | *total:* 198 (2013) |
+| **Congo, Republic of the** | *total:* 27 (2013) |
+| **Cook Islands** | *total:* 11 (2013) |
+| **Costa Rica** | *total:* 161 (2013) |
+| **Cote d'Ivoire** | *total:* 27 (2013) |
+| **Croatia** | *total:* 69 (2013) |
+| **Cuba** | *total:* 133 (2017) |
+| **Curacao** | *total:* 1 (2020) |
+| **Cyprus** | *total:* 15 (2013) |
+| **Czechia** | *total:* 128 (2013) |
+| **Denmark** | *total:* 80 (2013) |
+| **Djibouti** | *total:* 13 (2013) |
+| **Dominica** | *total:* 2 (2020) |
+| **Dominican Republic** | *total:* 36 (2013) |
+| **Ecuador** | *total:* 432 (2013) |
+| **Egypt** | *total:* 83 (2013) |
+| **El Salvador** | *total:* 68 (2013) |
+| **Equatorial Guinea** | *total:* 7 (2013) |
+| **Eritrea** | *total:* 13 (2020) |
+| **Estonia** | *total:* 18 (2013) |
+| **Eswatini** | *total:* 14 (2013) |
+| **Ethiopia** | *total:* 57 (2013) |
+| **European Union** | |
+| **Falkland Islands (Islas Malvinas)** | *total:* 7 (2020) |
+| **Faroe Islands** | *total:* 1 (2020) |
+| **Fiji** | *total:* 28 (2013) |
+| **Finland** | *total:* 148 (2013) |
+| **France** | *total:* 464 (2013) |
+| **French Polynesia** | *total:* 54 (2013) |
+| **French Southern and Antarctic Lands** | *total:* 4 (2020) |
+| **Gabon** | *total:* 44 (2013) |
+| **Gambia, The** | *total:* 1 (2020) |
+| **Gaza Strip** | *total:* 1 (2013) |
+| **Georgia** | *total:* 22 (2013) |
+| **Germany** | *total:* 539 (2013) |
+| **Ghana** | *total:* 10 (2013) |
+| **Gibraltar** | *total:* 1 (2013) |
+| **Greece** | *total:* 77 (2013) |
+| **Greenland** | *total:* 15 (2013) |
+| **Grenada** | *total:* 3 (2013) |
+| **Guam** | *total:* 5 (2013) |
+| **Guatemala** | *total:* 291 (2013) |
+| **Guernsey** | *total:* 2 (2013) |
+| **Guinea** | *total:* 16 (2013) |
+| **Guinea-Bissau** | *total:* 8 (2013) |
+| **Guyana** | *total:* 117 (2013) |
+| **Haiti** | *total:* 14 (2013) |
+| **Honduras** | *total:* 103 (2013) |
+| **Hong Kong** | *total:* 2 (2013) |
+| **Hungary** | *total:* 41 (2013) |
+| **Iceland** | *total:* 96 (2013) |
+| **India** | *total:* 346 (2013) |
+| **Indonesia** | *total:* 673 (2013) |
+| **Iran** | *total:* 319 (2013) |
+| **Iraq** | *total:* 102 (2013) |
+| **Ireland** | *total:* 40 (2013) |
+| **Isle of Man** | *total:* 1 (2013) |
+| **Israel** | *total:* 42 (2020) |
+| **Italy** | *total:* 129 (2013) |
+| **Jamaica** | *total:* 28 (2013) |
+| **Jan Mayen** | *total:* 1 (2013) |
+| **Japan** | *total:* 175 (2013) |
+| **Jersey** | *total:* 1 (2013) |
+| **Jordan** | *total:* 18 (2013) |
+| **Kazakhstan** | *total:* 96 (2013) |
+| **Kenya** | *total:* 197 (2013) |
+| **Kiribati** | *total:* 19 (2013) |
+| **Korea, North** | *total:* 82 (2013) |
+| **Korea, South** | *total:* 111 (2013) |
+| **Kosovo** | *total:* 6 (2013) |
+| **Kuwait** | *total:* 7 (2013) |
+| **Kyrgyzstan** | *total:* 28 (2013) |
+| **Laos** | *total:* 41 (2013) |
+| **Latvia** | *total:* 42 (2013) |
+| **Lebanon** | *total:* 8 (2013) |
+| **Lesotho** | *total:* 24 (2013) |
+| **Liberia** | *total:* 29 (2013) |
+| **Libya** | *total:* 146 (2013) |
+| **Lithuania** | *total:* 61 (2013) |
+| **Luxembourg** | *total:* 2 (2013) |
+| **Macau** | *total:* 1 (2013) |
+| **Madagascar** | *total:* 83 (2013) |
+| **Malawi** | *total:* 32 (2013) |
+| **Malaysia** | *total:* 114 (2013) |
+| **Maldives** | *total:* 9 (2013) |
+| **Mali** | *total:* 25 (2013) |
+| **Malta** | *total:* 1 (2013) |
+| **Marshall Islands** | *total:* 15 (2013) |
+| **Mauritania** | *total:* 30 (2013) |
+| **Mauritius** | *total:* 5 (2013) |
+| **Mexico** | *total:* 1,714 (2013) |
+| **Micronesia, Federated States of** | *total:* 6 (2013) |
+| **Moldova** | *total:* 7 (2013) |
+| **Mongolia** | *total:* 44 (2013) |
+| **Montenegro** | *total:* 5 (2013) |
+| **Montserrat** | *total:* 1 (2013) |
+| **Morocco** | *total:* 55 (2013) |
+| **Mozambique** | *total:* 98 (2013) |
+| **Namibia** | *total:* 112 (2013) |
+| **Nauru** | *total:* 1 (2013) |
+| **Nepal** | *total:* 47 (2013) |
+| **Netherlands** | *total:* 29 (2013) |
+| **New Caledonia** | *total:* 25 (2013) |
+| **New Zealand** | *total:* 123 (2013) |
+| **Nicaragua** | *total:* 147 (2013) |
+| **Niger** | *total:* 30 (2013) |
+| **Nigeria** | *total:* 54 (2013) |
+| **Niue** | *total:* 1 (2013) |
+| **Norfolk Island** | *total:* 1 (2013) |
+| **North Macedonia** | *total:* 10 (2013) |
+| **Northern Mariana Islands** | *total:* 5 (2013) |
+| **Norway** | *total:* 95 (2013) |
+| **Oman** | *total:* 132 (2013) |
+| **Pakistan** | *total:* 151 (2013) |
+| **Palau** | *total:* 3 (2013) |
+| **Panama** | *total:* 117 (2013) |
+| **Papua New Guinea** | *total:* 561 (2013) |
+| **Paracel Islands** | *total:* 1 (2013) |
+| **Paraguay** | *total:* 799 (2013) |
+| **Peru** | *total:* 191 (2013) |
+| **Philippines** | *total:* 247 (2013) |
+| **Poland** | *total:* 126 (2013) |
+| **Portugal** | *total:* 64 (2013) |
+| **Puerto Rico** | *total:* 29 (2013) |
+| **Qatar** | *total:* 6 (2013) |
+| **Romania** | *total:* 45 (2013) |
+| **Russia** | *total:* 1,218 (2013) |
+| **Rwanda** | *total:* 7 (2013) |
+| **Saint Barthelemy** | *total:* 1 (2013) |
+| **Saint Helena, Ascension, and Tristan da Cunha** | *total:* 2 (2015) |
+| **Saint Kitts and Nevis** | *total:* 2 (2013) |
+| **Saint Lucia** | *total:* 2 (2013) |
+| **Saint Martin** | *total:* 1 (2013) |
+| **Saint Pierre and Miquelon** | *total:* 2 (2013) |
+| **Saint Vincent and the Grenadines** | *total:* 6 (2013) |
+| **Samoa** | *total:* 4 (2013) |
+| **Sao Tome and Principe** | *total:* 2 (2013) |
+| **Saudi Arabia** | *total:* 214 (2013) |
+| **Senegal** | *total:* 20 (2013) |
+| **Serbia** | *total:* 26 (2013) |
+| **Seychelles** | *total:* 14 (2013) |
+| **Sierra Leone** | *total:* 8 (2013) |
+| **Singapore** | *total:* 9 (2013) |
+| **Sint Maarten** | *total:* 1 (2013) |
+| **Slovakia** | *total:* 35 (2013) |
+| **Slovenia** | *total:* 16 (2020) |
+| **Solomon Islands** | *total:* 36 (2013) |
+| **Somalia** | *total:* 52 (2020) |
+| **South Africa** | *total:* 407 (2020) |
+| **South Sudan** | *total:* 89 (2020) |
+| **Spain** | *total:* 135 (2020) |
+| **Spratly Islands** | *total:* 8 (2020) |
+| **Sri Lanka** | *total:* 18 (2020) |
+| **Sudan** | *total:* 67 (2020) |
+| **Suriname** | *total:* 55 (2013) |
+| **Svalbard** | *total:* 4 (2013) |
+| **Sweden** | *total:* 231 (2013) |
+| **Switzerland** | *total:* 63 (2013) |
+| **Syria** | *total:* 90 (2013) |
+| **Taiwan** | *total:* 37 (2013) |
+| **Tajikistan** | *total:* 24 (2013) |
+| **Tanzania** | *total:* 166 (2013) |
+| **Thailand** | *total:* 101 (2013) |
+| **Timor-Leste** | *total:* 6 (2013) |
+| **Togo** | *total:* 8 (2013) |
+| **Tonga** | *total:* 6 (2013) |
+| **Trinidad and Tobago** | *total:* 4 (2013) |
+| **Tunisia** | *total:* 29 (2013) |
+| **Turkey** | *total:* 98 (2013) |
+| **Turkmenistan** | *total:* 26 (2013) |
+| **Turks and Caicos Islands** | *total:* 8 (2013) |
+| **Tuvalu** | *total:* 1 (2013) |
+| **Uganda** | *total:* 47 (2013) |
+| **Ukraine** | *total:* 187 (2013) |
+| **United Arab Emirates** | *total:* 43 (2013) |
+| **United Kingdom** | *total:* 460 (2013) |
+| **United States** | *total:* 13,513 (2013) |
+| **United States Pacific Island Wildlife Refuges** | *Baker Island:* one abandoned World War II runway of 1,665 m covered with vegetation and unusable (2013) |
+| | *Howland Island:* airstrip constructed in 1937 for scheduled refueling stop on the round-the-world flight of Amelia EARHART and Fred NOONAN; the aviators left Lae, New Guinea, for Howland Island but were never seen again; the airstrip is no longer serviceable (2013) |
+| | *Johnston Atoll:* one closed and not maintained (2013) |
+| | *Kingman Reef:* lagoon was used as a halfway station between Hawaii and American Samoa by Pan American Airways for flying boats in 1937 and 1938 (2013) |
+| | *Midway Islands:* 3 - one operational (2,377 m paved); no fuel for sale except emergencies (2013) |
+| | *Palmyra Atoll:* 1 - 1,846 m unpaved runway; privately owned (2013) |
+| **Uruguay** | *total:* 133 (2013) |
+| **Uzbekistan** | *total:* 53 (2013) |
+| **Vanuatu** | *total:* 31 (2013) |
+| **Venezuela** | *total:* 444 (2013) |
+| **Vietnam** | *total:* 45 (2013) |
+| **Virgin Islands** | *total:* 2 (2013) |
+| **Wake Island** | *total:* 1 (2018) |
+| **Wallis and Futuna** | *total:* 2 (2013) |
+| **West Bank** | *total:* 2 (2013) |
+| **World** | *total:* 41,820 (2016) |
+| | *top ten by passengers:* Atlanta (ATL) - 103,902,992; Beijing (PEK) - 95,786,442; Dubai (DXB) - 88,242,099; Tokyo (HND) - 85,408,975; Los Angeles (LAX) - 84,557,968; Chicago (ORD) - 79,828,183; London (LHR) - 78,014,598; Hong Kong (HKG) 72,664,075; Shanghai (PVG) 70,001,237; Paris (CDG) - 69,471,442 (2017) |
+| | *top ten by cargo (metric tons):* Hong Kong (HKG) - 5,049,898; Memphis, TN (MEM) - 4,336,752; Shanghai (PVG) - 3,824,280; Incheon (ICN) - 2,921,691; Anchorage, AK (ANC) - 2,713,230; Dubai (DXB) - 2,654,494; Louisville, KY (SDF) - 2,602,695; Tokyo (NRT) - 2,336,427; Taipei (TPE) - 2,269,585; Paris (CDG) - 2,195,229 (2017) |
+| **Yemen** | *total:* 57 (2013) |
+| **Zambia** | *total:* 88 (2013) |
+| **Zimbabwe** | *total:* 196 (2013) |
+

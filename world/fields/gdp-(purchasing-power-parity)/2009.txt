@@ -1,0 +1,833 @@
+CIA - The World Factbook -- Field Listing :: GDP (purchasing power parity)   
+
+This entry gives the gross domestic product (GDP) or value of all final goods and services produced within a nation in a given year. A nation's GDP at purchasing power parity (PPP) exchange rates is the sum value of all goods and services produced in the country valued at prices prevailing in the United States. This is the measure most economists prefer when looking at per-capita welfare and when comparing living conditions or use of resources across countries. The measure is difficult to compute, as a US dollar value has to be assigned to all goods and services in the country regardless of whether these goods and services have a direct equivalent in the United States (for example, the value of an ox-cart or non-US military equipment); as a result, PPP estimates for some countries are based on a small and sometimes different set of goods and services. In addition, many countries do not formally participate in the World Bank's PPP project that calculates these measures, so the resulting GDP estimates for these countries may lack precision. For many developing countries, PPP-based GDP measures are multiples of the official exchange rate (OER) measure. The differences between the OER- and PPP-denominated GDP values for most of the wealthy industrialized countries are generally much smaller.
+
+| Country | GDP (purchasing power parity) |
+| --- | --- |
+| **Afghanistan** | $22.32 billion (2008 est.) |
+| | $21.58 billion (2007 est.) |
+| | $19.25 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Albania** | $21.86 billion (2008 est.) |
+| | $20.61 billion (2007 est.) |
+| | $19.44 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| | Albania has an informal, and unreported, sector that may be as large as 50% of official GDP |
+| **Algeria** | $233.5 billion (2008 est.) |
+| | $225.6 billion (2007 est.) |
+| | $218.8 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **American Samoa** | $575.3 million (2007 est.) |
+| | $510.1 million (2003 est.) |
+| **Andorra** | $3.66 billion (2007) |
+| | $3.588 billion (2006) |
+| | $2.77 billion (2005) |
+| **Angola** | $112.8 billion (2008 est.) |
+| | $100.5 billion (2007 est.) |
+| | $82.94 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Anguilla** | $108.9 million (2004 est.) |
+| **Antigua and Barbuda** | $1.639 billion (2008 est.) |
+| | $1.594 billion (2007 est.) |
+| | $1.491 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Argentina** | $575.2 billion (2008 est.) |
+| | $538.6 billion (2007 est.) |
+| | $495.5 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Armenia** | $18.81 billion (2008 est.) |
+| | $17.62 billion (2007 est.) |
+| | $15.48 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Aruba** | $2.258 billion (2005 est.) |
+| | $2.205 billion (2004 est.) |
+| **Australia** | $802.9 billion (2008 est.) |
+| | $784.1 billion (2007 est.) |
+| | $753.9 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Austria** | $331.2 billion (2008 est.) |
+| | $324.7 billion (2007 est.) |
+| | $313.7 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Azerbaijan** | $77.79 billion (2008 est.) |
+| | $70.21 billion (2007 est.) |
+| | $56.17 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Bahamas, The** | $9.352 billion (2008 est.) |
+| | $9.495 billion (2007 est.) |
+| | $9.236 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Bahrain** | $26.89 billion (2008 est.) |
+| | $25.29 billion (2007 est.) |
+| | $23.34 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Bangladesh** | $226.4 billion (2008 est.) |
+| | $214 billion (2007 est.) |
+| | $201.5 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Barbados** | $5.367 billion (2008 est.) |
+| | $5.329 billion (2007 est.) |
+| | $5.159 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Belarus** | $114.3 billion (2008 est.) |
+| | $103.9 billion (2007 est.) |
+| | $96.06 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Belgium** | $390.2 billion (2008 est.) |
+| | $386.3 billion (2007 est.) |
+| | $376.5 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Belize** | $2.542 billion (2008 est.) |
+| | $2.468 billion (2007 est.) |
+| | $2.43 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Benin** | $12.86 billion (2008 est.) |
+| | $12.28 billion (2007 est.) |
+| | $11.75 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Bermuda** | $4.5 billion (2004 est.) |
+| **Bhutan** | $3.533 billion (2008 est.) |
+| | $2.91 billion (2007 est.) |
+| | $2.738 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Bolivia** | $43.38 billion (2008 est.) |
+| | $40.88 billion (2007 est.) |
+| | $39.08 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Bosnia and Herzegovina** | $29.77 billion (2008 est.) |
+| | $28.22 billion (2007 est.) |
+| | $26.62 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| | Bosnia has a large informal sector that may be as much as 50% of official GDP |
+| **Botswana** | $27.11 billion (2008 est.) |
+| | $26.35 billion (2007 est.) |
+| | $25.23 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Brazil** | $1.998 trillion (2008 est.) |
+| | $1.901 trillion (2007 est.) |
+| | $1.798 trillion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **British Virgin Islands** | $853.4 million (2004 est.) |
+| **Brunei** | $19.58 billion (2008 est.) |
+| | $19.96 billion (2007 est.) |
+| | $19.92 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Bulgaria** | $93.98 billion (2008 est.) |
+| | $88.66 billion (2007 est.) |
+| | $83.48 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Burkina Faso** | $17.96 billion (2008 est.) |
+| | $17.11 billion (2007 est.) |
+| | $16.5 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Burma** | $55.27 billion (2008 est.) |
+| | $54.66 billion (2007 est.) |
+| | $52.87 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Burundi** | $3.109 billion (2008 est.) |
+| | $2.976 billion (2007 est.) |
+| | $2.872 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Cambodia** | $28.01 billion (2008 est.) |
+| | $26.67 billion (2007 est.) |
+| | $24.2 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Cameroon** | $42.69 billion (2008 est.) |
+| | $41.33 billion (2007 est.) |
+| | $39.93 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Canada** | $1.303 trillion (2008 est.) |
+| | $1.298 trillion (2007 est.) |
+| | $1.266 trillion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Cape Verde** | $1.63 billion (2008 est.) |
+| | $1.545 billion (2007 est.) |
+| | $1.446 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Cayman Islands** | $1.939 billion (2004 est.) |
+| | $1.922 billion (2003 est.) |
+| **Central African Republic** | $3.184 billion (2008 est.) |
+| | $3.115 billion (2007 est.) |
+| | $3.004 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Chad** | $15.82 billion (2008 est.) |
+| | $15.85 billion (2007 est.) |
+| | $15.82 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Chile** | $245.1 billion (2008 est.) |
+| | $237.5 billion (2007 est.) |
+| | $226.8 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **China** | $7.992 trillion (2008 est.) |
+| | $7.332 trillion (2007 est.) |
+| | $6.489 trillion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Christmas Island** | $NA |
+| **Cocos (Keeling) Islands** | $NA |
+| **Colombia** | $396 billion (2008 est.) |
+| | $386.7 billion (2007 est.) |
+| | $359.7 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Comoros** | $741.7 million (2008 est.) |
+| | $738 million (2007 est.) |
+| | $745.5 million (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Congo, Democratic Republic of the** | $20.76 billion (2008 est.) |
+| | $19.61 billion (2007 est.) |
+| | $18.32 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Congo, Republic of the** | $15.39 billion (2008 est.) |
+| | $14.46 billion (2007 est.) |
+| | $14.7 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Cook Islands** | $183.2 million (2005 est.) |
+| **Costa Rica** | $48.84 billion (2008 est.) |
+| | $47.6 billion (2007 est.) |
+| | $44.16 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Cote d'Ivoire** | $34.12 billion (2008 est.) |
+| | $33.36 billion (2007 est.) |
+| | $32.79 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Croatia** | $82.58 billion (2008 est.) |
+| | $80.65 billion (2007 est.) |
+| | $76.44 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Cuba** | $108.4 billion (2008 est.) |
+| | $103.9 billion (2007 est.) |
+| | $96.9 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Cyprus** | $22.76 billion (2008 est.) |
+| | $21.94 billion (2007 est.) |
+| | $21.02 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Czech Republic** | $264.8 billion (2008 est.) |
+| | $258.1 billion (2007 est.) |
+| | $243.2 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Denmark** | $204.1 billion (2008 est.) |
+| | $206.6 billion (2007 est.) |
+| | $203.3 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Djibouti** | $1.891 billion (2008 est.) |
+| | $1.786 billion (2007 est.) |
+| | $1.696 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Dominica** | $726.3 million (2008 est.) |
+| | $703.8 million (2007 est.) |
+| | $691.4 million (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Dominican Republic** | $78.19 billion (2008 est.) |
+| | $74.25 billion (2007 est.) |
+| | $68.43 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Ecuador** | $108 billion (2008 est.) |
+| | $101.4 billion (2007 est.) |
+| | $98.93 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Egypt** | $444.8 billion (2008 est.) |
+| | $414.9 billion (2007 est.) |
+| | $387.4 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **El Salvador** | $43.73 billion (2008 est.) |
+| | $42.66 billion (2007 est.) |
+| | $40.75 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Equatorial Guinea** | $23 billion (2008 est.) |
+| | $20.8 billion (2007 est.) |
+| | $16.98 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Eritrea** | $3.954 billion (2008 est.) |
+| | $3.876 billion (2007 est.) |
+| | $3.838 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Estonia** | $28.03 billion (2008 est.) |
+| | $29.08 billion (2007 est.) |
+| | $27.13 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Ethiopia** | $70.23 billion (2008 est.) |
+| | $62.93 billion (2007 est.) |
+| | $56.64 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **European Union** | $14.94 trillion (2008 est.) |
+| | $14.82 trillion (2007 est.) |
+| | $14.39 trillion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Falkland Islands (Islas Malvinas)** | $105.1 million (2002 est.) |
+| **Faroe Islands** | $1 billion (2001 est.) |
+| **Fiji** | $3.587 billion (2008 est.) |
+| | $3.58 billion (2007 est.) |
+| | $3.833 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Finland** | $194 billion (2008 est.) |
+| | $192.4 billion (2007 est.) |
+| | $184.8 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **France** | $2.133 trillion (2008 est.) |
+| | $2.126 trillion (2007 est.) |
+| | $2.078 trillion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **French Polynesia** | $4.718 billion (2004 est.) |
+| | $4.58 billion (2003 est.) |
+| **Gabon** | $21.16 billion (2008 est.) |
+| | $20.74 billion (2007 est.) |
+| | $19.64 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Gambia, The** | $2.277 billion (2008 est.) |
+| | $2.15 billion (2007 est.) |
+| | $2.023 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Gaza Strip** | $11.95 billion (2008 est.) |
+| | $5.034 billion (2006 est.) |
+| | $5.327 billion (2005 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Georgia** | $21.56 billion (2008 est.) |
+| | $21.12 billion (2007 est.) |
+| | $18.81 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Germany** | $2.925 trillion (2008 est.) |
+| | $2.887 trillion (2007 est.) |
+| | $2.817 trillion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Ghana** | $34.52 billion (2008 est.) |
+| | $32.17 billion (2007 est.) |
+| | $30.27 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Gibraltar** | $1.066 billion (2005 est.) |
+| | $769 million (2000 est.) |
+| **Greece** | $343.8 billion (2008 est.) |
+| | $334.1 billion (2007 est.) |
+| | $321.3 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Greenland** | $1.1 billion (2001 est.) |
+| **Grenada** | $1.19 billion (2008 est.) |
+| | $1.165 billion (2007 est.) |
+| | $1.11 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Guam** | $2.5 billion (2005 est.) |
+| **Guatemala** | $68.75 billion (2008 est.) |
+| | $66.1 billion (2007 est.) |
+| | $62.18 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Guernsey** | $2.742 billion (2005) |
+| **Guinea** | $10.62 billion (2008 est.) |
+| | $10.17 billion (2007 est.) |
+| | $10.02 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Guinea-Bissau** | $896.5 million (2008 est.) |
+| | $867.9 million (2007 est.) |
+| | $845.1 million (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Guyana** | $2.973 billion (2008 est.) |
+| | $2.887 billion (2007 est.) |
+| | $2.739 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Haiti** | $11.53 billion (2008 est.) |
+| | $11.38 billion (2007 est.) |
+| | $11 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Holy See (Vatican City)** | $NA |
+| **Honduras** | $33.8 billion (2008 est.) |
+| | $32.5 billion (2007 est.) |
+| | $30.57 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Hong Kong** | $307.3 billion (2008 est.) |
+| | $300.1 billion (2007 est.) |
+| | $282.1 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Hungary** | $196.7 billion (2008 est.) |
+| | $195.5 billion (2007 est.) |
+| | $193.2 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Iceland** | $12.87 billion (2008 est.) |
+| | $12.7 billion (2007 est.) |
+| | $12.03 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **India** | $3.304 trillion (2008 est.) |
+| | $3.077 trillion (2007 est.) |
+| | $2.823 trillion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Indonesia** | $916.7 billion (2008 est.) |
+| | $864 billion (2007 est.) |
+| | $812.8 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Iran** | $843.7 billion (2008 est.) |
+| | $792.2 billion (2007 est.) |
+| | $734.7 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Iraq** | $90.23 billion (2008 est.) |
+| | $83.7 billion (2007 est.) |
+| | $82.46 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Ireland** | $189 billion (2008 est.) |
+| | $194.9 billion (2007 est.) |
+| | $183.9 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Isle of Man** | $2.719 billion (2005 est.) |
+| **Israel** | $203.4 billion (2008 est.) |
+| | $195.2 billion (2007 est.) |
+| | $185.6 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Italy** | $1.827 trillion (2008 est.) |
+| | $1.845 trillion (2007 est.) |
+| | $1.818 trillion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Jamaica** | $24.04 billion (2008 est.) |
+| | $24.19 billion (2007 est.) |
+| | $23.85 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Japan** | $4.34 trillion (2008 est.) |
+| | $4.37 trillion (2007 est.) |
+| | $4.272 trillion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Jersey** | $5.1 billion (2005 est.) |
+| **Jordan** | $31.68 billion (2008 est.) |
+| | $30 billion (2007 est.) |
+| | $28.14 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Kazakhstan** | $176.2 billion (2008 est.) |
+| | $172.1 billion (2007 est.) |
+| | $158.6 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Kenya** | $61.65 billion (2008 est.) |
+| | $60.62 billion (2007 est.) |
+| | $56.68 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Kiribati** | $580.8 million (2008 est.) |
+| | $561.7 million (2007 est.) |
+| | $564.6 million (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Korea, North** | $40 billion (2008 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Korea, South** | $1.338 trillion (2008 est.) |
+| | $1.309 trillion (2007 est.) |
+| | $1.245 trillion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Kosovo** | $5 billion (2007 est.) |
+| **Kuwait** | $149.5 billion (2008 est.) |
+| | $137.8 billion (2007 est.) |
+| | $131.6 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Kyrgyzstan** | $11.64 billion (2008 est.) |
+| | $10.82 billion (2007 est.) |
+| | $9.971 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Laos** | $14.01 billion (2008 est.) |
+| | $13.04 billion (2007 est.) |
+| | $12.13 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Latvia** | $38.95 billion (2008 est.) |
+| | $40.83 billion (2007 est.) |
+| | $37.12 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Lebanon** | $44.16 billion (2008 est.) |
+| | $41.54 billion (2007 est.) |
+| | $39.95 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Lesotho** | $3.301 billion (2008 est.) |
+| | $3.091 billion (2007 est.) |
+| | $2.949 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Liberia** | $1.531 billion (2008 est.) |
+| | $1.43 billion (2007 est.) |
+| | $1.306 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Libya** | $87.72 billion (2008 est.) |
+| | $82.83 billion (2007 est.) |
+| | $78.44 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Liechtenstein** | $4.16 billion (2007) |
+| | $4.035 billion (2006 est.) |
+| **Lithuania** | $63.37 billion (2008 est.) |
+| | $61.52 billion (2007 est.) |
+| | $56.49 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Luxembourg** | $39.47 billion (2008 est.) |
+| | $39.84 billion (2007 est.) |
+| | $37.87 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Macau** | $18.14 billion (2008 est.) |
+| | $12.5 billion (2006) |
+| | *note:* data are in 2008 US dollars |
+| **Macedonia** | $18.83 billion (2008 est.) |
+| | $17.88 billion (2007 est.) |
+| | $16.88 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| | Macedonia has a large informal sector |
+| **Madagascar** | $20.18 billion (2008 est.) |
+| | $18.86 billion (2007 est.) |
+| | $17.76 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Malawi** | $11.95 billion (2008 est.) |
+| | $10.9 billion (2007 est.) |
+| | $10.1 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Malaysia** | $385.2 billion (2008 est.) |
+| | $368.3 billion (2007 est.) |
+| | $346.8 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Maldives** | $1.723 billion (2008 est.) |
+| | $1.628 billion (2007 est.) |
+| | $1.519 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Mali** | $14.75 billion (2008 est.) |
+| | $14.04 billion (2007 est.) |
+| | $13.65 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Malta** | $9.933 billion (2008 est.) |
+| | $9.707 billion (2007 est.) |
+| | $9.317 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Marshall Islands** | $133.5 million (2008 est.) |
+| | $115 million (2001 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Mauritania** | $6.323 billion (2008 est.) |
+| | $6.109 billion (2007 est.) |
+| | $6.048 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Mauritius** | $15.43 billion (2008 est.) |
+| | $14.65 billion (2007 est.) |
+| | $13.89 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Mayotte** | $953.6 million (2005 est.) |
+| **Mexico** | $1.567 trillion (2008 est.) |
+| | $1.547 trillion (2007 est.) |
+| | $1.498 trillion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Micronesia, Federated States of** | $238.1 million (2008 est.) |
+| | $277 million (2002 est.) |
+| | *note:* data are in 2008 US dollars |
+| | GDP supplemented by grant aid, averaging perhaps $100 million annually |
+| **Moldova** | $10.8 billion (2008 est.) |
+| | $10.07 billion (2007 est.) |
+| | $9.684 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Monaco** | $976.3 million (2006 est.) |
+| | *note:* Monaco does not publish national income figures; the estimates are extremely rough |
+| **Mongolia** | $9.499 billion (2008 est.) |
+| | $8.714 billion (2007 est.) |
+| | $7.929 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Montenegro** | $6.832 billion (2008 est.) |
+| | $6.355 billion (2007 est.) |
+| | $5.804 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Montserrat** | $29 million (2002 est.) |
+| **Morocco** | $137.9 billion (2008 est.) |
+| | $129.9 billion (2007 est.) |
+| | $125.9 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Mozambique** | $19.11 billion (2008 est.) |
+| | $17.89 billion (2007 est.) |
+| | $16.66 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Namibia** | $13.28 billion (2008 est.) |
+| | $12.9 billion (2007 est.) |
+| | $12.23 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Nauru** | $60 million (2005 est.) |
+| **Nepal** | $31.39 billion (2008 est.) |
+| | $29.81 billion (2007 est.) |
+| | $28.86 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Netherlands** | $673.5 billion (2008 est.) |
+| | $660.3 billion (2007 est.) |
+| | $637.4 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Netherlands Antilles** | $2.8 billion (2004 est.) |
+| **New Caledonia** | $3.158 billion (2003 est.) |
+| **New Zealand** | $116.6 billion (2008 est.) |
+| | $116.6 billion (2007 est.) |
+| | $113 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Nicaragua** | $16.83 billion (2008 est.) |
+| | $16.31 billion (2007 est.) |
+| | $15.8 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Niger** | $10.29 billion (2008 est.) |
+| | $9.398 billion (2007 est.) |
+| | $9.097 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Nigeria** | $336.2 billion (2008 est.) |
+| | $319.3 billion (2007 est.) |
+| | $300.1 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Niue** | $10.01 million (2003 est.) |
+| **Norfolk Island** | $NA |
+| **Northern Mariana Islands** | $900 million (2000 est.) |
+| | *note:* GDP estimate includes US subsidy |
+| **Norway** | $276.3 billion (2008 est.) |
+| | $269.6 billion (2007 est.) |
+| | $253.8 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Oman** | $66.87 billion (2008 est.) |
+| | $62.84 billion (2007 est.) |
+| | $59.4 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Pakistan** | $431.2 billion (2008 est.) |
+| | $417 billion (2007 est.) |
+| | $393.4 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Palau** | $164 million (2008 est.) |
+| | $124.5 million (2004 est.) |
+| | *note:* data are in 2008 US dollars |
+| | GDP estimate includes US subsidy |
+| **Panama** | $38.92 billion (2008 est.) |
+| | $35.64 billion (2007 est.) |
+| | $31.96 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Papua New Guinea** | $13.17 billion (2008 est.) |
+| | $12.3 billion (2007 est.) |
+| | $11.65 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Paraguay** | $28.95 billion (2008 est.) |
+| | $27.37 billion (2007 est.) |
+| | $25.62 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Peru** | $247.9 billion (2008 est.) |
+| | $225.8 billion (2007 est.) |
+| | $207.3 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Philippines** | $318.2 billion (2008 est.) |
+| | $306.6 billion (2007 est.) |
+| | $286.2 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Pitcairn Islands** | $NA |
+| **Poland** | $670.7 billion (2008 est.) |
+| | $638.8 billion (2007 est.) |
+| | $598.1 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Portugal** | $237.3 billion (2008 est.) |
+| | $237.3 billion (2007 est.) |
+| | $232.9 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Puerto Rico** | $70.23 billion (2008 est.) |
+| | $72.03 billion (2007 est.) |
+| | $73.35 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Qatar** | $91.55 billion (2008 est.) |
+| | $80.73 billion (2007 est.) |
+| | $68.82 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Romania** | $272 billion (2008 est.) |
+| | $254 billion (2007 est.) |
+| | $239.2 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Russia** | $2.271 trillion (2008 est.) |
+| | $2.151 trillion (2007 est.) |
+| | $1.99 trillion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Rwanda** | $9.729 billion (2008 est.) |
+| | $8.749 billion (2007 est.) |
+| | $8.108 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Saint Helena** | $18 million (1998 est.) |
+| **Saint Kitts and Nevis** | $759.5 million (2008 est.) |
+| | $742 million (2007 est.) |
+| | $735.8 million (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Saint Lucia** | $1.774 billion (2008 est.) |
+| | $1.762 billion (2007 est.) |
+| | $1.733 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Saint Pierre and Miquelon** | $48.3 million (2003 est.) |
+| | *note:* supplemented by annual payments from France of about $60 million |
+| **Saint Vincent and the Grenadines** | $1.072 billion (2008 est.) |
+| | $1.063 billion (2007 est.) |
+| | $993.4 million (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Samoa** | $1.021 billion (2008 est.) |
+| | $1.057 billion (2007 est.) |
+| | $996.5 million (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **San Marino** | $1.662 billion (2007) |
+| | $850 million (2004 est.) |
+| **Sao Tome and Principe** | $277.1 million (2008 est.) |
+| | $262.7 million (2007 est.) |
+| | $247.8 million (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Saudi Arabia** | $577.9 billion (2008 est.) |
+| | $553.5 billion (2007 est.) |
+| | $535.8 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Senegal** | $21.78 billion (2008 est.) |
+| | $21.25 billion (2007 est.) |
+| | $20.27 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Serbia** | $79.77 billion (2008 est.) |
+| | $75.68 billion (2007 est.) |
+| | $70.8 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Seychelles** | $1.821 billion (2008 est.) |
+| | $1.838 billion (2007 est.) |
+| | $1.675 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Sierra Leone** | $4.388 billion (2008 est.) |
+| | $4.159 billion (2007 est.) |
+| | $3.909 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Singapore** | $237.9 billion (2008 est.) |
+| | $235.3 billion (2007 est.) |
+| | $218.3 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Slovakia** | $119.8 billion (2008 est.) |
+| | $112.6 billion (2007 est.) |
+| | $102 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Slovenia** | $59.49 billion (2008 est.) |
+| | $57.47 billion (2007 est.) |
+| | $53.81 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Solomon Islands** | $1.546 billion (2008 est.) |
+| | $1.441 billion (2007 est.) |
+| | $1.306 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Somalia** | $5.524 billion (2008 est.) |
+| | $5.387 billion (2007 est.) |
+| | $5.252 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **South Africa** | $492.2 billion (2008 est.) |
+| | $477.4 billion (2007 est.) |
+| | $454.2 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Spain** | $1.402 trillion (2008 est.) |
+| | $1.39 trillion (2007 est.) |
+| | $1.341 trillion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Sri Lanka** | $92.09 billion (2008 est.) |
+| | $86.88 billion (2007 est.) |
+| | $81.35 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Sudan** | $88.37 billion (2008 est.) |
+| | $82.9 billion (2007 est.) |
+| | $75.22 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Suriname** | $4.226 billion (2008 est.) |
+| | $3.987 billion (2007 est.) |
+| | $3.779 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Svalbard** | $NA |
+| **Swaziland** | $5.826 billion (2008 est.) |
+| | $5.673 billion (2007 est.) |
+| | $5.481 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Sweden** | $345.1 billion (2008 est.) |
+| | $346.5 billion (2007 est.) |
+| | $337.4 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Switzerland** | $318.1 billion (2008 est.) |
+| | $312.4 billion (2007 est.) |
+| | $301.6 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Syria** | $99.06 billion (2008 est.) |
+| | $94.26 billion (2007 est.) |
+| | $88.65 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Taiwan** | $713.7 billion (2008 est.) |
+| | $713 billion (2007 est.) |
+| | $674.5 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Tajikistan** | $13.19 billion (2008 est.) |
+| | $12.22 billion (2007 est.) |
+| | $11.34 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Tanzania** | $54.38 billion (2008 est.) |
+| | $50.77 billion (2007 est.) |
+| | $47.38 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Thailand** | $548.7 billion (2008 est.) |
+| | $534.8 billion (2007 est.) |
+| | $509.8 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Timor-Leste** | $2.526 billion (2008 est.) |
+| | $2.239 billion (2007 est.) |
+| | $2.066 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Togo** | $5.13 billion (2008 est.) |
+| | $5.074 billion (2007 est.) |
+| | $4.98 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Tokelau** | $1.5 million (1993 est.) |
+| **Tonga** | $548.1 million (2008 est.) |
+| | $543.7 million (2007 est.) |
+| | $545.4 million (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Trinidad and Tobago** | $29.09 billion (2008 est.) |
+| | $28.11 billion (2007 est.) |
+| | $26.65 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Tunisia** | $81.98 billion (2008 est.) |
+| | $78.53 billion (2007 est.) |
+| | $73.67 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Turkey** | $903.9 billion (2008 est.) |
+| | $895.8 billion (2007 est.) |
+| | $855.6 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Turkmenistan** | $31.28 billion (2008 est.) |
+| | $28.49 billion (2007 est.) |
+| | $25.53 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Turks and Caicos Islands** | $216 million (2002 est.) |
+| **Tuvalu** | $14.94 million (2002 est.) |
+| **Uganda** | $40.08 billion (2008 est.) |
+| | $37 billion (2007 est.) |
+| | $34.21 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Ukraine** | $338.6 billion (2008 est.) |
+| | $331.6 billion (2007 est.) |
+| | $307.4 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **United Arab Emirates** | $206.3 billion (2008 est.) |
+| | $192 billion (2007 est.) |
+| | $181.2 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **United Kingdom** | $2.236 trillion (2008 est.) |
+| | $2.22 trillion (2007 est.) |
+| | $2.164 trillion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **United States** | $14.44 trillion (2008 est.) |
+| | $14.38 trillion (2007 est.) |
+| | $14.09 trillion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Uruguay** | $43.27 billion (2008 est.) |
+| | $39.73 billion (2007 est.) |
+| | $36.99 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Uzbekistan** | $71.84 billion (2008 est.) |
+| | $65.91 billion (2007 est.) |
+| | $60.19 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Vanuatu** | $990.8 million (2008 est.) |
+| | $929.5 million (2007 est.) |
+| | $870.3 million (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Venezuela** | $356.3 billion (2008 est.) |
+| | $340 billion (2007 est.) |
+| | $314.2 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Vietnam** | $242.3 billion (2008 est.) |
+| | $228.1 billion (2007 est.) |
+| | $210.3 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Virgin Islands** | $1.577 billion (2004 est.) |
+| **Wallis and Futuna** | $60 million (2004 est.) |
+| **West Bank** | $11.95 billion (2008 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Western Sahara** | $900 million (2007 est.) |
+| **World** | $70.14 trillion (2008 est.) |
+| | $68.08 trillion (2007 est.) |
+| | $64.77 trillion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Yemen** | $55.41 billion (2008 est.) |
+| | $53.69 billion (2007 est.) |
+| | $51.87 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Zambia** | $17.54 billion (2008 est.) |
+| | $16.55 billion (2007 est.) |
+| | $15.58 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |
+| **Zimbabwe** | $1.925 billion (2008 est.) |
+| | $2.241 billion (2007 est.) |
+| | $2.371 billion (2006 est.) |
+| | *note:* data are in 2008 US dollars |

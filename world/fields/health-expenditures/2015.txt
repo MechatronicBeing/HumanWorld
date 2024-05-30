@@ -1,0 +1,196 @@
+FIELD LISTING :: HEALTH EXPENDITURES
+
+This entry provides the total expenditure on health as a percentage of GDP. Health expenditures are broadly defined as activities performed either by institutions or individuals through the application of medical, paramedical, and/or nursing knowledge and technology, the primary purpose of which is to promote, restore, or maintain health.
+
+| Country | HEALTH EXPENDITURES(% OF GDP) |
+| --- | --- |
+| **Afghanistan** | 8.1% of GDP (2013) |
+| **Albania** | 5.9% of GDP (2013) |
+| **Algeria** | 6.6% of GDP (2013) |
+| **Andorra** | 8.1% of GDP (2013) |
+| **Angola** | 3.8% of GDP (2013) |
+| **Antigua and Barbuda** | 4.9% of GDP (2013) |
+| **Argentina** | 7.3% of GDP (2013) |
+| **Armenia** | 4.5% of GDP (2013) |
+| **Australia** | 9.4% of GDP (2013) |
+| **Austria** | 11% of GDP (2013) |
+| **Azerbaijan** | 5.6% of GDP (2013) |
+| **Bahamas, The** | 7.3% of GDP (2013) |
+| **Bahrain** | 4.9% of GDP (2013) |
+| **Bangladesh** | 3.7% of GDP (2013) |
+| **Barbados** | 6.8% of GDP (2013) |
+| **Belarus** | 6.1% of GDP (2013) |
+| **Belgium** | 11.2% of GDP (2013) |
+| **Belize** | 5.4% of GDP (2013) |
+| **Benin** | 4.6% of GDP (2013) |
+| **Bhutan** | 3.6% of GDP (2013) |
+| **Bolivia** | 6.1% of GDP (2013) |
+| **Bosnia and Herzegovina** | 9.6% of GDP (2013) |
+| **Botswana** | 5.4% of GDP (2013) |
+| **Brazil** | 9.7% of GDP (2013) |
+| **Brunei** | 2.5% of GDP (2013) |
+| **Bulgaria** | 7.6% of GDP (2013) |
+| **Burkina Faso** | 6.4% of GDP (2013) |
+| **Burma** | 1.8% of GDP (2013) |
+| **Burundi** | 8% of GDP (2013) |
+| **Cabo Verde** | 4.4% of GDP (2013) |
+| **Cambodia** | 7.5% of GDP (2013) |
+| **Cameroon** | 5.1% of GDP (2013) |
+| **Canada** | 10.9% of GDP (2013) |
+| **Central African Republic** | 3.9% of GDP (2013) |
+| **Chad** | 3.6% of GDP (2013) |
+| **Chile** | 7.7% of GDP (2013) |
+| **China** | 5.6% of GDP (2013) |
+| **Colombia** | 6.8% of GDP (2013) |
+| **Comoros** | 5.8% of GDP (2013) |
+| **Congo, Democratic Republic of the** | 3.5% of GDP (2013) |
+| **Congo, Republic of the** | 4.1% of GDP (2013) |
+| **Cook Islands** | 3.1% of GDP (2013) |
+| **Costa Rica** | 9.9% of GDP (2013) |
+| **Cote d'Ivoire** | 5.7% of GDP (2013) |
+| **Croatia** | 7.3% of GDP (2013) |
+| **Cuba** | 8.8% of GDP (2013) |
+| **Cyprus** | 7.4% of GDP (2013) |
+| **Czech Republic** | 7.2% of GDP (2013) |
+| **Denmark** | 10.6% of GDP (2013) |
+| **Djibouti** | 8.9% of GDP (2013) |
+| **Dominica** | 6% of GDP (2013) |
+| **Dominican Republic** | 5.4% of GDP (2013) |
+| **Ecuador** | 7.5% of GDP (2013) |
+| **Egypt** | 5.1% of GDP (2013) |
+| **El Salvador** | 6.9% of GDP (2013) |
+| **Equatorial Guinea** | 3.5% of GDP (2013) |
+| **Eritrea** | 3% of GDP (2013) |
+| **Estonia** | 5.7% of GDP (2013) |
+| **Ethiopia** | 5.1% of GDP (2013) |
+| **Fiji** | 4.1% of GDP (2013) |
+| **Finland** | 9.4% of GDP (2013) |
+| **France** | 11.7% of GDP (2013) |
+| **Gabon** | 3.8% of GDP (2013) |
+| **Gambia, The** | 6% of GDP (2013) |
+| **Georgia** | 9.4% of GDP (2013) |
+| **Germany** | 11.3% of GDP (2013) |
+| **Ghana** | 5.4% of GDP (2013) |
+| **Greece** | 9.8% of GDP (2013) |
+| **Grenada** | 6.3% of GDP (2013) |
+| **Guatemala** | 6.5% of GDP (2013) |
+| **Guinea-Bissau** | 5.5% of GDP (2013) |
+| **Guinea** | 4.7% of GDP (2013) |
+| **Guyana** | 6.5% of GDP (2013) |
+| **Haiti** | 9.4% of GDP (2013) |
+| **Honduras** | 8.7% of GDP (2013) |
+| **Hungary** | 8% of GDP (2013) |
+| **Iceland** | 9.1% of GDP (2013) |
+| **India** | 4% of GDP (2013) |
+| **Indonesia** | 3.1% of GDP (2013) |
+| **Iran** | 6.7% of GDP (2013) |
+| **Iraq** | 5.2% of GDP (2013) |
+| **Ireland** | 8.9% of GDP (2013) |
+| **Israel** | 7.2% of GDP (2013) |
+| **Italy** | 9.1% of GDP (2013) |
+| **Jamaica** | 5.9% of GDP (2013) |
+| **Japan** | 10.3% of GDP (2013) |
+| **Jordan** | 7.2% of GDP (2013) |
+| **Kazakhstan** | 4.3% of GDP (2013) |
+| **Kenya** | 4.5% of GDP (2013) |
+| **Kiribati** | 10.1% of GDP (2013) |
+| **Korea, South** | 7.2% of GDP (2013) |
+| **Kuwait** | 2.9% of GDP (2013) |
+| **Kyrgyzstan** | 6.7% of GDP (2013) |
+| **Laos** | 2% of GDP (2013) |
+| **Latvia** | 5.7% of GDP (2013) |
+| **Lebanon** | 7.2% of GDP (2013) |
+| **Lesotho** | 11.5% of GDP (2013) |
+| **Liberia** | 10% of GDP (2013) |
+| **Libya** | 4.3% of GDP (2013) |
+| **Lithuania** | 6.2% of GDP (2013) |
+| **Luxembourg** | 7.1% of GDP (2013) |
+| **Macedonia** | 6.4% of GDP (2013) |
+| **Madagascar** | 4.2% of GDP (2013) |
+| **Malawi** | 8.3% of GDP (2013) |
+| **Malaysia** | 4% of GDP (2013) |
+| **Maldives** | 10.8% of GDP (2013) |
+| **Mali** | 7.1% of GDP (2013) |
+| **Malta** | 8.7% of GDP (2013) |
+| **Marshall Islands** | 16.5% of GDP (2013) |
+| **Mauritania** | 3.8% of GDP (2013) |
+| **Mauritius** | 4.8% of GDP (2013) |
+| **Mexico** | 6.2% of GDP (2013) |
+| **Micronesia, Federated States of** | 12.6% of GDP (2013) |
+| **Moldova** | 11.8% of GDP (2013) |
+| **Monaco** | 4% of GDP (2013) |
+| **Mongolia** | 6% of GDP (2013) |
+| **Montenegro** | 6.5% of GDP (2013) |
+| **Morocco** | 6% of GDP (2013) |
+| **Mozambique** | 6.8% of GDP (2013) |
+| **Namibia** | 7.7% of GDP (2013) |
+| **Nauru** | 6.3% of GDP (2013) |
+| **Nepal** | 6% of GDP (2013) |
+| **Netherlands** | 12.9% of GDP (2013) |
+| **New Zealand** | 9.7% of GDP (2013) |
+| **Nicaragua** | 8.4% of GDP (2013) |
+| **Nigeria** | 3.9% of GDP (2013) |
+| **Niger** | 6.5% of GDP (2013) |
+| **Niue** | 7.1% of GDP (2013) |
+| **Norway** | 9.6% of GDP (2013) |
+| **Oman** | 2.6% of GDP (2013) |
+| **Pakistan** | 2.8% of GDP (2013) |
+| **Palau** | 9.9% of GDP (2013) |
+| **Panama** | 7.2% of GDP (2013) |
+| **Papua New Guinea** | 4.5% of GDP (2013) |
+| **Paraguay** | 9% of GDP (2013) |
+| **Peru** | 5.3% of GDP (2013) |
+| **Philippines** | 4.4% of GDP (2013) |
+| **Poland** | 6.7% of GDP (2013) |
+| **Portugal** | 9.7% of GDP (2013) |
+| **Qatar** | 2.2% of GDP (2013) |
+| **Romania** | 5.3% of GDP (2013) |
+| **Russia** | 6.5% of GDP (2013) |
+| **Rwanda** | 11.1% of GDP (2013) |
+| **Saint Kitts and Nevis** | 6.4% of GDP (2013) |
+| **Saint Lucia** | 8.5% of GDP (2013) |
+| **Saint Vincent and the Grenadines** | 5.2% of GDP (2013) |
+| **Samoa** | 7.5% of GDP (2013) |
+| **San Marino** | 6.5% of GDP (2013) |
+| **Sao Tome and Principe** | 6.9% of GDP (2013) |
+| **Saudi Arabia** | 3.2% of GDP (2013) |
+| **Senegal** | 4.2% of GDP (2013) |
+| **Serbia** | 10.6% of GDP (2013) |
+| **Seychelles** | 4% of GDP (2013) |
+| **Sierra Leone** | 11.8% of GDP (2013) |
+| **Singapore** | 4.6% of GDP (2013) |
+| **Slovakia** | 8.2% of GDP (2013) |
+| **Slovenia** | 9.2% of GDP (2013) |
+| **Solomon Islands** | 5.1% of GDP (2013) |
+| **South Africa** | 8.9% of GDP (2013) |
+| **South Sudan** | 2.2% of GDP (2013) |
+| **Spain** | 8.9% of GDP (2013) |
+| **Sri Lanka** | 3.2% of GDP (2013) |
+| **Sudan** | 6.5% of GDP (2013) |
+| **Swaziland** | 8.4% of GDP (2013) |
+| **Sweden** | 9.7% of GDP (2013) |
+| **Switzerland** | 11.5% of GDP (2013) |
+| **Syria** | 3.3% of GDP (2013) |
+| **Tajikistan** | 6.8% of GDP (2013) |
+| **Tanzania** | 7.3% of GDP (2013) |
+| **Thailand** | 4.6% of GDP (2013) |
+| **Timor-Leste** | 1.3% of GDP (2013) |
+| **Togo** | 8.6% of GDP (2013) |
+| **Tonga** | 4.7% of GDP (2013) |
+| **Trinidad and Tobago** | 5.5% of GDP (2013) |
+| **Tunisia** | 7.1% of GDP (2013) |
+| **Turkey** | 5.6% of GDP (2013) |
+| **Turkmenistan** | 2% of GDP (2013) |
+| **Tuvalu** | 19.7% of GDP (2013) |
+| **Uganda** | 9.8% of GDP (2013) |
+| **Ukraine** | 7.8% of GDP (2013) |
+| **United Arab Emirates** | 3.2% of GDP (2013) |
+| **United Kingdom** | 9.1% of GDP (2013) |
+| **United States** | 17.1% of GDP (2013) |
+| **Uruguay** | 8.8% of GDP (2013) |
+| **Uzbekistan** | 6.1% of GDP (2013) |
+| **Vanuatu** | 3.9% of GDP (2013) |
+| **Venezuela** | 3.6% of GDP (2013) |
+| **Vietnam** | 6% of GDP (2013) |
+| **Yemen** | 5.4% of GDP (2013) |
+| **Zambia** | 5% of GDP (2013) |

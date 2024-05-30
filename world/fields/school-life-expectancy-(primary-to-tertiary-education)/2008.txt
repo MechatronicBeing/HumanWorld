@@ -1,0 +1,544 @@
+CIA - The World Factbook -- Field Listing - School life expectancy (primary to tertiary education)
+
+| Country | School life expectancy (primary to tertiary education) (years) |
+| --- | --- |
+| **Afghanistan** | *total:* 8 years |
+| | *male:* 11 years |
+| | *female:* 4 years (2004) |
+| **Albania** | *total:* 11 years |
+| | *male:* 11 years |
+| | *female:* 11 years (2004) |
+| **Algeria** | *total:* 13 years |
+| | *male:* 13 years |
+| | *female:* 13 years (2005) |
+| **Andorra** | *total:* 11 years |
+| | *male:* 11 years |
+| | *female:* 11 years (2006) |
+| **Anguilla** | *total:* 11 years |
+| | *male:* 11 years |
+| | *female:* 11 years (2006) |
+| **Argentina** | *total:* 15 years |
+| | *male:* 14 years |
+| | *female:* 16 years (2005) |
+| **Armenia** | *total:* 11 years |
+| | *male:* 11 years |
+| | *female:* 12 years (2006) |
+| **Aruba** | *total:* 14 years |
+| | *male:* 13 years |
+| | *female:* 14 years (2006) |
+| **Australia** | *total:* 20 years |
+| | *male:* 20 years |
+| | *female:* 21 years (2006) |
+| **Austria** | *total:* 15 years |
+| | *male:* 15 years |
+| | *female:* 16 years (2006) |
+| **Azerbaijan** | *total:* 11 years |
+| | *male:* 11 years |
+| | *female:* 11 years (2006) |
+| **Bahrain** | *total:* 15 years |
+| | *male:* 14 years |
+| | *female:* 16 years (2006) |
+| **Bangladesh** | *total:* 8 years |
+| | *male:* 8 years |
+| | *female:* 8 years (2004) |
+| **Barbados** | *total:* 13 years |
+| | *male:* 13 years |
+| | *female:* 14 years (2001) |
+| **Belarus** | *total:* 15 years |
+| | *male:* 14 years |
+| | *female:* 15 years (2006) |
+| **Belgium** | *total:* 16 years |
+| | *male:* 16 years |
+| | *female:* 16 years (2006) |
+| **Belize** | *total:* 13 years |
+| | *male:* 13 years |
+| | *female:* 13 years (2004) |
+| **Benin** | *total:* 7 years |
+| | *male:* 9 years |
+| | *female:* 6 years (2001) |
+| **Bermuda** | *total:* 13 years |
+| | *male:* 13 years |
+| | *female:* 14 years (2005) |
+| **Bhutan** | *total:* 10 years |
+| | *male:* 11 years |
+| | *female:* 10 years (2006) |
+| **Botswana** | *total:* 12 years |
+| | *male:* 12 years |
+| | *female:* 12 years (2005) |
+| **Brazil** | *total:* 14 years |
+| | *male:* 14 years |
+| | *female:* 15 years (2005) |
+| **British Virgin Islands** | *total:* 17 years |
+| | *male:* 15 years |
+| | *female:* 19 years (2005) |
+| **Brunei** | *total:* 14 years |
+| | *male:* 14 years |
+| | *female:* 14 years (2006) |
+| **Bulgaria** | *total:* 14 years |
+| | *male:* 13 years |
+| | *female:* 14 years (2006) |
+| **Burkina Faso** | *total:* 5 years |
+| | *male:* 5 years |
+| | *female:* 4 years (2006) |
+| **Burma** | *total:* 8 years |
+| | *male:* 8 years |
+| | *female:* 8 years (2001) |
+| **Burundi** | *total:* 7 years |
+| | *male:* 8 years |
+| | *female:* 7 years (2006) |
+| **Cambodia** | *total:* 10 years |
+| | *male:* 10 years |
+| | *female:* 9 years (2006) |
+| **Cameroon** | *total:* 9 years |
+| | *male:* 10 years |
+| | *female:* 8 years (2006) |
+| **Canada** | *total:* 17 years |
+| | *male:* 17 years |
+| | *female:* 17 years (2004) |
+| **Cape Verde** | *total:* 12 years |
+| | *male:* 11 years |
+| | *female:* 12 years (2006) |
+| **Cayman Islands** | *total:* 13 years |
+| | *male:* 12 years |
+| | *female:* 13 years (2001) |
+| **Chad** | *total:* 6 years |
+| | *male:* 7 years |
+| | *female:* 4 years (2005) |
+| **Chile** | *total:* 14 years |e: 14 years (2006) |
+| **China** | *total:* 11 years |
+| | *male:* 11 years |
+| | *female:* 11 years (2006) |
+| **Colombia** | *total:* 12 years |
+| | *male:* 12 years |
+| | *female:* 13 years (2006) |
+| **Comoros** | *total:* 8 years |
+| | *male:* 9 years |
+| | *female:* 7 years (2004) |
+| **Congo, Democratic Republic of the** | *total:* 9 years |
+| | *male:* 10 years |
+| | *female:* 8 years (2003) |
+| **Congo, Republic of the** | *total:* 9 years |
+| | *male:* 10 years |
+| | *female:* 8 years (2003) |
+| **Cook Islands** | *total:* 10 years |
+| | *male:* 10 years |
+| | *female:* 10 years (2005) |
+| **Costa Rica** | *total:* 12 years |
+| | *male:* 12 years |
+| | *female:* 12 years (2005) |
+| **Croatia** | *total:* 14 years |
+| | *male:* 13 years |
+| | *female:* 14 years (2006) |
+| **Cuba** | *total:* 16 years |
+| | *male:* 15 years |
+| | *female:* 17 years (2006) |
+| **Cyprus** | *total:* 14 years |
+| | *male:* 13 years |
+| | *female:* 14 years (2006) |
+| **Czech Republic** | *total:* 15 years |
+| | *male:* 15 years |
+| | *female:* 15 years (2006) |
+| **Denmark** | *total:* 17 years |
+| | *male:* 16 years |
+| | *female:* 17 years (2006) |
+| **Djibouti** | *total:* 4 years |
+| | *male:* 5 years |
+| | *female:* 4 years (2006) |
+| **Dominica** | *total:* 13 years |
+| | *male:* 13 years |
+| | *female:* 14 years (2005) |
+| **Dominican Republic** | *total:* 12 years |
+| | *male:* 12 years |
+| | *female:* 13 years (2004) |
+| **El Salvador** | *total:* 12 years |
+| | *male:* 12 years |
+| | *female:* 12 years (2006) |
+| **Equatorial Guinea** | *total:* 10 years |
+| | *male:* 10 years |
+| | *female:* 9 years (2000) |
+| **Eritrea** | *total:* 5 years |
+| | *male:* 6 years |
+| | *female:* 4 years (2004) |
+| **Estonia** | *total:* 16 years |
+| | *male:* 15 years |
+| | *female:* 17 years (2006) |
+| **Ethiopia** | *total:* 8 years |
+| | *male:* 8 years |
+| | *female:* 7 years (2007) |
+| **Fiji** | *total:* 13 years |
+| | *male:* 13 years |
+| | *female:* 13 years (2005) |
+| **Finland** | *total:* 17 years |
+| | *male:* 17 years |
+| | *female:* 18 years (2006) |
+| **France** | *total:* 16 years |
+| | *male:* 16 years |
+| | *female:* 17 years (2006) |
+| **Gambia, The** | *total:* 7 years |
+| | *male:* 7 years |
+| | *female:* 7 years (2004) |
+| **Gaza Strip** | *total:* 14 years |
+| | *male:* 13 years |
+| | *female:* 14 years (2006) |
+| **Georgia** | *total:* 12 years |
+| | *male:* 12 years |
+| | *female:* 13 years (2006) |
+| **Germany** | *total:* 16 years |
+| | *male:* 16 years |
+| | *female:* 16 years (2006) |
+| **Ghana** | *total:* 9 years |
+| | *male:* 10 years |
+| | *female:* 9 years (2007) |
+| **Greece** | *total:* 17 years |
+| | *male:* 17 years |
+| | *female:* 17 years (2006) |
+| **Grenada** | *total:* 12 years |
+| | *male:* 12 years |
+| | *female:* 12 years (2005) |
+| **Guatemala** | *total:* 10 years |
+| | *male:* 11 years |
+| | *female:* 10 years (2006) |
+| **Guinea** | *total:* 8 years |
+| | *male:* 10 years |
+| | *female:* 7 years (2006) |
+| **Guinea-Bissau** | *total:* 5 years |
+| | *male:* 7 years |
+| | *female:* 4 years (2001) |
+| **Guyana** | *total:* 13 years |
+| | *male:* 13 years |
+| | *female:* 14 years (2005) |
+| **Honduras** | *total:* 11 years |
+| | *male:* 11 years |
+| | *female:* 12 years (2004) |
+| **Hong Kong** | *total:* 14 years |
+| | *male:* 14 years |
+| | *female:* 13 years (2006) |
+| **Hungary** | *total:* 15 years |
+| | *male:* 15 years |
+| | *female:* 16 years (2006) |
+| **Iceland** | *total:* 18 years |
+| | *male:* 17 years |
+| | *female:* 19 years (2006) |
+| **India** | *total:* 10 years |
+| | *male:* 11 years |
+| | *female:* 9 years (2005) |
+| **Indonesia** | *total:* 11 years |
+| | *male:* 12 years |
+| | *female:* 11 years (2005) |
+| **Iran** | *total:* 13 years |
+| | *male:* 13 years |
+| | *female:* 13 years (2005) |
+| **Iraq** | *total:* 10 years |
+| | *male:* 11 years |
+| | *female:* 8 years (2005) |
+| **Ireland** | *total:* 18 years |
+| | *male:* 17 years |
+| | *female:* 18 years (2006) |
+| **Israel** | *total:* 15 years |
+| | *male:* 15 years |
+| | *female:* 16 years (2006) |
+| **Italy** | *total:* 16 years |
+| | *male:* 16 years |
+| | *female:* 17 years (2006) |
+| **Jamaica** | *total:* 12 years |
+| | *male:* 11 years |
+| | *female:* 12 years (2003) |
+| **Japan** | *total:* 15 years |
+| | *male:* 15 years |
+| | *female:* 15 years (2006) |
+| **Jordan** | *total:* 13 years |
+| | *male:* 13 years |
+| | *female:* 13 years (2006) |
+| **Kazakhstan** | *total:* 15 years |
+| | *male:* 15 years |
+| | *female:* 16 years (2007) |
+| **Kenya** | *total:* 10 years |
+| | *male:* 10 years |
+| | *female:* 9 years (2004) |
+| **Kiribati** | *total:* 12 years |
+| | *male:* 12 years |
+| | *female:* 13 years (2005) |
+| **Korea, South** | *total:* 17 years |
+| | *male:* 18 years |
+| | *female:* 15 years (2007) |
+| **Kuwait** | *total:* 13 years |
+| | *male:* 12 years |
+| | *female:* 13 years (2006) |
+| **Kyrgyzstan** | *total:* 12 years |
+| | *male:* 12 years |
+| | *female:* 13 years (2006) |
+| **Laos** | *total:* 9 years |
+| | *male:* 10 years |
+| | *female:* 8 years (2006) |
+| **Latvia** | *total:* 16 years |
+| | *male:* 14 years |
+| | *female:* 17 years (2006) |
+| **Lebanon** | *total:* 13 years |
+| | *male:* 13 years |
+| | *female:* 13 years (2006) |
+| **Lesotho** | *total:* 10 years |
+| | *male:* 10 years |
+| | *female:* 10 years (2006) |
+| **Liberia** | *total:* 10 years |
+| | *male:* 11 years |
+| | *female:* 8 years (2000) |
+| **Libya** | *total:* 17 years |
+| | *male:* 16 years |
+| | *female:* 17 years (2003) |
+| **Liechtenstein** | *total:* 15 years |
+| | *male:* 16 years |
+| | *female:* 13 years (2004) |
+| **Lithuania** | *total:* 16 years |
+| | *male:* 15 years |
+| | *female:* 17 years (2006) |
+| **Luxembourg** | *total:* 14 years |
+| | *male:* 13 years |
+| | *female:* 14 years (2006) |
+| **Macau** | *total:* 15 years |
+| | *male:* 16 years |
+| | *female:* 14 years (2006) |
+| **Macedonia** | *total:* 12 years |
+| | *male:* 12 years |
+| | *female:* 12 years (2005) |
+| **Madagascar** | *total:* 9 years |
+| | *male:* 10 years |
+| | *female:* 9 years (2006) |
+| **Malawi** | *total:* 9 years |
+| | *male:* 10 years |
+| | *female:* 9 years (2004) |
+| **Malaysia** | *total:* 13 years |
+| | *male:* 12 years |
+| | *female:* 13 years (2005) |
+| **Maldives** | *total:* 12 years |
+| | *male:* 12 years |
+| | *female:* 12 years (2006) |
+| **Mali** | *total:* 7 years |
+| | *male:* 8 years |
+| | *female:* 5 years (2005) |
+| **Malta** | *total:* 15 years |
+| | *male:* 15 years |
+| | *female:* 15 years (2005) |
+| **Marshall Islands** | *total:* 13 years |
+| | *male:* 13 years |
+| | *female:* 13 years (2003) |
+| **Mauritania** | *total:* 8 years |
+| | *male:* 8 years |
+| | *female:* 8 years (2006) |
+| **Mauritius** | *total:* 14 years |
+| | *male:* 14 years |
+| | *female:* 13 years (2005) |
+| **Mexico** | *total:* 13 years |
+| | *male:* 14 years |
+| | *female:* 13 years (2006) |
+| **Moldova** | *total:* 12 years |
+| | *male:* 12 years |
+| | *female:* 13 years (2006) |
+| **Mongolia** | *total:* 13 years |
+| | *male:* 12 years |
+| | *female:* 14 years (2006) |
+| **Montserrat** | *total:* 16 years |
+| | *male:* 15 years |
+| | *female:* 16 years (2006) |
+| **Morocco** | *total:* 10 years |
+| | *male:* 11 years |
+| | *female:* 9 years (2005) |
+| **Mozambique** | *total:* 8 years |
+| | *male:* 9 years |
+| | *female:* 7 years (2005) |
+| **Namibia** | *total:* 11 years |
+| | *male:* 11 years |
+| | *female:* 11 years (2006) |
+| **Nauru** | *total:* 8 years |
+| | *male:* 8 years |
+| | *female:* 9 years (2006) |
+| **Nepal** | *total:* 9 years |
+| | *male:* 10 years |
+| | *female:* 8 years (2003) |
+| **Netherlands** | *total:* 16 years |
+| | *male:* 17 years |
+| | *female:* 16 years (2006) |
+| **Netherlands Antilles** | *total:* 14 years |
+| | *male:* 14 years |
+| | *female:* 15 years (2002) |
+| **New Zealand** | *total:* 19 years |
+| | *male:* 19 years |
+| | *female:* 20 years (2006) |
+| **Nicaragua** | *total:* 11 years |
+| | *male:* 11 years |
+| | *female:* 11 years (2003) |
+| **Niger** | *total:* 4 years |
+| | *male:* 5 years |
+| | *female:* 3 years (2006) |
+| **Nigeria** | *total:* 8 years |
+| | *male:* 9 years |
+| | *female:* 7 years (2004) |
+| **Niue** | *total:* 12 years |
+| | *male:* 12 years |
+| | *female:* 12 years (2005) |
+| **Norway** | *total:* 17 years |
+| | *male:* 17 years |
+| | *female:* 18 years (2006) |
+| **Oman** | *total:* 12 years |
+| | *male:* 12 years |
+| | *female:* 11 years (2006) |
+| **Pakistan** | *total:* 7 years |
+| | *male:* 7 years |
+| | *female:* 6 years (2006) |
+| **Palau** | *total:* 15 years |
+| | *male:* 14 years |
+| | *female:* 15 years (2000) |
+| **Panama** | *total:* 13 years |
+| | *male:* 13 years |
+| | *female:* 14 years (2006) |
+| **Paraguay** | *total:* 12 years |
+| | *male:* 12 years |
+| | *female:* 12 years (2005) |
+| **Peru** | *total:* 14 years |
+| | *male:* 14 years |
+| | *female:* 14 years (2006) |
+| **Philippines** | *total:* 12 years |
+| | *male:* 11 years |
+| | *female:* 12 years (2006) |
+| **Poland** | *total:* 15 years |
+| | *male:* 15 years |
+| | *female:* 16 years (2006) |
+| **Portugal** | *total:* 15 years |
+| | *male:* 15 years |
+| | *female:* 16 years (2006) |
+| **Qatar** | *total:* 13 years |
+| | *male:* 13 years |
+| | *female:* 14 years (2006) |
+| **Romania** | *total:* 14 years |
+| | *male:* 14 years |
+| | *female:* 14 years (2006) |
+| **Russia** | *total:* 14 years |
+| | *male:* 13 years |
+| | *female:* 14 years (2006) |
+| **Rwanda** | *total:* 9 years |
+| | *male:* 8 years |
+| | *female:* 9 years (2005) |
+| **Saint Kitts and Nevis** | *total:* 12 years |
+| | *male:* 12 years |
+| | *female:* 13 years (2005) |
+| **Saint Lucia** | *total:* 14 years |
+| | *male:* 13 years |
+| | *female:* 14 years (2006) |
+| **Saint Vincent and the Grenadines** | *total:* 12 years |
+| | *male:* 12 years |
+| | *female:* 12 years (2005) |
+| **Samoa** | *total:* 12 years |
+| | *male:* 12 years |
+| | *female:* 12 years (2001) |
+| **Sao Tome and Principe** | *total:* 10 years |
+| | *male:* 10 years |
+| | *female:* 10 years (2006) |
+| **Seychelles** | *total:* 15 years |
+| | *male:* 14 years |
+| | *female:* 15 years (2007) |
+| **Sierra Leone** | *total:* 7 years |
+| | *male:* 8 years |
+| | *female:* 6 years (2001) |
+| **Slovakia** | *total:* 15 years |
+| | *male:* 14 years |
+| | *female:* 15 years (2006) |
+| **Slovenia** | *total:* 17 years |
+| | *male:* 16 years |
+| | *female:* 17 years (2006) |
+| **Solomon Islands** | *total:* 8 years |
+| | *male:* 9 years |
+| | *female:* 8 years (2005) |
+| **South Africa** | *total:* 13 years |
+| | *male:* 13 years |
+| | *female:* 13 years (2004) |
+| **Spain** | *total:* 16 years |
+| | *male:* 16 years |
+| | *female:* 17 years (2006) |
+| **Suriname** | *total:* 12 years |
+| | *male:* 11 years |
+| | *female:* 13 years (2002) |
+| **Swaziland** | *total:* 10 years |
+| | *male:* 10 years |
+| | *female:* 10 years (2005) |
+| **Sweden** | *total:* 16 years |
+| | *male:* 15 years |
+| | *female:* 17 years (2006) |
+| **Switzerland** | *total:* 15 years |
+| | *male:* 15 years |
+| | *female:* 15 years (2006) |
+| **Tajikistan** | *total:* 11 years |
+| | *male:* 12 years |
+| | *female:* 10 years (2006) |
+| **Thailand** | *total:* 14 years |
+| | *male:* 13 years |
+| | *female:* 14 years (2006) |
+| **Togo** | *total:* 9 years |
+| | *male:* 11 years |
+| | *female:* 7 years (2000) |
+| **Tokelau** | *total:* 11 years |
+| | *male:* 10 years |
+| | *female:* 11 years (2004) |
+| **Tonga** | *total:* 13 years |
+| | *male:* 13 years |
+| | *female:* 13 years (2004) |
+| **Trinidad and Tobago** | *total:* 11 years |
+| | *male:* 11 years |
+| | *female:* 11 years (2005) |
+| **Tunisia** | *total:* 14 years |
+| | *male:* 13 years |
+| | *female:* 14 years (2006) |
+| **Turkey** | *total:* 11 years |
+| | *male:* 12 years |
+| | *female:* 11 years (2006) |
+| **Turks and Caicos Islands** | *total:* 11 years |
+| | *male:* 11 years |
+| | *female:* 12 years (2005) |
+| **Tuvalu** | *total:* 11 years |
+| | *male:* 11 years |
+| | *female:* 11 years (2001) |
+| **Uganda** | *total:* 10 years |
+| | *male:* 11 years |
+| | *female:* 10 years (2004) |
+| **Ukraine** | *total:* 14 years |
+| | *male:* 14 years |
+| | *female:* 15 years (2006) |
+| **United Arab Emirates** | *total:* 11 years |
+| | *male:* 11 years |
+| | *female:* 12 years (2003) |
+| **United Kingdom** | *total:* 16 years |
+| | *male:* 16 years |
+| | *female:* 17 years (2006) |
+| **United States** | *total:* 16 years |
+| | *male:* 15 years |
+| | *female:* 16 years (2006) |
+| **Uruguay** | *total:* 15 years |
+| | *male:* 14 years |
+| | *female:* 16 years (2006) |
+| **Uzbekistan** | *total:* 11 years |
+| | *male:* 12 years |
+| | *female:* 11 years (2007) |
+| **Vanuatu** | *total:* 10 years |
+| | *male:* 11 years |
+| | *female:* 10 years (2004) |
+| **Venezuela** | *total:* 12 years |
+| | *male:* 11 years |
+| | *female:* 12 years (2003) |
+| **Vietnam** | *total:* 10 years |
+| | *male:* 11 years |
+| | *female:* 10 years (2000) |
+| **West Bank** | *total:* 14 years |
+| | *male:* 13 years |
+| | *female:* 14 years (2006) |
+| **Yemen** | *total:* 9 years |
+| | *male:* 11 years |
+| | *female:* 7 years (2005) |
+| **Zambia** | *total:* 7 years |
+| | *male:* 7 years |
+| | *female:* 7 years (2000) |
+| **Zimbabwe** | *total:* 9 years |
+| | *male:* 9 years |
+| | *female:* 9 years (2003) |
+
+This page was last updated on 18 December 2008
+ 
+updated on 18 December 2008
+ 

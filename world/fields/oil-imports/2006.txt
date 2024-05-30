@@ -1,0 +1,218 @@
+CIA - The World Factbook -- Field Listing - Oil - imports
+
+| Country | Oil - imports (bbl/day) |
+| --- | --- |
+| **Afghanistan** | NA bbl/day |
+| **Albania** | 21,600 bbl/day (2005 est.) |
+| **Algeria** | 0 bbl/day (2004 est.) |
+| **American Samoa** | NA bbl/day |
+| **Angola** | NA bbl/day |
+| **Antigua and Barbuda** | NA bbl/day |
+| **Argentina** | NA bbl/day |
+| **Armenia** | NA bbl/day |
+| **Aruba** | NA bbl/day |
+| **Australia** | 530,800 bbl/day (2001) |
+| **Austria** | 152,600 bbl/day (2004) |
+| **Azerbaijan** | NA bbl/day |
+| **Bahamas, The** | NA bbl/day |
+| **Bahrain** | NA bbl/day |
+| **Bangladesh** | NA bbl/day |
+| **Barbados** | NA bbl/day |
+| **Belarus** | 360,000 bbl/day (2004 est.) |
+| **Belgium** | 1.042 million bbl/day (2001) |
+| **Belize** | NA bbl/day |
+| **Benin** | NA bbl/day |
+| **Bermuda** | NA bbl/day |
+| **Bhutan** | NA bbl/day |
+| **Bolivia** | NA bbl/day |
+| **Bosnia and Herzegovina** | NA bbl/day |
+| **Botswana** | 16,000 bbl/day (2001) |
+| **Brazil** | 572,600 bbl/day NA bbl/day |
+| **British Virgin Islands** | NA bbl/day |
+| **Brunei** | NA bbl/day |
+| **Bulgaria** | 85,000 bbl/day (2004 est.) |
+| **Burkina Faso** | NA bbl/day |
+| **Burma** | 49,230 bbl/day (2003) |
+| **Burundi** | NA bbl/day |
+| **Cambodia** | NA bbl/day |
+| **Cameroon** | NA bbl/day |
+| **Canada** | 963,000 bbl/day (2004) |
+| **Cape Verde** | NA bbl/day |
+| **Cayman Islands** | NA bbl/day |
+| **Central African Republic** | NA bbl/day |
+| **Chad** | NA bbl/day |
+| **Chile** | 221,500 bbl/day (2003 est.) |
+| **China** | 3.226 million bbl/day (2004) |
+| **Colombia** | NA bbl/day |
+| **Comoros** | NA bbl/day |
+| **Congo, Democratic Republic of the** | NA bbl/day |
+| **Congo, Republic of the** | NA bbl/day |
+| **Cook Islands** | NA bbl/day |
+| **Costa Rica** | NA bbl/day |
+| **Cote d'Ivoire** | NA bbl/day |
+| **Croatia** | NA bbl/day |
+| **Cuba** | NA bbl/day |
+| **Cyprus** | NA bbl/day |
+| **Czech Republic** | 182,000 bbl/day (2004) |
+| **Denmark** | 195,000 bbl/day (2001) |
+| **Djibouti** | NA bbl/day |
+| **Dominica** | NA bbl/day |
+| **Dominican Republic** | 129,900 bbl/day (2003) |
+| **Ecuador** | NA bbl/day |
+| **Egypt** | NA bbl/day |
+| **El Salvador** | NA bbl/day |
+| **Equatorial Guinea** | NA bbl/day |
+| **Eritrea** | NA bbl/day |
+| **Estonia** | 54,000 bbl/day (2004) |
+| **Ethiopia** | NA bbl/day |
+| **European Union** | 15.69 million bbl/day (2001) |
+| **Falkland Islands (Islas Malvinas)** | NA bbl/day |
+| **Faroe Islands** | NA bbl/day |
+| **Fiji** | NA bbl/day |
+| **Finland** | 318,300 bbl/day (2001) |
+| **France** | 2.281 million bbl/day (2001) |
+| **French Guiana** | NA bbl/day |
+| **French Polynesia** | NA bbl/day |
+| **Gabon** | NA bbl/day |
+| **Gambia, The** | NA bbl/day |
+| **Georgia** | NA bbl/day |
+| **Germany** | 2.135 million bbl/day (2003) |
+| **Ghana** | NA bbl/day |
+| **Gibraltar** | NA bbl/day |
+| **Greece** | 468,300 bbl/day (2001) |
+| **Greenland** | NA bbl/day |
+| **Grenada** | NA bbl/day |
+| **Guadeloupe** | NA bbl/day |
+| **Guam** | NA bbl/day |
+| **Guatemala** | NA bbl/day |
+| **Guinea** | NA bbl/day |
+| **Guinea-Bissau** | NA bbl/day |
+| **Guyana** | NA bbl/day |
+| **Haiti** | NA bbl/day |
+| **Honduras** | NA bbl/day |
+| **Hong Kong** | NA bbl/day |
+| **Hungary** | 94,000 bbl/day (2004) |
+| **Iceland** | 15,470 bbl/day (2001) |
+| **India** | 2.09 million bbl/day |
+| **Indonesia** | 345,700 bbl/day (2005 est.) |
+| **Iran** | NA bbl/day |
+| **Iraq** | NA bbl/day |
+| **Ireland** | 178,600 bbl/day (2001) |
+| **Israel** | NA bbl/day |
+| **Italy** | 2.158 million bbl/day (2001) |
+| **Jamaica** | NA bbl/day |
+| **Japan** | 5.449 million bbl/day (2001) |
+| **Jordan** | 100,000 bbl/day (2004 est.) |
+| **Kazakhstan** | 47,000 bbl/day (2003) |
+| **Kenya** | NA bbl/day |
+| **Kiribati** | NA bbl/day |
+| **Korea, North** | 22,000 bbl/day (2004 est.) |
+| **Korea, South** | 2.263 million bbl/day (2004) |
+| **Kuwait** | NA bbl/day |
+| **Kyrgyzstan** | NA bbl/day |
+| **Laos** | NA bbl/day |
+| **Latvia** | 47,000 bbl/day (2004) |
+| **Lebanon** | NA bbl/day |
+| **Lesotho** | NA bbl/day |
+| **Liberia** | NA bbl/day |
+| **Libya** | 0 bbl/day NA bbl/day |
+| **Lithuania** | 93,000 bbl/day bbl/day (2004) |
+| **Luxembourg** | 50,700 bbl/day (2001) |
+| **Macau** | NA bbl/day |
+| **Macedonia** | NA bbl/day |
+| **Madagascar** | NA bbl/day |
+| **Malawi** | NA bbl/day |
+| **Malaysia** | NA bbl/day |
+| **Maldives** | NA bbl/day |
+| **Mali** | NA bbl/day |
+| **Malta** | NEGL (2001) |
+| **Martinique** | NA bbl/day |
+| **Mauritania** | NA bbl/day |
+| **Mauritius** | NA bbl/day |
+| **Mexico** | 205,000 bbl/day (2004) |
+| **Moldova** | NA bbl/day |
+| **Mongolia** | 11,210 bbl/day (2005 est.) |
+| **Montserrat** | NA bbl/day |
+| **Morocco** | 147,800 bbl/day NA bbl/day |
+| **Mozambique** | NA bbl/day |
+| **Namibia** | 12,770 bbl/day NA bbl/day |
+| **Nauru** | NA bbl/day |
+| **Nepal** | 11,760 bbl/day NA bbl/day |
+| **Netherlands** | 2.284 million bbl/day (2001) |
+| **Netherlands Antilles** | NA bbl/day |
+| **New Caledonia** | NA bbl/day |
+| **New Zealand** | 119,700 bbl/day (2001) |
+| **Nicaragua** | 15,560 bbl/day (2005 est.) |
+| **Niger** | NA bbl/day |
+| **Nigeria** | NA bbl/day |
+| **Niue** | NA bbl/day |
+| **Norway** | 88,870 bbl/day (2001) |
+| **Oman** | NA bbl/day |
+| **Pakistan** | NA bbl/day |
+| **Panama** | NA bbl/day; note - imports oil |
+| **Papua New Guinea** | NA bbl/day |
+| **Paraguay** | NA bbl/day |
+| **Peru** | NA bbl/day |
+| **Philippines** | 312,000 bbl/day (2003) |
+| **Poland** | 413,700 bbl/day (2001) |
+| **Portugal** | 357,300 bbl/day (2001) |
+| **Puerto Rico** | NA bbl/day |
+| **Qatar** | NA bbl/day |
+| **Reunion** | NA bbl/day |
+| **Romania** | 163,000 bbl/day bbl/day (2004) |
+| **Russia** | 75,000 bbl/day |
+| **Rwanda** | NA bbl/day |
+| **Saint Helena** | NA bbl/day |
+| **Saint Kitts and Nevis** | NA bbl/day |
+| **Saint Lucia** | NA bbl/day |
+| **Saint Pierre and Miquelon** | NA bbl/day |
+| **Saint Vincent and the Grenadines** | NA bbl/day |
+| **Samoa** | NA bbl/day |
+| **Sao Tome and Principe** | NA bbl/day |
+| **Saudi Arabia** | 0 bbl/day (2003) |
+| **Senegal** | NA bbl/day |
+| **Seychelles** | NA bbl/day |
+| **Sierra Leone** | NA bbl/day |
+| **Singapore** | NA bbl/day |
+| **Slovakia** | 59,000 bbl/day bbl/day |
+| **Slovenia** | NA bbl/day |
+| **Solomon Islands** | NA bbl/day |
+| **Somalia** | NA bbl/day |
+| **South Africa** | NA bbl/day |
+| **Spain** | 1.582 million bbl/day (2001) |
+| **Sri Lanka** | NA bbl/day |
+| **Sudan** | 0 bbl/day (2004) |
+| **Suriname** | 1,644 bbl/day (2003) |
+| **Swaziland** | NA bbl/day |
+| **Sweden** | 553,100 bbl/day (2001) |
+| **Switzerland** | 289,500 bbl/day (2001) |
+| **Syria** | NA bbl/day |
+| **Taiwan** | NA bbl/day |
+| **Tajikistan** | NA bbl/day |
+| **Tanzania** | NA bbl/day |
+| **Thailand** | NA bbl/day |
+| **Togo** | NA bbl/day |
+| **Tonga** | NA bbl/day |
+| **Trinidad and Tobago** | NA bbl/day |
+| **Tunisia** | NA bbl/day |
+| **Turkey** | 616,500 bbl/day (2001) |
+| **Turkmenistan** | NA bbl/day |
+| **Turks and Caicos Islands** | NA bbl/day |
+| **Uganda** | NA bbl/day |
+| **Ukraine** | 444,600 bbl/day NA bbl/day |
+| **United Arab Emirates** | 0 bbl/day (2004) |
+| **United Kingdom** | 1.084 million bbl/day (2003) |
+| **United States** | 13.15 million bbl/day (2004) |
+| **Uruguay** | NA bbl/day |
+| **Uzbekistan** | NA bbl/day |
+| **Vanuatu** | NA bbl/day |
+| **Venezuela** | NA bbl/day |
+| **Vietnam** | NA bbl/day |
+| **Virgin Islands** | NA bbl/day |
+| **Western Sahara** | NA bbl/day |
+| **Yemen** | NA bbl/day |
+| **Zambia** | NA bbl/day |
+| **Zimbabwe** | 23,000 bbl/day |
+
+This page was last updated on 19 December, 2006
+ 

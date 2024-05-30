@@ -1,0 +1,240 @@
+CIA - The World Factbook -- Field Listing - Birth rate
+
+| Country | Birth rate (births/1,000 population) |
+| --- | --- |
+| **Afghanistan** | 45.82 births/1,000 population (2008 est.) |
+| **Albania** | 15.22 births/1,000 population (2008 est.) |
+| **Algeria** | 17.03 births/1,000 population (2008 est.) |
+| **American Samoa** | 23.66 births/1,000 population (2008 est.) |
+| **Andorra** | 10.59 births/1,000 population (2008 est.) |
+| **Angola** | 44.09 births/1,000 population (2008 est.) |
+| **Anguilla** | 13.11 births/1,000 population (2008 est.) |
+| **Antigua and Barbuda** | 16.78 births/1,000 population (2008 est.) |
+| **Argentina** | 18.11 births/1,000 population (2008 est.) |
+| **Armenia** | 12.53 births/1,000 population (2008 est.) |
+| **Aruba** | 12.81 births/1,000 population (2008 est.) |
+| **Australia** | 12.55 births/1,000 population (2008 est.) |
+| **Austria** | 8.66 births/1,000 population (2008 est.) |
+| **Azerbaijan** | 17.52 births/1,000 population (2008 est.) |
+| **Bahamas, The** | 17.06 births/1,000 population (2008 est.) |
+| **Bahrain** | 17.26 births/1,000 population (2008 est.) |
+| **Bangladesh** | 28.86 births/1,000 population (2008 est.) |
+| **Barbados** | 12.48 births/1,000 population (2008 est.) |
+| **Belarus** | 9.62 births/1,000 population (2008 est.) |
+| **Belgium** | 10.22 births/1,000 population (2008 est.) |
+| **Belize** | 27.84 births/1,000 population (2008 est.) |
+| **Benin** | 39.8 births/1,000 population (2008 est.) |
+| **Bermuda** | 11.15 births/1,000 population (2008 est.) |
+| **Bhutan** | 20.56 births/1,000 population (2008 est.) |
+| **Bolivia** | 22.31 births/1,000 population (2008 est.) |
+| **Bosnia and Herzegovina** | 8.82 births/1,000 population (2008 est.) |
+| **Botswana** | 22.96 births/1,000 population (2008 est.) |
+| **Brazil** | 18.72 births/1,000 population (2008 est.) |
+| **British Virgin Islands** | 14.72 births/1,000 population (2008 est.) |
+| **Brunei** | 18.39 births/1,000 population (2008 est.) |
+| **Bulgaria** | 9.58 births/1,000 population (2008 est.) |
+| **Burkina Faso** | 44.68 births/1,000 population (2008 est.) |
+| **Burma** | 17.23 births/1,000 population (2008 est.) |
+| **Burundi** | 41.72 births/1,000 population (2008 est.) |
+| **Cambodia** | 25.68 births/1,000 population (2008 est.) |
+| **Cameroon** | 34.59 births/1,000 population (2008 est.) |
+| **Canada** | 10.29 births/1,000 population (2008 est.) |
+| **Cape Verde** | 23.95 births/1,000 population (2008 est.) |
+| **Cayman Islands** | 12.43 births/1,000 population (2008 est.) |
+| **Central African Republic** | 33.13 births/1,000 population (2008 est.) |
+| **Chad** | 41.61 births/1,000 population (2008 est.) |
+| **Chile** | 14.82 births/1,000 population (2008 est.) |
+| **China** | 13.71 births/1,000 population (2008 est.) |
+| **Christmas Island** | NA (2008 est.) |
+| **Cocos (Keeling) Islands** | NA (2008 est.) |
+| **Colombia** | 19.86 births/1,000 population (2008 est.) |
+| **Comoros** | 35.78 births/1,000 population (2008 est.) |
+| **Congo, Democratic Republic of the** | 43 births/1,000 population (2008 est.) |
+| **Congo, Republic of the** | 41.76 births/1,000 population (2008 est.) |
+| **Cook Islands** | 16.71 births/1,000 population (2008 est.) |
+| **Costa Rica** | 17.71 births/1,000 population (2008 est.) |
+| **Cote d'Ivoire** | 32.73 births/1,000 population (2008 est.) |
+| **Croatia** | 9.64 births/1,000 population (2008 est.) |
+| **Cuba** | 11.27 births/1,000 population (2008 est.) |
+| **Cyprus** | 12.56 births/1,000 population (2008 est.) |
+| **Czech Republic** | 8.89 births/1,000 population (2008 est.) |
+| **Denmark** | 10.71 births/1,000 population (2008 est.) |
+| **Djibouti** | 38.61 births/1,000 population (2008 est.) |
+| **Dominica** | 15.73 births/1,000 population (2008 est.) |
+| **Dominican Republic** | 22.65 births/1,000 population (2008 est.) |
+| **Ecuador** | 21.54 births/1,000 population (2008 est.) |
+| **Egypt** | 22.12 births/1,000 population (2008 est.) |
+| **El Salvador** | 25.72 births/1,000 population (2008 est.) |
+| **Equatorial Guinea** | 37.04 births/1,000 population (2008 est.) |
+| **Eritrea** | 34.94 births/1,000 population (2008 est.) |
+| **Estonia** | 10.28 births/1,000 population (2008 est.) |
+| **Ethiopia** | 43.97 births/1,000 population (2008 est.) |
+| **European Union** | 10.25 births/1,000 population (2008 est.) |
+| **Falkland Islands (Islas Malvinas)** | NA (2008 est.) |
+| **Faroe Islands** | 13.25 births/1,000 population (2008 est.) |
+| **Fiji** | 22.15 births/1,000 population (2008 est.) |
+| **Finland** | 10.39 births/1,000 population (2008 est.) |
+| **France** | 12.73 births/1,000 population (2008 est.) |
+| **French Polynesia** | 16.16 births/1,000 population (2008 est.) |
+| **Gabon** | 35.75 births/1,000 population (2008 est.) |
+| **Gambia, The** | 38.36 births/1,000 population (2008 est.) |
+| **Gaza Strip** | 37.75 births/1,000 population (2008 est.) |
+| **Georgia** | 10.62 births/1,000 population (2008 est.) |
+| **Germany** | 8.18 births/1,000 population (2008 est.) |
+| **Ghana** | 29.22 births/1,000 population (2008 est.) |
+| **Gibraltar** | 10.71 births/1,000 population (2008 est.) |
+| **Greece** | 9.54 births/1,000 population (2008 est.) |
+| **Greenland** | 14.87 births/1,000 population (2008 est.) |
+| **Grenada** | 21.61 births/1,000 population (2008 est.) |
+| **Guam** | 18.37 births/1,000 population (2008 est.) |
+| **Guatemala** | 28.55 births/1,000 population (2008 est.) |
+| **Guernsey** | 8.57 births/1,000 population (2008 est.) |
+| **Guinea** | 37.84 births/1,000 population (2008 est.) |
+| **Guinea-Bissau** | 36.4 births/1,000 population (2008 est.) |
+| **Guyana** | 17.85 births/1,000 population (2008 est.) |
+| **Haiti** | 35.69 births/1,000 population (2008 est.) |
+| **Honduras** | 26.93 births/1,000 population (2008 est.) |
+| **Hong Kong** | 7.37 births/1,000 population (2008 est.) |
+| **Hungary** | 9.59 births/1,000 population (2008 est.) |
+| **Iceland** | 13.5 births/1,000 population (2008 est.) |
+| **India** | 22.22 births/1,000 population (2008 est.) |
+| **Indonesia** | 19.24 births/1,000 population (2008 est.) |
+| **Iran** | 16.89 births/1,000 population (2008 est.) |
+| **Iraq** | 30.77 births/1,000 population (2008 est.) |
+| **Ireland** | 14.33 births/1,000 population (2008 est.) |
+| **Isle of Man** | 10.86 births/1,000 population (2008 est.) |
+| **Israel** | 20.02 births/1,000 population (2008 est.) |
+| **Italy** | 8.36 births/1,000 population (2008 est.) |
+| **Jamaica** | 20.04 births/1,000 population (2008 est.) |
+| **Japan** | 7.87 births/1,000 population (2008 est.) |
+| **Jersey** | 8.84 births/1,000 population (2008 est.) |
+| **Jordan** | 20.13 births/1,000 population (2008 est.) |
+| **Kazakhstan** | 16.44 births/1,000 population (2008 est.) |
+| **Kenya** | 37.89 births/1,000 population (2008 est.) |
+| **Kiribati** | 30.31 births/1,000 population (2008 est.) |
+| **Korea, North** | 14.61 births/1,000 population (2008 est.) |
+| **Korea, South** | 9.09 births/1,000 population (2008 est.) |
+| **Kuwait** | 21.9 births/1,000 population (2008 est.) |
+| **Kyrgyzstan** | 23.31 births/1,000 population (2008 est.) |
+| **Laos** | 34.46 births/1,000 population (2008 est.) |
+| **Latvia** | 9.62 births/1,000 population (2008 est.) |
+| **Lebanon** | 17.61 births/1,000 population (2008 est.) |
+| **Lesotho** | 24.41 births/1,000 population (2008 est.) |
+| **Liberia** | 42.92 births/1,000 population (2008 est.) |
+| **Libya** | 25.62 births/1,000 population (2008 est.) |
+| **Liechtenstein** | 9.86 births/1,000 population (2008 est.) |
+| **Lithuania** | 9 births/1,000 population (2008 est.) |
+| **Luxembourg** | 11.77 births/1,000 population (2008 est.) |
+| **Macau** | 8.69 births/1,000 population (2008 est.) |
+| **Macedonia** | 12 births/1,000 population (2008 est.) |
+| **Madagascar** | 38.38 births/1,000 population (2008 est.) |
+| **Malawi** | 41.79 births/1,000 population (2008 est.) |
+| **Malaysia** | 22.44 births/1,000 population (2008 est.) |
+| **Maldives** | 14.84 births/1,000 population (2008 est.) |
+| **Mali** | 49.38 births/1,000 population (2008 est.) |
+| **Malta** | 10.33 births/1,000 population (2008 est.) |
+| **Marshall Islands** | 31.52 births/1,000 population (2008 est.) |
+| **Mauritania** | 40.14 births/1,000 population (2008 est.) |
+| **Mauritius** | 14.64 births/1,000 population (2008 est.) |
+| **Mayotte** | 39.79 births/1,000 population (2008 est.) |
+| **Mexico** | 20.04 births/1,000 population (2008 est.) |
+| **Micronesia, Federated States of** | 23.66 births/1,000 population (2008 est.) |
+| **Moldova** | 11.01 births/1,000 population (2008 est.) |
+| **Monaco** | 9.09 births/1,000 population (2008 est.) |
+| **Mongolia** | 21.09 births/1,000 population (2008 est.) |
+| **Montenegro** | 11.17 births/1,000 population (2008 est.) |
+| **Montserrat** | 12.01 births/1,000 population (2008 est.) |
+| **Morocco** | 21.31 births/1,000 population (2008 est.) |
+| **Mozambique** | 38.21 births/1,000 population (2008 est.) |
+| **Namibia** | 23.19 births/1,000 population (2008 est.) |
+| **Nauru** | 24.26 births/1,000 population (2008 est.) |
+| **Nepal** | 29.92 births/1,000 population (2008 est.) |
+| **Netherlands** | 10.53 births/1,000 population (2008 est.) |
+| **Netherlands Antilles** | 14.37 births/1,000 population (2008 est.) |
+| **New Caledonia** | 17.39 births/1,000 population (2008 est.) |
+| **New Zealand** | 14.09 births/1,000 population (2008 est.) |
+| **Nicaragua** | 23.7 births/1,000 population (2008 est.) |
+| **Niger** | 49.62 births/1,000 population (2008 est.) |
+| **Nigeria** | 37.23 births/1,000 population (2008 est.) |
+| **Niue** | NA (2008 est.) |
+| **Norfolk Island** | NA (2008 est.) |
+| **Northern Mariana Islands** | 19.04 births/1,000 population (2008 est.) |
+| **Norway** | 11.12 births/1,000 population (2008 est.) |
+| **Oman** | 35.26 births/1,000 population (2008 est.) |
+| **Pakistan** | 28.35 births/1,000 population (2008 est.) |
+| **Palau** | 17.4 births/1,000 population (2008 est.) |
+| **Panama** | 20.68 births/1,000 population (2008 est.) |
+| **Papua New Guinea** | 28.14 births/1,000 population (2008 est.) |
+| **Paraguay** | 28.47 births/1,000 population (2008 est.) |
+| **Peru** | 19.77 births/1,000 population (2008 est.) |
+| **Philippines** | 26.42 births/1,000 population (2008 est.) |
+| **Pitcairn Islands** | NA (2008 est.) |
+| **Poland** | 10.01 births/1,000 population (2008 est.) |
+| **Portugal** | 10.45 births/1,000 population (2008 est.) |
+| **Puerto Rico** | 12.61 births/1,000 population (2008 est.) |
+| **Qatar** | 15.69 births/1,000 population (2008 est.) |
+| **Romania** | 10.61 births/1,000 population (2008 est.) |
+| **Russia** | 11.03 births/1,000 population (2008 est.) |
+| **Rwanda** | 39.97 births/1,000 population (2008 est.) |
+| **Saint Helena** | 11.45 births/1,000 population (2008 est.) |
+| **Saint Kitts and Nevis** | 17.73 births/1,000 population (2008 est.) |
+| **Saint Lucia** | 15.4 births/1,000 population (2008 est.) |
+| **Saint Pierre and Miquelon** | 12.92 births/1,000 population (2008 est.) |
+| **Saint Vincent and the Grenadines** | 15.82 births/1,000 population (2008 est.) |
+| **Samoa** | 28.2 births/1,000 population (2008 est.) |
+| **San Marino** | 9.74 births/1,000 population (2008 est.) |
+| **Sao Tome and Principe** | 39.12 births/1,000 population (2008 est.) |
+| **Saudi Arabia** | 28.85 births/1,000 population (2008 est.) |
+| **Senegal** | 36.52 births/1,000 population (2008 est.) |
+| **Seychelles** | 15.6 births/1,000 population (2008 est.) |
+| **Sierra Leone** | 45.08 births/1,000 population (2008 est.) |
+| **Singapore** | 8.99 births/1,000 population (2008 est.) |
+| **Slovakia** | 10.64 births/1,000 population (2008 est.) |
+| **Slovenia** | 8.99 births/1,000 population (2008 est.) |
+| **Solomon Islands** | 28.48 births/1,000 population (2008 est.) |
+| **Somalia** | 44.12 births/1,000 population (2008 est.) |
+| **South Africa** | 20.23 births/1,000 population (2008 est.) |
+| **Spain** | 9.87 births/1,000 population (2008 est.) |
+| **Sri Lanka** | 16.63 births/1,000 population (2008 est.) |
+| **Sudan** | 34.31 births/1,000 population (2008 est.) |
+| **Suriname** | 17.02 births/1,000 population (2008 est.) |
+| **Svalbard** | NA (2008 est.) |
+| **Swaziland** | 26.6 births/1,000 population (2008 est.) |
+| **Sweden** | 10.15 births/1,000 population (2008 est.) |
+| **Switzerland** | 9.62 births/1,000 population (2008 est.) |
+| **Syria** | 26.57 births/1,000 population (2008 est.) |
+| **Taiwan** | 8.99 births/1,000 population (2008 est.) |
+| **Tajikistan** | 27.18 births/1,000 population (2008 est.) |
+| **Tanzania** | 35.12 births/1,000 population (2008 est.) |
+| **Thailand** | 13.57 births/1,000 population (2008 est.) |
+| **Timor-Leste** | 26.52 births/1,000 population (2008 est.) |
+| **Togo** | 36.66 births/1,000 population (2008 est.) |
+| **Tokelau** | NA (2008 est.) |
+| **Tonga** | 21.81 births/1,000 population (2008 est.) |
+| **Trinidad and Tobago** | 13.22 births/1,000 population (2008 est.) |
+| **Tunisia** | 15.5 births/1,000 population (2008 est.) |
+| **Turkey** | 16.15 births/1,000 population (2008 est.) |
+| **Turkmenistan** | 25.07 births/1,000 population (2008 est.) |
+| **Turks and Caicos Islands** | 21.12 births/1,000 population (2008 est.) |
+| **Tuvalu** | 22.75 births/1,000 population (2008 est.) |
+| **Uganda** | 48.15 births/1,000 population (2008 est.) |
+| **Ukraine** | 9.55 births/1,000 population (2008 est.) |
+| **United Arab Emirates** | 16.06 births/1,000 population (2008 est.) |
+| **United Kingdom** | 10.65 births/1,000 population (2008 est.) |
+| **United States** | 14.18 births/1,000 population (2008 est.) |
+| **Uruguay** | 14.17 births/1,000 population (2008 est.) |
+| **Uzbekistan** | 17.99 births/1,000 population (2008 est.) |
+| **Vanuatu** | 21.95 births/1,000 population (2008 est.) |
+| **Venezuela** | 20.92 births/1,000 population (2008 est.) |
+| **Vietnam** | 16.47 births/1,000 population (2008 est.) |
+| **Virgin Islands** | 12.29 births/1,000 population (2008 est.) |
+| **Wallis and Futuna** | NA (2008 est.) |
+| **West Bank** | 25.95 births/1,000 population (2008 est.) |
+| **Western Sahara** | 39.95 births/1,000 population (2008 est.) |
+| **World** | 20.18 births/1,000 population (2008 est.) |
+| **Yemen** | 42.42 births/1,000 population (2008 est.) |
+| **Zambia** | 40.52 births/1,000 population (2008 est.) |
+| **Zimbabwe** | 31.62 births/1,000 population (2008 est.) |
+
+This page was last updated on 18 December 2008
+ 

@@ -1,0 +1,120 @@
+CIA - The World Factbook -- Field Listing :: Heliports   
+
+This entry gives the total number of heliports with hard-surface runways, helipads, or landing areas that support routine sustained helicopter operations exclusively and have support facilities including one or more of the following facilities: lighting, fuel, passenger handling, or maintenance. It includes former airports used exclusively for helicopter operations but excludes heliports limited to day operations and natural clearings that could support helicopter landings and takeoffs.
+
+| Country | Heliports |
+| --- | --- |
+| **Afghanistan** | 10 (2012) |
+| **Albania** | 1 (2012) |
+| **Algeria** | 3 (2012) |
+| **Angola** | 1 (2012) |
+| **Antarctica** | 53 |
+| | *note:* all year-round and seasonal stations operated by National Antarctic Programs stations have some kind of helicopter landing facilities, prepared (helipads) or unprepared (2012) |
+| **Argentina** | 2 (2012) |
+| **Australia** | 1 (2012) |
+| **Austria** | 1 (2012) |
+| **Azerbaijan** | 1 (2012) |
+| **Bahamas, The** | 1 (2012) |
+| **Bahrain** | 1 (2012) |
+| **Bangladesh** | 3 (2012) |
+| **Belarus** | 1 (2012) |
+| **Belgium** | 1 (2012) |
+| **Bosnia and Herzegovina** | 6 (2012) |
+| **Brazil** | 13 (2012) |
+| **Brunei** | 3 (2012) |
+| **Bulgaria** | 2 (2012) |
+| **Burma** | 9 (2012) |
+| **Burundi** | 1 (2012) |
+| **Cambodia** | 1 (2012) |
+| **Canada** | 27 (2012) |
+| **Chile** | 1 (2012) |
+| **China** | 50 (2012) |
+| **Colombia** | 2 (2012) |
+| **Congo, Democratic Republic of the** | 1 (2012) |
+| **Cote d'Ivoire** | 1 (2012) |
+| **Croatia** | 1 (2012) |
+| **Cyprus** | 9 (2012) |
+| **Czech Republic** | 1 (2012) |
+| **Dominican Republic** | 1 (2012) |
+| **Ecuador** | 2 (2012) |
+| **Egypt** | 6 (2012) |
+| **El Salvador** | 2 (2012) |
+| **Eritrea** | 1 (2012) |
+| **Estonia** | 1 (2012) |
+| **European Union** | 91 (2012) |
+| **France** | 1 (2012) |
+| **French Polynesia** | 1 (2012) |
+| **Gaza Strip** | 1 (2012) |
+| **Georgia** | 2 (2012) |
+| **Germany** | 22 (2012) |
+| **Greece** | 9 (2012) |
+| **Guatemala** | 1 (2012) |
+| **Hong Kong** | 9 (2012) |
+| **Hungary** | 3 (2012) |
+| **India** | 41 (2012) |
+| **Indonesia** | 76 (2012) |
+| **Iran** | 21 (2012) |
+| **Iraq** | 20 (2012) |
+| **Israel** | 3 (2012) |
+| **Italy** | 5 (2012) |
+| **Japan** | 15 (2012) |
+| **Jordan** | 1 (2012) |
+| **Kazakhstan** | 3 (2012) |
+| **Korea, North** | 23 (2012) |
+| **Korea, South** | 510 (2012) |
+| **Kosovo** | 2 (2012) |
+| **Kuwait** | 4 (2012) |
+| **Latvia** | 1 (2012) |
+| **Libya** | 2 (2012) |
+| **Luxembourg** | 1 (2012) |
+| **Macau** | 2 (2012) |
+| **Malaysia** | 3 (2012) |
+| **Malta** | 2 (2012) |
+| **Mexico** | 1 (2012) |
+| **Monaco** | 1 (2012) |
+| **Mongolia** | 1 (2012) |
+| **Montenegro** | 1 (2012) |
+| **Morocco** | 1 (2012) |
+| **Netherlands** | 1 (2012) |
+| **New Caledonia** | 8 (2012) |
+| **Nigeria** | 5 (2012) |
+| **Northern Mariana Islands** | 1 (2012) |
+| **Norway** | 1 (2012) |
+| **Oman** | 3 (2012) |
+| **Pakistan** | 24 (2012) |
+| **Panama** | 3 (2012) |
+| **Papua New Guinea** | 2 (2012) |
+| **Peru** | 4 (2012) |
+| **Philippines** | 2 (2012) |
+| **Poland** | 6 (2012) |
+| **Qatar** | 1 (2012) |
+| **Romania** | 4 (2012) |
+| **Russia** | 48 (2012) |
+| **Saudi Arabia** | 10 (2012) |
+| **Serbia** | 2 (2012) |
+| **Seychelles** | 1 (2012) |
+| **Sierra Leone** | 2 (2012) |
+| **Slovakia** | 1 (2012) |
+| **Solomon Islands** | 3 (2012) |
+| **South Africa** | 1 (2012) |
+| **South Sudan** | 1 (2012) |
+| **Spain** | 10 (2012) |
+| **Spratly Islands** | 3 (2012) |
+| **Sri Lanka** | 1 (2012) |
+| **Sudan** | 6 (2012) |
+| **Svalbard** | 1 (2012) |
+| **Sweden** | 2 (2012) |
+| **Switzerland** | 1 (2012) |
+| **Syria** | 6 (2012) |
+| **Taiwan** | 32 (2012) |
+| **Thailand** | 6 (2012) |
+| **Timor-Leste** | 8 (2012) |
+| **Turkey** | 20 (2012) |
+| **Turkmenistan** | 1 (2012) |
+| **Ukraine** | 7 (2012) |
+| **United Arab Emirates** | 5 (2012) |
+| **United Kingdom** | 9 (2012) |
+| **United States** | 126 (2012) |
+| **Venezuela** | 3 (2012) |
+| **Vietnam** | 1 (2012) |
+| **World** | 3,825 (2012) |

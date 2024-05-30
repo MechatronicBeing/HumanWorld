@@ -1,0 +1,731 @@
+CIA - The World Factbook -- Field Listing - Telephone system
+
+| Country | Telephone system |
+| --- | --- |
+| **Afghanistan** | *general assessment:* very limited telephone and telegraph service |
+| | *domestic:* telephone service is improving with the licensing of four wireless telephone service providers by 2005; approximately 4 in 100 Afghans own a wireless telephone; telephone main lines remain limited. |
+| | *international:* country code - 93; five VSAT's installed in Kabul, Herat, Mazar-e-Sharif, Kandahar, and Jalalabad provide international and domestic voice and data connectivity |
+| **Albania** | *general assessment:* despite new investment in fixed lines, the density of main lines remains the lowest in Europe with roughly seven lines per 100 people; however, cellular telephone use is widespread and generally effective |
+| | *domestic:* offsetting the shortage of fixed line capacity, mobile phone service has been available since 1996; by 2003 two companies were providing mobile services at a greater density than some of Albania's Balkan neighbors |
+| | *international:* country code - 355; inadequate fixed main lines; adequate cellular connections; international traffic carried by fiber optic cable and, when necessary, by microwave radio relay from the Tirana exchange to Italy and Greece (2003) |
+| **Algeria** | *general assessment:* telephone density in Algeria is very low, not exceeding five telephones per 100 persons; the number of fixed main lines increased in the last few years to nearly 2.6 million, but only about two-thirds of these have subscribers; much of the infrastructure is outdated and inefficient |
+| | *domestic:* good service in north but sparse in south; domestic satellite system with 12 earth stations (20 additional domestic earth stations are planned) |
+| | *international:* country code - 213; submarine cables - 5; microwave radio relay to Italy, France, Spain, Morocco, and Tunisia; coaxial cable to Morocco and Tunisia; participant in Medarabtel; satellite earth stations - 51 (Intelsat, Intersputnik, and Arabsat) (2005) |
+| **American Samoa** | *general assessment:* NA |
+| | *domestic:* good telex, telegraph, facsimile and cellular telephone services; domestic satellite system with 1 Comsat earth station |
+| | *international:* country code - 684; satellite earth station - 1 (Intelsat-Pacific Ocean) |
+| **Andorra** | *general assessment:* NA |
+| | *domestic:* modern system with microwave radio relay connections between exchanges |
+| | *international:* country code - 376; landline circuits to France and Spain |
+| **Angola** | *general assessment:* telephone service limited mostly to government and business use; HF radiotelephone used extensively for military links |
+| | *domestic:* limited system of wire, microwave radio relay, and tropospheric scatter |
+| | *international:* country code - 244; satellite earth stations - 29; fiber optic submarine cable (SAT-3/WASC) provides connectivity to Europe and Asia (2005) |
+| **Anguilla** | *general assessment:* NA |
+| | *domestic:* modern internal telephone system |
+| | *international:* country code - 1-264; microwave radio relay to island of Saint Martin (Guadeloupe and Netherlands Antilles) |
+| **Antarctica** | *general assessment:* local systems at some research stations |
+| | *domestic:* commercial cellular networks operating in a small number of locations |
+| | *international:* country code - 672; via satellite (including mobile Inmarsat and Iridium systems) from all research stations, ships, aircraft, and most field parties |
+| **Antigua and Barbuda** | *general assessment:* NA |
+| | *domestic:* good automatic telephone system |
+| | *international:* country code - 1-268; 1 coaxial submarine cable; satellite earth station - 2; tropospheric scatter to Saba (Netherlands Antilles) and Guadeloupe |
+| **Argentina** | *general assessment:* by opening the telecommunications market to competition and foreign investment with the "Telecommunications Liberalization Plan of 1998," Argentina encouraged the growth of modern telecommunications technology; fiber-optic cable trunk lines are being installed between all major cities; the major networks are entirely digital and the availability of telephone service is improving; however, telephone density is presently minimal, and making telephone service universally available will take time |
+| | *domestic:* microwave radio relay, fiber-optic cable, and a domestic satellite system with 40 earth stations serve the trunk network; more than 110,000 pay telephones are installed and mobile telephone use is rapidly expanding |
+| | *international:* country code - 54; satellite earth stations - 112; Atlantis II and Unisur submarine cables; two international gateways near Buenos Aires (2005) |
+| **Armenia** | *general assessment:* system inadequate; now 90% privately owned and undergoing modernization and expansion |
+| | *domestic:* the majority of subscribers and the most modern equipment are in Yerevan (this includes paging and mobile cellular service) |
+| | *international:* country code - 374; Yerevan is connected to the Trans-Asia-Europe fiber-optic cable through Iran; additional international service is available by microwave radio relay and landline connections to the other countries of the Commonwealth of Independent States and through the Moscow international switch and by satellite to the rest of the world; satellite earth stations - 3 (2005) |
+| **Aruba** | *general assessment:* modern fully automatic telecommunications system |
+| | *domestic:* increased competition through privatization; 3 wireless service providers are now licensed |
+| | *international:* country code - 297; 1 submarine cable to Sint Maarten (Netherlands Antilles); extensive interisland microwave radio relay links |
+| **Australia** | *general assessment:* excellent domestic and international service |
+| | *domestic:* domestic satellite system; much use of radiotelephone in areas of low population density; rapid growth of mobile cellular telephones |
+| | *international:* country code - 61; submarine cables to New Zealand, Papua New Guinea, and Indonesia; satellite earth stations - 19 (10 Intelsat - 4 Indian Ocean and 6 Pacific Ocean, 2 Inmarsat - Indian and Pacific Ocean regions, 2 Globalstar, 5 other) (2005) |
+| **Austria** | *general assessment:* highly developed and efficient |
+| | *domestic:* there are 45 main lines for every 100 persons; the fiber optic net is very extensive; all telephone applications and Internet services are available |
+| | *international:* country code - 43; satellite earth stations - 15; in addition, there are about 600 VSAT (very small aperture terminals) (2005) |
+| **Azerbaijan** | *general assessment:* inadequate; requires considerable expansion and modernization; teledensity of 14 main lines per 100 persons is low (2002) |
+| | *domestic:* the majority of telephones are in Baku and other industrial centers - about 700 villages still without public telephone service; satellite service connects Baku to a modern switch in its exclave of Naxcivan |
+| | *international:* country code - 994; the old Soviet system of cable and microwave is still serviceable; satellite earth stations - 2 (2005) |
+| **Bahamas, The** | *general assessment:* modern facilities |
+| | *domestic:* totally automatic system; highly developed |
+| | *international:* country code - 1-242; tropospheric scatter and submarine cable to Florida; 3 coaxial submarine cables; satellite earth station - 2 (2005) |
+| **Bahrain** | *general assessment:* modern system |
+| | *domestic:* modern fiber-optic integrated services; digital network with rapidly growing use of mobile cellular telephones |
+| | *international:* country code - 973; tropospheric scatter to Qatar and UAE; microwave radio relay to Saudi Arabia; submarine cable to Qatar, UAE, and Saudi Arabia; satellite earth stations - 1 (1997) |
+| **Bangladesh** | *general assessment:* totally inadequate for a modern country |
+| | *domestic:* modernizing; introducing digital systems; trunk systems include VHF and UHF microwave radio relay links, and some fiber-optic cable in cities |
+| | *international:* country code - 880; satellite earth stations - 6; international radiotelephone communications and landline service to neighboring countries (2005) |
+| **Barbados** | *general assessment:* NA |
+| | *domestic:* island-wide automatic telephone system |
+| | *international:* country code - 1-246; satellite earth stations - 1 (Intelsat -Atlantic Ocean); tropospheric scatter to Trinidad and Saint Lucia |
+| **Belarus** | *general assessment:* Belarus lags behind its neighbors in upgrading telecommunications infrastructure; state-owned Beltelcom, is the sole provider of fixed line local and long distance service; modernization of the network to digital switching progressing slowly |
+| | *domestic:* fixed line penetration is improving although rural areas continue to be underserved; four GSM wireless networks are experiencing rapid growth; strict government controls on telecommunications technologies |
+| | *international:* country code - 375; Belarus is a member of the Trans-European Line (TEL), Trans-Asia-Europe (TAE) fiber-optic line, and has access to the Trans-Siberia Line (TSL); three fiber-optic segments provide connectivity to Latvia, Poland, Russia, and Ukraine; worldwide service is available to Belarus through this infrastructure; additional analog lines to Russia; Intelsat, Eutelsat, and Intersputnik earth stations |
+| **Belgium** | *general assessment:* highly developed, technologically advanced, and completely automated domestic and international telephone and telegraph facilities |
+| | *domestic:* nationwide cellular telephone system; extensive cable network; limited microwave radio relay network |
+| | *international:* country code - 32; submarine cables - 5; satellite earth stations - 7 (Intelsat - 3) (2005) |
+| **Belize** | *general assessment:* above-average system |
+| | *domestic:* trunk network depends primarily on microwave radio relay |
+| | *international:* country code - 501; satellite earth station - 8 (Intelsat - 2, unknown - 6) (2005) |
+| **Benin** | *general assessment:* NA |
+| | *domestic:* fair system of open-wire, microwave radio relay, and cellular connections |
+| | *international:* country code - 229; satellite earth station - 7 (Intelsat-Atlantic Ocean); fiber optic submarine cable (SAT-3/WASC) provides connectivity to Europe and Asia |
+| **Bermuda** | *general assessment:* good |
+| | *domestic:* fully automatic digital telephone system; fiber optic trunk lines |
+| | *international:* country code - 1-441; submarine cables - 3 (fiber optic); satellite earth stations - 3 (2005) |
+| **Bhutan** | *general assessment:* telecommunications facilities are poor |
+| | *domestic:* very low teledensity; domestic service is very poor especially in rural areas; wireless service available since 2003 |
+| | *international:* country code - 975; international telephone and telegraph service via landline and microwave relay through India; satellite earth station - 1 (2005) |
+| **Bolivia** | *general assessment:* new subscribers face bureaucratic difficulties; most telephones are concentrated in La Paz and other cities; mobile cellular telephone use expanding rapidly |
+| | *domestic:* primary trunk system, which is being expanded, employs digital microwave radio relay; some areas are served by fiber-optic cable; mobile cellular systems are being expanded |
+| | *international:* country code - 591; satellite earth station - 1 Intelsat (Atlantic Ocean) |
+| **Bosnia and Herzegovina** | *general assessment:* telephone and telegraph network needs modernization and expansion; many urban areas are below average as contrasted with services in other former Yugoslav republics |
+| | *domestic:* NA |
+| | *international:* country code - 387; no satellite earth stations |
+| **Botswana** | *general assessment:* the system is expanding with the growth of mobile cellular service and participation in regional development |
+| | *domestic:* small system of open-wire lines, microwave radio relay links, and a few radiotelephone communication stations; mobile cellular service is growing fast |
+| | *international:* country code - 267; two international exchanges; digital microwave radio relay links to Namibia, Zambia, Zimbabwe, and South Africa; satellite earth station - 1 Intelsat (Indian Ocean) |
+| **Brazil** | *general assessment:* good working system |
+| | *domestic:* extensive microwave radio relay system and a domestic satellite system with 64 earth stations |
+| | *international:* country code - 55; 3 coaxial submarine cables; satellite earth stations - 3 Intelsat (Atlantic Ocean), 1 Inmarsat (Atlantic Ocean region east), connected by microwave relay system to Mercosur Brazilsat B3 satellite earth station |
+| **British Indian Ocean Territory** | *general assessment:* separate facilities for military and public needs are available |
+| | *domestic:* all commercial telephone services are available, including connection to the Internet |
+| | *international:* international telephone service is carried by satellite (2000) |
+| **British Virgin Islands** | *general assessment:* worldwide telephone service |
+| | *domestic:* NA |
+| | *international:* country code - 1-284; submarine cable to Bermuda |
+| **Brunei** | *general assessment:* service throughout the country is excellent; international service is good to East Asia, Europe, and the US |
+| | *domestic:* every service available |
+| | *international:* country code - 673; satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Pacific Ocean); digital submarine cable links to Malaysia, the Philippines, and Singapore (2001) |
+| **Bulgaria** | *general assessment:* extensive but antiquated |
+| | *domestic:* more than two-thirds of the lines are residential; telephone service is available in most villages; a fairly modern digital cable trunk line now connects switching centers in most of the regions, the others are connected by digital microwave radio relay |
+| | *international:* country code - 359; direct dialing to 58 countries; satellite earth stations - 1 Intersputnik (Atlantic Ocean region); 2 Intelsat (Atlantic and Indian Ocean regions) |
+| **Burkina Faso** | *general assessment:* all services only fair |
+| | *domestic:* microwave radio relay, open-wire, and radiotelephone communication stations |
+| | *international:* country code - 226; satellite earth station - 1 Intelsat (Atlantic Ocean) |
+| **Burma** | *general assessment:* barely meets minimum requirements for local and intercity service for business and government; international service is fair |
+| | *domestic:* NA |
+| | *international:* country code - 95; satellite earth station - 2, Intelsat (Indian Ocean), and ShinSat |
+| **Burundi** | *general assessment:* primitive system |
+| | *domestic:* sparse system of open-wire, radiotelephone communications, and low-capacity microwave radio relay |
+| | *international:* country code - 257; satellite earth station - 1 Intelsat (Indian Ocean) |
+| **Cambodia** | *general assessment:* adequate landline and/or cellular service in Phnom Penh and other provincial cities; mobile phone coverage is rapidly expanding in rural areas |
+| | *domestic:* NA |
+| | *international:* country code - 855; adequate but expensive landline and cellular service available to all countries from Phnom Penh and major provincial cities; satellite earth station - 1 Intersputnik (Indian Ocean region) |
+| **Cameroon** | *general assessment:* available only to business and government |
+| | *domestic:* cable, microwave radio relay, and tropospheric scatter |
+| | *international:* country code - 237; satellite earth stations - 2 Intelsat (Atlantic Ocean); fiber optic submarine cable (SAT-3/WASC) provides connectivity to Europe and Asia |
+| **Canada** | *general assessment:* excellent service provided by modern technology |
+| | *domestic:* domestic satellite system with about 300 earth stations |
+| | *international:* country code - 1-xxx; 5 coaxial submarine cables; satellite earth stations - 5 Intelsat (4 Atlantic Ocean and 1 Pacific Ocean) and 2 Intersputnik (Atlantic Ocean region) |
+| **Cape Verde** | *general assessment:* effective system, extensive modernization from 1996-2000 following partial privatization in 1995 |
+| | *domestic:* major service provider is Cabo Verde Telecom (CVT); fiber optic ring, completed in 2001, links all islands providing Internet access and ISDN services; cellular service introduced in 1998 |
+| | *international:* country code - 238; 2 coaxial submarine cables; HF radiotelephone to Senegal and Guinea-Bissau; satellite earth station - 1 Intelsat (Atlantic Ocean) |
+| **Cayman Islands** | *general assessment:* reasonably good system |
+| | *domestic:* liberalization of telecom market in 2003 reflected in falling prices and improving services |
+| | *international:* country code - 1-345; 2 submarine fiber optic cables (Maya-1, Cayman-Jamaica); satellite earth station - 1 Intelsat (Atlantic Ocean) |
+| **Central African Republic** | *general assessment:* fair system |
+| | *domestic:* network consists principally of microwave radio relay and low-capacity, low-powered radiotelephone communication |
+| | *international:* country code - 236; satellite earth station - 1 Intelsat (Atlantic Ocean) |
+| **Chad** | *general assessment:* primitive system |
+| | *domestic:* fair system of radiotelephone communication stations |
+| | *international:* country code - 235; satellite earth station - 1 Intelsat (Atlantic Ocean) |
+| **Chile** | *general assessment:* modern system based on extensive microwave radio relay facilities |
+| | *domestic:* extensive microwave radio relay links; domestic satellite system with three earth stations |
+| | *international:* country code - 56; satellite earth stations - 2 Intelsat (Atlantic Ocean) |
+| **China** | *general assessment:* domestic and international services are increasingly available for private use; unevenly distributed domestic system serves principal cities, industrial centers, and many towns |
+| | *domestic:* interprovincial fiber-optic trunk lines and cellular telephone systems have been installed; a domestic satellite system with 55 earth stations is in place |
+| | *international:* country code - 86; satellite earth stations - 5 Intelsat (4 Pacific Ocean and 1 Indian Ocean), 1 Intersputnik (Indian Ocean region) and 1 Inmarsat (Pacific and Indian Ocean regions); several international fiber-optic links to Japan, South Korea, Hong Kong, Russia, and Germany (2000) |
+| **Christmas Island** | *general assessment:* service provided by the Australian network |
+| | *domestic:* GSM mobile telephone service replaced older analog system in February 2005 |
+| | *international:* country code - 61-8; satellite earth stations - one INTELSAT earth station provides telephone and telex service (2005) |
+| **Cocos (Keeling) Islands** | *general assessment:* connected within Australia's telecommunication system |
+| | *domestic:* NA |
+| | *international:* country code - 61; telephone, telex, and facsimile communications with Australia and elsewhere via satellite; 1 INTELSAT satellite earth station |
+| **Colombia** | *general assessment:* modern system in many respects |
+| | *domestic:* nationwide microwave radio relay system; domestic satellite system with 41 earth stations; fiber-optic network linking 50 cities |
+| | *international:* country code - 57; satellite earth stations - 6 Intelsat, 1 Inmarsat; 3 fully digitalized international switching centers; 8 submarine cables |
+| **Comoros** | *general assessment:* sparse system of microwave radio relay and HF radiotelephone communication stations |
+| | *domestic:* HF radiotelephone communications and microwave radio relay |
+| | *international:* country code - 269; HF radiotelephone communications to Madagascar and Reunion |
+| **Congo, Democratic Republic of the** | *general assessment:* poor |
+| | *domestic:* barely adequate wire and microwave radio relay service in and between urban areas; domestic satellite system with 14 earth stations |
+| | *international:* country code - 243; satellite earth station - 1 Intelsat (Atlantic Ocean) |
+| **Congo, Republic of the** | *general assessment:* services barely adequate for government use; key exchanges are in Brazzaville, Pointe-Noire, and Loubomo; intercity lines frequently out of order |
+| | *domestic:* primary network consists of microwave radio relay and coaxial cable |
+| | *international:* country code - 242; satellite earth station - 1 Intelsat (Atlantic Ocean) |
+| **Cook Islands** | *general assessment:* Telecom Cook Islands offers international direct dialing, Internet, email, fax, and Telex |
+| | *domestic:* the individual islands are connected by a combination of satellite earth stations, microwave systems, and VHF and HF radiotelephone; within the islands, service is provided by small exchanges connected to subscribers by open-wire, cable, and fiber-optic cable |
+| | *international:* country code - 682; satellite earth station - 1 Intelsat (Pacific Ocean) |
+| **Costa Rica** | *general assessment:* good domestic telephone service in terms of breadth of coverage; restricted cellular telephone service |
+| | *domestic:* point-to-point and point-to-multi-point microwave, fiber-optic, and coaxial cable link rural areas; Internet service is available |
+| | *international:* country code - 506; connected to Central American Microwave System; satellite earth stations - 2 Intelsat (Atlantic Ocean); two submarine cables (1999) |
+| **Cote d'Ivoire** | *general assessment:* well developed by African standards but operating well below capacity |
+| | *domestic:* open-wire lines and microwave radio relay; 90% digitalized |
+| | *international:* country code - 225; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean); 2 submarine cables (June 1999) |
+| **Croatia** | *general assessment:* NA |
+| | *domestic:* reconstruction plan calls for replacement of all analog circuits with digital and enlarging the network; a backup will be included in the plan for the main trunk |
+| | *international:* country code - 385; digital international service is provided through the main switch in Zagreb; Croatia participates in the Trans-Asia-Europe (TEL) fiber-optic project, which consists of two fiber-optic trunk connections with Slovenia and a fiber-optic trunk line from Rijeka to Split and Dubrovnik; Croatia is also investing in ADRIA 1, a joint fiber-optic project with Germany, Albania, and Greece |
+| **Cuba** | *general assessment:* greater investment beginning in 1994 and the establishment of a new Ministry of Information Technology and Communications in 2000 has resulted in improvements in the system; wireless service is expensive and remains restricted to foreigners and regime elites, many Cubans procure wireless service illegally with the help of foreigners |
+| | *domestic:* national fiber-optic system under development; 85% of switches digitized by end of 2004; telephone line density remains low, at less than 10 per 100 inhabitants; domestic cellular service expanding |
+| | *international:* country code - 53; fiber-optic cable laid to but not linked to US network; satellite earth station - 1 Intersputnik (Atlantic Ocean region) |
+| **Cyprus** | *general assessment:* excellent in both Republic of Cyprus and north Cyprus areas |
+| | *domestic:* open-wire, fiber-optic cable, and microwave radio relay |
+| | *international:* country code - 357 (area administered by Turkish Cypriots uses the country code of Turkey - 90); tropospheric scatter; 3 coaxial and 5 fiber-optic submarine cables; satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Indian Ocean), 2 Eutelsat, 2 Intersputnik, and 1 Arabsat |
+| **Czech Republic** | *general assessment:* privatization and modernization of the Czech telecommunication system got a late start but is advancing steadily; growth in the use of mobile cellular telephones is particularly vigorous |
+| | *domestic:* 86% of exchanges now digital; existing copper subscriber systems now being enhanced with Asymmetric Digital Subscriber Line (ADSL) equipment to accommodate Internet and other digital signals; trunk systems include fiber-optic cable and microwave radio relay |
+| | *international:* country code - 420; satellite earth stations - 2 Intersputnik (Atlantic and Indian Ocean regions), 1 Intelsat, 1 Eutelsat, 1 Inmarsat, 1 Globalstar |
+| **Denmark** | *general assessment:* excellent telephone and telegraph services |
+| | *domestic:* buried and submarine cables and microwave radio relay form trunk network, 4 cellular mobile communications systems |
+| | *international:* country code - 45; 18 submarine fiber-optic cables linking Denmark with Canada, Faroe Islands, Germany, Iceland, Netherlands, Norway, Poland, Russia, Sweden, and UK; satellite earth stations - 6 Intelsat, 10 Eutelsat, 1 Orion, 1 Inmarsat (Blaavand-Atlantic-East); note - the Nordic countries (Denmark, Finland, Iceland, Norway, and Sweden) share the Danish earth station and the Eik, Norway, station for worldwide Inmarsat access (1997) |
+| **Djibouti** | *general assessment:* telephone facilities in the city of Djibouti are adequate, as are the microwave radio relay connections to outlying areas of the country |
+| | *domestic:* microwave radio relay network |
+| | *international:* country code - 253; submarine cable to Jiddah, Suez, Sicily, Marseille, Colombo, and Singapore; satellite earth stations - 1 Intelsat (Indian Ocean) and 1 Arabsat; Medarabtel regional microwave radio relay telephone network |
+| **Dominica** | *general assessment:* NA |
+| | *domestic:* fully automatic network |
+| | *international:* country code - 1-767; microwave radio relay and SHF radiotelephone links to Martinique and Guadeloupe; VHF and UHF radiotelephone links to Saint Lucia |
+| **Dominican Republic** | *general assessment:* NA |
+| | *domestic:* relatively efficient system based on island-wide microwave radio relay network |
+| | *international:* country code - 1-809; 1 coaxial submarine cable; satellite earth station - 1 Intelsat (Atlantic Ocean) |
+| **East Timor** | NA |
+| **Ecuador** | *general assessment:* generally elementary but being expanded |
+| | *domestic:* facilities generally inadequate and unreliable |
+| | *international:* country code - 593; satellite earth station - 1 Intelsat (Atlantic Ocean) |
+| **Egypt** | *general assessment:* large system; underwent extensive upgrading during 1990s and is reasonably modern; Internet access and cellular service are available |
+| | *domestic:* principal centers at Alexandria, Cairo, Al Mansurah, Ismailia, Suez, and Tanta are connected by coaxial cable and microwave radio relay |
+| | *international:* country code - 20; satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian Ocean), 1 Arabsat, and 1 Inmarsat; 5 coaxial submarine cables; tropospheric scatter to Sudan; microwave radio relay to Israel; a participant in Medarabtel |
+| **El Salvador** | *general assessment:* NA |
+| | *domestic:* nationwide microwave radio relay system |
+| | *international:* country code - 503; satellite earth station - 1 Intelsat (Atlantic Ocean); connected to Central American Microwave System |
+| **Equatorial Guinea** | *general assessment:* poor system with adequate government services |
+| | *domestic:* NA |
+| | *international:* country code - 240; international communications from Bata and Malabo to African and European countries; satellite earth station - 1 Intelsat (Indian Ocean) |
+| **Eritrea** | *general assessment:* inadequate |
+| | *domestic:* inadequate; most telephones are in Asmara; government is seeking international tenders to improve the system (2002) |
+| | *international:* country code - 291; note - international connections exist |
+| **Estonia** | *general assessment:* foreign investment in the form of joint business ventures greatly improved telephone service; substantial fiber-optic cable systems carry telephone, TV, and radio traffic in the digital mode; Internet services are available throughout most of the country |
+| | *domestic:* a wide range of high quality voice, data, and Internet services is available throughout the country |
+| | *international:* country code - 372; fiber-optic cables to Finland, Sweden, Latvia, and Russia provide worldwide packet-switched service; two international switches are located in Tallinn (2001) |
+| **Ethiopia** | *general assessment:* adequate for government use |
+| | *domestic:* open-wire; microwave radio relay; radio communication in the HF, VHF, and UHF frequencies; two domestic satellites provide the national trunk service |
+| | *international:* country code - 251; open-wire to Sudan and Djibouti; microwave radio relay to Kenya and Djibouti; satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Pacific Ocean) |
+| **European Union** | note - see individual country entries of member states |
+| **Falkland Islands (Islas Malvinas)** | *general assessment:* NA |
+| | *domestic:* government-operated radiotelephone and private VHF/CB radiotelephone networks provide effective service to almost all points on both islands |
+| | *international:* country code - 500; satellite earth station - 1 Intelsat (Atlantic Ocean) with links through London to other countries |
+| **Faroe Islands** | *general assessment:* good international communications; good domestic facilities |
+| | *domestic:* digitalization was completed in 1998; both NMT (analog) and GSM (digital) mobile telephone systems are installed |
+| | *international:* country code - 298; satellite earth stations - 1 Orion; 1 fiber-optic submarine cable to the Shetland Islands, linking the Faroe Islands with Denmark and Iceland; fiber-optic submarine cable connection to Canada-Europe cable |
+| **Fiji** | *general assessment:* modern local, interisland, and international (wire/radio integrated) public and special-purpose telephone, telegraph, and teleprinter facilities; regional radio communications center |
+| | *domestic:* NA |
+| | *international:* country code - 679; access to important cable links between US and Canada as well as between NZ and Australia; 2 satellite earth stations - 2 INMARSAT (Pacific Ocean) |
+| **Finland** | *general assessment:* modern system with excellent service |
+| | *domestic:* digital fiber-optic fixed-line network and an extensive cellular network provide domestic needs |
+| | *international:* country code - 358; 1 submarine cable (Finland Estonia Connection); satellite earth stations - access to Intelsat transmission service via a Swedish satellite earth station, 1 Inmarsat (Atlantic and Indian Ocean regions); note - Finland shares the Inmarsat earth station with the other Nordic countries (Denmark, Iceland, Norway, and Sweden) |
+| **France** | *general assessment:* highly developed |
+| | *domestic:* extensive cable and microwave radio relay; extensive introduction of fiber-optic cable; domestic satellite system |
+| | *international:* country code - 33; satellite earth stations - 2 Intelsat (with total of 5 antennas - 2 for Indian Ocean and 3 for Atlantic Ocean), NA Eutelsat, 1 Inmarsat (Atlantic Ocean region); HF radiotelephone communications with more than 20 countries |
+| **French Guiana** | *general assessment:* NA |
+| | *domestic:* fair open-wire and microwave radio relay system |
+| | *international:* country code - 594; satellite earth station - 1 Intelsat (Atlantic Ocean) |
+| **French Polynesia** | *general assessment:* NA |
+| | *domestic:* NA |
+| | *international:* country code - 689; satellite earth station - 1 Intelsat (Pacific Ocean) |
+| **Gabon** | *general assessment:* adequate service by African standards and improving with the help of the growing mobile cell system |
+| | *domestic:* adequate system of cable, microwave radio relay, tropospheric scatter, radiotelephone communication stations, and a domestic satellite system with 12 earth stations |
+| | *international:* country code - 241; satellite earth stations - 3 Intelsat (Atlantic Ocean); fiber optic submarine cable (SAT-3/WASC) provides connectivity to Europe and Asia |
+| **Gambia, The** | *general assessment:* adequate; a packet switched data network is available |
+| | *domestic:* adequate network of microwave radio relay and open-wire |
+| | *international:* country code - 220; microwave radio relay links to Senegal and Guinea-Bissau; satellite earth station - 1 Intelsat (Atlantic Ocean) |
+| **Gaza Strip** | *general assessment:* NA |
+| | *domestic:* Israeli company BEZEK and the Palestinian company PALTEL are responsible for fixed line services in the Gaza Strip; the Palestinian JAWAL company provides cellular services |
+| | *international:* country code - 970 |
+| **Georgia** | *general assessment:* NA |
+| | *domestic:* local - T'bilisi and K'ut'aisi have cellular telephone networks; urban telephone density is about 20 per 100 people; rural telephone density is about 4 per 100 people; intercity facilities include a fiber-optic line between T'bilisi and K'ut'aisi; nationwide pager service is available |
+| | *international:* country code - 995; Georgia and Russia are working on a fiber-optic line between P'ot'i and Sochi (Russia); present international service is available by microwave, landline, and satellite through the Moscow switch; international electronic mail and telex service are available |
+| **Germany** | *general assessment:* Germany has one of the world's most technologically advanced telecommunications systems; as a result of intensive capital expenditures since reunification, the formerly backward system of the eastern part of the country, dating back to World War II, has been modernized and integrated with that of the western part |
+| | *domestic:* Germany is served by an extensive system of automatic telephone exchanges connected by modern networks of fiber-optic cable, coaxial cable, microwave radio relay, and a domestic satellite system; cellular telephone service is widely available, expanding rapidly, and includes roaming service to many foreign countries |
+| | *international:* country code - 49; Germany's international service is excellent worldwide, consisting of extensive land and undersea cable facilities as well as earth stations in the Inmarsat, Intelsat, Eutelsat, and Intersputnik satellite systems (2001) |
+| **Ghana** | *general assessment:* poor to fair system; Internet accessible; many rural communities not yet connected; expansion of services is underway |
+| | *domestic:* primarily microwave radio relay; wireless local loop has been installed |
+| | *international:* country code - 233; satellite earth stations - 4 Intelsat (Atlantic Ocean); microwave radio relay link to Panaftel system connects Ghana to its neighbors; fiber optic submarine cable (SAT-3/WASC) provides connectivity to Europe and Asia |
+| **Gibraltar** | *general assessment:* adequate, automatic domestic system and adequate international facilities |
+| | *domestic:* automatic exchange facilities |
+| | *international:* country code - 350; radiotelephone; microwave radio relay; satellite earth station - 1 Intelsat (Atlantic Ocean) |
+| **Greece** | *general assessment:* adequate, modern networks reach all areas; good mobile telephone and international service |
+| | *domestic:* microwave radio relay trunk system; extensive open-wire connections; submarine cable to offshore islands |
+| | *international:* country code - 30; tropospheric scatter; 8 submarine cables; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean), 1 Eutelsat, and 1 Inmarsat (Indian Ocean region) |
+| **Greenland** | *general assessment:* adequate domestic and international service provided by satellite, cables and microwave radio relay; totally digitalized in 1995 |
+| | *domestic:* microwave radio relay and satellite |
+| | *international:* country code - 299; satellite earth stations - 12 Intelsat, 1 Eutelsat, 2 Americom GE-2 (all Atlantic Ocean) |
+| **Grenada** | *general assessment:* automatic, islandwide telephone system |
+| | *domestic:* interisland VHF and UHF radiotelephone links |
+| | *international:* country code - 1-473; new SHF radiotelephone links to Trinidad and Tobago and Saint Vincent; VHF and UHF radio links to Trinidad |
+| **Guadeloupe** | *general assessment:* domestic facilities inadequate |
+| | *domestic:* NA |
+| | *international:* country code - 590; satellite earth station - 1 Intelsat (Atlantic Ocean); microwave radio relay to Antigua and Barbuda, Dominica, and Martinique |
+| **Guam** | *general assessment:* modern system, integrated with US facilities for direct dialing, including free use of 800 numbers |
+| | *domestic:* modern digital system, including cellular mobile service and local access to the Internet |
+| | *international:* country code - 1-671; satellite earth stations - 2 Intelsat (Pacific Ocean); submarine cables to US and Japan (Guam is a trans-Pacific communications hub for MCI, Sprint, AT&T, IT&E, and GTE, linking the US and Asia) |
+| **Guatemala** | *general assessment:* fairly modern network centered in the city of Guatemala |
+| | *domestic:* NA |
+| | *international:* country code - 502; connected to Central American Microwave System; satellite earth station - 1 Intelsat (Atlantic Ocean) |
+| **Guernsey** | *general assessment:* NA |
+| | *domestic:* NA |
+| | *international:* 1 submarine cable |
+| **Guinea** | *general assessment:* poor to fair system of open-wire lines, small radiotelephone communication stations, and new microwave radio relay system |
+| | *domestic:* microwave radio relay and radiotelephone communication |
+| | *international:* country code - 224; satellite earth station - 1 Intelsat (Atlantic Ocean) |
+| **Guinea-Bissau** | *general assessment:* small system |
+| | *domestic:* combination of microwave radio relay, open-wire lines, radiotelephone, and cellular communications |
+| | *international:* country code - 245 |
+| **Guyana** | *general assessment:* fair system for long-distance service |
+| | *domestic:* microwave radio relay network for trunk lines |
+| | *international:* country code - 592; tropospheric scatter to Trinidad; satellite earth station - 1 Intelsat (Atlantic Ocean) |
+| **Haiti** | *general assessment:* domestic facilities barely adequate; international facilities slightly better |
+| | *domestic:* coaxial cable and microwave radio relay trunk service |
+| | *international:* country code - 509; satellite earth station - 1 Intelsat (Atlantic Ocean) |
+| **Holy See (Vatican City)** | *general assessment:* automatic digital exchange |
+| | *domestic:* connected via fiber optic cable to Telecom Italia network |
+| | *international:* country code - 39; uses Italian system |
+| **Honduras** | *general assessment:* inadequate system |
+| | *domestic:* NA |
+| | *international:* country code - 504; satellite earth stations - 2 Intelsat (Atlantic Ocean); connected to Central American Microwave System |
+| **Hong Kong** | *general assessment:* modern facilities provide excellent domestic and international services |
+| | *domestic:* microwave radio relay links and extensive fiber-optic network |
+| | *international:* country code - 852; satellite earth stations - 3 Intelsat (1 Pacific Ocean and 2 Indian Ocean); coaxial cable to Guangzhou, China; access to 5 international submarine cables providing connections to ASEAN member nations, Japan, Taiwan, Australia, Middle East, and Western Europe |
+| **Hungary** | *general assessment:* the telephone system has been modernized and is capable of satisfying all requests for telecommunication service |
+| | *domestic:* the system is digitalized and highly automated; trunk services are carried by fiber-optic cable and digital microwave radio relay; a program for fiber-optic subscriber connections was initiated in 1996; heavy use is made of mobile cellular telephones |
+| | *international:* country code - 36; Hungary has fiber-optic cable connections with all neighboring countries; the international switch is in Budapest; satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian Ocean regions), 1 Inmarsat, 1 very small aperture terminal (VSAT) system of ground terminals |
+| **Iceland** | *general assessment:* extensive domestic service |
+| | *domestic:* the trunk network consists of coaxial and fiber-optic cables and microwave radio relay links |
+| | *international:* country code - 354; satellite earth stations - 2 Intelsat (Atlantic Ocean), 1 Inmarsat (Atlantic and Indian Ocean regions); note - Iceland shares the Inmarsat earth station with the other Nordic countries (Denmark, Finland, Norway, and Sweden) |
+| **India** | *general assessment:* recent deregulation and liberalization of telecommunications laws and policies have prompted rapid change; local and long distance service provided throughout all regions of the country, with services primarily concentrated in the urban areas; steady improvement is taking place with the recent admission of private and private-public investors, but telephone density remains low at about seven for each 100 persons nationwide but only one per 100 persons in rural areas and a national waiting list of over 1.7 million; fastest growth is in cellular service with modest growth in fixed lines |
+| | *domestic:* expansion of domestic service, although still weak in rural areas, resulted from increased competition and dramatic reductions in price led in large part by wireless service; mobile cellular service (both CDMA and GSM) introduced in 1994 and organized nationwide into four metropolitan cities and 19 telecom circles each with about three private service providers and one state-owned service provider; in recent years significant trunk capacity added in the form of fiber-optic cable and one of the world's largest domestic satellite systems, the Indian National Satellite system (INSAT), with five satellites supporting 33,000 very small aperture terminals (VSAT) |
+| | *international:* country code - 91; satellite earth stations - 8 Intelsat (Indian Ocean) and 1 Inmarsat (Indian Ocean region); nine gateway exchanges operating from Mumbai (Bombay), New Delhi, Kolkata (Calcutta), Chennai (Madras), Jalandhar, Kanpur, Gandhinagar, Hyderabad, and Ernakulam; 5 submarine cables, including Sea-Me-We-3 with landing sites at Cochin and Mumbai (Bombay), Fiber-Optic Link Around the Globe (FLAG) with landing site at Mumbai (Bombay), South Africa - Far East (SAFE) with landing site at Cochin, i2icn linking to Singapore with landing sites at Mumbai (Bombay) and Chennai (Madras), and Tata Indicom linking Singapore and Chennai (Madras), provide a significant increase in the bandwidth available for both voice and data traffic (2004) |
+| **Indonesia** | *general assessment:* domestic service fair, international service good |
+| | *domestic:* interisland microwave system and HF radio police net; domestic satellite communications system |
+| | *international:* country code - 62; satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Pacific Ocean) |
+| **Iran** | *general assessment:* inadequate, but currently being modernized and expanded with the goal of not only improving the efficiency and increasing the volume of the urban service but also bringing telephone service to several thousand villages, not presently connected |
+| | *domestic:* as a result of heavy investing in the telephone system since 1994, the number of long-distance channels in the microwave radio relay trunk has grown substantially; many villages have been brought into the net; the number of main lines in the urban systems has approximately doubled; thousands of mobile cellular subscribers are being served; moreover, the technical level of the system has been raised by the installation of thousands of digital switches |
+| | *international:* country code - 98; HF radio and microwave radio relay to Turkey, Azerbaijan, Pakistan, Afghanistan, Turkmenistan, Syria, Kuwait, Tajikistan, and Uzbekistan; submarine fiber-optic cable to UAE with access to Fiber-Optic Link Around the Globe (FLAG); Trans-Asia-Europe (TAE) fiber-optic line runs from Azerbaijan through the northern portion of Iran to Turkmenistan with expansion to Georgia and Azerbaijan; satellite earth stations - 9 Intelsat and 4 Inmarsat |
+| **Iraq** | *general assessment:* the 2003 war severely disrupted telecommunications throughout Iraq including international connections; USAID is overseeing the repair of switching capability and the construction of mobile and satellite communication facilities |
+| | *domestic:* repairs to switches and lines destroyed during the 2003 war continue, but sabotage remains a problem; additional switching capacity is improving access; cellular service is available and centered on three regional GSM networks, improving country-wide connectivity |
+| | *international:* country code - 964; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean), 1 Intersputnik (Atlantic Ocean region), and 1 Arabsat (inoperative); coaxial cable and microwave radio relay to Jordan, Kuwait, Syria, and Turkey; despite a new satellite gateway, international calls outside of Baghdad remain problematic |
+| **Ireland** | *general assessment:* modern digital system using cable and microwave radio relay |
+| | *domestic:* microwave radio relay |
+| | *international:* country code - 353; satellite earth station - 1 Intelsat (Atlantic Ocean) |
+| **Isle of Man** | *general assessment:* NA |
+| | *domestic:* landline, telefax, mobile cellular telephone system |
+| | *international:* fiber-optic cable, microwave radio relay, satellite earth station, submarine cable |
+| **Israel** | *general assessment:* most highly developed system in the Middle East although not the largest |
+| | *domestic:* good system of coaxial cable and microwave radio relay; all systems are digital |
+| | *international:* country code - 972; 3 submarine cables; satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean) |
+| **Italy** | *general assessment:* modern, well developed, fast; fully automated telephone, telex, and data services |
+| | *domestic:* high-capacity cable and microwave radio relay trunks |
+| | *international:* country code - 39; satellite earth stations - 3 Intelsat (with a total of 5 antennas - 3 for Atlantic Ocean and 2 for Indian Ocean), 1 Inmarsat (Atlantic Ocean region), and NA Eutelsat; 21 submarine cables |
+| **Jamaica** | *general assessment:* fully automatic domestic telephone network |
+| | *domestic:* NA |
+| | *international:* country code - 1-876; satellite earth stations - 2 Intelsat (Atlantic Ocean); 3 coaxial submarine cables |
+| **Japan** | *general assessment:* excellent domestic and international service |
+| | *domestic:* high level of modern technology and excellent service of every kind |
+| | *international:* country code - 81; satellite earth stations - 5 Intelsat (4 Pacific Ocean and 1 Indian Ocean), 1 Intersputnik (Indian Ocean region), and 1 Inmarsat (Pacific and Indian Ocean regions); submarine cables to China, Philippines, Russia, and US (via Guam) (1999) |
+| **Jersey** | *general assessment:* NA |
+| | *domestic:* NA |
+| | *international:* 3 submarine cables |
+| **Jordan** | *general assessment:* service has improved recently with increased use of digital switching equipment, but better access to the telephone system is needed in the rural areas and easier access to pay telephones is needed by the urban public |
+| | *domestic:* microwave radio relay transmission and coaxial and fiber-optic cable are employed on trunk lines; considerable use of mobile cellular systems; Internet service is available |
+| | *international:* country code - 962; satellite earth stations - 3 Intelsat, 1 Arabsat, and 29 land and maritime Inmarsat terminals; fiber-optic cable to Saudi Arabia and microwave radio relay link with Egypt and Syria; connection to international submarine cable FLAG (Fiber-Optic Link Around the Globe); participant in MEDARABTEL; international links total about 4,000 |
+| **Kazakhstan** | *general assessment:* service is poor; equipment antiquated |
+| | *domestic:* intercity by landline and microwave radio relay; mobile cellular systems are available in most of Kazakhstan |
+| | *international:* country code - 7; international traffic with other former Soviet republics and China carried by landline and microwave radio relay and with other countries by satellite and by the Trans-Asia-Europe (TAE) fiber-optic cable; satellite earth stations - 2 Intelsat |
+| **Kenya** | *general assessment:* unreliable; little attempt to modernize except for service to business |
+| | *domestic:* trunks are primarily microwave radio relay; business data commonly transferred by a very small aperture terminal (VSAT) system |
+| | *international:* country code - 254; satellite earth stations - 4 Intelsat |
+| **Kiribati** | *general assessment:* generally good quality national and international service |
+| | *domestic:* wire line service available on Tarawa and Kiritimati (Christmas Island); connections to outer islands by HF/VHF radiotelephone; wireless service available in Tarawa since 1999 |
+| | *international:* country code - 686; Kiribati is being linked to the Pacific Ocean Cooperative Telecommunications Network, which should improve telephone service; satellite earth station - 1 Intelsat (Pacific Ocean) |
+| **Korea, North** | *general assessment:* NA |
+| | *domestic:* NA |
+| | *international:* country code - 850; satellite earth stations - 1 Intelsat (Indian Ocean) and 1 Russian (Indian Ocean region); other international connections through Moscow and Beijing |
+| **Korea, South** | *general assessment:* excellent domestic and international services |
+| | *domestic:* NA |
+| | *international:* country code - 82; 10 fiber-optic submarine cables - 1 Korea-Russia-Japan, 1 Korea-Japan-Hong Kong, 3 Korea-Japan-China, 1 Korea-Japan-China-Europe, 1 Korea-Japan-China-US-Taiwan, 1 Korea-Japan-China, 1 Korea-Japan-Hong Kong-Taiwan, 1 Korea-Japan; satellite earth stations - 3 Intelsat (1 Pacific Ocean and 2 Indian Ocean) and 3 Inmarsat (1 Pacific Ocean and 2 Indian Ocean) |
+| **Kuwait** | *general assessment:* the quality of service is excellent |
+| | *domestic:* new telephone exchanges provide a large capacity for new subscribers; trunk traffic is carried by microwave radio relay, coaxial cable, and open-wire and fiber-optic cable; a cellular telephone system operates throughout Kuwait, and the country is well supplied with pay telephones |
+| | *international:* country code - 965; coaxial cable and microwave radio relay to Saudi Arabia; linked to Bahrain, Qatar, UAE via the Fiber-Optic Gulf (FOG) cable; satellite earth stations - 3 Intelsat (1 Atlantic Ocean, 2 Indian Ocean), 1 Inmarsat (Atlantic Ocean), and 2 Arabsat |
+| **Kyrgyzstan** | *general assessment:* development of telecommunications infrastructure is slow; fixed line penetration remains low and concentrated in Bishkek |
+| | *domestic:* two wireless telephony service providers, but penetration remains low |
+| | *international:* country code - 996; connections with other CIS countries by landline or microwave radio relay and with other countries by leased connections with Moscow international gateway switch and by satellite; satellite earth stations - 1 Intersputnik and 1 Intelsat; connected internationally by the Trans-Asia-Europe (TAE) fiber-optic line |
+| **Laos** | *general assessment:* service to general public is poor but improving; the government relies on a radiotelephone network to communicate with remote areas |
+| | *domestic:* radiotelephone communications |
+| | *international:* country code - 856; satellite earth station - 1 Intersputnik (Indian Ocean region) |
+| **Latvia** | *general assessment:* recent efforts focused on bringing competition to the telecommunications sector, beginning in 2003; the number of fixed lines is decreasing as wireless telephony expands |
+| | *domestic:* two wireless service providers in addition to Lattelekom, the incumbent monopoly |
+| | *international:* country code - 371; the Latvian network is now connected via fiber optic cable to Estonia, Finland, and Sweden |
+| **Lebanon** | *general assessment:* repair of the telecommunications system, severely damaged during the civil war, now complete |
+| | *domestic:* two commercial wireless networks provide good service; political instability hampers privatization and deployment of new technologies |
+| | *international:* country code - 961; satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Atlantic Ocean) (erratic operations); coaxial cable to Syria; 3 submarine coaxial cables |
+| **Lesotho** | *general assessment:* rudimentary system |
+| | *domestic:* consists of a modest but growing number of landlines, a small microwave radio relay system, and a minor radiotelephone communication system; a cellular mobile telephone system is growing |
+| | *international:* country code - 266; satellite earth station - 1 Intelsat (Atlantic Ocean) |
+| **Liberia** | *general assessment:* the limited services available are found almost exclusively in the capital Monrovia |
+| | *domestic:* fully automatic system with very low density of .23 fixed main lines per 100 persons; limited wireless service available |
+| | *international:* country code - 231; satellite earth station - 1 Intelsat (Atlantic Ocean) |
+| **Libya** | *general assessment:* telecommunications system is being modernized; mobile cellular telephone system became operational in 1996 |
+| | *domestic:* microwave radio relay, coaxial cable, cellular, tropospheric scatter, and a domestic satellite system with 14 earth stations |
+| | *international:* country code - 218; satellite earth stations - 4 Intelsat, NA Arabsat, and NA Intersputnik; submarine cables to France and Italy; microwave radio relay to Tunisia and Egypt; tropospheric scatter to Greece; participant in Medarabtel (1999) |
+| **Liechtenstein** | *general assessment:* automatic telephone system |
+| | *domestic:* NA |
+| | *international:* country code - 423; linked to Swiss networks by cable and microwave radio relay |
+| **Lithuania** | *general assessment:* inadequate, but is being modernized to provide an improved international capability and better residential access |
+| | *domestic:* a national, fiber-optic cable, interurban, trunk system is nearing completion; rural exchanges are being improved and expanded; mobile cellular systems are being installed; access to the Internet is available; still many unsatisfied telephone subscriber applications |
+| | *international:* country code - 370; landline connections to Latvia and Poland; major international connections to Denmark, Sweden, and Norway by submarine cable for further transmission by satellite |
+| **Luxembourg** | *general assessment:* highly developed, completely automated and efficient system, mainly buried cables |
+| | *domestic:* nationwide cellular telephone system; buried cable |
+| | *international:* country code - 352; 3 channels leased on TAT-6 coaxial submarine cable (Europe to North America) |
+| **Macau** | *general assessment:* fairly modern communication facilities maintained for domestic and international services |
+| | *domestic:* NA |
+| | *international:* country code - 853; HF radiotelephone communication facility; access to international communications carriers provided via Hong Kong and China; satellite earth station - 1 Intelsat (Indian Ocean) |
+| **Macedonia** | *general assessment:* NA |
+| | *domestic:* NA |
+| | *international:* country code - 389 |
+| **Madagascar** | *general assessment:* system is above average for the region |
+| | *domestic:* open-wire lines, coaxial cables, microwave radio relay, and tropospheric scatter links connect regions |
+| | *international:* country code - 261; submarine cable to Bahrain; satellite earth stations - 1 Intelsat (Indian Ocean) and 1 Intersputnik (Atlantic Ocean region) |
+| **Malawi** | *general assessment:* NA |
+| | *domestic:* system employs open-wire lines, microwave radio relay links, and radiotelephone communications stations |
+| | *international:* country code - 265; satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Atlantic Ocean) |
+| **Malaysia** | *general assessment:* modern system; international service excellent |
+| | *domestic:* good intercity service provided on Peninsular Malaysia mainly by microwave radio relay; adequate intercity microwave radio relay network between Sabah and Sarawak via Brunei; domestic satellite system with 2 earth stations |
+| | *international:* country code - 60; submarine cables to India, Hong Kong, and Singapore; satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Pacific Ocean) (2001) |
+| **Maldives** | *general assessment:* minimal domestic and international facilities |
+| | *domestic:* interatoll communication through microwave links; all inhabited islands are connected with telephone and fax service |
+| | *international:* country code - 960; satellite earth station - 3 Intelsat (Indian Ocean) |
+| **Mali** | *general assessment:* domestic system unreliable but improving; provides only minimal service |
+| | *domestic:* network consists of microwave radio relay, open-wire, and radiotelephone communications stations; expansion of microwave radio relay in progress |
+| | *international:* country code - 223; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean) |
+| **Malta** | *general assessment:* automatic system satisfies normal requirements |
+| | *domestic:* submarine cable and microwave radio relay between islands |
+| | *international:* country code - 356; 2 submarine cables; satellite earth station - 1 Intelsat (Atlantic Ocean) |
+| **Marshall Islands** | *general assessment:* digital switching equipment; modern services include telex, cellular, internet, international calling, caller ID, and leased data circuits |
+| | *domestic:* Majuro Atoll and Ebeye and Kwajalein islands have regular, seven-digit, direct-dial telephones; other islands interconnected by high frequency radiotelephone (used mostly for government purposes) and mini-satellite telephones |
+| | *international:* country code - 692; satellite earth stations - 2 Intelsat (Pacific Ocean); US Government satellite communications system on Kwajalein (2001) |
+| **Martinique** | *general assessment:* domestic facilities are adequate |
+| | *domestic:* NA |
+| | *international:* country code - 596; microwave radio relay to Guadeloupe, Dominica, and Saint Lucia; satellite earth stations - 2 Intelsat (Atlantic Ocean) |
+| **Mauritania** | *general assessment:* limited system of cable and open-wire lines, minor microwave radio relay links, and radiotelephone communications stations (improvements being made) |
+| | *domestic:* mostly cable and open-wire lines; a recently completed domestic satellite telecommunications system links Nouakchott with regional capitals |
+| | *international:* country code - 222; satellite earth stations - 1 Intelsat (Atlantic Ocean) and 2 Arabsat |
+| **Mauritius** | *general assessment:* small system with good service |
+| | *domestic:* primarily microwave radio relay trunk system |
+| | *international:* country code - 230; satellite earth station - 1 Intelsat (Indian Ocean); new microwave link to Reunion; HF radiotelephone links to several countries; fiber optic submarine cable (SAT-3/WASC/SAFE) provides connectivity to Europe and Asia |
+| **Mayotte** | *general assessment:* small system administered by French Department of Posts and Telecommunications |
+| | *domestic:* NA |
+| | *international:* country code - 269; microwave radio relay and HF radiotelephone communications to Comoros |
+| **Mexico** | *general assessment:* low telephone density with about 18 main lines per 100 persons; privatized in December 1990; the opening to competition in January 1997 improved prospects for development, but Telmex remains dominant |
+| | *domestic:* adequate telephone service for business and government, but the population is poorly served; mobile subscribers far outnumber fixed-line subscribers; domestic satellite system with 120 earth stations; extensive microwave radio relay network; considerable use of fiber-optic cable and coaxial cable |
+| | *international:* country code - 52; satellite earth stations - 32 Intelsat, 2 Solidaridad (giving Mexico improved access to South America, Central America, and much of the US as well as enhancing domestic communications), 1 Panamsat, numerous Inmarsat mobile earth stations; linked to Central American Microwave System of trunk connections; high capacity Columbus-2 fiber-optic submarine cable with access to the US, Virgin Islands, Canary Islands, Morocco, Spain, and Italy (2005) |
+| **Micronesia, Federated States of** | *general assessment:* adequate system |
+| | *domestic:* islands interconnected by shortwave radiotelephone (used mostly for government purposes), satellite (Intelsat) ground stations, and some coaxial and fiber-optic cable; cellular service available on Kosrae, Pohnpei, and Yap |
+| | *international:* country code - 691; satellite earth stations - 5 Intelsat (Pacific Ocean) (2002) |
+| **Moldova** | *general assessment:* inadequate, outmoded, poor service outside Chisinau; some modernization is under way |
+| | *domestic:* new subscribers face long wait for service; mobile cellular telephone service being introduced |
+| | *international:* country code - 373; service through Romania and Russia via landline; satellite earth stations - Intelsat, Eutelsat, and Intersputnik |
+| **Monaco** | *general assessment:* modern automatic telephone system |
+| | *domestic:* NA |
+| | *international:* country code - 377; no satellite earth stations; connected by cable into the French communications system |
+| **Mongolia** | *general assessment:* network is improving with international direct dialing available in many areas |
+| | *domestic:* very low density of about 5.5 main lines per 100 persons; two wireless providers cover all but two provinces |
+| | *international:* country code - 976; satellite earth station - 1 Intersputnik (Indian Ocean Region) |
+| **Montenegro** | *general assessment:* modern telecommunications system with access to European satellites |
+| | *domestic:* GSM wireless service, available through two providers with national coverage, is growing rapidly |
+| | *international:* country code - 382 (the old code of 381 used by Serbia and Montenegro will also remain in use until Feb 2007); two international switches connect the national system |
+| **Montserrat** | *general assessment:* modern and fully digitalized |
+| | *domestic:* NA |
+| | *international:* country code - 1-664 |
+| **Morocco** | *general assessment:* modern system with all important capabilities; however, density is low with only 4 main lines available for each 100 persons |
+| | *domestic:* good system composed of open-wire lines, cables, and microwave radio relay links; Internet available but expensive; principal switching centers are Casablanca and Rabat; national network nearly 100% digital using fiber-optic links; improved rural service employs microwave radio relay |
+| | *international:* country code - 212; 7 submarine cables; satellite earth stations - 2 Intelsat (Atlantic Ocean) and 1 Arabsat; microwave radio relay to Gibraltar, Spain, and Western Sahara; coaxial cable and microwave radio relay to Algeria; participant in Medarabtel; fiber-optic cable link from Agadir to Algeria and Tunisia (1998) |
+| **Mozambique** | *general assessment:* fair system but not available generally (extremely low density with less than 1 main line per 100 persons) |
+| | *domestic:* the system consists of open-wire lines and trunk connection by microwave radio relay and tropospheric scatter |
+| | *international:* country code - 258; satellite earth stations - 5 Intelsat (2 Atlantic Ocean and 3 Indian Ocean) |
+| **Namibia** | *general assessment:* good system; about 6 telephones for each 100 persons |
+| | *domestic:* good urban services; fair rural service; microwave radio relay links major towns; connections to other populated places are by open wire; 100% digital |
+| | *international:* country code - 264; fiber-optic cable to South Africa, microwave radio relay link to Botswana, direct links to other neighboring countries; connected to Africa ONE and South African Far East (SAFE) submarine cables through South Africa; satellite earth stations - 4 Intelsat (2002) |
+| **Nauru** | *general assessment:* adequate local and international radiotelephone communication provided via Australian facilities |
+| | *domestic:* NA |
+| | *international:* country code - 674; satellite earth station - 1 Intelsat (Pacific Ocean) |
+| **Nepal** | *general assessment:* poor telephone and telegraph service; fair radiotelephone communication service and mobile cellular telephone network |
+| | *domestic:* NA |
+| | *international:* country code - 977; radiotelephone communications; microwave landline to India; satellite earth station - 1 Intelsat (Indian Ocean) |
+| **Netherlands** | *general assessment:* highly developed and well maintained |
+| | *domestic:* extensive fixed-line fiber-optic network; cellular telephone system is one of the largest in Europe with five major network operators utilizing the third generation of the Global System for Mobile Communications (GSM) |
+| | *international:* country code - 31; 9 submarine cables; satellite earth stations - 3 Intelsat (1 Indian Ocean and 2 Atlantic Ocean), 1 Eutelsat, and 1 Inmarsat (Atlantic and Indian Ocean regions) (2004) |
+| **Netherlands Antilles** | *general assessment:* generally adequate facilities |
+| | *domestic:* extensive interisland microwave radio relay links |
+| | *international:* country code - 599; submarine cables - 2; satellite earth stations - 2 Intelsat (Atlantic Ocean) |
+| **New Caledonia** | *general assessment:* NA |
+| | *domestic:* NA |
+| | *international:* country code - 687; satellite earth station - 1 Intelsat (Pacific Ocean) |
+| **New Zealand** | *general assessment:* excellent domestic and international systems |
+| | *domestic:* NA |
+| | *international:* country code - 64; submarine cables to Australia and Fiji; 8 satellite earth stations - 1 InMarSat (Pacific Ocean), 7 other |
+| **Nicaragua** | *general assessment:* inadequate system being upgraded by foreign investment |
+| | *domestic:* low-capacity microwave radio relay and wire system being expanded; connected to Central American Microwave System |
+| | *international:* country code - 505; satellite earth stations - 1 Intersputnik (Atlantic Ocean region) and 1 Intelsat (Atlantic Ocean) |
+| **Niger** | *general assessment:* small system of wire, radio telephone communications, and microwave radio relay links concentrated in the southwestern area of Niger |
+| | *domestic:* wire, radiotelephone communications, and microwave radio relay; domestic satellite system with 3 earth stations and 1 planned |
+| | *international:* country code - 227; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean) |
+| **Nigeria** | *general assessment:* expansion and modernization of the fixed-line telephone network has been slow due to faltering efforts at privatization |
+| | *domestic:* the addition of a second fixed-line provider in 2002 resulted in faster growth in this service; wireless telephony has grown rapidly, in part responding to the shortcomings of the fixed-line network; four wireless (GSM) service providers operate nationally; the combined growth resulted in a sharp increase in teledensity reported to be over 18% in March 2006 |
+| | *international:* country code - 234; satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean); fiber optic submarine cable (SAT-3/WASC) provides connectivity to Europe and Asia |
+| **Niue** | *domestic:* single-line telephone system connects all villages on island |
+| | *international:* country code - 683 |
+| **Norfolk Island** | *general assessment:* adequate |
+| | *domestic:* free local calls |
+| | *international:* country code - 672; undersea coaxial cable links with Australia, New Zealand, and Canada; satellite earth station |
+| **Northern Mariana Islands** | *general assessment:* NA |
+| | *domestic:* NA |
+| | *international:* country code - 1-670; satellite earth stations - 2 Intelsat (Pacific Ocean) |
+| **Norway** | *general assessment:* modern in all respects; one of the most advanced telecommunications networks in Europe |
+| | *domestic:* Norway has a domestic satellite system; moreover, the prevalence of rural areas encourages the wide use of cellular mobile systems instead of fixed-wire systems |
+| | *international:* country code - 47; 2 buried coaxial cable systems; 4 coaxial submarine cables; satellite earth stations - NA Eutelsat, NA Intelsat (Atlantic Ocean), and 1 Inmarsat (Atlantic and Indian Ocean regions); note - Norway shares the Inmarsat earth station with the other Nordic countries (Denmark, Finland, Iceland, and Sweden) (1999) |
+| **Oman** | *general assessment:* modern system consisting of open-wire, microwave, and radiotelephone communication stations; limited coaxial cable |
+| | *domestic:* open-wire, microwave, radiotelephone communications, and a domestic satellite system with 8 earth stations |
+| | *international:* country code - 968; satellite earth stations - 2 Intelsat (Indian Ocean) and 1 Arabsat |
+| **Pakistan** | *general assessment:* the domestic system is mediocre, but improving; service is adequate for government and business use, in part because major businesses have established their own private systems; since 1988, the government has promoted investment in the national telecommunications system on a priority basis, significantly increasing network capacity; despite major improvements in trunk and urban systems, telecommunication services are still not readily available to the majority of the rural population |
+| | *domestic:* microwave radio relay, coaxial cable, fiber-optic cable, cellular, and satellite networks |
+| | *international:* country code - 92; satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Indian Ocean); 3 operational international gateway exchanges (1 at Karachi and 2 at Islamabad); microwave radio relay to neighboring countries (1999) |
+| **Palau** | *general assessment:* NA |
+| | *domestic:* NA |
+| | *international:* country code - 680; satellite earth station - 1 Intelsat (Pacific Ocean) |
+| **Panama** | *general assessment:* domestic and international facilities well developed |
+| | *domestic:* NA |
+| | *international:* country code - 507; 1 coaxial submarine cable; satellite earth stations - 2 Intelsat (Atlantic Ocean); connected to the Central American Microwave System |
+| **Papua New Guinea** | *general assessment:* services are adequate; facilities provide radiotelephone and telegraph, coastal radio, aeronautical radio, and international radio communication services |
+| | *domestic:* mostly radiotelephone |
+| | *international:* country code - 675; submarine cables to Australia and Guam; satellite earth station - 1 Intelsat (Pacific Ocean); international radio communication service |
+| **Paraguay** | *general assessment:* meager telephone service; principal switching center is in Asuncion |
+| | *domestic:* fair microwave radio relay network |
+| | *international:* country code - 595; satellite earth station - 1 Intelsat (Atlantic Ocean) |
+| **Peru** | *general assessment:* adequate for most requirements |
+| | *domestic:* nationwide microwave radio relay system and a domestic satellite system with 12 earth stations |
+| | *international:* country code - 51; satellite earth stations - 2 Intelsat (Atlantic Ocean); Pan American submarine cable |
+| **Philippines** | *general assessment:* good international radiotelephone and submarine cable services; domestic and inter-island service adequate |
+| | *domestic:* domestic satellite system with 11 earth stations |
+| | *international:* country code - 63; 9 international gateways; satellite earth stations - 3 Intelsat (1 Indian Ocean and 2 Pacific Ocean); submarine cables to Hong Kong, Guam, Singapore, Taiwan, and Japan |
+| **Pitcairn Islands** | *general assessment:* satellite phone services |
+| | *domestic:* domestic communication via radio (CB) |
+| | *international:* country code - 872; satellite earth station (Inmarsat) |
+| **Poland** | *general assessment:* modernization of the telecommunications network has accelerated with market based competition finalized in 2003; fixed-line service, dominated by the former state-owned company, is dwarfed by the growth in wireless telephony |
+| | *domestic:* wireless service, available since 1993 (GSM service available since 1996) and provided by three nation-wide networks, has grown rapidly in response to the weak fixed-line coverage; third generation UMTS service available in urban areas; cellular coverage is generally good with more gaps in the east; fixed-line service is growing slowly and still lags in rural areas |
+| | *international:* country code - 48; international direct dialing with automated exchanges; satellite earth station - 1 (Intelsat, Eutelsat, Inmarsat, and Intersputnik) |
+| **Portugal** | *general assessment:* Portugal's telephone system has achieved a state-of-the-art network with broadband, high-speed capabilities |
+| | *domestic:* integrated network of coaxial cables, open-wire, microwave radio relay, and domestic satellite earth stations |
+| | *international:* country code - 351; 6 submarine cables; satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean), NA Eutelsat; tropospheric scatter to Azores; note - an earth station for Inmarsat (Atlantic Ocean region) is planned |
+| **Puerto Rico** | *general assessment:* modern system integrated with that of the US by high-capacity submarine cable and Intelsat with high-speed data capability |
+| | *domestic:* digital telephone system; cellular telephone service |
+| | *international:* country code - 1-787, 939; satellite earth station - 1 Intelsat; submarine cable to US |
+| **Qatar** | *general assessment:* modern system centered in Doha |
+| | *domestic:* NA |
+| | *international:* country code - 974; tropospheric scatter to Bahrain; microwave radio relay to Saudi Arabia and UAE; submarine cable to Bahrain and UAE; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean) and 1 Arabsat |
+| **Reunion** | *general assessment:* adequate system; principal center is Saint-Denis |
+| | *domestic:* modern open-wire and microwave radio relay network |
+| | *international:* country code - 262; radiotelephone communication to Comoros, France, Madagascar; new microwave route to Mauritius; satellite earth station - 1 Intelsat (Indian Ocean); fiber optic submarine cable (SAT-3/WASC/SAFE) provides connectivity to Europe and Asia |
+| **Romania** | *general assessment:* rapidly improving domestic and international service, especially in wireless telephony |
+| | *domestic:* 90% of telephone network is automatic; liberalization in 2003 is transforming telecommunications; there has been 20% growth in fixed lines with a penetration rate of 58% of households; nation-wide wireless service is growing even faster with four major providers and a penetration rate of 32% |
+| | *international:* country code - 40; satellite earth station - 10 (Intelsat 4); digital, international, direct-dial exchanges operate in Bucharest (2005) |
+| **Russia** | *general assessment:* the telephone system underwent significant changes in the 1990s; there are more than 1,000 companies licensed to offer communication services; access to digital lines has improved, particularly in urban centers; Internet and e-mail services are improving; Russia has made progress toward building the telecommunications infrastructure necessary for a market economy; however, a large demand for main line service remains unsatisfied |
+| | *domestic:* cross-country digital trunk lines run from Saint Petersburg to Khabarovsk, and from Moscow to Novorossiysk; the telephone systems in 60 regional capitals have modern digital infrastructures; cellular services, both analog and digital, are available in many areas; in rural areas, the telephone services are still outdated, inadequate, and low density |
+| | *international:* country code - 7; Russia is connected internationally by three undersea fiber-optic cables; digital switches in several cities provide more than 50,000 lines for international calls; satellite earth stations provide access to Intelsat, Intersputnik, Eutelsat, Inmarsat, and Orbita systems |
+| **Rwanda** | *general assessment:* telephone system primarily serves business and government |
+| | *domestic:* the capital, Kigali, is connected to the centers of the provinces by microwave radio relay and, recently, by cellular telephone service; much of the network depends on wire and HF radiotelephone |
+| | *international:* country code - 250; international connections employ microwave radio relay to neighboring countries and satellite communications to more distant countries; satellite earth stations - 1 Intelsat (Indian Ocean) in Kigali (includes telex and telefax service) |
+| **Saint Helena** | *general assessment:* can communicate worldwide |
+| | *domestic:* automatic digital network |
+| | *international:* country code - 290; international direct dialing; satellite voice and data communications; satellite earth stations - 5 (Ascension Island - 4, Saint Helena - 1) |
+| **Saint Kitts and Nevis** | *general assessment:* good inter-island and international connections |
+| | *domestic:* inter-island links via Eastern Caribbean Fiber Optic cable; construction of enhanced wireless infrastructure launched in November 2004 |
+| | *international:* country code - 1-869; international calls are carried by submarine cable or Intelsat |
+| **Saint Lucia** | *general assessment:* adequate system |
+| | *domestic:* system is automatically switched |
+| | *international:* country code - 1-758; direct microwave radio relay link with Martinique and Saint Vincent and the Grenadines; tropospheric scatter to Barbados; international calls beyond these countries are carried by Intelsat from Martinique |
+| **Saint Pierre and Miquelon** | *general assessment:* adequate |
+| | *domestic:* NA |
+| | *international:* country code - 508; radiotelephone communication with most countries in the world; 1 earth station in French domestic satellite system |
+| **Saint Vincent and the Grenadines** | *general assessment:* adequate system |
+| | *domestic:* islandwide, fully automatic telephone system; VHF/UHF radiotelephone from Saint Vincent to the other islands of the Grenadines |
+| | *international:* country code - 1-784; VHF/UHF radiotelephone from Saint Vincent to Barbados; new SHF radiotelephone to Grenada and to Saint Lucia; access to Intelsat earth station in Martinique through Saint Lucia |
+| **Samoa** | *general assessment:* adequate |
+| | *domestic:* NA |
+| | *international:* country code - 685; satellite earth station - 1 Intelsat (Pacific Ocean) |
+| **San Marino** | *general assessment:* adequate connections |
+| | *domestic:* automatic telephone system completely integrated into Italian system |
+| | *international:* country code - 378; connected to Italian international network |
+| **Sao Tome and Principe** | *general assessment:* adequate facilities |
+| | *domestic:* minimal system |
+| | *international:* country code - 239; satellite earth station - 1 Intelsat (Atlantic Ocean) |
+| **Saudi Arabia** | *general assessment:* modern system |
+| | *domestic:* extensive microwave radio relay, coaxial cable, and fiber-optic cable systems |
+| | *international:* country code - 966; microwave radio relay to Bahrain, Jordan, Kuwait, Qatar, UAE, Yemen, and Sudan; coaxial cable to Kuwait and Jordan; submarine cable to Djibouti, Egypt and Bahrain; satellite earth stations - 5 Intelsat (3 Atlantic Ocean and 2 Indian Ocean), 1 Arabsat, and 1 Inmarsat (Indian Ocean region) |
+| **Senegal** | *general assessment:* good system |
+| | *domestic:* above-average urban system; microwave radio relay, coaxial cable and fiber-optic cable in trunk system |
+| | *international:* country code - 221; 4 submarine cables; satellite earth station - 1 Intelsat (Atlantic Ocean) |
+| **Serbia** | *general assessment:* modernization of the telecommunications network has been slow as a result of damage stemming from the 1999 war and transition to a competitive market-based system; network was only 65% digitalized in 2005 |
+| | *domestic:* teledensity remains below the average for neighboring states; GSM wireless service, available through two providers with national coverage, is growing very rapidly; best telecommunications service limited to urban centers |
+| | *international:* country code - 381 |
+| **Seychelles** | *general assessment:* effective system |
+| | *domestic:* radiotelephone communications between islands in the archipelago |
+| | *international:* country code - 248; direct radiotelephone communications with adjacent island countries and African coastal countries; satellite earth station - 1 Intelsat (Indian Ocean) |
+| **Sierra Leone** | *general assessment:* marginal telephone and telegraph service |
+| | *domestic:* the national microwave radio relay trunk system connects Freetown to Bo and Kenema |
+| | *international:* country code - 232; satellite earth station - 1 Intelsat (Atlantic Ocean) |
+| **Singapore** | *general assessment:* excellent service |
+| | *domestic:* excellent domestic facilities; launched 3G wireless service in February 2005 |
+| | *international:* country code - 65; 9 submarine cables provide direct connection to more than 100 countries; 4 satellite earth stations, supplemented by VSAT coverage |
+| **Slovakia** | *general assessment:* a modernization and privatization program is increasing accessibility to telephone service, reducing the waiting time for new subscribers, and generally improving service quality |
+| | *domestic:* predominantly an analog system that is now receiving digital equipment and is being enlarged with fiber-optic cable, especially in the larger cities; mobile cellular capability has been added |
+| | *international:* country code - 421; three international exchanges (one in Bratislava and two in Banska Bystrica) are available; Slovakia is participating in several international telecommunications projects that will increase the availability of external services |
+| **Slovenia** | *general assessment:* NA |
+| | *domestic:* 100% digital (2000) |
+| | *international:* country code - 386 |
+| **Solomon Islands** | *general assessment:* NA |
+| | *domestic:* NA |
+| | *international:* country code - 677; satellite earth station - 1 Intelsat (Pacific Ocean) |
+| **Somalia** | *general assessment:* the public telecommunications system was almost completely destroyed or dismantled by the civil war factions; private wireless companies offer service in most major cities and charge the lowest international rates on the continent |
+| | *domestic:* local cellular telephone systems have been established in Mogadishu and in several other population centers |
+| | *international:* country code - 252; international connections are available from Mogadishu by satellite |
+| **South Africa** | *general assessment:* the system is the best developed and most modern in Africa |
+| | *domestic:* consists of carrier-equipped open-wire lines, coaxial cables, microwave radio relay links, fiber-optic cable, radiotelephone communication stations, and wireless local loops; key centers are Bloemfontein, Cape Town, Durban, Johannesburg, Port Elizabeth, and Pretoria |
+| | *international:* country code - 27; 2 submarine cables; satellite earth stations - 3 Intelsat (1 Indian Ocean and 2 Atlantic Ocean) |
+| **South Georgia and the South Sandwich Islands** | *general assessment:* NA |
+| | *domestic:* NA |
+| | *international:* coastal radiotelephone station at Grytviken |
+| **Spain** | *general assessment:* generally adequate, modern facilities; teledensity is 45 main lines for each 100 persons |
+| | *domestic:* NA |
+| | *international:* country code - 34; 22 coaxial submarine cables; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean), NA Eutelsat; tropospheric scatter to adjacent countries |
+| **Sri Lanka** | *general assessment:* very inadequate domestic service, particularly in rural areas; likely improvement with privatization of national telephone company and encouragement to private investment; good international service (1999) |
+| | *domestic:* national trunk network consists mostly of digital microwave radio relay; fiber-optic links now in use in Colombo area and two fixed wireless local loops have been installed; competition is strong in mobile cellular systems; telephone density remains low (1999) |
+| | *international:* country code - 94; submarine cables to Indonesia and Djibouti; satellite earth stations - 2 Intelsat (Indian Ocean) (1999) |
+| **Sudan** | *general assessment:* large, well-equipped system by regional standards and being upgraded; cellular communications started in 1996 and have expanded substantially |
+| | *domestic:* consists of microwave radio relay, cable, radiotelephone communications, tropospheric scatter, and a domestic satellite system with 14 earth stations |
+| | *international:* country code - 249; satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 Arabsat (2000) |
+| **Suriname** | *general assessment:* international facilities are good |
+| | *domestic:* microwave radio relay network |
+| | *international:* country code - 597; satellite earth stations - 2 Intelsat (Atlantic Ocean) |
+| **Svalbard** | *general assessment:* probably adequate |
+| | *domestic:* local telephone service |
+| | *international:* country code - 47-790; satellite earth station - 1 of unknown type (for communication with Norwegian mainland only) |
+| **Swaziland** | *general assessment:* a somewhat modern but not an advanced system |
+| | *domestic:* system consists of carrier-equipped, open-wire lines and low-capacity, microwave radio relay |
+| | *international:* country code - 268; satellite earth station - 1 Intelsat (Atlantic Ocean) |
+| **Sweden** | *general assessment:* excellent domestic and international facilities; automatic system |
+| | *domestic:* coaxial and multiconductor cables carry most of the voice traffic; parallel microwave radio relay systems carry some additional telephone channels |
+| | *international:* country code - 46; 5 submarine coaxial cables; satellite earth stations - 1 Intelsat (Atlantic Ocean), 1 Eutelsat, and 1 Inmarsat (Atlantic and Indian Ocean regions); note - Sweden shares the Inmarsat earth station with the other Nordic countries (Denmark, Finland, Iceland, and Norway) |
+| **Switzerland** | *general assessment:* excellent domestic and international services |
+| | *domestic:* extensive cable and microwave radio relay networks |
+| | *international:* country code - 41; satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian Ocean) |
+| **Syria** | *general assessment:* fair system currently undergoing significant improvement and digital upgrades, including fiber-optic technology |
+| | *domestic:* coaxial cable and microwave radio relay network |
+| | *international:* country code - 963; satellite earth stations - 1 Intelsat (Indian Ocean) and 1 Intersputnik (Atlantic Ocean region); 1 submarine cable; coaxial cable and microwave radio relay to Iraq, Jordan, Lebanon, and Turkey; participant in Medarabtel |
+| **Taiwan** | *general assessment:* provides telecommunications service for every business and private need |
+| | *domestic:* thoroughly modern; completely digitalized |
+| | *international:* country code - 886; satellite earth stations - 2 Intelsat (1 Pacific Ocean and 1 Indian Ocean); submarine cables to Japan (Okinawa), Philippines, Guam, Singapore, Hong Kong, Indonesia, Australia, Middle East, and Western Europe (1999) |
+| **Tajikistan** | *general assessment:* poorly developed and not well maintained; many towns are not linked to the national network |
+| | *domestic:* cable and microwave radio relay |
+| | *international:* country code - 992; linked by cable and microwave radio relay to other CIS republics and by leased connections to the Moscow international gateway switch; Dushanbe linked by Intelsat to international gateway switch in Ankara (Turkey); satellite earth stations - 1 Orbita and 2 Intelsat |
+| **Tanzania** | *general assessment:* fair system operating below capacity and being modernized for better service; very small aperture terminal (VSAT) system under construction |
+| | *domestic:* trunk service provided by open-wire, microwave radio relay, tropospheric scatter, and fiber-optic cable; some links being made digital |
+| | *international:* country code - 255; satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Atlantic Ocean) |
+| **Thailand** | *general assessment:* high quality system, especially in urban areas like Bangkok; WTO requirement for privatization of telecom sector is planned to be complete by 2006 |
+| | *domestic:* fixed line system provided by both a government owned and commercial provider; wireless service expanding rapidly and outpacing fixed lines |
+| | *international:* country code - 66; satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Pacific Ocean); landing country for APCN submarine cable |
+| **Togo** | *general assessment:* fair system based on a network of microwave radio relay routes supplemented by open-wire lines and a mobile cellular system |
+| | *domestic:* microwave radio relay and open-wire lines for conventional system |
+| | *international:* country code - 228; satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 Symphonie |
+| **Tokelau** | *general assessment:* modern satellite-based communications system; |
+| | *domestic:* radiotelephone service between islands |
+| | *international:* country code - 690; radiotelephone service to Samoa; government-regulated telephone service (TeleTok), with 3 satellite earth stations |
+| **Tonga** | *general assessment:* competition between Tonga Telecommunications Corporation (TCC) and Shoreline Communications Tonga (SCT) is accelerating expansion of telecommunications; SCT recently granted authority to develop high-speed digital service for telephone, Internet, and television |
+| | *domestic:* fully automatic switched network |
+| | *international:* country code - 676; satellite earth station - 1 Intelsat (Pacific Ocean) (2004) |
+| **Trinidad and Tobago** | *general assessment:* excellent international service; good local service |
+| | *domestic:* NA |
+| | *international:* country code - 1-868; satellite earth station - 1 Intelsat (Atlantic Ocean); tropospheric scatter to Barbados and Guyana |
+| **Tunisia** | *general assessment:* above the African average and continuing to be upgraded; key centers are Sfax, Sousse, Bizerte, and Tunis; Internet access available |
+| | *domestic:* trunk facilities consist of open-wire lines, coaxial cable, and microwave radio relay |
+| | *international:* country code - 216; 5 submarine cables; satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 Arabsat; coaxial cable and microwave radio relay to Algeria and Libya; participant in Medarabtel; two international gateway digital switches |
+| **Turkey** | *general assessment:* undergoing rapid modernization and expansion, especially with cellular telephones |
+| | *domestic:* additional digital exchanges are permitting a rapid increase in subscribers; the construction of a network of technologically advanced intercity trunk lines, using both fiber-optic cable and digital microwave radio relay is facilitating communication between urban centers; remote areas are reached by a domestic satellite system; the number of subscribers to mobile cellular telephone service is growing rapidly |
+| | *international:* country code - 90; international service is provided by three submarine fiber-optic cables in the Mediterranean and Black Seas, linking Turkey with Italy, Greece, Israel, Bulgaria, Romania, and Russia; also by 12 Intelsat earth stations, and by 328 mobile satellite terminals in the Inmarsat and Eutelsat systems (2002) |
+| **Turkmenistan** | *general assessment:* poorly developed |
+| | *domestic:* NA |
+| | *international:* country code - 993; linked by cable and microwave radio relay to other CIS republics and to other countries by leased connections to the Moscow international gateway switch; a new telephone link from Ashgabat to Iran has been established; a new exchange in Ashgabat switches international traffic through Turkey via Intelsat; satellite earth stations - 1 Orbita and 1 Intelsat |
+| **Turks and Caicos Islands** | *general assessment:* fully digital system with international direct dialing |
+| | *domestic:* full range of services available; GSM wireless service available |
+| | *international:* country code - 1-649; 2 submarine cables; satellite earth station - 1 Intelsat (Atlantic Ocean) |
+| **Tuvalu** | *general assessment:* serves particular needs for internal communications |
+| | *domestic:* radiotelephone communications between islands |
+| | *international:* country code - 688; international calls can be made by satellite |
+| **Uganda** | *general assessment:* seriously inadequate; two cellular systems have been introduced, but a sharp increase in the number of main lines is essential; e-mail and Internet services are available |
+| | *domestic:* intercity traffic by wire, microwave radio relay, and radiotelephone communication stations, fixed and mobile cellular systems for short-range traffic |
+| | *international:* country code - 256; satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 Inmarsat; analog links to Kenya and Tanzania |
+| **Ukraine** | *general assessment:* Ukraine's telecommunication development plan, running through 2005, emphasizes improving domestic trunk lines, international connections, and the mobile cellular system |
+| | *domestic:* at independence in December 1991, Ukraine inherited a telephone system that was antiquated, inefficient, and in disrepair; more than 3.5 million applications for telephones could not be satisfied; telephone density is rising slowly and the domestic trunk system is being improved; the mobile cellular telephone system is expanding at a high rate |
+| | *international:* country code - 380; two new domestic trunk lines are a part of the fiber-optic Trans-Asia-Europe (TAE) system and three Ukrainian links have been installed in the fiber-optic Trans-European Lines (TEL) project that connects 18 countries; additional international service is provided by the Italy-Turkey-Ukraine-Russia (ITUR) fiber-optic submarine cable and by earth stations in the Intelsat, Inmarsat, and Intersputnik satellite systems |
+| **United Arab Emirates** | *general assessment:* modern fiber-optic integrated services; digital network with rapidly growing use of mobile cellular telephones; key centers are Abu Dhabi and Dubai |
+| | *domestic:* microwave radio relay, fiber optic and coaxial cable |
+| | *international:* country code - 971; satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Indian Ocean) and 1 Arabsat; submarine cables to Qatar, Bahrain, India, and Pakistan; tropospheric scatter to Bahrain; microwave radio relay to Saudi Arabia |
+| **United Kingdom** | *general assessment:* technologically advanced domestic and international system |
+| | *domestic:* equal mix of buried cables, microwave radio relay, and fiber-optic systems |
+| | *international:* country code - 44; 40 coaxial submarine cables; satellite earth stations - 10 Intelsat (7 Atlantic Ocean and 3 Indian Ocean), 1 Inmarsat (Atlantic Ocean region), and 1 Eutelsat; at least 8 large international switching centers |
+| **United States** | *general assessment:* a large, technologically advanced, multipurpose communications system |
+| | *domestic:* a large system of fiber-optic cable, microwave radio relay, coaxial cable, and domestic satellites carries every form of telephone traffic; a rapidly growing cellular system carries mobile telephone traffic throughout the country |
+| | *international:* country code - 1; 24 ocean cable systems in use; satellite earth stations - 61 Intelsat (45 Atlantic Ocean and 16 Pacific Ocean), 5 Intersputnik (Atlantic Ocean region), and 4 Inmarsat (Pacific and Atlantic Ocean regions) (2000) |
+| **Uruguay** | *general assessment:* fully digitalized |
+| | *domestic:* most modern facilities concentrated in Montevideo; new nationwide microwave radio relay network |
+| | *international:* country code - 598; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2002) |
+| **Uzbekistan** | *general assessment:* antiquated and inadequate; in serious need of modernization |
+| | *domestic:* the domestic telephone system is being expanded and technologically improved, particularly in Tashkent (Toshkent) and Samarqand, under contracts with prominent companies in industrialized countries; moreover, by 1998, six cellular networks had been placed in operation - four of the GSM type (Global System for Mobile Communication), one D-AMPS type (Digital Advanced Mobile Phone System), and one AMPS type (Advanced Mobile Phone System) |
+| | *international:* country code - 998; linked by landline or microwave radio relay with CIS member states and to other countries by leased connection via the Moscow international gateway switch; after the completion of the Uzbek link to the Trans-Asia-Europe (TAE) fiber-optic cable, Uzbekistan will be independent of Russian facilities for international communications; Inmarsat also provides an international connection, albeit an expensive one; satellite earth stations - NA (1998) |
+| **Vanuatu** | *general assessment:* NA |
+| | *domestic:* NA |
+| | *international:* country code - 678; satellite earth station - 1 Intelsat (Pacific Ocean) |
+| **Venezuela** | *general assessment:* modern and expanding |
+| | *domestic:* domestic satellite system with 3 earth stations; recent substantial improvement in telephone service in rural areas; substantial increase in digitalization of exchanges and trunk lines; installation of a national interurban fiber-optic network capable of digital multimedia services |
+| | *international:* country code - 58; 3 submarine coaxial cables; satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 PanAmSat; participating with Colombia, Ecuador, Peru, and Bolivia in the construction of an international fiber-optic network |
+| **Vietnam** | *general assessment:* Vietnam is putting considerable effort into modernization and expansion of its telecommunication system, but its performance continues to lag behind that of its more modern neighbors |
+| | *domestic:* all provincial exchanges are digitalized and connected to Hanoi, Da Nang, and Ho Chi Minh City by fiber-optic cable or microwave radio relay networks; main lines have been substantially increased, and the use of mobile telephones is growing rapidly |
+| | *international:* country code - 84; satellite earth stations - 2 Intersputnik (Indian Ocean region) |
+| **Virgin Islands** | *general assessment:* modern system with total digital switching, uses fiber-optic cable and microwave radio relay |
+| | *domestic:* full range of services available |
+| | *international:* country code - 1-340; 2 submarine cable connections (Taino Carib, Americas-1); satellite earth stations - NA |
+| **Wake Island** | *general assessment:* satellite communications; 1 DSN circuit off the Overseas Telephone System (OTS) |
+| | *domestic:* NA |
+| | *international:* NA |
+| **Wallis and Futuna** | *general assessment:* NA |
+| | *domestic:* NA |
+| | *international:* country code - 681 |
+| **West Bank** | *general assessment:* NA |
+| | *domestic:* Israeli company BEZEK and the Palestinian company PALTEL are responsible for fixed line services in the Gaza Strip; the Palestinian JAWAL company provides cellular services |
+| | *international:* country code - 970 |
+| **Western Sahara** | *general assessment:* sparse and limited system |
+| | *domestic:* NA |
+| | *international:* country code - 212; tied into Morocco's system by microwave radio relay, tropospheric scatter, and satellite; satellite earth stations - 2 Intelsat (Atlantic Ocean) linked to Rabat, Morocco |
+| **World** | *general assessment:* NA |
+| | *domestic:* NA |
+| | *international:* NA |
+| **Yemen** | *general assessment:* since unification in 1990, efforts have been made to create a national telecommunications network |
+| | *domestic:* the national network consists of microwave radio relay, cable, tropospheric scatter, and GSM cellular mobile telephone systems |
+| | *international:* country code - 967; satellite earth stations - 3 Intelsat (2 Indian Ocean and 1 Atlantic Ocean), 1 Intersputnik (Atlantic Ocean region), and 2 Arabsat; microwave radio relay to Saudi Arabia and Djibouti |
+| **Zambia** | *general assessment:* facilities are aging but still among the best in Sub-Saharan Africa |
+| | *domestic:* high-capacity microwave radio relay connects most larger towns and cities; several cellular telephone services in operation; Internet service is widely available; very small aperture terminal (VSAT) networks are operated by private firms |
+| | *international:* country code - 260; satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Atlantic Ocean) |
+| **Zimbabwe** | *general assessment:* system was once one of the best in Africa, but now suffers from poor maintenance; more than 100,000 outstanding requests for connection despite an equally large number of installed but unused main lines |
+| | *domestic:* consists of microwave radio relay links, open-wire lines, radiotelephone communication stations, fixed wireless local loop installations, and a substantial mobile cellular network; Internet connection is available in Harare and planned for all major towns and for some of the smaller ones |
+| | *international:* country code - 263; satellite earth stations - 2 Intelsat; two international digital gateway exchanges (in Harare and Gweru) |
+
+This page was last updated on 19 December, 2006
+ 

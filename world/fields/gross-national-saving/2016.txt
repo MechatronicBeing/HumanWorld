@@ -1,0 +1,554 @@
+FIELD LISTING :: GROSS NATIONAL SAVING
+
+Gross national saving is derived by deducting final consumption expenditure (household plus government) from Gross national disposable income, and consists of personal saving, plus business saving (the sum of the capital consumption allowance and retained business profits), plus government saving (the excess of tax revenues over expenditures), but excludes foreign saving (the excess of imports of goods and services over exports). The figures are presented as a percent of GDP. A negative number indicates that the economy as a whole is spending more income than it produces, thus drawing down national wealth (dissaving).
+
+| Country | GROSS NATIONAL SAVING(% OF GDP) |
+| --- | --- |
+| **Afghanistan** | 23.9% of GDP (2015 est.) |
+| | 29.2% of GDP (2014 est.) |
+| | 30.4% of GDP (2013 est.) |
+| **Albania** | 18.4% of GDP (2015 est.) |
+| | 14% of GDP (2014 est.) |
+| | 17.7% of GDP (2013 est.) |
+| **Algeria** | 34.1% of GDP (2015 est.) |
+| | 41.1% of GDP (2014 est.) |
+| | 43.9% of GDP (2013 est.) |
+| **Angola** | 2% of GDP (2015 est.) |
+| | 12.4% of GDP (2014 est.) |
+| | 21.4% of GDP (2013 est.) |
+| **Antigua and Barbuda** | 12.8% of GDP (2015 est.) |
+| | 10.6% of GDP (2014 est.) |
+| | 8.8% of GDP (2013 est.) |
+| **Argentina** | 14.3% of GDP (2015 est.) |
+| | 17.1% of GDP (2014 est.) |
+| | 16.1% of GDP (2013 est.) |
+| **Armenia** | 18.1% of GDP (2015 est.) |
+| | 13.6% of GDP (2014 est.) |
+| | 14.7% of GDP (2013 est.) |
+| **Australia** | 21.3% of GDP (2015 est.) |
+| | 23.8% of GDP (2014 est.) |
+| | 24.2% of GDP (2013 est.) |
+| **Austria** | 25.4% of GDP (2015 est.) |
+| | 25% of GDP (2014 est.) |
+| | 25.9% of GDP (2013 est.) |
+| **Azerbaijan** | 28.3% of GDP (2015 est.) |
+| | 41.4% of GDP (2014 est.) |
+| | 43.3% of GDP (2013 est.) |
+| **Bahamas, The** | 11.9% of GDP (2015 est.) |
+| | 9.2% of GDP (2014 est.) |
+| | 10.1% of GDP (2013 est.) |
+| **Bahrain** | 16.1% of GDP (2015 est.) |
+| | 19.9% of GDP (2014 est.) |
+| | 25% of GDP (2013 est.) |
+| **Bangladesh** | 26.7% of GDP (2015 est.) |
+| | 25.8% of GDP (2014 est.) |
+| | 26.2% of GDP (2013 est.) |
+| **Barbados** | 8.4% of GDP (2015 est.) |
+| | 4.1% of GDP (2014 est.) |
+| | 4% of GDP (2013 est.) |
+| **Belarus** | 26.2% of GDP (2015 est.) |
+| | 28.7% of GDP (2014 est.) |
+| | 28.9% of GDP (2013 est.) |
+| **Belgium** | 22.6% of GDP (2015 est.) |
+| | 22.8% of GDP (2014 est.) |
+| | 21.9% of GDP (2013 est.) |
+| **Belize** | 10.3% of GDP (2015 est.) |
+| | 13% of GDP (2014 est.) |
+| | 13.7% of GDP (2013 est.) |
+| **Benin** | 15.3% of GDP (2015 est.) |
+| | 15.7% of GDP (2014 est.) |
+| | 21.1% of GDP (2013 est.) |
+| **Bhutan** | 26.9% of GDP (2015 est.) |
+| | 33.1% of GDP (2014 est.) |
+| | 19.7% of GDP (2013 est.) |
+| **Bolivia** | 12.7% of GDP (2015 est.) |
+| | 21% of GDP (2014 est.) |
+| | 22.5% of GDP (2013 est.) |
+| **Bosnia and Herzegovina** | 10.4% of GDP (2015 est.) |
+| | 10.8% of GDP (2014 est.) |
+| | 11.9% of GDP (2013 est.) |
+| **Botswana** | 38.9% of GDP (2015 est.) |
+| | 46.2% of GDP (2014 est.) |
+| | 42.2% of GDP (2013 est.) |
+| **Brazil** | 14.4% of GDP (2015 est.) |
+| | 16.6% of GDP (2014 est.) |
+| | 18.7% of GDP (2013 est.) |
+| **Brunei** | 44.2% of GDP (2015 est.) |
+| | 55.1% of GDP (2014 est.) |
+| | 60.5% of GDP (2013 est.) |
+| **Bulgaria** | 22.7% of GDP (2015 est.) |
+| | 22.3% of GDP (2014 est.) |
+| | 22.7% of GDP (2013 est.) |
+| **Burkina Faso** | 21.7% of GDP (2015 est.) |
+| | 24.3% of GDP (2014 est.) |
+| | 21.9% of GDP (2013 est.) |
+| **Burma** | 33.2% of GDP (2015 est.) |
+| | 31.3% of GDP (2014 est.) |
+| | 29.2% of GDP (2013 est.) |
+| **Burundi** | 6.4% of GDP (2015 est.) |
+| | 10.2% of GDP (2014 est.) |
+| | 10.1% of GDP (2013 est.) |
+| **Cabo Verde** | 30.7% of GDP (2015 est.) |
+| | 27% of GDP (2014 est.) |
+| | 28.7% of GDP (2013 est.) |
+| **Cambodia** | 12.8% of GDP (2015 est.) |
+| | 12.1% of GDP (2014 est.) |
+| | 9.3% of GDP (2013 est.) |
+| **Cameroon** | 22.2% of GDP (2015 est.) |
+| | 20.8% of GDP (2014 est.) |
+| | 19.5% of GDP (2013 est.) |
+| **Canada** | 20.5% of GDP (2015 est.) |
+| | 22% of GDP (2014 est.) |
+| | 21.5% of GDP (2013 est.) |
+| **Central African Republic** | 1.8% of GDP (2015 est.) |
+| | 4.1% of GDP (2014 est.) |
+| | 5.7% of GDP (2013 est.) |
+| **Chad** | 21.1% of GDP (2015 est.) |
+| | 23% of GDP (2014 est.) |
+| | 19.9% of GDP (2013 est.) |
+| **Chile** | 20.5% of GDP (2015 est.) |
+| | 20.9% of GDP (2014 est.) |
+| | 20.8% of GDP (2013 est.) |
+| **China** | 47.9% of GDP (2015 est.) |
+| | 49.3% of GDP (2014 est.) |
+| | 48.8% of GDP (2013 est.) |
+| **Colombia** | 21.3% of GDP (2015 est.) |
+| | 21.1% of GDP (2014 est.) |
+| | 21.1% of GDP (2013 est.) |
+| **Comoros** | 14.6% of GDP (2015 est.) |
+| | 12.4% of GDP (2014 est.) |
+| | 12.2% of GDP (2013 est.) |
+| **Congo, Democratic Republic of the** | 5.5% of GDP (2015 est.) |
+| | 7% of GDP (2014 est.) |
+| | 10.4% of GDP (2013 est.) |
+| **Congo, Republic of the** | 36.3% of GDP (2015 est.) |
+| | 35.8% of GDP (2014 est.) |
+| | 26.7% of GDP (2013 est.) |
+| **Costa Rica** | 14.9% of GDP (2015 est.) |
+| | 14.1% of GDP (2014 est.) |
+| | 15% of GDP (2013 est.) |
+| **Cote d'Ivoire** | 16% of GDP (2015 est.) |
+| | 16.3% of GDP (2014 est.) |
+| | 17.1% of GDP (2013 est.) |
+| **Croatia** | 23.3% of GDP (2015 est.) |
+| | 20.3% of GDP (2014 est.) |
+| | 20.1% of GDP (2013 est.) |
+| **Cuba** | 6% of GDP (2015 est.) |
+| | 12.5% of GDP (2014 est.) |
+| | 13.3% of GDP (2013 est.) |
+| **Cyprus** | 11.7% of GDP (2015 est.) |
+| | 8.6% of GDP (2014 est.) |
+| | 8.7% of GDP (2013 est.) |
+| **Czechia** | 28.2% of GDP (2015 est.) |
+| | 25.9% of GDP (2014 est.) |
+| | 24% of GDP (2013 est.) |
+| **Denmark** | 26.4% of GDP (2015 est.) |
+| | 25.9% of GDP (2014 est.) |
+| | 26.4% of GDP (2013 est.) |
+| **Djibouti** | 41.9% of GDP (2015 est.) |
+| | 33.9% of GDP (2014 est.) |
+| | 33.6% of GDP (2013 est.) |
+| **Dominica** | 1.7% of GDP (2015 est.) |
+| | 1.7% of GDP (2014 est.) |
+| | 0.4% of GDP (2013 est.) |
+| **Ecuador** | 25.2% of GDP (2015 est.) |
+| | 28.1% of GDP (2014 est.) |
+| | 27.8% of GDP (2013 est.) |
+| **Egypt** | 9.1% of GDP (2015 est.) |
+| | 11.8% of GDP (2014 est.) |
+| | 13% of GDP (2013 est.) |
+| **El Salvador** | 10.6% of GDP (2015 est.) |
+| | 8.4% of GDP (2014 est.) |
+| | 8.4% of GDP (2013 est.) |
+| **Equatorial Guinea** | 40.2% of GDP (2015 est.) |
+| | 37.2% of GDP (2014 est.) |
+| | 48.2% of GDP (2013 est.) |
+| **Eritrea** | 4.6% of GDP (2015 est.) |
+| | 2% of GDP (2014 est.) |
+| | 6.3% of GDP (2013 est.) |
+| **Estonia** | 26.7% of GDP (2015 est.) |
+| | 28.9% of GDP (2014 est.) |
+| | 27.5% of GDP (2013 est.) |
+| **Ethiopia** | 38% of GDP (2015 est.) |
+| | 38% of GDP (2014 est.) |
+| | 34.1% of GDP (2013 est.) |
+| **European Union** | 21.4% of GDP (2015 est.) |
+| | 21.1% of GDP (2014 est.) |
+| | 21% of GDP (2013 est.) |
+| **Fiji** | 12.3% of GDP (2015 est.) |
+| | 8.8% of GDP (2014 est.) |
+| | 7% of GDP (2013 est.) |
+| **Finland** | 21.2% of GDP (2015 est.) |
+| | 19.9% of GDP (2014 est.) |
+| | 19.8% of GDP (2013 est.) |
+| **France** | 22.1% of GDP (2015 est.) |
+| | 21.5% of GDP (2014 est.) |
+| | 21.5% of GDP (2013 est.) |
+| **Gabon** | 26.5% of GDP (2015 est.) |
+| | 37.4% of GDP (2014 est.) |
+| | 34.4% of GDP (2013 est.) |
+| **Gambia, The** | 4% of GDP (2015 est.) |
+| | 6.7% of GDP (2014 est.) |
+| | 11.8% of GDP (2013 est.) |
+| **Georgia** | 19.6% of GDP (2015 est.) |
+| | 18.7% of GDP (2014 est.) |
+| | 18.5% of GDP (2013 est.) |
+| **Germany** | 27.2% of GDP (2015 est.) |
+| | 26.6% of GDP (2014 est.) |
+| | 26.2% of GDP (2013 est.) |
+| **Ghana** | 17% of GDP (2015 est.) |
+| | 17.7% of GDP (2014 est.) |
+| | 15.6% of GDP (2013 est.) |
+| **Greece** | 9.4% of GDP (2015 est.) |
+| | 9.7% of GDP (2014 est.) |
+| | 9.2% of GDP (2013 est.) |
+| **Grenada** | 3.8% of GDP (2015 est.) |
+| | 1.4% of GDP (2014 est.) |
+| | -3.2% of GDP (2013 est.) |
+| **Guatemala** | 13.1% of GDP (2015 est.) |
+| | 11.6% of GDP (2014 est.) |
+| | 11.5% of GDP (2013 est.) |
+| **Guinea-Bissau** | 10.3% of GDP (2015 est.) |
+| | 7.4% of GDP (2014 est.) |
+| | 2.6% of GDP (2013 est.) |
+| **Guinea** | -5.6% of GDP (2015 est.) |
+| | -5.9% of GDP (2014 est.) |
+| | -4.4% of GDP (2013 est.) |
+| **Guyana** | 20.6% of GDP (2015 est.) |
+| | 9.8% of GDP (2014 est.) |
+| | 3.7% of GDP (2013 est.) |
+| **Haiti** | 22.1% of GDP (2015 est.) |
+| | 14% of GDP (2014 est.) |
+| | 14.5% of GDP (2013 est.) |
+| **Honduras** | 17.7% of GDP (2015 est.) |
+| | 14.6% of GDP (2014 est.) |
+| | 12.2% of GDP (2013 est.) |
+| **Hong Kong** | 24.8% of GDP (2015 est.) |
+| | 25.1% of GDP (2014 est.) |
+| | 25.5% of GDP (2013 est.) |
+| **Hungary** | 26.1% of GDP (2015 est.) |
+| | 24.2% of GDP (2014 est.) |
+| | 24.6% of GDP (2013 est.) |
+| **Iceland** | 23.5% of GDP (2015 est.) |
+| | 20.9% of GDP (2014 est.) |
+| | 21.2% of GDP (2013 est.) |
+| **India** | 30.6% of GDP (2015 est.) |
+| | 31.3% of GDP (2014 est.) |
+| | 31.7% of GDP (2013 est.) |
+| **Indonesia** | 32.5% of GDP (2015 est.) |
+| | 31.5% of GDP (2014 est.) |
+| | 30.7% of GDP (2013 est.) |
+| **Iran** | 36% of GDP (2015 est.) |
+| | 37.1% of GDP (2014 est.) |
+| | 40.2% of GDP (2013 est.) |
+| **Iraq** | 15% of GDP (2015 est.) |
+| | 11.4% of GDP (2014 est.) |
+| | 10% of GDP (2013 est.) |
+| **Ireland** | 27.7% of GDP (2015 est.) |
+| | 23.9% of GDP (2014 est.) |
+| | 21.2% of GDP (2013 est.) |
+| **Israel** | 24.4% of GDP (2015 est.) |
+| | 23.9% of GDP (2014 est.) |
+| | 23.5% of GDP (2013 est.) |
+| **Italy** | 18.9% of GDP (2015 est.) |
+| | 18.2% of GDP (2014 est.) |
+| | 17.8% of GDP (2013 est.) |
+| **Jamaica** | 20.2% of GDP (2015 est.) |
+| | 14.4% of GDP (2014 est.) |
+| | 12.3% of GDP (2013 est.) |
+| **Japan** | 25.3% of GDP (2015 est.) |
+| | 22.6% of GDP (2014 est.) |
+| | 22.2% of GDP (2013 est.) |
+| **Jordan** | 15.8% of GDP (2015 est.) |
+| | 18.3% of GDP (2014 est.) |
+| | 16.8% of GDP (2013 est.) |
+| **Kazakhstan** | 26% of GDP (2015 est.) |
+| | 29.1% of GDP (2014 est.) |
+| | 26% of GDP (2013 est.) |
+| **Kenya** | 14.8% of GDP (2015 est.) |
+| | 12.2% of GDP (2014 est.) |
+| | 11.3% of GDP (2013 est.) |
+| **Korea, North** | NA% |
+| **Korea, South** | 36.2% of GDP (2015 est.) |
+| | 35.3% of GDP (2014 est.) |
+| | 35.3% of GDP (2013 est.) |
+| **Kosovo** | 12.5% of GDP (2015 est.) |
+| | 12.7% of GDP (2014 est.) |
+| | 12.5% of GDP (2013 est.) |
+| **Kuwait** | 30.3% of GDP (2015 est.) |
+| | 49.4% of GDP (2014 est.) |
+| | 53.8% of GDP (2013 est.) |
+| **Kyrgyzstan** | 20.6% of GDP (2015 est.) |
+| | 9.3% of GDP (2014 est.) |
+| | 9.3% of GDP (2013 est.) |
+| **Laos** | 25% of GDP (2015 est.) |
+| | 20% of GDP (2014 est.) |
+| | 25.8% of GDP (2013 est.) |
+| **Latvia** | 20.8% of GDP (2015 est.) |
+| | 21.4% of GDP (2014 est.) |
+| | 21.7% of GDP (2013 est.) |
+| **Lebanon** | 10.2% of GDP (2015 est.) |
+| | 3.8% of GDP (2014 est.) |
+| | 3.5% of GDP (2013 est.) |
+| **Lesotho** | 20.3% of GDP (2015 est.) |
+| | 22% of GDP (2014 est.) |
+| | 25.7% of GDP (2013 est.) |
+| **Liberia** | NA% (2015 est.) |
+| | -41% of GDP (2014 est.) |
+| | -2.3% of GDP (2012 est.) |
+| **Libya** | -17.9% of GDP (2015 est.) |
+| | -34% of GDP (2014 est.) |
+| | 5.6% of GDP (2013 est.) |
+| **Lithuania** | 16.8% of GDP (2015 est.) |
+| | 21.7% of GDP (2014 est.) |
+| | 20.6% of GDP (2013 est.) |
+| **Luxembourg** | 23.3% of GDP (2015 est.) |
+| | 24.8% of GDP (2014 est.) |
+| | 24% of GDP (2013 est.) |
+| **Macedonia** | 22.5% of GDP (2015 est.) |
+| | 21.2% of GDP (2014 est.) |
+| | 22.1% of GDP (2013 est.) |
+| **Madagascar** | 15% of GDP (2015 est.) |
+| | 14.7% of GDP (2014 est.) |
+| | 10.2% of GDP (2013 est.) |
+| **Malawi** | -12.7% of GDP (2015 est.) |
+| | -9.9% of GDP (2014 est.) |
+| | -16.6% of GDP (2013 est.) |
+| **Malaysia** | 28.1% of GDP (2015 est.) |
+| | 29.4% of GDP (2014 est.) |
+| | 29.4% of GDP (2013 est.) |
+| **Maldives** | 12% of GDP (2015 est.) |
+| | 15.9% of GDP (2014 est.) |
+| | 15.7% of GDP (2013 est.) |
+| **Mali** | 14.1% of GDP (2015 est.) |
+| | 12.9% of GDP (2014 est.) |
+| | 15% of GDP (2013 est.) |
+| **Malta** | 34.2% of GDP (2015 est.) |
+| | 21.7% of GDP (2014 est.) |
+| | 21.9% of GDP (2013 est.) |
+| **Mauritania** | 16.7% of GDP (2015 est.) |
+| | 8.7% of GDP (2014 est.) |
+| | 12.4% of GDP (2013 est.) |
+| **Mauritius** | 14.8% of GDP (2015 est.) |
+| | 15.1% of GDP (2014 est.) |
+| | 15.3% of GDP (2013 est.) |
+| **Mexico** | 19.9% of GDP (2015 est.) |
+| | 19.6% of GDP (2014 est.) |
+| | 19.3% of GDP (2013 est.) |
+| **Moldova** | 17.1% of GDP (2015 est.) |
+| | 18.2% of GDP (2014 est.) |
+| | 18.1% of GDP (2013 est.) |
+| **Mongolia** | 20.7% of GDP (2015 est.) |
+| | 23.7% of GDP (2014 est.) |
+| | 27.9% of GDP (2013 est.) |
+| **Montenegro** | 14.7% of GDP (2015 est.) |
+| | 4.6% of GDP (2014 est.) |
+| | 5.1% of GDP (2013 est.) |
+| **Morocco** | 28.3% of GDP (2015 est.) |
+| | 26.5% of GDP (2014 est.) |
+| | 26.6% of GDP (2013 est.) |
+| **Mozambique** | -0.1% of GDP (2015 est.) |
+| | 12% of GDP (2014 est.) |
+| | 15.4% of GDP (2013 est.) |
+| **Namibia** | 19.9% of GDP (2015 est.) |
+| | 24.1% of GDP (2014 est.) |
+| | 20% of GDP (2013 est.) |
+| **Nepal** | 50.5% of GDP (2015 est.) |
+| | 36.3% of GDP (2014 est.) |
+| | 38.9% of GDP (2013 est.) |
+| **Netherlands** | 28.4% of GDP (2015 est.) |
+| | 28% of GDP (2014 est.) |
+| | 28.3% of GDP (2013 est.) |
+| **New Zealand** | 20% of GDP (2015 est.) |
+| | 19.5% of GDP (2014 est.) |
+| | 18.5% of GDP (2013 est.) |
+| **Nicaragua** | 29% of GDP (2015 est.) |
+| | 19.7% of GDP (2014 est.) |
+| | 17.9% of GDP (2013 est.) |
+| **Nigeria** | 12.4% of GDP (2015 est.) |
+| | 16% of GDP (2014 est.) |
+| | 18.6% of GDP (2013 est.) |
+| **Niger** | 21.4% of GDP (2015 est.) |
+| | 22.5% of GDP (2014 est.) |
+| | 21% of GDP (2013 est.) |
+| **Norway** | 37.4% of GDP (2015 est.) |
+| | 40.4% of GDP (2014 est.) |
+| | 38.2% of GDP (2013 est.) |
+| **Oman** | 13.8% of GDP (2015 est.) |
+| | 26.9% of GDP (2014 est.) |
+| | 32.5% of GDP (2013 est.) |
+| **Pakistan** | 14.7% of GDP (2015 est.) |
+| | 13.4% of GDP (2014 est.) |
+| | 12.3% of GDP (2013 est.) |
+| **Panama** | 41.2% of GDP (2015 est.) |
+| | 40.2% of GDP (2014 est.) |
+| | 35.2% of GDP (2013 est.) |
+| **Papua New Guinea** | 38.1% of GDP (2015 est.) |
+| | 24% of GDP (2014 est.) |
+| | -11.7% of GDP (2013 est.) |
+| **Paraguay** | 17% of GDP (2015 est.) |
+| | 15.5% of GDP (2014 est.) |
+| | 17.1% of GDP (2013 est.) |
+| **Peru** | 21.6% of GDP (2015 est.) |
+| | 22.3% of GDP (2014 est.) |
+| | 23.7% of GDP (2013 est.) |
+| **Philippines** | 23.4% of GDP (2015 est.) |
+| | 24.3% of GDP (2014 est.) |
+| | 24.2% of GDP (2013 est.) |
+| **Poland** | 20.3% of GDP (2015 est.) |
+| | 18.3% of GDP (2014 est.) |
+| | 17.7% of GDP (2013 est.) |
+| **Portugal** | 15.6% of GDP (2015 est.) |
+| | 15.2% of GDP (2014 est.) |
+| | 16% of GDP (2013 est.) |
+| **Qatar** | 47% of GDP (2015 est.) |
+| | 57.6% of GDP (2014 est.) |
+| | 59.7% of GDP (2013 est.) |
+| **Romania** | 24.5% of GDP (2015 est.) |
+| | 24.8% of GDP (2014 est.) |
+| | 24.5% of GDP (2013 est.) |
+| **Russia** | 25.9% of GDP (2015 est.) |
+| | 23.9% of GDP (2014 est.) |
+| | 22.5% of GDP (2013 est.) |
+| **Rwanda** | 12.8% of GDP (2015 est.) |
+| | 12.9% of GDP (2014 est.) |
+| | 15.8% of GDP (2013 est.) |
+| **Saint Kitts and Nevis** | 16.9% of GDP (2015 est.) |
+| | 21.4% of GDP (2014 est.) |
+| | 21.1% of GDP (2013 est.) |
+| **Saint Lucia** | 16.1% of GDP (2015 est.) |
+| | 12% of GDP (2014 est.) |
+| | 11.5% of GDP (2013 est.) |
+| **Saint Vincent and the Grenadines** | -4.1% of GDP (2015 est.) |
+| | -7.3% of GDP (2014 est.) |
+| | -6.2% of GDP (2013 est.) |
+| **Sao Tome and Principe** | 22.5% of GDP (2015 est.) |
+| | 13.3% of GDP (2014 est.) |
+| | 16.5% of GDP (2013 est.) |
+| **Saudi Arabia** | 26.4% of GDP (2015 est.) |
+| | 38.3% of GDP (2014 est.) |
+| | 44.4% of GDP (2013 est.) |
+| **Senegal** | 19.4% of GDP (2015 est.) |
+| | 16.1% of GDP (2014 est.) |
+| | 17.7% of GDP (2013 est.) |
+| **Serbia** | 12.2% of GDP (2015 est.) |
+| | 11.5% of GDP (2014 est.) |
+| | 11.5% of GDP (2013 est.) |
+| **Seychelles** | 21.3% of GDP (2015 est.) |
+| | 15.5% of GDP (2014 est.) |
+| | 26.7% of GDP (2013 est.) |
+| **Sierra Leone** | -5.2% of GDP (2015 est.) |
+| | 7.4% of GDP (2014 est.) |
+| | 16% of GDP (2013 est.) |
+| **Singapore** | 46.1% of GDP (2015 est.) |
+| | 46.4% of GDP (2014 est.) |
+| | 48.2% of GDP (2013 est.) |
+| **Slovakia** | 21.6% of GDP (2015 est.) |
+| | 21.1% of GDP (2014 est.) |
+| | 22.9% of GDP (2013 est.) |
+| **Slovenia** | 25.6% of GDP (2015 est.) |
+| | 26% of GDP (2014 est.) |
+| | 24% of GDP (2013 est.) |
+| **Solomon Islands** | 17.1% of GDP (2015 est.) |
+| | 14.9% of GDP (2014 est.) |
+| | 21.6% of GDP (2013 est.) |
+| **South Africa** | 16.4% of GDP (2015 est.) |
+| | 15.3% of GDP (2014 est.) |
+| | 15.3% of GDP (2013 est.) |
+| **South Sudan** | 7.1% of GDP (2015 est.) |
+| | 13.6% of GDP (2014 est.) |
+| | 11.3% of GDP (2013 est.) |
+| **Spain** | 22% of GDP (2015 est.) |
+| | 20.7% of GDP (2014 est.) |
+| | 20.7% of GDP (2013 est.) |
+| **Sri Lanka** | 27.6% of GDP (2015 est.) |
+| | 29.5% of GDP (2014 est.) |
+| | 29.8% of GDP (2013 est.) |
+| **Sudan** | 14.9% of GDP (2015 est.) |
+| | 14.9% of GDP (2014 est.) |
+| | 4.3% of GDP (2013 est.) |
+| **Suriname** | 24.2% of GDP (2015 est.) |
+| | 24.5% of GDP (2014 est.) |
+| | 25.7% of GDP (2013 est.) |
+| **Swaziland** | 11.1% of GDP (2015 est.) |
+| | 10.8% of GDP (2014 est.) |
+| | 11.3% of GDP (2013 est.) |
+| **Sweden** | 30.3% of GDP (2015 est.) |
+| | 29.1% of GDP (2014 est.) |
+| | 28.5% of GDP (2013 est.) |
+| **Switzerland** | 33.8% of GDP (2015 est.) |
+| | 33.3% of GDP (2014 est.) |
+| | 35.9% of GDP (2013 est.) |
+| **Syria** | 20% of GDP (2015 est.) |
+| | 18.5% of GDP (2014 est.) |
+| | 14.9% of GDP (2013 est.) |
+| **Taiwan** | 35.2% of GDP (2015 est.) |
+| | 33.6% of GDP (2014 est.) |
+| | 32.1% of GDP (2013 est.) |
+| **Tajikistan** | 11.1% of GDP (2015 est.) |
+| | 15.1% of GDP (2014 est.) |
+| | 16.7% of GDP (2013 est.) |
+| **Tanzania** | 20.6% of GDP (2015 est.) |
+| | 19.7% of GDP (2014 est.) |
+| | 19.1% of GDP (2013 est.) |
+| **Thailand** | 32.1% of GDP (2015 est.) |
+| | 27.9% of GDP (2014 est.) |
+| | 26.3% of GDP (2013 est.) |
+| **Togo** | 15.8% of GDP (2015 est.) |
+| | 11.2% of GDP (2014 est.) |
+| | 10% of GDP (2013 est.) |
+| **Trinidad and Tobago** | 8% of GDP (2015 est.) |
+| | 18.1% of GDP (2014 est.) |
+| | 20.7% of GDP (2013 est.) |
+| **Tunisia** | 21.2% of GDP (2015 est.) |
+| | 24.1% of GDP (2014 est.) |
+| | 24.2% of GDP (2013 est.) |
+| **Turkey** | 18.6% of GDP (2015 est.) |
+| | 20.1% of GDP (2014 est.) |
+| | 20.7% of GDP (2013 est.) |
+| **Turkmenistan** | 20.1% of GDP (2015 est.) |
+| | 9.6% of GDP (2014 est.) |
+| | -22.1% of GDP (2013 est.) |
+| **Uganda** | 15% of GDP (2015 est.) |
+| | 16.4% of GDP (2014 est.) |
+| | 19.9% of GDP (2013 est.) |
+| **Ukraine** | 15.1% of GDP (2015 est.) |
+| | 10% of GDP (2014 est.) |
+| | 9.5% of GDP (2013 est.) |
+| **United Arab Emirates** | 33.9% of GDP (2015 est.) |
+| | 39% of GDP (2014 est.) |
+| | 42.3% of GDP (2013 est.) |
+| **United Kingdom** | 12.4% of GDP (2015 est.) |
+| | 12.4% of GDP (2014 est.) |
+| | 12.2% of GDP (2013 est.) |
+| **United States** | 14.1% of GDP (2015 est.) |
+| | 14.2% of GDP (2014 est.) |
+| | 13.7% of GDP (2013 est.) |
+| **Uruguay** | 16.1% of GDP (2015 est.) |
+| | 16.4% of GDP (2014 est.) |
+| | 18.5% of GDP (2013 est.) |
+| **Uzbekistan** | 27.4% of GDP (2015 est.) |
+| | 28.4% of GDP (2014 est.) |
+| | 27.5% of GDP (2013 est.) |
+| **Venezuela** | 16% of GDP (2015 est.) |
+| | 25.7% of GDP (2014 est.) |
+| | 28.5% of GDP (2013 est.) |
+| **Vietnam** | 28.5% of GDP (2015 est.) |
+| | 31.9% of GDP (2014 est.) |
+| | 31.2% of GDP (2013 est.) |
+| **West Bank** | 7.8% of GDP (2014 est.) |
+| | 9.5% of GDP (2013 est.) |
+| | 5% of GDP (2012 est.) |
+| | *note:* includes Gaza Strip |
+| **World** | 26.6% of GDP (2015 est.) |
+| | 26.9% of GDP (2014 est.) |
+| | 26.7% of GDP (2013 est.) |
+| **Yemen** | -1% of GDP (2015 est.) |
+| | 12.2% of GDP (2014 est.) |
+| | 9.7% of GDP (2013 est.) |
+| **Zambia** | 20.4% of GDP (2015 est.) |
+| | 26.3% of GDP (2014 est.) |
+| | 26.3% of GDP (2013 est.) |
+| **Zimbabwe** | -0.4% of GDP (2015 est.) |
+| | 0.6% of GDP (2014 est.) |
+| | -3.3% of GDP (2013 est.) |

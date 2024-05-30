@@ -1,0 +1,420 @@
+FIELD LISTING :: PORTS AND TERMINALS
+
+| Country | PORTS AND TERMINALS |
+| --- | --- |
+| **Afghanistan** | *river port(s):* Kheyrabad, Shir Khan |
+| **Albania** | *major seaport(s):* Durres, Sarande, Shengjin, Vlore |
+| **Algeria** | *major seaport(s):* Algiers, Annaba, Arzew, Bejaia, Djendjene, Jijel, Mostaganem, Oran, Skikda |
+| | *LNG terminal(s) (export):* Arzew, Bethioua, Skikda |
+| **American Samoa** | *major seaport(s):* Pago Pago |
+| **Angola** | *major seaport(s):* Cabinda, Lobito, Luanda, Namibe |
+| | *LNG terminal(s) (export):* Angola Soyo |
+| **Anguilla** | *major seaport(s):* Blowing Point, Road Bay |
+| **Antarctica** | McMurdo Station; most coastal stations have sparse and intermittent offshore anchorages; a few stations have basic wharf facilities |
+| **Antigua and Barbuda** | *major seaport(s):* Saint John's |
+| **Arctic Ocean** | *major seaport(s):* Churchill (Canada), Murmansk (Russia), Prudhoe Bay (US) |
+| **Argentina** | *major seaport(s):* Bahia Blanca, Buenos Aires, La Plata, Punta Colorada, Ushuaia |
+| | *river port(s):* Arroyo Seco, Rosario, San Lorenzo-San Martin (Parana) |
+| | *container port(s) (TEUs):* Buenos Aires (1,851,701) |
+| | *LNG terminal(s) (import):* Bahia Blanca |
+| **Aruba** | *major seaport(s):* Barcadera, Oranjestad |
+| | *oil terminal(s):* Sint Nicolaas |
+| | *cruise port(s):* Oranjestad |
+| **Ashmore and Cartier Islands** | none; offshore anchorage only |
+| **Atlantic Ocean** | *major seaport(s):* Alexandria (Egypt), Algiers (Algeria), Antwerp (Belgium), Barcelona (Spain), Buenos Aires (Argentina), Casablanca (Morocco), Colon (Panama), Copenhagen (Denmark), Dakar (Senegal), Gdansk (Poland), Hamburg (Germany), Helsinki (Finland), Las Palmas (Canary Islands, Spain), Le Havre (France), Lisbon (Portugal), London (UK), Marseille (France), Montevideo (Uruguay), Montreal (Canada), Naples (Italy), New Orleans (US), New York (US), Oran (Algeria), Oslo (Norway), Peiraiefs or Piraeus (Greece), Rio de Janeiro (Brazil), Rotterdam (Netherlands), Saint Petersburg (Russia), Stockholm (Sweden) |
+| **Australia** | *major seaport(s):* Brisbane, Cairns, Darwin, Fremantle, Geelong, Gladstone, Hobart, Melbourne, Newcastle, Port Adelaide, Port Kembla, Sydney |
+| | *dry bulk cargo port(s):* Dampier (iron ore), Dalrymple Bay (coal), Hay Point (coal), Port Hedland (iron ore), Port Walcott (iron ore) |
+| | *container port(s) (TEUs):* Brisbane (1,004,983), Melbourne (2,467,967), Sydney (2,028,074)(2011) |
+| | *LNG terminal(s) (export):* Darwin, Karratha, Burrup, Curtis Island |
+| **Austria** | *river port(s):* Enns, Krems, Linz, Vienna (Danube) |
+| **Azerbaijan** | *major seaport(s):* Baku (Baki) located on the Caspian Sea |
+| **Bahamas, The** | *major seaport(s):* Freeport, Nassau, South Riding Point |
+| | *container port(s) (TEUs):* Freeport (1,116,272)(2011) |
+| | *cruise port(s):* Nassau |
+| **Bahrain** | *major seaport(s):* Mina' Salman, Sitrah |
+| **Bangladesh** | *major seaport(s):* Chittagong |
+| | *river port(s):* Mongla Port (Sela River) |
+| | *container port(s):* Chittagong (1,392,104) (2011) |
+| **Barbados** | *major seaport(s):* Bridgetown |
+| **Belarus** | *river port(s):* Mazyr (Prypyats') |
+| **Belgium** | *major seaport(s):* Oostende, Zeebrugge |
+| | *river port(s):* Antwerp, Gent (Schelde River); Brussels (Senne River); Liege (Meuse River) |
+| | *container port(s) (TEUs):* Antwerp (8,664,243), Zeebrugge (2,207,257) (2011) |
+| | *LNG terminal(s) (import):* Zeebrugge |
+| **Belize** | *major seaport(s):* Belize City, Big Creek |
+| **Benin** | *major seaport(s):* Cotonou |
+| | *LNG terminal(s) (import):* Cotonou |
+| **Bermuda** | *major seaport(s):* Hamilton, Ireland Island, Saint George |
+| **Bolivia** | *river port(s):* Puerto Aguirre (Paraguay/Parana) |
+| | *note:* Bolivia has free port privileges in maritime ports in Argentina, Brazil, Chile, and Paraguay |
+| **Bosnia and Herzegovina** | *river port(s):* Bosanska Gradiska, Bosanski Brod, Bosanski Samac, Brcko, Orasje (Sava River) |
+| **Bouvet Island** | none; offshore anchorage only |
+| **Brazil** | *major seaport(s):* Belem, Paranagua, Rio Grande, Rio de Janeiro, Santos, Sao Sebastiao, Tubarao |
+| | *river port(s):* Manaus (Amazon) |
+| | *dry bulk cargo port(s):* Sepetiba ore terminal, Tubarao |
+| | *container ports (TEUs):* Santos (2,985,922), Itajai (983,985)(2011) |
+| | *oil terminal(s):* DTSE/Gegua oil terminal, Ilha Grande (Gebig), Guaiba Island terminal, Guamare oil terminal |
+| | *LNG terminal(s) (import):* Pecem, Rio de Janiero |
+| **British Indian Ocean Territory** | *major seaport(s):* Diego Garcia |
+| **British Virgin Islands** | *major seaport(s):* Road Harbor |
+| **Brunei** | *major seaport(s):* Muara |
+| | *oil terminal(s):* Lumut, Seria |
+| | *LNG terminal (export):* Lumut |
+| **Bulgaria** | *major seaport(s):* Burgas, Varna (Black Sea) |
+| **Burma** | *major seaport(s):* Mawlamyine (Moulmein), Sittwe |
+| | *river port(s):* Rangoon (Yangon) (Rangoon River) |
+| **Burundi** | *lake port(s):* Bujumbura (Lake Tanganyika) |
+| **Cabo Verde** | *major seaport(s):* Porto Grande |
+| **Cambodia** | *major seaport(s):* Sihanoukville (Kampong Saom) |
+| | *river port(s):* Phnom Penh (Mekong) |
+| **Cameroon** | *river port(s):* Douala (Wouri); Garoua (Benoue) |
+| | *oil terminal(s):* Limboh Terminal |
+| **Canada** | *major seaport(s):* Halifax, Saint John (New Brunswick), Vancouver |
+| | *river and lake port(s):* Montreal, Quebec City, Sept-Isles (St. Lawrence); Fraser River Port (Fraser); Hamilton (Lake Ontario) |
+| | *oil terminal(s):* Lower Lakes terminal |
+| | *dry bulk cargo port(s):* Port-Cartier (iron ore and grain), |
+| | *container port(s):* Montreal (1,362,975), Vancouver (2,507,032)(2011) |
+| | *LNG terminal(s) (import):* Saint John |
+| **Cayman Islands** | *major seaport(s):* Cayman Brac, George Town |
+| **Central African Republic** | *river port(s):* Bangui (Oubangui); Nola (Sangha) |
+| **Chile** | *major seaport(s):* Coronel, Huasco, Lirquen, Puerto Ventanas, San Antonio, San Vicente, Valparaiso |
+| | *LNG terminal(s) (import):* Mejillones, Quintero |
+| **China** | *major seaport(s):* Dalian, Ningbo, Qingdao, Qinhuangdao, Shanghai, Shenzhen, Tianjin |
+| | *river port(s):* Guangzhou (Pearl) |
+| | *container port(s) (TEUs):* Dalian (6,400,300), Guangzhou (14,260,400), Ningbo (14,719,200), Qingdao (13,020,100), Shanghai (31,739,000), Shenzhen (22,570,800), Tianjin (11,587,600)(2011) |
+| | *LNG terminal(s) (import):* Fujian, Guangdong, Jiangsu, Shandong, Shanghai, Tangshan, Zhejiang |
+| **Christmas Island** | *major seaport(s):* Flying Fish Cove |
+| **Clipperton Island** | none; offshore anchorage only |
+| **Cocos (Keeling) Islands** | *major seaport(s):* Port Refuge |
+| **Colombia** | *major seaport(s):* Atlantic Ocean (Caribbean) - Cartagena, Santa Marta, Turbo; Pacific Ocean - Buenaventura |
+| | *river port(s):* Barranquilla (Rio Magdalena) |
+| | *oil terminal(s):* Covenas offshore terminal |
+| | *dry bulk cargo port(s):* Puerto Bolivar (coal) |
+| | *container port(s) (TEUs):* Cartagena (1,853,342) |
+| **Comoros** | *major seaport(s):* Moroni, Mutsamudu |
+| **Congo, Democratic Republic of the** | *major seaport(s):* Banana |
+| | *river or lake port(s):* Boma, Bumba, Kinshasa, Kisangani, Matadi, Mbandaka (Congo); Kindu (Lualaba); Bukavu, Goma (Lake Kivu); Kalemie (Lake Tanganyika) |
+| **Congo, Republic of the** | *major seaport(s):* Pointe-Noire |
+| | *river port(s):* Brazzaville (Congo); Impfondo (Oubangi); Ouesso (Sangha); Oyo (Alima) |
+| | *oil terminal(s):* Djeno |
+| **Cook Islands** | *major seaport(s):* Avatiu |
+| **Coral Sea Islands** | none; offshore anchorage only |
+| **Costa Rica** | *major seaport(s):* Atlantic Ocean (Caribbean) - Puerto Limon; Pacific Ocean - Caldera |
+| **Cote d'Ivoire** | *major seaport(s):* Abidjan, San-Pedro |
+| | *oil terminal(s):* Espoir Offshore Terminal |
+| **Croatia** | *major seaport(s):* Ploce, Rijeka, Sibernik, Split |
+| | *river port(s):* Vukovar (Danube) |
+| | *oil terminal(s):* Omisalj |
+| **Cuba** | *major seaport(s):* Antilla, Cienfuegos, Guantanamo, Havana, Matanzas, Mariel, Nuevitas Bay, Santiago de Cuba |
+| **Curacao** | *major seaport(s):* Willemstad |
+| | *oil terminal(s):* Bullen Baai (Curacao Terminal) |
+| | *bulk cargo port(s):* Fuik Bay (phosphate rock) |
+| **Cyprus** | major seaport(s): area under government control: Larnaca, Limassol, Vasilikos; area administered by Turkish Cypriots: Famagusta, Kyrenia |
+| **Czechia** | *river port(s):* Prague (Vltava); Decin, Usti nad Labem (Elbe) |
+| **Denmark** | *major seaport(s):* Baltic Sea - Aarhus, Copenhagen, Fredericia, Kalundborg; North Sea - Esbjerg, |
+| | *river port(s):* Aalborg (Langerak) |
+| | *dry bulk cargo port(s):* Ensted (coal) |
+| | *cruise port(s):* Copenhagen |
+| **Djibouti** | *major seaport(s):* Djibouti |
+| **Dominica** | *major seaport(s):* Portsmouth, Roseau |
+| **Dominican Republic** | *major seaport(s):* Puerto Haina, Puerto Plata, Santo Domingo |
+| | *oil terminal(s):* Punta Nizao oil terminal |
+| | *LNG terminal(s) (import):* Andres LNG terminal (Boca Chica) |
+| **Ecuador** | *major seaport(s):* Esmeraldas, Manta, Puerto Bolivar |
+| | *river port(s):* Guayaquil (Guayas) |
+| | *container port(s) (TEUs):* Guayaquil (1,405,762) |
+| **Egypt** | *major seaport(s):* Mediterranean Sea - Alexandria, Damietta, El Dekheila, Port Said; Gulf of Suez - Suez |
+| | *oil terminal(s):* Ain Sukhna terminal, Sidi Kerir terminal |
+| | *container port(s) (TEUs):* Alexandria (1,108,826), Port Said (East) (2,617,043), Port Said (West) (1,138,753) |
+| | *LNG terminal(s) (export):* Damietta, Idku (Abu Qir Bay) |
+| **El Salvador** | *major seaport(s):* Puerto Cutuco |
+| | *oil terminal(s):* Acajutla offshore terminal |
+| **Equatorial Guinea** | *major seaport(s):* Bata, Luba, Malabo |
+| | *LNG terminal(s) (export):* Bioko Island |
+| **Eritrea** | *major seaport(s):* Assab, Massawa |
+| **Estonia** | *major seaport(s):* Kuivastu, Kunda, Muuga, Parnu Reid, Sillamae, Tallinn |
+| **Ethiopia** | Ethiopia is landlocked and uses the ports of Djibouti in Djibouti and Berbera in Somalia |
+| **European Union** | *major port(s):* Antwerp (Belgium), Barcelona (Spain), Braila (Romania), Bremen (Germany), Burgas (Bulgaria), Constanta (Romania), Copenhagen (Denmark), Galati (Romania), Gdansk (Poland), Hamburg (Germany), Helsinki (Finland), Las Palmas (Canary Islands, Spain), Le Havre (France), Lisbon (Portugal), London (UK), Marseille (France), Naples (Italy), Peiraiefs or Piraeus (Greece), Riga (Latvia), Rotterdam (Netherlands), Split (Croatia), Stockholm (Sweden), Talinn (Estonia), Tulcea (Romania), Varna (Bulgaria) |
+| **Falkland Islands (Islas Malvinas)** | *major seaport(s):* Stanley |
+| **Faroe Islands** | *major seaport(s):* Fuglafjordur, Torshavn, Vagur |
+| **Fiji** | *major seaport(s):* Lautoka, Levuka, Suva |
+| **Finland** | *major seaport(s):* Helsinki, Kotka, Naantali, Porvoo, Raahe, Rauma |
+| **France** | *major seaport(s):* Brest, Calais, Dunkerque, Le Havre, Marseille, Nantes, |
+| | *river port(s):* Paris, Rouen (Seine); Strasbourg (Rhine); Bordeaux (Garronne) |
+| | *container port(s):* Le Havre (2,215,262)(2011) |
+| | *cruise/ferry port(s):* Calais, Cherbourg, Le Havre |
+| | *LNG terminal(s) (import):* Fos Cavaou, Fos Tonkin, Montoir de Bretagne |
+| **French Polynesia** | *major seaport(s):* Papeete |
+| **French Southern and Antarctic Lands** | none; offshore anchorage only |
+| **Gabon** | *major seaport(s):* Libreville, Owendo, Port-Gentil |
+| | *oil terminal(s):* Gamba, Lucina |
+| **Gambia, The** | *major seaport(s):* Banjul |
+| **Gaza Strip** | *major seaport(s):* Gaza |
+| **Georgia** | *major seaport(s):* Black Sea - Bat'umi, P'ot'i |
+| **Germany** | *major seaport(s):* Baltic Sea - Rostock; North Sea - Wilhelmshaven |
+| | *river port(s):* Bremen (Weser); Bremerhaven (Geeste); Duisburg, Karlsruhe, Neuss-Dusseldorf (Rhine); Brunsbuttel, Hamburg (Elbe); Lubeck (Wakenitz) |
+| | *oil terminal(s):* Brunsbuttel Canal terminals |
+| | *container port(s):* Bremen/Bremerhaven (5,915,487), Hamburg (9,014,165) (2011) |
+| | *LNG terminal(s) (import):* Hamburg |
+| **Ghana** | *major seaport(s):* Takoradi, Tema |
+| **Gibraltar** | *major seaport(s):* Gibraltar |
+| **Greece** | *major seaport(s):* Aspropyrgos, Pachi, Piraeus, Thessaloniki |
+| | *oil terminal(s):* Agioi Theodoroi |
+| | *LNG terminal(s) (import):* Revithoussa |
+| **Greenland** | *major seaport(s):* Sisimiut |
+| **Grenada** | *major seaport(s):* Saint George's |
+| **Guam** | *major seaport(s):* Apra Harbor |
+| **Guatemala** | *major seaport(s):* Puerto Quetzal, Santo Tomas de Castilla |
+| **Guernsey** | *major seaport(s):* Braye Bay, Saint Peter Port |
+| **Guinea-Bissau** | *major seaport(s):* Bissau, Buba, Cacheu, Farim |
+| **Guinea** | *major seaport(s):* Conakry, Kamsar |
+| **Guyana** | *major seaport(s):* Georgetown |
+| **Haiti** | *major seaport(s):* Cap-Haitien, Gonaives, Jacmel, Port-au-Prince |
+| **Heard Island and McDonald Islands** | none; offshore anchorage only |
+| **Honduras** | *major seaport(s):* La Ceiba, Puerto Cortes, San Lorenzo, Tela |
+| **Hong Kong** | *major seaport(s):* Hong Kong |
+| **Howland Island** | none; offshore anchorage only; note - there is one small boat landing area along the middle of the west coast |
+| **Hungary** | *river port(s):* Baja, Csepel (Budapest), Dunaujvaros, Gyor-Gonyu, Mohacs (Danube) |
+| **Iceland** | *major seaport(s):* Grundartangi, Hafnarfjordur, Reykjavik |
+| **India** | *major seaport(s):* Chennai, Jawaharal Nehru Port, Kandla, Kolkata (Calcutta), Mumbai (Bombay), Sikka, Vishakhapatnam |
+| | *container port(s) (TEUs):* Chennai (1,558,343), Jawaharal Nehru Port (4,307,622) |
+| | *LNG terminal(s) (import):* Dabhol, Dahej, Hazira |
+| **Indian Ocean** | *major seaport(s):* Chennai (Madras, India); Colombo (Sri Lanka); Durban (South Africa); Jakarta (Indonesia); Kolkata (Calcutta, India); Melbourne (Australia); Mumbai (Bombay, India); Richards Bay (South Africa) |
+| **Indonesia** | *major seaport(s):* Banjarmasin, Belawan, Kotabaru, Krueg Geukueh, Palembang, Panjang, Sungai Pakning, Tanjung Perak, Tanjung Priok |
+| | *container port(s) (TEUs):* Tanjung Priok (5,617,562) |
+| | *LNG terminal(s) (export):* Bontang, Tangguh |
+| | *LNG terminal(s) (import):* Arun, Lampung, West Java |
+| **Iran** | *major seaport(s):* Bandar-e Asaluyeh, Bandar Abbas, Bandar Emam |
+| | *container port(s) (TEUs):* Bandar Abbas (2,752,460) |
+| **Iraq** | *river port(s):* Al Basrah (Shatt al-'Arab); Khawr az Zubayr, Umm Qasr (Khawr az Zubayr waterway) |
+| **Ireland** | *major seaport(s):* Dublin, Shannon Foynes |
+| | *river port(s):* Cork (Lee), Waterford (Suir) |
+| | *container port(s) (TEUs):* Dublin (1,931,001) |
+| **Isle of Man** | *major seaport(s):* Douglas, Ramsey |
+| **Israel** | *major seaport(s):* Ashdod, Elat (Eilat), Hadera, Haifa |
+| | *container port(s) TEUs):* Ashdod (1,176,000), Haifa (1,238,000) |
+| **Italy** | *major seaport(s):* Augusta, Cagliari, Genoa, Livorno, Taranto, Trieste, Venice |
+| | *oil terminals:* Melilli (Santa Panagia) oil terminal, Sarroch oil terminal |
+| | *container port(s) (TEUs):* Genoa (1,847,648), Gioia Tauro (2,264,798), La Spezia (1,307,274) |
+| | *LNG terminal(s) (import):* La Spezia, Panigaglia, Porto Levante |
+| **Jamaica** | *major seaport(s):* Discovery Bay (Port Rhoades), Kingston, Montego Bay, Port Antonio, Port Esquivel, Port Kaiser, Rocky Point |
+| | *container port(s) (TEUs):* Kingston (1,724,928) |
+| **Jan Mayen** | none; offshore anchorage only |
+| **Japan** | *major seaport(s):* Chiba, Kawasaki, Kobe, Mizushima, Moji, Nagoya, Osaka, Tokyo, Tomakomai, Yokohama |
+| | *container port(s) (TEUs):* Kobe (2,725,304), Nagoya (2,471,821), Osaka (2,172,797), Tokyo (4,416,119), Yokohama (2,992,517) |
+| | *LNG terminal(s) (import):* Chita, Fukwoke, Futtsu, Hachinone, Hakodate, Hatsukaichi, Higashi Ohgishima, Higashi Niigata, Himeiji, Joetsu, Kagoshima, Kawagoe, Kita Kyushu, Mizushima, Nagasaki, Naoetsu, Negishi, Ohgishima, Oita, Sakai, Sakaide, Senboku, Shimizu, Shin Minato, Sodegaura, Tobata, Yanai, Yokkaichi; Okinawa - Nakagusuku |
+| **Jarvis Island** | none; offshore anchorage only; note - there is one small boat landing area in the middle of the west coast and another near the southwest corner of the island |
+| **Jersey** | *major seaport(s):* Gorey, Saint Aubin, Saint Helier |
+| **Johnston Atoll** | Johnston Island |
+| **Jordan** | *major seaport(s):* Al 'Aqabah |
+| **Kazakhstan** | *major seaport(s):* Caspian Sea - Aqtau (Shevchenko), Atyrau (Gur'yev) |
+| | *river port(s):* Oskemen (Ust-Kamenogorsk), Pavlodar, Semey (Semipalatinsk) (Irtysh River) |
+| **Kenya** | *major seaport(s):* Kisumu, Mombasa |
+| | *LNG terminal(s) (import):* Mombasa |
+| **Kingman Reef** | none; offshore anchorage only |
+| **Kiribati** | *major seaport(s):* Betio (Tarawa Atoll), Canton Island, English Harbor |
+| **Korea, North** | *major seaport(s):* Ch'ongjin, Haeju, Hungnam (Hamhung), Namp'o, Senbong, Songnim, Sonbong (formerly Unggi), Wonsan |
+| **Korea, South** | *major seaport(s):* Busan, Incheon, Gunsan, Kwangyang, Mokpo, Pohang, Ulsan, Yeosu |
+| | *container port(s) (TEUs):* Busan (16,163,842), Kwangyang (2,061,958), Incheon (1,924,644) |
+| | *LNG terminal(s) (import):* Incheon, Kwangyang, Pyeongtaek, Samcheok, Tongyeong, Yeosu |
+| **Kuwait** | *major seaport(s):* Ash Shu'aybah, Ash Shuwaykh, Az Zawr (Mina' Sa'ud), Mina' 'Abd Allah, Mina' al Ahmadi |
+| **Kyrgyzstan** | *lake port(s):* Balykchy (Ysyk-Kol or Rybach'ye)(Lake Ysyk-Kol) |
+| **Latvia** | *major seaport(s):* Riga, Ventspils |
+| **Lebanon** | *major seaport(s):* Beirut, Tripoli |
+| | *container port(s) (TEUs):* Beirut (1,034,249) |
+| **Liberia** | *major seaport(s):* Buchanan, Monrovia |
+| **Libya** | *major seaport(s):* Marsa al Burayqah (Marsa el Brega), Tripoli |
+| | *oil terminal(s):* Az Zawiyah, Ra's Lanuf |
+| | *LNG terminal (export):* Marsa el Brega |
+| **Lithuania** | *major seaport(s):* Klaipeda |
+| | *oil terminals:* Butinge oil terminal |
+| | *LNG terminal(s) (import):* Klaipeda |
+| **Luxembourg** | *river port(s):* Mertert (Moselle) |
+| **Macau** | *major seaport(s):* Macau |
+| **Madagascar** | *major seaport(s):* Antsiranana (Diego Suarez), Mahajanga, Toamasina, Toliara (Tulear) |
+| **Malawi** | *lake port(s):* Chipoka, Monkey Bay, Nkhata Bay, Nkhotakota, Chilumba (Lake Nyasa) |
+| **Malaysia** | *major seaport(s):* Bintulu, Johor Bahru, George Town (Penang), Port Kelang (Port Klang), Tanjung Pelepas |
+| | *container port(s) (TEUs):* George Town (Penang)(1,202,180), Port Kelang (Port Klang)(9,435,403), Tanjung Pelepas (7,302,461) |
+| | *LNG terminal(s) (export):* Bintulu (Sarawak) |
+| | *LNG terminal(s) (import):* Sungei Udang |
+| **Maldives** | *major seaport(s):* Male |
+| **Mali** | *river port(s):* Koulikoro (Niger) |
+| **Malta** | *major seaport(s):* Marsaxlokk (Malta Freeport), Valletta |
+| | *container port(s) (TEUs):* Marsaxlokk (2,360,000) |
+| **Marshall Islands** | *major seaport(s):* Enitwetak Island, Kwajalein, Majuro |
+| **Mauritania** | *major seaport(s):* Nouadhibou, Nouakchott |
+| **Mauritius** | *major seaport(s):* Port Louis |
+| **Mexico** | *major seaport(s):* Altamira, Coatzacoalcos, Lazaro Cardenas, Manzanillo, Veracruz |
+| | *container port(s) (TEUs):* Manzanillo (1,992,176), Lazaro Cardenas (1,242,777) (2012) |
+| | *oil terminals:* Cayo Arcas terminal, Dos Bocas terminal |
+| | *LNG terminal(s) (import):* Altamira, Ensenada |
+| | *cruise port(s):* Cancun, Cozumel, Ensenada |
+| **Micronesia, Federated States of** | *major seaport(s):* Colonia (Tamil Harbor), Lele Harbor, Pohnepi Harbor |
+| **Midway Islands** | *major seaport(s):* Sand Island |
+| **Monaco** | *major seaport(s):* Monaco |
+| **Montenegro** | *major seaport(s):* Bar |
+| **Montserrat** | *major seaport(s):* Little Bay, Plymouth |
+| **Morocco** | *major seaport(s):* Casablanca, Jorf Lasfar, Mohammedia, Safi, Tangier |
+| | *container port(s) (TEUs):* Tangier (2,093,408) |
+| | *LNG terminal(s) (import):* Jorf Lasfar |
+| **Mozambique** | *major seaport(s):* Beira, Maputo, Nacala |
+| **Namibia** | *major seaport(s):* Luderitz, Walvis Bay |
+| **Nauru** | *major seaport(s):* Nauru |
+| **Navassa Island** | none; offshore anchorage only |
+| **Netherlands** | *major seaport(s):* IJmuiden, Vlissingen |
+| | *river port(s):* Amsterdam (Nordsee Kanaal); Moerdijk (Hollands Diep River); Rotterdam (Rhine River); Terneuzen (Western Scheldt River) |
+| | *container port(s) (TEUs):* Rotterdam (11,876,920) |
+| | *LNG terminal(s) (import):* Rotterdam |
+| **New Caledonia** | *major seaport(s):* Noumea |
+| **New Zealand** | *major seaport(s):* Auckland, Lyttelton, Manukau Harbor, Marsden Point, Tauranga, Wellington |
+| **Nicaragua** | *major seaport(s):* Bluefields, Corinto |
+| **Nigeria** | *major seaport(s):* Bonny Inshore Terminal, Calabar, Lagos |
+| | *LNG terminal(s) (export):* Bonny Island |
+| **Niue** | *major seaport(s):* Alofi |
+| **Norfolk Island** | *major seaport(s):* Kingston |
+| **Northern Mariana Islands** | *major seaport(s):* Saipan, Tinian, Rota |
+| **Norway** | *major seaport(s):* Bergen, Haugesund, Maaloy, Mongstad, Narvik, Sture |
+| | *LNG terminal(s) (export):* Kamoy, Kollsnes, Melkoya Island |
+| | *LNG terminal(s) (import):* Fredrikstad, Mosjoen |
+| **Oman** | *major seaport(s):* Mina' Qabus, Salalah, Suhar |
+| | *container port(s) (TEUs):* Salalah (3,200,000) |
+| | *LNG terminal(s) (export):* Qalhat |
+| **Pacific Ocean** | *major seaport(s):* Bangkok (Thailand), Hong Kong (China), Kao-hsiung (Taiwan), Los Angeles (US), Manila (Philippines), Pusan (South Korea), San Francisco (US), Seattle (US), Shanghai (China), Singapore, Sydney (Australia), Vladivostok (Russia), Wellington (NZ), Yokohama (Japan) |
+| **Pakistan** | *major seaport(s):* Karachi, Port Muhammad Bin Qasim |
+| | *container port(s) (TEUs):* Karachi (1,545,434) |
+| | *LNG terminal(s) (import):* Port Qasim |
+| **Palau** | *major seaport(s):* Koror |
+| **Palmyra Atoll** | West Lagoon |
+| **Panama** | *major seaport(s):* Balboa, Colon, Cristobal |
+| | *container port(s) (TEUs):* Balboa (3,232,265), Colon (2,390,976), Manzanillo (2,391,066) |
+| **Papua New Guinea** | *major seaport(s):* Kimbe, Lae, Madang, Rabaul, Wewak |
+| | *LNG terminal(s) (export):* Port Moresby |
+| **Paracel Islands** | small Chinese port facilities on Woody Island and Duncan Island |
+| **Paraguay** | *river port(s):* Asuncion, Villeta, San Antonio, Encarnacion (Parana) |
+| **Peru** | *major seaport(s):* Callao, Matarani, Paita |
+| | *river port(s):* Iquitos, Pucallpa, Yurimaguas (Amazon) |
+| | *oil terminals:* Conchan oil terminal, La Pampilla oil terminal |
+| | *container port(s) (TEUs):* Callao (1,616,365) |
+| **Philippines** | *major seaport(s):* Batangas, Cagayan de Oro, Cebu, Davao, Liman, Manila |
+| | *container port(s) (TEUs):* Manila (3,342,200) |
+| **Pitcairn Islands** | *major seaport(s):* Adamstown (on Bounty Bay) |
+| **Poland** | *major seaport(s):* Gdansk, Gdynia, Swinoujscie |
+| | *river port(s):* Szczecin (River Oder) |
+| | *LNG terminal(s) (import):* Swinoujscie |
+| **Portugal** | *major seaport(s):* Leixoes, Lisbon, Setubal, Sines |
+| | *LNG terminal (import):* Sines |
+| **Puerto Rico** | *major seaport(s):* Ensenada Honda, Mayaguez, Playa de Guayanilla, Playa de Ponce, San Juan |
+| | *container port(s) (TEUs):* San Juan (1,484,595) |
+| | *LNG terminal(s) (import):* Guayanilla Bay |
+| **Qatar** | *major seaport(s):* Doha, Mesaieed (Umaieed), Ra's Laffan |
+| | *LNG terminal(s) (export):* Ras Laffan |
+| **Romania** | *major seaport(s):* Constanta, Midia |
+| | *river port(s):* Braila, Galati (Galatz), Mancanului (Giurgiu), Tulcea (Danube River) |
+| **Russia** | *major seaport(s):* Kaliningrad, Nakhodka, Novorossiysk, Primorsk, Vostochnyy |
+| | *river port(s):* Saint Petersburg (Neva River) |
+| | *oil terminal(s):* Kavkaz oil terminal |
+| | *container port(s) (TEUs):* Saint Petersburg (2,365,174) |
+| | *LNG terminal(s) (export):* Sakhalin Island |
+| **Rwanda** | *lake port(s):* Cyangugu, Gisenyi, Kibuye (Lake Kivu) |
+| **Saint Barthelemy** | *major seaport(s):* Gustavia |
+| **Saint Helena, Ascension, and Tristan da Cunha** | *major seaport(s):* |
+| | *Saint Helena:* Jamestown |
+| | *Ascension Island:* Georgetown |
+| | *Tristan da Cunha:* Calshot Harbor (Edinburgh) |
+| **Saint Kitts and Nevis** | *major seaport(s):* Basseterre, Charlestown |
+| **Saint Lucia** | *major seaport(s):* Castries, Cul-de-Sac, Vieux-Fort |
+| **Saint Pierre and Miquelon** | *major seaport(s):* Saint-Pierre |
+| **Saint Vincent and the Grenadines** | *major seaport(s):* Kingstown |
+| **Samoa** | *major seaport(s):* Apia |
+| **Sao Tome and Principe** | *major seaport(s):* Sao Tome |
+| **Saudi Arabia** | *major seaport(s):* Ad Dammam, Al Jubayl, Jeddah, Yanbu al Bahr |
+| | *container port(s) (TEUs):* Ad Dammam (1,492,315), Jeddah (4,010,448) |
+| **Senegal** | *major seaport(s):* Dakar |
+| **Serbia** | *river port(s):* Belgrade (Danube) |
+| **Seychelles** | *major seaport(s):* Victoria |
+| **Sierra Leone** | *major seaport(s):* Freetown, Pepel, Sherbro Islands |
+| **Singapore** | *major seaport(s):* Singapore |
+| | *container port(s) (TEUs):* Singapore (31,649,400) |
+| | *LNG terminal(s) (import):* Singapore |
+| **Sint Maarten** | *major seaport(s):* Philipsburg |
+| | *oil terminals:* Coles Bay oil terminal |
+| **Slovakia** | *river port(s):* Bratislava, Komarno (Danube) |
+| **Slovenia** | *major seaport(s):* Koper |
+| **Solomon Islands** | *major seaport(s):* Honiara, Malloco Bay, Viru Harbor, Tulaghi |
+| **Somalia** | *major seaport(s):* Berbera, Kismaayo |
+| **South Africa** | *major seaport(s):* Cape Town, Durban, Port Elizabeth, Richards Bay, Saldanha Bay |
+| | *container port(s) (TEUs):* Durban (2,712,975) |
+| | *LNG terminal(s) (import):* Mossel Bay |
+| **Southern Ocean** | *major seaport(s):* McMurdo, Palmer, and offshore anchorages in Antarctica |
+| | *note:* few ports or harbors exist on the southern side of the Southern Ocean; ice conditions limit use of most to short periods in midsummer; even then some cannot be entered without icebreaker escort; most Antarctic ports are operated by government research stations and, except in an emergency, are not open to commercial or private vessels |
+| **South Georgia and South Sandwich Islands** | *major seaport(s):* Grytviken |
+| **Spain** | *major seaport(s):* Algeciras, Barcelona, Bilbao, Cartagena, Huelva, Tarragona, Valencia (all in Spain); Las Palmas, Santa Cruz de Tenerife (in the Canary Islands) |
+| | *container port(s) (TEUs):* Algeciras (3,608,301), Barcelona (2,033,747), Valencia (4,327,371); Las Palmas (1,287,389) |
+| | *LNG terminal(s) (import):* Barcelona, Bilbao, Cartagena, Huelva, Mugardos, Sagunto |
+| **Spratly Islands** | none; offshore anchorage only |
+| **Sri Lanka** | *major seaport(s):* Colombo |
+| | *container port(s) (TEUs):* Colombo (3,651,963) |
+| **Sudan** | *major seaport(s):* Port Sudan |
+| **Suriname** | *major seaport(s):* Paramaribo, Wageningen |
+| **Svalbard** | *major seaport(s):* Barentsburg, Longyearbyen, Ny-Alesund, Pyramiden |
+| **Sweden** | *major seaport(s):* Brofjorden, Goteborg, Helsingborg, Karlshamn, Lulea, Malmo, Stockholm, Trelleborg, Visby |
+| | *LNG terminal(s) (import):* Brunnsviksholme, Lysekil |
+| **Switzerland** | *river port(s):* Basel (Rhine) |
+| **Syria** | *major seaport(s):* Baniyas, Latakia, Tartus |
+| **Taiwan** | *major seaport(s):* Chilung (Keelung), Kaohsiung, Hualian, Taichung |
+| | *container port(s) (TEUs):* Chilung (Keelung) (1,749,388), Kaohsiung (9,363,289), Taichung (1,383,578) |
+| | *LNG terminal (import):* Yung An (Kaohsiung), Taichung |
+| **Tanzania** | *major seaport(s):* Dar es Salaam, Zanzibar |
+| **Thailand** | *major seaport(s):* Bangkok, Laem Chabang, Map Ta Phut, Prachuap Port, Si Racha |
+| | *container port(s) TEUs):* Bangkok (1,305,229), Laem Chabang (5,731,063) |
+| | *LNG terminal(s) (import):* Map Ta Phut |
+| **Timor-Leste** | *major seaport(s):* Dili |
+| **Togo** | *major seaport(s):* Kpeme, Lome |
+| **Tokelau** | none; offshore anchorage only |
+| **Tonga** | *major seaport(s):* Nuku'alofa, Neiafu, Pangai |
+| **Trinidad and Tobago** | *major seaport(s):* Point Fortin, Point Lisas, Port of Spain, Scarborough |
+| | *oil terminals:* Galeota Point terminal |
+| | *LNG terminal(s) (export):* Port Fortin |
+| **Tunisia** | *major seaport(s):* Bizerte, Gabes, Rades, Sfax, Skhira |
+| **Turkey** | *major seaport(s):* Aliaga, Ambarli, Diliskelesi, Eregli, Izmir, Kocaeli (Izmit), Mersin (Icel), Limani, Yarimca |
+| | *container port(s) (TEUs):* Ambarli (2,121,549), Mersin (Icel) (1,126,866) |
+| | *LNG terminal (import):* Izmir Aliaga, Marmara Ereglisi |
+| **Turkmenistan** | *major seaport(s):* Caspian Sea - Turkmenbasy |
+| **Turks and Caicos Islands** | *major seaport(s):* Cockburn Harbour, Grand Turk, Providenciales |
+| **Tuvalu** | *major seaport(s):* Funafuti |
+| **Uganda** | *lake port(s):* Entebbe, Jinja, Port Bell (Lake Victoria) |
+| **Ukraine** | *major seaport(s):* Feodosiya (Theodosia), Illichivsk, Mariupol', Mykolayiv, Odesa, Yuzhnyy |
+| **United Arab Emirates** | *major seaport(s):* Al Fujayrah, Mina' Jabal 'Ali (Dubai), Khor Fakkan (Khawr Fakkan), Mubarraz Island, Mina' Rashid (Dubai), Mina' Saqr (Ra's al Khaymah) |
+| | *container port(s) (TEUs):* Dubai Port (12,617,595), Khor Fakkan (Khawr Fakkan) (3,234,101) |
+| | *LNG terminal(s) (export):* Das Island |
+| **United Kingdom** | *major seaport(s):* Dover, Felixstowe, Immingham, Liverpool, London, Southampton, Teesport (England); Forth Ports (Scotland); Milford Haven (Wales) |
+| | *oil terminals:* Fawley Marine terminal, Liverpool Bay terminal (England); Braefoot Bay terminal, Finnart oil terminal, Hound Point terminal (Scotland) |
+| | *container port(s) (TEUs):* Felixstowe (3,248,592), London (1,932,000), Southampton (1,324,581) |
+| | *LNG terminal(s) (import):* Isle of Grain, Milford Haven, Teesside |
+| **United States Pacific Island Wildlife Refuges** | *major seaport(s):* |
+| | *Baker, Howland, and Jarvis Islands, and Kingman Reef:* none; offshore anchorage only |
+| | *Johnston Atoll:* Johnston Island |
+| | *Midway Islands:* Sand Island |
+| | *Palmyra Atoll:* West Lagoon |
+| **United States** | *cargo ports (tonnage):* Baton Rouge, Corpus Christi, Hampton Roads, Houston, Long Beach, Los Angeles, New Orleans, New York, Plaquemines, Tampa, Texas City |
+| | *container port(s) (TEUs):* Hampton Roads (1,918,029), Houston (1,866,450), Long Beach (6,061,091), Los Angeles (7,940,511), New York/New Jersey (5,503,485), Oakland (2,342,504), Savannah (2,944,678), Seattle (2,033,535)(2011) |
+| | *cruise departure ports (passengers):* Miami (2,032,000), Port Everglades (1,277,000), Port Canaveral (1,189,000), Seattle (430,000), Long Beach (415,000) (2009) |
+| | *oil terminals:* LOOP terminal, Haymark terminal |
+| | *LNG terminal(s) (import):* Cove Point (MD), Elba Island (GA), Everett (MA), Freeport (TX), Golden Pass (TX), Hackberry (LA), Lake Charles (LA), Neptune (offshore), Northeast Gateway (offshore), Pascagoula (MS), Sabine Pass (TX) |
+| | *LNG terminal(s) (export):* Kenai (AK) |
+| **Uruguay** | *major seaport(s):* Montevideo |
+| **Uzbekistan** | *river port(s):* Termiz (Amu Darya) |
+| **Vanuatu** | *major seaport(s):* Forari Bay, Luganville (Santo, Espiritu Santo), Port-Vila |
+| **Venezuela** | *major seaport(s):* La Guaira, Maracaibo, Puerto Cabello, Punta Cardon |
+| | *oil terminals:* Jose terminal |
+| **Vietnam** | *major seaport(s):* Cam Pha Port, Da Nang, Haiphong, Phu My, Quy Nhon |
+| | *river port(s):* Ho Chi Minh (Mekong) |
+| | *container port(s) (TEUs):* Haiphong (1,018,794), Saigon New Port (3,071,777) |
+| **Virgin Islands** | *major seaport(s):* Charlotte Amalie, Christiansted, Cruz Bay, Frederiksted, Limetree Bay |
+| **Wake Island** | none; two offshore anchorages for large ships |
+| **Wallis and Futuna** | *major seaport(s):* Leava, Mata-Utu |
+| **Western Sahara** | *major seaport(s):* Ad Dakhla, Laayoune (El Aaiun) |
+| **World** | *top ten container ports as measured by Twenty-Foot Equivalent Units (TEUs) throughput:* Shanghai (China) - 33,617,000; Singapore (Singapore) - 32,578,000; Shenzhen (China) - 23,278,000; Hong Kong (China) - 22,352,000; Busan (South Korea) - 17,611,882; Ningbo (China) - 17,326,800; Qingdao (China) - 15,520,000; Guangzhou (China) - 15,309,200; Dubai (UAE) - 13,600,000; - Tianjin (China) - 12,996,510 (2013) |
+| **Yemen** | *major seaport(s):* Aden, Al Hudaydah, Al Mukalla |
+| **Zambia** | *river port(s):* Mpulungu (Zambezi) |
+| **Zimbabwe** | *river port(s):* Binga, Kariba (Zambezi) |

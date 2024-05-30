@@ -1,0 +1,240 @@
+CIA - The World Factbook -- Field Listing :: Internet hosts   
+
+This entry lists the number of Internet hosts available within a country. An Internet host is a computer connected directly to the Internet; normally an Internet Service Provider's (ISP) computer is a host. Internet users may use either a hard-wired terminal, at an institution with a mainframe computer connected directly to the Internet, or may connect remotely by way of a modem via telephone line, cable, or satellite to the Internet Service Provider's host computer. The number of hosts is one indicator of the extent of Internet connectivity.
+
+| Country | Internet hosts |
+| --- | --- |
+| **Afghanistan** | 47 (2009) |
+| **Albania** | 14,245 (2009) |
+| **Algeria** | 510 (2009) |
+| **American Samoa** | 1,606 (2009) |
+| **Andorra** | 23,421 (2009) |
+| **Angola** | 3,508 (2009) |
+| **Anguilla** | 258 (2009) |
+| **Antarctica** | 7,758 (2009) |
+| **Antigua and Barbuda** | 7,421 (2009) |
+| **Argentina** | 4.906 million (2009) |
+| **Armenia** | 36,354 (2009) |
+| **Aruba** | 25,051 (2009) |
+| **Australia** | 11.756 million (2009) |
+| **Austria** | 2.992 million (2009) |
+| **Azerbaijan** | 7,045 (2009) |
+| **Bahamas, The** | 8,325 (2009) |
+| **Bahrain** | 51,489 (2009) |
+| **Bangladesh** | 4,209 (2009) |
+| **Barbados** | 235 (2009) |
+| **Belarus** | 113,115 (2009) |
+| **Belgium** | 4.367 million (2009) |
+| **Belize** | 3,017 (2009) |
+| **Benin** | 1,155 (2009) |
+| **Bermuda** | 15,548 (2009) |
+| **Bhutan** | 9,096 (2009) |
+| **Bolivia** | 105,031 (2009) |
+| **Bosnia and Herzegovina** | 69,370 (2009) |
+| **Botswana** | 7,341 (2009) |
+| **Bouvet Island** | 0 (2009) |
+| **Brazil** | 15.929 million (2009) |
+| **British Indian Ocean Territory** | 160 (2009) |
+| **British Virgin Islands** | 581 (2009) |
+| **Brunei** | 14,978 (2009) |
+| **Bulgaria** | 706,648 (2009) |
+| **Burkina Faso** | 1,951 (2009) |
+| **Burma** | 128 (2009) |
+| **Burundi** | 191 (2009) |
+| **Cambodia** | 2,480 (2009) |
+| **Cameroon** | 70 (2009) |
+| **Canada** | 7.193 million (2009) |
+| **Cape Verde** | 24 (2009) |
+| **Cayman Islands** | 21,428 (2009) |
+| **Central African Republic** | 21 (2009) |
+| **Chad** | 5 (2009) |
+| **Chile** | 877,817 (2009) |
+| **China** | 14.156 million (2009) |
+| **Christmas Island** | 2,598 (2009) |
+| **Colombia** | 2.217 million (2009) |
+| **Comoros** | 7 (2009) |
+| **Congo, Democratic Republic of the** | 3,015 (2009) |
+| **Congo, Republic of the** | 18 (2009) |
+| **Cook Islands** | 2,480 (2009) |
+| **Costa Rica** | 34,066 (2009) |
+| **Cote d'Ivoire** | 9,822 (2009) |
+| **Croatia** | 1.23 million (2009) |
+| **Cuba** | 3,637 (2009) |
+| **Cyprus** | 185,451 (2009) |
+| **Czech Republic** | 3.233 million (2009) |
+| **Denmark** | 3.991 million (2009) |
+| **Djibouti** | 199 (2009) |
+| **Dominica** | 485 (2009) |
+| **Dominican Republic** | 280,457 (2009) |
+| **Ecuador** | 57,785 (2009) |
+| **Egypt** | 177,443 (2009) |
+| **El Salvador** | 8,177 (2009) |
+| **Equatorial Guinea** | 9 (2009) |
+| **Eritrea** | 1,307 (2009) |
+| **Estonia** | 706,449 (2009) |
+| **Ethiopia** | 136 (2009) |
+| **European Union** | 118,760; note - this sum reflects the number of internet hosts assigned the .eu internet country code (2009) |
+| **Falkland Islands (Islas Malvinas)** | 90 (2009) |
+| **Faroe Islands** | 8,833 (2009) |
+| **Fiji** | 12,747 (2009) |
+| **Finland** | 4.205 million (2009) |
+| **France** | 14.327 million; 14,341,000 (metropolitan France) (2009) |
+| **French Polynesia** | 13,796 (2009) |
+| **French Southern and Antarctic Lands** | 44 (2009) |
+| **Gabon** | 91 (2009) |
+| **Gambia, The** | 895 (2009) |
+| **Georgia** | 104,243 (2009) |
+| **Germany** | 23.796 million (2009) |
+| **Ghana** | 23,850 (2009) |
+| **Gibraltar** | 1,955 (2009) |
+| **Greece** | 2.342 million (2009) |
+| **Greenland** | 14,134 (2009) |
+| **Grenada** | 42 (2009) |
+| **Guam** | 23 (2009) |
+| **Guatemala** | 132,049 (2009) |
+| **Guernsey** | 174 (2009) |
+| **Guinea** | 14 (2009) |
+| **Guinea-Bissau** | 82 (2009) |
+| **Guyana** | 7,116 (2009) |
+| **Haiti** | 9 (2009) |
+| **Holy See (Vatican City)** | 63 (2009) |
+| **Honduras** | 15,691 (2009) |
+| **Hong Kong** | 813,980 (2009) |
+| **Hungary** | 2.261 million (2009) |
+| **Iceland** | 272,201 (2009) |
+| **India** | 3.611 million (2009) |
+| **Indonesia** | 865,309 (2009) |
+| **Iran** | 45,678 (2009) |
+| **Iraq** | 11 (2009) |
+| **Ireland** | 1.303 million (2009) |
+| **Isle of Man** | 478 (2009) |
+| **Israel** | 1.544 million (2009) |
+| **Italy** | 22.152 million (2009) |
+| **Jamaica** | 3,961 (2009) |
+| **Japan** | 47.249 million (2009) |
+| **Jersey** | 219 (2009) |
+| **Jordan** | 28,896 (2009) |
+| **Kazakhstan** | 48,873 (2009) |
+| **Kenya** | 32,913 (2009) |
+| **Kiribati** | 41 (2009) |
+| **Korea, North** | 3 (2009) |
+| **Korea, South** | 301,270 (2009) |
+| **Kuwait** | 2,305 (2009) |
+| **Kyrgyzstan** | 82,496 (2009) |
+| **Laos** | 1,661 (2009) |
+| **Latvia** | 257,414 (2009) |
+| **Lebanon** | 45,352 (2009) |
+| **Lesotho** | 127 (2009) |
+| **Liberia** | 5 (2009) |
+| **Libya** | 11,751 (2009) |
+| **Liechtenstein** | 9,287 (2009) |
+| **Lithuania** | 885,064 (2009) |
+| **Luxembourg** | 220,107 (2009) |
+| **Macau** | 244 (2009) |
+| **Macedonia** | 57,763 (2009) |
+| **Madagascar** | 27,807 (2009) |
+| **Malawi** | 741 (2009) |
+| **Malaysia** | 362,968 (2009) |
+| **Maldives** | 1,732 (2009) |
+| **Mali** | 519 (2009) |
+| **Malta** | 25,139 (2009) |
+| **Marshall Islands** | 6 (2009) |
+| **Mauritania** | 15 (2009) |
+| **Mauritius** | 22,813 (2009) |
+| **Mayotte** | 1 (2009) |
+| **Mexico** | 12.716 million (2009) |
+| **Micronesia, Federated States of** | 1,050 (2009) |
+| **Moldova** | 367,150 (2009) |
+| **Monaco** | 22,608 (2009) |
+| **Mongolia** | 524 (2009) |
+| **Montenegro** | 3,245 (2009) |
+| **Montserrat** | 688 (2009) |
+| **Morocco** | 276,521 (2009) |
+| **Mozambique** | 21,388 (2009) |
+| **Namibia** | 17,840 (2009) |
+| **Nauru** | 47 (2009) |
+| **Nepal** | 43,411 (2009) |
+| **Netherlands** | 12.388 million (2009) |
+| **Netherlands Antilles** | 71,671 (2009) |
+| **New Caledonia** | 22,448 (2009) |
+| **New Zealand** | 2.007 million (2009) |
+| **Nicaragua** | 88,742 (2009) |
+| **Niger** | 253 (2009) |
+| **Nigeria** | 1,098 (2009) |
+| **Niue** | 396,370 (2009) |
+| **Norfolk Island** | 89 (2009) |
+| **Northern Mariana Islands** | 9 (2009) |
+| **Norway** | 3.198 million (2009) |
+| **Oman** | 6,346 (2009) |
+| **Pakistan** | 226,236 (2009) |
+| **Palau** | 2 (2009) |
+| **Panama** | 8,067 (2009) |
+| **Papua New Guinea** | 3,432 (2009) |
+| **Paraguay** | 71,487 (2009) |
+| **Peru** | 274,592 (2009) |
+| **Philippines** | 283,607 (2009) |
+| **Pitcairn Islands** | 26 (2009) |
+| **Poland** | 8.906 million (2009) |
+| **Portugal** | 1.967 million (2009) |
+| **Puerto Rico** | 700 (2009) |
+| **Qatar** | 722 (2009) |
+| **Romania** | 2.188 million (2009) |
+| **Russia** | 7.663 million (2009) |
+| **Rwanda** | 81 (2009) |
+| **Saint Helena** | 343 (2009) |
+| **Saint Kitts and Nevis** | 53 (2009) |
+| **Saint Lucia** | 103 (2009) |
+| **Saint Pierre and Miquelon** | 0 (2009) |
+| **Saint Vincent and the Grenadines** | 181 (2009) |
+| **Samoa** | 13,985 (2009) |
+| **San Marino** | 6,734 (2009) |
+| **Sao Tome and Principe** | 1,345 (2009) |
+| **Saudi Arabia** | 471,217 (2009) |
+| **Senegal** | 227 (2009) |
+| **Serbia** | 181,313 (2009) |
+| **Seychelles** | 324 (2009) |
+| **Sierra Leone** | 273 (2009) |
+| **Singapore** | 864,943 (2009) |
+| **Slovakia** | 867,615 (2009) |
+| **Slovenia** | 88,567 (2009) |
+| **Solomon Islands** | 4,067 (2009) |
+| **Somalia** | 0 (2009) |
+| **South Africa** | 1.73 million (2009) |
+| **South Georgia and South Sandwich Islands** | 363 (2009) |
+| **Spain** | 3.537 million (2009) |
+| **Sri Lanka** | 6,090 (2009) |
+| **Sudan** | 48 (2009) |
+| **Suriname** | 162 (2009) |
+| **Swaziland** | 2,609 (2009) |
+| **Sweden** | 3.886 million (2009) |
+| **Switzerland** | 3.697 million (2009) |
+| **Syria** | 7,879 (2009) |
+| **Taiwan** | 5.704 million (2009) |
+| **Tajikistan** | 987 (2009) |
+| **Tanzania** | 24,724 (2009) |
+| **Thailand** | 1.231 million (2009) |
+| **Timor-Leste** | 169 (2009) |
+| **Togo** | 784 (2009) |
+| **Tokelau** | 360 (2009) |
+| **Tonga** | 20,107 (2009) |
+| **Trinidad and Tobago** | 162,849 (2009) |
+| **Tunisia** | 406 (2009) |
+| **Turkey** | 2.961 million (2009) |
+| **Turkmenistan** | 755 (2009) |
+| **Turks and Caicos Islands** | 9,445 (2009) |
+| **Tuvalu** | 103,041 (2009) |
+| **Uganda** | 6,757 (2009) |
+| **Ukraine** | 706,485 (2009) |
+| **United Arab Emirates** | 379,106 (2009) |
+| **United Kingdom** | 9.322 million (2009) |
+| **United States** | *383 million (2009); note - the US Internet total host count includes the following top level domain host addresses:* .us, .com, .edu, .gov, .mil, .net, and .org |
+| **Uruguay** | 498,232 (2009) |
+| **Uzbekistan** | 50,228 (2009) |
+| **Vanuatu** | 1,023 (2009) |
+| **Venezuela** | 155,139 (2009) |
+| **Vietnam** | 170,689 (2009) |
+| **Virgin Islands** | 8,726 (2009) |
+| **Wallis and Futuna** | 1,480 (2009) |
+| **Yemen** | 242 (2009) |
+| **Zambia** | 14,951 (2009) |
+| **Zimbabwe** | 29,094 (2009) |

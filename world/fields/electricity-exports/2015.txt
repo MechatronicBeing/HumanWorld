@@ -1,0 +1,225 @@
+FIELD LISTING :: ELECTRICITY - EXPORTS
+
+This entry is the total exported electricity in kilowatt-hours.
+
+| Country | ELECTRICITY - EXPORTS(KWH) |
+| --- | --- |
+| **Afghanistan** | 0 kWh (2013 est.) |
+| **Albania** | 288.5 million kWh (2014 est.) |
+| **Algeria** | 985 million kWh (2012 est.) |
+| **American Samoa** | 0 kWh (2013 est.) |
+| **Andorra** | 0 kWh (2012 est.) |
+| **Angola** | 0 kWh (2013 est.) |
+| **Antigua and Barbuda** | 0 kWh (2013 est.) |
+| **Argentina** | 506 million kWh (2012 est.) |
+| **Armenia** | 1.36 billion kWh (2012 est.) |
+| **Aruba** | 0 kWh (2013 est.) |
+| **Australia** | 0 kWh (2013 est.) |
+| **Austria** | 17.69 billion kWh (2013 est.) |
+| **Azerbaijan** | 805 million kWh (2011 est.) |
+| **Bahamas, The** | 0 kWh (2013 est.) |
+| **Bahrain** | 190 million kWh (2012 est.) |
+| **Bangladesh** | 0 kWh (2013 est.) |
+| **Barbados** | 0 kWh (2013 est.) |
+| **Belarus** | 3.704 billion kWh (2013 est.) |
+| **Belgium** | 7.603 billion kWh (2013 est.) |
+| **Belize** | 0 kWh (2013 est.) |
+| **Benin** | 0 kWh (2013 est.) |
+| **Bermuda** | 0 kWh (2015 est.) |
+| **Bhutan** | 5.625 billion kWh (2013 est.) |
+| **Bolivia** | 0 kWh (2013 est.) |
+| **Bosnia and Herzegovina** | 5.097 billion kWh (2013 est.) |
+| **Botswana** | 0 kWh (2013 est.) |
+| **Brazil** | 467 million kWh (2013 est.) |
+| **British Virgin Islands** | 0 kWh (2013 est.) |
+| **Brunei** | 0 kWh (2013 est.) |
+| **Bulgaria** | 6.2 billion kWh (2013 est.) |
+| **Burkina Faso** | 0 kWh (2013 est.) |
+| **Burma** | 0 kWh (2013 est.) |
+| **Burundi** | 0 kWh (2013 est.) |
+| **Cabo Verde** | 0 kWh (2013 est.) |
+| **Cambodia** | 0 kWh (2013 est.) |
+| **Cameroon** | 0 kWh (2013 est.) |
+| **Canada** | 62.33 billion kWh (2013 est.) |
+| **Cayman Islands** | 0 kWh (2013 est.) |
+| **Central African Republic** | 0 kWh (2013 est.) |
+| **Chad** | 0 kWh (2013 est.) |
+| **Chile** | 0 kWh (2013 est.) |
+| **China** | 18.16 billion kWh (2014) |
+| **Colombia** | 236 million kWh (2012 est.) |
+| **Comoros** | 0 kWh (2013 est.) |
+| **Congo, Democratic Republic of the** | 171 million kWh (2011 est.) |
+| **Congo, Republic of the** | 0 kWh (2013 est.) |
+| **Cook Islands** | 0 kWh (2013 est.) |
+| **Costa Rica** | 402 million kWh (2012 est.) |
+| **Cote d'Ivoire** | 615 million kWh (2011 est.) |
+| **Croatia** | 2.866 billion kWh (2014 est.) |
+| **Cuba** | 0 kWh (2013 est.) |
+| **Curacao** | 0 kWh (2009 est.) |
+| **Cyprus** | 0 kWh (2013 est.) |
+| **Czech Republic** | 27.46 billion kWh (2013 est.) |
+| **Denmark** | 10.38 billion kWh (2013 est.) |
+| **Djibouti** | 0 kWh (2013 est.) |
+| **Dominica** | 0 kWh (2013 est.) |
+| **Dominican Republic** | 0 kWh (2013 est.) |
+| **Ecuador** | 12 million kWh (2012 est.) |
+| **Egypt** | 1.679 billion kWh (2012 est.) |
+| **El Salvador** | 78 million kWh (2012 est.) |
+| **Equatorial Guinea** | 0 kWh (2013 est.) |
+| **Eritrea** | 0 kWh (2013 est.) |
+| **Estonia** | 6.301 billion kWh (2013 est.) |
+| **Ethiopia** | 0 kWh (2013 est.) |
+| **European Union** | 343.9 billion kWh (2012 est.) |
+| **Falkland Islands (Islas Malvinas)** | 0 kWh (2013 est.) |
+| **Faroe Islands** | 0 kWh (2013 est.) |
+| **Fiji** | 0 kWh (2013 est.) |
+| **Finland** | 1.878 billion kWh (2013 est.) |
+| **France** | 59.95 billion kWh (2013 est.) |
+| **French Polynesia** | 0 kWh (2013 est.) |
+| **Gabon** | 0 kWh (2013 est.) |
+| **Gambia, The** | 0 kWh (2013 est.) |
+| **Gaza Strip** | 0 kWh (2011 est.) |
+| **Georgia** | 930 million kWh (2011 est.) |
+| **Germany** | 71.43 billion kWh (2013 est.) |
+| **Ghana** | 122 million kWh (2013 est.) |
+| **Gibraltar** | 0 kWh (2013 est.) |
+| **Greece** | 2.602 billion kWh (2013 est.) |
+| **Greenland** | 0 kWh (2013 est.) |
+| **Grenada** | 0 kWh (2013 est.) |
+| **Guam** | 0 kWh (2013 est.) |
+| **Guatemala** | 346 million kWh (2012 est.) |
+| **Guinea-Bissau** | 0 kWh (2013 est.) |
+| **Guinea** | 0 kWh (2013 est.) |
+| **Guyana** | 0 kWh (2013 est.) |
+| **Haiti** | 0 kWh (2013 est.) |
+| **Honduras** | 237 million kWh (2011 est.) |
+| **Hong Kong** | 1.65 billion kWh (2013 est.) |
+| **Hungary** | 4.76 billion kWh (2013 est.) |
+| **Iceland** | 0 kWh (2013 est.) |
+| **India** | 128 million kWh (2011 est.) |
+| **Indonesia** | 0 kWh (2013 est.) |
+| **Iran** | 8.668 billion kWh (2011 est.) |
+| **Iraq** | 0 kWh (2013 est.) |
+| **Ireland** | 389 million kWh (2013 est.) |
+| **Israel** | 4.2 billion kWh (2013 est.) |
+| **Italy** | 2.181 billion kWh (2013 est.) |
+| **Jamaica** | 0 kWh (2013 est.) |
+| **Japan** | 0 kWh (2014 est.) |
+| **Jordan** | 59 million kWh (2013 est.) |
+| **Kazakhstan** | 1.809 billion kWh (2011 est.) |
+| **Kenya** | 42 million kWh (2011 est.) |
+| **Kiribati** | 0 kWh (2013 est.) |
+| **Korea, North** | 0 kWh (2013 est.) |
+| **Korea, South** | 0 kWh (2013 est.) |
+| **Kosovo** | 474.8 million kWh (2014 est.) |
+| **Kuwait** | 0 kWh (2013 est.) |
+| **Kyrgyzstan** | 2.795 billion kWh (2011 est.) |
+| **Laos** | 2.537 billion kWh (2013 est.) |
+| **Latvia** | 3.65 billion kWh (2013 est.) |
+| **Lebanon** | 0 kWh (2013 est.) |
+| **Lesotho** | 0 kWh (2013 est.) |
+| **Liberia** | 0 kWh (2013 est.) |
+| **Libya** | 14 million kWh (2012 est.) |
+| **Lithuania** | 1.127 billion kWh (2013 est.) |
+| **Luxembourg** | 1.907 billion kWh (2013 est.) |
+| **Macau** | 0 kWh (2013 est.) |
+| **Macedonia** | 112.9 million kWh (2014 est.) |
+| **Madagascar** | 0 kWh (2013 est.) |
+| **Malawi** | 0 kWh (2013 est.) |
+| **Malaysia** | 12 million kWh (2011 est.) |
+| **Maldives** | 0 kWh (2013 est.) |
+| **Mali** | 0 kWh (2013 est.) |
+| **Malta** | 0 kWh (2013 est.) |
+| **Mauritania** | 0 kWh (2013 est.) |
+| **Mauritius** | 0 kWh (2013 est.) |
+| **Mexico** | 1.288 billion kWh (2013 est.) |
+| **Micronesia, Federated States of** | 0 kWh (2013 est.) |
+| **Moldova** | 0 kWh (2013 est.) |
+| **Mongolia** | 24 million kWh (2011 est.) |
+| **Montenegro** | 696 million kWh (2013 est.) |
+| **Montserrat** | 0 kWh (2013 est.) |
+| **Morocco** | 818 million kWh (2012 est.) |
+| **Mozambique** | 9.462 billion kWh (2012 est.) |
+| **Namibia** | 89 million kWh (2013 est.) |
+| **Nauru** | 0 kWh (2013 est.) |
+| **Nepal** | 31 million kWh (2011 est.) |
+| **Netherlands** | 15.02 billion kWh (2013 est.) |
+| **New Caledonia** | 0 kWh (2013 est.) |
+| **New Zealand** | 0 kWh (2013 est.) |
+| **Nicaragua** | 16.23 million kWh (2013 est.) |
+| **Nigeria** | 0 kWh (2013 est.) |
+| **Niger** | 0 kWh (2013 est.) |
+| **Niue** | 0 kWh (2013 est.) |
+| **Northern Mariana Islands** | 0 kWh (January 2009 est.) |
+| **Norway** | 15.14 billion kWh (2013 est.) |
+| **Oman** | 0 kWh (2013 est.) |
+| **Pakistan** | 0 kWh (2013 est.) |
+| **Panama** | 59 million kWh (2012 est.) |
+| **Papua New Guinea** | 0 kWh (2013 est.) |
+| **Paraguay** | 47.37 billion kWh (2013 est.) |
+| **Peru** | 2 million kWh (2012 est.) |
+| **Philippines** | 0 kWh (2013 est.) |
+| **Poland** | 12.32 billion kWh (2013) |
+| **Portugal** | 5.324 billion kWh (2013 est.) |
+| **Puerto Rico** | 0 kWh (2013 est.) |
+| **Qatar** | 0 kWh (2013 est.) |
+| **Romania** | 2.466 billion kWh (2013 est.) |
+| **Russia** | 15.7 billion kWh (2013 est.) |
+| **Rwanda** | 5 million kWh (2011 est.) |
+| **Saint Helena, Ascension, and Tristan da Cunha** | 0 kWh (2013 est.) |
+| **Saint Kitts and Nevis** | 0 kWh (2013 est.) |
+| **Saint Lucia** | 0 kWh (2013 est.) |
+| **Saint Pierre and Miquelon** | 0 kWh (2013 est.) |
+| **Saint Vincent and the Grenadines** | 0 kWh (2013 est.) |
+| **Samoa** | 0 kWh (2013 est.) |
+| **Sao Tome and Principe** | 0 kWh (2013) |
+| **Saudi Arabia** | 0 kWh (2013 est.) |
+| **Senegal** | 0 kWh (2013 est.) |
+| **Serbia** | 4.806 billion kWh (2014 est.) |
+| **Seychelles** | 0 kWh (2013 est.) |
+| **Sierra Leone** | 0 kWh (2013 est.) |
+| **Singapore** | 0 kWh (2014 est.) |
+| **Slovakia** | 11.86 billion kWh (2014 est.) |
+| **Slovenia** | 8.684 billion kWh (2013 est.) |
+| **Solomon Islands** | 0 kWh (2013 est.) |
+| **Somalia** | 0 kWh (2013 est.) |
+| **South Africa** | 13.93 billion kWh (2013 est.) |
+| **South Sudan** | 0 kWh (2012 est.) |
+| **Spain** | 17 billion kWh (2013 est.) |
+| **Sri Lanka** | 0 kWh (2013 est.) |
+| **Sudan** | 0 kWh (2012 est.) |
+| **Suriname** | 0 kWh (2013 est.) |
+| **Swaziland** | 0 kWh (2013) |
+| **Sweden** | 22.68 billion kWh (2013 est.) |
+| **Switzerland** | 31.8 billion kWh (2013 est.) |
+| **Syria** | 1.192 billion kWh (2011 est.) |
+| **Taiwan** | 0 kWh (2013 est.) |
+| **Tajikistan** | 1 billion kWh (2013 est.) |
+| **Tanzania** | 0 kWh (2013 est.) |
+| **Thailand** | 1.375 billion kWh (2013 est.) |
+| **Timor-Leste** | 0 kWh (2012 est.) |
+| **Togo** | 0 kWh (2013 est.) |
+| **Tonga** | 0 kWh (2013) |
+| **Trinidad and Tobago** | 0 kWh (2013 est.) |
+| **Tunisia** | 172 million kWh (2012 est.) |
+| **Turkey** | 1.236 billion kWh (2013 est.) |
+| **Turkmenistan** | 2.9 billion kWh (2014 est.) |
+| **Turks and Caicos Islands** | 0 kWh (2013 est.) |
+| **Tuvalu** | 0 kWh (2014 est.) |
+| **Uganda** | 70 million kWh (2011) |
+| **Ukraine** | 6 billion kWh (2012 est.) |
+| **United Arab Emirates** | 8.147 billion kWh (2011 est.) |
+| **United Kingdom** | 2.72 billion kWh (2014 est.) |
+| **United States** | 11.28 billion kWh (2013 est.) |
+| **Uruguay** | 194 million kWh (2012 est.) |
+| **Uzbekistan** | 12.25 billion kWh (2011 est.) |
+| **Vanuatu** | 0 kWh (2013 est.) |
+| **Venezuela** | 249 million kWh (2011 est.) |
+| **Vietnam** | 1.073 billion kWh (2011 est.) |
+| **Virgin Islands** | 0 kWh (2013 est.) |
+| **West Bank** | 0 kWh (2013) |
+| **Western Sahara** | 0 kWh (2013 est.) |
+| **World** | 639.6 billion kWh (2013 est.) |
+| **Yemen** | 0 kWh (2013 est.) |
+| **Zambia** | 586 million kWh (2011 est.) |
+| **Zimbabwe** | 1.085 billion kWh (2011 est.) |

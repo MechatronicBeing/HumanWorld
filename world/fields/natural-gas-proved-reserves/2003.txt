@@ -1,0 +1,104 @@
+CIA - The World Factbook -- Field Listing - Natural gas - proved reserves
+
+| Country | Natural gas - proved reserves (cu m) |
+| --- | --- |
+| **Afghanistan** | 49.98 billion cu m (37257) |
+| **Albania** | 3.316 billion cu m (37257) |
+| **Algeria** | 4.739 trillion cu m (37257) |
+| **Angola** | 79.57 billion cu m (37257) |
+| **Argentina** | 768 billion cu m (37257) |
+| **Australia** | 2.407 trillion cu m (37257) |
+| **Austria** | 24.9 billion cu m (37257) |
+| **Azerbaijan** | 62.3 billion cu m (37257) |
+| **Bahrain** | 46 billion cu m (37257) |
+| **Bangladesh** | 150.3 billion cu m (37257) |
+| **Barbados** | 70.79 million cu m (37257) |
+| **Benin** | 608.8 million cu m (37257) |
+| **Bolivia** | 727.2 billion cu m (37257) |
+| **Brazil** | 221.7 billion cu m (37257) |
+| **Brunei** | 315 billion cu m (37257) |
+| **Bulgaria** | 3.724 billion cu m (37257) |
+| **Burma** | 314.4 billion cu m (37257) |
+| **Cameroon** | 55.22 billion cu m (37257) |
+| **Canada** | 1.691 trillion cu m (37257) |
+| **Chile** | 67.78 billion cu m (37257) |
+| **China** | 1.29 trillion cu m (37257) |
+| **Colombia** | 132 billion cu m (37257) |
+| **Congo, Democratic Republic of the** | 104.8 billion cu m (37257) |
+| **Congo, Republic of the** | 495.5 million cu m (37257) |
+| **Cote d'Ivoire** | 14.87 billion cu m (37257) |
+| **Croatia** | 34.36 billion cu m (37257) |
+| **Cuba** | 42.62 billion cu m (37257) |
+| **Czech Republic** | 3.057 billion cu m (37257) |
+| **Denmark** | 81.98 billion cu m (37257) |
+| **Ecuador** | 106.5 billion cu m (37257) |
+| **Egypt** | 1.264 trillion cu m (37257) |
+| **Equatorial Guinea** | 68.53 billion cu m (37257) |
+| **Ethiopia** | 12.46 billion cu m (37257) |
+| **France** | 12.86 billion cu m (37257) |
+| **Gabon** | 66.47 billion cu m (37257) |
+| **Germany** | 298.3 billion cu m (37257) |
+| **Ghana** | 11.89 billion cu m (37257) |
+| **Greece** | 254.9 million cu m (37257) |
+| **Guatemala** | 1.543 billion cu m (37257) |
+| **Hungary** | 50.45 billion cu m (37257) |
+| **India** | 542.4 billion cu m (37257) |
+| **Indonesia** | 2.549 trillion cu m (37257) |
+| **Iran** | 24.8 trillion cu m (37257) |
+| **Iraq** | 3.149 trillion cu m (37257) |
+| **Ireland** | 9.911 billion cu m (37257) |
+| **Israel** | 20.81 billion cu m (37257) |
+| **Italy** | 209.7 billion cu m (37257) |
+| **Japan** | 20.02 billion cu m (37257) |
+| **Jordan** | 3.256 billion cu m (37257) |
+| **Kazakhstan** | 920.3 billion cu m (37257) |
+| **Kuwait** | 1.548 trillion cu m (37257) |
+| **Libya** | 1.321 trillion cu m (37257) |
+| **Madagascar** | 0 cu m (37257) |
+| **Malaysia** | 2.23 trillion cu m (37257) |
+| **Mexico** | 969.2 billion cu m (37257) |
+| **Morocco** | 665.4 million cu m (37257) |
+| **Mozambique** | 63.71 billion cu m (37257) |
+| **Namibia** | 31.15 billion cu m (37257) |
+| **Netherlands** | 1.693 trillion cu m (37257) |
+| **New Zealand** | 58.94 billion cu m (37257) |
+| **Nigeria** | 4.007 trillion cu m (37257) |
+| **Norway** | 1.716 trillion cu m (37257) |
+| **Oman** | 846.4 billion cu m (37257) |
+| **Pakistan** | 695.6 billion cu m (37257) |
+| **Papua New Guinea** | 385.5 billion cu m (37257) |
+| **Peru** | 245.1 billion cu m (37257) |
+| **Philippines** | 104.6 billion cu m (37257) |
+| **Poland** | 154.4 billion cu m (37257) |
+| **Qatar** | 17.93 trillion cu m (37257) |
+| **Romania** | 111.1 billion cu m (37257) |
+| **Russia** | 47.86 trillion cu m (37257) |
+| **Rwanda** | 28.32 billion cu m (37257) |
+| **Saudi Arabia** | 6.339 trillion cu m (37257) |
+| **Serbia and Montenegro** | 24.07 billion cu m (37257) |
+| **Slovakia** | 7.504 billion cu m (37257) |
+| **Somalia** | 2.832 billion cu m (37257) |
+| **South Africa** | 14.16 million cu m (37257) |
+| **Spain** | 254.9 million cu m (37257) |
+| **Sudan** | 99.11 billion cu m (37257) |
+| **Suriname** | 0 cu m (37257) |
+| **Syria** | 240.7 billion cu m (37257) |
+| **Taiwan** | 38.23 billion cu m (37257) |
+| **Tanzania** | 11.33 billion cu m (37257) |
+| **Thailand** | 368.2 billion cu m (37257) |
+| **Trinidad and Tobago** | 610.6 billion cu m (37257) |
+| **Tunisia** | 77.16 billion cu m (37257) |
+| **Turkey** | 8.685 billion cu m (37257) |
+| **Turkmenistan** | 1.43 trillion cu m (37257) |
+| **Ukraine** | 560.7 billion cu m (37257) |
+| **United Arab Emirates** | 5.892 trillion cu m (37257) |
+| **United Kingdom** | 714.9 billion cu m (37257) |
+| **United States** | 5.195 trillion cu m (37257) |
+| **Uzbekistan** | 937.3 billion cu m (37257) |
+| **Venezuela** | 4.202 trillion cu m (37257) |
+| **Vietnam** | 192.6 billion cu m (37257) |
+| **World** | 161.2 trillion cu m (37257) |
+| **Yemen** | 480 billion cu m (37257) |
+
+This page was last updated on 18 December, 2003
+ 

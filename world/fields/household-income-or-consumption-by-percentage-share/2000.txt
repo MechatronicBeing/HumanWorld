@@ -1,0 +1,475 @@
+CIA - The World Factbook 2000 -- Household income or consumption by percentage share
+
+| Country | Household income or consumption by percentage share |
+| --- | --- |
+| **Afghanistan** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Albania** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Algeria** | *lowest 10%:* 2.8% |
+| | *highest 10%:* 26.8% (1995) |
+| **American Samoa** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Andorra** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Angola** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Anguilla** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Antigua and Barbuda** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Argentina** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Armenia** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Aruba** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Australia** | *lowest 10%:* 2.5% |
+| | *highest 10%:* 24.8% (1989) |
+| **Azerbaijan** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Bahamas, The** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Bahrain** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Bangladesh** | *lowest 10%:* 4.1% |
+| | *highest 10%:* 23.7% (1992) |
+| **Barbados** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Belarus** | *lowest 10%:* 4.9% |
+| | *highest 10%:* 19.4% (1993) |
+| **Belgium** | *lowest 10%:* 3.7% |
+| | *highest 10%:* 20.2% (1992) |
+| **Belize** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Benin** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Bermuda** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Bhutan** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Bolivia** | *lowest 10%:* 2.3% |
+| | *highest 10%:* 31.7% (1990) |
+| **Bosnia and Herzegovina** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Botswana** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Brazil** | *lowest 10%:* 0.8% |
+| | *highest 10%:* 47.9% (1995) |
+| **British Virgin Islands** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Brunei** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Bulgaria** | *lowest 10%:* 3.3% |
+| | *highest 10%:* 24.7% (1992) |
+| **Burkina Faso** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Burma** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Burundi** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Cambodia** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Cameroon** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Canada** | *lowest 10%:* 2.8% |
+| | *highest 10%:* 23.8% (1994) |
+| **Cape Verde** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Cayman Islands** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Central African Republic** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Chad** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Chile** | *lowest 10%:* 1.2% |
+| | *highest 10%:* 41.3% (1998) |
+| **China** | *lowest 10%:* 2.2% |
+| | *highest 10%:* 30.9% (1995) |
+| **Christmas Island** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Cocos (Keeling) Islands** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Colombia** | *lowest 10%:* 1% |
+| | *highest 10%:* 46.9% (1995) |
+| **Comoros** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Congo, Democratic Republic of the** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Congo, Republic of the** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Cook Islands** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Costa Rica** | *lowest 10%:* 1.3% |
+| | *highest 10%:* 34.7% (1996) |
+| **Cote d'Ivoire** | *lowest 10%:* 2.8% |
+| | *highest 10%:* 28.5% (1988) |
+| **Croatia** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Cuba** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Cyprus** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Czech Republic** | *lowest 10%:* 4.6% |
+| | *highest 10%:* 23.5% (1993) |
+| **Denmark** | *lowest 10%:* 3.6% |
+| | *highest 10%:* 20.5% (1992) |
+| **Djibouti** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Dominica** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Dominican Republic** | *lowest 10%:* 1.6% |
+| | *highest 10%:* 39.6% (1989) |
+| **Ecuador** | *lowest 10%:* 2.3% |
+| | *highest 10%:* 37.6% (1994) |
+| **Egypt** | *lowest 10%:* 3.9% |
+| | *highest 10%:* 26.7% (1991) |
+| **El Salvador** | *lowest 10%:* 1.2% |
+| | *highest 10%:* 38.3% (1995) |
+| **Equatorial Guinea** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Eritrea** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Estonia** | *lowest 10%:* 3.2% |
+| | *highest 10%:* 28.5% (1996) |
+| **Ethiopia** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Falkland Islands (Islas Malvinas)** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Faroe Islands** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Fiji** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Finland** | *lowest 10%:* 4.2% |
+| | *highest 10%:* 21.6% (1991) |
+| **France** | *lowest 10%:* 2.5% |
+| | *highest 10%:* 24.9% (1989) |
+| **French Guiana** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **French Polynesia** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Gabon** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Gambia, The** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Gaza Strip** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Georgia** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Ghana** | *lowest 10%:* 3.4% |
+| | *highest 10%:* 27.3% (1992) |
+| **Gibraltar** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Greece** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Greenland** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Grenada** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Guadeloupe** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Guam** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Guatemala** | *lowest 10%:* 0.6% |
+| | *highest 10%:* 46.6% (1989) |
+| **Guernsey** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Guinea** | *lowest 10%:* 0.9% |
+| | *highest 10%:* 31.7% (1991) |
+| **Guinea-Bissau** | *lowest 10%:* 0.5% |
+| | *highest 10%:* 42.4% (1991) |
+| **Guyana** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Haiti** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Holy See (Vatican City)** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Honduras** | *lowest 10%:* 1.2% |
+| | *highest 10%:* 42.1% (1996) |
+| **Hong Kong** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Hungary** | *lowest 10%:* 4.1% |
+| | *highest 10%:* 24% (1993) |
+| **Iceland** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **India** | *lowest 10%:* 4.1% |
+| | *highest 10%:* 25% (1994) |
+| **Indonesia** | *lowest 10%:* 3.6% |
+| | *highest 10%:* 30.3% (1996) |
+| **Iran** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Iraq** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Ireland** | *lowest 10%:* 2% |
+| | *highest 10%:* 27.3% (1997) |
+| **Israel** | *lowest 10%:* 2.8% |
+| | *highest 10%:* 26.9% (1992) |
+| **Italy** | *lowest 10%:* 2.9% |
+| | *highest 10%:* 23.7% (1991) |
+| **Jamaica** | *lowest 10%:* 2.4% |
+| | *highest 10%:* 31.9% (1991) |
+| **Japan** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Jersey** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Jordan** | *lowest 10%:* 2.4% |
+| | *highest 10%:* 34.7% (1991) |
+| **Kazakhstan** | *lowest 10%:* 3.1% |
+| | *highest 10%:* 24.9% (1993) |
+| **Kenya** | *lowest 10%:* 1.2% |
+| | *highest 10%:* 47.7% (1992) |
+| **Kiribati** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Korea, North** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Korea, South** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Kuwait** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Kyrgyzstan** | *lowest 10%:* 2.7% |
+| | *highest 10%:* 26.2% (1993) |
+| **Laos** | *lowest 10%:* 4.2% |
+| | *highest 10%:* 26.4% (1992) |
+| **Latvia** | *lowest 10%:* 4.3% |
+| | *highest 10%:* 22.1% (1993) |
+| **Lebanon** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Lesotho** | *lowest 10%:* 0.9% |
+| | *highest 10%:* 43.4% (1986-87) |
+| **Liberia** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Libya** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Liechtenstein** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Lithuania** | *lowest 10%:* 3.4% |
+| | *highest 10%:* 28% (1993) |
+| **Luxembourg** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Macau** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Macedonia, The Former Yugoslav Republic of** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Madagascar** | *lowest 10%:* 2.3% |
+| | *highest 10%:* 34.9% (1993) |
+| **Malawi** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Malaysia** | *lowest 10%:* 1.4% |
+| | *highest 10%:* 20.4% (1997 est.) |
+| **Maldives** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Mali** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Malta** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Man, Isle of** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Marshall Islands** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Martinique** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Mauritania** | *lowest 10%:* 0.7% |
+| | *highest 10%:* 30.4% (1988) |
+| **Mauritius** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Mayotte** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Mexico** | *lowest 10%:* 1.8% |
+| | *highest 10%:* 36.6% (1996) |
+| **Micronesia, Federated States of** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Moldova** | *lowest 10%:* 2.7% |
+| | *highest 10%:* 25.8% (1992) |
+| **Monaco** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Mongolia** | *lowest 10%:* 2.9% |
+| | *highest 10%:* 24.5% (1995) |
+| **Montserrat** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Morocco** | *lowest 10%:* 2.8% |
+| | *highest 10%:* 30.5% (1990-91) |
+| **Mozambique** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Namibia** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Nauru** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Nepal** | *lowest 10%:* 3.2% |
+| | *highest 10%:* 29.8% (1995-96) |
+| **Netherlands** | *lowest 10%:* 2.9% |
+| | *highest 10%:* 24.7% (1991) |
+| **Netherlands Antilles** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **New Caledonia** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **New Zealand** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Nicaragua** | *lowest 10%:* 1.6% |
+| | *highest 10%:* 39.8% (1993) |
+| **Niger** | *lowest 10%:* 3% |
+| | *highest 10%:* 29.3% (1992) |
+| **Nigeria** | *lowest 10%:* 1.3% |
+| | *highest 10%:* 31.4% (1992-93) |
+| **Niue** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Norfolk Island** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Northern Mariana Islands** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Norway** | *lowest 10%:* 4.1% |
+| | *highest 10%:* 21.2% (1991) |
+| **Oman** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Pakistan** | *lowest 10%:* 4.1% |
+| | *highest 10%:* 27.7% (1996) |
+| **Palau** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Panama** | *lowest 10%:* 0.5% |
+| | *highest 10%:* 42.5% (1991) |
+| **Papua New Guinea** | *lowest 10%:* 1.7% |
+| | *highest 10%:* 40.5% (1996) |
+| **Paraguay** | *lowest 10%:* 0.7% |
+| | *highest 10%:* 46.6% (1995) |
+| **Peru** | *lowest 10%:* 1.9% |
+| | *highest 10%:* 34.3% (1994) |
+| **Philippines** | *lowest 10%:* 2.4% |
+| | *highest 10%:* 33.5% (1994) |
+| **Pitcairn Islands** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Poland** | *lowest 10%:* 4% |
+| | *highest 10%:* 22.1% (1992) |
+| **Portugal** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Puerto Rico** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Qatar** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Reunion** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Romania** | *lowest 10%:* 3.8% |
+| | *highest 10%:* 20.2% (1992) |
+| **Russia** | *lowest 10%:* 3% |
+| | *highest 10%:* 22.2% (1993) |
+| **Rwanda** | *lowest 10%:* 4.2% |
+| | *highest 10%:* 24.2% (1983-85) |
+| **Saint Helena** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Saint Kitts and Nevis** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Saint Lucia** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Saint Pierre and Miquelon** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Saint Vincent and the Grenadines** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Samoa** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **San Marino** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Sao Tome and Principe** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Saudi Arabia** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Senegal** | *lowest 10%:* 1.4% |
+| | *highest 10%:* 42.8% (1991) |
+| **Serbia and Montenegro** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Seychelles** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Sierra Leone** | *lowest 10%:* 0.5% |
+| | *highest 10%:* 43.6% (1989) |
+| **Singapore** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Slovakia** | *lowest 10%:* 5.1% |
+| | *highest 10%:* 18.2% (1992) |
+| **Slovenia** | *lowest 10%:* 4% |
+| | *highest 10%:* 24.5% (1993) |
+| **Solomon Islands** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Somalia** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **South Africa** | *lowest 10%:* 1.4% |
+| | *highest 10%:* 47.3% (1993) |
+| **Spain** | *lowest 10%:* 2.8% |
+| | *highest 10%:* 25.2% (1990) |
+| **Sri Lanka** | *lowest 10%:* 1.8% |
+| | *highest 10%:* 39.7% (1995-96 est.) |
+| **Sudan** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Suriname** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Svalbard** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Swaziland** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Sweden** | *lowest 10%:* 3.7% |
+| | *highest 10%:* 20.1% (1992) |
+| **Switzerland** | *lowest 10%:* 2.9% |
+| | *highest 10%:* 28.6% (1982) |
+| **Syria** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Tajikistan** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Tanzania** | *lowest 10%:* 2.9% |
+| | *highest 10%:* 30.2% (1993) |
+| **Thailand** | *lowest 10%:* 2.5% |
+| | *highest 10%:* 37.1% (1992) |
+| **Togo** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Tokelau** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Tonga** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Trinidad and Tobago** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Tunisia** | *lowest 10%:* 2.3% |
+| | *highest 10%:* 30.7% (1990) |
+| **Turkey** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Turkmenistan** | *lowest 10%:* 2.7% |
+| | *highest 10%:* 26.9% (1993) |
+| **Turks and Caicos Islands** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Tuvalu** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Uganda** | *lowest 10%:* 3% |
+| | *highest 10%:* 33.4% (1992) |
+| **Ukraine** | *lowest 10%:* 4.1% |
+| | *highest 10%:* 20.8% (1992) |
+| **United Arab Emirates** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **United Kingdom** | *lowest 10%:* 2.4% |
+| | *highest 10%:* 24.7% (1986) |
+| **United States** | *lowest 10%:* 1.5% |
+| | *highest 10%:* 28.5% (1994) |
+| **Uruguay** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Uzbekistan** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Vanuatu** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Venezuela** | *lowest 10%:* 1.5% |
+| | *highest 10%:* 35.6% (1995) |
+| **Vietnam** | *lowest 10%:* 3.5% |
+| | *highest 10%:* 29% (1993) |
+| **Virgin Islands** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Wallis and Futuna** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **West Bank** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Western Sahara** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **World** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+| **Yemen** | *lowest 10%:* 2.3% |
+| | *highest 10%:* 30.8% (1992) |
+| **Zambia** | *lowest 10%:* 1.5% |
+| | *highest 10%:* 31.3% (1993) |
+| **Zimbabwe** | *lowest 10%:* 1.8% |
+| | *highest 10%:* 46.9% (1990) |
+| **Taiwan** | *lowest 10%:* NA% |
+| | *highest 10%:* NA% |
+
+
+

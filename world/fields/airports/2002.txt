@@ -1,0 +1,264 @@
+CIA - The World Factbook 2002 -- Field Listing - Airports
+
+| Country | Airports |
+| --- | --- |
+| **Afghanistan** | 46 (2001) |
+| **Albania** | 11 (2001) |
+| **Algeria** | 136 (2001) |
+| **American Samoa** | 4 (2001) |
+| **Andorra** | none (2001) |
+| **Angola** | 244 (2001) |
+| **Anguilla** | 3 (2001) |
+| **Antarctica** | 30 (2001) |
+| | *note:* 27 stations, operated by 16 national governments party to the Antarctic Treaty, have aircraft landing facilities for either helicopters and/or fixed-wing aircraft; commercial enterprises operate two additional aircraft landing facilities; helicopter pads are available at 27 stations; runways at 15 locations are gravel, sea-ice, blue-ice, or compacted snow suitable for landing wheeled, fixed-wing aircraft; of these, 1 is greater than 3 km in length, 6 are between 2 km and 3 km in length, 3 are between 1 km and 2 km in length, 3 are less than 1 km in length, and 2 are of unknown length; snow surface skiways, limited to use by ski-equipped, fixed-wing aircraft, are available at another 15 locations; of these, 4 are greater than 3 km in length, 3 are between 2 km and 3 km in length, 2 are between 1 km and 2 km in length, 2 are less than 1 km in length, and 4 are of unknown length; aircraft landing facilities generally subject to severe restrictions and limitations resulting from extreme seasonal and geographic conditions; aircraft landing facilities do not meet ICAO standards; advance approval from the respective governmental or nongovernmental operating organization required for landing; landed aircraft are subject to inspection in accordance with Article 7, Antarctic Treaty |
+| **Antigua and Barbuda** | 3 (2001) |
+| **Argentina** | 1,369 (2001) |
+| **Armenia** | 12 (2001) |
+| **Aruba** | 1 (2001) |
+| **Australia** | 421 (2001) |
+| **Austria** | 55 (2001) |
+| **Azerbaijan** | 52 (2001) |
+| **Bahamas, The** | 67 (2001) |
+| **Bahrain** | 4 (2001) |
+| **Baker Island** | 1 abandoned World War II runway of 1,665 m, completely covered with vegetation and unusable |
+| **Bangladesh** | 18 (2001) |
+| **Barbados** | 1 (2001) |
+| **Belarus** | 136 (2001) |
+| **Belgium** | 42 (2001) |
+| **Belize** | 44 (2001) |
+| **Benin** | 5 (2001) |
+| **Bermuda** | 1 (2002) |
+| **Bhutan** | 2 (2001) |
+| **Bolivia** | 1,109 (2001) |
+| **Bosnia and Herzegovina** | 27 (2001) |
+| **Botswana** | 92 (2001) |
+| **Brazil** | 3,365 (2001) |
+| **British Indian Ocean Territory** | 1 (2001) |
+| **British Virgin Islands** | 3 (2001) |
+| **Brunei** | 2 (2001) |
+| **Bulgaria** | 215 (2001) |
+| **Burkina Faso** | 33 (2001) |
+| **Burma** | 80 (2001) |
+| **Burundi** | 7 (2001) |
+| **Cambodia** | 20 (2001) |
+| **Cameroon** | 49 (2001) |
+| **Canada** | 1,419 (2001) |
+| **Cape Verde** | 9 |
+| | *note:* 3 airports are reported to be nonoperational (2001) |
+| **Cayman Islands** | 3 (2001) |
+| **Central African Republic** | 51 (2001) |
+| **Chad** | 49 (2001) |
+| **Chile** | 363 (2001) |
+| **China** | 489 (2001) |
+| **Christmas Island** | 1 (2001) |
+| **Cocos (Keeling) Islands** | 1 (2001) |
+| **Colombia** | 1,066 (2001) |
+| **Comoros** | 4 (2001) |
+| **Congo, Democratic Republic of the** | 232 (2001) |
+| **Congo, Republic of the** | 33 (2001) |
+| **Cook Islands** | 7 (2001) |
+| **Costa Rica** | 152 (2001) |
+| **Cote d'Ivoire** | 36 (2001) |
+| **Croatia** | 67 (2001) |
+| **Cuba** | 172 (2001) |
+| **Cyprus** | 15 (2001) |
+| **Czech Republic** | 121 (2001) |
+| **Denmark** | 116 (2001) |
+| **Djibouti** | 12 (2001) |
+| **Dominica** | 2 (2001) |
+| **Dominican Republic** | 29 (2001) |
+| **East Timor** | 8 (2001) |
+| **Ecuador** | 205 (2001) |
+| **Egypt** | 92 (2001) |
+| **El Salvador** | 83 (2001) |
+| **Equatorial Guinea** | 3 (2001) |
+| **Eritrea** | 21 (2001) |
+| **Estonia** | 32 (2001) |
+| **Ethiopia** | 86 (2001) |
+| **Europa Island** | 1 (2001) |
+| **Falkland Islands (Islas Malvinas)** | 5 (2001) |
+| **Faroe Islands** | 1 (2001) |
+| **Fiji** | 27 (2001) |
+| **Finland** | 160 (2001) |
+| **France** | 477 (2001) |
+| **French Guiana** | 11 (2001) |
+| **French Polynesia** | 45 (2001) |
+| **French Southern and Antarctic Lands** | none (2001) |
+| **Gabon** | 59 (2001) |
+| **Gambia, The** | 1 (2001) |
+| **Gaza Strip** | 2 (2001) |
+| | *note:* includes Gaza International Airport (GIA), inaugurated on 24 November 1998 as part of agreements stipulated in the September 1995 Oslo II Accord and the 23 October 1998 Wye River Memorandum; GIA has been largely closed since October 2000 by Israeli orders and its runway was destroyed by the Israeli Defense Forces in December 2001 |
+| **Georgia** | 31 (2001) |
+| **Germany** | 625 (2001) |
+| **Ghana** | 12 (2001) |
+| **Gibraltar** | 1 (2001) |
+| **Glorioso Islands** | 1 (2001) |
+| **Greece** | 79 (note - new Athens airport at Spata opened in March 2001) (2001) |
+| **Greenland** | 15 (2001) |
+| **Grenada** | 3 (2001) |
+| **Guadeloupe** | 9 (2001) |
+| **Guam** | 5 (2001) |
+| **Guatemala** | 475 (2001) |
+| **Guernsey** | 2 (2001) |
+| **Guinea** | 15 (2001) |
+| **Guinea-Bissau** | 28 (2001) |
+| **Guyana** | 51 (2001) |
+| **Haiti** | 12 (2001) |
+| **Holy See (Vatican City)** | none (2001) |
+| **Honduras** | 117 (2001) |
+| **Hong Kong** | 3 (2001) |
+| **Howland Island** | airstrip constructed in 1937 for scheduled refueling stop on the round-the-world flight of Amelia EARHART and Fred NOONAN - they left Lae, New Guinea, for Howland Island, but were never seen again; the airstrip is no longer serviceable |
+| **Hungary** | 43 (2001) |
+| **Iceland** | 86 (2001) |
+| **India** | 335 (2001) |
+| **Indonesia** | 490 (2001) |
+| **Iran** | 322 (2001) |
+| **Iraq** | 108 (2001) |
+| **Ireland** | 41 (2001) |
+| **Israel** | 54 (2001) |
+| **Italy** | 135 (2001) |
+| **Jamaica** | 35 (2001) |
+| **Jan Mayen** | 1 (2001) |
+| **Japan** | 173 (2001) |
+| **Jersey** | 1 (2001) |
+| **Johnston Atoll** | 1 (2001) |
+| **Jordan** | 18 (2001) |
+| **Juan de Nova Island** | 1 (2001) |
+| **Kazakhstan** | 449 (2001) |
+| **Kenya** | 231 (2001) |
+| **Kingman Reef** | lagoon was used as a halfway station between Hawaii and American Samoa by Pan American Airways for flying boats in 1937 and 1938 |
+| **Kiribati** | 21 (2001) |
+| **Korea, North** | 87 (2001) |
+| **Korea, South** | 102 (2001) |
+| **Kuwait** | 7 (2001) |
+| **Kyrgyzstan** | 50 (2001) |
+| **Laos** | 51 (2001) |
+| **Latvia** | 25 (2001) |
+| **Lebanon** | 8 (2001) |
+| **Lesotho** | 28 (2001) |
+| **Liberia** | 47 (2001) |
+| **Libya** | 136 (2001) |
+| **Liechtenstein** | none (2001) |
+| **Lithuania** | 72 (2001) |
+| **Luxembourg** | 2 (2001) |
+| **Macau** | 1 (2001) |
+| **Macedonia, The Former Yugoslav Republic of** | 17 (2001) |
+| **Madagascar** | 130 (2001) |
+| **Malawi** | 44 (2001) |
+| **Malaysia** | 116 (2001) |
+| **Maldives** | 5 (2001) |
+| **Mali** | 27 (2001) |
+| **Malta** | 1 (2001) |
+| **Man, Isle of** | 1 (2001) |
+| **Marshall Islands** | 17 (2001) |
+| **Martinique** | 2 (2001) |
+| **Mauritania** | 26 (2001) |
+| **Mauritius** | 5 (2001) |
+| **Mayotte** | 1 (2001) |
+| **Mexico** | 1,852 (2001) |
+| **Micronesia, Federated States of** | 7 (2001) |
+| **Midway Islands** | 1 (2002) |
+| **Moldova** | 30 (2001) |
+| **Monaco** | none; linked to airport in Nice, France, by helicopter service (2001) |
+| **Mongolia** | 34 (2001) |
+| **Montserrat** | none; only airport was destroyed by volcanic activity; a helicopter service to Antigua is used |
+| **Morocco** | 67 (2001) |
+| **Mozambique** | 166 (2001) |
+| **Namibia** | 137 (2001) |
+| **Nauru** | 1 (2001) |
+| **Nepal** | 45 (2001) |
+| **Netherlands** | 28 (2001) |
+| **Netherlands Antilles** | 5 (2001) |
+| **New Caledonia** | 29 (2001) |
+| **New Zealand** | 106 (2001) |
+| **Nicaragua** | 182 (2001) |
+| **Niger** | 26 (2001) |
+| **Nigeria** | 70 (2001) |
+| **Niue** | 1 (2001) |
+| **Norfolk Island** | 1 (2001) |
+| **Northern Mariana Islands** | 6 (2001) |
+| **Norway** | 102 (2001) |
+| **Oman** | 143 (2001) |
+| **Pakistan** | 120 (2001) |
+| **Palau** | 3 (2001) |
+| **Palmyra Atoll** | 1 (2001) |
+| **Panama** | 107 (2001) |
+| **Papua New Guinea** | 490 (2001) |
+| **Paracel Islands** | 1 (2001) |
+| **Paraguay** | 899 (2001) |
+| **Peru** | 239 (2001) |
+| **Philippines** | 275 (2001) |
+| **Pitcairn Islands** | none (2001) |
+| **Poland** | 122 (2001) |
+| **Portugal** | 67 (2001) |
+| **Puerto Rico** | 30 (2001) |
+| **Qatar** | 4 (2001) |
+| **Reunion** | 2 (2001) |
+| **Romania** | 61 (2001) |
+| **Russia** | 2,743 (2001) |
+| **Rwanda** | 8 (2001) |
+| **Saint Helena** | 1 (2001) |
+| **Saint Kitts and Nevis** | 2 (2001) |
+| **Saint Lucia** | 2 (2001) |
+| **Saint Pierre and Miquelon** | 2 (2001) |
+| **Saint Vincent and the Grenadines** | 6 (2001) |
+| **Samoa** | 3 (2001) |
+| **San Marino** | none (2001) |
+| **Sao Tome and Principe** | 2 (2001) |
+| **Saudi Arabia** | 209 (2001) |
+| **Senegal** | 20 (2001) |
+| **Serbia and Montenegro** | 46 (2001) |
+| **Seychelles** | 14 (2001) |
+| **Sierra Leone** | 10 (2001) |
+| **Singapore** | 9 (2001) |
+| **Slovakia** | 34 (2001) |
+| **Slovenia** | 14 (2001) |
+| **Solomon Islands** | 31 (2001) |
+| **Somalia** | 54 (2001) |
+| **South Africa** | 740 (2001) |
+| **South Georgia and the South Sandwich Islands** | none (2001) |
+| **Spain** | 133 (2001) |
+| **Spratly Islands** | 4 (2001) |
+| **Sri Lanka** | 15 (2001) |
+| **Sudan** | 65 (2001) |
+| **Suriname** | 46 (2001) |
+| **Svalbard** | 4 (2001) |
+| **Swaziland** | 18 (2001) |
+| **Sweden** | 255 (2001) |
+| **Switzerland** | 66 (2001) |
+| **Syria** | 99 (2001) |
+| **Taiwan** | 39 (2001) |
+| **Tajikistan** | 53 (2001) |
+| **Tanzania** | 125 (2001) |
+| **Thailand** | 110 (2001) |
+| **Togo** | 9 (2001) |
+| **Tokelau** | none; lagoon landings are possible by amphibious aircraft (2001) |
+| **Tonga** | 6 (2001) |
+| **Trinidad and Tobago** | 6 (2001) |
+| **Tromelin Island** | 1 (2001) |
+| **Tunisia** | 30 (2001) |
+| **Turkey** | 120 (2001) |
+| **Turkmenistan** | 76 (2001) |
+| **Turks and Caicos Islands** | 8 (2001) |
+| **Tuvalu** | 1 (2001) |
+| **Uganda** | 27 (2001) |
+| **Ukraine** | 718 (2001) |
+| **United Arab Emirates** | 38 (2001) |
+| **United Kingdom** | 470 (2001) |
+| **United States** | 14,695 (2001) |
+| **Uruguay** | 64 (2001) |
+| **Uzbekistan** | 267 (2001) |
+| **Vanuatu** | 31 (2001) |
+| **Venezuela** | 372 (2001) |
+| **Vietnam** | 34 (2001) |
+| **Virgin Islands** | 2 (2001) |
+| **Wake Island** | 1 (2001) |
+| **Wallis and Futuna** | 2 (2001) |
+| **West Bank** | 3 (2001) |
+| **Western Sahara** | 11 (2001) |
+| **Yemen** | 49 (2001) |
+| **Zambia** | 111 (2001) |
+| **Zimbabwe** | 454 (2001) |
+
+This page was last updated on 19 March 2003
+ 

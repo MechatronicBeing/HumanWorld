@@ -1,0 +1,374 @@
+CIA - The World Factbook -- Field Listing - Manpower available for military service
+
+| Country | Manpower available for military service |
+| --- | --- |
+| **Afghanistan** | *males age 22-49:* 4,952,812 |
+| | *females age 22-49:* 4,663,963 (2005 est.) |
+| **Albania** | *males age 19-49:* 809,524 |
+| | *females age 19-49:* 784,199 (2005 est.) |
+| **Algeria** | *males age 19-49:* 8,033,049 |
+| | *females age 19-49:* 7,926,351 (2005 est.) |
+| **Andorra** | *males age 18-49:* 18,418 (2005 est.) |
+| **Angola** | *males age 17-49:* 2,548,455 |
+| | *females age 17-49:* 2,462,601 (2005 est.) |
+| **Anguilla** | *males age 18-49:* 3,614 (2005 est.) |
+| **Antigua and Barbuda** | *males age 18-49:* 18,952 |
+| | *females age 18-49:* 18,360 (2005 est.) |
+| **Argentina** | *males age 18-49:* 8,981,886 |
+| | *females age 18-49:* 8,883,756 (2005 est.) |
+| **Armenia** | *males age 18-49:* 722,836 |
+| | *females age 18-49:* 795,084 (2005 est.) |
+| **Aruba** | *males age 18-49:* 16,278 (2005 est.) |
+| **Australia** | *males age 18-49:* 4,943,676 |
+| | *females age 18-49:* 4,821,264 (2005 est.) |
+| **Austria** | *males age 18-49:* 1,914,800 |
+| | *females age 18-49:* 1,870,134 (2005 est.) |
+| **Azerbaijan** | *males age 18-49:* 1,961,973 |
+| | *females age 18-49:* 2,033,186 (2005 est.) |
+| **Bahamas, The** | *males age 18-49:* 73,121 (2005 est.) |
+| **Bahrain** | *males age 18-49:* 202,126 |
+| | *females age 18-49:* 151,734 (2005 est.) |
+| **Bangladesh** | *males age 18-49:* 35,170,019 (2005 est.) |
+| **Barbados** | *males age 18-49:* 71,524 |
+| | *females age 18-49:* 72,302 (2005 est.) |
+| **Belarus** | *males age 18-49:* 2,520,644 |
+| | *females age 18-49:* 2,564,696 (2005 est.) |
+| **Belgium** | *males age 16-49:* 2,436,736 |
+| | *females age 16-49:* 2,369,463 (2005 est.) |
+| **Belize** | *males age 18-49:* 61,201 |
+| | *females age 18-49:* 60,048 (2005 est.) |
+| **Benin** | *males age 21-49:* 1,295,230 |
+| | *females age 21-49:* 1,301,936 (2005 est.) |
+| **Bermuda** | *males age 18-49:* 15,151 (2005 est.) |
+| **Bhutan** | *males age 18-49:* 483,860 |
+| | *females age 18-49:* 453,683 (2005 est.) |
+| **Bolivia** | *males age 18-49:* 1,923,234 |
+| | *females age 18-49:* 2,007,315 (2005 est.) |
+| **Bosnia and Herzegovina** | *males age 18-49:* 1,119,508 |
+| | *females age 18-49:* 1,079,435 (2005 est.) |
+| **Botswana** | *males age 18-49:* 350,649 |
+| | *females age 18-49:* 361,642 (2005 est.) |
+| **Brazil** | *males age 19-49:* 45,586,036 |
+| | *females age 19-49:* 45,728,704 (2005 est.) |
+| **British Virgin Islands** | *males age 18-49:* 6,410 (2005 est.) |
+| **Brunei** | *males age 18-49:* 103,885 |
+| | *females age 18-49:* 93,024 (2005 est.) |
+| **Bulgaria** | *males age 18-49:* 1,661,211 |
+| | *females age 18-49:* 1,660,982 (2005 est.) |
+| **Burkina Faso** | *males age 18-49:* 2,651,687 (2005 est.) |
+| **Burma** | *males age 18-49:* 12,268,850 |
+| | *females age 18-49:* 12,469,771 (2005 est.) |
+| **Burundi** | *males age 16-49:* 1,676,855 |
+| | *females age 16-49:* 1,656,366 (2005 est.) |
+| **Cambodia** | *males age 18-49:* 3,002,718 |
+| | *females age 18-49:* 3,108,254 (2005 est.) |
+| **Cameroon** | *males age 18-49:* 3,525,307 |
+| | *females age 18-49:* 3,461,406 (2005 est.) |
+| **Canada** | *males age 16-49:* 8,216,510 |
+| | *females age 16-49:* 8,034,939 (2005 est.) |
+| **Cape Verde** | *males age 18-49:* 84,641 |
+| | *females age 18-49:* 87,310 (2005 est.) |
+| **Cayman Islands** | *males age 18-49:* 10,703 (2005 est.) |
+| **Central African Republic** | *males age 18-49:* 853,760 |
+| | *females age 18-49:* 835,426 (2005 est.) |
+| **Chad** | *males age 20-49:* 1,527,580 |
+| | *females age 20-49:* 1,629,510 (2005 est.) |
+| **Chile** | *males age 18-49:* 3,815,761 |
+| | *females age 18-49:* 3,780,864 (2005 est.) |
+| **China** | *males age 18-49:* 342,956,265 |
+| | *females age 18-49:* 324,701,244 (2005 est.) |
+| **Colombia** | *males age 18-49:* 10,212,456 |
+| | *females age 18-49:* 10,561,562 (2005 est.) |
+| **Comoros** | *males age 18-49:* 138,940 |
+| | *females age 18-49:* 139,491 (2005 est.) |
+| **Congo, Democratic Republic of the** | *males age 18-49:* 11,365,610 (2005 est.) |
+| **Congo, Republic of the** | *males age 18-49:* 688,628 |
+| | *females age 18-49:* 685,388 (2005 est.) |
+| **Costa Rica** | *males age 18-49:* 997,690 |
+| | *females age 18-49:* 968,290 (2005 est.) |
+| **Cote d'Ivoire** | *males age 18-49:* 3,696,106 |
+| | *females age 18-49:* 3,569,967 (2005 est.) |
+| **Croatia** | *males age 18-49:* 1,005,058 |
+| | *females age 18-49:* 1,008,511 (2005 est.) |
+| **Cuba** | *males age 17-49:* 2,967,865 |
+| | *females age 17-49:* 2,913,559 (2005 est.) |
+| **Cyprus** | *Greek Cypriot National Guard (GCNG):* |
+| | *males age 18-49:* 184,352 |
+| | *females age 18-49:* 175,567 (2005 est.) |
+| **Czech Republic** | *males age 18-49:* 2,414,728 |
+| | *females age 18-49:* 2,329,412 (2005 est.) |
+| **Denmark** | *males age 18-49:* 1,175,108 |
+| | *females age 18-49:* 1,150,627 (2005 est.) |
+| **Djibouti** | *males age 18-49:* 95,328 |
+| | *females age 18-49:* 87,795 (2005 est.) |
+| **Dominica** | *males age 18-49:* 18,227 (2005 est.) |
+| **Dominican Republic** | *males age 18-49:* 2,133,142 |
+| | *females age 18-49:* 2,032,840 (2005 est.) |
+| **Ecuador** | *males age 20-49:* 2,792,770 |
+| | *females age 20-49:* 2,849,519 (2005 est.) |
+| **Egypt** | *males age 18-49:* 18,347,560 |
+| | *females age 18-49:* 17,683,904 (2005 est.) |
+| **El Salvador** | *males age 18-49:* 1,391,278 |
+| | *females age 18-49:* 1,542,323 (2005 est.) |
+| **Equatorial Guinea** | *males age 18-49:* 104,563 |
+| | *females age 18-49:* 109,923 (2005 est.) |
+| **Eritrea** | *males age 18-49:* 893,361 |
+| | *females age 18-49:* 891,662 (2005 est.) |
+| **Estonia** | *males age 18-49:* 291,696 |
+| | *females age 18-49:* 304,961 (2005 est.) |
+| **Ethiopia** | *males age 18-49:* 14,568,277 |
+| | *females age 18-49:* 14,482,885 (2005 est.) |
+| **Faroe Islands** | *males age 18-49:* 10,695 (2005 est.) |
+| **Fiji** | *males age 18-49:* 215,104 |
+| | *females age 18-49:* 212,739 (2005 est.) |
+| **Finland** | *males age 18-49:* 1,121,275 |
+| | *females age 18-49:* 1,076,684 (2005 est.) |
+| **France** | *males age 17-49:* 13,676,509 |
+| | *females age 17-49:* 13,504,539 (2005 est.) |
+| **French Polynesia** | *males age 18-49:* 69,679 (2005 est.) |
+| **Gabon** | *males age 18-49:* 278,826 |
+| | *females age 18-49:* 279,865 (2005 est.) |
+| **Gambia, The** | *males age 18-49:* 311,025 |
+| | *females age 18-49:* 316,214 (2005 est.) |
+| **Gaza Strip** | *males age 18-49:* 260,855 (2005 est.) |
+| **Georgia** | *males age 18-49:* 1,038,736 |
+| | *females age 18-49:* 1,105,910 (2005 est.) |
+| **Germany** | *males age 18-49:* 18,917,537 |
+| | *females age 18-49:* 17,913,113 (2005 est.) |
+| **Ghana** | *males age 18-49:* 4,808,451 |
+| | *females age 18-49:* 4,762,459 (2005 est.) |
+| **Gibraltar** | *males age 18-49:* 5,959 (2005 est.) |
+| **Greece** | *males age 18-49:* 2,459,988 |
+| | *females age 18-49:* 2,442,818 (2005 est.) |
+| **Greenland** | *males age 18-49:* 14,653 (2005 est.) |
+| **Grenada** | *males age 18-49:* 24,031 (2005 est.) |
+| **Guatemala** | *males age 18-49:* 2,429,033 |
+| | *females age 18-49:* 2,503,482 (2005 est.) |
+| **Guinea** | *males age 18-49:* 1,852,534 |
+| | *females age 18-49:* 1,827,560 (2005 est.) |
+| **Guinea-Bissau** | *males age 18-49:* 287,542 |
+| | *females age 18-49:* 297,295 (2005 est.) |
+| **Guyana** | *males age 18-49:* 206,098 (2005 est.) |
+| **Haiti** | *males age 18-49:* 1,626,491 |
+| | *females age 18-49:* 1,637,657 (2005 est.) |
+| **Honduras** | *males age 18-49:* 1,537,232 |
+| | *females age 18-49:* 1,515,120 (2005 est.) |
+| **Hong Kong** | *males age 18-49:* 1,743,972 |
+| | *females age 18-49:* 1,904,967 (2005 est.) |
+| **Hungary** | *males age 18-49:* 2,303,116 |
+| | *females age 18-49:* 2,265,463 (2005 est.) |
+| **Iceland** | *males age 18-49:* 69,038 (2005 est.) |
+| **India** | *males age 16-49:* 287,551,111 |
+| | *females age 16-49:* 268,524,835 (2005 est.) |
+| **Indonesia** | *males age 18-49:* 60,543,028 |
+| | *females age 18-49:* 59,981,730 (2005 est.) |
+| **Iran** | *males age 18-49:* 18,319,545 |
+| | *females age 18-49:* 17,541,037 (2005 est.) |
+| **Iraq** | *males age 18-49:* 5,870,640 |
+| | *females age 18-49:* 5,642,073 (2005 est.) |
+| **Ireland** | *males age 17-49:* 977,092 |
+| | *females age 17-49:* 978,465 (2005 est.) |
+| **Israel** | *males age 17-49:* 1,492,125 |
+| | *females age 17-49:* 1,443,916 (2005 est.) |
+| **Italy** | *males age 18-49:* 13,491,260 |
+| | *females age 18-49:* 12,886,033 (2005 est.) |
+| **Jamaica** | *males age 18-49:* 592,018 |
+| | *females age 18-49:* 616,500 (2005 est.) |
+| **Japan** | *males age 18-49:* 27,003,112 |
+| | *females age 18-49:* 26,153,482 (2005 est.) |
+| **Jordan** | *males age 17-49:* 1,573,995 |
+| | *females age 17-49:* 1,346,642 (2005 est.) |
+| **Kazakhstan** | *males age 18-49:* 3,758,255 |
+| | *females age 18-49:* 3,822,845 (2005 est.) |
+| **Kenya** | *males age 18-49:* 7,303,153 |
+| | *females age 18-49:* 7,083,726 (2005 est.) |
+| **Kiribati** | *males age 18-49:* 21,938 (2005 est.) |
+| **Korea, North** | *males age 17-49:* 5,851,801 |
+| | *females age 17-49:* 5,850,733 (2005 est.) |
+| **Korea, South** | *males age 20-49:* 12,483,677 |
+| | *females age 20-49:* 12,014,462 (2005 est.) |
+| **Kuwait** | *males age 18-49:* 864,745 |
+| | *females age 18-49:* 467,120 (2005 est.) |
+| **Kyrgyzstan** | *males age 18-49:* 1,193,529 |
+| | *females age 18-49:* 1,219,080 (2005 est.) |
+| **Laos** | *males age 15-49:* 1,500,625 |
+| | *females age 15-49:* 1,521,116 (2005 est.) |
+| **Latvia** | *males age 19-49:* 517,713 |
+| | *females age 19-49:* 519,631 (2005 est.) |
+| **Lebanon** | *males age 18-49:* 974,363 |
+| | *females age 18-49:* 1,024,273 (2005 est.) |
+| **Lesotho** | *males age 18-49:* 428,982 |
+| | *females age 18-49:* 440,102 (2005 est.) |
+| **Liberia** | *males age 18-49:* 575,384 |
+| | *females age 18-49:* 588,780 (2005 est.) |
+| **Libya** | *males age 17-49:* 1,505,675 |
+| | *females age 17-49:* 1,429,152 (2005 est.) |
+| **Liechtenstein** | *males age 18-49:* 7,736 (2005 est.) |
+| **Lithuania** | *males age 19-49:* 830,368 |
+| | *females age 19-49:* 830,524 (2005 est.) |
+| **Luxembourg** | *males age 17-49:* 110,867 |
+| | *females age 17-49:* 108,758 (2005 est.) |
+| **Macau** | *males age 18-49:* 112,744 (2005 est.) |
+| **Macedonia** | *males age 18-49:* 498,259 |
+| | *females age 18-49:* 481,317 (2005 est.) |
+| **Madagascar** | *males age 18-49:* 3,542,797 |
+| | *females age 18-49:* 3,551,447 (2005 est.) |
+| **Malawi** | *males age 18-49:* 2,430,514 (2005 est.) |
+| **Malaysia** | *males age 18-49:* 5,584,231 |
+| | *females age 18-49:* 5,510,345 (2005 est.) |
+| **Maldives** | *males age 18-49:* 71,774 |
+| | *females age 18-49:* 69,229 (2005 est.) |
+| **Mali** | *males age 18-49:* 2,094,432 |
+| | *females age 18-49:* 2,027,352 (2005 est.) |
+| **Malta** | *males age 18-49:* 90,651 |
+| | *females age 18-49:* 87,047 (2005 est.) |
+| **Marshall Islands** | *males age 18-49:* 13,465 (2005 est.) |
+| **Mauritania** | *males age 18-49:* 606,463 |
+| | *females age 18-49:* 607,955 (2005 est.) |
+| **Mauritius** | *males age 18-49:* 313,271 (2005 est.) |
+| **Mexico** | *males age 18-49:* 24,488,008 |
+| | *females age 18-49:* 26,128,046 (2005 est.) |
+| **Micronesia, Federated States of** | *males age 18-49:* 23,816 (2005 est.) |
+| **Moldova** | *males age 18-49:* 1,066,459 |
+| | *females age 18-49:* 1,117,070 (2005 est.) |
+| **Monaco** | *males age 18-49:* 6,256 (2005 est.) |
+| **Mongolia** | *males age 18-49:* 736,182 |
+| | *females age 18-49:* 734,679 (2005 est.) |
+| **Montserrat** | *males age 18-49:* 2,298 (2005 est.) |
+| **Morocco** | *males age 18-49:* 7,908,864 |
+| | *females age 18-49:* 7,882,879 (2005 est.) |
+| **Mozambique** | *males age 18-49:* 3,793,373 (2005 est.) |
+| **Namibia** | *males age 18-49:* 441,293 (2005 est.) |
+| **Nauru** | *males age 18-49:* 2,874 (2005 est.) |
+| **Nepal** | *males age 18-49:* 6,107,091 |
+| | *females age 18-49:* 5,744,989 (2005 est.) |
+| **Netherlands** | *males age 20-49:* 3,557,918 |
+| | *females age 20-49:* 3,470,377 (2005 est.) |
+| **Netherlands Antilles** | *males age 16-49:* 54,200 |
+| | *females age 16-49:* 56,868 (2005 est.) |
+| **New Caledonia** | *males age 18-49:* 50,874 (2005 est.) |
+| **New Zealand** | *males age 17-49:* 984,700 |
+| | *females age 17-49:* 965,170 (2005 est.) |
+| **Nicaragua** | *males age 17-49:* 1,309,970 |
+| | *females age 17-49:* 1,315,186 (2005 est.) |
+| **Niger** | *males age 18-49:* 2,367,828 |
+| | *females age 18-49:* 2,217,568 (2005 est.) |
+| **Nigeria** | *males age 18-49:* 26,802,678 |
+| | *females age 18-49:* 25,668,446 (2005 est.) |
+| **Norway** | *males age 18-49:* 1,014,592 |
+| | *females age 18-49:* 982,734 (2005 est.) |
+| **Oman** | *males age 18-49:* 719,871 |
+| | *females age 18-49:* 508,621 (2005 est.) |
+| **Pakistan** | *males age 16-49:* 39,028,014 |
+| | *females age 16-49:* 36,779,584 (2005 est.) |
+| **Palau** | *males age 18-49:* 5,694 (2005 est.) |
+| **Panama** | *males age 18-49:* 751,065 (2005 est.) |
+| **Papua New Guinea** | *males age 18-49:* 1,264,728 |
+| | *females age 18-49:* 1,167,188 (2005 est.) |
+| **Paraguay** | *males age 18-49:* 1,345,022 |
+| | *females age 18-49:* 1,342,725 (2005 est.) |
+| **Peru** | *males age 18-49:* 6,647,874 |
+| | *females age 18-49:* 6,544,408 (2005 est.) |
+| **Philippines** | *males age 18-49:* 20,131,179 |
+| | *females age 18-49:* 20,009,526 (2005 est.) |
+| **Poland** | *males age 17-49:* 9,681,703 |
+| | *females age 17-49:* 9,480,641 (2005 est.) |
+| **Portugal** | *males age 18-49:* 2,435,042 |
+| | *females age 18-49:* 2,405,816 (2005 est.) |
+| **Qatar** | *males age 18-49:* 302,873 |
+| | *females age 18-49:* 137,856 (2005 est.) |
+| **Romania** | *males age 20-49:* 5,061,984 |
+| | *females age 20-49:* 4,975,427 (2005 est.) |
+| **Russia** | *males age 18-49:* 35,247,049 |
+| | *females age 18-49:* 35,986,426 (2005 est.) |
+| **Rwanda** | *males age 16-49:* 2,004,750 |
+| | *females age 16-49:* 1,990,935 (2005 est.) |
+| **Saint Kitts and Nevis** | *males age 18-49:* 9,196 |
+| | *females age 18-49:* 9,236 (2005 est.) |
+| **Saint Lucia** | *males age 18-49:* 42,742 (2005 est.) |
+| **Saint Vincent and the Grenadines** | *males age 18-49:* 31,489 (2005 est.) |
+| **Samoa** | *males age 18-49:* 58,722 (2005 est.) |
+| **San Marino** | *males age 18-49:* 6,331 (2005 est.) |
+| **Sao Tome and Principe** | *males age 18-49:* 33,438 |
+| | *females age 18-49:* 35,279 (2005 est.) |
+| **Saudi Arabia** | *males age 18-49:* 7,648,999 |
+| | *females age 18-49:* 5,417,922 (2005 est.) |
+| **Senegal** | *males age 18-49:* 2,443,840 |
+| | *females age 18-49:* 2,461,939 (2005 est.) |
+| **Seychelles** | *males age 18-49:* 21,612 |
+| | *females age 18-49:* 22,459 (2005 est.) |
+| **Sierra Leone** | *males age 18-49:* 1,086,091 (2005 est.) |
+| **Singapore** | *males age 18-49:* 1,215,568 (2005 est.) |
+| **Slovakia** | *males age 18-49:* 1,351,848 |
+| | *females age 18-49:* 1,322,647 (2005 est.) |
+| **Slovenia** | *males age 17-49:* 496,929 |
+| | *females age 17-49:* 483,959 (2005 est.) |
+| **Solomon Islands** | *males age 18-49:* 114,253 (2005 est.) |
+| **Somalia** | *males age 18-49:* 1,787,727 |
+| | *females age 18-49:* 1,714,792 (2005 est.) |
+| **South Africa** | *males age 18-49:* 10,354,769 |
+| | *females age 18-49:* 10,626,550 (2005 est.) |
+| **Spain** | *males age 20-49:* 9,366,588 |
+| | *females age 20-49:* 9,155,057 (2005 est.) |
+| **Sri Lanka** | *males age 18-49:* 4,933,217 |
+| | *females age 18-49:* 5,153,597 (2005 est.) |
+| **Sudan** | *males age 18-49:* 8,291,695 |
+| | *females age 18-49:* 8,135,683 (2005 est.) |
+| **Suriname** | *males age 18-49:* 111,582 |
+| | *females age 18-49:* 103,769 (2005 est.) |
+| **Swaziland** | *males age 18-49:* 227,617 (2005 est.) |
+| **Sweden** | *males age 19-49:* 1,838,427 |
+| | *females age 19-49:* 1,774,659 (2005 est.) |
+| **Switzerland** | *males age 19-49:* 1,707,694 |
+| | *females age 19-49:* 1,662,099 (2005 est.) |
+| **Syria** | *males age 18-49:* 4,356,413 |
+| | *females age 18-49:* 4,123,339 (2005 est.) |
+| **Taiwan** | *males age 19-49:* 5,883,828 |
+| | *females age 19-49:* 5,680,773 (2005 est.) |
+| **Tajikistan** | *males age 18-49:* 1,556,415 |
+| | *females age 18-49:* 1,568,780 (2005 est.) |
+| **Tanzania** | *males age 18-49:* 7,422,869 (2005 est.) |
+| **Thailand** | *males age 21-49:* 14,903,855 |
+| | *females age 21-49:* 15,265,854 (2005 est.) |
+| **Timor-Leste** | *males age 18-49:* 235,198 |
+| | *females age 18-49:* 223,069 (2005 est.) |
+| **Togo** | *males age 18-49:* 1,102,661 |
+| | *females age 18-49:* 1,124,463 (2005 est.) |
+| **Tonga** | *males age 18-49:* 25,420 |
+| | *females age 18-49:* 24,827 (2005 est.) |
+| **Trinidad and Tobago** | *males age 18-49:* 290,715 |
+| | *females age 18-49:* 258,410 (2005 est.) |
+| **Tunisia** | *males age 20-49:* 2,441,741 |
+| | *females age 20-49:* 2,406,362 (2005 est.) |
+| **Turkey** | *males age 20-49:* 16,756,323 |
+| | *females age 20-49:* 16,051,706 (2005 est.) |
+| **Turkmenistan** | *males age 18-49:* 1,132,833 |
+| | *females age 18-49:* 1,162,569 (2005 est.) |
+| **Uganda** | *males age 18-49:* 5,012,620 |
+| | *females age 18-49:* 4,855,858 (2005 est.) |
+| **Ukraine** | *males age 18-49:* 11,020,222 |
+| | *females age 18-49:* 11,370,687 (2005 est.) |
+| **United Arab Emirates** | *males age 18-49:* 653,181 |
+| | *females age 18-49:* 497,394 (includes non-nationals; 2005 est.) |
+| **United Kingdom** | *males age 16-49:* 14,607,724 |
+| | *females age 16-49:* 14,028,738 (2005 est.) |
+| **United States** | *males age 18-49:* 67,742,879 |
+| | *females age 18-49:* 67,070,144 (2005 est.) |
+| **Uruguay** | *males age 18-49:* 764,408 |
+| | *females age 18-49:* 760,341 (2005 est.) |
+| **Uzbekistan** | *males age 18-49:* 6,340,220 |
+| | *females age 18-49:* 6,432,072 (2005 est.) |
+| **Vanuatu** | *males age 18-49:* 50,221 (2005 est.) |
+| **Venezuela** | *males age 18-49:* 6,236,012 |
+| | *females age 18-49:* 6,137,622 (2005 est.) |
+| **Vietnam** | *males age 18-49:* 21,341,813 |
+| | *females age 18-49:* 21,430,808 (2005 est.) |
+| **Yemen** | *males age 18-49:* 4,058,223 |
+| | *females age 18-49:* 3,868,112 (2005 est.) |
+| **Zambia** | *males age 18-49:* 2,219,739 |
+| | *females age 18-49:* 2,159,688 (2005 est.) |
+| **Zimbabwe** | *males age 18-49:* 2,778,404 |
+| | *females age 18-49:* 2,681,531 (2005 est.) |
+
+This page was last updated on 13 December, 2007
+ 

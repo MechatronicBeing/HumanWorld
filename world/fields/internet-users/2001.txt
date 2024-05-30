@@ -1,0 +1,242 @@
+CIA -- The World Factbook -- Internet users
+
+| Country | Internet users |
+| --- | --- |
+| **Afghanistan** | NA |
+| **Albania** | 2,500 (2000) |
+| **Algeria** | 20,000 (2000) |
+| **American Samoa** | NA |
+| **Andorra** | 5,000 (2000) |
+| **Angola** | 12,000 (1999) |
+| **Anguilla** | NA |
+| **Antigua and Barbuda** | 8,000 (2000) |
+| **Argentina** | 900,000 (2000) |
+| **Armenia** | 30,000 (2000) |
+| **Aruba** | 4,000 (2000) |
+| **Australia** | 7.77 million (2000) |
+| **Austria** | 2.6 million (2000) |
+| **Azerbaijan** | 8,000 (2000) |
+| **Bahamas, The** | 15,000 (2000) |
+| **Bahrain** | 37,500 (2000) |
+| **Bangladesh** | 30,000 (2000) |
+| **Barbados** | 6,000 (2000) |
+| **Belarus** | 10,000 (2000) |
+| **Belgium** | 2.7 million (2000) |
+| **Belize** | 12,000 (2000) |
+| **Benin** | 10,000 (2000) |
+| **Bermuda** | 25,000 (2000) |
+| **Bhutan** | 500 (2000) |
+| **Bolivia** | 35,000 (2000) |
+| **Bosnia and Herzegovina** | 3,500 (2000) |
+| **Botswana** | 12,000 (2000) |
+| **Brazil** | 8.65 million (2000) |
+| **British Virgin Islands** | NA |
+| **Brunei** | 28,000 (2001) |
+| **Bulgaria** | 200,000 (2000) |
+| **Burkina Faso** | 4,000 (2000) |
+| **Burma** | 500 (2000) |
+| **Burundi** | 2,000 (2000) |
+| **Cambodia** | NA |
+| **Cameroon** | 20,000 (2000) |
+| **Canada** | 13.28 million (1999) |
+| **Cape Verde** | 5,000 (2000) |
+| **Cayman Islands** | NA |
+| **Central African Republic** | 1,000 (2000) |
+| **Chad** | 1,000 (2000) |
+| **Chile** | 625,000 (2000) |
+| **China** | 22 million (January 2001) |
+| **Christmas Island** | NA |
+| **Cocos (Keeling) Islands** | NA |
+| **Colombia** | 600,000 (2000) |
+| **Comoros** | 800 (2000) |
+| **Congo, Democratic Republic of the** | 1,500 (1999) |
+| **Congo, Republic of the** | 500 (2000) |
+| **Cook Islands** | NA |
+| **Costa Rica** | 150,000 (2000) |
+| **Cote d'Ivoire** | 20,000 (2000) |
+| **Croatia** | 100,000 (1999) |
+| **Cuba** | 60,000 (2000) |
+| **Cyprus** | 80,000 (2000) |
+| **Czech Republic** | 900,000 (2000) |
+| **Denmark** | 2.3 million (2000) |
+| **Djibouti** | 1,000 (2000) |
+| **Dominica** | 2,000 (2000) |
+| **Dominican Republic** | 25,000 (1999) |
+| **Ecuador** | 20,000 (2000) |
+| **Egypt** | 300,000 (2000) |
+| **El Salvador** | 40,000 (2000) |
+| **Equatorial Guinea** | 500 (2000) |
+| **Eritrea** | 500 (2000) |
+| **Estonia** | 309,000 (2000) |
+| **Ethiopia** | 7,200 (1999) |
+| **Falkland Islands (Islas Malvinas)** | NA |
+| **Faroe Islands** | 3,000 (2000) |
+| **Fiji** | 7,500 (2000) |
+| **Finland** | 2.27 million (2000) |
+| **France** | 9 million (2000) |
+| **French Guiana** | 2,000 (2000) |
+| **French Polynesia** | 5,000 (2000) |
+| **Gabon** | 5,000 (2000) |
+| **Gambia, The** | 5,000 (2001) |
+| **Gaza Strip** | 23,520 (1999) (includes West Bank) |
+| **Georgia** | 20,000 (2000) |
+| **Germany** | 18 million (2000) |
+| **Ghana** | 20,000 (2000) |
+| **Gibraltar** | NA |
+| **Greece** | 1.33 million (1999) |
+| **Greenland** | 4,008 (1999) |
+| **Grenada** | 2,000 (2000) |
+| **Guadeloupe** | 4,000 (2000) |
+| **Guam** | 5,000 (2000) |
+| **Guatemala** | 65,000 (2000) |
+| **Guernsey** | NA |
+| **Guinea** | 5,000 (2000) |
+| **Guinea-Bissau** | 1,500 (2000) |
+| **Guyana** | 3,000 (2000) |
+| **Haiti** | 6,000 (2000) |
+| **Holy See (Vatican City)** | NA |
+| **Honduras** | 20,000 (2000) |
+| **Hong Kong** | 1.85 million (2000) |
+| **Hungary** | 650,000 (2000) |
+| **Iceland** | 144,000 (2000) |
+| **India** | 4.5 million (2000) |
+| **Indonesia** | 400,000 (2000) |
+| **Iran** | 100,000 (2000) |
+| **Iraq** | NA |
+| **Ireland** | 1 million (2001) |
+| **Israel** | 1 million (2000) |
+| **Italy** | 11.6 million (2000) |
+| **Jamaica** | 60,000 (2000) |
+| **Japan** | 27.06 million (2000) |
+| **Jersey** | NA |
+| **Jordan** | 87,500 (2000) |
+| **Kazakhstan** | 70,000 (2000) |
+| **Kenya** | 45,000 (1999) |
+| **Kiribati** | 1,000 (2000) |
+| **Korea, North** | NA |
+| **Korea, South** | 15.3 million (2000) |
+| **Kuwait** | 100,000 (2000) |
+| **Kyrgyzstan** | 10,000 (2000) |
+| **Laos** | 2,000 (2000) |
+| **Latvia** | 234,000 (2000) |
+| **Lebanon** | 227,500 (2000) |
+| **Lesotho** | 1,000 (2000) |
+| **Liberia** | 300 (2000) |
+| **Libya** | 7,500 (2000) |
+| **Liechtenstein** | NA |
+| **Lithuania** | 225,000 (2000) |
+| **Luxembourg** | 86,000 (1999) |
+| **Macau** | 40,000 (2000) |
+| **Macedonia, The Former Yugoslav Republic of** | 30,000 (2000) |
+| **Madagascar** | 8,000 (2000) |
+| **Malawi** | 10,000 (2000) |
+| **Malaysia** | 1.5 million (2000) |
+| **Maldives** | 2,000 (2000) |
+| **Mali** | 10,000 (2000) |
+| **Malta** | 40,000 (2000) |
+| **Man, Isle of** | NA |
+| **Marshall Islands** | 500 (2000) |
+| **Martinique** | 5,000 (2000) |
+| **Mauritania** | 3,500 (2000) |
+| **Mauritius** | 55,000 (2000) |
+| **Mayotte** | NA |
+| **Mexico** | 2.5 million (2000) |
+| **Micronesia, Federated States of** | 2,000 (2000) |
+| **Moldova** | 15,000 (2000) |
+| **Monaco** | NA |
+| **Mongolia** | between 10,000 and 15,000 (2001) |
+| **Montserrat** | NA |
+| **Morocco** | 120,000 (1999) |
+| **Mozambique** | 6,250 |
+| | *note:*  150 corporate accounts and 6,100 individual accounts (2000) |
+| **Namibia** | 9,000 (1999) |
+| **Nauru** | NA |
+| **Nepal** | 35,000 (2000) |
+| **Netherlands** | 6.8 million (2000) |
+| **Netherlands Antilles** | 2,000 (2000) |
+| **New Caledonia** | 5,000 (2000) |
+| **New Zealand** | 1.34 million (2000) |
+| **Nicaragua** | 20,000 (2000) |
+| **Niger** | 3,000 (2000) |
+| **Nigeria** | 100,000 (2000) |
+| **Niue** | NA |
+| **Norfolk Island** | NA |
+| **Northern Mariana Islands** | NA |
+| **Norway** | 2.36 million (October 2000) |
+| **Oman** | 50,000 (2000) |
+| **Pakistan** | 1.2 million (2000) |
+| **Panama** | 45,000 (2000) |
+| **Papua New Guinea** | 2,000 (2000) |
+| **Paraguay** | 20,000 (2000) |
+| **Peru** | 400,000 (2000) |
+| **Philippines** | 500,000 (2000) |
+| **Pitcairn Islands** | NA |
+| **Poland** | 2.8 million (2000) |
+| **Portugal** | 700,000 (2000) |
+| **Puerto Rico** | 110,000 (2000) |
+| **Qatar** | 45,000 (2000) |
+| **Reunion** | 10,000 (2000) |
+| **Romania** | 600,000 (2000) |
+| **Russia** | 9.2 million (2000) |
+| **Rwanda** | 1,000 (2000) |
+| **Saint Helena** | NA |
+| **Saint Kitts and Nevis** | 2,000 (2000) |
+| **Saint Lucia** | 5,000 (2000) |
+| **Saint Pierre and Miquelon** | NA |
+| **Saint Vincent and the Grenadines** | 2,000 (2000) |
+| **Samoa** | 500 (2000) |
+| **San Marino** | NA |
+| **Sao Tome and Principe** | 500 (2000) |
+| **Saudi Arabia** | 400,000 (2001) |
+| **Senegal** | 30,000 (2000) |
+| **Seychelles** | 5,000 (2000) |
+| **Sierra Leone** | 2,000 (2000) |
+| **Singapore** | 1.74 million (2000) |
+| **Slovakia** | 700,000 (2000) |
+| **Slovenia** | 460,000 (1999) |
+| **Solomon Islands** | 3,000 (2000) |
+| **Somalia** | 200 (2000) |
+| **South Africa** | 1.82 million (2000) |
+| **Spain** | 4.6 million (2000) |
+| **Sri Lanka** | 65,000 (2000) |
+| **Sudan** | 10,000 (2000) |
+| **Suriname** | 10,000 (2000) |
+| **Svalbard** | NA |
+| **Swaziland** | 4,000 (2000) |
+| **Sweden** | 4.5 million (2000) |
+| **Switzerland** | 2.4 million (2000) |
+| **Syria** | 20,000 (2000) |
+| **Tajikistan** | 2,000 (2000) |
+| **Tanzania** | 25,000 (2000) |
+| **Thailand** | 1 million (2000) |
+| **Togo** | 10,000 (2000) |
+| **Tokelau** | NA |
+| **Tonga** | 1,000 (2000) |
+| **Trinidad and Tobago** | 30,000 (2000) |
+| **Tunisia** | 110,000 (2000) |
+| **Turkey** | 2 million (2000) |
+| **Turkmenistan** | 2,000 (2000) |
+| **Turks and Caicos Islands** | NA |
+| **Tuvalu** | NA |
+| **Uganda** | 25,000 (2000) |
+| **Ukraine** | 200,000 (2000) |
+| **United Arab Emirates** | 400,000 (2000) |
+| **United Kingdom** | 19.47 million (2000) |
+| **United States** | 148 million (2000) |
+| **Uruguay** | 300,000 (2000) |
+| **Uzbekistan** | 7,500 (2000) |
+| **Vanuatu** | 3,000 (2000) |
+| **Venezuela** | 400,000 (2000) |
+| **Vietnam** | 121,000 (2000) |
+| **Virgin Islands** | 12,000 (2000) |
+| **Wallis and Futuna** | NA |
+| **West Bank** | 23,520 (includes Gaza Strip) (1999) |
+| **Western Sahara** | NA |
+| **World** | 407.1 million (2000 est.) |
+| **Yemen** | 12,000 (2000) |
+| **Yugoslavia** | 80,000 (2000) |
+| **Zambia** | 15,000 (2000) |
+| **Zimbabwe** | 30,000 (1999) |
+| **Taiwan** | 6.4 million (2000) |
+
+

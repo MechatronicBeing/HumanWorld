@@ -1,0 +1,225 @@
+CIA - The World Factbook -- Field Listing :: Taxes and other revenues   
+
+This entry records total taxes and other revenues received by the national government during the time period indicated, expressed as a percent of GDP. Taxes include personal and corporate income taxes, value added taxes, excise taxes, and tariffs. Other revenues include social contributions - such as payments for social security and hospital insurance - grants, and net revenues from public enterprises. Normalizing the data, by dividing total revenues by GDP, enables easy comparisons across countries, and provides an average rate at which all income (GDP) is paid to the national level government for the supply of public goods and services.
+
+| Country | Taxes and other revenues(% of GDP) |
+| --- | --- |
+| **Afghanistan** | 11.3% of GDP (2012 est.) |
+| **Albania** | 24.7% of GDP (2012 est.) |
+| **Algeria** | 40% of GDP (2012 est.) |
+| **American Samoa** | 33.6% of GDP (2007) |
+| **Andorra** | 8.4% of GDP (2011) |
+| **Angola** | 45.1% of GDP (2012 est.) |
+| **Anguilla** | 39.6% of GDP (2012 est.) |
+| **Antigua and Barbuda** | 19.6% of GDP (2012 est.) |
+| **Argentina** | 25.9% of GDP (2012 est.) |
+| **Armenia** | 23.9% of GDP (2012 est.) |
+| **Aruba** | 22.6% of GDP (2012 est.) |
+| **Australia** | 33.2% of GDP (2012 est.) |
+| **Austria** | 49.5% of GDP (2012 est.) |
+| **Azerbaijan** | 32.4% of GDP (2012 est.) |
+| **Bahamas, The** | 19.2% of GDP (2012 est.) |
+| **Bahrain** | 30.2% of GDP (2012 est.) |
+| **Bangladesh** | 11.6% of GDP (2012 est.) |
+| **Barbados** | 28.1% of GDP (2012 est.) |
+| **Belarus** | 35.9% of GDP (2012 est.) |
+| **Belgium** | 51.7% of GDP (2012 est.) |
+| **Belize** | 28.9% of GDP (2012 est.) |
+| **Benin** | 20.9% of GDP (2012 est.) |
+| **Bermuda** | 17.4% of GDP (FY11/12 est.) |
+| **Bhutan** | 28.8% of GDP (2012 est.) |
+| **Bolivia** | 47.1% of GDP (2012 est.) |
+| **Bosnia and Herzegovina** | 48.1% of GDP (2012 est.) |
+| **Botswana** | 38.7% of GDP (2012 est.) |
+| **Brazil** | 39.4% of GDP (2012 est.) |
+| **British Virgin Islands** | 27.4% of GDP (2012 est.) |
+| **Brunei** | 44% of GDP (2012 est.) |
+| **Bulgaria** | 35.9% of GDP (2012 est.) |
+| **Burkina Faso** | 23% of GDP (2012 est.) |
+| **Burma** | 4.2% of GDP (2012 est.) |
+| **Burundi** | 32.3% of GDP (2012 est.) |
+| **Cabo Verde** | 22.7% of GDP (2012 est.) |
+| **Cambodia** | 17.3% of GDP (2012 est.) |
+| **Cameroon** | 19.3% of GDP (2012 est.) |
+| **Canada** | 38.4% of GDP (2012 est.) |
+| **Cayman Islands** | 30.2% of GDP (2012 est.) |
+| **Central African Republic** | 15.9% of GDP (2012 est.) |
+| **Chad** | 21.6% of GDP (2012 est.) |
+| **Chile** | 22.2% of GDP (2012 est.) |
+| **China** | 22.9% of GDP (2012 est.) |
+| **Colombia** | 29.6% of GDP (2012 est.) |
+| **Comoros** | 28% of GDP (2012 est.) |
+| **Congo, Democratic Republic of the** | 30% of GDP (2012 est.) |
+| **Congo, Republic of the** | 43.2% of GDP (2012 est.) |
+| **Cook Islands** | 38.7% of GDP (FY05/06) |
+| **Costa Rica** | 14.6% of GDP (2012 est.) |
+| **Cote d'Ivoire** | 21.1% of GDP (2012 est.) |
+| **Croatia** | 38.7% of GDP (2012 est.) |
+| **Cuba** | 66.1% of GDP (2012 est.) |
+| **Curacao** | 10.8% of GDP (2011 est.) |
+| **Cyprus** | 40.6% of GDP (2012 est.) |
+| **Czech Republic** | 41.9% of GDP (2012 est.) |
+| **Denmark** | 56% of GDP (2012 est.) |
+| **Djibouti** | 34.9% of GDP (2012 est.) |
+| **Dominica** | 27.5% of GDP (2012 est.) |
+| **Dominican Republic** | 14.1% of GDP (2012 est.) |
+| **Ecuador** | 41.7% of GDP (2012 est.) |
+| **Egypt** | 19.8% of GDP (2012 est.) |
+| **El Salvador** | 19.6% of GDP (2012 est.) |
+| **Equatorial Guinea** | 36.8% of GDP (2012 est.) |
+| **Eritrea** | 26.4% of GDP (2012 est.) |
+| **Estonia** | 36.9% of GDP (2012 est.) |
+| **Ethiopia** | 15.2% of GDP (2012 est.) |
+| **Falkland Islands (Islas Malvinas)** | 40.8% of GDP (FY09/10) |
+| **Faroe Islands** | 44.2% of GDP (2010 est.) |
+| **Fiji** | 26.7% of GDP (2012 est.) |
+| **Finland** | 54.6% of GDP (2012 est.) |
+| **France** | 52.6% of GDP (2012 est.) |
+| **French Polynesia** | 15.3% of GDP (1999) |
+| **Gabon** | 27.5% of GDP (2012 est.) |
+| **Gambia, The** | 25.8% of GDP (2012 est.) |
+| **Georgia** | 28.3% of GDP (2012 est.) |
+| **Germany** | 45.4% of GDP (2012 est.) |
+| **Ghana** | 23.3% of GDP (2012 est.) |
+| **Gibraltar** | 43% of GDP (2008 est.) |
+| **Greece** | 45.5% of GDP (2012 est.) |
+| **Greenland** | 79.6% of GDP (2010) |
+| **Grenada** | 22.5% of GDP (2009 est.) |
+| **Guam** | 20.5% of GDP (FY10/11 est.) |
+| **Guatemala** | 11.8% of GDP (2012 est.) |
+| **Guernsey** | 20.6% of GDP (2005) |
+| **Guinea** | 23.3% of GDP (2012 est.) |
+| **Guinea-Bissau** | 15.9% of GDP (2012 est.) |
+| **Guyana** | 25.1% of GDP (2012 est.) |
+| **Haiti** | 23.2% of GDP (2012 est.) |
+| **Honduras** | 16.8% of GDP (2012 est.) |
+| **Hong Kong** | 22.3% of GDP (2012 est.) |
+| **Hungary** | 46.8% of GDP (2012 est.) |
+| **Iceland** | 43.6% of GDP (2012 est.) |
+| **India** | 9.5% of GDP (2012 est.) |
+| **Indonesia** | 16.7% of GDP (2012 est.) |
+| **Iran** | 14.7% of GDP (2012 est.) |
+| **Iraq** | 49.2% of GDP (2012 est.) |
+| **Ireland** | 35.1% of GDP (2012 est.) |
+| **Isle of Man** | 23.7% of GDP (FY05/06 est.) |
+| **Israel** | 25% of GDP (2012 est.) |
+| **Italy** | 48.5% of GDP (2012 est.) |
+| **Jamaica** | 26.5% of GDP (2012 est.) |
+| **Japan** | 33.8% of GDP (2012 est.) |
+| **Jersey** | 16.3% of GDP (2005) |
+| **Jordan** | 21.7% of GDP (2012 est.) |
+| **Kazakhstan** | 19.6% of GDP (2012 est.) |
+| **Kenya** | 18.5% of GDP (2012 est.) |
+| **Kiribati** | 32.2% of GDP (2010 est.) |
+| **Korea, North** | 11.4% of GDP |
+| | *note:* excludes earnings from state-operated enterprises (2007 est.) |
+| **Korea, South** | 24.8% of GDP (2012 est.) |
+| **Kosovo** | 27.4% of GDP (2011 est.) |
+| **Kuwait** | 63.6% of GDP (2012 est.) |
+| **Kyrgyzstan** | 29.8% of GDP (2012 est.) |
+| **Laos** | 23.5% of GDP (2012 est.) |
+| **Latvia** | 35.7% of GDP (2012 est.) |
+| **Lebanon** | 23% of GDP (2012 est.) |
+| **Lesotho** | 68.3% of GDP (2012 est.) |
+| **Liberia** | 22.3% of GDP (2012 est.) |
+| **Libya** | 71.1% of GDP (2012 est.) |
+| **Liechtenstein** | 25.2% of GDP (2011 est.) |
+| **Lithuania** | 33.4% of GDP (2012 est.) |
+| **Luxembourg** | 42.7% of GDP (2012 est.) |
+| **Macau** | 36.2% of GDP (2012 est.) |
+| **Macedonia** | 30.3% of GDP (2012 est.) |
+| **Madagascar** | 17.6% of GDP (2012 est.) |
+| **Malawi** | 25.1% of GDP (2012 est.) |
+| **Malaysia** | 22.4% of GDP (2012 est.) |
+| **Maldives** | 30.7% of GDP (2012 est.) |
+| **Mali** | 17.9% of GDP (2012 est.) |
+| **Malta** | 40.9% of GDP (2012 est.) |
+| **Marshall Islands** | 58.7% of GDP (FY09 est.) |
+| **Mauritania** | 40.2% of GDP (2012 est.) |
+| **Mauritius** | 21.7% of GDP (2012 est.) |
+| **Mexico** | 23% of GDP (2012 est.) |
+| **Micronesia, Federated States of** | 33.3% of GDP (FY10/11 est.) |
+| **Moldova** | 38.4% of GDP (2012 est.) |
+| **Monaco** | 19.6% of GDP (2011 est.) |
+| **Mongolia** | 31.9% of GDP (2012 est.) |
+| **Montenegro** | 40.4% of GDP (2012 est.) |
+| **Morocco** | 26.7% of GDP (2012 est.) |
+| **Mozambique** | 29.3% of GDP (2012 est.) |
+| **Namibia** | 35.1% of GDP (2012 est.) |
+| **Nepal** | 18.7% of GDP (FY11/12) |
+| **Netherlands** | 47.1% of GDP (2012 est.) |
+| **New Zealand** | 41.7% of GDP (2012 est.) |
+| **Nicaragua** | 26.3% of GDP (2012 est.) |
+| **Niger** | 26.2% of GDP (2012 est.) |
+| **Nigeria** | 8.4% of GDP (2012 est.) |
+| **Northern Mariana Islands** | 35.5% of GDP (FY10/11 est.) |
+| **Norway** | 58% of GDP (2012 est.) |
+| **Oman** | 45.4% of GDP (2012 est.) |
+| **Pakistan** | 12.4% of GDP (2012 est.) |
+| **Palau** | 40.3% of GDP (2010 est.) |
+| **Panama** | 25.4% of GDP (2012 est.) |
+| **Papua New Guinea** | 30.4% of GDP (2012 est.) |
+| **Paraguay** | 18.1% of GDP (2012 est.) |
+| **Peru** | 31.7% of GDP (2012 est.) |
+| **Philippines** | 14.7% of GDP (2012 est.) |
+| **Poland** | 18.3% of GDP (2012 est.) |
+| **Portugal** | 41.7% of GDP (2012 est.) |
+| **Puerto Rico** | 7.2% of GDP (FY99/00) |
+| **Qatar** | 40.2% of GDP (2012 est.) |
+| **Romania** | 33.3% of GDP (2012 est.) |
+| **Russia** | 20.8% of GDP (2012 est.) |
+| **Rwanda** | 24.3% of GDP (2012 est.) |
+| **Saint Kitts and Nevis** | 30.8% of GDP (2012 est.) |
+| **Saint Lucia** | 14.2% of GDP (2011 est.) |
+| **Saint Pierre and Miquelon** | 32.5% of GDP |
+| **Saint Vincent and the Grenadines** | 24.8% of GDP (2012 est.) |
+| **Samoa** | 34.3% of GDP (2012 est.) |
+| **San Marino** | 36.5% of GDP (2011) |
+| **Sao Tome and Principe** | 34.1% of GDP (2012 est.) |
+| **Saudi Arabia** | 46.5% of GDP (2012 est.) |
+| **Senegal** | 23.5% of GDP (2012 est.) |
+| **Serbia** | 40.9% of GDP (2012 est.) |
+| **Seychelles** | 43.1% of GDP (2012 est.) |
+| **Sierra Leone** | 15.4% of GDP (2012 est.) |
+| **Singapore** | 15.9% of GDP (2012 est.) |
+| **Slovakia** | 33.5% of GDP (2012 est.) |
+| **Slovenia** | 43% of GDP (2012 est.) |
+| **Solomon Islands** | 41.8% of GDP (2012 est.) |
+| **South Africa** | 26.3% of GDP (2012 est.) |
+| **Spain** | 36.9% of GDP (2012 est.) |
+| **Sri Lanka** | 13.4% of GDP (2012 est.) |
+| **Sudan** | 6.6% of GDP (2012 est.) |
+| **Suriname** | 17.6% of GDP (2010 est.) |
+| **Svalbard** | NA% of GDP |
+| **Swaziland** | 39.2% of GDP (2012 est.) |
+| **Sweden** | 52.2% of GDP (2012 est.) |
+| **Switzerland** | 34.2% of GDP (2012 est.) |
+| **Syria** | 8.1% of GDP (2012 est.) |
+| **Taiwan** | 16.8% of GDP (2012 est.) |
+| **Tajikistan** | 28.2% of GDP (2012 est.) |
+| **Tanzania** | 20% of GDP (2012 est.) |
+| **Thailand** | 20% of GDP (2012 est.) |
+| **Timor-Leste** | 24.1% of GDP (2012 est.) |
+| **Togo** | 20.3% of GDP (2012 est.) |
+| **Tonga** | 25% of GDP (2012 est.) |
+| **Trinidad and Tobago** | 30.1% of GDP (2012 est.) |
+| **Tunisia** | 26.4% of GDP (2012 est.) |
+| **Turkey** | 23.8% of GDP (2012 est.) |
+| **Turkmenistan** | 14.9% of GDP (2012 est.) |
+| **Tuvalu** | 54.6% of GDP (2006) |
+| **Uganda** | 14.8% of GDP (2012 est.) |
+| **Ukraine** | 32.1% of GDP (2012 est.) |
+| **United Arab Emirates** | 36.1% of GDP (2012 est.) |
+| **United Kingdom** | 40.4% of GDP (2012 est.) |
+| **United States** | 15.3% of GDP |
+| | *note:* excludes contributions for social security and other programs; if social contributions were added, taxes and other revenues would amount to approximately 22% of GDP (2012 est.) |
+| **Uruguay** | 28.9% of GDP (2012 est.) |
+| **Uzbekistan** | 32.9% of GDP (2012 est.) |
+| **Vanuatu** | 21.6% of GDP (2012 est.) |
+| **Venezuela** | 29.2% of GDP (2012 est.) |
+| **Vietnam** | 25.3% of GDP (2012 est.) |
+| **West Bank** | 31.6% of GDP (2011 est.) |
+| **World** | 28.9% of GDP (2012 est.) |
+| **Yemen** | 24.2% of GDP (2012 est.) |
+| **Zambia** | 20.9% of GDP (2012 est.) |
+| **Zimbabwe** | NA% of GDP |

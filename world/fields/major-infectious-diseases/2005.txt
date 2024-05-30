@@ -1,0 +1,242 @@
+CIA - The World Factbook -- Field Listing - Major infectious diseases
+
+| Country | Major infectious diseases |
+| --- | --- |
+| **Afghanistan** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* malaria is a high risk countrywide below 2,000 meters from March through November |
+| | *animal contact disease:* rabies (2004) |
+| **Algeria** | *degree of risk:* intermediate |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* cutaneous leishmaniasis is a high risk in some locations (2004) |
+| **Angola** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, typhoid fever |
+| | *vectorborne diseases:* malaria, African trypanosomiasis (sleeping sickness) are high risks in some locations |
+| | *respiratory disease:* meningococcal meningitis |
+| | *water contact disease:* schistosomiasis (2004) |
+| **Bangladesh** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A and E, and typhoid fever |
+| | *vectorborne diseases:* dengue fever and malaria are high risks in some locations |
+| | *water contact disease:* leptospirosis |
+| | *animal contact disease:* rabies (2004) |
+| **Benin** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria, yellow fever, and others are high risks in some locations |
+| | *respiratory disease:* meningococcal meningitis (2004) |
+| **Botswana** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* malaria (2004) |
+| **Burkina Faso** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* malaria is a high risk in some locations |
+| | *water contact disease:* schistosomiasis |
+| | *respiratory disease:* meningococcal meningitis (2004) |
+| **Burma** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever and malaria are high risks in some locations (2004) |
+| **Burundi** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* malaria (2004) |
+| **Cambodia** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever, malaria, and Japanese encephalitis are high risks in some locations (2004) |
+| **Cameroon** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and yellow fever are high risks in some locations |
+| | *water contact disease:* schistosomiasis |
+| | *respiratory disease:* meningococcal meningitis (2004) |
+| **Central African Republic** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* malaria |
+| | *respiratory disease:* meningococcal meningitis (2004) |
+| **Chad** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* malaria |
+| | *water contact disease:* schistosomiasis |
+| | *respiratory disease:* meningococcal meningitis (2004) |
+| **Congo, Democratic Republic of the** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria, plague, and African trypanosomiasis (sleeping sickness) are high risks in some locations |
+| | *water contact disease:* schistosomiasis (2004) |
+| **Congo, Republic of the** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* malaria (2004) |
+| **Cote d'Ivoire** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria, yellow fever, and others are high risks in some locations |
+| | *water contact:* schistosomiasis (2004) |
+| **Djibouti** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever |
+| | *vectorborne disease:* malaria (2004) |
+| **Equatorial Guinea** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* malaria (2004) |
+| **Eritrea** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* malaria is a high risk in some locations (2004) |
+| **Ethiopia** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, typhoid fever, and hepatitis E |
+| | *vectorborne diseases:* malaria and cutaneous leishmaniasis are high risks in some locations |
+| | *respiratory disease:* meningococcal meningitis |
+| | *animal contact disease:* rabies |
+| | *water contact disease:* schistosomiasis (2004) |
+| **Gabon** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* malaria (2004) |
+| **Gambia, The** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever, malaria, Crimean-Congo hemorrhagic fever, yellow fever are high risks in some locations |
+| | *water contact disease:* schistosomiasis |
+| | *respiratory disease:* meningococcal meningitis (2004) |
+| **Ghana** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and yellow fever are high risks in some locations |
+| | *water contact disease:* schistosomiasis |
+| | *respiratory disease:* meningococcal meningitis (2004) |
+| **Guinea** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and yellow fever are high risks in some locations |
+| | *water contact disease:* schistosomiasis |
+| | *respiratory disease:* meningococcal meningitis |
+| | *aerosolized dust or soil contact disease:* Lassa fever (2004) |
+| **Guinea-Bissau** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and yellow fever are high risks in some locations |
+| | *water contact disease:* schistosomiasis |
+| | *respiratory disease:* meningococcal meningitis (2004) |
+| **India** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A and E, and typhoid fever |
+| | *vectorborne diseases:* dengue fever, malaria, and Japanese encephalitis are high risks in some locations |
+| | *animal contact disease:* rabies (2004) |
+| **Indonesia** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever |
+| | *vectorborne diseases:* dengue fever, malaria, and chikungunya are high risks in some locations (2004) |
+| **Kenya** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* malaria is a high risk in some locations |
+| | *water contact disease:* schistosomiasis (2004) |
+| **Liberia** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and yellow fever are high risks in some locations |
+| | *water contact disease:* schistosomiasis |
+| | *aerosolized dust or soil contact disease:* Lassa fever (2004) |
+| **Libya** | *degree of risk:* intermediate |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* may be a significant risk in some locations during the transmission season (typically April through October) (2004) |
+| **Madagascar** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and plague are high risks in some locations |
+| | *water contact disease:* schistosomiasis (2004) |
+| **Malawi** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and plague are high risks in some locations |
+| | *water contact disease:* schistosomiasis (2004) |
+| **Malaysia** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever and malaria are high risks in some locations (2004) |
+| **Mali** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* malaria is a high risk in some locations |
+| | *water contact disease:* schistosomiasis |
+| | *respiratory disease:* meningococcal meningitis (2004) |
+| **Mauritania** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and Rift Valley fever are high risks in some locations |
+| | *respiratory disease:* meningococcal meningitis (2004) |
+| **Morocco** | *degree of risk:* intermediate |
+| | *food or waterborne diseases:* bacterial diarrhea, and hepatitis A |
+| | *vectorborne diseases:* may be a significant risk in some locations during the transmission season (typically April through November) (2004) |
+| **Mozambique** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and plague are high risks in some locations |
+| | *water contact disease:* schistosomiasis (2004) |
+| **Namibia** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* malaria |
+| | *water contact disease:* schistosomiasis (2004) |
+| **Niger** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* malaria is a high risk in some locations |
+| | *respiratory disease:* meningococcal meningitis (2004) |
+| **Nigeria** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* malaria |
+| | *respiratory disease:* meningococcal meningitis |
+| | *aerosolized dust or soil contact disease:* one of the most highly endemic areas for Lassa fever (2004) |
+| **Pakistan** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A and E, and typhoid fever |
+| | *vectorborne diseases:* dengue fever, malaria, and cutaneous leishmaniasis are high risks depending on location |
+| | *animal contact disease:* rabies (2004) |
+| **Papua New Guinea** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever and malaria are high risks in some locations (2004) |
+| **Philippines** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever and malaria are high risks in some locations |
+| | *animal contact disease:* rabies (2004) |
+| **Rwanda** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* malaria (2004) |
+| **Sao Tome and Principe** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne disease:* malaria (2004) |
+| **Senegal** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever, malaria, yellow fever, Crimean-Congo hemorrhagic fever, and Rift Valley fever are high risks in some locations |
+| | *water contact disease:* schistosomiasis |
+| | *respiratory disease:* meningococcal meningitis (2004) |
+| **Sierra Leone** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and yellow fever are high risks in some locations |
+| | *water contact disease:* schistosomiasis |
+| | *aerosolized dust or soil contact disease:* Lassa fever (2004) |
+| **Somalia** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever |
+| | *vectorborne diseases:* malaria and dengue fever are high risks in some locations |
+| | *water contact disease:* schistosomiasis |
+| | *animal contact disease:* rabies (2004) |
+| **Sudan** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria, dengue fever, African trypanosomiasis (sleeping sickness) are high risks in some locations |
+| | *water contact disease:* schistosomiasis |
+| | *respiratory disease:* meningococcal meningitis (2004) |
+| **Tanzania** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria, Rift Valley fever and plague are high risks in some locations |
+| | *water contact disease:* schistosomiasis (2004) |
+| **Thailand** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial diarrhea and hepatitis A |
+| | *vectorborne diseases:* dengue fever, malaria, Japanese encephalitis, and plague are high risks in some locations |
+| | *animal contact disease:* rabies |
+| | *water contact disease:* leptospirosis (2004) |
+| **Togo** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and yellow fever are high risks in some locations |
+| | *water contact disease:* schistosomiasis |
+| | *respiratory disease:* meningococcal meningitis (2004) |
+| **Tunisia** | *degree of risk:* intermediate |
+| | *food or waterborne diseases:* bacterial diarrhea, and hepatitis A |
+| | *vectorborne diseases:* may be a significant risk in some locations during the transmission season (typically April through November) (2004) |
+| **Uganda** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and African trypanosomiasis (sleeping sickness) are high risks in some locations |
+| | *water contact disease:* schistosomiasis (2004) |
+| **Vietnam** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* dengue fever, malaria, Japanese encephalitis, and plague are high risks in some locations |
+| | *animal contact disease:* rabies |
+| | *water contact disease:* leptospirosis (2004) |
+| **Western Sahara** | *degree of risk:* intermediate |
+| | *food or waterborne diseases:* bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* may be a significant risk in some locations during the transmission season (typically April through November) (2004) |
+| **Zambia** | *degree of risk:* very high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid fever |
+| | *vectorborne diseases:* malaria and plague are high risks in some locations |
+| | *water contact disease:* schistosomiasis (2004) |
+| **Zimbabwe** | *degree of risk:* high |
+| | *food or waterborne diseases:* bacterial diarrhea, hepatitis A, and typhoid |
+| | *vectorborne disease:* malaria |
+| | *water contact disease:* schistosomiasis (2004) |
+
+This page was last updated on 20 October, 2005
+ 

@@ -1,0 +1,239 @@
+CIA - The World Factbook -- Field Listing - Internet hosts
+
+| Country | Internet hosts |
+| --- | --- |
+| **Afghanistan** | 31 (2008) |
+| **Albania** | 10,162 (2008) |
+| **Algeria** | 477 (2008) |
+| **American Samoa** | 1,923 (2008) |
+| **Andorra** | 23,368 (2008) |
+| **Angola** | 3,562 (2008) |
+| **Anguilla** | 205 (2008) |
+| **Antarctica** | 7,748 (2008) |
+| **Antigua and Barbuda** | 2,215 (2008) |
+| **Argentina** | 3.813 million (2008) |
+| **Armenia** | 26,081 (2008) |
+| **Aruba** | 17,661 (2008) |
+| **Australia** | 11.134 million (2008) |
+| **Austria** | 2.806 million (2008) |
+| **Azerbaijan** | 6,995 (2008) |
+| **Bahamas, The** | 41 (2008) |
+| **Bahrain** | 2,621 (2008) |
+| **Bangladesh** | 1,440 (2008) |
+| **Barbados** | 104 (2008) |
+| **Belarus** | 68,118 (2008) |
+| **Belgium** | 3.841 million (2008) |
+| **Belize** | 2,751 (2008) |
+| **Benin** | 848 (2008) |
+| **Bermuda** | 1,628 (2008) |
+| **Bhutan** | 9,046 (2008) |
+| **Bolivia** | 68,428 (2008) |
+| **Bosnia and Herzegovina** | 56,032 (2008) |
+| **Botswana** | 6,374 (2008) |
+| **Bouvet Island** | 6 (2008) |
+| **Brazil** | 9.573 million (2008) |
+| **British Indian Ocean Territory** | 89 (2008) |
+| **British Virgin Islands** | 465 (2008) |
+| **Brunei** | 14,950 (2008) |
+| **Bulgaria** | 513,470 (2008) |
+| **Burkina Faso** | 116 (2008) |
+| **Burma** | 108 (2008) |
+| **Burundi** | 162 (2008) |
+| **Cambodia** | 1,230 (2008) |
+| **Cameroon** | 69 (2008) |
+| **Canada** | 5.119 million (2008) |
+| **Cape Verde** | 20 (2008) |
+| **Cayman Islands** | 4,648 (2008) |
+| **Central African Republic** | 21 (2008) |
+| **Chad** | 5 (2008) |
+| **Chile** | 847,215 (2008) |
+| **China** | 14.306 million (2008) |
+| **Christmas Island** | 1,821 (2008) |
+| **Colombia** | 1.554 million (2008) |
+| **Comoros** | 8 (2008) |
+| **Congo, Democratic Republic of the** | 3,211 (2008) |
+| **Congo, Republic of the** | 5 (2008) |
+| **Cook Islands** | 2,234 (2008) |
+| **Costa Rica** | 16,440 (2008) |
+| **Cote d'Ivoire** | 5,569 (2008) |
+| **Croatia** | 1.111 million (2008) |
+| **Cuba** | 3,664 (2008) |
+| **Cyprus** | 143,099 (2008) |
+| **Czech Republic** | 2.434 million (2008) |
+| **Denmark** | 3.642 million (2008) |
+| **Djibouti** | 161 (2008) |
+| **Dominica** | 29 (2008) |
+| **Dominican Republic** | 105,546 (2008) |
+| **Ecuador** | 45,404 (2008) |
+| **Egypt** | 175,342 (2008) |
+| **El Salvador** | 11,434 (2008) |
+| **Equatorial Guinea** | 9 (2008) |
+| **Eritrea** | 1,074 (2008) |
+| **Estonia** | 645,495 (2008) |
+| **Ethiopia** | 128 (2008) |
+| **European Union** | 31,693 (2008); note - this sum reflects the number of internet hosts assigned the .eu internet country code |
+| **Falkland Islands (Islas Malvinas)** | 91 (2008) |
+| **Faroe Islands** | 8,516 (2008) |
+| **Fiji** | 12,592 (2008) |
+| **Finland** | 3.877 million (2008) |
+| **France** | 14.256 million; 14,256,000 (metropolitan France) (2008) |
+| **French Polynesia** | 14,070 (2008) |
+| **French Southern and Antarctic Lands** | 38 (2008) |
+| **Gabon** | 88 (2008) |
+| **Gambia, The** | 320 (2008) |
+| **Georgia** | 27,905 (2008) |
+| **Germany** | 22.606 million (2008) |
+| **Ghana** | 24,018 (2008) |
+| **Gibraltar** | 1,904 (2008) |
+| **Greece** | 1.626 million (2008) |
+| **Greenland** | 14,132 (2008) |
+| **Grenada** | 9 (2008) |
+| **Guam** | 36 (2008) |
+| **Guatemala** | 124,095 (2008) |
+| **Guernsey** | 156 (2008) |
+| **Guinea** | 16 (2008) |
+| **Guinea-Bissau** | 82 (2008) |
+| **Guyana** | 6,218 (2008) |
+| **Haiti** | 7 (2008) |
+| **Holy See (Vatican City)** | 55 (2008) |
+| **Honduras** | 13,370 (2008) |
+| **Hong Kong** | 817,766 (2008) |
+| **Hungary** | 1.879 million (2008) |
+| **Iceland** | 263,980 (2008) |
+| **India** | 2.707 million (2008) |
+| **Indonesia** | 753,200 (2008) |
+| **Iran** | 2,860 (2008) |
+| **Iraq** | 3 (2008) |
+| **Ireland** | 1.242 million (2008) |
+| **Isle of Man** | 426 (2008) |
+| **Israel** | 1.415 million (2008) |
+| **Italy** | 17.702 million (2008) |
+| **Jamaica** | 1,292 (2008) |
+| **Japan** | 39.909 million (2008) |
+| **Jersey** | 190 (2008) |
+| **Jordan** | 21,150 (2008) |
+| **Kazakhstan** | 36,417 (2008) |
+| **Kenya** | 27,376 (2008) |
+| **Kiribati** | 9 (2008) |
+| **Korea, South** | 333,823 (2008) |
+| **Kuwait** | 3,289 (2008) |
+| **Kyrgyzstan** | 56,905 (2008) |
+| **Laos** | 1,015 (2008) |
+| **Latvia** | 220,082 (2008) |
+| **Lebanon** | 36,681 (2008) |
+| **Lesotho** | 83 (2008) |
+| **Liberia** | 7 (2008) |
+| **Libya** | 31 (2008) |
+| **Liechtenstein** | 7,639 (2008) |
+| **Lithuania** | 812,083 (2008) |
+| **Luxembourg** | 180,756 (2008) |
+| **Macau** | 263 (2008) |
+| **Macedonia** | 36,905 (2008) |
+| **Madagascar** | 11,016 (2008) |
+| **Malawi** | 107 (2008) |
+| **Malaysia** | 377,716 (2008) |
+| **Maldives** | 1,600 (2008) |
+| **Mali** | 387 (2008) |
+| **Malta** | 26,494 (2008) |
+| **Marshall Islands** | 3 (2008) |
+| **Mauritania** | 34 (2008) |
+| **Mauritius** | 9,609 (2008) |
+| **Mayotte** | 1 (2008) |
+| **Mexico** | 10.653 million (2008) |
+| **Micronesia, Federated States of** | 866 (2008) |
+| **Moldova** | 223,869 (2008) |
+| **Monaco** | 21,058 (2008) |
+| **Mongolia** | 356 (2008) |
+| **Montserrat** | 409 (2008) |
+| **Morocco** | 275,889 (2008) |
+| **Mozambique** | 22,532 (2008) |
+| **Namibia** | 6,296 (2008) |
+| **Nauru** | 42 (2008) |
+| **Nepal** | 42,219 (2008) |
+| **Netherlands** | 10.983 million (2008) |
+| **Netherlands Antilles** | 47,597 (2008) |
+| **New Caledonia** | 15,487 (2008) |
+| **New Zealand** | 1.72 million (2008) |
+| **Nicaragua** | 58,157 (2008) |
+| **Niger** | 216 (2008) |
+| **Nigeria** | 1,048 (2008) |
+| **Niue** | 382,599 (2008) |
+| **Norfolk Island** | 51 (2008) |
+| **Northern Mariana Islands** | 6 (2008) |
+| **Norway** | 2.995 million (2008) |
+| **Oman** | 4,785 (2008) |
+| **Pakistan** | 197,264 (2008) |
+| **Palau** | 0 (2008) |
+| **Panama** | 7,858 (2008) |
+| **Papua New Guinea** | 3,422 (2008) |
+| **Paraguay** | 19,691 (2008) |
+| **Peru** | 271,745 (2008) |
+| **Philippines** | 283,579 (2008) |
+| **Pitcairn Islands** | 12 (2008) |
+| **Poland** | 7.808 million (2008) |
+| **Portugal** | 1.858 million (2008) |
+| **Puerto Rico** | 404 (2008) |
+| **Qatar** | 563 (2008) |
+| **Romania** | 2.195 million (2008) |
+| **Russia** | 4.822 million (2008) |
+| **Rwanda** | 2,363 (2008) |
+| **Saint Helena** | 306 (2008) |
+| **Saint Kitts and Nevis** | 45 (2008) |
+| **Saint Lucia** | 17 (2008) |
+| **Saint Pierre and Miquelon** | 0 (2008) |
+| **Saint Vincent and the Grenadines** | 124 (2008) |
+| **Samoa** | 11,307 (2008) |
+| **San Marino** | 6,665 (2008) |
+| **Sao Tome and Principe** | 1,355 (2008) |
+| **Saudi Arabia** | 141,232 (2008) |
+| **Senegal** | 217 (2008) |
+| **Serbia** | NA |
+| **Seychelles** | 284 (2008) |
+| **Sierra Leone** | 8 (2008) |
+| **Singapore** | 837,559 (2008) |
+| **Slovakia** | 717,744 (2008) |
+| **Slovenia** | 75,984 (2008) |
+| **Solomon Islands** | 3,804 (2008) |
+| **Somalia** | 1 (2008) |
+| **South Africa** | 1.297 million (2008) |
+| **South Georgia and the South Sandwich Islands** | 196 (2008) |
+| **Spain** | 3.264 million (2008) |
+| **Sri Lanka** | 4,940 (2008) |
+| **Sudan** | 33 (2008) |
+| **Suriname** | 33 (2008) |
+| **Swaziland** | 2,582 (2008) |
+| **Sweden** | 3.579 million (2008) |
+| **Switzerland** | 3.437 million (2008) |
+| **Syria** | 7,857 (2008) |
+| **Taiwan** | 5.225 million (2008) |
+| **Tajikistan** | 1,158 (2008) |
+| **Tanzania** | 24,271 (2008) |
+| **Thailand** | 1.116 million (2008) |
+| **Timor-Leste** | 285 (2008) |
+| **Togo** | 769 (2008) |
+| **Tokelau** | 273 (2008) |
+| **Tonga** | 19,231 (2008) |
+| **Trinidad and Tobago** | 155,722 (2008) |
+| **Tunisia** | 376 (2008) |
+| **Turkey** | 2.667 million (2008) |
+| **Turkmenistan** | 640 (2008) |
+| **Turks and Caicos Islands** | 2,352 (2008) |
+| **Tuvalu** | 56,209 (2008) |
+| **Uganda** | 1,090 (2008) |
+| **Ukraine** | 524,202 (2008) |
+| **United Arab Emirates** | 381,915 (2008) |
+| **United Kingdom** | 8.269 million (2008) |
+| **United States** | *316 million (2008); note - the US Internet total host count includes the following top level domain host addresses:* .us, .com, .edu, .gov, .mil, .net, and .org |
+| **Uruguay** | 480,593 (2008) |
+| **Uzbekistan** | 38,183 (2008) |
+| **Vanuatu** | 990 (2008) |
+| **Venezuela** | 145,394 (2008) |
+| **Vietnam** | 84,151 (2008) |
+| **Virgin Islands** | 4,610 (2008) |
+| **Wallis and Futuna** | 1 (2008) |
+| **Yemen** | 167 (2008) |
+| **Zambia** | 7,610 (2008) |
+| **Zimbabwe** | 19,157 (2008) |
+
+This page was last updated on 18 December 2008
+ 

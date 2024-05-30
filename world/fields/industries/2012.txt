@@ -1,0 +1,6 @@
+CIA - The World Factbook -- Field Listing :: Industries   
+
+This entry provides a rank ordering of industries starting with the largest by value of annual output.
+
+| Country | Industries |
+| --- | --- |

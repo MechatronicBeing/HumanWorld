@@ -1,0 +1,384 @@
+FIELD LISTING :: COMMERCIAL BANK PRIME LENDING RATE
+
+This entry provides a simple average of annualized interest rates commercial banks charge on new loans, denominated in the national currency, to their most credit-worthy customers.
+
+| Country | COMMERCIAL BANK PRIME LENDING RATE(%) |
+| --- | --- |
+| **Afghanistan** | 15% (31 December 2015 est.) |
+| | 15% (31 December 2014 est.) |
+| **Albania** | 8.7% (31 December 2015 est.) |
+| | 8.66% (31 December 2014 est.) |
+| **Algeria** | 8% (31 December 2015 est.) |
+| | 8% (31 December 2014 est.) |
+| **Angola** | 16.88% (31 December 2015 est.) |
+| | 16.38% (31 December 2014 est.) |
+| **Anguilla** | 9.1% (31 December 2015 est.) |
+| | 9.09% (31 December 2014 est.) |
+| **Antigua and Barbuda** | 9.8% (31 December 2015 est.) |
+| | 10.08% (31 December 2014 est.) |
+| **Argentina** | 24.92% (31 December 2015 est.) |
+| | 24.01% (31 December 2014 est.) |
+| **Armenia** | 17.59% (31 December 2015 est.) |
+| | 16.41% (31 December 2014 est.) |
+| | *note:* average lending rate on loans up to one year |
+| **Aruba** | 8.25% (31 December 2015 est.) |
+| | 8.23% (31 December 2014 est.) |
+| **Australia** | 5.58% (31 December 2015 est.) |
+| | 5.95% (31 December 2014 est.) |
+| **Austria** | 2% (31 December 2015 est.) |
+| | 2.15% (31 December 2014 est.) |
+| **Azerbaijan** | 13.86% (31 December 2015 est.) |
+| | 14.19% (31 December 2014 est.) |
+| **Bahamas, The** | 4.8% (31 December 2015 est.) |
+| | 4.75% (31 December 2014 est.) |
+| **Bahrain** | 5.16% (31 December 2015 est.) |
+| | 5.87% (31 December 2014 est.) |
+| **Bangladesh** | 11.71% (31 December 2015 est.) |
+| | 12.95% (31 December 2014 est.) |
+| **Barbados** | 8.1% (31 December 2015 est.) |
+| | 8.38% (31 December 2014 est.) |
+| **Belarus** | 18.08% (31 December 2015 est.) |
+| | 18.74% (31 December 2014 est.) |
+| **Belgium** | 2.46% (31 December 2015 est.) |
+| | 3.23% (31 December 2014 est.) |
+| **Belize** | 10.32% (31 December 2015 est.) |
+| | 10.82% (31 December 2014 est.) |
+| **Benin** | NA% |
+| **Bhutan** | 13.75% (31 December 2015 est.) |
+| | 14.15% (31 December 2014 est.) |
+| **Bolivia** | 8.07% (31 December 2015 est.) |
+| | 9.69% (31 December 2014 est.) |
+| **Bosnia and Herzegovina** | 5.79% (31 December 2015 est.) |
+| | 6.64% (31 December 2014 est.) |
+| **Botswana** | 7.95% (31 December 2015 est.) |
+| | 9% (31 December 2014 est.) |
+| **Brazil** | 43.96% (31 December 2015 est.) |
+| | 32.01% (31 December 2014 est.) |
+| **Brunei** | 5.5% (31 December 2015 est.) |
+| | 5.5% (31 December 2014 est.) |
+| **Bulgaria** | 7.48% (31 December 2015 est.) |
+| | 8.28% (31 December 2014 est.) |
+| **Burkina Faso** | NA% (31 December 2014 est.) |
+| **Burma** | 13% (31 December 2015 est.) |
+| | 13% (31 December 2014 est.) |
+| **Burundi** | 15.3% (31 December 2015 est.) |
+| | 15.67% (31 December 2014 est.) |
+| **Cabo Verde** | 10.41% (31 December 2015 est.) |
+| | 10.89% (31 December 2014 est.) |
+| **Cambodia** | 11.71% (31 December 2015 est.) |
+| | 12.31% (31 December 2014 est.) |
+| **Cameroon** | 13% (31 December 2015 est.) |
+| | 13% (31 December 2014 est.) |
+| **Canada** | 2.78% (31 December 2015 est.) |
+| | 3% (31 December 2014 est.) |
+| **Central African Republic** | 15.5% (31 December 2015 est.) |
+| | 15% (31 December 2014 est.) |
+| **Chad** | 15.5% (31 December 2015 est.) |
+| | 15.5% (31 December 2014 est.) |
+| **Chile** | 5.52% (31 December 2015 est.) |
+| | 8.1% (31 December 2014 est.) |
+| **China** | 4.35% (31 December 2015 est.) |
+| | 5.6% (31 December 2014 est.) |
+| **Colombia** | 11.45% (31 December 2015 est.) |
+| | 10.87% (31 December 2014 est.) |
+| **Comoros** | 10.5% (31 December 2015 est.) |
+| | 10.5% (31 December 2014 est.) |
+| **Congo, Democratic Republic of the** | 19.37% (31 December 2015 est.) |
+| | 18.69% (31 December 2014 est.) |
+| **Congo, Republic of the** | 14.8% (31 December 2015 est.) |
+| | 14.8% (31 December 2014 est.) |
+| **Costa Rica** | 14.24% (31 December 2015 est.) |
+| | 14.9% (31 December 2014 est.) |
+| **Cote d'Ivoire** | 2.5% (31 December 2015 est.) |
+| | 2.5% (31 December 2014 est.) |
+| **Croatia** | 5.83% (31 December 2015 est.) |
+| | 6.28% (31 December 2014 est.) |
+| **Cuba** | NA% |
+| **Cyprus** | 4.69% (31 December 2015 est.) |
+| | 5.88% (31 December 2014 est.) |
+| **Czechia** | 4.28% (31 December 2015 est.) |
+| | 4.64% (31 December 2014 est.) |
+| **Denmark** | 3.42% (31 December 2015 est.) |
+| | 3.62% (31 December 2014 est.) |
+| **Djibouti** | 11.62% (31 December 2015 est.) |
+| | 12.69% (31 December 2014 est.) |
+| **Dominica** | 8.7% (31 December 2015 est.) |
+| | 8.94% (31 December 2014 est.) |
+| **Dominican Republic** | 14.88% (31 December 2015 est.) |
+| | 13.9% (31 December 2014 est.) |
+| **Ecuador** | 8.33% (31 December 2015 est.) |
+| | 8.12% (31 December 2014 est.) |
+| **Egypt** | 11.63% (31 December 2015 est.) |
+| | 11.71% (31 December 2014 est.) |
+| **El Salvador** | 6.13% (31 December 2015 est.) |
+| | 5.99% (31 December 2014 est.) |
+| **Equatorial Guinea** | 14% (31 December 2015 est.) |
+| | 15% (31 December 2014 est.) |
+| **Eritrea** | NA% |
+| **Estonia** | 4.48% (31 December 2015 est.) |
+| | 4.76% (31 December 2014 est.) |
+| **Ethiopia** | 11.5% (31 December 2015 est.) |
+| | 11% (31 December 2014 est.) |
+| **European Union** | 0.32% (31 December 2014 est.) |
+| | 0.56% (31 December 2013 est.) |
+| **Fiji** | 5.79% (31 December 2015 est.) |
+| | 5.76% (31 December 2014 est.) |
+| **Finland** | 2% (31 December 2015 est.) |
+| | 2.2% (31 December 2014 est.) |
+| **France** | 1.93% (31 December 2015 est.) |
+| | 2.6% (31 December 2014 est.) |
+| **Gabon** | 15.3% (31 December 2015 est.) |
+| | 15% (31 December 2014 est.) |
+| **Gambia, The** | 30.8% (31 December 2015 est.) |
+| | 28.5% (31 December 2014 est.) |
+| **Gaza Strip** | see entry for the West Bank |
+| **Georgia** | 12.49% (31 December 2015 est.) |
+| | 11.91% (31 December 2014 est.) |
+| **Germany** | 1.84% (31 December 2015 est.) |
+| | 2.47% (31 December 2014 est.) |
+| **Ghana** | 28.6% (31 December 2015 est.) |
+| | 27% (31 December 2014 est.) |
+| **Greece** | 5.89% (31 December 2015 est.) |
+| | 6.52% (31 December 2014 est.) |
+| **Grenada** | 8.96% (31 December 2015 est.) |
+| | 9.19% (31 December 2014 est.) |
+| **Guatemala** | 13.23% (31 December 2015 est.) |
+| | 13.77% (31 December 2014 est.) |
+| **Guinea-Bissau** | 15% (31 December 2015 est.) |
+| | 15% (31 December 2014 est.) |
+| **Guinea** | 23% (31 December 2015 est.) |
+| | 23% (31 December 2014 est.) |
+| **Guyana** | 12.83% (31 December 2015 est.) |
+| | 12.83% (31 December 2014 est.) |
+| **Haiti** | 12.9% (31 December 2015 est.) |
+| | 10.77% (31 December 2014 est.) |
+| **Honduras** | 20.66% (31 December 2015 est.) |
+| | 20.61% (31 December 2014 est.) |
+| **Hong Kong** | 5% (31 December 2015 est.) |
+| | 5% (31 December 2014 est.) |
+| **Hungary** | 2.9% (31 December 2015 est.) |
+| | 4.45% (31 December 2014 est.) |
+| **Iceland** | 7.61% (31 December 2015 est.) |
+| | 7.74% (31 December 2014 est.) |
+| **India** | 10.01% (31 December 2015 est.) |
+| | 10.25% (31 December 2014 est.) |
+| **Indonesia** | 12.66% (31 December 2015 est.) |
+| | 12.61% (31 December 2014 est.) |
+| | *note:* these figures represent the average annualized rate on working capital loans |
+| **Iran** | 14.2% (31 December 2015 est.) |
+| | 14% (31 December 2014 est.) |
+| **Iraq** | 6% (31 December 2015 est.) |
+| | 6% (31 December 2014 est.) |
+| **Ireland** | 3.4% (31 December 2015 est.) |
+| | 3.41% (31 December 2014 est.) |
+| **Israel** | 3.46% (31 December 2015 est.) |
+| | 3.91% (31 December 2014 est.) |
+| **Italy** | 4.13% (31 December 2015 est.) |
+| | 4.87% (31 December 2014 est.) |
+| **Jamaica** | 16.98% (31 December 2015 est.) |
+| | 17.22% (31 December 2014 est.) |
+| **Japan** | 1.48% (31 December 2015 est.) |
+| | 1.48% (31 December 2014 est.) |
+| **Jordan** | 8.24% (31 December 2015 est.) |
+| | 8.84% (31 December 2014 est.) |
+| **Kazakhstan** | 9.56% (31 December 2015 est.) |
+| | 7.24% (31 December 2014 est.) |
+| **Kenya** | 16.09% (31 December 2015 est.) |
+| | 16.51% (31 December 2014 est.) |
+| **Korea, South** | 3.53% (31 December 2015 est.) |
+| | 4.26% (31 December 2014 est.) |
+| **Kosovo** | 12.8% (30 June 2013 est.) |
+| | 13.7% (31 December 2012 est.) |
+| **Kuwait** | 4.3% (31 December 2015 est.) |
+| | 4.3% (31 December 2014 est.) |
+| **Kyrgyzstan** | 24.25% (31 December 2015 est.) |
+| | 22.36% (31 December 2014 est.) |
+| **Laos** | 18.2% (31 December 2015 est.) |
+| | 19.2% (31 December 2014 est.) |
+| **Latvia** | 4.5% (31 December 2015 est.) |
+| | 4.6% (31 December 2014 est.) |
+| **Lebanon** | 7.09% (31 December 2015 est.) |
+| | 7.27% (31 December 2014 est.) |
+| **Lesotho** | 10.59% (31 December 2015 est.) |
+| | 10.34% (31 December 2014 est.) |
+| **Liberia** | 13.61% (31 December 2015 est.) |
+| | 13.5% (31 December 2014 est.) |
+| **Libya** | 6% (31 December 2015 est.) |
+| | 6% (31 December 2014 est.) |
+| **Lithuania** | 3.1% (31 December 2015 est.) |
+| | 3.5% (31 December 2014 est.) |
+| **Macau** | 5.25% (31 December 2015 est.) |
+| | 5.25% (31 December 2014 est.) |
+| **Macedonia** | 7.08% (31 December 2015 est.) |
+| | 7.46% (31 December 2014 est.) |
+| **Madagascar** | 60% (31 December 2015 est.) |
+| | 60% (31 December 2014 est.) |
+| **Malawi** | 44.9% (31 December 2015 est.) |
+| | 44.29% (31 December 2014 est.) |
+| **Malaysia** | 4.57% (31 December 2015 est.) |
+| | 4.67% (31 December 2014 est.) |
+| **Maldives** | 10.5% (31 December 2012 est.) |
+| | 10.2% (31 December 2011 est.) |
+| **Mali** | 9.3% (31 December 2015 est.) |
+| | 9.3% (31 December 2014 est.) |
+| **Malta** | 3.4% (31 December 2015 est.) |
+| | 3.9% (31 December 2014 est.) |
+| **Mauritania** | 17% (31 December 2015 est.) |
+| | 17% (31 December 2014 est.) |
+| **Mauritius** | 8.5% (31 December 2015 est.) |
+| | 8.5% (31 December 2014 est.) |
+| **Mexico** | 3.42% (31 December 2015 est.) |
+| | 3.55% (31 December 2014 est.) |
+| **Micronesia, Federated States of** | 7.1% (2013 est.) |
+| | 6.4% (2012 est.) |
+| **Moldova** | 14.2% (31 December 2015 est.) |
+| | 11.01% (31 December 2014 est.) |
+| **Mongolia** | 19.56% (31 December 2015 est.) |
+| | 19.03% (31 December 2014 est.) |
+| **Montenegro** | 9.22% (31 December 2014 est.) |
+| | 9.36% (31 December 2013 est.) |
+| **Montserrat** | 7.82% (31 December 2015 est.) |
+| | 8.02% (31 December 2014 est.) |
+| **Morocco** | 6% (31 December 2015 est.) |
+| | 6% (31 December 2014 est.) |
+| **Mozambique** | 14.87% (31 December 2015 est.) |
+| | 14.8% (31 December 2014 est.) |
+| **Namibia** | 7.41% (17 February 2016 est.) |
+| | 8.7% (31 December 2015 est.) |
+| **Nepal** | 9.8% (31 December 2015 est.) |
+| | 10.6% (31 December 2014 est.) |
+| **Netherlands** | 1.85% (31 December 2015 est.) |
+| | 2.27% (31 December 2014 est.) |
+| **New Zealand** | 5.76% (31 December 2015 est.) |
+| | 5.8% (31 December 2014 est.) |
+| **Nicaragua** | 12.05% (31 December 2015 est.) |
+| | 13.54% (31 December 2014 est.) |
+| **Nigeria** | 16.85% (31 December 2015 est.) |
+| | 16.55% (31 December 2014 est.) |
+| **Niger** | 3.5% (31 December 2015 est.) |
+| | 3.5% (31 December 2014 est.) |
+| **Norway** | 1.75% (31 December 2015 est.) |
+| | 2.25% (31 December 2014 est.) |
+| **Oman** | 4.76% (31 December 2015 est.) |
+| | 5.08% (31 December 2014 est.) |
+| **Pakistan** | 8.37% (31 December 2015 est.) |
+| | 10.51% (31 December 2014 est.) |
+| **Panama** | 7.46% (31 December 2015 est.) |
+| | 6.83% (31 December 2014 est.) |
+| **Papua New Guinea** | 8.73% (31 December 2015 est.) |
+| | 9.38% (31 December 2014 est.) |
+| **Paraguay** | 19.74% (31 December 2015 est.) |
+| | 21.19% (31 December 2014 est.) |
+| **Peru** | 16.1% (31 December 2015 est.) |
+| | 15.74% (31 December 2014 est.) |
+| | *note:* domestic currency lending rate, 90 day maturity |
+| **Philippines** | 5.58% (31 December 2015 est.) |
+| | 5.53% (31 December 2014 est.) |
+| **Poland** | 4.92% (31 December 2015 est.) |
+| | 6.25% (31 December 2014 est.) |
+| **Portugal** | 4.49% (31 December 2015 est.) |
+| | 5.3% (31 December 2014 est.) |
+| **Puerto Rico** | 3.3% (31 December 2015 est.) |
+| | 3.3% (31 December 2014 est.) |
+| **Qatar** | 4.5% (31 December 2015 est.) |
+| | 4.5% (31 December 2014 est.) |
+| **Romania** | 6.77% (31 December 2015 est.) |
+| | 8.47% (31 December 2014 est.) |
+| **Russia** | 15.73% (31 December 2015 est.) |
+| | 11.14% (31 December 2014 est.) |
+| **Rwanda** | 17.33% (31 December 2015 est.) |
+| | 17.26% (31 December 2014 est.) |
+| **Saint Kitts and Nevis** | 9.3% (31 December 2015 est.) |
+| | 9.28% (31 December 2014 est.) |
+| **Saint Lucia** | 8.86% (31 December 2015 est.) |
+| | 9% (31 December 2014 est.) |
+| **Saint Vincent and the Grenadines** | 9.3% (31 December 2015 est.) |
+| | 9.15% (31 December 2014 est.) |
+| **Samoa** | 9.39% (31 December 2015 est.) |
+| | 9.98% (31 December 2014 est.) |
+| **San Marino** | 5.92% (31 December 2011 est.) |
+| | 5.38% (31 December 2010 est.) |
+| **Sao Tome and Principe** | 15% (31 December 2015 est.) |
+| | 16% (31 December 2014 est.) |
+| **Saudi Arabia** | 6.9% (31 December 2015 est.) |
+| | 6.7% (31 December 2014 est.) |
+| **Senegal** | 14.3% (31 December 2015 est.) |
+| | 14.5% (31 December 2014 est.) |
+| **Serbia** | 11% (31 December 2015 est.) |
+| | 14.81% (31 December 2014 est.) |
+| **Seychelles** | 12.36% (31 December 2015 est.) |
+| | 11.65% (31 December 2014 est.) |
+| **Sierra Leone** | 18.78% (31 December 2015 est.) |
+| | 19.41% (31 December 2014 est.) |
+| **Singapore** | 5.35% (31 December 2015 est.) |
+| | 5.35% (31 December 2014 est.) |
+| **Slovakia** | 2.78% (31 December 2015 est.) |
+| | 3.2% (31 December 2014 est.) |
+| **Slovenia** | 3.49% (31 December 2015 est.) |
+| | 5.02% (31 December 2014 est.) |
+| **Solomon Islands** | 10.48% (31 December 2015 est.) |
+| | 10.91% (31 December 2014 est.) |
+| **Somalia** | NA% |
+| **South Africa** | 9.42% (31 December 2015 est.) |
+| | 9.13% (31 December 2014 est.) |
+| **Spain** | 2.74% (31 December 2015 est.) |
+| | 3.5% (31 December 2014 est.) |
+| **Sri Lanka** | 6.96% (31 December 2015 est.) |
+| | 7.84% (31 December 2014 est.) |
+| **Suriname** | 12.62% (31 December 2015 est.) |
+| | 12.28% (31 December 2014 est.) |
+| **Swaziland** | 9.04% (31 December 2015 est.) |
+| | 8.63% (31 December 2014 est.) |
+| **Sweden** | 1.96% (31 December 2015 est.) |
+| | 2.53% (31 December 2014 est.) |
+| **Switzerland** | 2.68% (31 December 2015 est.) |
+| | 2.69% (31 December 2014 est.) |
+| **Syria** | 27% (31 December 2015 est.) |
+| | 18.5% (31 December 2014 est.) |
+| **Taiwan** | 2.83% (31 December 2015 est.) |
+| | 2.88% (31 December 2014 est.) |
+| **Tajikistan** | 25.84% (31 December 2015 est.) |
+| | 24.53% (31 December 2014 est.) |
+| **Tanzania** | 16.1% (31 December 2015 est.) |
+| | 16.26% (31 December 2014 est.) |
+| **Thailand** | 6.56% (31 December 2015 est.) |
+| | 6.77% (31 December 2014 est.) |
+| **Timor-Leste** | 13.5% (31 December 2015 est.) |
+| | 12.87% (31 December 2014 est.) |
+| **Togo** | NA% |
+| **Tonga** | 8.09% (31 December 2015 est.) |
+| | 8.89% (31 December 2014 est.) |
+| **Trinidad and Tobago** | 8% (31 December 2015 est.) |
+| | 7.9% (31 December 2014 est.) |
+| **Tunisia** | 7.31% (31 December 2014 est.) |
+| | 6.76% (31 December 2013 est.) |
+| **Turkey** | 13.66% (31 December 2015 est.) |
+| | 13.23% (31 December 2014 est.) |
+| **Tuvalu** | 10.6% (31 December 2013 est.) |
+| | 10.6% (31 December 2012 est.) |
+| **Uganda** | 22.6% (31 December 2015 est.) |
+| | 21.58% (31 December 2014 est.) |
+| **Ukraine** | 21.82% (31 December 2015 est.) |
+| | 17.72% (31 December 2014 est.) |
+| **United Kingdom** | 4.51% (31 December 2015 est.) |
+| | 4.45% (31 December 2014 est.) |
+| **United States** | 3.26% (31 December 2015 est.) |
+| | 3.25% (31 December 2014 est.) |
+| **Uruguay** | 15.84% (31 December 2015 est.) |
+| | 15.53% (31 December 2014 est.) |
+| **Uzbekistan** | 12.44% (31 December 2013 est.) |
+| | 11.2% (31 December 2012 est.) |
+| **Vanuatu** | 3.63% (31 December 2015 est.) |
+| | 4.69% (31 December 2014 est.) |
+| **Venezuela** | 19.4% (31 December 2015 est.) |
+| | 17.21% (31 December 2014 est.) |
+| **Vietnam** | 7.12% (31 December 2015 est.) |
+| | 8.67% (31 December 2014 est.) |
+| **West Bank** | 6.8% (31 December 2015 est.) |
+| | 6.41% (31 December 2014 est.) |
+| **Yemen** | 25% (31 December 2015 est.) |
+| | 24% (31 December 2014 est.) |
+| **Zambia** | 13.25% (31 December 2015 est.) |
+| | 11.57% (31 December 2014 est.) |
+| **Zimbabwe** | 18% (31 December 2015 est.) |
+| | 22% (31 December 2014 est.) |

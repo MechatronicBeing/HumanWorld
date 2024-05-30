@@ -1,0 +1,237 @@
+CIA - The World Factbook -- Field Listing :: GDP (official exchange rate)   
+
+This entry gives the gross domestic product (GDP) or value of all final goods and services produced within a nation in a given year. A nation's GDP at official exchange rates (OER) is the home-currency-denominated annual GDP figure divided by the bilateral average US exchange rate with that country in that year. The measure is simple to compute and gives a precise measure of the value of output. Many economists prefer this measure when gauging the economic power an economy maintains vis-?-vis its neighbors, judging that an exchange rate captures the purchasing power a nation enjoys in the international marketplace. Official exchange rates, however, can be artificially fixed and/or subject to manipulation - resulting in claims of the country having an under- or over-valued currency - and are not necessarily the equivalent of a market-determined exchange rate. Moreover, even if the official exchange rate is market-determined, market exchange rates are frequently established by a relatively small set of goods and services (the ones the country trades) and may not capture the value of the larger set of goods the country produces. Furthermore, OER-converted GDP is not well suited to comparing domestic GDP over time, since appreciation/depreciation from one year to the next will make the OER GDP value rise/fall regardless of whether home-currency-denominated GDP changed.
+
+| Country | GDP (official exchange rate) |
+| --- | --- |
+| **Afghanistan** | $15.61 billion (2010 est.) |
+| **Albania** | $11.77 billion (2010 est.) |
+| **Algeria** | $160.3 billion (2010 est.) |
+| **American Samoa** | $462.2 million (2005) |
+| **Andorra** | $NA |
+| **Angola** | $85.31 billion (2010 est.) |
+| **Anguilla** | $175.4 million (2009 est.) |
+| **Antigua and Barbuda** | $1.105 billion (2010 est.) |
+| **Argentina** | $370.3 billion (2010 est.) |
+| **Armenia** | $9.389 billion (2010 est.) |
+| **Aruba** | $2.258 billion (2005 est.) |
+| **Australia** | $1.236 trillion (2010 est.) |
+| **Austria** | $376.8 billion (2010 est.) |
+| **Azerbaijan** | $54.37 billion (2010 est.) |
+| **Bahamas, The** | $7.538 billion (2010 est.) |
+| **Bahrain** | $22.66 billion (2010 est.) |
+| **Bangladesh** | $104.9 billion (2010 est.) |
+| **Barbados** | $3.963 billion (2010 est.) |
+| **Belarus** | $54.71 billion (2010 est.) |
+| **Belgium** | $465.7 billion (2010 est.) |
+| **Belize** | $1.396 billion (2010 est.) |
+| **Benin** | $6.649 billion (2010 est.) |
+| **Bermuda** | $NA |
+| **Bhutan** | $1.412 billion (2010 est.) |
+| **Bolivia** | $19.37 billion (2010 est.) |
+| **Bosnia and Herzegovina** | $16.83 billion (2010 est.) |
+| **Botswana** | $14.03 billion (2010 est.) |
+| **Brazil** | $2.09 trillion (2010 est.) |
+| **British Virgin Islands** | $1.095 billion (2008) |
+| **Brunei** | $13.02 billion (2010 est.) |
+| **Bulgaria** | $47.7 billion (2010 est.) |
+| **Burkina Faso** | $8.781 billion (2010 est.) |
+| **Burma** | $42.95 billion (2010 est.) |
+| **Burundi** | $1.489 billion (2010 est.) |
+| **Cambodia** | $11.63 billion (2010 est.) |
+| **Cameroon** | $22.48 billion (2010 est.) |
+| **Canada** | $1.574 trillion (2010 est.) |
+| **Cape Verde** | $1.651 billion (2010 est.) |
+| **Cayman Islands** | $2.25 billion (2008 est.) |
+| **Central African Republic** | $2.018 billion (2010 est.) |
+| **Chad** | $7.848 billion (2010 est.) |
+| **Chile** | $203.3 billion (2010 est.) |
+| **China** | $5.878 trillion |
+| | *note:* because China's exchange rate is determine by fiat, rather than by market forces, the official exchange rate measure of GDP is not an accurate measure of China's output; GDP at the official exchange rate substantially understates the actual level of China's output vis-a-vis the rest of the world; in China's situation, GDP at purchasing power parity provides the best measure for comparing output across countries (2010 est.) |
+| **Colombia** | $285.5 billion (2010 est.) |
+| **Comoros** | $534 million (2010 est.) |
+| **Congo, Democratic Republic of the** | $13.13 billion (2010 est.) |
+| **Congo, Republic of the** | $11.53 billion (2010 est.) |
+| **Cook Islands** | $183.2 million (2005 est.) |
+| **Costa Rica** | $35.78 billion (2010 est.) |
+| **Cote d'Ivoire** | $22.82 billion (2010 est.) |
+| **Croatia** | $60.59 billion (2010 est.) |
+| **Cuba** | $57.49 billion (2010 est.) |
+| **Curacao** | $5.08 billion (2008 est.) |
+| **Cyprus** | $23.17 billion (2010 est.) |
+| **Czech Republic** | $192.2 billion (2010 est.) |
+| **Denmark** | $310.8 billion (2010 est.) |
+| **Djibouti** | $1.14 billion (2010 est.) |
+| **Dominica** | $376 million (2010 est.) |
+| **Dominican Republic** | $51.63 billion (2010 est.) |
+| **Ecuador** | $58.91 billion (2010 est.) |
+| **Egypt** | $218.5 billion (2010 est.) |
+| **El Salvador** | $21.7 billion (2010 est.) |
+| **Equatorial Guinea** | $14.49 billion (2010 est.) |
+| **Eritrea** | $2.117 billion (2010 est.) |
+| **Estonia** | $19.78 billion (2010 est.) |
+| **Ethiopia** | $29.72 billion (2010 est.) |
+| **European Union** | $16.07 trillion (2010 est.) |
+| **Falkland Islands (Islas Malvinas)** | $105.1 million (2002 est.) |
+| **Faroe Islands** | $2.45 billion (2008 est.) |
+| **Fiji** | $3.131 billion (2010 est.) |
+| **Finland** | $239.2 billion (2010 est.) |
+| **France** | $2.583 trillion (2010 est.) |
+| **French Polynesia** | $6.1 billion (2004) |
+| **Gabon** | $13.06 billion (2010 est.) |
+| **Gambia, The** | $1.067 billion (2010 est.) |
+| **Georgia** | $11.67 billion (2010 est.) |
+| **Germany** | $3.316 trillion (2010 est.) |
+| **Ghana** | $31.08 billion (2010 est.) |
+| **Gibraltar** | $1.106 billion (2006 est.) |
+| **Greece** | $305.4 billion (2010 est.) |
+| **Greenland** | $2.03 billion (2008) |
+| **Grenada** | $674 million (2010 est.) |
+| **Guam** | $2.773 billion (2001) |
+| **Guatemala** | $41.47 billion (2010 est.) |
+| **Guernsey** | $2.742 billion (2005) |
+| **Guinea** | $4.633 billion (2010 est.) |
+| **Guinea-Bissau** | $837 million (2010 est.) |
+| **Guyana** | $2.215 billion (2010 est.) |
+| **Haiti** | $6.632 billion (2010 est.) |
+| **Honduras** | $15.35 billion (2010 est.) |
+| **Hong Kong** | $225 billion (2010 est.) |
+| **Hungary** | $129 billion (2010 est.) |
+| **Iceland** | $12.59 billion (2010 est.) |
+| **India** | $1.538 trillion (2010 est.) |
+| **Indonesia** | $706.7 billion (2010 est.) |
+| **Iran** | $357.2 billion (2010 est.) |
+| **Iraq** | $82.15 billion (2010 est.) |
+| **Ireland** | $204.3 billion (2010 est.) |
+| **Isle of Man** | $2.719 billion (2005 est.) |
+| **Israel** | $213.1 billion (2010 est.) |
+| **Italy** | $2.055 trillion (2010 est.) |
+| **Jamaica** | $13.69 billion (2010 est.) |
+| **Japan** | $5.459 trillion (2010 est.) |
+| **Jersey** | $5.1 billion (2005 est.) |
+| **Jordan** | $27.53 billion (2010 est.) |
+| **Kazakhstan** | $138.4 billion (2010 est.) |
+| **Kenya** | $32.16 billion (2010 est.) |
+| **Kiribati** | $147 million (2010 est.) |
+| **Korea, North** | $28 billion (2009 est.) |
+| **Korea, South** | $1.007 trillion (2010 est.) |
+| **Kosovo** | $5.601 billion (2010 est.) |
+| **Kuwait** | $131.3 billion (2010 est.) |
+| **Kyrgyzstan** | $4.615 billion (2010 est.) |
+| **Laos** | $6.341 billion (2010 est.) |
+| **Latvia** | $24.05 billion (2010 est.) |
+| **Lebanon** | $39.25 billion (2010 est.) |
+| **Lesotho** | $2.127 billion (2010 est.) |
+| **Liberia** | $974 million (2010 est.) |
+| **Libya** | $74.23 billion (2010 est.) |
+| **Liechtenstein** | $5.08 billion (2008) |
+| **Lithuania** | $36.36 billion (2010 est.) |
+| **Luxembourg** | $54.95 billion (2010 est.) |
+| **Macau** | $22.1 billion (2009 est.) |
+| **Macedonia** | $9.108 billion (2010 est.) |
+| **Madagascar** | $8.345 billion (2010 est.) |
+| **Malawi** | $5.053 billion (2010 est.) |
+| **Malaysia** | $238 billion (2010 est.) |
+| **Maldives** | $1.87 billion (2010 est.) |
+| **Mali** | $9.268 billion (2010 est.) |
+| **Malta** | $8.288 billion (2010 est.) |
+| **Marshall Islands** | $161.7 million (2008 est.) |
+| **Mauritania** | $3.799 billion (2010 est.) |
+| **Mauritius** | $9.729 billion (2010 est.) |
+| **Mexico** | $1.039 trillion (2010 est.) |
+| **Micronesia, Federated States of** | $238.1 million (2008) |
+| **Moldova** | $5.81 billion (2010 est.) |
+| **Monaco** | $NA |
+| **Mongolia** | $6.125 billion (2010 est.) |
+| **Montenegro** | $4.017 billion (2010 est.) |
+| **Montserrat** | $NA |
+| **Morocco** | $103.5 billion (2010 est.) |
+| **Mozambique** | $9.893 billion (2010 est.) |
+| **Namibia** | $11.87 billion (2010 est.) |
+| **Nauru** | $NA |
+| **Nepal** | $15.84 billion (2010 est.) |
+| **Netherlands** | $783.3 billion (2010 est.) |
+| **New Caledonia** | $3.3 billion (2003 est.) |
+| **New Zealand** | $140.4 billion (2010 est.) |
+| **Nicaragua** | $6.551 billion (2010 est.) |
+| **Niger** | $5.577 billion (2010 est.) |
+| **Nigeria** | $216.8 billion (2010 est.) |
+| **Niue** | $10.01 million (2003) |
+| **Northern Mariana Islands** | $633.4 million (2000) |
+| **Norway** | $414.5 billion (2010 est.) |
+| **Oman** | $55.62 billion (2010 est.) |
+| **Pakistan** | $174.9 billion (2010 est.) |
+| **Palau** | $164 million (2008) |
+| **Panama** | $26.78 billion (2010 est.) |
+| **Papua New Guinea** | $9.668 billion (2010 est.) |
+| **Paraguay** | $18.48 billion (2010 est.) |
+| **Peru** | $152.8 billion (2010 est.) |
+| **Philippines** | $188.7 billion (2010 est.) |
+| **Poland** | $468.5 billion (2010 est.) |
+| **Portugal** | $229.3 billion (2010 est.) |
+| **Puerto Rico** | $93.52 billion (2010 est.) |
+| **Qatar** | $129.5 billion (2010 est.) |
+| **Romania** | $161.6 billion (2010 est.) |
+| **Russia** | $1.465 trillion (2010 est.) |
+| **Rwanda** | $5.622 billion (2010 est.) |
+| **Saint Helena, Ascension, and Tristan da Cunha** | $NA |
+| **Saint Kitts and Nevis** | $531 million (2010 est.) |
+| **Saint Lucia** | $985 million (2010 est.) |
+| **Saint Pierre and Miquelon** | $NA |
+| **Saint Vincent and the Grenadines** | $561 million (2010 est.) |
+| **Samoa** | $556 million (2010 est.) |
+| **San Marino** | $1.535 billion (2009) |
+| **Sao Tome and Principe** | $196 million (2010 est.) |
+| **Saudi Arabia** | $443.7 billion (2010 est.) |
+| **Senegal** | $12.88 billion (2010 est.) |
+| **Serbia** | $38.71 billion (2010 est.) |
+| **Seychelles** | $936 million (2010 est.) |
+| **Sierra Leone** | $1.905 billion (2010 est.) |
+| **Singapore** | $222.7 billion (2010 est.) |
+| **Sint Maarten** | $794.7 million (2008) |
+| **Slovakia** | $87.45 billion (2010 est.) |
+| **Slovenia** | $47.85 billion (2010 est.) |
+| **Solomon Islands** | $712 million (2010 est.) |
+| **Somalia** | $2.372 billion (2010 est.) |
+| **South Africa** | $357.3 billion (2010 est.) |
+| **Spain** | $1.41 trillion (2010 est.) |
+| **Sri Lanka** | $49.68 billion (2010 est.) |
+| **Sudan** | $68.44 billion (2010 est.) |
+| **Suriname** | $3.682 billion (2010 est.) |
+| **Swaziland** | $3.553 billion (2010 est.) |
+| **Sweden** | $455.8 billion (2010 est.) |
+| **Switzerland** | $523.8 billion (2010 est.) |
+| **Syria** | $59.33 billion (2010 est.) |
+| **Taiwan** | $430.6 billion (2010 est.) |
+| **Tajikistan** | $5.642 billion (2010 est.) |
+| **Tanzania** | $22.67 billion (2010 est.) |
+| **Thailand** | $318.9 billion (2010 est.) |
+| **Timor-Leste** | $628 million (2010 est.) |
+| **Togo** | $3.194 billion (2010 est.) |
+| **Tokelau** | $NA |
+| **Tonga** | $363 million (2010 est.) |
+| **Trinidad and Tobago** | $20.59 billion (2010 est.) |
+| **Tunisia** | $44.29 billion (2010 est.) |
+| **Turkey** | $741.9 billion (2010 est.) |
+| **Turkmenistan** | $27.96 billion (2010 est.) |
+| **Turks and Caicos Islands** | $NA |
+| **Tuvalu** | $32 million (2010 est.) |
+| **Uganda** | $17.01 billion (2010 est.) |
+| **Ukraine** | $136.4 billion (2010 est.) |
+| **United Arab Emirates** | $301.9 billion (2010 est.) |
+| **United Kingdom** | $2.247 trillion (2010 est.) |
+| **United States** | $14.66 trillion (2010 est.) |
+| **Uruguay** | $40.27 billion (2010 est.) |
+| **Uzbekistan** | $38.99 billion (2010 est.) |
+| **Vanuatu** | $693 million (2010 est.) |
+| **Venezuela** | $290.7 billion (2010 est.) |
+| **Vietnam** | $103.6 billion (2010 est.) |
+| **Virgin Islands** | $NA |
+| **Wallis and Futuna** | $NA |
+| **West Bank** | $6.641 billion (2008 est.) |
+| **Western Sahara** | $NA |
+| **World** | *GWP (gross world product):* $63.17 trillion (2010) |
+| **Yemen** | $31.27 billion (2010 est.) |
+| **Zambia** | $16.19 billion (2010 est.) |
+| **Zimbabwe** | $7.474 billion |
+| | *note:* in 2009, the Zimbabwean dollar was taken out of circulation, making Zimbabwe's GDP at the official exchange rate a highly inaccurate statistic (2010 est.) |

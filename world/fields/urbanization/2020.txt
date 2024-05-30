@@ -1,0 +1,479 @@
+Field Listing :: Urbanization :: The World Factbook
+
+This entry provides two measures of the degree of urbanization of a population. The first, urban population, describes the percentage of the total population living in urban areas, as defined by the country. The second, rate of urbanization, describes the projected average rate of change of the size of the urban population over the given period of time. It is possible for a country with a 100% urban population to still display a change in the rate of urbanization (up or down). For example, a population of 100,000 that is 100% urban can change in size to 110,000 or 90,000 but remain 100% urban.
+Additionally, the World entry includes a list of the ten largest urban agglomerations. An urban agglomeration is defined as comprising the city or town proper and also the suburban fringe or thickly settled territory lying outside of, but adjacent to, the boundaries of the city.
+
+| Country | Urbanization |
+| --- | --- |
+| **Afghanistan** | *urban population:* 26% of total population (2020) |
+| | *rate of urbanization:* 3.37% annual rate of change (2015-20 est.) |
+| **Albania** | *urban population:* 62.1% of total population (2020) |
+| | *rate of urbanization:* 1.69% annual rate of change (2015-20 est.) |
+| **Algeria** | *urban population:* 73.7% of total population (2020) |
+| | *rate of urbanization:* 2.46% annual rate of change (2015-20 est.) |
+| **American Samoa** | *urban population:* 87.2% of total population (2020) |
+| | *rate of urbanization:* 0.07% annual rate of change (2015-20 est.) |
+| **Andorra** | *urban population:* 87.9% of total population (2020) |
+| | *rate of urbanization:* -0.31% annual rate of change (2015-20 est.) |
+| **Angola** | *urban population:* 66.8% of total population (2020) |
+| | *rate of urbanization:* 4.32% annual rate of change (2015-20 est.) |
+| **Anguilla** | *urban population:* 100% of total population (2020) |
+| | *rate of urbanization:* 0.9% annual rate of change (2015-20 est.) |
+| **Antigua and Barbuda** | *urban population:* 24.4% of total population (2020) |
+| | *rate of urbanization:* 0.55% annual rate of change (2015-20 est.) |
+| **Argentina** | *urban population:* 92.1% of total population (2020) |
+| | *rate of urbanization:* 1.07% annual rate of change (2015-20 est.) |
+| **Armenia** | *urban population:* 63.3% of total population (2020) |
+| | *rate of urbanization:* 0.22% annual rate of change (2015-20 est.) |
+| **Aruba** | *urban population:* 43.7% of total population (2020) |
+| | *rate of urbanization:* 0.67% annual rate of change (2015-20 est.) |
+| **Australia** | *urban population:* 86.2% of total population (2020) |
+| | *rate of urbanization:* 1.43% annual rate of change (2015-20 est.) |
+| | *note:* data include Christmas Island, Cocos Islands, and Norfolk Island |
+| **Austria** | *urban population:* 58.7% of total population (2020) |
+| | *rate of urbanization:* 0.59% annual rate of change (2015-20 est.) |
+| **Azerbaijan** | *urban population:* 56.4% of total population (2020) |
+| | *rate of urbanization:* 1.58% annual rate of change (2015-20 est.) |
+| | *note:* includes Nagorno-Karabakh |
+| **Bahamas, The** | *urban population:* 83.2% of total population (2020) |
+| | *rate of urbanization:* 1.13% annual rate of change (2015-20 est.) |
+| **Bahrain** | *urban population:* 89.5% of total population (2020) |
+| | *rate of urbanization:* 4.38% annual rate of change (2015-20 est.) |
+| **Bangladesh** | *urban population:* 38.2% of total population (2020) |
+| | *rate of urbanization:* 3.17% annual rate of change (2015-20 est.) |
+| **Barbados** | *urban population:* 31.2% of total population (2020) |
+| | *rate of urbanization:* 0.2% annual rate of change (2015-20 est.) |
+| **Belarus** | *urban population:* 79.5% of total population (2020) |
+| | *rate of urbanization:* 0.44% annual rate of change (2015-20 est.) |
+| **Belgium** | *urban population:* 98.1% of total population (2020) |
+| | *rate of urbanization:* 0.62% annual rate of change (2015-20 est.) |
+| **Belize** | *urban population:* 46% of total population (2020) |
+| | *rate of urbanization:* 2.32% annual rate of change (2015-20 est.) |
+| **Benin** | *urban population:* 48.4% of total population (2020) |
+| | *rate of urbanization:* 3.89% annual rate of change (2015-20 est.) |
+| **Bermuda** | *urban population:* 100% of total population (2020) |
+| | *rate of urbanization:* -0.44% annual rate of change (2015-20 est.) |
+| **Bhutan** | *urban population:* 42.3% of total population (2020) |
+| | *rate of urbanization:* 2.98% annual rate of change (2015-20 est.) |
+| **Bolivia** | *urban population:* 70.1% of total population (2020) |
+| | *rate of urbanization:* 1.97% annual rate of change (2015-20 est.) |
+| **Bosnia and Herzegovina** | *urban population:* 49% of total population (2020) |
+| | *rate of urbanization:* 0.55% annual rate of change (2015-20 est.) |
+| **Botswana** | *urban population:* 70.9% of total population (2020) |
+| | *rate of urbanization:* 2.87% annual rate of change (2015-20 est.) |
+| **Brazil** | *urban population:* 87.1% of total population (2020) |
+| | *rate of urbanization:* 1.05% annual rate of change (2015-20 est.) |
+| **British Virgin Islands** | *urban population:* 48.5% of total population (2020) |
+| | *rate of urbanization:* 2.42% annual rate of change (2015-20 est.) |
+| **Brunei** | *urban population:* 78.3% of total population (2020) |
+| | *rate of urbanization:* 1.66% annual rate of change (2015-20 est.) |
+| **Bulgaria** | *urban population:* 75.7% of total population (2020) |
+| | *rate of urbanization:* -0.22% annual rate of change (2015-20 est.) |
+| **Burkina Faso** | *urban population:* 30.6% of total population (2020) |
+| | *rate of urbanization:* 4.99% annual rate of change (2015-20 est.) |
+| **Burma** | *urban population:* 31.1% of total population (2020) |
+| | *rate of urbanization:* 1.74% annual rate of change (2015-20 est.) |
+| **Burundi** | *urban population:* 13.7% of total population (2020) |
+| | *rate of urbanization:* 5.68% annual rate of change (2015-20 est.) |
+| **Cabo Verde** | *urban population:* 66.7% of total population (2020) |
+| | *rate of urbanization:* 1.97% annual rate of change (2015-20 est.) |
+| **Cambodia** | *urban population:* 24.2% of total population (2020) |
+| | *rate of urbanization:* 3.25% annual rate of change (2015-20 est.) |
+| **Cameroon** | *urban population:* 57.6% of total population (2020) |
+| | *rate of urbanization:* 3.63% annual rate of change (2015-20 est.) |
+| **Canada** | *urban population:* 81.6% of total population (2020) |
+| | *rate of urbanization:* 0.97% annual rate of change (2015-20 est.) |
+| **Cayman Islands** | *urban population:* 100% of total population (2020) |
+| | *rate of urbanization:* 1.27% annual rate of change (2015-20 est.) |
+| **Central African Republic** | *urban population:* 42.2% of total population (2020) |
+| | *rate of urbanization:* 2.52% annual rate of change (2015-20 est.) |
+| **Chad** | *urban population:* 23.5% of total population (2020) |
+| | *rate of urbanization:* 3.88% annual rate of change (2015-20 est.) |
+| **Chile** | *urban population:* 87.7% of total population (2020) |
+| | *rate of urbanization:* 0.87% annual rate of change (2015-20 est.) |
+| **China** | *urban population:* 61.4% of total population (2020) |
+| | *rate of urbanization:* 2.42% annual rate of change (2015-20 est.) |
+| | *note:* data do not include Hong Kong and Macau |
+| **Colombia** | *urban population:* 81.4% of total population (2020) |
+| | *rate of urbanization:* 1.22% annual rate of change (2015-20 est.) |
+| **Comoros** | *urban population:* 29.4% of total population (2020) |
+| | *rate of urbanization:* 2.87% annual rate of change (2015-20 est.) |
+| **Congo, Democratic Republic of the** | *urban population:* 45.6% of total population (2020) |
+| | *rate of urbanization:* 4.53% annual rate of change (2015-20 est.) |
+| **Congo, Republic of the** | *urban population:* 67.8% of total population (2020) |
+| | *rate of urbanization:* 3.28% annual rate of change (2015-20 est.) |
+| **Cook Islands** | *urban population:* 75.5% of total population (2020) |
+| | *rate of urbanization:* 0.37% annual rate of change (2015-20 est.) |
+| **Costa Rica** | *urban population:* 80.8% of total population (2020) |
+| | *rate of urbanization:* 1.5% annual rate of change (2015-20 est.) |
+| **Cote d'Ivoire** | *urban population:* 51.7% of total population (2020) |
+| | *rate of urbanization:* 3.38% annual rate of change (2015-20 est.) |
+| **Croatia** | *urban population:* 57.6% of total population (2020) |
+| | *rate of urbanization:* -0.08% annual rate of change (2015-20 est.) |
+| **Cuba** | *urban population:* 77.2% of total population (2020) |
+| | *rate of urbanization:* 0.14% annual rate of change (2015-20 est.) |
+| **Curacao** | *urban population:* 89.1% of total population (2020) (2018) |
+| | *rate of urbanization:* 0.62% annual rate of change (2015-20 est.) (2015-20 est.) |
+| **Cyprus** | *urban population:* 66.8% of total population (2020) |
+| | *rate of urbanization:* 0.75% annual rate of change (2015-20 est.) |
+| **Czechia** | *urban population:* 74.1% of total population (2020) |
+| | *rate of urbanization:* 0.21% annual rate of change (2015-20 est.) |
+| **Denmark** | *urban population:* 88.1% of total population (2020) |
+| | *rate of urbanization:* 0.51% annual rate of change (2015-20 est.) |
+| **Djibouti** | *urban population:* 78.1% of total population (2020) |
+| | *rate of urbanization:* 1.67% annual rate of change (2015-20 est.) |
+| **Dominica** | *urban population:* 71.1% of total population (2020) |
+| | *rate of urbanization:* 0.94% annual rate of change (2015-20 est.) |
+| **Dominican Republic** | *urban population:* 82.5% of total population (2020) |
+| | *rate of urbanization:* 2.06% annual rate of change (2015-20 est.) |
+| **Ecuador** | *urban population:* 64.2% of total population (2020) |
+| | *rate of urbanization:* 1.66% annual rate of change (2015-20 est.) |
+| **Egypt** | *urban population:* 42.8% of total population (2020) |
+| | *rate of urbanization:* 1.86% annual rate of change (2015-20 est.) |
+| **El Salvador** | *urban population:* 73.4% of total population (2020) |
+| | *rate of urbanization:* 1.57% annual rate of change (2015-20 est.) |
+| **Equatorial Guinea** | *urban population:* 73.1% of total population (2020) |
+| | *rate of urbanization:* 4.28% annual rate of change (2015-20 est.) |
+| **Eritrea** | *urban population:* 41.3% of total population (2020) |
+| | *rate of urbanization:* 3.86% annual rate of change (2015-20 est.) |
+| **Estonia** | *urban population:* 69.2% of total population (2020) |
+| | *rate of urbanization:* 0.01% annual rate of change (2015-20 est.) |
+| **Eswatini** | *urban population:* 24.2% of total population (2020) |
+| | *rate of urbanization:* 2.46% annual rate of change (2015-20 est.) |
+| **Ethiopia** | *urban population:* 21.7% of total population (2020) |
+| | *rate of urbanization:* 4.63% annual rate of change (2015-20 est.) |
+| **Falkland Islands (Islas Malvinas)** | *urban population:* 78.5% of total population (2020) |
+| | *rate of urbanization:* 0.76% annual rate of change (2015-20 est.) |
+| **Faroe Islands** | *urban population:* 42.4% of total population (2020) |
+| | *rate of urbanization:* 0.74% annual rate of change (2015-20 est.) |
+| **Fiji** | *urban population:* 57.2% of total population (2020) |
+| | *rate of urbanization:* 1.62% annual rate of change (2015-20 est.) |
+| **Finland** | *urban population:* 85.5% of total population (2020) |
+| | *rate of urbanization:* 0.42% annual rate of change (2015-20 est.) |
+| **France** | *urban population:* 81% of total population (2020) |
+| | *rate of urbanization:* 0.72% annual rate of change (2015-20 est.) |
+| **French Polynesia** | *urban population:* 62% of total population (2020) |
+| | *rate of urbanization:* 1.01% annual rate of change (2015-20 est.) |
+| **Gabon** | *urban population:* 90.1% of total population (2020) |
+| | *rate of urbanization:* 2.61% annual rate of change (2015-20 est.) |
+| **Gambia, The** | *urban population:* 62.6% of total population (2020) |
+| | *rate of urbanization:* 4.07% annual rate of change (2015-20 est.) |
+| **Gaza Strip** | *urban population:* 76.7% of total population (2020) |
+| | *rate of urbanization:* 3% annual rate of change (2015-20 est.) |
+| | *note:* data represent Gaza Strip and the West Bank |
+| **Georgia** | *urban population:* 59.5% of total population (2020) |
+| | *rate of urbanization:* 0.42% annual rate of change (2015-20 est.) |
+| | *note:* data include Abkhazia and South Ossetia |
+| **Germany** | *urban population:* 77.5% of total population (2020) |
+| | *rate of urbanization:* 0.27% annual rate of change (2015-20 est.) |
+| **Ghana** | *urban population:* 57.3% of total population (2020) |
+| | *rate of urbanization:* 3.34% annual rate of change (2015-20 est.) |
+| **Gibraltar** | *urban population:* 100% of total population (2020) |
+| | *rate of urbanization:* 0.45% annual rate of change (2015-20 est.) |
+| **Greece** | *urban population:* 79.7% of total population (2020) |
+| | *rate of urbanization:* 0.22% annual rate of change (2015-20 est.) |
+| **Greenland** | *urban population:* 87.3% of total population (2020) |
+| | *rate of urbanization:* 0.42% annual rate of change (2015-20 est.) |
+| **Grenada** | *urban population:* 36.5% of total population (2020) |
+| | *rate of urbanization:* 0.76% annual rate of change (2015-20 est.) |
+| **Guam** | *urban population:* 94.9% of total population (2020) |
+| | *rate of urbanization:* 0.92% annual rate of change (2015-20 est.) |
+| **Guatemala** | *urban population:* 51.8% of total population (2020) |
+| | *rate of urbanization:* 2.68% annual rate of change (2015-20 est.) |
+| **Guernsey** | *urban population:* 31% of total population (2020) |
+| | *rate of urbanization:* 0.46% annual rate of change (2015-20 est.) |
+| | *note:* data represent Guernsey and Jersey |
+| **Guinea** | *urban population:* 36.5% of total population (2020) |
+| | *rate of urbanization:* 3.54% annual rate of change (2015-20 est.) |
+| **Guinea-Bissau** | *urban population:* 44.2% of total population (2020) |
+| | *rate of urbanization:* 3.41% annual rate of change (2015-20 est.) |
+| **Guyana** | *urban population:* 26.8% of total population (2020) |
+| | *rate of urbanization:* 0.83% annual rate of change (2015-20 est.) |
+| **Haiti** | *urban population:* 57.1% of total population (2020) |
+| | *rate of urbanization:* 2.9% annual rate of change (2015-20 est.) |
+| **Holy See (Vatican City)** | *urban population:* 100% of total population (2020) |
+| | *rate of urbanization:* -0.05% annual rate of change (2015-20 est.) |
+| **Honduras** | *urban population:* 58.4% of total population (2020) |
+| | *rate of urbanization:* 2.75% annual rate of change (2015-20 est.) |
+| **Hong Kong** | *urban population:* 100% of total population (2020) |
+| | *rate of urbanization:* 0.82% annual rate of change (2015-20 est.) |
+| **Hungary** | *urban population:* 71.9% of total population (2020) |
+| | *rate of urbanization:* 0.07% annual rate of change (2015-20 est.) |
+| **Iceland** | *urban population:* 93.9% of total population (2020) |
+| | *rate of urbanization:* 0.81% annual rate of change (2015-20 est.) |
+| **India** | *urban population:* 34.9% of total population (2020) |
+| | *rate of urbanization:* 2.37% annual rate of change (2015-20 est.) |
+| **Indonesia** | *urban population:* 56.6% of total population (2020) |
+| | *rate of urbanization:* 2.27% annual rate of change (2015-20 est.) |
+| **Iran** | *urban population:* 75.9% of total population (2020) |
+| | *rate of urbanization:* 1.71% annual rate of change (2015-20 est.) |
+| **Iraq** | *urban population:* 70.9% of total population (2020) |
+| | *rate of urbanization:* 3.06% annual rate of change (2015-20 est.) |
+| **Ireland** | *urban population:* 63.7% of total population (2020) |
+| | *rate of urbanization:* 1.14% annual rate of change (2015-20 est.) |
+| **Isle of Man** | *urban population:* 52.9% of total population (2020) |
+| | *rate of urbanization:* 0.89% annual rate of change (2015-20 est.) |
+| **Israel** | *urban population:* 92.6% of total population (2020) |
+| | *rate of urbanization:* 1.64% annual rate of change (2015-20 est.) |
+| **Italy** | *urban population:* 71% of total population (2020) |
+| | *rate of urbanization:* 0.29% annual rate of change (2015-20 est.) |
+| **Jamaica** | *urban population:* 56.3% of total population (2020) |
+| | *rate of urbanization:* 0.82% annual rate of change (2015-20 est.) |
+| **Japan** | *urban population:* 91.8% of total population (2020) |
+| | *rate of urbanization:* -0.14% annual rate of change (2015-20 est.) |
+| **Jersey** | *urban population:* 31% of total population (2020) |
+| | *rate of urbanization:* 0.46% annual rate of change (2015-20 est.) |
+| | *note:* data represent Guernsey and Jersey |
+| **Jordan** | *urban population:* 91.4% of total population (2020) |
+| | *rate of urbanization:* 2.43% annual rate of change (2015-20 est.) |
+| **Kazakhstan** | *urban population:* 57.7% of total population (2020) |
+| | *rate of urbanization:* 1.29% annual rate of change (2015-20 est.) |
+| **Kenya** | *urban population:* 28% of total population (2020) |
+| | *rate of urbanization:* 4.23% annual rate of change (2015-20 est.) |
+| **Kiribati** | *urban population:* 55.6% of total population (2020) |
+| | *rate of urbanization:* 3.19% annual rate of change (2015-20 est.) |
+| **Korea, North** | *urban population:* 62.4% of total population (2020) |
+| | *rate of urbanization:* 0.82% annual rate of change (2015-20 est.) |
+| **Korea, South** | *urban population:* 81.4% of total population (2020) |
+| | *rate of urbanization:* 0.3% annual rate of change (2015-20 est.) |
+| **Kuwait** | *urban population:* 100% of total population (2020) |
+| | *rate of urbanization:* 1.78% annual rate of change (2015-20 est.) |
+| **Kyrgyzstan** | *urban population:* 36.9% of total population (2020) |
+| | *rate of urbanization:* 2.03% annual rate of change (2015-20 est.) |
+| **Laos** | *urban population:* 36.3% of total population (2020) |
+| | *rate of urbanization:* 3.28% annual rate of change (2015-20 est.) |
+| **Latvia** | *urban population:* 68.3% of total population (2020) |
+| | *rate of urbanization:* -0.93% annual rate of change (2015-20 est.) |
+| **Lebanon** | *urban population:* 88.9% of total population (2020) |
+| | *rate of urbanization:* 0.75% annual rate of change (2015-20 est.) |
+| **Lesotho** | *urban population:* 29% of total population (2020) |
+| | *rate of urbanization:* 2.83% annual rate of change (2015-20 est.) |
+| **Liberia** | *urban population:* 52.1% of total population (2020) |
+| | *rate of urbanization:* 3.41% annual rate of change (2015-20 est.) |
+| **Libya** | *urban population:* 80.7% of total population (2020) |
+| | *rate of urbanization:* 1.68% annual rate of change (2015-20 est.) |
+| **Liechtenstein** | *urban population:* 14.4% of total population (2020) |
+| | *rate of urbanization:* 0.81% annual rate of change (2015-20 est.) |
+| **Lithuania** | *urban population:* 68% of total population (2020) |
+| | *rate of urbanization:* -0.31% annual rate of change (2015-20 est.) |
+| **Luxembourg** | *urban population:* 91.5% of total population (2020) |
+| | *rate of urbanization:* 1.55% annual rate of change (2015-20 est.) |
+| **Macau** | *urban population:* 100% of total population (2020) |
+| | *rate of urbanization:* 1.63% annual rate of change (2015-20 est.) |
+| **Madagascar** | *urban population:* 38.5% of total population (2020) |
+| | *rate of urbanization:* 4.48% annual rate of change (2015-20 est.) |
+| **Malawi** | *urban population:* 17.4% of total population (2020) |
+| | *rate of urbanization:* 4.19% annual rate of change (2015-20 est.) |
+| **Malaysia** | *urban population:* 77.2% of total population (2020) |
+| | *rate of urbanization:* 2.13% annual rate of change (2015-20 est.) |
+| **Maldives** | *urban population:* 40.7% of total population (2020) |
+| | *rate of urbanization:* 2.93% annual rate of change (2015-20 est.) |
+| **Mali** | *urban population:* 43.9% of total population (2020) |
+| | *rate of urbanization:* 4.86% annual rate of change (2015-20 est.) |
+| **Malta** | *urban population:* 94.7% of total population (2020) |
+| | *rate of urbanization:* 0.38% annual rate of change (2015-20 est.) |
+| **Marshall Islands** | *urban population:* 77.8% of total population (2020) |
+| | *rate of urbanization:* 0.61% annual rate of change (2015-20 est.) |
+| **Mauritania** | *urban population:* 55.3% of total population (2020) |
+| | *rate of urbanization:* 4.28% annual rate of change (2015-20 est.) |
+| **Mauritius** | *urban population:* 40.8% of total population (2020) |
+| | *rate of urbanization:* 0.11% annual rate of change (2015-20 est.) |
+| **Mexico** | *urban population:* 80.7% of total population (2020) |
+| | *rate of urbanization:* 1.59% annual rate of change (2015-20 est.) |
+| **Micronesia, Federated States of** | *urban population:* 22.9% of total population (2020) |
+| | *rate of urbanization:* 1.05% annual rate of change (2015-20 est.) |
+| **Moldova** | *urban population:* 42.8% of total population (2020) |
+| | *rate of urbanization:* -0.07% annual rate of change (2015-20 est.) |
+| **Monaco** | *urban population:* 100% of total population (2020) |
+| | *rate of urbanization:* 0.51% annual rate of change (2015-20 est.) |
+| **Mongolia** | *urban population:* 68.7% of total population (2020) |
+| | *rate of urbanization:* 1.63% annual rate of change (2015-20 est.) |
+| **Montenegro** | *urban population:* 67.5% of total population (2020) |
+| | *rate of urbanization:* 0.54% annual rate of change (2015-20 est.) |
+| **Montserrat** | *urban population:* 9.1% of total population (2020) |
+| | *rate of urbanization:* 0.64% annual rate of change (2015-20 est.) |
+| **Morocco** | *urban population:* 63.5% of total population (2020) |
+| | *rate of urbanization:* 2.14% annual rate of change (2015-20 est.) |
+| **Mozambique** | *urban population:* 37.1% of total population (2020) |
+| | *rate of urbanization:* 4.35% annual rate of change (2015-20 est.) |
+| **Namibia** | *urban population:* 52% of total population (2020) |
+| | *rate of urbanization:* 4.2% annual rate of change (2015-20 est.) |
+| **Nauru** | *urban population:* 100% of total population (2020) |
+| | *rate of urbanization:* -0.06% annual rate of change (2015-20 est.) |
+| **Nepal** | *urban population:* 20.6% of total population (2020) |
+| | *rate of urbanization:* 3.15% annual rate of change (2015-20 est.) |
+| **Netherlands** | *urban population:* 92.2% of total population (2020) |
+| | *rate of urbanization:* 0.74% annual rate of change (2015-20 est.) |
+| **New Caledonia** | *urban population:* 71.5% of total population (2020) |
+| | *rate of urbanization:* 1.89% annual rate of change (2015-20 est.) |
+| **New Zealand** | *urban population:* 86.7% of total population (2020) |
+| | *rate of urbanization:* 1.01% annual rate of change (2015-20 est.) |
+| **Nicaragua** | *urban population:* 59% of total population (2020) |
+| | *rate of urbanization:* 1.45% annual rate of change (2015-20 est.) |
+| **Niger** | *urban population:* 16.6% of total population (2020) |
+| | *rate of urbanization:* 4.27% annual rate of change (2015-20 est.) |
+| **Nigeria** | *urban population:* 52% of total population (2020) |
+| | *rate of urbanization:* 4.23% annual rate of change (2015-20 est.) |
+| **Niue** | *urban population:* 46.2% of total population (2020) |
+| | *rate of urbanization:* 1.69% annual rate of change (2015-20 est.) |
+| **North Macedonia** | *urban population:* 58.5% of total population (2020) |
+| | *rate of urbanization:* 0.45% annual rate of change (2015-20 est.) |
+| **Northern Mariana Islands** | *urban population:* 91.8% of total population (2020) |
+| | *rate of urbanization:* 0.29% annual rate of change (2015-20 est.) |
+| **Norway** | *urban population:* 83% of total population (2020) |
+| | *rate of urbanization:* 1.4% annual rate of change (2015-20 est.) |
+| | *note:* data include Svalbard and Jan Mayen Islands |
+| **Oman** | *urban population:* 86.3% of total population (2020) |
+| | *rate of urbanization:* 5.25% annual rate of change (2015-20 est.) |
+| **Pakistan** | *urban population:* 37.2% of total population (2020) |
+| | *rate of urbanization:* 2.53% annual rate of change (2015-20 est.) |
+| **Palau** | *urban population:* 81% of total population (2020) |
+| | *rate of urbanization:* 1.77% annual rate of change (2015-20 est.) |
+| **Panama** | *urban population:* 68.4% of total population (2020) |
+| | *rate of urbanization:* 2.06% annual rate of change (2015-20 est.) |
+| **Papua New Guinea** | *urban population:* 13.3% of total population (2020) |
+| | *rate of urbanization:* 2.51% annual rate of change (2015-20 est.) |
+| **Paraguay** | *urban population:* 62.2% of total population (2020) |
+| | *rate of urbanization:* 1.71% annual rate of change (2015-20 est.) |
+| **Peru** | *urban population:* 78.3% of total population (2020) |
+| | *rate of urbanization:* 1.44% annual rate of change (2015-20 est.) |
+| **Philippines** | *urban population:* 47.4% of total population (2020) |
+| | *rate of urbanization:* 1.99% annual rate of change (2015-20 est.) |
+| **Pitcairn Islands** | *urban population:* 0% of total population (2012) |
+| | *rate of urbanization:* NA |
+| **Poland** | *urban population:* 60% of total population (2020) |
+| | *rate of urbanization:* -0.25% annual rate of change (2015-20 est.) |
+| **Portugal** | *urban population:* 66.3% of total population (2020) |
+| | *rate of urbanization:* 0.47% annual rate of change (2015-20 est.) |
+| **Puerto Rico** | *urban population:* 93.6% of total population (2020) |
+| | *rate of urbanization:* -0.14% annual rate of change (2015-20 est.) |
+| **Qatar** | *urban population:* 99.2% of total population (2020) |
+| | *rate of urbanization:* 2.41% annual rate of change (2015-20 est.) |
+| **Romania** | *urban population:* 54.2% of total population (2020) |
+| | *rate of urbanization:* -0.38% annual rate of change (2015-20 est.) |
+| **Russia** | *urban population:* 74.8% of total population (2020) |
+| | *rate of urbanization:* 0.18% annual rate of change (2015-20 est.) |
+| **Rwanda** | *urban population:* 17.4% of total population (2020) |
+| | *rate of urbanization:* 2.86% annual rate of change (2015-20 est.) |
+| **Saint Helena, Ascension, and Tristan da Cunha** | *urban population:* 40.1% of total population (2020) |
+| | *rate of urbanization:* 0.73% annual rate of change (2015-20 est.) |
+| **Saint Kitts and Nevis** | *urban population:* 30.8% of total population (2020) |
+| | *rate of urbanization:* 0.92% annual rate of change (2015-20 est.) |
+| **Saint Lucia** | *urban population:* 18.8% of total population (2020) |
+| | *rate of urbanization:* 0.8% annual rate of change (2015-20 est.) |
+| **Saint Pierre and Miquelon** | *urban population:* 90% of total population (2020) |
+| | *rate of urbanization:* 0.36% annual rate of change (2015-20 est.) |
+| **Saint Vincent and the Grenadines** | *urban population:* 53% of total population (2020) |
+| | *rate of urbanization:* 1.03% annual rate of change (2015-20 est.) |
+| **Samoa** | *urban population:* 17.9% of total population (2020) |
+| | *rate of urbanization:* -0.47% annual rate of change (2015-20 est.) |
+| **San Marino** | *urban population:* 97.5% of total population (2020) |
+| | *rate of urbanization:* 0.67% annual rate of change (2015-20 est.) |
+| **Sao Tome and Principe** | *urban population:* 74.4% of total population (2020) |
+| | *rate of urbanization:* 3.33% annual rate of change (2015-20 est.) |
+| **Saudi Arabia** | *urban population:* 84.3% of total population (2020) |
+| | *rate of urbanization:* 2.17% annual rate of change (2015-20 est.) |
+| **Senegal** | *urban population:* 48.1% of total population (2020) |
+| | *rate of urbanization:* 3.73% annual rate of change (2015-20 est.) |
+| **Serbia** | *urban population:* 56.4% of total population (2020) |
+| | *rate of urbanization:* -0.07% annual rate of change (2015-20 est.) |
+| | *note:* data include Kosovo |
+| **Seychelles** | *urban population:* 57.5% of total population (2020) |
+| | *rate of urbanization:* 1.26% annual rate of change (2015-20 est.) |
+| **Sierra Leone** | *urban population:* 42.9% of total population (2020) |
+| | *rate of urbanization:* 3.12% annual rate of change (2015-20 est.) |
+| **Singapore** | *urban population:* 100% of total population (2020) |
+| | *rate of urbanization:* 1.39% annual rate of change (2015-20 est.) |
+| **Sint Maarten** | *urban population:* 100% of total population (2020) |
+| | *rate of urbanization:* 1.56% annual rate of change (2015-20 est.) |
+| **Slovakia** | *urban population:* 53.8% of total population (2020) |
+| | *rate of urbanization:* 0% annual rate of change (2015-20 est.) |
+| **Slovenia** | *urban population:* 55.1% of total population (2020) |
+| | *rate of urbanization:* 0.56% annual rate of change (2015-20 est.) |
+| **Solomon Islands** | *urban population:* 24.7% of total population (2020) |
+| | *rate of urbanization:* 3.91% annual rate of change (2015-20 est.) |
+| **Somalia** | *urban population:* 46.1% of total population (2020) |
+| | *rate of urbanization:* 4.23% annual rate of change (2015-20 est.) |
+| **South Africa** | *urban population:* 67.4% of total population (2020) |
+| | *rate of urbanization:* 1.97% annual rate of change (2015-20 est.) |
+| **South Sudan** | *urban population:* 20.2% of total population (2020) |
+| | *rate of urbanization:* 4.1% annual rate of change (2015-20 est.) |
+| **Spain** | *urban population:* 80.8% of total population (2020) |
+| | *rate of urbanization:* 0.33% annual rate of change (2015-20 est.) |
+| | *note:* data include Canary Islands, Ceuta, and Melilla |
+| **Sri Lanka** | *urban population:* 18.7% of total population (2020) |
+| | *rate of urbanization:* 0.85% annual rate of change (2015-20 est.) |
+| **Sudan** | *urban population:* 35.3% of total population (2020) |
+| | *rate of urbanization:* 3.17% annual rate of change (2015-20 est.) |
+| **Suriname** | *urban population:* 66.1% of total population (2020) |
+| | *rate of urbanization:* 0.9% annual rate of change (2015-20 est.) |
+| **Sweden** | *urban population:* 88% of total population (2020) |
+| | *rate of urbanization:* 1.05% annual rate of change (2015-20 est.) |
+| **Switzerland** | *urban population:* 73.9% of total population (2020) |
+| | *rate of urbanization:* 0.88% annual rate of change (2015-20 est.) |
+| **Syria** | *urban population:* 55.5% of total population (2020) |
+| | *rate of urbanization:* 1.43% annual rate of change (2015-20 est.) |
+| **Taiwan** | *urban population:* 78.9% of total population (2020) |
+| | *rate of urbanization:* 0.8% annual rate of change (2015-20 est.) |
+| **Tajikistan** | *urban population:* 27.5% of total population (2020) |
+| | *rate of urbanization:* 2.62% annual rate of change (2015-20 est.) |
+| **Tanzania** | *urban population:* 35.2% of total population (2020) |
+| | *rate of urbanization:* 5.22% annual rate of change (2015-20 est.) |
+| **Thailand** | *urban population:* 51.4% of total population (2020) |
+| | *rate of urbanization:* 1.73% annual rate of change (2015-20 est.) |
+| **Timor-Leste** | *urban population:* 31.3% of total population (2020) |
+| | *rate of urbanization:* 3.35% annual rate of change (2015-20 est.) |
+| **Togo** | *urban population:* 42.8% of total population (2020) |
+| | *rate of urbanization:* 3.76% annual rate of change (2015-20 est.) |
+| **Tokelau** | *urban population:* 0% of total population (2020) |
+| | *rate of urbanization:* 0% annual rate of change (2015-20 est.) |
+| **Tonga** | *urban population:* 23.1% of total population (2020) |
+| | *rate of urbanization:* 0.71% annual rate of change (2015-20 est.) |
+| **Trinidad and Tobago** | *urban population:* 53.2% of total population (2020) |
+| | *rate of urbanization:* 0.22% annual rate of change (2015-20 est.) |
+| **Tunisia** | *urban population:* 69.6% of total population (2020) |
+| | *rate of urbanization:* 1.53% annual rate of change (2015-20 est.) |
+| **Turkey** | *urban population:* 76.1% of total population (2020) |
+| | *rate of urbanization:* 2.04% annual rate of change (2015-20 est.) |
+| **Turkmenistan** | *urban population:* 52.5% of total population (2020) |
+| | *rate of urbanization:* 2.46% annual rate of change (2015-20 est.) |
+| **Turks and Caicos Islands** | *urban population:* 93.6% of total population (2020) |
+| | *rate of urbanization:* 1.77% annual rate of change (2015-20 est.) |
+| **Tuvalu** | *urban population:* 64% of total population (2020) |
+| | *rate of urbanization:* 2.27% annual rate of change (2015-20 est.) |
+| **Uganda** | *urban population:* 25% of total population (2020) |
+| | *rate of urbanization:* 5.7% annual rate of change (2015-20 est.) |
+| **Ukraine** | *urban population:* 69.6% of total population (2020) |
+| | *rate of urbanization:* -0.33% annual rate of change (2015-20 est.) |
+| **United Arab Emirates** | *urban population:* 87% of total population (2020) |
+| | *rate of urbanization:* 1.71% annual rate of change (2015-20 est.) |
+| **United Kingdom** | *urban population:* 83.9% of total population (2020) |
+| | *rate of urbanization:* 0.89% annual rate of change (2015-20 est.) |
+| **United States** | *urban population:* 82.7% of total population (2020) |
+| | *rate of urbanization:* 0.95% annual rate of change (2015-20 est.) |
+| **Uruguay** | *urban population:* 95.5% of total population (2020) |
+| | *rate of urbanization:* 0.46% annual rate of change (2015-20 est.) |
+| **Uzbekistan** | *urban population:* 50.4% of total population (2020) |
+| | *rate of urbanization:* 1.28% annual rate of change (2015-20 est.) |
+| **Vanuatu** | *urban population:* 25.5% of total population (2020) |
+| | *rate of urbanization:* 2.55% annual rate of change (2015-20 est.) |
+| **Venezuela** | *urban population:* 88.3% of total population (2020) |
+| | *rate of urbanization:* 1.28% annual rate of change (2015-20 est.) |
+| **Vietnam** | *urban population:* 37.3% of total population (2020) |
+| | *rate of urbanization:* 2.98% annual rate of change (2015-20 est.) |
+| **Virgin Islands** | *urban population:* 95.9% of total population (2020) |
+| | *rate of urbanization:* 0.1% annual rate of change (2015-20 est.) |
+| **Wallis and Futuna** | *urban population:* 0% of total population (2020) |
+| | *rate of urbanization:* 0% annual rate of change (2015-20 est.) |
+| **West Bank** | *urban population:* 76.7% of total population (2020) |
+| | *rate of urbanization:* 3% annual rate of change (2015-20 est.) |
+| | *note:* data represent Gaza Strip and the West Bank |
+| **World** | *urban population:* 56.2% of total population (2020) |
+| | *rate of urbanization:* 1.9% annual rate of change (2015-20 est.) |
+| **Yemen** | *urban population:* 37.9% of total population (2020) |
+| | *rate of urbanization:* 4.06% annual rate of change (2015-20 est.) |
+| **Zambia** | *urban population:* 44.6% of total population (2020) |
+| | *rate of urbanization:* 4.23% annual rate of change (2015-20 est.) |
+| **Zimbabwe** | *urban population:* 32.2% of total population (2020) |
+| | *rate of urbanization:* 2.19% annual rate of change (2015-20 est.) |
+

@@ -1,0 +1,229 @@
+CIA - The World Factbook -- Field Listing :: Education expenditures   
+
+This entry provides the public expenditure on education as a percent of GDP.
+
+| Country | Education expenditures(% of GDP) |
+| --- | --- |
+| **Afghanistan** | NA |
+| **Albania** | 2.9% of GDP (2002) |
+| **Algeria** | 5.1% of GDP (1999) |
+| **American Samoa** | NA |
+| **Andorra** | 2.3% of GDP (2006) |
+| **Angola** | 2.4% of GDP (2005) |
+| **Anguilla** | 4% of GDP (2005) |
+| **Antigua and Barbuda** | 3.9% of GDP (2002) |
+| **Argentina** | 3.8% of GDP (2004) |
+| **Armenia** | 3.2% of GDP (2001) |
+| **Aruba** | 4.8% of GDP (2005) |
+| **Australia** | 4.5% of GDP (2005) |
+| **Austria** | 5.4% of GDP (2005) |
+| **Azerbaijan** | 2.1% of GDP (2006) |
+| **Bahamas, The** | 3.6% of GDP (2000) |
+| **Bahrain** | 3.9% of GDP (1991) |
+| **Bangladesh** | 2.7% of GDP (2005) |
+| **Barbados** | 6.9% of GDP (2005) |
+| **Belarus** | 6.1% of GDP (2006) |
+| **Belgium** | 6% of GDP (2004) |
+| **Belize** | 5.3% of GDP (2004) |
+| **Benin** | 4.4% of GDP (2004) |
+| **Bermuda** | 1.2% of GDP (2006) |
+| **Bhutan** | 7% of GDP (2005) |
+| **Bolivia** | 6.4% of GDP (2003) |
+| **Bosnia and Herzegovina** | NA |
+| **Botswana** | 8.7% of GDP (2007) |
+| **Brazil** | 4% of GDP (2004) |
+| **British Virgin Islands** | 3.7% of GDP (2006) |
+| **Brunei** | 5.2% of GDP (2000) |
+| **Bulgaria** | 4.5% of GDP (2005) |
+| **Burkina Faso** | 4.2% of GDP (2006) |
+| **Burma** | 1.2% of GDP (2001) |
+| **Burundi** | 5.1% of GDP (2005) |
+| **Cambodia** | 1.7% of GDP (2004) |
+| **Cameroon** | 3.3% of GDP (2006) |
+| **Canada** | 5.2% of GDP (2002) |
+| **Cape Verde** | 6.3% of GDP (2006) |
+| **Cayman Islands** | 2.8% of GDP (2005) |
+| **Central African Republic** | 1.4% of GDP (2006) |
+| **Chad** | 1.9% of GDP (2005) |
+| **Chile** | 3.2% of GDP (2006) |
+| **China** | 1.9% of GDP (1999) |
+| **Colombia** | 4.7% of GDP (2006) |
+| **Comoros** | 3.8% of GDP (2002) |
+| **Congo, Democratic Republic of the** | NA |
+| **Congo, Republic of the** | 1.9% of GDP (2005) |
+| **Cook Islands** | 0.2% of GDP (2001) |
+| **Costa Rica** | 4.9% of GDP (2004) |
+| **Cote d'Ivoire** | 4.6% of GDP (2001) |
+| **Croatia** | 4.5% of GDP (2004) |
+| **Cuba** | 9.1% of GDP (2006) |
+| **Cyprus** | 6.3% of GDP (2004) |
+| **Czech Republic** | 4.4% of GDP (2004) |
+| **Denmark** | 8.3% of GDP (2005) |
+| **Djibouti** | 8.4% of GDP (2006) |
+| **Dominica** | 5% of GDP (1999) |
+| **Dominican Republic** | 3.6% of GDP (2006) |
+| **Ecuador** | 1% of GDP (2001) |
+| **Egypt** | 4.2% of GDP (2006) |
+| **El Salvador** | 3.1% of GDP (2006) |
+| **Equatorial Guinea** | 0.6% of GDP (2003) |
+| **Eritrea** | 2.4% of GDP (2006) |
+| **Estonia** | 5.1% of GDP (2004) |
+| **Ethiopia** | 6% of GDP (2006) |
+| **Fiji** | 6.5% of GDP (2004) |
+| **Finland** | 6.4% of GDP (2005) |
+| **France** | 5.7% of GDP (2005) |
+| **French Polynesia** | NA |
+| **Gabon** | 3.8% of GDP (2000) |
+| **Gambia, The** | 2% of GDP (2004) |
+| **Gaza Strip** | NA |
+| **Georgia** | 3.1% of GDP (2006) |
+| **Germany** | 4.6% of GDP (2004) |
+| **Ghana** | 5.4% of GDP (2005) |
+| **Gibraltar** | NA |
+| **Greece** | 4.4% of GDP (2005) |
+| **Greenland** | NA |
+| **Grenada** | 5.2% of GDP (2003) |
+| **Guam** | NA |
+| **Guatemala** | 2.6% of GDP (2006) |
+| **Guernsey** | NA |
+| **Guinea** | 1.6% of GDP (2005) |
+| **Guinea-Bissau** | 5.2% of GDP (1999) |
+| **Guyana** | 8.3% of GDP (2006) |
+| **Haiti** | 1.4% of GDP (1991) |
+| **Honduras** | 3.8% of GDP (1991) |
+| **Hong Kong** | 3.9% of GDP (2006) |
+| **Hungary** | 5.5% of GDP (2005) |
+| **Iceland** | 7.6% of GDP (2004) |
+| **India** | 3.2% of GDP (2005) |
+| **Indonesia** | 3.6% of GDP (2006) |
+| **Iran** | 5.1% of GDP (2006) |
+| **Iraq** | NA |
+| **Ireland** | 4.7% of GDP (2005) |
+| **Isle of Man** | NA |
+| **Israel** | 6.9% of GDP (2004) |
+| **Italy** | 4.5% of GDP (2005) |
+| **Jamaica** | 5.3% of GDP (2005) |
+| **Japan** | 3.5% of GDP (2005) |
+| **Jersey** | NA |
+| **Jordan** | 4.9% of GDP (1999) |
+| **Kazakhstan** | 2.3% of GDP (2005) |
+| **Kenya** | 6.9% of GDP (2006) |
+| **Kiribati** | 17.8% of GDP (2002) |
+| **Korea, North** | NA |
+| **Korea, South** | 4.6% of GDP (2004) |
+| **Kuwait** | 3.8% of GDP (2006) |
+| **Kyrgyzstan** | 4.9% of GDP (2005) |
+| **Laos** | 3% of GDP (2006) |
+| **Latvia** | 5.1% of GDP (2004) |
+| **Lebanon** | 2.7% of GDP (2006) |
+| **Lesotho** | 13% of GDP (2006) |
+| **Liberia** | NA |
+| **Libya** | 2.7% of GDP (1999) |
+| **Liechtenstein** | NA |
+| **Lithuania** | 5% of GDP (2005) |
+| **Luxembourg** | 3.4% of GDP (1999) |
+| **Macau** | 2.4% of GDP (2005) |
+| **Macedonia** | 3.5% of GDP (2002) |
+| **Madagascar** | 3.1% of GDP (2006) |
+| **Malawi** | 5.8% of GDP (2003) |
+| **Malaysia** | 6.2% of GDP (2004) |
+| **Maldives** | 8% of GDP (2006) |
+| **Mali** | 4.5% of GDP (2006) |
+| **Malta** | 5.1% of GDP (2004) |
+| **Marshall Islands** | 11.8% of GDP (2004) |
+| **Mauritania** | 2.9% of GDP (2006) |
+| **Mauritius** | 3.9% of GDP (2006) |
+| **Mayotte** | NA |
+| **Mexico** | 5.5% of GDP (2005) |
+| **Micronesia, Federated States of** | 7.3% of GDP (2000) |
+| **Moldova** | 7.6% of GDP (2006) |
+| **Monaco** | 4.4% of GDP (2004) |
+| **Mongolia** | 5% of GDP (2004) |
+| **Montenegro** | NA |
+| **Montserrat** | 3.3% of GDP (2004) |
+| **Morocco** | NA |
+| **Mozambique** | 5% of GDP (2005) |
+| **Namibia** | 6.9% of GDP (2003) |
+| **Nauru** | NA |
+| **Nepal** | 3.4% of GDP (2003) |
+| **Netherlands** | 5.3% of GDP (2005) |
+| **Netherlands Antilles** | NA |
+| **New Zealand** | 6.2% of GDP (2006) |
+| **Nicaragua** | 3.1% of GDP (2003) |
+| **Niger** | 3.4% of GDP (2006) |
+| **Nigeria** | 0.9% of GDP (1991) |
+| **Niue** | NA |
+| **Norfolk Island** | NA |
+| **Northern Mariana Islands** | NA |
+| **Norway** | 7.2% of GDP (2005) |
+| **Oman** | 4% of GDP (2006) |
+| **Pakistan** | 2.6% of GDP (2006) |
+| **Palau** | 10.3% of GDP (2002) |
+| **Panama** | 3.8% of GDP (2004) |
+| **Papua New Guinea** | NA |
+| **Paraguay** | 4% of GDP (2004) |
+| **Peru** | 2.5% of GDP (2006) |
+| **Philippines** | 2.5% of GDP (2005) |
+| **Poland** | 5.5% of GDP (2005) |
+| **Portugal** | 5.5% of GDP (2005) |
+| **Puerto Rico** | NA |
+| **Qatar** | 3.3% of GDP (2005) |
+| **Romania** | 3.5% of GDP (2005) |
+| **Russia** | 3.8% of GDP (2005) |
+| **Rwanda** | 3.8% of GDP (2005) |
+| **Saint Helena** | NA |
+| **Saint Kitts and Nevis** | 9.3% of GDP (2005) |
+| **Saint Lucia** | 6.6% of GDP (2006) |
+| **Saint Pierre and Miquelon** | NA |
+| **Saint Vincent and the Grenadines** | 8.1% of GDP (2005) |
+| **Samoa** | 4.3% of GDP (2002) |
+| **San Marino** | NA |
+| **Sao Tome and Principe** | NA |
+| **Saudi Arabia** | 6.8% of GDP (2004) |
+| **Senegal** | 5% of GDP (2006) |
+| **Serbia** | NA |
+| **Seychelles** | 6.5% of GDP (2006) |
+| **Sierra Leone** | 3.8% of GDP (2005) |
+| **Singapore** | 3.7% of GDP (2001) |
+| **Slovakia** | 3.9% of GDP (2005) |
+| **Slovenia** | 6% of GDP (2005) |
+| **Solomon Islands** | 3.3% of GDP (1999) |
+| **Somalia** | NA |
+| **South Africa** | 5.4% of GDP (2006) |
+| **Spain** | 4.2% of GDP (2005) |
+| **Sri Lanka** | NA |
+| **Sudan** | 6% of GDP (1991) |
+| **Suriname** | NA |
+| **Swaziland** | 7% of GDP (2005) |
+| **Sweden** | 7.1% of GDP (2005) |
+| **Switzerland** | 5.8% of GDP (2005) |
+| **Syria** | 3.9% of GDP (1999) |
+| **Taiwan** | NA |
+| **Tajikistan** | 3.4% of GDP (2006) |
+| **Tanzania** | 2.2% of GDP (1999) |
+| **Thailand** | 4.2% of GDP (2005) |
+| **Timor-Leste** | NA |
+| **Togo** | 2.6% of GDP (2002) |
+| **Tokelau** | NA |
+| **Tonga** | 5% of GDP (2004) |
+| **Trinidad and Tobago** | 4.2% of GDP (2002) |
+| **Tunisia** | 7.3% of GDP (2005) |
+| **Turkey** | 4% of GDP (2004) |
+| **Turkmenistan** | 3.9% of GDP (1991) |
+| **Turks and Caicos Islands** | NA |
+| **Tuvalu** | NA |
+| **Uganda** | 5.2% of GDP (2004) |
+| **Ukraine** | 6.3% of GDP (2006) |
+| **United Arab Emirates** | 1.3% of GDP (2005) |
+| **United Kingdom** | 5.6% of GDP (2005) |
+| **United States** | 5.3% of GDP (2005) |
+| **Uruguay** | 2.9% of GDP (2006) |
+| **Uzbekistan** | 9.4% of GDP (1991) |
+| **Vanuatu** | 9.5% of GDP (2003) |
+| **Venezuela** | 3.7% of GDP (2006) |
+| **Vietnam** | 1.8% of GDP (1991) |
+| **Virgin Islands** | NA |
+| **West Bank** | NA |
+| **Yemen** | 9.6% of GDP (2001) |
+| **Zambia** | 2% of GDP (2005) |
+| **Zimbabwe** | 4.6% of GDP (2000) |

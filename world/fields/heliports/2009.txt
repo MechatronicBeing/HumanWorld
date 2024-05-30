@@ -1,0 +1,108 @@
+CIA - The World Factbook -- Field Listing :: Heliports   
+
+This entry gives the total number of heliports with hard-surface runways, helipads, or landing areas that support routine sustained helicopter operations exclusively and have support facilities including one or more of the following facilities: lighting, fuel, passenger handling, or maintenance. It includes former airports used exclusively for helicopter operations but excludes heliports limited to day operations and natural clearings that could support helicopter landings and takeoffs.
+
+| Country | Heliports |
+| --- | --- |
+| **Afghanistan** | 11 (2009) |
+| **Albania** | 1 (2009) |
+| **Algeria** | 2 (2009) |
+| **Antarctica** | 53 |
+| | *note:* all year-round and seasonal stations operated by National Antarctic Programs stations have some kind of helicopter landing facilities, prepared (helipads) or unprepared (2007) |
+| **Argentina** | 2 (2009) |
+| **Australia** | 1 (2009) |
+| **Austria** | 1 (2009) |
+| **Azerbaijan** | 1 (2009) |
+| **Bahamas, The** | 1 (2009) |
+| **Bahrain** | 1 (2009) |
+| **Belarus** | 1 (2009) |
+| **Belgium** | 1 (2009) |
+| **Bosnia and Herzegovina** | 5 (2009) |
+| **Brazil** | 13 (2009) |
+| **Brunei** | 3 (2009) |
+| **Bulgaria** | 3 (2009) |
+| **Burma** | 5 (2009) |
+| **Burundi** | 1 (2009) |
+| **Cambodia** | 1 (2009) |
+| **Canada** | 12 (2009) |
+| **China** | 45 (2009) |
+| **Colombia** | 2 (2009) |
+| **Croatia** | 1 (2009) |
+| **Cyprus** | 9 (2009) |
+| **Czech Republic** | 1 (2009) |
+| **Ecuador** | 2 (2009) |
+| **Egypt** | 6 (2009) |
+| **El Salvador** | 1 (2009) |
+| **Eritrea** | 1 (2009) |
+| **Estonia** | 1 (2009) |
+| **European Union** | 100 (2007) |
+| **France** | 1 (2009) |
+| **French Polynesia** | 1 (2009) |
+| **Gaza Strip** | 1 (2009) |
+| **Georgia** | 3 (2009) |
+| **Germany** | 25 (2009) |
+| **Greece** | 9 (2009) |
+| **Hong Kong** | 9 (2009) |
+| **Hungary** | 5 (2009) |
+| **India** | 37 (2009) |
+| **Indonesia** | 36 (2009) |
+| **Iran** | 19 (2009) |
+| **Iraq** | 21 (2009) |
+| **Israel** | 3 (2009) |
+| **Italy** | 6 (2009) |
+| **Japan** | 15 (2009) |
+| **Jordan** | 1 (2009) |
+| **Kazakhstan** | 4 (2009) |
+| **Korea, North** | 22 (2009) |
+| **Korea, South** | 516 (2009) |
+| **Kosovo** | 2 (2009) |
+| **Kuwait** | 4 (2009) |
+| **Libya** | 2 (2009) |
+| **Luxembourg** | 1 (2009) |
+| **Macau** | 2 (2009) |
+| **Malaysia** | 2 (2009) |
+| **Mexico** | 1 (2009) |
+| **Monaco** | 1 (2007) |
+| **Mongolia** | 1 (2009) |
+| **Montenegro** | 1 (2007) |
+| **Morocco** | 1 (2009) |
+| **Netherlands** | 1 (2009) |
+| **New Caledonia** | 8 (2009) |
+| **Nigeria** | 3 (2009) |
+| **Northern Mariana Islands** | 1 (2009) |
+| **Norway** | 1 (2009) |
+| **Oman** | 3 (2009) |
+| **Pakistan** | 19 (2009) |
+| **Panama** | 3 (2009) |
+| **Papua New Guinea** | 2 (2009) |
+| **Peru** | 1 (2009) |
+| **Philippines** | 2 (2009) |
+| **Poland** | 7 (2009) |
+| **Qatar** | 1 (2009) |
+| **Romania** | 2 (2009) |
+| **Russia** | 48 (2009) |
+| **Saudi Arabia** | 9 (2009) |
+| **Serbia** | 2 (2007) |
+| **Sierra Leone** | 2 (2009) |
+| **Slovakia** | 1 (2009) |
+| **Solomon Islands** | 3 (2009) |
+| **South Africa** | 1 (2009) |
+| **Spain** | 9 (2009) |
+| **Spratly Islands** | 3 (2009) |
+| **Sudan** | 4 (2009) |
+| **Svalbard** | 1 (2009) |
+| **Sweden** | 2 (2009) |
+| **Switzerland** | 1 (2009) |
+| **Syria** | 7 (2009) |
+| **Taiwan** | 4 (2009) |
+| **Thailand** | 4 (2009) |
+| **Timor-Leste** | 8 (2009) |
+| **Turkey** | 21 (2009) |
+| **Turkmenistan** | 1 (2009) |
+| **Ukraine** | 7 (2009) |
+| **United Arab Emirates** | 5 (2009) |
+| **United Kingdom** | 11 (2009) |
+| **United States** | 126 (2009) |
+| **Venezuela** | 4 (2009) |
+| **Vietnam** | 1 (2009) |
+| **World** | 1,359 (2007) |

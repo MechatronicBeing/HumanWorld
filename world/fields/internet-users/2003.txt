@@ -1,0 +1,244 @@
+CIA - The World Factbook -- Field Listing - Internet users
+
+| Country | Internet users |
+| --- | --- |
+| **Afghanistan** | NA |
+| **Albania** | 12,000 (2001) |
+| **Algeria** | 180,000 (2001) |
+| **American Samoa** | NA |
+| **Andorra** | 24,500 (2001) |
+| **Angola** | 60,000 (2002) |
+| **Anguilla** | 919 (2000) |
+| **Antigua and Barbuda** | 5,000 (2001) |
+| **Argentina** | 3.88 million (2001) |
+| **Armenia** | 30,000 (2001) |
+| **Aruba** | 24,000 (2002) |
+| **Australia** | 10.63 million (2002) |
+| **Austria** | 3.7 million (2002) |
+| **Azerbaijan** | 25,000 (2002) |
+| **Bahamas, The** | 16,900 (2002) |
+| **Bahrain** | 140,200 (2002) |
+| **Bangladesh** | 150,000 (2002) |
+| **Barbados** | 6,000 (2000) |
+| **Belarus** | 422,000 (2002) |
+| **Belgium** | 3.76 million (2002) |
+| **Belize** | 18,000 (2002) |
+| **Benin** | 25,000 (2002) |
+| **Bermuda** | 25,000 (2000) |
+| **Bhutan** | 2,500 (2002) |
+| **Bolivia** | 78,000 (2000) |
+| **Bosnia and Herzegovina** | 45,000 (2002) |
+| **Botswana** | 33,000 (2001) |
+| **Brazil** | 13.98 million (2002) |
+| **British Virgin Islands** | NA |
+| **Brunei** | 35,000 (2002) |
+| **Bulgaria** | 585,000 (2001) |
+| **Burkina Faso** | 25,000 (2002) |
+| **Burma** | 10,000 (2002) |
+| **Burundi** | 6,000 (2002) |
+| **Cambodia** | 10,000 (2002) |
+| **Cameroon** | 45,000 |
+| | *note:* Cameroon also had more than 100 cyber-cafes in 2001 (December 2001) |
+| **Canada** | 16.84 million (2002) |
+| **Cape Verde** | 12,000 (2002) |
+| **Cayman Islands** | NA |
+| **Central African Republic** | 2,000 (2002) |
+| **Chad** | 4,000 (2002) |
+| **Chile** | 3.1 million (2002) |
+| **China** | 45.8 million (2002) |
+| **Christmas Island** | NA |
+| **Cocos (Keeling) Islands** | NA |
+| **Colombia** | 1.15 million (2002) |
+| **Comoros** | 2,500 (2002) |
+| **Congo, Democratic Republic of the** | 6,000 (2002) |
+| **Congo, Republic of the** | 500 (2001) |
+| **Cook Islands** | NA |
+| **Costa Rica** | 384,000 (2002) |
+| **Cote d'Ivoire** | 70,000 (2002) |
+| **Croatia** | 480,000 (2001) |
+| **Cuba** | 120,000 (2002) |
+| **Cyprus** | 150,000 (2002) |
+| **Czech Republic** | 2.69 million (2001) |
+| **Denmark** | 3.37 million (2002) |
+| **Djibouti** | 3,300 (2002) |
+| **Dominica** | 2,000 (2000) |
+| **Dominican Republic** | 186,000 (2002) |
+| **East Timor** | NA |
+| **Ecuador** | 328,000 (2002) |
+| **Egypt** | 600,000 (2002) |
+| **El Salvador** | 40,000 (2000) |
+| **Equatorial Guinea** | 900 (2002) |
+| **Eritrea** | 10,000 (2002) |
+| **Estonia** | 429,700 (2002) |
+| **Ethiopia** | 20,000 (2002) |
+| **Falkland Islands (Islas Malvinas)** | NA; however one-half of all households are reported to have internet access (2002) |
+| **Faroe Islands** | 3,000 (2000) |
+| **Fiji** | 15,000 (2002) |
+| **Finland** | 2.69 million (2002) |
+| **France** | 16.97 million (2002) |
+| **French Guiana** | 2,000 (2000) |
+| **French Polynesia** | 16,000 (2002) |
+| **Gabon** | 18,000 (2002) |
+| **Gambia, The** | 5,000 (2001) |
+| **Gaza Strip** | 60,000 (includes West Bank) (2001) |
+| **Georgia** | 25,000 (2002) |
+| **Germany** | 32.1 million (2002) |
+| **Ghana** | 200,000 (2002) |
+| **Gibraltar** | NA |
+| **Greece** | 1.4 million (2002) |
+| **Greenland** | 20,000 (2002) |
+| **Grenada** | 5,200 (2002) |
+| **Guadeloupe** | 4,000 (2000) |
+| **Guam** | 5,000 (2000) |
+| **Guatemala** | 200,000 (2002) |
+| **Guernsey** | NA |
+| **Guinea** | 15,000 (2002) |
+| **Guinea-Bissau** | 4,000 (2002) |
+| **Guyana** | 95,000 (2002) |
+| **Haiti** | 30,000 (2002) |
+| **Holy See (Vatican City)** | NA |
+| **Honduras** | 40,000 (2000) |
+| **Hong Kong** | 4.35 million (2002) |
+| **Hungary** | 1.2 million (2001) |
+| **Iceland** | 220,000 (2002) |
+| **India** | 7 million (2002) |
+| **Indonesia** | 4.4 million (2002) |
+| **Iran** | 1.326 million (2002 est.) |
+| **Iraq** | 12,500 (2001) |
+| **Ireland** | 1.31 million (2002) |
+| **Israel** | 1.94 million (2001) |
+| **Italy** | 19.25 million (2001) |
+| **Jamaica** | 100,000 (2002) |
+| **Japan** | 56 million (2002) |
+| **Jersey** | NA |
+| **Jordan** | 212,000 (2002) |
+| **Kazakhstan** | 100,000 (2002) |
+| **Kenya** | 500,000 (2002) |
+| **Kiribati** | 1,000 (2000) |
+| **Korea, North** | NA |
+| **Korea, South** | 25.6 million (2002) |
+| **Kuwait** | 200,000 (2002) |
+| **Kyrgyzstan** | 51,600 (2001) |
+| **Laos** | 10,000 (2002) |
+| **Latvia** | 312,000 (2001) |
+| **Lebanon** | 300,000 (2001) |
+| **Lesotho** | 5,000 (2002) |
+| **Liberia** | 500 (2000) |
+| **Libya** | 20,000 (2001) |
+| **Liechtenstein** | NA |
+| **Lithuania** | 341,000 (2001) |
+| **Luxembourg** | 100,000 (2001) |
+| **Macau** | 101,000 (2002) |
+| **Macedonia, The Former Yugoslav Republic of** | 100,000 (2001) |
+| **Madagascar** | 35,000 (2002) |
+| **Malawi** | 35,000 (2002) |
+| **Malaysia** | 5.7 million (2002) |
+| **Maldives** | 6,000 (2001) |
+| **Mali** | 30,000 (2002) |
+| **Malta** | 59,000 (2002) |
+| **Man, Isle of** | NA |
+| **Marshall Islands** | 900 (2002) |
+| **Martinique** | 5,000 (2000) |
+| **Mauritania** | 7,500 (2001) |
+| **Mauritius** | 158,000 (2002) |
+| **Mayotte** | NA |
+| **Mexico** | 3.5 million (2002) |
+| **Micronesia, Federated States of** | 2,000 (2000) |
+| **Moldova** | 15,000 (2000) |
+| **Monaco** | NA |
+| **Mongolia** | 40,000 (2002) |
+| **Montserrat** | NA |
+| **Morocco** | 400,000 (2002) |
+| **Mozambique** | 22,500 (2000) |
+| **Namibia** | 45,000 (2002) |
+| **Nauru** | NA |
+| **Nepal** | 60,000 (2002) |
+| **Netherlands** | 9.73 million (2002) |
+| **Netherlands Antilles** | 2,000 (2000) |
+| **New Caledonia** | 24,000 (2001) |
+| **New Zealand** | 2.06 million (2002) |
+| **Nicaragua** | 20,000 (2000) |
+| **Niger** | 12,000 (2002) |
+| **Nigeria** | 100,000 (2000) |
+| **Niue** | NA |
+| **Norfolk Island** | NA |
+| **Northern Mariana Islands** | NA |
+| **Norway** | 2.68 million (2002) |
+| **Oman** | 120,000 (2002) |
+| **Pakistan** | 1.2 million (2000) |
+| **Panama** | 45,000 (2000) |
+| **Papua New Guinea** | 135,000 (2001) |
+| **Paraguay** | 20,000 (2000) |
+| **Peru** | 3 million (2002) |
+| **Philippines** | 4.5 million (2002) |
+| **Pitcairn Islands** | NA |
+| **Poland** | 6.4 million (2001) |
+| **Portugal** | 4.4 million (2002) |
+| **Puerto Rico** | 600,000 (2002) |
+| **Qatar** | 75,000 (2001) |
+| **Reunion** | 10,000 (2000) |
+| **Romania** | 1 million (2002) |
+| **Russia** | 18 million (2002) |
+| **Rwanda** | 20,000 (2002) |
+| **Saint Helena** | NA |
+| **Saint Kitts and Nevis** | 2,000 (2000) |
+| **Saint Lucia** | 3,000 (2000) |
+| **Saint Pierre and Miquelon** | NA |
+| **Saint Vincent and the Grenadines** | 3,500 (2001) |
+| **Samoa** | 3,000 (2002) |
+| **San Marino** | NA |
+| **Sao Tome and Principe** | 9,000 (2002) |
+| **Saudi Arabia** | 1.453 million (2002) |
+| **Senegal** | 100,000 (2002) |
+| **Serbia and Montenegro** | 400,000 (2001) |
+| **Seychelles** | 9,000 (2002) |
+| **Sierra Leone** | 20,000 (2001) |
+| **Singapore** | 2.31 million (2002) |
+| **Slovakia** | 700,000 (2000) |
+| **Slovenia** | 600,000 (2001) |
+| **Solomon Islands** | 8,400 (2002) |
+| **Somalia** | 200 (2000) |
+| **South Africa** | 3.068 million (2002) |
+| **Spain** | 7.89 million (2002) |
+| **Sri Lanka** | 121,500 (2001) |
+| **Sudan** | 56,000 (2002) |
+| **Suriname** | 14,500 (2002) |
+| **Svalbard** | NA |
+| **Swaziland** | 7,000 (2002) |
+| **Sweden** | 6.02 million (2002) |
+| **Switzerland** | 3.85 million (2002) |
+| **Syria** | 60,000 (2002) |
+| **Taiwan** | 11.6 million (2001) |
+| **Tajikistan** | 5,000 (2002) |
+| **Tanzania** | 300,000 (2002) |
+| **Thailand** | 1.2 million (2001) |
+| **Togo** | 50,000 (2002) |
+| **Tokelau** | NA |
+| **Tonga** | 1,000 (2000) |
+| **Trinidad and Tobago** | 120,000 (2002) |
+| **Tunisia** | 400,000 (2002) |
+| **Turkey** | 2.5 million (2002) |
+| **Turkmenistan** | 2,000 (2000) |
+| **Turks and Caicos Islands** | NA |
+| **Tuvalu** | NA |
+| **Uganda** | 60,000 (2002) |
+| **Ukraine** | 750,000 (2001) |
+| **United Arab Emirates** | 900,000 (2002) |
+| **United Kingdom** | 34.3 million (2002) |
+| **United States** | 165.75 million (2002) |
+| **Uruguay** | 400,000 (2002) |
+| **Uzbekistan** | 100,000 (2002) |
+| **Vanuatu** | 3,000 (2000) |
+| **Venezuela** | 1.3 million (2002) |
+| **Vietnam** | 400,000 (2002) |
+| **Virgin Islands** | 12,000 (2000) |
+| **Wallis and Futuna** | NA |
+| **West Bank** | 60,000 (includes Gaza Strip) (2001) |
+| **Western Sahara** | NA |
+| **World** | 604,111,719 (2002 est.) |
+| **Yemen** | 17,000 (2002) |
+| **Zambia** | 25,000 (2002) |
+| **Zimbabwe** | 100,000 (2002) |
+
+This page was last updated on 18 December, 2003
+ 

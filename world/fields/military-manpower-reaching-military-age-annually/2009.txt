@@ -1,0 +1,458 @@
+CIA - The World Factbook -- Field Listing :: Manpower reaching militarily significant age annually   
+
+This entry gives the number of males and females entering the military manpower pool (i.e., reaching age 16) in any given year and is a measure of the availability of military-age young adults.
+
+| Country | Manpower reaching militarily significant age annually |
+| --- | --- |
+| **Afghanistan** | *male:* 382,720 |
+| | *female:* 361,733 (2009 est.) |
+| **Albania** | *male:* 34,778 |
+| | *female:* 31,673 (2009 est.) |
+| **Algeria** | *male:* 375,852 |
+| | *female:* 362,158 (2009 est.) |
+| **American Samoa** | *male:* 820 |
+| | *female:* 802 (2009 est.) |
+| **Andorra** | *male:* 402 |
+| | *female:* 373 (2009 est.) |
+| **Angola** | *male:* 146,738 |
+| | *female:* 143,478 (2009 est.) |
+| **Anguilla** | *male:* 107 |
+| | *female:* 106 (2009 est.) |
+| **Antigua and Barbuda** | *male:* 744 |
+| | *female:* 743 (2009 est.) |
+| **Argentina** | *male:* 341,590 |
+| | *female:* 326,342 (2009 est.) |
+| **Armenia** | *male:* 27,293 |
+| | *female:* 25,574 (2009 est.) |
+| **Aruba** | *male:* 722 |
+| | *female:* 711 (2009 est.) |
+| **Australia** | *male:* 144,959 |
+| | *female:* 137,333 (2009 est.) |
+| **Austria** | *male:* 50,540 |
+| | *female:* 48,042 (2009 est.) |
+| **Azerbaijan** | *male:* 90,416 |
+| | *female:* 85,344 (2009 est.) |
+| **Bahamas, The** | *male:* 2,992 |
+| | *female:* 3,003 (2009 est.) |
+| **Bahrain** | *male:* 6,612 |
+| | *female:* 6,499 (2009 est.) |
+| **Bangladesh** | *male:* 1,538,865 |
+| | *female:* 1,666,670 (2009 est.) |
+| **Barbados** | *male:* 2,015 |
+| | *female:* 2,007 (2009 est.) |
+| **Belarus** | *male:* 60,009 |
+| | *female:* 56,834 (2009 est.) |
+| **Belgium** | *male:* 62,722 |
+| | *female:* 59,969 (2009 est.) |
+| **Belize** | *male:* 3,632 |
+| | *female:* 3,500 (2009 est.) |
+| **Benin** | *male:* 101,549 |
+| | *female:* 97,856 (2009 est.) |
+| **Bermuda** | *male:* 426 |
+| | *female:* 413 (2009 est.) |
+| **Bhutan** | *male:* 7,668 |
+| | *female:* 7,379 (2009 est.) |
+| **Bolivia** | *male:* 108,304 |
+| | *female:* 104,882 (2009 est.) |
+| **Bosnia and Herzegovina** | *male:* 27,368 |
+| | *female:* 25,644 (2009 est.) |
+| **Botswana** | *male:* 23,420 |
+| | *female:* 22,904 (2009 est.) |
+| **Brazil** | *male:* 1,690,031 |
+| | *female:* 1,630,851 (2009 est.) |
+| **British Virgin Islands** | *male:* 178 |
+| | *female:* 173 (2009 est.) |
+| **Brunei** | *male:* 3,460 |
+| | *female:* 3,399 (2009 est.) |
+| **Bulgaria** | *male:* 38,263 |
+| | *female:* 36,374 (2009 est.) |
+| **Burkina Faso** | *male:* 182,540 |
+| | *female:* 180,051 (2009 est.) |
+| **Burma** | *male:* 426,110 |
+| | *female:* 417,674 (2009 est.) |
+| **Burundi** | *male:* 101,402 |
+| | *female:* 101,897 (2009 est.) |
+| **Cambodia** | *male:* 177,881 |
+| | *female:* 175,332 (2009 est.) |
+| **Cameroon** | *male:* 213,027 |
+| | *female:* 208,642 (2009 est.) |
+| **Canada** | *male:* 223,238 |
+| | *female:* 210,797 (2009 est.) |
+| **Cape Verde** | *male:* 5,471 |
+| | *female:* 5,349 (2009 est.) |
+| **Cayman Islands** | *male:* 334 |
+| | *female:* 345 (2009 est.) |
+| **Central African Republic** | *male:* 55,484 |
+| | *female:* 55,168 (2009 est.) |
+| **Chad** | *male:* 121,080 |
+| | *female:* 121,585 (2009 est.) |
+| **Chile** | *male:* 145,766 |
+| | *female:* 139,648 (2009 est.) |
+| **China** | *male:* 10,621,373 |
+| | *female:* 9,533,880 (2009 est.) |
+| **Colombia** | *male:* 446,432 |
+| | *female:* 437,164 (2009 est.) |
+| **Comoros** | *male:* 8,203 |
+| | *female:* 8,188 (2009 est.) |
+| **Congo, Democratic Republic of the** | *male:* 814,199 |
+| | *female:* 811,238 (2009 est.) |
+| **Congo, Republic of the** | *male:* 46,976 |
+| | *female:* 46,490 (2009 est.) |
+| **Cook Islands** | *male:* 148 |
+| | *female:* 125 (2009 est.) |
+| **Costa Rica** | *male:* 40,698 |
+| | *female:* 38,808 (2009 est.) |
+| **Cote d'Ivoire** | *male:* 236,159 |
+| | *female:* 232,617 (2009 est.) |
+| **Croatia** | *male:* 27,620 |
+| | *female:* 26,154 (2009 est.) |
+| **Cuba** | *male:* 75,969 |
+| | *female:* 72,253 (2009 est.) |
+| **Cyprus** | *male:* 6,241 |
+| | *female:* 5,979 (2009 est.) |
+| **Czech Republic** | *male:* 60,150 |
+| | *female:* 57,157 (2009 est.) |
+| **Denmark** | *male:* 37,231 |
+| | *female:* 35,306 (2009 est.) |
+| **Djibouti** | *male:* 5,778 |
+| | *female:* 5,771 (2009 est.) |
+| **Dominica** | *male:* 776 |
+| | *female:* 731 (2009 est.) |
+| **Dominican Republic** | *male:* 97,766 |
+| | *female:* 93,922 (2009 est.) |
+| **Ecuador** | *male:* 148,010 |
+| | *female:* 143,291 (2009 est.) |
+| **Egypt** | *male:* 831,157 |
+| | *female:* 792,330 (2009 est.) |
+| **El Salvador** | *male:* 77,473 |
+| | *female:* 74,655 (2009 est.) |
+| **Equatorial Guinea** | *male:* 6,983 |
+| | *female:* 6,726 (2009 est.) |
+| **Eritrea** | *male:* 62,265 |
+| | *female:* 62,328 (2009 est.) |
+| **Estonia** | *male:* 7,583 |
+| | *female:* 7,111 (2009 est.) |
+| **Ethiopia** | *male:* 908,384 |
+| | *female:* 916,354 (2009 est.) |
+| **Faroe Islands** | *male:* 386 |
+| | *female:* 375 (2009 est.) |
+| **Fiji** | *male:* 9,107 |
+| | *female:* 8,755 (2009 est.) |
+| **Finland** | *male:* 33,784 |
+| | *female:* 32,621 (2009 est.) |
+| **France** | *male:* 391,480 |
+| | *female:* 373,334 (2009 est.) |
+| **French Polynesia** | *male:* 2,665 |
+| | *female:* 2,552 (2009 est.) |
+| **Gabon** | *male:* 16,933 |
+| | *female:* 16,942 (2009 est.) |
+| **Gambia, The** | *male:* 20,238 |
+| | *female:* 20,167 (2009 est.) |
+| **Gaza Strip** | *male:* 19,147 |
+| | *female:* 18,200 (2009 est.) |
+| **Georgia** | *male:* 32,355 |
+| | *female:* 30,809 (2009 est.) |
+| **Germany** | *male:* 431,508 |
+| | *female:* 409,111 (2009 est.) |
+| **Ghana** | *male:* 272,954 |
+| | *female:* 266,186 (2009 est.) |
+| **Gibraltar** | *male:* 186 |
+| | *female:* 179 (2009 est.) |
+| **Greece** | *male:* 53,401 |
+| | *female:* 50,084 (2009 est.) |
+| **Greenland** | *male:* 532 |
+| | *female:* 491 (2009 est.) |
+| **Grenada** | *male:* 982 |
+| | *female:* 937 (2009 est.) |
+| **Guam** | *male:* 1,677 |
+| | *female:* 1,581 (2009 est.) |
+| **Guatemala** | *male:* 165,910 |
+| | *female:* 163,760 (2009 est.) |
+| **Guernsey** | *male:* 362 |
+| | *female:* 351 (2009 est.) |
+| **Guinea** | *male:* 110,281 |
+| | *female:* 107,879 (2009 est.) |
+| **Guinea-Bissau** | *male:* 16,957 |
+| | *female:* 17,172 (2009 est.) |
+| **Guyana** | *male:* 6,625 |
+| | *female:* 6,365 (2009 est.) |
+| **Haiti** | *male:* 108,444 |
+| | *female:* 106,243 (2009 est.) |
+| **Honduras** | *male:* 92,638 |
+| | *female:* 88,993 (2009 est.) |
+| **Hong Kong** | *male:* 42,330 |
+| | *female:* 38,797 (2009 est.) |
+| **Hungary** | *male:* 60,248 |
+| | *female:* 57,280 (2009 est.) |
+| **Iceland** | *male:* 2,369 |
+| | *female:* 2,349 (2009 est.) |
+| **India** | *male:* 11.795 million |
+| | *female:* 10,820,590 (2009 est.) |
+| **Indonesia** | *male:* 2,197,323 |
+| | *female:* 2,126,412 (2009 est.) |
+| **Iran** | *male:* 700,213 |
+| | *female:* 664,846 (2009 est.) |
+| **Iraq** | *male:* 313,500 |
+| | *female:* 304,923 (2009 est.) |
+| **Ireland** | *male:* 28,072 |
+| | *female:* 26,400 (2009 est.) |
+| **Isle of Man** | *male:* 466 |
+| | *female:* 446 (2009 est.) |
+| **Israel** | *male:* 61,223 |
+| | *female:* 58,219 (2009 est.) |
+| **Italy** | *male:* 287,845 |
+| | *female:* 270,384 (2009 est.) |
+| **Jamaica** | *male:* 31,833 |
+| | *female:* 31,257 (2009 est.) |
+| **Japan** | *male:* 621,254 |
+| | *female:* 589,270 (2009 est.) |
+| **Jersey** | *male:* 586 |
+| | *female:* 541 (2009 est.) |
+| **Jordan** | *male:* 69,830 |
+| | *female:* 67,292 (2009 est.) |
+| **Kazakhstan** | *male:* 139,262 |
+| | *female:* 133,047 (2009 est.) |
+| **Kenya** | *male:* 412,656 |
+| | *female:* 408,657 (2009 est.) |
+| **Kiribati** | *male:* 1,264 |
+| | *female:* 1,242 (2009 est.) |
+| **Korea, North** | *male:* 191,759 |
+| | *female:* 184,641 (2009 est.) |
+| **Korea, South** | *male:* 371,728 |
+| | *female:* 322,605 (2009 est.) |
+| **Kuwait** | *male:* 18,122 |
+| | *female:* 18,865 (2009 est.) |
+| **Kyrgyzstan** | *male:* 57,659 |
+| | *female:* 55,557 (2009 est.) |
+| **Laos** | *male:* 75,310 |
+| | *female:* 74,498 (2009 est.) |
+| **Latvia** | *male:* 12,901 |
+| | *female:* 12,497 (2009 est.) |
+| **Lebanon** | *male:* 33,018 |
+| | *female:* 31,800 (2009 est.) |
+| **Lesotho** | *male:* 26,039 |
+| | *female:* 25,964 (2009 est.) |
+| **Liberia** | *male:* 34,059 |
+| | *female:* 33,281 (2009 est.) |
+| **Libya** | *male:* 60,710 |
+| | *female:* 58,219 (2009 est.) |
+| **Liechtenstein** | *male:* 199 |
+| | *female:* 222 (2009 est.) |
+| **Lithuania** | *male:* 23,556 |
+| | *female:* 22,404 (2009 est.) |
+| **Luxembourg** | *male:* 3,170 |
+| | *female:* 2,995 (2009 est.) |
+| **Macau** | *male:* 4,578 |
+| | *female:* 4,052 (2009 est.) |
+| **Macedonia** | *male:* 14,596 |
+| | *female:* 13,881 (2009 est.) |
+| **Madagascar** | *male:* 236,500 |
+| | *female:* 235,994 (2009 est.) |
+| **Malawi** | *male:* 174,044 |
+| | *female:* 173,828 (2009 est.) |
+| **Malaysia** | *male:* 266,267 |
+| | *female:* 252,543 (2009 est.) |
+| **Maldives** | *male:* 4,576 |
+| | *female:* 3,942 (2009 est.) |
+| **Mali** | *male:* 147,846 |
+| | *female:* 140,543 (2009 est.) |
+| **Malta** | *male:* 2,695 |
+| | *female:* 2,533 (2009 est.) |
+| **Marshall Islands** | *male:* 540 |
+| | *female:* 521 (2009 est.) |
+| **Mauritania** | *male:* 34,546 |
+| | *female:* 35,272 (2009 est.) |
+| **Mauritius** | *male:* 10,901 |
+| | *female:* 10,796 (2009 est.) |
+| **Mayotte** | *male:* 2,517 |
+| | *female:* 2,511 (2009 est.) |
+| **Mexico** | *male:* 1,109,981 |
+| | *female:* 1,072,094 (2009 est.) |
+| **Micronesia, Federated States of** | *male:* 1,273 |
+| | *female:* 1,212 (2009 est.) |
+| **Moldova** | *male:* 31,633 |
+| | *female:* 30,214 (2009 est.) |
+| **Monaco** | *male:* 190 |
+| | *female:* 182 (2009 est.) |
+| **Mongolia** | *male:* 28,251 |
+| | *female:* 27,344 (2009 est.) |
+| **Montenegro** | *male:* 3,945 |
+| | *female:* 3,907 (2009 est.) |
+| **Montserrat** | *male:* 36 |
+| | *female:* 33 (2009 est.) |
+| **Morocco** | *male:* 356,014 |
+| | *female:* 343,520 (2009 est.) |
+| **Mozambique** | *male:* 263,994 |
+| | *female:* 265,058 (2009 est.) |
+| **Namibia** | *male:* 25,857 |
+| | *female:* 25,505 (2009 est.) |
+| **Nauru** | *male:* 179 |
+| | *female:* 174 (2009 est.) |
+| **Nepal** | *male:* 365,567 |
+| | *female:* 352,643 (2009 est.) |
+| **Netherlands** | *male:* 105,194 |
+| | *female:* 100,341 (2009 est.) |
+| **Netherlands Antilles** | *male:* 1,920 |
+| | *female:* 1,827 (2009 est.) |
+| **New Caledonia** | *male:* 2,160 |
+| | *female:* 2,087 (2009 est.) |
+| **New Zealand** | *male:* 31,461 |
+| | *female:* 29,809 (2009 est.) |
+| **Nicaragua** | *male:* 72,366 |
+| | *female:* 70,118 (2009 est.) |
+| **Niger** | *male:* 170,060 |
+| | *female:* 163,996 (2009 est.) |
+| **Nigeria** | *male:* 1,697,030 |
+| | *female:* 1,618,561 (2009 est.) |
+| **Northern Mariana Islands** | *male:* 570 |
+| | *female:* 587 (2009 est.) |
+| **Norway** | *male:* 31,980 |
+| | *female:* 30,543 (2009 est.) |
+| **Oman** | *male:* 35,647 |
+| | *female:* 34,407 (2009 est.) |
+| **Pakistan** | *male:* 2,089,936 |
+| | *female:* 1,964,090 (2009 est.) |
+| **Palau** | *male:* 207 |
+| | *female:* 214 (2009 est.) |
+| **Panama** | *male:* 31,089 |
+| | *female:* 29,939 (2009 est.) |
+| **Papua New Guinea** | *male:* 64,636 |
+| | *female:* 62,803 (2009 est.) |
+| **Paraguay** | *male:* 73,660 |
+| | *female:* 72,046 (2009 est.) |
+| **Peru** | *male:* 310,575 |
+| | *female:* 300,838 (2009 est.) |
+| **Philippines** | *male:* 1,023,431 |
+| | *female:* 986,434 (2009 est.) |
+| **Poland** | *male:* 246,667 |
+| | *female:* 235,698 (2009 est.) |
+| **Portugal** | *male:* 64,047 |
+| | *female:* 57,630 (2009 est.) |
+| **Puerto Rico** | *male:* 30,422 |
+| | *female:* 29,396 (2009 est.) |
+| **Qatar** | *male:* 6,337 |
+| | *female:* 5,059 (2009 est.) |
+| **Romania** | *male:* 124,356 |
+| | *female:* 118,430 (2009 est.) |
+| **Russia** | *male:* 741,692 |
+| | *female:* 706,081 (2009 est.) |
+| **Rwanda** | *male:* 106,741 |
+| | *female:* 106,935 (2009 est.) |
+| **Saint Barthelemy** | *male:* 21 |
+| | *female:* 20 (2009 est.) |
+| **Saint Helena** | *male:* 47 |
+| | *female:* 45 (2009 est.) |
+| **Saint Kitts and Nevis** | *male:* 376 |
+| | *female:* 362 (2009 est.) |
+| **Saint Lucia** | *male:* 1,607 |
+| | *female:* 1,511 (2009 est.) |
+| **Saint Martin** | *male:* 177 |
+| | *female:* 162 (2009 est.) |
+| **Saint Pierre and Miquelon** | *male:* 61 |
+| | *female:* 57 (2009 est.) |
+| **Saint Vincent and the Grenadines** | *male:* 1,020 |
+| | *female:* 1,009 (2009 est.) |
+| **Samoa** | *male:* 2,597 |
+| | *female:* 2,477 (2009 est.) |
+| **San Marino** | *male:* 161 |
+| | *female:* 160 (2009 est.) |
+| **Sao Tome and Principe** | *male:* 2,534 |
+| | *female:* 2,485 (2009 est.) |
+| **Saudi Arabia** | *male:* 278,179 |
+| | *female:* 267,905 (2009 est.) |
+| **Senegal** | *male:* 154,249 |
+| | *female:* 153,679 (2009 est.) |
+| **Serbia** | *male:* 44,601 |
+| | *female:* 41,845 (2009 est.) |
+| **Seychelles** | *male:* 714 |
+| | *female:* 685 (2009 est.) |
+| **Sierra Leone** | *male:* 71,524 |
+| | *female:* 75,491 (2009 est.) |
+| **Singapore** | *male:* 27,715 |
+| | *female:* 26,290 (2009 est.) |
+| **Slovakia** | *male:* 36,552 |
+| | *female:* 34,783 (2009 est.) |
+| **Slovenia** | *male:* 10,192 |
+| | *female:* 9,717 (2009 est.) |
+| **Solomon Islands** | *male:* 7,091 |
+| | *female:* 6,837 (2009 est.) |
+| **Somalia** | *male:* 93,763 |
+| | *female:* 93,738 (2009 est.) |
+| **South Africa** | *male:* 511,616 |
+| | *female:* 510,540 (2009 est.) |
+| **Spain** | *male:* 199,124 |
+| | *female:* 187,224 (2009 est.) |
+| **Sri Lanka** | *male:* 173,256 |
+| | *female:* 167,645 (2009 est.) |
+| **Sudan** | *male:* 498,376 |
+| | *female:* 479,005 (2009 est.) |
+| **Suriname** | *male:* 4,251 |
+| | *female:* 4,265 (2009 est.) |
+| **Swaziland** | *male:* 15,985 |
+| | *female:* 15,754 (2009 est.) |
+| **Sweden** | *male:* 62,262 |
+| | *female:* 59,340 (2009 est.) |
+| **Switzerland** | *male:* 48,076 |
+| | *female:* 44,049 (2009 est.) |
+| **Syria** | *male:* 213,513 |
+| | *female:* 201,055 (2009 est.) |
+| **Taiwan** | *male:* 165,738 |
+| | *female:* 154,123 (2009 est.) |
+| **Tajikistan** | *male:* 80,819 |
+| | *female:* 78,460 (2009 est.) |
+| **Tanzania** | *male:* 487,742 |
+| | *female:* 489,462 (2009 est.) |
+| **Thailand** | *male:* 532,977 |
+| | *female:* 510,737 (2009 est.) |
+| **Timor-Leste** | *male:* 12,887 |
+| | *female:* 12,529 (2009 est.) |
+| **Togo** | *male:* 70,775 |
+| | *female:* 70,051 (2009 est.) |
+| **Tonga** | *male:* 1,458 |
+| | *female:* 1,403 (2009 est.) |
+| **Trinidad and Tobago** | *male:* 9,183 |
+| | *female:* 8,662 (2009 est.) |
+| **Tunisia** | *male:* 100,478 |
+| | *female:* 94,055 (2009 est.) |
+| **Turkey** | *male:* 692,592 |
+| | *female:* 663,689 (2009 est.) |
+| **Turkmenistan** | *male:* 57,021 |
+| | *female:* 56,064 (2009 est.) |
+| **Turks and Caicos Islands** | *male:* 226 |
+| | *female:* 218 (2009 est.) |
+| **Tuvalu** | *male:* 125 |
+| | *female:* 121 (2009 est.) |
+| **Uganda** | *male:* 399,134 |
+| | *female:* 395,505 (2009 est.) |
+| **Ukraine** | *male:* 269,311 |
+| | *female:* 257,656 (2009 est.) |
+| **United Arab Emirates** | *male:* 26,659 |
+| | *female:* 23,793 (2009 est.) |
+| **United Kingdom** | *male:* 393,892 |
+| | *female:* 376,351 (2009 est.) |
+| **United States** | *male:* 2,196,124 |
+| | *female:* 2,085,085 (2009 est.) |
+| **Uruguay** | *male:* 27,452 |
+| | *female:* 26,479 (2009 est.) |
+| **Uzbekistan** | *male:* 313,131 |
+| | *female:* 310,442 (2009 est.) |
+| **Vanuatu** | *male:* 2,368 |
+| | *female:* 2,272 (2009 est.) |
+| **Venezuela** | *male:* 276,051 |
+| | *female:* 274,162 (2009 est.) |
+| **Vietnam** | *male:* 893,726 |
+| | *female:* 834,279 (2009 est.) |
+| **Virgin Islands** | *male:* 831 |
+| | *female:* 873 (2009 est.) |
+| **Wallis and Futuna** | *male:* 175 |
+| | *female:* 164 (2009 est.) |
+| **West Bank** | *male:* 30,233 |
+| | *female:* 28,745 (2009 est.) |
+| **Western Sahara** | *male:* 4,796 |
+| | *female:* 4,679 (2009 est.) |
+| **Yemen** | *male:* 273,624 |
+| | *female:* 263,402 (2009 est.) |
+| **Zambia** | *male:* 149,567 |
+| | *female:* 148,889 (2009 est.) |
+| **Zimbabwe** | *male:* 149,592 |
+| | *female:* 149,717 (2009 est.) |

@@ -1,0 +1,707 @@
+FIELD LISTING :: GDP - COMPOSITION, BY SECTOR OF ORIGIN
+
+| Country | GDP - COMPOSITION, BY SECTOR OF ORIGIN(%) |
+| --- | --- |
+| **Afghanistan** | *agriculture:* 22% |
+| | *industry:* 22% |
+| | *services:* 56% |
+| | *note:* data exclude opium production (2015 est.) |
+| **Albania** | *agriculture:* 23% |
+| | *industry:* 23.8% |
+| | *services:* 53.2% |
+| | (2016 est.) |
+| **Algeria** | *agriculture:* 12.9% |
+| | *industry:* 36.2% |
+| | *services:* 50.9% (2016 est.) |
+| **American Samoa** | *agriculture:* 27.4% |
+| | *industry:* 12.4% |
+| | *services:* 60.2% (2012) |
+| **Andorra** | *agriculture:* 11.9% |
+| | *industry:* 33.6% |
+| | *services:* 54.5% (2015 est.) |
+| **Angola** | *agriculture:* 10.2% |
+| | *industry:* 61.4% |
+| | *services:* 28.4% (2011 est.) |
+| **Anguilla** | *agriculture:* 2.4% |
+| | *industry:* 21.3% |
+| | *services:* 76.3% (2016 est.) |
+| **Antigua and Barbuda** | *agriculture:* 2.3% |
+| | *industry:* 20.2% |
+| | *services:* 77.5% (2016 est.) |
+| **Argentina** | *agriculture:* 10.6% |
+| | *industry:* 28.3% |
+| | *services:* 61.1% (2016 est.) |
+| **Armenia** | *agriculture:* 17.8% |
+| | *industry:* 27.5% |
+| | *services:* 54.7% (2016 est.) |
+| **Aruba** | *agriculture:* 0.4% |
+| | *industry:* 33.3% |
+| | *services:* 66.3% (2002 est.) |
+| **Australia** | *agriculture:* 3.6% |
+| | *industry:* 26.5% |
+| | *services:* 69.9% (2016 est.) |
+| **Austria** | *agriculture:* 1.3% |
+| | *industry:* 28.1% |
+| | *services:* 70.6% (2016 est.) |
+| **Azerbaijan** | *agriculture:* 6% |
+| | *industry:* 51.7% |
+| | *services:* 42.3% (2016 est.) |
+| **Bahamas, The** | *agriculture:* 2.2% |
+| | *industry:* 7.6% |
+| | *services:* 90.1% (2016 est.) |
+| **Bahrain** | *agriculture:* 0.3% |
+| | *industry:* 37.3% |
+| | *services:* 62.3% (2016 est.) |
+| **Bangladesh** | *agriculture:* 14.8% |
+| | *industry:* 28.8% |
+| | *services:* 56.5% (2016 est.) |
+| **Barbados** | *agriculture:* 1.6% |
+| | *industry:* 11.3% |
+| | *services:* 87.1% (2016 est.) |
+| **Belarus** | *agriculture:* 8.1% |
+| | *industry:* 39.6% |
+| | *services:* 52.3% (2016 est.) |
+| **Belgium** | *agriculture:* 0.7% |
+| | *industry:* 22.3% |
+| | *services:* 77% (2016 est.) |
+| **Belize** | *agriculture:* 9.7% |
+| | *industry:* 14.3% |
+| | *services:* 61.8% (2016 est.) |
+| **Benin** | *agriculture:* 25.2% |
+| | *industry:* 23.2% |
+| | *services:* 51.5% (2016 est.) |
+| **Bermuda** | *agriculture:* 0.8% |
+| | *industry:* 5.8% |
+| | *services:* 93.4% (2016 est.) |
+| **Bhutan** | *agriculture:* 16.4% |
+| | *industry:* 42.2% |
+| | *services:* 41.4% (2016 est.) |
+| **Bolivia** | *agriculture:* 13.4% |
+| | *industry:* 38.5% |
+| | *services:* 53.8% (2016 est.) |
+| **Bosnia and Herzegovina** | *agriculture:* 7.8% |
+| | *industry:* 26.8% |
+| | *services:* 65.4% (2016 est.) |
+| **Botswana** | *agriculture:* 1.8% |
+| | *industry:* 29.4% |
+| | *services:* 68.8% (2016 est.) |
+| **Brazil** | *agriculture:* 5.8% |
+| | *industry:* 20.9% |
+| | *services:* 73.3% |
+| | (2016 est.) |
+| **British Virgin Islands** | *agriculture:* 1% |
+| | *industry:* 11.2% |
+| | *services:* 87.8% (2016 est.) |
+| **Brunei** | *agriculture:* 1.2% |
+| | *industry:* 56.5% |
+| | *services:* 42.4% (2016 est.) |
+| **Bulgaria** | *agriculture:* 4.4% |
+| | *industry:* 28% |
+| | *services:* 67.6% (2016 est.) |
+| **Burkina Faso** | *agriculture:* 32.6% |
+| | *industry:* 22.2% |
+| | *services:* 45.2% (2016 est.) |
+| **Burma** | *agriculture:* 25.6% |
+| | *industry:* 34.7% |
+| | *services:* 39.6% (2016 est.) |
+| **Burundi** | *agriculture:* 39.8% |
+| | *industry:* 16.6% |
+| | *services:* 43.7% (2016 est.) |
+| **Cabo Verde** | *agriculture:* 8.1% |
+| | *industry:* 18.2% |
+| | *services:* 73.7% (2016 est.) |
+| **Cambodia** | *agriculture:* 26.7% |
+| | *industry:* 31.7% |
+| | *services:* 41.6% (2016 est.) |
+| **Cameroon** | *agriculture:* 23% |
+| | *industry:* 28.2% |
+| | *services:* 48.8% (2016 est.) |
+| **Canada** | *agriculture:* 1.7% |
+| | *industry:* 27.5% |
+| | *services:* 70.8% (2016 est.) |
+| **Cayman Islands** | *agriculture:* 0.3% |
+| | *industry:* 7.5% |
+| | *services:* 91.4% (2016 est.) |
+| **Central African Republic** | *agriculture:* 42.9% |
+| | *industry:* 16% |
+| | *services:* 41.1% (2016 est.) |
+| **Chad** | *agriculture:* 57.8% |
+| | *industry:* 13.9% |
+| | *services:* 28.3% (2016 est.) |
+| **Chile** | *agriculture:* 4.3% |
+| | *industry:* 31.3% |
+| | *services:* 64.4% (2016 est.) |
+| **China** | *agriculture:* 8.6% |
+| | *industry:* 39.8% |
+| | *services:* 51.6% |
+| | (2016 est.) |
+| **Colombia** | *agriculture:* 7.1% |
+| | *industry:* 32.6% |
+| | *services:* 60.3% (2016 est.) |
+| **Comoros** | *agriculture:* 49.7% |
+| | *industry:* 11.9% |
+| | *services:* 38.4% (2016 est.) |
+| **Congo, Democratic Republic of the** | *agriculture:* 21.1% |
+| | *industry:* 32.7% |
+| | *services:* 46.3% (2016 est.) |
+| **Congo, Republic of the** | *agriculture:* 8.7% |
+| | *industry:* 50.2% |
+| | *services:* 41.1% (2016 est.) |
+| **Cook Islands** | *agriculture:* 5.1% |
+| | *industry:* 12.7% |
+| | *services:* 82.1% (2010 est.) |
+| **Costa Rica** | *agriculture:* 5.5% |
+| | *industry:* 21.5% |
+| | *services:* 73% (2016 est.) |
+| **Cote d'Ivoire** | *agriculture:* 19.5% |
+| | *industry:* 28.3% |
+| | *services:* 52.2% (2016 est.) |
+| **Croatia** | *agriculture:* 4.1% |
+| | *industry:* 26.5% |
+| | *services:* 69.4% (2016 est.) |
+| **Cuba** | *agriculture:* 3.9% |
+| | *industry:* 22% |
+| | *services:* 74.8% (2016 est.) |
+| **Curacao** | *agriculture:* 0.7% |
+| | *industry:* 15.5% |
+| | *services:* 83.8% (2012 est.) |
+| **Cyprus** | *agriculture:* 2.3% |
+| | *industry:* 11% |
+| | *services:* 86.7% (2016 est.) |
+| **Czechia** | *agriculture:* 2.5% |
+| | *industry:* 37.5% |
+| | *services:* 60% (2016 est.) |
+| **Denmark** | *agriculture:* 1.1% |
+| | *industry:* 23.6% |
+| | *services:* 75.3% (2016 est.) |
+| **Djibouti** | *agriculture:* 2.9% |
+| | *industry:* 20.8% |
+| | *services:* 76.3% (2016 est.) |
+| **Dominica** | *agriculture:* 14.7% |
+| | *industry:* 13.4% |
+| | *services:* 71.9% (2016 est.) |
+| **Dominican Republic** | *agriculture:* 5.5% |
+| | *industry:* 33.4% |
+| | *services:* 61.1% (2016 est.) |
+| **Ecuador** | *agriculture:* 6.4% |
+| | *industry:* 33.8% |
+| | *services:* 59.7% (2016 est.) |
+| **Egypt** | *agriculture:* 11.9% |
+| | *industry:* 32.9% |
+| | *services:* 55.2% (2016 est.) |
+| **El Salvador** | *agriculture:* 10.6% |
+| | *industry:* 24.6% |
+| | *services:* 64.8% (2016 est.) |
+| **Equatorial Guinea** | *agriculture:* 2.3% |
+| | *industry:* 57.2% |
+| | *services:* 40.5% (2016 est.) |
+| **Eritrea** | *agriculture:* 12.1% |
+| | *industry:* 29.5% |
+| | *services:* 58.5% (2016 est.) |
+| **Estonia** | *agriculture:* 3.4% |
+| | *industry:* 27.9% |
+| | *services:* 68.7% (2016 est.) |
+| **Ethiopia** | *agriculture:* 37.2% |
+| | *industry:* 21.3% |
+| | *services:* 41.5% (2016 est.) |
+| **European Union** | *agriculture:* 1.5% |
+| | *industry:* 24.7% |
+| | *services:* 71% (2016 est.) |
+| **Falkland Islands (Islas Malvinas)** | *agriculture:* 95% |
+| | *industry:* NA% |
+| | *services:* NA% (1996) |
+| **Faroe Islands** | *agriculture:* 18% |
+| | *industry:* 39% |
+| | *services:* 43% (2013 est.) |
+| **Fiji** | *agriculture:* 10.7% |
+| | *industry:* 18% |
+| | *services:* 71.3% (2016 est.) |
+| **Finland** | *agriculture:* 2.7% |
+| | *industry:* 27.1% |
+| | *services:* 70.2% (2016 est.) |
+| **France** | *agriculture:* 1.6% |
+| | *industry:* 19.6% |
+| | *services:* 78.8% (2016 est.) |
+| **French Polynesia** | *agriculture:* 2.5% |
+| | *industry:* 13% |
+| | *services:* 84.5% (2009) |
+| **Gabon** | *agriculture:* 4.3% |
+| | *industry:* 44.2% |
+| | *services:* 51.4% (2016 est.) |
+| **Gambia, The** | *agriculture:* 21% |
+| | *industry:* 13.8% |
+| | *services:* 65.2% (2016 est.) |
+| **Gaza Strip** | *agriculture:* 2.9% |
+| | *industry:* 20.9% |
+| | *services:* 62.7% |
+| | *note:* data exclude the West Bank (2016 est.) |
+| **Georgia** | *agriculture:* 9.3% |
+| | *industry:* 22.8% |
+| | *services:* 67.2% (2016 est.) |
+| **Germany** | *agriculture:* 0.6% |
+| | *industry:* 30.3% |
+| | *services:* 69.1% |
+| | (2016 est.) |
+| **Ghana** | *agriculture:* 19.7% |
+| | *industry:* 25.3% |
+| | *services:* 59.4% (2016 est.) |
+| **Gibraltar** | *agriculture:* 0% |
+| | *industry:* 0% |
+| | *services:* 100% (2016 est.) |
+| **Greece** | *agriculture:* 4% |
+| | *industry:* 15.8% |
+| | *services:* 80.2% (2016 est.) |
+| **Greenland** | *agriculture:* 15.9% |
+| | *industry:* 10.1% |
+| | *services:* 73.9% (2015) |
+| **Grenada** | *agriculture:* 9% |
+| | *industry:* 14.6% |
+| | *services:* 76.5% (2016 est.) |
+| **Guam** | *agriculture:* NA% |
+| | *industry:* NA% |
+| | *services:* NA% |
+| **Guatemala** | *agriculture:* 13.2% |
+| | *industry:* 23.6% |
+| | *services:* 62.8% (2016 est.) |
+| **Guernsey** | *agriculture:* 3% |
+| | *industry:* 10% |
+| | *services:* 87% (2000) |
+| **Guinea-Bissau** | *agriculture:* 44.7% |
+| | *industry:* 13.2% |
+| | *services:* 42.1% (2016 est.) |
+| **Guinea** | *agriculture:* 19.9% |
+| | *industry:* 37.6% |
+| | *services:* 42.5% (2016 est.) |
+| **Guyana** | *agriculture:* 17.4% |
+| | *industry:* 35.9% |
+| | *services:* 46.8% (2016 est.) |
+| **Haiti** | *agriculture:* 22.2% |
+| | *industry:* 20.3% |
+| | *services:* 57.5% (2016 est.) |
+| **Honduras** | *agriculture:* 13.5% |
+| | *industry:* 28.2% |
+| | *services:* 58.3% (2016 est.) |
+| **Hong Kong** | *agriculture:* 0.1% |
+| | *industry:* 7.2% |
+| | *services:* 92.8% (2016 est.) |
+| **Hungary** | *agriculture:* 4.5% |
+| | *industry:* 30.4% |
+| | *services:* 65.1% (2016 est.) |
+| **Iceland** | *agriculture:* 5.8% |
+| | *industry:* 20.2% |
+| | *services:* 74% (2016 est.) |
+| **India** | *agriculture:* 17.4% |
+| | *industry:* 28.8% |
+| | *services:* 46.2% (2016 est.) |
+| **Indonesia** | *agriculture:* 14% |
+| | *industry:* 40.8% |
+| | *services:* 45.3% (2016 est.) |
+| **Iran** | *agriculture:* 9.8% |
+| | *industry:* 34.3% |
+| | *services:* 55.9% (2016 est.) |
+| **Iraq** | *agriculture:* 5.1% |
+| | *industry:* 37.3% |
+| | *services:* 57.7% (2016 est.) |
+| **Ireland** | *agriculture:* 1% |
+| | *industry:* 39.3% |
+| | *services:* 59.7% (2016 est.) |
+| **Isle of Man** | *agriculture:* 1% |
+| | *industry:* 13% |
+| | *services:* 86% (FY12/13 est.) |
+| **Israel** | *agriculture:* 2.3% |
+| | *industry:* 26.4% |
+| | *services:* 69.6% (2016 est.) |
+| **Italy** | *agriculture:* 2.1% |
+| | *industry:* 24.1% |
+| | *services:* 73.8% (2016 est.) |
+| **Jamaica** | *agriculture:* 7.2% |
+| | *industry:* 21.3% |
+| | *services:* 71.4% (2016 est.) |
+| **Japan** | *agriculture:* 1.1% |
+| | *industry:* 29.6% |
+| | *services:* 69.4% (2016 est.) |
+| **Jersey** | *agriculture:* 2% |
+| | *industry:* 2% |
+| | *services:* 96% (2010) |
+| **Jordan** | *agriculture:* 4.3% |
+| | *industry:* 28.9% |
+| | *services:* 66.8% (2016 est.) |
+| **Kazakhstan** | *agriculture:* 4.8% |
+| | *industry:* 33.9% |
+| | *services:* 61.3% (2016 est.) |
+| **Kenya** | *agriculture:* 35.6% |
+| | *industry:* 17.2% |
+| | *services:* 47.3% (2016 est.) |
+| **Kiribati** | *agriculture:* 26.3% |
+| | *industry:* 9.2% |
+| | *services:* 64.5% (2012 est.) |
+| **Korea, North** | *agriculture:* 25.3% |
+| | *industry:* 41.1% |
+| | *services:* 33.6% (2016 est.) |
+| **Korea, South** | *agriculture:* 2.2% |
+| | *industry:* 38.6% |
+| | *services:* 59.2% (2016 est.) |
+| **Kosovo** | *agriculture:* 12.9% |
+| | *industry:* 22.6% |
+| | *services:* 64.5% (2009 est.) |
+| **Kuwait** | *agriculture:* 0.4% |
+| | *industry:* 59.6% |
+| | *services:* 40% (2016 est.) |
+| **Kyrgyzstan** | *agriculture:* 14.9% |
+| | *industry:* 29.2% |
+| | *services:* 55.9% (2016 est.) |
+| **Laos** | *agriculture:* 21.6% |
+| | *industry:* 32.8% |
+| | *services:* 38.9% (2016 est.) |
+| **Latvia** | *agriculture:* 3.2% |
+| | *industry:* 21.9% |
+| | *services:* 74.9% (2016 est.) |
+| **Lebanon** | *agriculture:* 5.7% |
+| | *industry:* 21% |
+| | *services:* 73.3% (2016 est.) |
+| **Lesotho** | *agriculture:* 5.4% |
+| | *industry:* 33.1% |
+| | *services:* 61.5% (2016 est.) |
+| **Liberia** | *agriculture:* 36% |
+| | *industry:* 10.4% |
+| | *services:* 53.5% (2016 est.) |
+| **Libya** | *agriculture:* 1.7% |
+| | *industry:* 38.2% |
+| | *services:* 60.1% (2016 est.) |
+| **Liechtenstein** | *agriculture:* 7% |
+| | *industry:* 41% |
+| | *services:* 52% (2014) |
+| **Lithuania** | *agriculture:* 3.3% |
+| | *industry:* 28.7% |
+| | *services:* 68.1% (2016 est.) |
+| **Luxembourg** | *agriculture:* 0.2% |
+| | *industry:* 12.3% |
+| | *services:* 87.4% (2016 est.) |
+| **Macau** | *agriculture:* 0% |
+| | *industry:* 12.2% |
+| | *services:* 87.8% (2016 est.) |
+| **Macedonia** | *agriculture:* 9.9% |
+| | *industry:* 29.7% |
+| | *services:* 60.4% (2016 est.) |
+| **Madagascar** | *agriculture:* 24% |
+| | *industry:* 15.7% |
+| | *services:* 60.2% (2016 est.) |
+| **Malawi** | *agriculture:* 28.3% |
+| | *industry:* 16% |
+| | *services:* 55.8% (2016 est.) |
+| **Malaysia** | *agriculture:* 8.7% |
+| | *industry:* 37% |
+| | *services:* 54.4% (2016 est.) |
+| **Maldives** | *agriculture:* 3% |
+| | *industry:* 16% |
+| | *services:* 81% (2015 est.) |
+| **Mali** | *agriculture:* 40.7% |
+| | *industry:* 19% |
+| | *services:* 40.2% (2016 est.) |
+| **Malta** | *agriculture:* 1.3% |
+| | *industry:* 10.6% |
+| | *services:* 88.1% (2016 est.) |
+| **Marshall Islands** | *agriculture:* 4.4% |
+| | *industry:* 9.9% |
+| | *services:* 85.7% (2013 est.) |
+| **Mauritania** | *agriculture:* 21.9% |
+| | *industry:* 38.4% |
+| | *services:* 39.7% (2016 est.) |
+| **Mauritius** | *agriculture:* 4.1% |
+| | *industry:* 21.9% |
+| | *services:* 74% (2016 est.) |
+| **Mexico** | *agriculture:* 3.8% |
+| | *industry:* 32.2% |
+| | *services:* 63.4% (2016 est.) |
+| **Micronesia, Federated States of** | *agriculture:* 26.3% |
+| | *industry:* 18.9% |
+| | *services:* 54.8% (2013 est.) |
+| **Moldova** | *agriculture:* 14.3% |
+| | *industry:* 20.9% |
+| | *services:* 64.8% (2016 est.) |
+| **Monaco** | *agriculture:* 0% |
+| | *industry:* 14% |
+| | *services:* 86% (2013) |
+| **Mongolia** | *agriculture:* 13.3% |
+| | *industry:* 35.3% |
+| | *services:* 51.4% (2016 est.) |
+| **Montenegro** | *agriculture:* 8.3% |
+| | *industry:* 21.2% |
+| | *services:* 70.5% (2013 est.) |
+| **Montserrat** | *agriculture:* 1.6% |
+| | *industry:* 21.8% |
+| | *services:* 76.6% (2016 est.) |
+| **Morocco** | *agriculture:* 13.6% |
+| | *industry:* 29.5% |
+| | *services:* 56.8% (2016 est.) |
+| **Mozambique** | *agriculture:* 24.8% |
+| | *industry:* 21.6% |
+| | *services:* 53.6% (2016 est.) |
+| **Namibia** | *agriculture:* 6.2% |
+| | *industry:* 25.9% |
+| | *services:* 67.9% (2016 est.) |
+| **Nauru** | *agriculture:* 6.1% |
+| | *industry:* 33% |
+| | *services:* 60.8% (2009 est.) |
+| **Nepal** | *agriculture:* 29.2% |
+| | *industry:* 13.1% |
+| | *services:* 50% (2016 est.) |
+| **Netherlands** | *agriculture:* 1.6% |
+| | *industry:* 17.9% |
+| | *services:* 70.2% (2016 est.) |
+| **New Caledonia** | *agriculture:* 1.4% |
+| | *industry:* 26.1% |
+| | *services:* 72.4% (2016 est.) |
+| **New Zealand** | *agriculture:* 3.9% |
+| | *industry:* 26.3% |
+| | *services:* 69.8% (2016 est.) |
+| **Nicaragua** | *agriculture:* 14.8% |
+| | *industry:* 24.2% |
+| | *services:* 50.4% (2016 est.) |
+| **Nigeria** | *agriculture:* 21.2% |
+| | *industry:* 18.4% |
+| | *services:* 60.4% (2016 est.) |
+| **Niger** | *agriculture:* 44.7% |
+| | *industry:* 14.9% |
+| | *services:* 40.3% (2016 est.) |
+| **Niue** | *agriculture:* 23.5% |
+| | *industry:* 26.9% |
+| | *services:* 49.5% (2003) |
+| **Northern Mariana Islands** | *agriculture:* 1.7% |
+| | *industry:* 2.9% |
+| | *services:* 95.4% (2012) |
+| **Norway** | *agriculture:* 2.5% |
+| | *industry:* 31.7% |
+| | *services:* 65.8% (2016 est.) |
+| **Oman** | *agriculture:* 1.8% |
+| | *industry:* 47.6% |
+| | *services:* 53.9% (2016 est.) |
+| **Pakistan** | *agriculture:* 24.6% |
+| | *industry:* 19.4% |
+| | *services:* 56% (2016 est.) |
+| **Palau** | *agriculture:* 3% |
+| | *industry:* 19% |
+| | *services:* 78% (2016 est.) |
+| **Panama** | *agriculture:* 2.5% |
+| | *industry:* 15.5% |
+| | *services:* 76.7% (2016 est.) |
+| **Papua New Guinea** | *agriculture:* 21.5% |
+| | *industry:* 42.8% |
+| | *services:* 35.7% (2016 est.) |
+| **Paraguay** | *agriculture:* 20% |
+| | *industry:* 30.3% |
+| | *services:* 49.7% (2016 est.) |
+| **Peru** | *agriculture:* 7.6% |
+| | *industry:* 34.7% |
+| | *services:* 57.7% (2016 est.) |
+| **Philippines** | *agriculture:* 9.7% |
+| | *industry:* 30.8% |
+| | *services:* 59.5% (2016 est.) |
+| **Poland** | *agriculture:* 2.4% |
+| | *industry:* 40.2% |
+| | *services:* 64.2% (2016 est.) |
+| **Portugal** | *agriculture:* 2.3% |
+| | *industry:* 22.4% |
+| | *services:* 75.4% (2016 est.) |
+| **Puerto Rico** | *agriculture:* 0.8% |
+| | *industry:* 50.2% |
+| | *services:* 48.5% (2016 est.) |
+| **Qatar** | *agriculture:* 0.2% |
+| | *industry:* 54.6% |
+| | *services:* 52% (2016 est.) |
+| **Romania** | *agriculture:* 4.4% |
+| | *industry:* 34.2% |
+| | *services:* 63.3% (2016 est.) |
+| **Russia** | *agriculture:* 4.7% |
+| | *industry:* 32.5% |
+| | *services:* 62.1% (2016 est.) |
+| **Rwanda** | *agriculture:* 31.5% |
+| | *industry:* 17.6% |
+| | *services:* 50.8% (2016 est.) |
+| **Saint Helena, Ascension, and Tristan da Cunha** | *agriculture:* NA% |
+| | *industry:* NA% |
+| | *services:* NA% |
+| **Saint Kitts and Nevis** | *agriculture:* 1.1% |
+| | *industry:* 29% |
+| | *services:* 69.9% (2016 est.) |
+| **Saint Lucia** | *agriculture:* 2.9% |
+| | *industry:* 13.9% |
+| | *services:* 83.2% (2016 est.) |
+| **Saint Martin** | *agriculture:* 1% |
+| | *industry:* 15% |
+| | *services:* 84% (2000) |
+| **Saint Pierre and Miquelon** | *agriculture:* 2% |
+| | *industry:* 15% |
+| | *services:* 83% (2006 est.) |
+| **Saint Vincent and the Grenadines** | *agriculture:* 7.1% |
+| | *industry:* 17.4% |
+| | *services:* 75.4% (2016 est.) |
+| **Samoa** | *agriculture:* 10.3% |
+| | *industry:* 23.9% |
+| | *services:* 65.8% (2016 est.) |
+| **San Marino** | *agriculture:* 0.1% |
+| | *industry:* 39.2% |
+| | *services:* 60.7% (2009) |
+| **Sao Tome and Principe** | *agriculture:* 12.1% |
+| | *industry:* 14.8% |
+| | *services:* 73.2% (2016 est.) |
+| **Saudi Arabia** | *agriculture:* 2.7% |
+| | *industry:* 43.4% |
+| | *services:* 54% (2016 est.) |
+| **Senegal** | *agriculture:* 17.2% |
+| | *industry:* 23.7% |
+| | *services:* 59% (2016 est.) |
+| **Serbia** | *agriculture:* 9.9% |
+| | *industry:* 41.2% |
+| | *services:* 48.9% (2016 est.) |
+| **Seychelles** | *agriculture:* 2.6% |
+| | *industry:* 14% |
+| | *services:* 83.4% (2016 est.) |
+| **Sierra Leone** | *agriculture:* 61.4% |
+| | *industry:* 5.9% |
+| | *services:* 32.7% (2016 est.) |
+| **Singapore** | *agriculture:* 0% |
+| | *industry:* 26.2% |
+| | *services:* 73.8% (2016 est.) |
+| **Sint Maarten** | *agriculture:* 0.4% |
+| | *industry:* 18.3% |
+| | *services:* 81.3% (2008 est.) |
+| **Slovakia** | *agriculture:* 3.8% |
+| | *industry:* 34.8% |
+| | *services:* 61.4% (2016 est.) |
+| **Slovenia** | *agriculture:* 2.3% |
+| | *industry:* 32.4% |
+| | *services:* 65.3% (2016 est.) |
+| **Solomon Islands** | *agriculture:* 34.4% |
+| | *industry:* 7.6% |
+| | *services:* 58% (2016 est.) |
+| **Somalia** | *agriculture:* 60.2% |
+| | *industry:* 7.4% |
+| | *services:* 32.5% (2013 est.) |
+| **South Africa** | *agriculture:* 2.4% |
+| | *industry:* 29% |
+| | *services:* 68.6% (2016 est.) |
+| **Spain** | *agriculture:* 2.6% |
+| | *industry:* 23.4% |
+| | *services:* 74.1% (2016 est.) |
+| **Sri Lanka** | *agriculture:* 8.2% |
+| | *industry:* 30.6% |
+| | *services:* 62.6% (2016 est.) |
+| **Sudan** | *agriculture:* 39.5% |
+| | *industry:* 2.6% |
+| | *services:* 57.9% (2016 est.) |
+| **Suriname** | *agriculture:* 11.8% |
+| | *industry:* 30.7% |
+| | *services:* 57.5% (2016 est.) |
+| **Swaziland** | *agriculture:* 6.3% |
+| | *industry:* 45.4% |
+| | *services:* 48.3% (2016 est.) |
+| **Sweden** | *agriculture:* 1.6% |
+| | *industry:* 33.2% |
+| | *services:* 65.2% (2016 est.) |
+| **Switzerland** | *agriculture:* 0.7% |
+| | *industry:* 25.5% |
+| | *services:* 73.8% (2016 est.) |
+| **Syria** | *agriculture:* 19.5% |
+| | *industry:* 19% |
+| | *services:* 61.5% (2016 est.) |
+| **Taiwan** | *agriculture:* 1.9% |
+| | *industry:* 36.1% |
+| | *services:* 62% (2016 est.) |
+| **Tajikistan** | *agriculture:* 27.8% |
+| | *industry:* 25.9% |
+| | *services:* 46.3% (2016 est.) |
+| **Tanzania** | *agriculture:* 24.5% |
+| | *industry:* 27.6% |
+| | *services:* 47.3% (2016 est.) |
+| **Thailand** | *agriculture:* 8.3% |
+| | *industry:* 35.8% |
+| | *services:* 55.8% (2016 est.) |
+| **Timor-Leste** | *agriculture:* 9.2% |
+| | *industry:* 57.8% |
+| | *services:* 31.6% (2016 est.) |
+| **Togo** | *agriculture:* 29% |
+| | *industry:* 21.1% |
+| | *services:* 49.9% (2016 est.) |
+| **Tokelau** | *agriculture:* NA% |
+| | *industry:* NA% |
+| | *services:* NA% |
+| **Tonga** | *agriculture:* 19.6% |
+| | *industry:* 20.4% |
+| | *services:* 60% (2016 est.) |
+| **Trinidad and Tobago** | *agriculture:* 0.4% |
+| | *industry:* 48.4% |
+| | *services:* 51.2% (2016 est.) |
+| **Tunisia** | *agriculture:* 9.9% |
+| | *industry:* 26.2% |
+| | *services:* 63.3% (2016 est.) |
+| **Turkey** | *agriculture:* 6.9% |
+| | *industry:* 32.3% |
+| | *services:* 60.8% (2016 est.) |
+| **Turkmenistan** | *agriculture:* 7.5% |
+| | *industry:* 45.1% |
+| | *services:* 47.4% (2016 est.) |
+| **Turks and Caicos Islands** | *agriculture:* 0.5% |
+| | *industry:* 9% |
+| | *services:* 90.5% (2016 est.) |
+| **Tuvalu** | *agriculture:* 24.5% |
+| | *industry:* 5.6% |
+| | *services:* 70% (2012 est.) |
+| **Uganda** | *agriculture:* 25.4% |
+| | *industry:* 22.7% |
+| | *services:* 51.9% (2016 est.) |
+| **Ukraine** | *agriculture:* 13.8% |
+| | *industry:* 27.3% |
+| | *services:* 59.5% |
+| | (2016 est.) |
+| **United Arab Emirates** | *agriculture:* 0.8% |
+| | *industry:* 39.5% |
+| | *services:* 40.1% (2016 est.) |
+| **United Kingdom** | *agriculture:* 0.6% |
+| | *industry:* 19.2% |
+| | *services:* 80.2% |
+| | (2016 est.) |
+| **United States** | *agriculture:* 0.9% |
+| | *industry:* 18.9% |
+| | *services:* 80.2% |
+| | (2016 est.) |
+| **Uruguay** | *agriculture:* 6.8% |
+| | *industry:* 27.4% |
+| | *services:* 65.9% (2016 est.) |
+| **Uzbekistan** | *agriculture:* 18.5% |
+| | *industry:* 34.6% |
+| | *services:* 46.8% (2016 est.) |
+| **Vanuatu** | *agriculture:* 26.9% |
+| | *industry:* 9% |
+| | *services:* 64.2% (2016 est.) |
+| **Venezuela** | *agriculture:* 4% |
+| | *industry:* 35.5% |
+| | *services:* 60.6% (2016 est.) |
+| **Vietnam** | *agriculture:* 16.3% |
+| | *industry:* 32.7% |
+| | *services:* 40.9% (2016 est.) |
+| **Virgin Islands** | *agriculture:* 2% |
+| | *industry:* 20% |
+| | *services:* 78% (2012 est.) |
+| **Wallis and Futuna** | *agriculture:* NA% |
+| | *industry:* NA% |
+| | *services:* NA% |
+| **West Bank** | *agriculture:* 2.9% |
+| | *industry:* 20.9% |
+| | *services:* 62.7% |
+| | *note:* excludes Gaza Strip (2016 est.) |
+| **Western Sahara** | *agriculture:* NA% |
+| | *industry:* NA% |
+| | *services:* 40% (2007 est.) |
+| **World** | *agriculture:* 6.4% |
+| | *industry:* 29.9% |
+| | *services:* 63% (2016 est.) |
+| **Yemen** | *agriculture:* 21.8% |
+| | *industry:* 9.8% |
+| | *services:* 68.4% (2016 est.) |
+| **Zambia** | *agriculture:* 5.4% |
+| | *industry:* 35.7% |
+| | *services:* 60% (2016 est.) |
+| **Zimbabwe** | *agriculture:* 12.5% |
+| | *industry:* 27% |
+| | *services:* 60.6% (2016 est.) |

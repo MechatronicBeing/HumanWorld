@@ -1,0 +1,233 @@
+FIELD LISTING :: BUDGET SURPLUS (+) OR DEFICIT (-)
+
+This entry records the difference between national government revenues and expenditures, expressed as a percent of GDP. A positive (+) number indicates that revenues exceeded expenditures (a budget surplus), while a negative (-) number indicates the reverse (a budget deficit). Normalizing the data, by dividing the budget balance by GDP, enables easy comparisons across countries and indicates whether a national government saves or borrows money. Countries with high budget deficits (relative to their GDPs) generally have more difficulty raising funds to finance expenditures, than those with lower deficits.
+
+| Country | BUDGET SURPLUS (+) OR DEFICIT (-)(% OF GDP) |
+| --- | --- |
+| **Afghanistan** | -23.7% of GDP (2015 est.) |
+| **Albania** | -3.9% of GDP (2015 est.) |
+| **Algeria** | -16% of GDP (2015 est.) |
+| **American Samoa** | -0.3% of GDP (2013 est.) |
+| **Andorra** | -0.3% of GDP (2012) |
+| **Angola** | -5.2% of GDP (2015 est.) |
+| **Anguilla** | 5,025.4% of GDP (2015 est.) |
+| **Antigua and Barbuda** | -1.2% of GDP (2015 est.) |
+| **Argentina** | -5.2% of GDP (2015 est.) |
+| **Armenia** | -4.6% of GDP (2015 est.) |
+| **Aruba** | -4.3% of GDP (2015 est.) |
+| **Australia** | -1.7% of GDP (2015 est.) |
+| **Austria** | -1.1% of GDP (2015 est.) |
+| **Azerbaijan** | -1.1% of GDP (2015 est.) |
+| **Bahamas, The** | -4.6% of GDP (2015 est.) |
+| **Bahrain** | -13.2% of GDP (2015 est.) |
+| **Bangladesh** | -4.8% of GDP (2015 est.) |
+| **Barbados** | -5.7% of GDP (2015 est.) |
+| **Belarus** | 1.5% of GDP (2015 est.) |
+| **Belgium** | -2.6% of GDP (2015 est.) |
+| **Belize** | -8.5% of GDP (2015 est.) |
+| **Benin** | -6.4% of GDP (2015 est.) |
+| **Bermuda** | -4.7% of GDP (2015 est.) |
+| **Bhutan** | -3.8% of GDP (2015 est.) |
+| **Bolivia** | -6.8% of GDP (2015 est.) |
+| **Bosnia and Herzegovina** | -2.1% of GDP (2015 est.) |
+| **Botswana** | -3.2% of GDP (2015 est.) |
+| **Brazil** | -2% of GDP (2015 est.) |
+| **British Virgin Islands** | 0% of GDP (2015 est.) |
+| **Brunei** | -0.9% of GDP (2015 est.) |
+| **Bulgaria** | -1.8% of GDP (2015 est.) |
+| **Burkina Faso** | -2.1% of GDP (2015 est.) |
+| **Burma** | -2.8% of GDP (2015 est.) |
+| **Burundi** | -5.6% of GDP (2015 est.) |
+| **Cabo Verde** | -4.3% of GDP (2015 est.) |
+| **Cambodia** | -1.2% of GDP (2015 est.) |
+| **Cameroon** | -5.3% of GDP (2015 est.) |
+| **Canada** | -1.7% of GDP (2015 est.) |
+| **Cayman Islands** | 4.4% of GDP (2015 est.) |
+| **Central African Republic** | -4.9% of GDP (2015 est.) |
+| **Chad** | -4.7% of GDP (2015 est.) |
+| **Chile** | -2.2% of GDP (2015 est.) |
+| **China** | -3.4% of GDP (2015 est.) |
+| **Colombia** | -3.4% of GDP (2015 est.) |
+| **Comoros** | -2.8% of GDP (2015 est.) |
+| **Congo, Democratic Republic of the** | -0.5% of GDP (2015 est.) |
+| **Congo, Republic of the** | -10.3% of GDP (2015 est.) |
+| **Cook Islands** | 3.7% of GDP (2010 est.) |
+| **Costa Rica** | -5.9% of GDP (2015 est.) |
+| **Cote d'Ivoire** | -3% of GDP (2015 est.) |
+| **Croatia** | -3.2% of GDP (2015 est.) |
+| **Cuba** | -5.4% of GDP (2015 est.) |
+| **Curacao** | -0.4% of GDP (2012 est.) |
+| **Cyprus** | -1% of GDP (2015 est.) |
+| **Czechia** | -0.4% of GDP (2015 est.) |
+| **Denmark** | -1.7% of GDP (2015 est.) |
+| **Djibouti** | -14.2% of GDP (2015 est.) |
+| **Dominica** | 0% of GDP (2015 est.) |
+| **Dominican Republic** | 0.7% of GDP (2015 est.) |
+| **Ecuador** | -5.2% of GDP (2015 est.) |
+| **Egypt** | -11.7% of GDP (2015 est.) |
+| **El Salvador** | -3.3% of GDP (2015 est.) |
+| **Equatorial Guinea** | -7.3% of GDP (2015 est.) |
+| **Eritrea** | -13.2% of GDP (2015 est.) |
+| **Estonia** | 0.4% of GDP (2015 est.) |
+| **Ethiopia** | -2.3% of GDP (2015 est.) |
+| **European Union** | -3% of GDP |
+| **Falkland Islands (Islas Malvinas)** | -5% of GDP (FY09/10) |
+| **Faroe Islands** | -11.9% of GDP (2010 est.) |
+| **Fiji** | -3% of GDP (2015 est.) |
+| **Finland** | -2.8% of GDP (2015 est.) |
+| **France** | -3.6% of GDP (2015 est.) |
+| **French Polynesia** | 0.8% of GDP (2012) |
+| **Gabon** | -2.6% of GDP (2015 est.) |
+| **Gambia, The** | -8% of GDP (2015 est.) |
+| **Georgia** | -1.3% of GDP (2015 est.) |
+| **Germany** | 0.7% of GDP (2015 est.) |
+| **Ghana** | -7.1% of GDP (2015 est.) |
+| **Gibraltar** | 1.3% of GDP (2008 est.) |
+| **Greece** | -2% of GDP (2015 est.) |
+| **Greenland** | 1.9% of GDP (2010) |
+| **Grenada** | -3.9% of GDP (2015 est.) |
+| **Guam** | -0.9% of GDP (2013 est.) |
+| **Guatemala** | -1.4% of GDP (2015 est.) |
+| **Guernsey** | 1.2% of GDP (2005) |
+| **Guinea-Bissau** | -3.3% of GDP (2015 est.) |
+| **Guinea** | -9.1% of GDP (2015 est.) |
+| **Guyana** | -1.4% of GDP (2015 est.) |
+| **Haiti** | -2.8% of GDP (2015 est.) |
+| **Holy See (Vatican City)** | NA% |
+| **Honduras** | -3.1% of GDP (2015 est.) |
+| **Hong Kong** | 3.1% of GDP (2015 est.) |
+| **Hungary** | -2% of GDP |
+| | *note:* Hungary has been under the EU Excessive Deficit Procedure since it joined the EU in 2004; in March 2012 the EU elevated its Excessive Deficit Procedure against Hungary and proposed freezing 30% of the country's Cohesion Funds because 2011 deficit reductions were not achieved in a sustainable manner; in June 2012, the EU lifted the freeze, recognizing that steps had been taken to reduce the deficit; the latest EC forecasts project the Hungarian deficit to increase above 3% both in 2013 and in 2014 due to sluggish growth and the government's fiscal tightening (2015 est.) |
+| **Iceland** | -0.5% of GDP (2015 est.) |
+| **India** | -4% of GDP (2015 est.) |
+| **Indonesia** | -2.5% of GDP (2015 est.) |
+| **Iran** | -1.7% of GDP (2015 est.) |
+| **Iraq** | -15.5% of GDP (2015 est.) |
+| **Ireland** | -2.4% of GDP (2015 est.) |
+| **Isle of Man** | 0.5% of GDP (FY05/06 est.) |
+| **Israel** | -2.1% of GDP (2015 est.) |
+| **Italy** | -2.6% of GDP (2015 est.) |
+| **Jamaica** | -0.3% of GDP (2015 est.) |
+| **Japan** | -5.4% of GDP (2015 est.) |
+| **Jersey** | -0.4% of GDP (2005) |
+| **Jordan** | -6.8% of GDP (2015 est.) |
+| **Kazakhstan** | -1.5% of GDP (2015 est.) |
+| **Kenya** | -6.5% of GDP (2015 est.) |
+| **Kiribati** | 11.1% of GDP (2013 est.) |
+| **Korea, North** | -0.4% of GDP (2007 est.) |
+| **Korea, South** | 0% of GDP (2015 est.) |
+| **Kosovo** | -3.4% of GDP (2014 est.) |
+| **Kuwait** | -12.4% of GDP (2015 est.) |
+| **Kyrgyzstan** | -1.5% of GDP (2015 est.) |
+| **Laos** | -5.2% of GDP (2015 est.) |
+| **Latvia** | -1.3% of GDP (2015 est.) |
+| **Lebanon** | -7.7% of GDP (2015 est.) |
+| **Lesotho** | -3.5% of GDP (2015 est.) |
+| **Liberia** | -6.1% of GDP (2015 est.) |
+| **Libya** | -31.2% of GDP (2015 est.) |
+| **Liechtenstein** | 2.1% of GDP (2012 est.) |
+| **Lithuania** | -0.2% of GDP (2015 est.) |
+| **Luxembourg** | 1.3% of GDP (2015 est.) |
+| **Macau** | 14.2% of GDP (2015 est.) |
+| **Macedonia** | -3.5% of GDP (2015 est.) |
+| **Madagascar** | -5.2% of GDP (2015 est.) |
+| **Malawi** | -3.9% of GDP (2015 est.) |
+| **Malaysia** | -3.2% of GDP (2015 est.) |
+| **Maldives** | -6% of GDP (2014 est.) |
+| **Mali** | -1.8% of GDP (2015 est.) |
+| **Malta** | -1.5% of GDP (2015 est.) |
+| **Marshall Islands** | 1.5% of GDP (2013 est.) |
+| **Mauritania** | -5.2% of GDP (2015 est.) |
+| **Mauritius** | -3.6% of GDP (2015 est.) |
+| **Mexico** | -3.5% of GDP (2015 est.) |
+| **Micronesia, Federated States of** | 6.8% of GDP (FY12/13 est.) |
+| **Moldova** | -2.1% of GDP (2015 est.) |
+| **Monaco** | -1.1% of GDP (2011 est.) |
+| **Mongolia** | -3.1% of GDP (2015 est.) |
+| **Montenegro** | -1.7% of GDP (2014 est.) |
+| **Morocco** | -4.8% of GDP (2015 est.) |
+| **Mozambique** | -6% of GDP (2015 est.) |
+| **Namibia** | -5.5% of GDP (2015 est.) |
+| **Nepal** | 1% of GDP (2015 est.) |
+| **Netherlands** | -1.9% of GDP (2015 est.) |
+| **New Caledonia** | NA% of GDP |
+| **New Zealand** | 0.3% of GDP (2015 est.) |
+| **Nicaragua** | -1.2% of GDP (2015 est.) |
+| **Nigeria** | -1.1% of GDP (2015 est.) |
+| **Niger** | -9.1% of GDP (2015 est.) |
+| **Niue** | -12.6% of GDP (FY04/05) |
+| **Northern Mariana Islands** | -0.3% of GDP (2013 est.) |
+| **Norway** | 5.9% of GDP (2015 est.) |
+| **Oman** | -20.6% of GDP (2015 est.) |
+| **Pakistan** | -5.3% of GDP (2015 est.) |
+| **Palau** | 9.1% of GDP (2012 est.) |
+| **Panama** | -2.3% of GDP (2015 est.) |
+| **Papua New Guinea** | -6.8% of GDP (2015 est.) |
+| **Paraguay** | -1.8% of GDP (2015 est.) |
+| **Peru** | -2.1% of GDP (2015 est.) |
+| **Philippines** | -0.9% of GDP (2015 est.) |
+| **Poland** | -2.4% of GDP (2015 est.) |
+| **Portugal** | -4.4% of GDP (2015 est.) |
+| **Puerto Rico** | -0.5% of GDP (2015 est.) |
+| **Qatar** | 0.5% of GDP (2015 est.) |
+| **Romania** | -1.5% of GDP (2015 est.) |
+| **Russia** | -2.4% of GDP (2015 est.) |
+| **Rwanda** | -5.1% of GDP (2015 est.) |
+| **Saint Kitts and Nevis** | 8.3% of GDP (2015 est.) |
+| **Saint Lucia** | -2.6% of GDP (2011 est.) |
+| **Saint Pierre and Miquelon** | 4.6% of GDP (1996 est.) |
+| **Saint Vincent and the Grenadines** | -4.9% of GDP (2015 est.) |
+| **Samoa** | -3.5% of GDP (2015 est.) |
+| **San Marino** | -2.9% of GDP (2011 est.) |
+| **Sao Tome and Principe** | -6.3% of GDP (2015 est.) |
+| **Saudi Arabia** | -14.8% of GDP (2015 est.) |
+| **Senegal** | -4.8% of GDP (2015 est.) |
+| **Serbia** | -3.8% of GDP (2015 est.) |
+| **Seychelles** | 2.4% of GDP (2015 est.) |
+| **Sierra Leone** | -5.1% of GDP (2015 est.) |
+| **Singapore** | 0.6% of GDP (2015 est.) |
+| **Slovakia** | -3% of GDP (2015 est.) |
+| **Slovenia** | -2.9% of GDP (2015 est.) |
+| **Solomon Islands** | -1.9% of GDP (2015 est.) |
+| **Somalia** | -0.1% of GDP (2014 est.) |
+| **South Africa** | -3.3% of GDP (2015 est.) |
+| **South Sudan** | -69.4% of GDP (FY 2013 est.) |
+| **Spain** | -5.1% of GDP (2015 est.) |
+| **Sri Lanka** | -7.5% of GDP (2015 est.) |
+| **Sudan** | -3.9% of GDP (2015 est.) |
+| **Suriname** | -7.3% of GDP (2015 est.) |
+| **Svalbard** | NA% of GDP |
+| **Swaziland** | -6.6% of GDP (2015 est.) |
+| **Sweden** | 0% of GDP (2015 est.) |
+| **Switzerland** | 0.2% of GDP (2015 est.) |
+| **Syria** | -7.3% of GDP (2016 est.) |
+| **Taiwan** | 0.1% of GDP (2015 est.) |
+| **Tajikistan** | 0.8% of GDP (2015 est.) |
+| **Tanzania** | -2.9% of GDP (2015 est.) |
+| **Thailand** | -1.9% of GDP (2015 est.) |
+| **Timor-Leste** | -91.6% of GDP (2015 est.) |
+| **Togo** | -5.7% of GDP (2015 est.) |
+| **Tonga** | 0% of GDP (2015 est.) |
+| **Trinidad and Tobago** | -4% of GDP (2014 est.) |
+| **Tunisia** | -4.4% of GDP (2015 est.) |
+| **Turkey** | -1.1% of GDP (2015 est.) |
+| **Turkmenistan** | 0% of GDP (2015 est.) |
+| **Tuvalu** | 31% of GDP (2013 est.) |
+| **Uganda** | -4.2% of GDP (2015 est.) |
+| **Ukraine** | -1.4% of GDP (2015 est.) |
+| **United Arab Emirates** | -4% of GDP (2015 est.) |
+| **United Kingdom** | -4.4% of GDP (2015 est.) |
+| **United States** | -2.4% of GDP (2015 est.) |
+| **Uruguay** | -3.5% of GDP (2015 est.) |
+| **Uzbekistan** | 0.4% of GDP (2015 est.) |
+| **Vanuatu** | 0.6% of GDP (2015 est.) |
+| **Venezuela** | -41.1% of GDP (2015 est.) |
+| **Vietnam** | -4.6% of GDP (2015 est.) |
+| **Virgin Islands** | -6.5% of GDP (2013) |
+| **Wallis and Futuna** | NA% |
+| **West Bank** | -13.5% of GDP (2014 est.) |
+| **Western Sahara** | NA% |
+| **World** | -3% of GDP (2015 est.) |
+| **Yemen** | -9.8% of GDP (2015 est.) |
+| **Zambia** | -7.9% of GDP (2015 est.) |
+| **Zimbabwe** | -2.1% of GDP (2015 est.) |

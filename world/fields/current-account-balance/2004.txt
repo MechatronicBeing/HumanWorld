@@ -1,0 +1,157 @@
+CIA - The World Factbook -- Field Listing - Current account balance
+
+| Country | Current account balance |
+| --- | --- |
+| **Albania** | $-407 million (2003) |
+| **Algeria** | $7.836 billion (2003) |
+| **Angola** | $-475 million (2003) |
+| **Argentina** | $7.855 billion (2003) |
+| **Armenia** | $-210 million (2003) |
+| **Australia** | $-30.14 billion (2003) |
+| **Austria** | $-1.353 billion (2003) |
+| **Azerbaijan** | $-2.021 billion (2003) |
+| **Bahrain** | $53 million (2003) |
+| **Bangladesh** | $393 million (2003) |
+| **Belarus** | $-945 million (2003) |
+| **Belgium** | $10.69 billion (2003) |
+| **Belize** | $-142 million (2003) |
+| **Benin** | $-112 million (2003) |
+| **Bolivia** | $50 million (2003) |
+| **Bosnia and Herzegovina** | $-2.195 billion (2003) |
+| **Botswana** | $539 million (2003) |
+| **Brazil** | $3.52 billion (2003) |
+| **Bulgaria** | $-1.666 billion (2003) |
+| **Burkina Faso** | $-341 million (2003) |
+| **Burma** | $-35 million (2003) |
+| **Burundi** | $-35 million (2003) |
+| **Cambodia** | $-218.1 million (2003) |
+| **Cameroon** | $-564 million (2003) |
+| **Canada** | $18.63 billion (2003) |
+| **Cape Verde** | $-106.3 million (2003) |
+| **Chad** | $-474 million (2003) |
+| **Chile** | $-594 million (2003) |
+| **China** | $31.17 billion (2003) |
+| **Colombia** | $-1.417 billion (2003) |
+| **Congo, Republic of the** | $139.2 million (2003) |
+| **Costa Rica** | $-970 million (2003) |
+| **Cote d'Ivoire** | $501 million (2003) |
+| **Croatia** | $-2.039 billion (2003) |
+| **Cuba** | $-273 million (2003) |
+| **Cyprus** | $-545 million (2003) |
+| **Czech Republic** | $-5.57 billion (2003) |
+| **Denmark** | $6.397 billion (2003) |
+| **Dominican Republic** | $867 million (2003) |
+| **Ecuador** | $-117 million (2003) |
+| **Egypt** | $3.874 billion (2003) |
+| **El Salvador** | $-734 million (2003) |
+| **Equatorial Guinea** | $-1.168 billion (2003) |
+| **Eritrea** | $-159 million (2003) |
+| **Estonia** | $-1.15 billion (2003) |
+| **Ethiopia** | $-408 million (2003) |
+| **European Union** | $NA |
+| **Finland** | $10.3 billion (2003) |
+| **France** | $13.8 billion (2003) |
+| **Gabon** | $-101 million (2003) |
+| **Gambia, The** | $-42 million (2003) |
+| **Georgia** | $-365 million (2003) |
+| **Germany** | $57.24 billion (2003) |
+| **Ghana** | $110 million (2003) |
+| **Greece** | $-11.33 billion (2003) |
+| **Guatemala** | $-1.106 billion (2003) |
+| **Guinea** | $-252 million (2003) |
+| **Guyana** | $-158 million (2003) |
+| **Haiti** | $-48 million (2003) |
+| **Honduras** | $-279.6 million (2003) |
+| **Hong Kong** | $17.42 billion (2003) |
+| **Hungary** | $-7.347 billion (2003) |
+| **Iceland** | $-574 million (2003) |
+| **India** | $3.41 billion (2003) |
+| **Indonesia** | $7.336 billion (2003) |
+| **Iran** | $3.935 billion (2003) |
+| **Iraq** | $1.136 billion (2003) |
+| **Ireland** | $-2.994 billion (2003) |
+| **Israel** | $-174 million (2003) |
+| **Italy** | $-22.28 billion (2003) |
+| **Jamaica** | $-842 million (2003) |
+| **Japan** | $135.9 billion (2003) |
+| **Jordan** | $903 million (2003) |
+| **Kazakhstan** | $-68.8 million (2003) |
+| **Kenya** | $-306 million (2003) |
+| **Korea, South** | $12.32 billion (2003) |
+| **Kuwait** | $8.652 billion (2003) |
+| **Kyrgyzstan** | $-108 million (2003) |
+| **Laos** | $-58 million (2003) |
+| **Latvia** | $-955.9 million (2003) |
+| **Lebanon** | $-2.865 billion (2003) |
+| **Lesotho** | $-112 million (2003) |
+| **Libya** | $6.641 billion (2003) |
+| **Lithuania** | $-1.218 billion (2003) |
+| **Macedonia** | $-278 million (2003) |
+| **Madagascar** | $-398 million (2003) |
+| **Malawi** | $-58 million (2003) |
+| **Malaysia** | $13.38 billion (2003) |
+| **Malta** | $-250 million (2003) |
+| **Mauritius** | $289 million (2003) |
+| **Mexico** | $-9.15 billion (2003) |
+| **Moldova** | $-135 million (2003) |
+| **Morocco** | $963 million (2003) |
+| **Mozambique** | $-566 million (2003) |
+| **Namibia** | $123 million (2003) |
+| **Netherlands** | $12.09 billion (2003) |
+| **New Zealand** | $-3.446 billion (2003) |
+| **Nicaragua** | $-859 million (2003) |
+| **Nigeria** | $1.439 billion (2003) |
+| **Norway** | $29.34 billion (2003) |
+| **Oman** | $2.173 billion (2003) |
+| **Pakistan** | $3.358 billion (2003) |
+| **Panama** | $-408 million (2003) |
+| **Papua New Guinea** | $12 million (2003) |
+| **Paraguay** | $146 million (2003) |
+| **Peru** | $-1.116 billion (2003) |
+| **Philippines** | $3.349 billion (2003) |
+| **Poland** | $-4.085 billion (2003) |
+| **Portugal** | $-7.592 billion (2003) |
+| **Qatar** | $4.149 billion (2003) |
+| **Romania** | $-3.368 billion (2003) |
+| **Russia** | $35.91 billion (2003) |
+| **Rwanda** | $-163 million (2003) |
+| **Sao Tome and Principe** | $-8 million (2003) |
+| **Saudi Arabia** | $22.27 billion (2003) |
+| **Senegal** | $-389 million (2003) |
+| **Serbia and Montenegro** | $-2.416 billion (2003) |
+| **Seychelles** | $-73 million (2003) |
+| **Singapore** | $26.15 billion (2003) |
+| **Slovakia** | $-277.4 million (2003) |
+| **Slovenia** | $15.1 million (2003) |
+| **South Africa** | $-1.234 billion (2003) |
+| **Spain** | $-23.77 billion (2003) |
+| **Sri Lanka** | $-278 million (2003) |
+| **Sudan** | $-718 million (2003) |
+| **Swaziland** | $-72.69 million (2003) |
+| **Sweden** | $19.56 billion (2003) |
+| **Switzerland** | $36 billion (2003) |
+| **Syria** | $-72 million (2003) |
+| **Taiwan** | $28.57 billion (2003) |
+| **Tajikistan** | $-50 million (2003) |
+| **Tanzania** | $-617 million (2003) |
+| **Thailand** | $9.44 billion (2003) |
+| **Togo** | $-140 million (2003) |
+| **Trinidad and Tobago** | $954 million (2003) |
+| **Tunisia** | $-738.6 million (2003) |
+| **Turkey** | $-6.806 billion (2003) |
+| **Turkmenistan** | $957 million (2003) |
+| **Uganda** | $-237 million (2003) |
+| **Ukraine** | $2.891 billion (2003) |
+| **United Arab Emirates** | $12.47 billion (2003) |
+| **United Kingdom** | $-7.556 billion (2003) |
+| **United States** | $-541.8 billion (2003) |
+| **Uruguay** | $76 million (2003) |
+| **Uzbekistan** | $462 million (2003) |
+| **Venezuela** | $9.659 billion (2003) |
+| **Vietnam** | $-1.781 billion (2003) |
+| **Yemen** | $157 million (2003) |
+| **Zambia** | $-340 million (2003) |
+| **Zimbabwe** | $-346 million (2003) |
+
+This page was last updated on 10 February, 2005
+ 

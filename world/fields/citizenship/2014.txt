@@ -1,0 +1,6 @@
+CIA - The World Factbook -- Field Listing :: Pipelines   
+
+This entry gives the lengths and types of pipelines for transporting products like natural gas, crude oil, or petroleum products.
+
+| Country | Pipelines |
+| --- | --- |

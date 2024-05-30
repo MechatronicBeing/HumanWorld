@@ -1,0 +1,259 @@
+CIA - The World Factbook -- Field Listing :: Irrigated land   
+
+This entry gives the number of square kilometers of land area that is artificially supplied with water.
+
+| Country | Irrigated land(sq km) |
+| --- | --- |
+| **Afghanistan** | 31,990 sq km (2003) |
+| **Albania** | 3,650 sq km (2003) |
+| **Algeria** | 5,700 sq km (2003) |
+| **American Samoa** | NA |
+| **Andorra** | NA |
+| **Angola** | 800 sq km (2003) |
+| **Anguilla** | NA |
+| **Antigua and Barbuda** | 1.3 sq km |
+| **Argentina** | 15,500 sq km (2003) |
+| **Armenia** | 2,740 sq km (2003) |
+| **Aruba** | NA (1998 est.) |
+| **Ashmore and Cartier Islands** | 0 sq km |
+| **Australia** | 25,500 sq km (2003) |
+| **Austria** | 1,170 sq km (2003) |
+| **Azerbaijan** | 14,300 sq km (2003) |
+| **Bahamas, The** | 10 sq km (2003) |
+| **Bahrain** | 40 sq km (2003) |
+| **Bangladesh** | 50,500 sq km (2003) |
+| **Barbados** | 50 sq km (2003) |
+| **Belarus** | 1,310 sq km (2003) |
+| **Belgium** | 230 sq km (2003) |
+| **Belize** | 40 sq km (2003) |
+| **Benin** | 120 sq km (2003) |
+| **Bermuda** | NA |
+| **Bhutan** | 400 sq km (2003) |
+| **Bolivia** | 1,500 sq km (2003) |
+| **Bosnia and Herzegovina** | 30 sq km (2003) |
+| **Botswana** | 20 sq km (2003) |
+| **Bouvet Island** | 0 sq km |
+| **Brazil** | 45,000 sq km (2003) |
+| **British Indian Ocean Territory** | 0 sq km |
+| **British Virgin Islands** | NA |
+| **Brunei** | 10 sq km (2003) |
+| **Bulgaria** | 1,020 sq km (2003) |
+| **Burkina Faso** | 300 sq km (2003) |
+| **Burma** | 22,500 sq km (2003) |
+| **Burundi** | 230 sq km (2003) |
+| **Cambodia** | 2,850 sq km (2003) |
+| **Cameroon** | 290 sq km (2003) |
+| **Canada** | 8,550 sq km (2003) |
+| **Cape Verde** | 30 sq km (2003) |
+| **Cayman Islands** | NA |
+| **Central African Republic** | 10 sq km (2003) |
+| **Chad** | 300 sq km (2003) |
+| **Chile** | 19,000 sq km (2003) |
+| **China** | 641,410 sq km (2003) |
+| **Christmas Island** | NA |
+| **Clipperton Island** | 0 sq km |
+| **Cocos (Keeling) Islands** | NA |
+| **Colombia** | 9,000 sq km (2003) |
+| **Comoros** | NA |
+| **Congo, Democratic Republic of the** | 110 sq km (2003) |
+| **Congo, Republic of the** | 20 sq km (2003) |
+| **Cook Islands** | NA |
+| **Coral Sea Islands** | 0 sq km |
+| **Costa Rica** | 1,080 sq km (2003) |
+| **Cote d'Ivoire** | 730 sq km (2003) |
+| **Croatia** | 310 sq km (2003) |
+| **Cuba** | 8,700 sq km (2003) |
+| **Curacao** | NA |
+| **Cyprus** | 460 sq km (2003) |
+| **Czech Republic** | 390 sq km (2003) |
+| **Denmark** | 4,350 sq km (2003) |
+| **Djibouti** | 10 sq km (2003) |
+| **Dominica** | NA |
+| **Dominican Republic** | 2,750 sq km (2003) |
+| **Ecuador** | 8,650 sq km (2003) |
+| **Egypt** | 35,300 sq km (2003) |
+| **El Salvador** | 450 sq km (2003) |
+| **Equatorial Guinea** | NA |
+| **Eritrea** | 210 sq km (2003) |
+| **Estonia** | 40 sq km (2003) |
+| **Ethiopia** | 2,900 sq km (2003) |
+| **European Union** | 182,913 sq km (2003 est.) |
+| **Falkland Islands (Islas Malvinas)** | NA |
+| **Faroe Islands** | 0 sq km |
+| **Fiji** | 30 sq km (2003) |
+| **Finland** | 770 sq km (2003) |
+| **France** | *total:* 26,950 sq km; |
+| | *metropolitan France:* 26,700 sq km (2003) |
+| **French Polynesia** | 10 sq km (2003) |
+| **French Southern and Antarctic Lands** | 0 sq km |
+| **Gabon** | 40 sq km (2003) |
+| **Gambia, The** | 20 sq km (2003) |
+| **Gaza Strip** | 180 sq km; note - includes West Bank (2003) |
+| **Georgia** | 4,330 sq km (2003) |
+| **Germany** | 4,850 sq km (2003) |
+| **Ghana** | 340 sq km (2003) |
+| **Gibraltar** | NA |
+| **Greece** | 15,500 sq km (2003) |
+| **Greenland** | NA |
+| **Grenada** | 15 sq km |
+| **Guam** | 2 sq km |
+| **Guatemala** | 2,000 sq km (2003) |
+| **Guernsey** | NA |
+| **Guinea** | 950 sq km (2003) |
+| **Guinea-Bissau** | 250 sq km (2003) |
+| **Guyana** | 1,500 sq km (2003) |
+| **Haiti** | 920 sq km (2003) |
+| **Heard Island and McDonald Islands** | 0 sq km |
+| **Holy See (Vatican City)** | 0 sq km |
+| **Honduras** | 800 sq km (2003) |
+| **Hong Kong** | NA; note - included in the total for China (1998 est.) |
+| **Howland Island** | 0 sq km |
+| **Hungary** | 1,400 sq km (2003) |
+| **Iceland** | NA |
+| **India** | 622,860 sq km (2003) |
+| **Indonesia** | 67,220 sq km (2003) |
+| **Iran** | 89,930 sq km (2003) |
+| **Iraq** | 35,250 sq km (2003) |
+| **Ireland** | NA |
+| **Isle of Man** | 0 sq km |
+| **Israel** | 2,250 sq km (2003) |
+| **Italy** | 39,500 sq km (2003) |
+| **Jamaica** | 250 sq km (2002) |
+| **Jan Mayen** | 0 sq km |
+| **Japan** | 25,160 sq km (2003) |
+| **Jarvis Island** | 0 sq km |
+| **Jersey** | NA |
+| **Johnston Atoll** | 0 sq km |
+| **Jordan** | 820 sq km (2003) |
+| **Kazakhstan** | 35,560 sq km (2003) |
+| **Kenya** | 1,030 sq km (2003) |
+| **Kiribati** | NA |
+| **Korea, North** | 14,600 sq km (2003) |
+| **Korea, South** | 8,320 sq km (2003) |
+| **Kuwait** | 100 sq km (2003) |
+| **Kyrgyzstan** | 10,196 sq km (2003) |
+| **Laos** | 3,000 sq km (2003) |
+| **Latvia** | 8 sq km |
+| | *note:* land in Latvia is often too wet and in need of drainage not irrigation; approximately 16,000 sq km or 85% of agricultural land has been improved by drainage (2003) |
+| **Lebanon** | 900 sq km (2003) |
+| **Lesotho** | 30 sq km (2003) |
+| **Liberia** | 30 sq km (2003) |
+| **Libya** | 4,700 sq km (2003) |
+| **Liechtenstein** | NA |
+| **Lithuania** | 13.4 sq km (2003) |
+| **Luxembourg** | NA |
+| **Macau** | NA; note - included in the total for China |
+| **Macedonia** | 1,280 sq km (2003) |
+| **Madagascar** | 10,860 sq km (2003) |
+| **Malawi** | 590 sq km (2003) |
+| **Malaysia** | 3,650 sq km (2003) |
+| **Maldives** | NA |
+| **Mali** | 2,360 sq km (2003) |
+| **Malta** | 32 sq km (2003) |
+| **Marshall Islands** | 0 sq km |
+| **Mauritania** | 450 sq km (2002) |
+| **Mauritius** | 210 sq km (2003) |
+| **Mexico** | 63,000 sq km (2003) |
+| **Micronesia, Federated States of** | NA |
+| **Midway Islands** | 0 sq km |
+| **Moldova** | 2,283 sq km (2003) |
+| **Monaco** | NA |
+| **Mongolia** | 840 sq km (2003) |
+| **Montenegro** | 22 sq km |
+| **Montserrat** | NA |
+| **Morocco** | 14,570 sq km (2003) |
+| **Mozambique** | 1,180 sq km (2003) |
+| **Namibia** | 80 sq km (2003) |
+| **Nauru** | NA |
+| **Nepal** | 11,680 sq km (2003) |
+| **Netherlands** | 4,600 sq km (2003) |
+| **New Caledonia** | 100 sq km (2003) |
+| **New Zealand** | 6,190 sq km (2003) |
+| **Nicaragua** | 610 sq km (2003) |
+| **Niger** | 740 sq km (2003) |
+| **Nigeria** | 2,930 sq km (2003) |
+| **Niue** | NA |
+| **Norfolk Island** | NA |
+| **Northern Mariana Islands** | 1 sq km |
+| **Norway** | 1,180 sq km (2003) |
+| **Oman** | 590 sq km (2003) |
+| **Pakistan** | 198,700 sq km (2003) |
+| **Palau** | NA |
+| **Panama** | 430 sq km (2003) |
+| **Papua New Guinea** | NA |
+| **Paracel Islands** | 0 sq km |
+| **Paraguay** | 670 sq km (2003) |
+| **Peru** | 11,950 sq km (2003) |
+| **Philippines** | 152,500 sq km (2003) |
+| **Pitcairn Islands** | NA |
+| **Poland** | 1,160 sq km (2003) |
+| **Portugal** | 5,840 sq km (2003) |
+| **Puerto Rico** | 220 sq km (2003) |
+| **Qatar** | 130 sq km (2002) |
+| **Romania** | 31,570 sq km (2003) |
+| **Russia** | 43,460 sq km (2003) |
+| **Rwanda** | 90 sq km (2003) |
+| **Saint Helena, Ascension, and Tristan da Cunha** | NA |
+| **Saint Kitts and Nevis** | 0.2 sq km |
+| **Saint Lucia** | 30 sq km (2003) |
+| **Saint Pierre and Miquelon** | NA |
+| **Saint Vincent and the Grenadines** | 10 sq km (2003) |
+| **Samoa** | NA |
+| **San Marino** | NA |
+| **Sao Tome and Principe** | 100 sq km (2003) |
+| **Saudi Arabia** | 17,310 sq km (2003) |
+| **Senegal** | 1,200 sq km (2003) |
+| **Serbia** | 890 sq km |
+| **Seychelles** | 3 sq km |
+| **Sierra Leone** | 300 sq km (2003) |
+| **Singapore** | NA |
+| **Sint Maarten** | NA |
+| **Slovakia** | 1,660 sq km (2003) |
+| **Slovenia** | 100 sq km (2003) |
+| **Solomon Islands** | NA |
+| **Somalia** | 2,000 sq km (2003) |
+| **South Africa** | 14,980 sq km (2003) |
+| **South Georgia and South Sandwich Islands** | 0 sq km |
+| **Spain** | 38,000 sq km (2003) |
+| **Spratly Islands** | 0 sq km |
+| **Sri Lanka** | 5,700 sq km (2003) |
+| **Sudan** | 18,630 sq km (2003) |
+| **Suriname** | 510 sq km (2003) |
+| **Svalbard** | NA |
+| **Swaziland** | 500 sq km (2003) |
+| **Sweden** | 1,600 sq km (2003) |
+| **Switzerland** | 250 sq km (2003) |
+| **Syria** | 13,560 sq km (2003) |
+| **Taiwan** | NA |
+| **Tajikistan** | 7,220 sq km (2003) |
+| **Tanzania** | 1,840 sq km (2003) |
+| **Thailand** | 64,150 sq km (2003) |
+| **Timor-Leste** | 140 sq km |
+| **Togo** | 70 sq km (2003) |
+| **Tokelau** | NA |
+| **Tonga** | NA |
+| **Trinidad and Tobago** | 70 sq km (2003) |
+| **Tunisia** | 4,450 sq km (2003) |
+| **Turkey** | 52,150 sq km (2003) |
+| **Turkmenistan** | 18,000 sq km (2003) |
+| **Turks and Caicos Islands** | NA |
+| **Tuvalu** | NA |
+| **Uganda** | 90 sq km (2003) |
+| **Ukraine** | 21,790 sq km (2003) |
+| **United Arab Emirates** | 2,300 sq km (2003) |
+| **United Kingdom** | 1,950 sq km (2003) |
+| **United States** | 230,000 sq km (2003) |
+| **Uruguay** | 2,180 sq km (2003) |
+| **Uzbekistan** | 42,230 sq km (2003) |
+| **Vanuatu** | NA |
+| **Venezuela** | 5,800 sq km (2003) |
+| **Vietnam** | 46,000 sq km (2003) |
+| **Virgin Islands** | 1 sq km |
+| **Wake Island** | 0 sq km |
+| **Wallis and Futuna** | NA |
+| **West Bank** | 180 sq km; note - includes Gaza Strip (2003) |
+| **Western Sahara** | NA |
+| **World** | 3,245,566 sq km (2003) |
+| **Yemen** | 6,800 sq km (2003) |
+| **Zambia** | 1,560 sq km (2003) |
+| **Zimbabwe** | 1,740 sq km (2003) |

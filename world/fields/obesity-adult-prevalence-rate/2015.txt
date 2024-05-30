@@ -1,0 +1,198 @@
+FIELD LISTING :: OBESITY - ADULT PREVALENCE RATE
+
+This entry gives the percent of a country's population considered to be obese. Obesity is defined as an adult having a Body Mass Index (BMI) greater to or equal to 30.0. BMI is calculated by taking a person's weight in kg and dividing it by the person's squared height in meters.
+
+| Country | OBESITY - ADULT PREVALENCE RATE(%) |
+| --- | --- |
+| **Afghanistan** | 2.4% (2014) |
+| **Albania** | 18.1% (2014) |
+| **Algeria** | 23.6% (2014) |
+| **Andorra** | 32.1% (2014) |
+| **Angola** | 8.5% (2014) |
+| **Antigua and Barbuda** | 31% (2014) |
+| **Argentina** | 26.5% (2014) |
+| **Armenia** | 19.9% (2014) |
+| **Australia** | 29.9% (2014) |
+| **Austria** | 20.1% (2014) |
+| **Azerbaijan** | 22.2% (2014) |
+| **Bahamas, The** | 36.6% (2014) |
+| **Bahrain** | 34.1% (2014) |
+| **Bangladesh** | 3.3% (2014) |
+| **Barbados** | 33.2% (2014) |
+| **Belarus** | 25.2% (2014) |
+| **Belgium** | 22.1% (2014) |
+| **Belize** | 20.6% (2014) |
+| **Benin** | 8.1% (2014) |
+| **Bhutan** | 5.9% (2014) |
+| **Bolivia** | 15.8% (2014) |
+| **Bosnia and Herzegovina** | 19.2% (2014) |
+| **Botswana** | 19.5% (2014) |
+| **Brazil** | 20.1% (2014) |
+| **Brunei** | 18.6% (2014) |
+| **Bulgaria** | 25.6% (2014) |
+| **Burkina Faso** | 5.2% (2014) |
+| **Burma** | 2.9% (2014) |
+| **Burundi** | 2.1% (2014) |
+| **Cabo Verde** | 11.7% (2014) |
+| **Cambodia** | 2.9% (2014) |
+| **Cameroon** | 9.6% (2014) |
+| **Canada** | 30.1% (2014) |
+| **Central African Republic** | 4.4% (2014) |
+| **Chad** | 6.6% (2014) |
+| **Chile** | 28.5% (2014) |
+| **China** | 7.3% (2014) |
+| **Colombia** | 20.7% (2014) |
+| **Comoros** | 5.8% (2014) |
+| **Congo, Democratic Republic of the** | 3.7% (2014) |
+| **Congo, Republic of the** | 9.7% (2014) |
+| **Cook Islands** | 50% (2014) |
+| **Costa Rica** | 24% (2014) |
+| **Cote d'Ivoire** | 8% (2014) |
+| **Croatia** | 25.6% (2014) |
+| **Cuba** | 27.2% (2014) |
+| **Cyprus** | 24.5% (2014) |
+| **Czech Republic** | 29.1% (2014) |
+| **Denmark** | 21% (2014) |
+| **Djibouti** | 8.5% (2014) |
+| **Dominica** | 25.9% (2014) |
+| **Dominican Republic** | 23% (2014) |
+| **Ecuador** | 18% (2014) |
+| **Egypt** | 27.7% (2014) |
+| **El Salvador** | 20.1% (2014) |
+| **Equatorial Guinea** | 16.2% (2014) |
+| **Eritrea** | 3.4% (2014) |
+| **Estonia** | 24.5% (2014) |
+| **Ethiopia** | 3.3% (2014) |
+| **Fiji** | 35.9% (2014) |
+| **Finland** | 22.8% (2014) |
+| **France** | 25.7% (2014) |
+| **Gabon** | 15.8% (2014) |
+| **Gambia, The** | 9.1% (2014) |
+| **Georgia** | 22.1% (2014) |
+| **Germany** | 22.7% (2014) |
+| **Ghana** | 10.9% (2014) |
+| **Greece** | 25.1% (2014) |
+| **Grenada** | 24.6% (2014) |
+| **Guatemala** | 16.4% (2014) |
+| **Guinea-Bissau** | 6.3% (2014) |
+| **Guinea** | 5.9% (2014) |
+| **Guyana** | 21.9% (2014) |
+| **Haiti** | 10.7% (2014) |
+| **Honduras** | 16.3% (2014) |
+| **Hungary** | 26% (2014) |
+| **Iceland** | 23.9% (2014) |
+| **India** | 4.7% (2014) |
+| **Indonesia** | 5.7% (2014) |
+| **Iran** | 24.9% (2014) |
+| **Iraq** | 21.2% (2014) |
+| **Ireland** | 27% (2014) |
+| **Israel** | 25.8% (2014) |
+| **Italy** | 23.7% (2014) |
+| **Jamaica** | 26.8% (2014) |
+| **Japan** | 3.5% (2014) |
+| **Jordan** | 28.1% (2014) |
+| **Kazakhstan** | 23.5% (2014) |
+| **Kenya** | 5.9% (2014) |
+| **Kiribati** | 40.1% (2014) |
+| **Korea, North** | 2.5% (2014) |
+| **Korea, South** | 6.3% (2014) |
+| **Kuwait** | 38.3% (2014) |
+| **Kyrgyzstan** | 13.3% (2014) |
+| **Laos** | 3% (2014) |
+| **Latvia** | 25.6% (2014) |
+| **Lebanon** | 30.8% (2014) |
+| **Lesotho** | 11.9% (2014) |
+| **Liberia** | 5.8% (2014) |
+| **Libya** | 31.9% (2014) |
+| **Lithuania** | 27.5% (2014) |
+| **Luxembourg** | 24.8% (2014) |
+| **Macedonia** | 20.8% (2014) |
+| **Madagascar** | 4.6% (2014) |
+| **Malawi** | 4.3% (2014) |
+| **Malaysia** | 12.9% (2014) |
+| **Maldives** | 7% (2014) |
+| **Mali** | 5.7% (2014) |
+| **Malta** | 28.7% (2014) |
+| **Marshall Islands** | 42.3% (2014) |
+| **Mauritania** | 8.6% (2014) |
+| **Mauritius** | 18.8% (2014) |
+| **Mexico** | 27.6% (2014) |
+| **Micronesia, Federated States of** | 33.2% (2014) |
+| **Moldova** | 15.7% (2014) |
+| **Mongolia** | 15.7% (2014) |
+| **Montenegro** | 21.4% (2014) |
+| **Morocco** | 21.7% (2014) |
+| **Mozambique** | 4.5% (2014) |
+| **Namibia** | 16.8% (2014) |
+| **Nauru** | 45.1% (2014) |
+| **Nepal** | 2.9% (2014) |
+| **Netherlands** | 21.9% (2014) |
+| **New Zealand** | 30.6% (2014) |
+| **Nicaragua** | 15.5% (2014) |
+| **Nigeria** | 9.7% (2014) |
+| **Niger** | 3.7% (2014) |
+| **Niue** | 42.5% (2014) |
+| **Norway** | 24.8% (2014) |
+| **Oman** | 26.5% (2014) |
+| **Pakistan** | 4.8% (2014) |
+| **Palau** | 47.1% (2014) |
+| **Panama** | 26.5% (2014) |
+| **Papua New Guinea** | 25.5% (2014) |
+| **Paraguay** | 15.1% (2014) |
+| **Peru** | 20.4% (2014) |
+| **Philippines** | 4.7% (2014) |
+| **Poland** | 27% (2014) |
+| **Portugal** | 22.1% (2014) |
+| **Qatar** | 41% (2014) |
+| **Romania** | 23.4% (2014) |
+| **Russia** | 26.2% (2014) |
+| **Rwanda** | 3.3% (2014) |
+| **Saint Kitts and Nevis** | 28.4% (2014) |
+| **Saint Lucia** | 27% (2014) |
+| **Saint Vincent and the Grenadines** | 24.1% (2014) |
+| **Samoa** | 41.6% (2014) |
+| **Sao Tome and Principe** | 10.6% (2014) |
+| **Saudi Arabia** | 33.7% (2014) |
+| **Senegal** | 8.3% (2014) |
+| **Serbia** | 21.1% (2014) |
+| **Seychelles** | 26.9% (2014) |
+| **Sierra Leone** | 6.6% (2014) |
+| **Singapore** | 6.8% (2014) |
+| **Slovakia** | 27.4% (2014) |
+| **Slovenia** | 27.4% (2014) |
+| **Solomon Islands** | 25% (2014) |
+| **Somalia** | 3.9% (2014) |
+| **South Africa** | 25.6% (2014) |
+| **South Sudan** | 6.6% (2014) |
+| **Spain** | 26.5% (2014) |
+| **Sri Lanka** | 6.8% (2014) |
+| **Sudan** | 6.6% (2014) |
+| **Suriname** | 26.1% (2014) |
+| **Swaziland** | 14.8% (2014) |
+| **Sweden** | 22% (2014) |
+| **Switzerland** | 21% (2014) |
+| **Syria** | 21.6% (2014) |
+| **Tajikistan** | 12% (2014) |
+| **Tanzania** | 5.9% (2014) |
+| **Thailand** | 9.2% (2014) |
+| **Timor-Leste** | 1.8% (2014) |
+| **Togo** | 6.4% (2014) |
+| **Tonga** | 41.1% (2014) |
+| **Trinidad and Tobago** | 32.3% (2014) |
+| **Tunisia** | 27.1% (2014) |
+| **Turkey** | 29.4% (2014) |
+| **Turkmenistan** | 18.8% (2014) |
+| **Tuvalu** | 39.6% (2014) |
+| **Uganda** | 3.9% (2014) |
+| **Ukraine** | 21.7% (2014) |
+| **United Arab Emirates** | 34.5% (2014) |
+| **United Kingdom** | 29.8% (2014) |
+| **United States** | 35% (2014) |
+| **Uruguay** | 27.6% (2014) |
+| **Uzbekistan** | 14.3% (2014) |
+| **Vanuatu** | 32.9% (2014) |
+| **Venezuela** | 24.3% (2014) |
+| **Vietnam** | 3.5% (2014) |
+| **Yemen** | 14.2% (2014) |
+| **Zambia** | 7.2% (2014) |
+| **Zimbabwe** | 8.4% (2014) |

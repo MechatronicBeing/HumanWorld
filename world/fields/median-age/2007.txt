@@ -1,0 +1,674 @@
+CIA - The World Factbook -- Field Listing - Median age
+
+| Country | Median age (years) |
+| --- | --- |
+| **Afghanistan** | *total:* 17.6 years |
+| | *male:* 17.6 years |
+| | *female:* 17.6 years (2007 est.) |
+| **Albania** | *total:* 29.2 years |
+| | *male:* 28.6 years |
+| | *female:* 29.8 years (2007 est.) |
+| **Algeria** | *total:* 25.5 years |
+| | *male:* 25.2 years |
+| | *female:* 25.7 years (2007 est.) |
+| **American Samoa** | *total:* 23.6 years |
+| | *male:* 23.4 years |
+| | *female:* 23.8 years (2007 est.) |
+| **Andorra** | *total:* 41.5 years |
+| | *male:* 41.8 years |
+| | *female:* 41.3 years (2007 est.) |
+| **Angola** | *total:* 17.9 years |
+| | *male:* 17.9 years |
+| | *female:* 17.9 years (2007 est.) |
+| **Anguilla** | *total:* 31.6 years |
+| | *male:* 31.6 years |
+| | *female:* 31.5 years (2007 est.) |
+| **Antigua and Barbuda** | *total:* 30.3 years |
+| | *male:* 29.8 years |
+| | *female:* 30.8 years (2007 est.) |
+| **Argentina** | *total:* 29.9 years |
+| | *male:* 29 years |
+| | *female:* 31 years (2007 est.) |
+| **Armenia** | *total:* 30.8 years |
+| | *male:* 28.1 years |
+| | *female:* 33.6 years (2007 est.) |
+| **Aruba** | *total:* 37.3 years |
+| | *male:* 35.5 years |
+| | *female:* 39 years (2007 est.) |
+| **Australia** | *total:* 37.1 years |
+| | *male:* 36.3 years |
+| | *female:* 38 years (2007 est.) |
+| **Austria** | *total:* 41.3 years |
+| | *male:* 40.2 years |
+| | *female:* 42.4 years (2007 est.) |
+| **Azerbaijan** | *total:* 27.6 years |
+| | *male:* 26 years |
+| | *female:* 29.4 years (2007 est.) |
+| **Bahamas, The** | *total:* 28.1 years |
+| | *male:* 27.3 years |
+| | *female:* 28.9 years (2007 est.) |
+| **Bahrain** | *total:* 29.7 years |
+| | *male:* 32.7 years |
+| | *female:* 26.1 years (2007 est.) |
+| **Bangladesh** | *total:* 22.5 years |
+| | *male:* 22.5 years |
+| | *female:* 22.5 years (2007 est.) |
+| **Barbados** | *total:* 35 years |
+| | *male:* 33.8 years |
+| | *female:* 36 years (2007 est.) |
+| **Belarus** | *total:* 38.2 years |
+| | *male:* 35.1 years |
+| | *female:* 41.1 years (2007 est.) |
+| **Belgium** | *total:* 41.1 years |
+| | *male:* 39.9 years |
+| | *female:* 42.4 years (2007 est.) |
+| **Belize** | *total:* 19.9 years |
+| | *male:* 19.7 years |
+| | *female:* 20 years (2007 est.) |
+| **Benin** | *total:* 17.7 years |
+| | *male:* 17.3 years |
+| | *female:* 18.1 years (2007 est.) |
+| **Bermuda** | *total:* 40.6 years |
+| | *male:* 39.7 years |
+| | *female:* 41.4 years (2007 est.) |
+| **Bhutan** | *total:* 20.5 years |
+| | *male:* 20.4 years |
+| | *female:* 20.7 years (2007 est.) |
+| **Bolivia** | *total:* 22.2 years |
+| | *male:* 21.5 years |
+| | *female:* 22.9 years (2007 est.) |
+| **Bosnia and Herzegovina** | *total:* 38.9 years |
+| | *male:* 37.7 years |
+| | *female:* 40.1 years (2007 est.) |
+| **Botswana** | *total:* 20.9 years |
+| | *male:* 20.7 years |
+| | *female:* 21.1 years (2007 est.) |
+| **Brazil** | *total:* 28.6 years |
+| | *male:* 27.9 years |
+| | *female:* 29.4 years (2007 est.) |
+| **British Virgin Islands** | *total:* 31.7 years |
+| | *male:* 31.9 years |
+| | *female:* 31.5 years (2007 est.) |
+| **Brunei** | *total:* 27.2 years |
+| | *male:* 27.3 years |
+| | *female:* 27.1 years (2007 est.) |
+| **Bulgaria** | *total:* 40.9 years |
+| | *male:* 38.8 years |
+| | *female:* 43.1 years (2007 est.) |
+| **Burkina Faso** | *total:* 16.5 years |
+| | *male:* 16.3 years |
+| | *female:* 16.7 years (2007 est.) |
+| **Burma** | *total:* 27.4 years |
+| | *male:* 26.8 years |
+| | *female:* 28 years (2007 est.) |
+| **Burundi** | *total:* 16.7 years |
+| | *male:* 16.4 years |
+| | *female:* 16.9 years (2007 est.) |
+| **Cambodia** | *total:* 21.3 years |
+| | *male:* 20.6 years |
+| | *female:* 22.1 years (2007 est.) |
+| **Cameroon** | *total:* 18.9 years |
+| | *male:* 18.7 years |
+| | *female:* 19 years (2007 est.) |
+| **Canada** | *total:* 39.1 years |
+| | *male:* 38.1 years |
+| | *female:* 40.2 years (2007 est.) |
+| **Cape Verde** | *total:* 20.2 years |
+| | *male:* 19.4 years |
+| | *female:* 21.1 years (2007 est.) |
+| **Cayman Islands** | *total:* 37.5 years |
+| | *male:* 37.1 years |
+| | *female:* 37.9 years (2007 est.) |
+| **Central African Republic** | *total:* 18.5 years |
+| | *male:* 18.2 years |
+| | *female:* 18.9 years (2007 est.) |
+| **Chad** | *total:* 16.3 years |
+| | *male:* 15 years |
+| | *female:* 17.4 years (2007 est.) |
+| **Chile** | *total:* 30.7 years |
+| | *male:* 29.8 years |
+| | *female:* 31.7 years (2007 est.) |
+| **China** | *total:* 33.2 years |
+| | *male:* 32.7 years |
+| | *female:* 33.7 years (2007 est.) |
+| **Colombia** | *total:* 26.6 years |
+| | *male:* 25.6 years |
+| | *female:* 27.5 years (2007 est.) |
+| **Comoros** | *total:* 18.7 years |
+| | *male:* 18.4 years |
+| | *female:* 18.9 years (2007 est.) |
+| **Congo, Democratic Republic of the** | *total:* 16.1 years |
+| | *male:* 15.8 years |
+| | *female:* 16.4 years (2007 est.) |
+| **Congo, Republic of the** | *total:* 16.7 years |
+| | *male:* 16.4 years |
+| | *female:* 17 years (2007 est.) |
+| **Cook Islands** | *total:* 25.3 years |
+| | *male:* 24.7 years |
+| | *female:* 25.9 years (2001 census) |
+| **Costa Rica** | *total:* 26.8 years |
+| | *male:* 26.3 years |
+| | *female:* 27.2 years (2007 est.) |
+| **Cote d'Ivoire** | *total:* 19.3 years |
+| | *male:* 19.5 years |
+| | *female:* 19 years (2007 est.) |
+| **Croatia** | *total:* 40.6 years |
+| | *male:* 38.6 years |
+| | *female:* 42.3 years (2007 est.) |
+| **Cuba** | *total:* 36.3 years |
+| | *male:* 35.7 years |
+| | *female:* 37 years (2007 est.) |
+| **Cyprus** | *total:* 35.1 years |
+| | *male:* 34.1 years |
+| | *female:* 36.2 years (2007 est.) |
+| **Czech Republic** | *total:* 39.5 years |
+| | *male:* 37.9 years |
+| | *female:* 41.3 years (2007 est.) |
+| **Denmark** | *total:* 40.1 years |
+| | *male:* 39.2 years |
+| | *female:* 40.9 years (2007 est.) |
+| **Djibouti** | *total:* 18.2 years |
+| | *male:* 18.6 years |
+| | *female:* 17.7 years (2007 est.) |
+| **Dominica** | *total:* 29.1 years |
+| | *male:* 28.7 years |
+| | *female:* 29.6 years (2007 est.) |
+| **Dominican Republic** | *total:* 24.5 years |
+| | *male:* 24.3 years |
+| | *female:* 24.6 years (2007 est.) |
+| **Ecuador** | *total:* 23.9 years |
+| | *male:* 23.4 years |
+| | *female:* 24.3 years (2007 est.) |
+| **Egypt** | *total:* 24.2 years |
+| | *male:* 23.9 years |
+| | *female:* 24.6 years (2007 est.) |
+| **El Salvador** | *total:* 22 years |
+| | *male:* 20.9 years |
+| | *female:* 23.2 years (2007 est.) |
+| **Equatorial Guinea** | *total:* 18.8 years |
+| | *male:* 18.3 years |
+| | *female:* 19.4 years (2007 est.) |
+| **Eritrea** | *total:* 17.9 years |
+| | *male:* 17.7 years |
+| | *female:* 18.2 years (2007 est.) |
+| **Estonia** | *total:* 39.4 years |
+| | *male:* 36 years |
+| | *female:* 42.9 years (2007 est.) |
+| **Ethiopia** | *total:* 18 years |
+| | *male:* 17.8 years |
+| | *female:* 18.1 years (2007 est.) |
+| **European Union** | NA |
+| **Faroe Islands** | *total:* 35 years |
+| | *male:* 34.8 years |
+| | *female:* 35.3 years (2007 est.) |
+| **Fiji** | *total:* 24.9 years |
+| | *male:* 24.4 years |
+| | *female:* 25.4 years (2007 est.) |
+| **Finland** | *total:* 41.6 years |
+| | *male:* 40 years |
+| | *female:* 43.1 years (2007 est.) |
+| **France** | *total:* 39 years |
+| | *male:* 37.5 years |
+| | *female:* 40.4 years (2007 est.) |
+| **French Polynesia** | *total:* 28.3 years |
+| | *male:* 28.6 years |
+| | *female:* 28 years (2007 est.) |
+| **Gabon** | *total:* 18.6 years |
+| | *male:* 18.4 years |
+| | *female:* 18.8 years (2007 est.) |
+| **Gambia, The** | *total:* 17.8 years |
+| | *male:* 17.6 years |
+| | *female:* 17.9 years (2007 est.) |
+| **Gaza Strip** | *total:* 16 years |
+| | *male:* 15.9 years |
+| | *female:* 16.2 years (2007 est.) |
+| **Georgia** | *total:* 38 years |
+| | *male:* 35.5 years |
+| | *female:* 40.4 years (2007 est.) |
+| **Germany** | *total:* 43 years |
+| | *male:* 41.8 years |
+| | *female:* 44.3 years (2007 est.) |
+| **Ghana** | *total:* 20.2 years |
+| | *male:* 19.9 years |
+| | *female:* 20.4 years (2007 est.) |
+| **Gibraltar** | *total:* 40.1 years |
+| | *male:* 39.6 years |
+| | *female:* 40.4 years (2007 est.) |
+| **Greece** | *total:* 41.2 years |
+| | *male:* 40 years |
+| | *female:* 42.3 years (2007 est.) |
+| **Greenland** | *total:* 34.1 years |
+| | *male:* 35.4 years |
+| | *female:* 32.3 years (2007 est.) |
+| **Grenada** | *total:* 22.1 years |
+| | *male:* 22.6 years |
+| | *female:* 21.6 years (2007 est.) |
+| **Guam** | *total:* 28.8 years |
+| | *male:* 28.5 years |
+| | *female:* 29 years (2007 est.) |
+| **Guatemala** | *total:* 18.9 years |
+| | *male:* 18.3 years |
+| | *female:* 19.5 years (2007 est.) |
+| **Guernsey** | *total:* 41.7 years |
+| | *male:* 40.7 years |
+| | *female:* 42.6 years (2007 est.) |
+| **Guinea** | *total:* 17.7 years |
+| | *male:* 17.5 years |
+| | *female:* 17.9 years (2007 est.) |
+| **Guinea-Bissau** | *total:* 19.1 years |
+| | *male:* 18.5 years |
+| | *female:* 19.7 years (2007 est.) |
+| **Guyana** | *total:* 27.8 years |
+| | *male:* 27.3 years |
+| | *female:* 28.3 years (2007 est.) |
+| **Haiti** | *total:* 18.4 years |
+| | *male:* 17.9 years |
+| | *female:* 18.8 years (2007 est.) |
+| **Honduras** | *total:* 19.7 years |
+| | *male:* 19.4 years |
+| | *female:* 20.1 years (2007 est.) |
+| **Hong Kong** | *total:* 41.2 years |
+| | *male:* 40.9 years |
+| | *female:* 41.4 years (2007 est.) |
+| **Hungary** | *total:* 38.9 years |
+| | *male:* 36.5 years |
+| | *female:* 41.5 years (2007 est.) |
+| **Iceland** | *total:* 34.5 years |
+| | *male:* 34 years |
+| | *female:* 35 years (2007 est.) |
+| **India** | *total:* 24.8 years |
+| | *male:* 24.5 years |
+| | *female:* 25.2 years (2007 est.) |
+| **Indonesia** | *total:* 26.9 years |
+| | *male:* 26.4 years |
+| | *female:* 27.4 years (2007 est.) |
+| **Iran** | *total:* 25.8 years |
+| | *male:* 25.6 years |
+| | *female:* 26 years (2007 est.) |
+| **Iraq** | *total:* 20 years |
+| | *male:* 19.9 years |
+| | *female:* 20 years (2007 est.) |
+| **Ireland** | *total:* 34.3 years |
+| | *male:* 33.5 years |
+| | *female:* 35.1 years (2007 est.) |
+| **Isle of Man** | *total:* 39.8 years |
+| | *male:* 38.6 years |
+| | *female:* 41.2 years (2007 est.) |
+| **Israel** | *total:* 29.9 years |
+| | *male:* 29.1 years |
+| | *female:* 30.8 years (2007 est.) |
+| **Italy** | *total:* 42.5 years |
+| | *male:* 41.1 years |
+| | *female:* 44.1 years (2007 est.) |
+| **Jamaica** | *total:* 23.2 years |
+| | *male:* 22.6 years |
+| | *female:* 23.7 years (2007 est.) |
+| **Japan** | *total:* 43.5 years |
+| | *male:* 41.7 years |
+| | *female:* 45.3 years (2007 est.) |
+| **Jersey** | *total:* 41.9 years |
+| | *male:* 41.1 years |
+| | *female:* 42.6 years (2007 est.) |
+| **Jordan** | *total:* 23.5 years |
+| | *male:* 24.1 years |
+| | *female:* 22.8 years (2007 est.) |
+| **Kazakhstan** | *total:* 29.1 years |
+| | *male:* 27.5 years |
+| | *female:* 30.8 years (2007 est.) |
+| **Kenya** | *total:* 18.6 years |
+| | *male:* 18.5 years |
+| | *female:* 18.7 years (2007 est.) |
+| **Kiribati** | *total:* 20.4 years |
+| | *male:* 19.9 years |
+| | *female:* 20.9 years (2007 est.) |
+| **Korea, North** | *total:* 32.4 years |
+| | *male:* 30.9 years |
+| | *female:* 33.8 years (2007 est.) |
+| **Korea, South** | *total:* 35.8 years |
+| | *male:* 34.8 years |
+| | *female:* 36.8 years (2007 est.) |
+| **Kuwait** | *total:* 26 years |
+| | *male:* 27.9 years |
+| | *female:* 22.4 years (2007 est.) |
+| **Kyrgyzstan** | *total:* 23.9 years |
+| | *male:* 23.1 years |
+| | *female:* 24.8 years (2007 est.) |
+| **Laos** | *total:* 19 years |
+| | *male:* 18.7 years |
+| | *female:* 19.3 years (2007 est.) |
+| **Latvia** | *total:* 39.6 years |
+| | *male:* 36.6 years |
+| | *female:* 42.7 years (2007 est.) |
+| **Lebanon** | *total:* 28.3 years |
+| | *male:* 27.2 years |
+| | *female:* 29.5 years (2007 est.) |
+| **Lesotho** | *total:* 21.1 years |
+| | *male:* 20.4 years |
+| | *female:* 21.7 years (2007 est.) |
+| **Liberia** | *total:* 18.1 years |
+| | *male:* 17.9 years |
+| | *female:* 18.2 years (2007 est.) |
+| **Libya** | *total:* 23.3 years |
+| | *male:* 23.4 years |
+| | *female:* 23.2 years (2007 est.) |
+| **Liechtenstein** | *total:* 40.1 years |
+| | *male:* 39.5 years |
+| | *female:* 40.5 years (2007 est.) |
+| **Lithuania** | *total:* 38.6 years |
+| | *male:* 36.1 years |
+| | *female:* 41.2 years (2007 est.) |
+| **Luxembourg** | *total:* 38.9 years |
+| | *male:* 37.9 years |
+| | *female:* 39.9 years (2007 est.) |
+| **Macau** | *total:* 36.6 years |
+| | *male:* 36 years |
+| | *female:* 36.9 years (2007 est.) |
+| **Macedonia** | *total:* 34.4 years |
+| | *male:* 33.5 years |
+| | *female:* 35.5 years (2007 est.) |
+| **Madagascar** | *total:* 17.8 years |
+| | *male:* 17.6 years |
+| | *female:* 18 years (2007 est.) |
+| **Malawi** | *total:* 16.7 years |
+| | *male:* 16.6 years |
+| | *female:* 16.8 years (2007 est.) |
+| **Malaysia** | *total:* 24.4 years |
+| | *male:* 23.8 years |
+| | *female:* 25 years (2007 est.) |
+| **Maldives** | *total:* 18.1 years |
+| | *male:* 18 years |
+| | *female:* 18.2 years (2007 est.) |
+| **Mali** | *total:* 15.9 years |
+| | *male:* 15.4 years |
+| | *female:* 16.3 years (2007 est.) |
+| **Malta** | *total:* 39 years |
+| | *male:* 37.6 years |
+| | *female:* 40.4 years (2007 est.) |
+| **Marshall Islands** | *total:* 20.7 years |
+| | *male:* 20.7 years |
+| | *female:* 20.7 years (2007 est.) |
+| **Mauritania** | *total:* 17.1 years |
+| | *male:* 16.8 years |
+| | *female:* 17.4 years (2007 est.) |
+| **Mauritius** | *total:* 31.2 years |
+| | *male:* 30.3 years |
+| | *female:* 32.1 years (2007 est.) |
+| **Mayotte** | *total:* 17.1 years |
+| | *male:* 18.1 years |
+| | *female:* 16.1 years (2007 est.) |
+| **Mexico** | *total:* 25.6 years |
+| | *male:* 24.6 years |
+| | *female:* 26.6 years (2007 est.) |
+| **Micronesia, Federated States of** | *total:* 21.2 years |
+| | *male:* 20.8 years |
+| | *female:* 21.7 years (2007 est.) |
+| **Moldova** | *total:* 34 years |
+| | *male:* 32.1 years |
+| | *female:* 36.1 years (2007 est.) |
+| **Monaco** | *total:* 45.5 years |
+| | *male:* 43.4 years |
+| | *female:* 47.4 years (2007 est.) |
+| **Mongolia** | *total:* 24.6 years |
+| | *male:* 24.2 years |
+| | *female:* 24.9 years (2007 est.) |
+| **Montserrat** | *total:* 29.3 years |
+| | *male:* 28.9 years |
+| | *female:* 29.7 years (2007 est.) |
+| **Morocco** | *total:* 24.3 years |
+| | *male:* 23.8 years |
+| | *female:* 24.8 years (2007 est.) |
+| **Mozambique** | *total:* 17.4 years |
+| | *male:* 16.9 years |
+| | *female:* 17.8 years (2007 est.) |
+| **Namibia** | *total:* 20.2 years |
+| | *male:* 20.1 years |
+| | *female:* 20.3 years (2007 est.) |
+| **Nauru** | *total:* 21 years |
+| | *male:* 20.4 years |
+| | *female:* 21.5 years (2007 est.) |
+| **Nepal** | *total:* 20.5 years |
+| | *male:* 20.3 years |
+| | *female:* 20.6 years (2007 est.) |
+| **Netherlands** | *total:* 39.7 years |
+| | *male:* 38.9 years |
+| | *female:* 40.5 years (2007 est.) |
+| **Netherlands Antilles** | *total:* 33.1 years |
+| | *male:* 31.4 years |
+| | *female:* 34.8 years (2007 est.) |
+| **New Caledonia** | *total:* 28.1 years |
+| | *male:* 27.7 years |
+| | *female:* 28.5 years (2007 est.) |
+| **New Zealand** | *total:* 34.2 years |
+| | *male:* 33.5 years |
+| | *female:* 35 years (2007 est.) |
+| **Nicaragua** | *total:* 21.3 years |
+| | *male:* 20.9 years |
+| | *female:* 21.7 years (2007 est.) |
+| **Niger** | *total:* 16.5 years |
+| | *male:* 16.5 years |
+| | *female:* 16.4 years (2007 est.) |
+| **Nigeria** | *total:* 18.7 years |
+| | *male:* 18.8 years |
+| | *female:* 18.6 years (2007 est.) |
+| **Northern Mariana Islands** | *total:* 29.7 years |
+| | *male:* 31.8 years |
+| | *female:* 28.7 years (2007 est.) |
+| **Norway** | *total:* 38.7 years |
+| | *male:* 37.9 years |
+| | *female:* 39.6 years (2007 est.) |
+| **Oman** | *total:* 18.9 years |
+| | *male:* 21.5 years |
+| | *female:* 16.5 years (2007 est.) |
+| **Pakistan** | *total:* 20.9 years |
+| | *male:* 20.7 years |
+| | *female:* 21 years (2007 est.) |
+| **Palau** | *total:* 32 years |
+| | *male:* 33 years |
+| | *female:* 31 years (2007 est.) |
+| **Panama** | *total:* 26.4 years |
+| | *male:* 26 years |
+| | *female:* 26.7 years (2007 est.) |
+| **Papua New Guinea** | *total:* 21.4 years |
+| | *male:* 21.5 years |
+| | *female:* 21.2 years (2007 est.) |
+| **Paraguay** | *total:* 21.6 years |
+| | *male:* 21.3 years |
+| | *female:* 21.8 years (2007 est.) |
+| **Peru** | *total:* 25.5 years |
+| | *male:* 25.2 years |
+| | *female:* 25.8 years (2007 est.) |
+| **Philippines** | *total:* 22.7 years |
+| | *male:* 22.2 years |
+| | *female:* 23.3 years (2007 est.) |
+| **Poland** | *total:* 37.3 years |
+| | *male:* 35.4 years |
+| | *female:* 39.3 years (2007 est.) |
+| **Portugal** | *total:* 38.8 years |
+| | *male:* 36.7 years |
+| | *female:* 41 years (2007 est.) |
+| **Puerto Rico** | *total:* 35.1 years |
+| | *male:* 33.4 years |
+| | *female:* 36.8 years (2007 est.) |
+| **Qatar** | *total:* 31.9 years |
+| | *male:* 37.3 years |
+| | *female:* 23.1 years (2007 est.) |
+| **Romania** | *total:* 36.9 years |
+| | *male:* 35.5 years |
+| | *female:* 38.2 years (2007 est.) |
+| **Russia** | *total:* 38.2 years |
+| | *male:* 35 years |
+| | *female:* 41.3 years (2007 est.) |
+| **Rwanda** | *total:* 18.6 years |
+| | *male:* 18.4 years |
+| | *female:* 18.8 years (2007 est.) |
+| **Saint Helena** | *total:* 36.5 years |
+| | *male:* 36.7 years |
+| | *female:* 36.3 years (2007 est.) |
+| **Saint Kitts and Nevis** | *total:* 28.1 years |
+| | *male:* 27.4 years |
+| | *female:* 28.8 years (2007 est.) |
+| **Saint Lucia** | *total:* 25.6 years |
+| | *male:* 24.8 years |
+| | *female:* 26.5 years (2007 est.) |
+| **Saint Pierre and Miquelon** | *total:* 34.6 years |
+| | *male:* 34.1 years |
+| | *female:* 35 years (2007 est.) |
+| **Saint Vincent and the Grenadines** | *total:* 27.4 years |
+| | *male:* 27.3 years |
+| | *female:* 27.6 years (2007 est.) |
+| **Samoa** | *total:* 20.4 years |
+| | *male:* 20.7 years |
+| | *female:* 20.2 years (2007 est.) |
+| **San Marino** | *total:* 40.9 years |
+| | *male:* 40.6 years |
+| | *female:* 41.3 years (2007 est.) |
+| **Sao Tome and Principe** | *total:* 16.2 years |
+| | *male:* 15.7 years |
+| | *female:* 16.8 years (2007 est.) |
+| **Saudi Arabia** | *total:* 21.4 years |
+| | *male:* 22.9 years |
+| | *female:* 19.6 years (2007 est.) |
+| **Senegal** | *total:* 18.7 years |
+| | *male:* 18.5 years |
+| | *female:* 18.9 years (2007 est.) |
+| **Serbia** | *total:* 37.3 years |
+| | *male:* 35.9 years |
+| | *female:* 38.8 years (2007 est.) |
+| **Seychelles** | *total:* 28.4 years |
+| | *male:* 27.3 years |
+| | *female:* 29.4 years (2007 est.) |
+| **Sierra Leone** | *total:* 17.5 years |
+| | *male:* 17.2 years |
+| | *female:* 17.7 years (2007 est.) |
+| **Singapore** | *total:* 37.8 years |
+| | *male:* 37.4 years |
+| | *female:* 38.2 years (2007 est.) |
+| **Slovakia** | *total:* 36.1 years |
+| | *male:* 34.5 years |
+| | *female:* 37.9 years (2007 est.) |
+| **Slovenia** | *total:* 41 years |
+| | *male:* 39.4 years |
+| | *female:* 42.6 years (2007 est.) |
+| **Solomon Islands** | *total:* 19.1 years |
+| | *male:* 19 years |
+| | *female:* 19.3 years (2007 est.) |
+| **Somalia** | *total:* 17.6 years |
+| | *male:* 17.5 years |
+| | *female:* 17.7 years (2007 est.) |
+| **South Africa** | *total:* 24.3 years |
+| | *male:* 23.5 years |
+| | *female:* 25.1 years (2007 est.) |
+| **Spain** | *total:* 40.3 years |
+| | *male:* 39 years |
+| | *female:* 41.7 years (2007 est.) |
+| **Sri Lanka** | *total:* 30 years |
+| | *male:* 29.2 years |
+| | *female:* 31 years (2007 est.) |
+| **Sudan** | *total:* 18.7 years |
+| | *male:* 18.6 years |
+| | *female:* 18.9 years (2007 est.) |
+| **Suriname** | *total:* 27.1 years |
+| | *male:* 26.7 years |
+| | *female:* 27.5 years (2007 est.) |
+| **Swaziland** | *total:* 18.6 years |
+| | *male:* 17.9 years |
+| | *female:* 19.3 years (2007 est.) |
+| **Sweden** | *total:* 41.1 years |
+| | *male:* 40 years |
+| | *female:* 42.2 years (2007 est.) |
+| **Switzerland** | *total:* 40.4 years |
+| | *male:* 39.3 years |
+| | *female:* 41.4 years (2007 est.) |
+| **Syria** | *total:* 21.1 years |
+| | *male:* 20.9 years |
+| | *female:* 21.2 years (2007 est.) |
+| **Taiwan** | *total:* 35.5 years |
+| | *male:* 35 years |
+| | *female:* 36 years (2007 est.) |
+| **Tajikistan** | *total:* 21.3 years |
+| | *male:* 20.8 years |
+| | *female:* 21.8 years (2007 est.) |
+| **Tanzania** | *total:* 17.7 years |
+| | *male:* 17.4 years |
+| | *female:* 17.9 years (2007 est.) |
+| **Thailand** | *total:* 32.4 years |
+| | *male:* 31.6 years |
+| | *female:* 33.2 years (2007 est.) |
+| **Timor-Leste** | *total:* 21.1 years |
+| | *male:* 21.2 years |
+| | *female:* 21.1 years (2007 est.) |
+| **Togo** | *total:* 18.4 years |
+| | *male:* 18 years |
+| | *female:* 18.9 years (2007 est.) |
+| **Tonga** | *total:* 21.3 years |
+| | *male:* 20.7 years |
+| | *female:* 21.8 years (2007 est.) |
+| **Trinidad and Tobago** | *total:* 31.8 years |
+| | *male:* 31.3 years |
+| | *female:* 32.3 years (2007 est.) |
+| **Tunisia** | *total:* 28.3 years |
+| | *male:* 27.7 years |
+| | *female:* 28.8 years (2007 est.) |
+| **Turkey** | *total:* 28.6 years |
+| | *male:* 28.4 years |
+| | *female:* 28.8 years (2007 est.) |
+| **Turkmenistan** | *total:* 22.3 years |
+| | *male:* 21.7 years |
+| | *female:* 22.9 years (2007 est.) |
+| **Turks and Caicos Islands** | *total:* 27.7 years |
+| | *male:* 28.4 years |
+| | *female:* 26.9 years (2007 est.) |
+| **Tuvalu** | *total:* 24.9 years |
+| | *male:* 23.9 years |
+| | *female:* 26.2 years (2007 est.) |
+| **Uganda** | *total:* 14.9 years |
+| | *male:* 14.8 years |
+| | *female:* 15 years (2007 est.) |
+| **Ukraine** | *total:* 39.2 years |
+| | *male:* 36 years |
+| | *female:* 42.3 years (2007 est.) |
+| **United Arab Emirates** | *total:* 30.1 years |
+| | *male:* 32 years |
+| | *female:* 24.5 years (2007 est.) |
+| **United Kingdom** | *total:* 39.6 years |
+| | *male:* 38.5 years |
+| | *female:* 40.7 years (2007 est.) |
+| **United States** | *total:* 36.6 years |
+| | *male:* 35.3 years |
+| | *female:* 37.9 years (2007 est.) |
+| **Uruguay** | *total:* 32.9 years |
+| | *male:* 31.5 years |
+| | *female:* 34.4 years (2007 est.) |
+| **Uzbekistan** | *total:* 22.9 years |
+| | *male:* 22.3 years |
+| | *female:* 23.5 years (2007 est.) |
+| **Vanuatu** | *total:* 23.4 years |
+| | *male:* 23.4 years |
+| | *female:* 23.4 years (2007 est.) |
+| **Venezuela** | *total:* 24.9 years |
+| | *male:* 24.3 years |
+| | *female:* 25.5 years (2007 est.) |
+| **Vietnam** | *total:* 26.4 years |
+| | *male:* 25.3 years |
+| | *female:* 27.6 years (2007 est.) |
+| **Virgin Islands** | *total:* 37.7 years |
+| | *male:* 36.7 years |
+| | *female:* 38.5 years (2007 est.) |
+| **West Bank** | *total:* 18.5 years |
+| | *male:* 18.4 years |
+| | *female:* 18.6 years (2007 est.) |
+| **World** | *total:* 28 years |
+| | *male:* 27.4 years |
+| | *female:* 28.7 years (2007 est.) |
+| **Yemen** | *total:* 16.7 years |
+| | *male:* 16.6 years |
+| | *female:* 16.7 years (2007 est.) |
+| **Zambia** | *total:* 16.8 years |
+| | *male:* 16.6 years |
+| | *female:* 16.9 years (2007 est.) |
+| **Zimbabwe** | *total:* 20.1 years |
+| | *male:* 19.9 years |
+| | *female:* 20.2 years (2007 est.) |
+
+This page was last updated on 13 December, 2007
+ 

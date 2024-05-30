@@ -1,0 +1,241 @@
+FIELD LISTING :: GDP (OFFICIAL EXCHANGE RATE)
+
+This entry gives the gross domestic product (GDP) or value of all final goods and services produced within a nation in a given year. A nation's GDP at official exchange rates (OER) is the home-currency-denominated annual GDP figure divided by the bilateral average US exchange rate with that country in that year. The measure is simple to compute and gives a precise measure of the value of output. Many economists prefer this measure when gauging the economic power an economy maintains vis-Ã -vis its neighbors, judging that an exchange rate captures the purchasing power a nation enjoys in the international marketplace. Official exchange rates, however, can be artificially fixed and/or subject to manipulation - resulting in claims of the country having an under- or over-valued currency - and are not necessarily the equivalent of a market-determined exchange rate. Moreover, even if the official exchange rate is market-determined, market exchange rates are frequently established by a relatively small set of goods and services (the ones the country trades) and may not capture the value of the larger set of goods the country produces. Furthermore, OER-converted GDP is not well suited to comparing domestic GDP over time, since appreciation/depreciation from one year to the next will make the OER GDP value rise/fall regardless of whether home-currency-denominated GDP changed.
+
+| Country | GDP (OFFICIAL EXCHANGE RATE) |
+| --- | --- |
+| **Afghanistan** | $20.31 billion (2014 est.) |
+| **Albania** | $13.26 billion (2014 est.) |
+| **Algeria** | $214.1 billion (2014 est.) |
+| **American Samoa** | $748.6 million (2005) |
+| **Andorra** | $4.8 billion (2012 est.) |
+| **Angola** | $128.6 billion (2014 est.) |
+| **Anguilla** | $175.4 million (2009 est.) |
+| **Antigua and Barbuda** | $1.242 billion (2014 est.) |
+| **Argentina** | $540.2 billion (2014 est.) |
+| **Armenia** | $10.88 billion (2014 est.) |
+| **Aruba** | $2.516 billion (2009 est.) |
+| **Australia** | $1.444 trillion (2014 est.) |
+| **Austria** | $437.1 billion (2014 est.) |
+| **Azerbaijan** | $74.15 billion (2014 est.) |
+| **Bahamas, The** | $8.657 billion (2014 est.) |
+| **Bahrain** | $33.86 billion (2014 est.) |
+| **Bangladesh** | $185.4 billion (2014 est.) |
+| **Barbados** | $4.348 billion (2014 est.) |
+| **Belarus** | $76.14 billion (2014 est.) |
+| **Belgium** | $534.7 billion (2014 est.) |
+| **Belize** | $1.693 billion (2014 est.) |
+| **Benin** | $8.701 billion (2014 est.) |
+| **Bermuda** | $5.198 billion (2013 est.) |
+| **Bhutan** | $2.092 billion (2014 est.) |
+| **Bolivia** | $34.43 billion (2014 est.) |
+| **Bosnia and Herzegovina** | $17.98 billion (2014 est.) |
+| **Botswana** | $15.79 billion (2014 est.) |
+| **Brazil** | $2.353 trillion (2014 est.) |
+| **British Virgin Islands** | $1.095 billion (2008) |
+| **Brunei** | $15.1 billion (2014 est.) |
+| **Bulgaria** | $55.84 billion (2014 est.) |
+| **Burkina Faso** | $12.5 billion (2014 est.) |
+| **Burma** | $62.8 billion (2014 est.) |
+| **Burundi** | $3.094 billion (2014 est.) |
+| **Cabo Verde** | $1.899 billion (2014 est.) |
+| **Cambodia** | $16.55 billion (2014 est.) |
+| **Cameroon** | $31.67 billion (2014 est.) |
+| **Canada** | $1.789 trillion (2014 est.) |
+| **Cayman Islands** | $2.25 billion (2008 est.) |
+| **Central African Republic** | $1.786 billion (2014 est.) |
+| **Chad** | $13.95 billion (2014 est.) |
+| **Chile** | $258 billion (2014 est.) |
+| **China** | $10.38 trillion |
+| | *note:* because China's exchange rate is determined by fiat, rather than by market forces, the official exchange rate measure of GDP is not an accurate measure of China's output; GDP at the official exchange rate substantially understates the actual level of China's output vis-a-vis the rest of the world; in China's situation, GDP at purchasing power parity provides the best measure for comparing output across countries (2014 est.) |
+| **Colombia** | $384.9 billion (2014 est.) |
+| **Comoros** | $717 million (2014 est.) |
+| **Congo, Democratic Republic of the** | $34.68 billion (2014 est.) |
+| **Congo, Republic of the** | $13.5 billion (2014 est.) |
+| **Cook Islands** | $183.2 million (2005 est.) |
+| **Costa Rica** | $48.14 billion (2014 est.) |
+| **Cote d'Ivoire** | $33.96 billion (2014 est.) |
+| **Croatia** | $57.16 billion (2014 est.) |
+| **Cuba** | $77.15 billion |
+| | *note:* data are in Cuban Pesos at CUP 1 = US$ Official Exchange Rate (2013 est.) |
+| **Curacao** | $5.6 billion (2012 est.) |
+| **Cyprus** | $23.27 billion (2014 est.) |
+| **Czech Republic** | $205.7 billion (2014 est.) |
+| **Denmark** | $340.8 billion (2014 est.) |
+| **Djibouti** | $1.589 billion (2014 est.) |
+| **Dominica** | $526 million (2014 est.) |
+| **Dominican Republic** | $64.08 billion (2014 est.) |
+| **Ecuador** | $100.8 billion (2014 est.) |
+| **Egypt** | $286.4 billion (2014 est.) |
+| **El Salvador** | $25.33 billion (2014 est.) |
+| **Equatorial Guinea** | $14.31 billion (2014 est.) |
+| **Eritrea** | $3.858 billion (2014 est.) |
+| **Estonia** | $25.95 billion (2014 est.) |
+| **Ethiopia** | $52.34 billion (2014 est.) |
+| **European Union** | $18.24 trillion (2014 est.) |
+| **Falkland Islands (Islas Malvinas)** | $164.5 million (2007 est.) |
+| **Faroe Islands** | $2.32 billion (2010 est.) |
+| **Fiji** | $4.212 billion (2014 est.) |
+| **Finland** | $271.2 billion (2014 est.) |
+| **France** | $2.847 trillion (2014 est.) |
+| **French Polynesia** | $7.15 billion (2012 est.) |
+| **Gabon** | $17.18 billion (2014 est.) |
+| **Gambia, The** | $825 million (2014 est.) |
+| **Georgia** | $16.54 billion (2014 est.) |
+| **Germany** | $3.86 trillion (2014 est.) |
+| **Ghana** | $38.65 billion (2014 est.) |
+| **Gibraltar** | $1.85 billion (2013 est.) |
+| **Greece** | $238 billion (2014 est.) |
+| **Greenland** | $2.16 billion (2011 est.) |
+| **Grenada** | $862 million (2014 est.) |
+| **Guam** | $4.6 billion (2010 est.) |
+| **Guatemala** | $60.42 billion (2014 est.) |
+| **Guernsey** | $2.742 billion (2005 est.) |
+| **Guinea-Bissau** | $1.024 billion (2014 est.) |
+| **Guinea** | $6.529 billion (2014 est.) |
+| **Guyana** | $2.997 billion (2014 est.) |
+| **Haiti** | $8.711 billion (2014 est.) |
+| **Honduras** | $19.51 billion (2014 est.) |
+| **Hong Kong** | $289.6 billion (2014 est.) |
+| **Hungary** | $137.1 billion (2014 est.) |
+| **Iceland** | $16.69 billion (2014 est.) |
+| **India** | $2.05 trillion (2014 est.) |
+| **Indonesia** | $888.6 billion (2014 est.) |
+| **Iran** | $404.1 billion (2014 est.) |
+| **Iraq** | $221.1 billion (2014 est.) |
+| **Ireland** | $246.4 billion (2014 est.) |
+| **Isle of Man** | $4.076 billion (2007 est.) |
+| **Israel** | $303.8 billion (2014 est.) |
+| **Italy** | $2.148 trillion (2014 est.) |
+| **Jamaica** | $13.79 billion (2014 est.) |
+| **Japan** | $4.616 trillion (2014 est.) |
+| **Jersey** | $5.771 billion (FY 2012/13 est.) |
+| **Jordan** | $35.77 billion (2014 est.) |
+| **Kazakhstan** | $212.3 billion (2014 est.) |
+| **Kenya** | $60.77 billion (2014 est.) |
+| **Kiribati** | $181 million (2014 est.) |
+| **Korea, North** | $28 billion (2013 est.) |
+| **Korea, South** | $1.41 trillion (2014 est.) |
+| **Kosovo** | $7.318 billion (2014 est.) |
+| **Kuwait** | $172.4 billion (2014 est.) |
+| **Kyrgyzstan** | $7.402 billion (2014 est.) |
+| **Laos** | $11.68 billion (2014 est.) |
+| **Latvia** | $31.97 billion (2014 est.) |
+| **Lebanon** | $49.92 billion (2014 est.) |
+| **Lesotho** | $2.159 billion (2014 est.) |
+| **Liberia** | $2.028 billion (2014 est.) |
+| **Libya** | $41.15 billion (2014 est.) |
+| **Liechtenstein** | $5.113 billion (2010 est.) |
+| **Lithuania** | $48.23 billion (2014 est.) |
+| **Luxembourg** | $62.4 billion (2014 est.) |
+| **Macau** | $51.68 billion (2013 est.) |
+| **Macedonia** | $11.34 billion (2014 est.) |
+| **Madagascar** | $10.6 billion (2014 est.) |
+| **Malawi** | $4.263 billion (2014 est.) |
+| **Malaysia** | $326.9 billion (2014 est.) |
+| **Maldives** | $2.854 billion (2014 est.) |
+| **Mali** | $11.92 billion (2014 est.) |
+| **Malta** | $10.58 billion (2014 est.) |
+| **Marshall Islands** | $193 million (2014 est.) |
+| **Mauritania** | $5.079 billion (2014 est.) |
+| **Mauritius** | $13.24 billion (2014 est.) |
+| **Mexico** | $1.283 trillion (2014 est.) |
+| **Micronesia, Federated States of** | $315 million (2014 est.) |
+| **Moldova** | $7.944 billion (2014 est.) |
+| **Monaco** | $6.063 billion (2013 est.) |
+| **Mongolia** | $11.98 billion (2014 est.) |
+| **Montenegro** | $4.462 billion (2014 est.) |
+| **Montserrat** | $NA |
+| **Morocco** | $109.2 billion (2014 est.) |
+| **Mozambique** | $16.68 billion (2014 est.) |
+| **Namibia** | $13.35 billion (2014 est.) |
+| **Nauru** | $NA |
+| **Nepal** | $19.64 billion (2014 est.) |
+| **Netherlands** | $866.4 billion (2014 est.) |
+| **New Caledonia** | $11.1 billion (2014 est.) |
+| **New Zealand** | $198.1 billion (2014 est.) |
+| **Nicaragua** | $11.71 billion (2014 est.) |
+| **Nigeria** | $573.7 billion (2014 est.) |
+| **Niger** | $8.025 billion (2014 est.) |
+| **Niue** | $10.01 million (2003) |
+| **Northern Mariana Islands** | $1.232 billion (2013 est.) |
+| **Norway** | $500.2 billion (2014 est.) |
+| **Oman** | $77.76 billion (2014 est.) |
+| **Pakistan** | $250.1 billion (2014 est.) |
+| **Palau** | $269 million (2014 est.) |
+| **Panama** | $43.78 billion (2014 est.) |
+| **Papua New Guinea** | $16.06 billion (2014 est.) |
+| **Paraguay** | $29.7 billion (2014 est.) |
+| **Peru** | $202.9 billion (2014 est.) |
+| **Philippines** | $284.9 billion (2014 est.) |
+| **Poland** | $546.6 billion (2014 est.) |
+| **Portugal** | $230 billion (2014 est.) |
+| **Puerto Rico** | $61.46 billion (2013 est.) |
+| **Qatar** | $210 billion (2014 est.) |
+| **Romania** | $200 billion (2014 est.) |
+| **Russia** | $1.857 trillion (2014 est.) |
+| **Rwanda** | $8.012 billion (2014 est.) |
+| **Saint Helena, Ascension, and Tristan da Cunha** | $NA |
+| **Saint Kitts and Nevis** | $841 million (2014 est.) |
+| **Saint Lucia** | $1.356 billion (2014 est.) |
+| **Saint Martin** | $561.5 million (2005 est.) |
+| **Saint Pierre and Miquelon** | $215.3 million (2006 est.) |
+| **Saint Vincent and the Grenadines** | $736 million (2014 est.) |
+| **Samoa** | $826 million (2014 est.) |
+| **San Marino** | $1.786 billion (2014 est.) |
+| **Sao Tome and Principe** | $341 million (2014 est.) |
+| **Saudi Arabia** | $752.5 billion (2014 est.) |
+| **Senegal** | $15.58 billion (2014 est.) |
+| **Serbia** | $43.87 billion (2014 est.) |
+| **Seychelles** | $1.42 billion (2014 est.) |
+| **Sierra Leone** | $5.033 billion (2014 est.) |
+| **Singapore** | $308.1 billion (2014 est.) |
+| **Sint Maarten** | $304.1 billion (2014 est.) |
+| **Slovakia** | $99.97 billion (2014 est.) |
+| **Slovenia** | $49.51 billion (2014 est.) |
+| **Solomon Islands** | $1.155 billion (2014 est.) |
+| **Somalia** | $2.372 billion (2010 est.) |
+| **South Africa** | $350.1 billion (2014 est.) |
+| **South Sudan** | $12.83 billion (2014 est.) |
+| **Spain** | $1.407 trillion (2014 est.) |
+| **Sri Lanka** | $74.59 billion (2014 est.) |
+| **Sudan** | $73.82 billion (2014 est.) |
+| **Suriname** | $5.297 billion (2014 est.) |
+| **Swaziland** | $3.676 billion (2014 est.) |
+| **Sweden** | $570.1 billion (2014 est.) |
+| **Switzerland** | $712.1 billion (2014 est.) |
+| **Syria** | $64.7 billion (2011 est.) |
+| **Taiwan** | $529.6 billion (2014 est.) |
+| **Tajikistan** | $9.242 billion (2014 est.) |
+| **Tanzania** | $47.93 billion (2014 est.) |
+| **Thailand** | $373.8 billion (2014 est.) |
+| **Timor-Leste** | $4.478 billion |
+| | *note:* non-oil GDP (2014 est.) |
+| **Togo** | $4.604 billion (2014 est.) |
+| **Tokelau** | $NA |
+| **Tonga** | $454 million (2014 est.) |
+| **Trinidad and Tobago** | $28.79 billion (2014 est.) |
+| **Tunisia** | $48.55 billion (2014 est.) |
+| **Turkey** | $806.1 billion (2014 est.) |
+| **Turkmenistan** | $47.93 billion (2014 est.) |
+| **Turks and Caicos Islands** | $NA |
+| **Tuvalu** | $38 million (2014 est.) |
+| **Uganda** | $27.62 billion (2014 est.) |
+| **Ukraine** | $130.7 billion (2014 est.) |
+| **United Arab Emirates** | $401.6 billion (2014 est.) |
+| **United Kingdom** | $2.945 trillion (2014 est.) |
+| **United States** | $17.42 trillion (2014 est.) |
+| **Uruguay** | $55.14 billion (2014 est.) |
+| **Uzbekistan** | $62.62 billion (2014 est.) |
+| **Vanuatu** | $812 million (2014 est.) |
+| **Venezuela** | $205.8 billion (2014 est.) |
+| **Vietnam** | $186 billion (2014 est.) |
+| **Virgin Islands** | $5.075 billion (2013) |
+| **Wallis and Futuna** | $NA |
+| **West Bank** | $6.641 billion |
+| | *note:* includes Gaza Strip (2008 est.) |
+| **Western Sahara** | $NA |
+| **World** | *GWP (gross world product):* $78.28 trillion (2014 est.) |
+| **Yemen** | $43.23 billion (2014 est.) |
+| **Zambia** | $26.76 billion (2014 est.) |
+| **Zimbabwe** | $13.67 billion (2014 est.) |

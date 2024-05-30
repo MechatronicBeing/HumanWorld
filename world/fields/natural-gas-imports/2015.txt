@@ -1,0 +1,221 @@
+FIELD LISTING :: NATURAL GAS - IMPORTS
+
+This entry is the total natural gas imported in cubic meters (cu m).
+
+| Country | NATURAL GAS - IMPORTS(CU M) |
+| --- | --- |
+| **Afghanistan** | 0 cu m (2012 est.) |
+| **Albania** | 0 cu m (2012 est.) |
+| **Algeria** | 0 cu m (2012 est.) |
+| **American Samoa** | 0 cu m (2012 est.) |
+| **Angola** | 0 cu m (2012 est.) |
+| **Antigua and Barbuda** | 0 cu m (2012 est.) |
+| **Argentina** | 8.94 billion cu m (2012 est.) |
+| **Armenia** | 2.061 billion cu m (2014 est.) |
+| **Aruba** | 1 cu m (2012 est.) |
+| **Australia** | 6.517 billion cu m (2013 est.) |
+| **Austria** | 10.41 billion cu m (2013 est.) |
+| **Azerbaijan** | 250 million cu m (2011 est.) |
+| **Bahamas, The** | 0 cu m (2012 est.) |
+| **Bahrain** | 0 cu m (2012 est.) |
+| **Bangladesh** | 0 cu m (2012 est.) |
+| **Barbados** | 0 cu m (2012 est.) |
+| **Belarus** | 20.1 billion cu m (2014 est.) |
+| **Belgium** | 23.33 billion cu m (2013 est.) |
+| **Belize** | 0 cu m (2012 est.) |
+| **Benin** | 0 cu m (2012 est.) |
+| **Bermuda** | 0 cu m (2014 est.) |
+| **Bhutan** | 0 cu m (2012 est.) |
+| **Bolivia** | 0 cu m (2013 est.) |
+| **Bosnia and Herzegovina** | 275 million cu m (2014 est.) |
+| **Botswana** | 0 cu m (2012 est.) |
+| **Brazil** | 13.85 billion cu m (2012 est.) |
+| **British Virgin Islands** | 0 cu m (2012 est.) |
+| **Brunei** | 0 cu m (2012 est.) |
+| **Bulgaria** | 2.569 billion cu m (2013 est.) |
+| **Burkina Faso** | 0 cu m (2012 est.) |
+| **Burma** | 0 cu m (2012 est.) |
+| **Burundi** | 0 cu m (2012 est.) |
+| **Cabo Verde** | 0 cu m (2012 est.) |
+| **Cambodia** | 0 cu m (2012 est.) |
+| **Cameroon** | 0 cu m (2012 est.) |
+| **Canada** | 26.7 billion cu m (2013 est.) |
+| **Cayman Islands** | 0 cu m (2012 est.) |
+| **Central African Republic** | 0 cu m (2012 est.) |
+| **Chad** | 0 cu m (2012 est.) |
+| **Chile** | 3.779 billion cu m (2013 est.) |
+| **China** | 58 billion cu m (2014 est.) |
+| **Colombia** | 0 cu m (2012 est.) |
+| **Comoros** | 0 cu m (2012 est.) |
+| **Congo, Democratic Republic of the** | 0 cu m (2012 est.) |
+| **Congo, Republic of the** | 0 cu m (2012 est.) |
+| **Cook Islands** | 0 cu m (2012 est.) |
+| **Costa Rica** | 0 cu m (2012 est.) |
+| **Cote d'Ivoire** | 0 cu m (2012 est.) |
+| **Croatia** | 1.079 billion cu m (2014 est.) |
+| **Cuba** | 0 cu m (2013) |
+| **Curacao** | 0 cu m (2009 est.) |
+| **Cyprus** | 0 cu m (2012 est.) |
+| **Czech Republic** | 8.479 billion cu m (2013 est.) |
+| **Denmark** | 1.363 billion cu m (2013 est.) |
+| **Djibouti** | 0 cu m (2012 est.) |
+| **Dominica** | 0 cu m (2012 est.) |
+| **Dominican Republic** | 1.28 billion cu m (2012 est.) |
+| **Ecuador** | 0 cu m (2012 est.) |
+| **Egypt** | 2.832 billion cu m (2013 est.) |
+| **El Salvador** | 0 cu m (2012 est.) |
+| **Equatorial Guinea** | 0 cu m (2012 est.) |
+| **Eritrea** | 0 cu m (2012 est.) |
+| **Estonia** | 678 million cu m (2013 est.) |
+| **Ethiopia** | 0 cu m (2012 est.) |
+| **European Union** | 420.6 billion cu m (2010 est.) |
+| **Falkland Islands (Islas Malvinas)** | 0 cu m (2012 est.) |
+| **Faroe Islands** | 0 cu m (2012 est.) |
+| **Fiji** | 0 cu m (2012 est.) |
+| **Finland** | 3.482 billion cu m (2013 est.) |
+| **France** | 39.2 billion cu m (2013 est.) |
+| **French Polynesia** | 0 cu m (2012 est.) |
+| **Gabon** | 0 cu m (2012 est.) |
+| **Gambia, The** | 0 cu m (2012 est.) |
+| **Georgia** | 1.77 billion cu m (2012 est.) |
+| **Germany** | 94.91 billion cu m (2013 est.) |
+| **Ghana** | 615 million cu m (2012 est.) |
+| **Gibraltar** | 0 cu m (2012 est.) |
+| **Greece** | 3.866 billion cu m (2013 est.) |
+| **Greenland** | 0 cu m (2012 est.) |
+| **Grenada** | 0 cu m (2012 est.) |
+| **Guam** | 0 cu m (2012 est.) |
+| **Guatemala** | 0 cu m (2012 est.) |
+| **Guinea-Bissau** | 0 cu m (2012 est.) |
+| **Guinea** | 0 cu m (2012 est.) |
+| **Guyana** | 0 cu m (2012 est.) |
+| **Haiti** | 0 cu m (2012 est.) |
+| **Honduras** | 0 cu m (2012 est.) |
+| **Hong Kong** | 2.8 billion cu m (2013 est.) |
+| **Hungary** | 8.176 billion cu m (2013 est.) |
+| **Iceland** | 0 cu m (2013 est.) |
+| **India** | 17.98 billion cu m (2013 est.) |
+| **Indonesia** | 0 cu m (2012 est.) |
+| **Iran** | 5 billion cu m (2013 est.) |
+| **Iraq** | 0 cu m (2012 est.) |
+| **Ireland** | 4.401 billion cu m (2013 est.) |
+| **Israel** | 510 million cu m (2013 est.) |
+| **Italy** | 61.96 billion cu m (2013 est.) |
+| **Jamaica** | 0 cu m (2012 est.) |
+| **Japan** | 116.9 billion cu m (2013 est.) |
+| **Jordan** | 484 million cu m (2013 est.) |
+| **Kazakhstan** | 10.53 billion cu m (2012 est.) |
+| **Kenya** | 0 cu m (2012 est.) |
+| **Kiribati** | 0 cu m (2012 est.) |
+| **Korea, North** | 0 cu m (2012 est.) |
+| **Korea, South** | 46.26 billion cu m (2013 est.) |
+| **Kuwait** | 2.664 billion cu m (2012 est.) |
+| **Kyrgyzstan** | 420 million cu m (2012 est.) |
+| **Laos** | 0 cu m (2012 est.) |
+| **Latvia** | 1.48 billion cu m (2012 est.) |
+| **Lebanon** | 0 cu m (2012 est.) |
+| **Lesotho** | 0 cu m (2012 est.) |
+| **Liberia** | 0 cu m (2012 est.) |
+| **Libya** | 0 cu m (2012 est.) |
+| **Lithuania** | 3.32 billion cu m (2012 est.) |
+| **Luxembourg** | 1.03 billion cu m (2013 est.) |
+| **Macau** | 371,000 cu m (2013 est.) |
+| **Macedonia** | 134.7 million cu m (2014 est.) |
+| **Madagascar** | 0 cu m (2012 est.) |
+| **Malawi** | 0 cu m (2012 est.) |
+| **Malaysia** | 2.165 billion cu m (2012 est.) |
+| **Maldives** | 0 cu m (2012 est.) |
+| **Mali** | 0 cu m (2012 est.) |
+| **Malta** | 0 cu m (2013 est.) |
+| **Mauritania** | 0 cu m (2012 est.) |
+| **Mauritius** | 0 cu m (2012 est.) |
+| **Mexico** | 18.53 billion cu m (2013 est.) |
+| **Moldova** | 3.47 billion cu m |
+| | *note:* excludes Transnistria (2012 est.) |
+| **Mongolia** | 0 cu m (2012 est.) |
+| **Montenegro** | 0 cu m (2013 est.) |
+| **Montserrat** | 0 cu m (2012 est.) |
+| **Morocco** | 1.022 billion cu m (2012 est.) |
+| **Mozambique** | 0 cu m (2012 est.) |
+| **Namibia** | 0 cu m (2012 est.) |
+| **Nauru** | 0 cu m (2012 est.) |
+| **Nepal** | 0 cu m (2012 est.) |
+| **Netherlands** | 27.38 billion cu m (2014 est.) |
+| **New Caledonia** | 0 cu m (2012 est.) |
+| **New Zealand** | 0 cu m (2013 est.) |
+| **Nicaragua** | 0 cu m (2012 est.) |
+| **Nigeria** | 0 cu m (2012 est.) |
+| **Niger** | 0 cu m (2012 est.) |
+| **Niue** | 0 cu m (2012 est.) |
+| **Norway** | 2 million cu m (2013 est.) |
+| **Oman** | 1.836 billion cu m (2012 est.) |
+| **Pakistan** | 0 cu m (2012 est.) |
+| **Panama** | 0 cu m (2012 est.) |
+| **Papua New Guinea** | 0 cu m (2012 est.) |
+| **Paraguay** | 0 cu m (2012 est.) |
+| **Peru** | 0 cu m (2012 est.) |
+| **Philippines** | 0 cu m (2012 est.) |
+| **Poland** | 12.47 billion cu m (2013 est.) |
+| **Portugal** | 4.174 billion cu m (2013 est.) |
+| **Puerto Rico** | 1.36 billion cu m (2012 est.) |
+| **Qatar** | 0 cu m (2012 est.) |
+| **Romania** | 801 million cu m (2014 est.) |
+| **Russia** | 8.2 billion cu m (2013 est.) |
+| **Rwanda** | 0 cu m (2012 est.) |
+| **Saint Helena, Ascension, and Tristan da Cunha** | 0 cu m (2012 est.) |
+| **Saint Kitts and Nevis** | 0 cu m (2012 est.) |
+| **Saint Lucia** | 0 cu m (2012 est.) |
+| **Saint Pierre and Miquelon** | 0 cu m (2012 est.) |
+| **Saint Vincent and the Grenadines** | 0 cu m (2012 est.) |
+| **Samoa** | 0 cu m (2012 est.) |
+| **Sao Tome and Principe** | 0 cu m (2012 est.) |
+| **Saudi Arabia** | 0 cu m (2012 est.) |
+| **Senegal** | 0 cu m (2013 est.) |
+| **Serbia** | 1.629 billion cu m (2014 est.) |
+| **Seychelles** | 0 cu m (2012 est.) |
+| **Sierra Leone** | 0 cu m (2012 est.) |
+| **Singapore** | 9.38 billion cu m (2012 est.) |
+| **Slovakia** | 5.579 billion cu m (2013 est.) |
+| **Slovenia** | 847 million cu m (2013 est.) |
+| **Solomon Islands** | 0 cu m (2012 est.) |
+| **Somalia** | 0 cu m (2012 est.) |
+| **South Africa** | 3.45 billion cu m (2012 est.) |
+| **South Sudan** | 0 cu m (2011 est.) |
+| **Spain** | 34.99 billion cu m (2013 est.) |
+| **Sri Lanka** | 0 cu m (2012 est.) |
+| **Sudan** | 0 cu m (2011 est.) |
+| **Suriname** | 0 cu m (2012 est.) |
+| **Swaziland** | 0 cu m (2012 est.) |
+| **Sweden** | 1.086 billion cu m (2013 est.) |
+| **Switzerland** | 3.764 billion cu m (2013 est.) |
+| **Syria** | 250 million cu m (2011 est.) |
+| **Taiwan** | 17.69 billion cu m (2014 est.) |
+| **Tajikistan** | 188 million cu m (2012 est.) |
+| **Tanzania** | 0 cu m (2012 est.) |
+| **Thailand** | 9.574 billion cu m (2012 est.) |
+| **Timor-Leste** | 0 cu m (2012 est.) |
+| **Togo** | 0 cu m (2012 est.) |
+| **Tonga** | 0 cu m (2012 est.) |
+| **Trinidad and Tobago** | 0 cu m (2012 est.) |
+| **Tunisia** | 1.819 billion cu m (2012 est.) |
+| **Turkey** | 45.27 billion cu m (2013 est.) |
+| **Turkmenistan** | 0 cu m (2014 est.) |
+| **Turks and Caicos Islands** | 0 cu m (2012 est.) |
+| **Tuvalu** | 0 cu m (2014) |
+| **Uganda** | 0 cu m (2012 est.) |
+| **Ukraine** | 32.9 billion cu m (2012 est.) |
+| **United Arab Emirates** | 18.75 billion cu m (2012 est.) |
+| **United Kingdom** | 48.38 billion cu m (2013 est.) |
+| **United States** | 81.63 billion cu m (2013 est.) |
+| **Uruguay** | 60 million cu m (2012 est.) |
+| **Uzbekistan** | 0 cu m (2012 est.) |
+| **Vanuatu** | 0 cu m (2012 est.) |
+| **Venezuela** | 1.877 billion cu m (2012 est.) |
+| **Vietnam** | 890 million cu m (2012 est.) |
+| **Virgin Islands** | 0 cu m (2012 est.) |
+| **West Bank** | 0 cu m (2012 est.) |
+| **Western Sahara** | 0 cu m (2012 est.) |
+| **World** | 1.442 trillion cu m (2012 est.) |
+| **Yemen** | 0 cu m (2012 est.) |
+| **Zambia** | 0 cu m (2012 est.) |
+| **Zimbabwe** | 0 cu m (2012 est.) |

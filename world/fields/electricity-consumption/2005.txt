@@ -1,0 +1,237 @@
+CIA - The World Factbook -- Field Listing - Electricity - consumption
+
+| Country | Electricity - consumption (kWh) |
+| --- | --- |
+| **Afghanistan** | 652.2 million kWh (2002) |
+| **Albania** | 6.76 billion kWh (2004) |
+| **Algeria** | 23.61 billion kWh (2002) |
+| **American Samoa** | 120.9 million kWh (2002) |
+| **Andorra** | NA kWh |
+| **Angola** | 1.587 billion kWh (2002) |
+| **Anguilla** | 42.6 million kWh |
+| **Antigua and Barbuda** | 103 million kWh (2002) |
+| **Argentina** | 81.65 billion kWh (2002) |
+| **Armenia** | 5.797 billion kWh (2002) |
+| **Aruba** | 751.2 million kWh (2002) |
+| **Australia** | 195.6 billion kWh (2002) |
+| **Austria** | 55.09 billion kWh (2002) |
+| **Azerbaijan** | 17.37 billion kWh (2002) |
+| **Bahamas, The** | 1.596 billion kWh (2002) |
+| **Bahrain** | 6.379 billion kWh (2002) |
+| **Bangladesh** | 15.3 billion kWh (2002) |
+| **Barbados** | 744 million kWh (2002) |
+| **Belarus** | 34.3 billion kWh (2004) |
+| **Belgium** | 78.82 billion kWh (2002) |
+| **Belize** | 108.8 million kWh (2002) |
+| **Benin** | 565.2 million kWh (2002) |
+| **Bermuda** | 598 million kWh (2002) |
+| **Bhutan** | 312.9 million kWh (2002) |
+| **Bolivia** | 3.848 billion kWh (2002) |
+| **Bosnia and Herzegovina** | 8.318 billion kWh (2002) |
+| **Botswana** | 1.89 billion kWh (2002) |
+| **Brazil** | 351.9 billion kWh (2002) |
+| **British Indian Ocean Territory** | NA kWh |
+| **British Virgin Islands** | 33.74 million kWh (2002) |
+| **Brunei** | 2.286 billion kWh (2002) |
+| **Bulgaria** | 32.71 billion kWh (2002) |
+| **Burkina Faso** | 335.7 million kWh (2002) |
+| **Burma** | 3.484 billion kWh (2003) |
+| **Burundi** | 137.8 million kWh (2002) |
+| **Cambodia** | 100.6 million kWh (2002) |
+| **Cameroon** | 3.321 billion kWh (2002) |
+| **Canada** | 487.3 billion kWh (2002) |
+| **Cape Verde** | 40.06 million kWh (2002) |
+| **Cayman Islands** | 382.1 million kWh (2002) |
+| **Central African Republic** | 98.58 million kWh (2002) |
+| **Chad** | 89.4 million kWh (2002) |
+| **Chile** | 41.8 billion kWh (2002) |
+| **China** | 1.63 trillion kWh (2003) |
+| **Colombia** | 41.14 billion kWh (2002) |
+| **Comoros** | 22.17 million kWh (2002) |
+| **Congo, Democratic Republic of the** | 4.168 billion kWh (2002) |
+| **Congo, Republic of the** | 573.6 million kWh (2002) |
+| **Cook Islands** | 25.11 million kWh (2002) |
+| **Costa Rica** | 5.733 billion kWh (2002) |
+| **Cote d'Ivoire** | 2.976 billion kWh (2002) |
+| **Croatia** | 15.2 billion kWh (2002) |
+| **Cuba** | 13.4 billion kWh (2002) |
+| **Cyprus** | *Republic of Cyprus:* 3.663 billion kWh (2003); north Cyprus: 602 million kWh (2003) |
+| **Czech Republic** | 55.33 billion kWh (2002) |
+| **Denmark** | 31.63 billion kWh (2002) |
+| **Djibouti** | 167.4 million kWh (2002) |
+| **Dominica** | 63.62 million kWh (2002) |
+| **Dominican Republic** | 8.912 billion kWh (2002) |
+| **East Timor** | NA kWh (2002) |
+| **Ecuador** | 10.79 billion kWh (2002) |
+| **Egypt** | 75.58 billion kWh (2002) |
+| **El Salvador** | 4.45 billion kWh (2004) |
+| **Equatorial Guinea** | 24.82 million kWh (2002) |
+| **Eritrea** | 229.4 million kWh (2002) |
+| **Estonia** | 6.358 billion kWh (2002) |
+| **Ethiopia** | 1.998 billion kWh (2002) |
+| **European Union** | 2.661 trillion kWh (2002 est.) |
+| **Falkland Islands (Islas Malvinas)** | 17.72 million kWh (2002) |
+| **Faroe Islands** | 204.6 million kWh (2002) |
+| **Fiji** | 697.5 million kWh (2002) |
+| **Finland** | 78.58 billion kWh (2002) |
+| **France** | 414.7 billion kWh (2002) |
+| **French Guiana** | 427.9 million kWh (2002) |
+| **French Polynesia** | 353.4 million kWh (2002) |
+| **Gabon** | 1.08 billion kWh (2002) |
+| **Gambia, The** | 83.99 million kWh (2002) |
+| **Gaza Strip** | NA kWh |
+| **Georgia** | 6.811 billion kWh (2002) |
+| **Germany** | 519.5 billion kWh (2003) |
+| **Ghana** | 6.137 billion kWh (2002) |
+| **Gibraltar** | 96.76 million kWh (2002) |
+| **Greece** | 47.42 billion kWh (2002) |
+| **Greenland** | 227.9 million kWh (2002) |
+| **Grenada** | 138.6 million kWh (2002) |
+| **Guadeloupe** | 1.079 billion kWh (2002) |
+| **Guam** | 776.6 million kWh (2002) |
+| **Guatemala** | 5.76 billion kWh (2002) |
+| **Guernsey** | NA kWh |
+| **Guinea** | 795.2 million kWh (2002) |
+| **Guinea-Bissau** | 51.15 million kWh (2002) |
+| **Guyana** | 751.4 million kWh (2002) |
+| **Haiti** | 574.7 million kWh (2002) |
+| **Holy See (Vatican City)** | NA kWh |
+| **Honduras** | 3.771 billion kWh (2002) |
+| **Hong Kong** | 38.45 billion kWh (2003) |
+| **Hungary** | 35.99 billion kWh (2002) |
+| **Iceland** | 7.692 billion kWh (2002) |
+| **India** | 510.1 billion kWh (2002) |
+| **Indonesia** | 92.35 billion kWh (2003) |
+| **Iran** | 119.9 billion kWh (2002) |
+| **Iraq** | 33.7 billion kWh (2004) |
+| **Ireland** | 21.78 billion kWh (2002) |
+| **Israel** | 38.3 billion kWh (2002) |
+| **Italy** | 293.9 billion kWh (2002) |
+| **Jamaica** | 5.849 billion kWh (2002) |
+| **Japan** | 971 billion kWh (2002) |
+| **Jersey** | 630.1 million kWh (2004 est.) |
+| **Jordan** | 7.094 billion kWh (2002) |
+| **Kazakhstan** | 62.21 billion kWh (203) |
+| **Kenya** | 4.337 billion kWh (2002) |
+| **Kiribati** | 6.51 million kWh (2002) |
+| **Korea, North** | 31.26 billion kWh (2002) |
+| **Korea, South** | 293.6 billion kWh (2003) |
+| **Kuwait** | 30.16 billion kWh (2002) |
+| **Kyrgyzstan** | 10.21 billion kWh (2002) |
+| **Laos** | 3.036 billion kWh (2002) |
+| **Latvia** | 5.829 billion kWh (2002) |
+| **Lebanon** | 8.591 billion kWh (2002) |
+| **Lesotho** | 308 million kWh (2002) |
+| **Liberia** | 454.6 million kWh (2002) |
+| **Libya** | 19.43 billion kWh (2002) |
+| **Lithuania** | 10.17 billion kWh (2002) |
+| **Luxembourg** | 5.735 billion kWh (2002) |
+| **Macau** | 1.772 billion kWh (2003) |
+| **Macedonia** | 7.216 billion kWh (2003) |
+| **Madagascar** | 781.4 million kWh (2002) |
+| **Malawi** | 1.012 billion kWh (2002) |
+| **Malaysia** | 68.4 billion kWh (2002) |
+| **Maldives** | 115.7 million kWh (2002) |
+| **Mali** | 651 million kWh (2002) |
+| **Malta** | 2 billion kWh (2002) |
+| **Martinique** | 1.095 billion kWh (2002) |
+| **Mauritania** | 176.9 million kWh (2002) |
+| **Mauritius** | 1.707 billion kWh (2002) |
+| **Mayotte** | NA kWh |
+| **Mexico** | 189.7 billion kWh (2002) |
+| **Micronesia, Federated States of** | 178.6 million kWh (2002) |
+| **Moldova** | 4.605 billion kWh (2002) |
+| **Monaco** | NA kWh |
+| **Mongolia** | 2.209 billion kWh (2004 est.) |
+| **Montserrat** | 1.674 million kWh (2002) |
+| **Morocco** | 14.24 billion kWh (2002) |
+| **Mozambique** | 5.046 billion kWh (2002) |
+| **Namibia** | 1.92 billion kWh (2002) |
+| **Nauru** | 27.9 million kWh (2002) |
+| **Nepal** | 2.005 billion kWh (2002) |
+| **Netherlands** | 100.7 billion kWh (2002) |
+| **Netherlands Antilles** | 934.3 million kWh (2002) |
+| **New Caledonia** | 1.471 billion kWh (2002) |
+| **New Zealand** | 35.71 billion kWh (2002) |
+| **Nicaragua** | 2.318 billion kWh (2002) |
+| **Niger** | 327.6 million kWh (2002) |
+| **Nigeria** | 18.43 billion kWh (2002) |
+| **Niue** | 2.79 million kWh (2002) |
+| **Norfolk Island** | NA kWh |
+| **Northern Mariana Islands** | NA kWh |
+| **Norway** | 107.4 billion kWh (2002) |
+| **Oman** | 9.792 billion kWh (2003) |
+| **Pakistan** | 52.66 billion kWh (2003) |
+| **Panama** | 4.473 billion kWh (2002) |
+| **Papua New Guinea** | 1.561 billion kWh (2002) |
+| **Paraguay** | 2.469 billion kWh (2002) |
+| **Peru** | 20.22 billion kWh (2002) |
+| **Philippines** | 46.05 billion kWh (2003) |
+| **Pitcairn Islands** | NA kWh |
+| **Poland** | 117.4 billion kWh (2002) |
+| **Portugal** | 42.15 billion kWh (2002) |
+| **Puerto Rico** | 20.54 billion kWh (2002) |
+| **Qatar** | 9.046 billion kWh (2002) |
+| **Reunion** | 1.084 billion kWh (2002) |
+| **Romania** | 57.5 billion kWh (2003) |
+| **Russia** | 894.3 billion kWh (2003) |
+| **Rwanda** | 195 million kWh (2002) |
+| **Saint Helena** | 4.65 million kWh (2002) |
+| **Saint Kitts and Nevis** | 98.44 million kWh (2002) |
+| **Saint Lucia** | 251.3 million kWh (2002) |
+| **Saint Pierre and Miquelon** | 40.06 million kWh (2002) |
+| **Saint Vincent and the Grenadines** | 84.82 million kWh (2002) |
+| **Samoa** | 113.5 million kWh (2002) |
+| **Sao Tome and Principe** | 15.81 million kWh (2002) |
+| **Saudi Arabia** | 128.5 billion kWh (2002) |
+| **Senegal** | 1.615 billion kWh (2002) |
+| **Serbia and Montenegro** | 32.33 billion kWh (2002) |
+| **Seychelles** | 202.8 million kWh (2002) |
+| **Sierra Leone** | 237.4 million kWh (2002) |
+| **Singapore** | 32 billion kWh (2003) |
+| **Slovakia** | 28.89 billion kWh (2003) |
+| **Slovenia** | 11.8 billion kWh (2003) |
+| **Solomon Islands** | 29.76 million kWh (2002) |
+| **Somalia** | 223.5 million kWh (2002) |
+| **South Africa** | 189.4 billion kWh (2002) |
+| **Spain** | 218.4 billion kWh (2002) |
+| **Sri Lanka** | 6.228 billion kWh (2002) |
+| **Sudan** | 2.4 billion kWh (2002) |
+| **Suriname** | 1.845 billion kWh (2002) |
+| **Swaziland** | 1.173 billion kWh (2002) |
+| **Sweden** | 138.1 billion kWh (2002) |
+| **Switzerland** | 54.53 billion kWh (2002) |
+| **Syria** | 24.32 billion kWh (2002) |
+| **Taiwan** | 147.4 billion kWh (2002) |
+| **Tajikistan** | 14.41 billion kWh (2002) |
+| **Tanzania** | 2.566 billion kWh (2002) |
+| **Thailand** | 106.1 billion kWh (2003) |
+| **Togo** | 451.2 million kWh (2002) |
+| **Tokelau** | NA kWh |
+| **Tonga** | 23.06 million kWh (2002) |
+| **Trinidad and Tobago** | 5.341 billion kWh (2002) |
+| **Tunisia** | 10.05 billion kWh (2002) |
+| **Turkey** | 117.9 billion kWh (2002) |
+| **Turkmenistan** | 8.908 billion kWh (2002) |
+| **Turks and Caicos Islands** | 4.65 million kWh (2002) |
+| **Uganda** | 1.401 billion kWh (2002) |
+| **Ukraine** | 132 billion kWh (2003) |
+| **United Arab Emirates** | 36.51 billion kWh (2002) |
+| **United Kingdom** | 337.4 billion kWh (2003) |
+| **United States** | 3.66 trillion kWh (2002) |
+| **Uruguay** | 5.878 billion kWh (2003) |
+| **Uzbekistan** | 46.66 billion kWh (2002) |
+| **Vanuatu** | 45.03 million kWh (2002) |
+| **Venezuela** | 89.3 billion kWh (2003) |
+| **Vietnam** | 32.06 billion kWh (2002) |
+| **Virgin Islands** | 962.6 million kWh (2002) |
+| **Wallis and Futuna** | NA kWh |
+| **West Bank** | NA kWh |
+| **Western Sahara** | 83.7 million kWh (2002) |
+| **World** | 14.28 trillion kWh (2002 est.) |
+| **Yemen** | 2.827 billion kWh (2002 est.) |
+| **Zambia** | 5.345 billion kWh (2002) |
+| **Zimbabwe** | 11.22 billion kWh (2002) |
+
+This page was last updated on 20 October, 2005
+ 

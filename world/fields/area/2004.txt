@@ -1,0 +1,858 @@
+CIA - The World Factbook -- Field Listing - Area
+
+| Country | Area (sq km) |
+| --- | --- |
+| **Afghanistan** | *total:* 647,500 sq km |
+| | *land:* 647,500 sq km |
+| | *water:* 0 sq km |
+| **Akrotiri** | *total:* 123 sq km |
+| | *note:* includes a salt lake and wetlands |
+| **Albania** | *total:* 28,748 sq km |
+| | *land:* 27,398 sq km |
+| | *water:* 1,350 sq km |
+| **Algeria** | *total:* 2,381,740 sq km |
+| | *land:* 2,381,740 sq km |
+| | *water:* 0 sq km |
+| **American Samoa** | *total:* 199 sq km |
+| | *land:* 199 sq km |
+| | *water:* 0 sq km |
+| | *note:* includes Rose Island and Swains Island |
+| **Andorra** | *total:* 468 sq km |
+| | *land:* 468 sq km |
+| | *water:* 0 sq km |
+| **Angola** | *total:* 1,246,700 sq km |
+| | *land:* 1,246,700 sq km |
+| | *water:* 0 sq km |
+| **Anguilla** | *total:* 102 sq km |
+| | *land:* 102 sq km |
+| | *water:* 0 sq km |
+| **Antarctica** | *total:* 14 million sq km |
+| | *land:* 14 million sq km (280,000 sq km ice-free, 13.72 million sq km ice-covered) (est.) |
+| | *note:* fifth-largest continent, following Asia, Africa, North America, and South America, but larger than Australia and the subcontinent of Europe |
+| **Antigua and Barbuda** | *total:* 443 sq km (Antigua 280 sq km; Barbuda 161 sq km) |
+| | *land:* 443 sq km |
+| | *water:* 0 sq km |
+| | *note:* includes Redonda, 1.6 sq km |
+| **Arctic Ocean** | *total:* 14.056 million sq km |
+| | *note:* includes Baffin Bay, Barents Sea, Beaufort Sea, Chukchi Sea, East Siberian Sea, Greenland Sea, Hudson Bay, Hudson Strait, Kara Sea, Laptev Sea, Northwest Passage, and other tributary water bodies |
+| **Argentina** | *total:* 2,766,890 sq km |
+| | *land:* 2,736,690 sq km |
+| | *water:* 30,200 sq km |
+| **Armenia** | *total:* 29,800 sq km |
+| | *land:* 28,400 sq km |
+| | *water:* 1,400 sq km |
+| **Aruba** | *total:* 193 sq km |
+| | *land:* 193 sq km |
+| | *water:* 0 sq km |
+| **Ashmore and Cartier Islands** | *total:* 5 sq km |
+| | *land:* 5 sq km |
+| | *water:* 0 sq km |
+| | *note:* includes Ashmore Reef (West, Middle, and East Islets) and Cartier Island |
+| **Atlantic Ocean** | *total:* 76.762 million sq km |
+| | *note:* includes Baltic Sea, Black Sea, Caribbean Sea, Davis Strait, Denmark Strait, part of the Drake Passage, Gulf of Mexico, Labrador Sea, Mediterranean Sea, North Sea, Norwegian Sea, almost all of the Scotia Sea, and other tributary water bodies |
+| **Australia** | *total:* 7,686,850 sq km |
+| | *land:* 7,617,930 sq km |
+| | *water:* 68,920 sq km |
+| | *note:* includes Lord Howe Island and Macquarie Island |
+| **Austria** | *total:* 83,870 sq km |
+| | *land:* 82,444 sq km |
+| | *water:* 1,426 sq km |
+| **Azerbaijan** | *total:* 86,600 sq km |
+| | *land:* 86,100 sq km |
+| | *water:* 500 sq km |
+| | *note:* includes the exclave of Naxcivan Autonomous Republic and the Nagorno-Karabakh region; the region's autonomy was abolished by Azerbaijani Supreme Soviet on 26 November 1991 |
+| **Bahamas, The** | *total:* 13,940 sq km |
+| | *land:* 10,070 sq km |
+| | *water:* 3,870 sq km |
+| **Bahrain** | *total:* 665 sq km |
+| | *land:* 665 sq km |
+| | *water:* 0 sq km |
+| **Baker Island** | *total:* 1.4 sq km |
+| | *land:* 1.4 sq km |
+| | *water:* 0 sq km |
+| **Bangladesh** | *total:* 144,000 sq km |
+| | *land:* 133,910 sq km |
+| | *water:* 10,090 sq km |
+| **Barbados** | *total:* 431 sq km |
+| | *land:* 431 sq km |
+| | *water:* 0 sq km |
+| **Bassas da India** | *total:* 0.2 sq km |
+| | *land:* 0.2 sq km |
+| | *water:* 0 sq km |
+| **Belarus** | *total:* 207,600 sq km |
+| | *land:* 207,600 sq km |
+| | *water:* 0 sq km |
+| **Belgium** | *total:* 30,528 sq km |
+| | *land:* 30,278 sq km |
+| | *water:* 250 sq km |
+| **Belize** | *total:* 22,966 sq km |
+| | *land:* 22,806 sq km |
+| | *water:* 160 sq km |
+| **Benin** | *total:* 112,620 sq km |
+| | *land:* 110,620 sq km |
+| | *water:* 2,000 sq km |
+| **Bermuda** | *total:* 53.3 sq km |
+| | *land:* 53.3 sq km |
+| | *water:* 0 sq km |
+| **Bhutan** | *total:* 47,000 sq km |
+| | *land:* 47,000 sq km |
+| | *water:* 0 sq km |
+| **Bolivia** | *total:* 1,098,580 sq km |
+| | *land:* 1,084,390 sq km |
+| | *water:* 14,190 sq km |
+| **Bosnia and Herzegovina** | *total:* 51,129 sq km |
+| | *land:* 51,129 sq km |
+| | *water:* 0 sq km |
+| **Botswana** | *total:* 600,370 sq km |
+| | *land:* 585,370 sq km |
+| | *water:* 15,000 sq km |
+| **Bouvet Island** | *total:* 58.5 sq km |
+| | *land:* 58.5 sq km |
+| | *water:* 0 sq km |
+| **Brazil** | *total:* 8,511,965 sq km |
+| | *land:* 8,456,510 sq km |
+| | *water:* 55,455 sq km |
+| | *note:* includes Arquipelago de Fernando de Noronha, Atol das Rocas, Ilha da Trindade, Ilhas Martin Vaz, and Penedos de Sao Pedro e Sao Paulo |
+| **British Indian Ocean Territory** | *total:* 60 sq km |
+| | *land:* 60 sq km |
+| | *water:* 0 sq km |
+| | *note:* includes the entire Chagos Archipelago |
+| **British Virgin Islands** | *total:* 153 sq km |
+| | *land:* 153 sq km |
+| | *water:* 0 sq km |
+| | *note:* comprised of 16 inhabited and more than 20 uninhabited islands; includes the island of Anegada |
+| **Brunei** | *total:* 5,770 sq km |
+| | *land:* 5,270 sq km |
+| | *water:* 500 sq km |
+| **Bulgaria** | *total:* 110,910 sq km |
+| | *land:* 110,550 sq km |
+| | *water:* 360 sq km |
+| **Burkina Faso** | *total:* 274,200 sq km |
+| | *land:* 273,800 sq km |
+| | *water:* 400 sq km |
+| **Burma** | *total:* 678,500 sq km |
+| | *land:* 657,740 sq km |
+| | *water:* 20,760 sq km |
+| **Burundi** | *total:* 27,830 sq km |
+| | *land:* 25,650 sq km |
+| | *water:* 2,180 sq km |
+| **Cambodia** | *total:* 181,040 sq km |
+| | *land:* 176,520 sq km |
+| | *water:* 4,520 sq km |
+| **Cameroon** | *total:* 475,440 sq km |
+| | *land:* 469,440 sq km |
+| | *water:* 6,000 sq km |
+| **Canada** | *total:* 9,984,670 sq km |
+| | *land:* 9,093,507 sq km |
+| | *water:* 891,163 sq km |
+| **Cape Verde** | *total:* 4,033 sq km |
+| | *land:* 4,033 sq km |
+| | *water:* 0 sq km |
+| **Cayman Islands** | *total:* 262 sq km |
+| | *land:* 262 sq km |
+| | *water:* 0 sq km |
+| **Central African Republic** | *total:* 622,984 sq km |
+| | *land:* 622,984 sq km |
+| | *water:* 0 sq km |
+| **Chad** | *total:* 1.284 million sq km |
+| | *land:* 1,259,200 sq km |
+| | *water:* 24,800 sq km |
+| **Chile** | *total:* 756,950 sq km |
+| | *land:* 748,800 sq km |
+| | *water:* 8,150 sq km |
+| | *note:* includes Easter Island (Isla de Pascua) and Isla Sala y Gomez |
+| **China** | *total:* 9,596,960 sq km |
+| | *land:* 9,326,410 sq km |
+| | *water:* 270,550 sq km |
+| **Christmas Island** | *total:* 135 sq km |
+| | *land:* 135 sq km |
+| | *water:* 0 sq km |
+| **Clipperton Island** | *total:* 6 sq km |
+| | *land:* 6 sq km |
+| | *water:* 0 sq km |
+| **Cocos (Keeling) Islands** | *total:* 14 sq km |
+| | *land:* 14 sq km |
+| | *water:* 0 sq km |
+| | *note:* includes the two main islands of West Island and Home Island |
+| **Colombia** | *total:* 1,138,910 sq km |
+| | *land:* 1,038,700 sq km |
+| | *water:* 100,210 sq km |
+| | *note:* includes Isla de Malpelo, Roncador Cay, Serrana Bank, and Serranilla Bank |
+| **Comoros** | *total:* 2,170 sq km |
+| | *land:* 2,170 sq km |
+| | *water:* 0 sq km |
+| **Congo, Democratic Republic of the** | *total:* 2,345,410 sq km |
+| | *land:* 2,267,600 sq km |
+| | *water:* 77,810 sq km |
+| **Congo, Republic of the** | *total:* 342,000 sq km |
+| | *land:* 341,500 sq km |
+| | *water:* 500 sq km |
+| **Cook Islands** | *total:* 240 sq km |
+| | *land:* 240 sq km |
+| | *water:* 0 sq km |
+| **Coral Sea Islands** | *total:* less than 3 sq km |
+| | *land:* less than 3 sq km |
+| | *water:* 0 sq km |
+| | *note:* includes numerous small islands and reefs scattered over a sea area of about 780,000 sq km, with the Willis Islets the most important |
+| **Costa Rica** | *total:* 51,100 sq km |
+| | *land:* 50,660 sq km |
+| | *water:* 440 sq km |
+| | *note:* includes Isla del Coco |
+| **Cote d'Ivoire** | *total:* 322,460 sq km |
+| | *land:* 318,000 sq km |
+| | *water:* 4,460 sq km |
+| **Croatia** | *total:* 56,542 sq km |
+| | *land:* 56,414 sq km |
+| | *water:* 128 sq km |
+| **Cuba** | *total:* 110,860 sq km |
+| | *land:* 110,860 sq km |
+| | *water:* 0 sq km |
+| **Cyprus** | *total:* 9,250 sq km (of which 3,355 sq km are in north Cyprus) |
+| | *land:* 9,240 sq km |
+| | *water:* 10 sq km |
+| **Czech Republic** | *total:* 78,866 sq km |
+| | *land:* 77,276 sq km |
+| | *water:* 1,590 sq km |
+| **Denmark** | *total:* 43,094 sq km |
+| | *land:* 42,394 sq km |
+| | *water:* 700 sq km |
+| | *note:* includes the island of Bornholm in the Baltic Sea and the rest of metropolitan Denmark (the Jutland Peninsula, and the major islands of Sjaelland and Fyn), but excludes the Faroe Islands and Greenland |
+| **Dhekelia** | *total:* 130.8 sq km |
+| | *note:* area surrounds three Cypriot enclaves |
+| **Djibouti** | *total:* 23,000 sq km |
+| | *land:* 22,980 sq km |
+| | *water:* 20 sq km |
+| **Dominica** | *total:* 754 sq km |
+| | *land:* 754 sq km |
+| | *water:* 0 sq km |
+| **Dominican Republic** | *total:* 48,730 sq km |
+| | *land:* 48,380 sq km |
+| | *water:* 350 sq km |
+| **East Timor** | *total:* 15,007 sq km |
+| | *land:* NA sq km |
+| | *water:* NA sq km |
+| **Ecuador** | *total:* 283,560 sq km |
+| | *land:* 276,840 sq km |
+| | *water:* 6,720 sq km |
+| | *note:* includes Galapagos Islands |
+| **Egypt** | *total:* 1,001,450 sq km |
+| | *land:* 995,450 sq km |
+| | *water:* 6,000 sq km |
+| **El Salvador** | *total:* 21,040 sq km |
+| | *land:* 20,720 sq km |
+| | *water:* 320 sq km |
+| **Equatorial Guinea** | *total:* 28,051 sq km |
+| | *land:* 28,051 sq km |
+| | *water:* 0 sq km |
+| **Eritrea** | *total:* 121,320 sq km |
+| | *land:* 121,320 sq km |
+| | *water:* 0 sq km |
+| **Estonia** | *total:* 45,226 sq km |
+| | *land:* 43,211 sq km |
+| | *water:* 2,015 sq km |
+| | *note:* includes 1,520 islands in the Baltic Sea |
+| **Ethiopia** | *total:* 1,127,127 sq km |
+| | *land:* 1,119,683 sq km |
+| | *water:* 7,444 sq km |
+| **Europa Island** | *total:* 28 sq km |
+| | *land:* 28 sq km |
+| | *water:* 0 sq km |
+| **European Union** | *total:* 3,976,372 sq km |
+| **Falkland Islands (Islas Malvinas)** | *total:* 12,173 sq km |
+| | *land:* 12,173 sq km |
+| | *water:* 0 sq km |
+| | *note:* includes the two main islands of East and West Falkland and about 200 small islands |
+| **Faroe Islands** | *total:* 1,399 sq km |
+| | *land:* 1,399 sq km |
+| | *water:* 0 sq km (some lakes and streams) |
+| **Fiji** | *total:* 18,270 sq km |
+| | *land:* 18,270 sq km |
+| | *water:* 0 sq km |
+| **Finland** | *total:* 338,145 sq km |
+| | *land:* 304,473 sq km |
+| | *water:* 33,672 sq km |
+| **France** | *total:* 547,030 sq km |
+| | *land:* 545,630 sq km |
+| | *water:* 1,400 sq km |
+| | *note:* includes only metropolitan France; excludes the overseas administrative divisions |
+| **French Guiana** | *total:* 91,000 sq km |
+| | *land:* 89,150 sq km |
+| | *water:* 1,850 sq km |
+| **French Polynesia** | *total:* 4,167 sq km (118 islands and atolls) |
+| | *land:* 3,660 sq km |
+| | *water:* 507 sq km |
+| **French Southern and Antarctic Lands** | *total:* 7,829 sq km |
+| | *land:* 7,829 sq km |
+| | *water:* 0 sq km |
+| | *note:* includes Ile Amsterdam, Ile Saint-Paul, Iles Crozet and Iles Kerguelen; excludes "Adelie Land" claim of about 500,000 sq km in Antarctica that is not recognized by the US |
+| **Gabon** | *total:* 267,667 sq km |
+| | *land:* 257,667 sq km |
+| | *water:* 10,000 sq km |
+| **Gambia, The** | *total:* 11,300 sq km |
+| | *land:* 10,000 sq km |
+| | *water:* 1,300 sq km |
+| **Gaza Strip** | *total:* 360 sq km |
+| | *land:* 360 sq km |
+| | *water:* 0 sq km |
+| **Georgia** | *total:* 69,700 sq km |
+| | *land:* 69,700 sq km |
+| | *water:* 0 sq km |
+| **Germany** | *total:* 357,021 sq km |
+| | *land:* 349,223 sq km |
+| | *water:* 7,798 sq km |
+| **Ghana** | *total:* 239,460 sq km |
+| | *land:* 230,940 sq km |
+| | *water:* 8,520 sq km |
+| **Gibraltar** | *total:* 6.5 sq km |
+| | *land:* 6.5 sq km |
+| | *water:* 0 sq km |
+| **Glorioso Islands** | *total:* 5 sq km |
+| | *land:* 5 sq km |
+| | *water:* 0 sq km |
+| | *note:* includes Ile Glorieuse, Ile du Lys, Verte Rocks, Wreck Rock, and South Rock |
+| **Greece** | *total:* 131,940 sq km |
+| | *land:* 130,800 sq km |
+| | *water:* 1,140 sq km |
+| **Greenland** | *total:* 2,166,086 sq km |
+| | *land:* 2,166,086 sq km (410,449 sq km ice-free, 1,755,637 sq km ice-covered) (2000 est.) |
+| **Grenada** | *total:* 344 sq km |
+| | *land:* 344 sq km |
+| | *water:* 0 sq km |
+| **Guadeloupe** | *total:* 1,780 sq km |
+| | *land:* 1,706 sq km |
+| | *water:* 74 sq km |
+| | *note:* Guadeloupe is an archipelago of nine inhabited islands, including Basse-Terre, Grande-Terre, Marie-Galante, La Desirade, Iles des Saintes (2), Saint-Barthelemy, Iles de la Petite Terre, and Saint-Martin (French part of the island of Saint Martin) |
+| **Guam** | *total:* 549 sq km |
+| | *land:* 549 sq km |
+| | *water:* 0 sq km |
+| **Guatemala** | *total:* 108,890 sq km |
+| | *land:* 108,430 sq km |
+| | *water:* 460 sq km |
+| **Guernsey** | *total:* 78 sq km |
+| | *land:* 78 sq km |
+| | *water:* 0 sq km |
+| | *note:* includes Alderney, Guernsey, Herm, Sark, and some other smaller islands |
+| **Guinea** | *total:* 245,857 sq km |
+| | *land:* 245,857 sq km |
+| | *water:* 0 sq km |
+| **Guinea-Bissau** | *total:* 36,120 sq km |
+| | *land:* 28,000 sq km |
+| | *water:* 8,120 sq km |
+| **Guyana** | *total:* 214,970 sq km |
+| | *land:* 196,850 sq km |
+| | *water:* 18,120 sq km |
+| **Haiti** | *total:* 27,750 sq km |
+| | *land:* 27,560 sq km |
+| | *water:* 190 sq km |
+| **Heard Island and McDonald Islands** | *total:* 412 sq km |
+| | *land:* 412 sq km |
+| | *water:* 0 sq km |
+| **Holy See (Vatican City)** | *total:* 0.44 sq km |
+| | *land:* 0.44 sq km |
+| | *water:* 0 sq km |
+| **Honduras** | *total:* 112,090 sq km |
+| | *land:* 111,890 sq km |
+| | *water:* 200 sq km |
+| **Hong Kong** | *total:* 1,092 sq km |
+| | *land:* 1,042 sq km |
+| | *water:* 50 sq km |
+| **Howland Island** | *total:* 1.6 sq km |
+| | *land:* 1.6 sq km |
+| | *water:* 0 sq km |
+| **Hungary** | *total:* 93,030 sq km |
+| | *land:* 92,340 sq km |
+| | *water:* 690 sq km |
+| **Iceland** | *total:* 103,000 sq km |
+| | *land:* 100,250 sq km |
+| | *water:* 2,750 sq km |
+| **India** | *total:* 3,287,590 sq km |
+| | *land:* 2,973,190 sq km |
+| | *water:* 314,400 sq km |
+| **Indian Ocean** | *total:* 68.556 million sq km |
+| | *note:* includes Andaman Sea, Arabian Sea, Bay of Bengal, Flores Sea, Great Australian Bight, Gulf of Aden, Gulf of Oman, Java Sea, Mozambique Channel, Persian Gulf, Red Sea, Savu Sea, Strait of Malacca, Timor Sea, and other tributary water bodies |
+| **Indonesia** | *total:* 1,919,440 sq km |
+| | *land:* 1,826,440 sq km |
+| | *water:* 93,000 sq km |
+| **Iran** | *total:* 1.648 million sq km |
+| | *land:* 1.636 million sq km |
+| | *water:* 12,000 sq km |
+| **Iraq** | *total:* 437,072 sq km |
+| | *land:* 432,162 sq km |
+| | *water:* 4,910 sq km |
+| **Ireland** | *total:* 70,280 sq km |
+| | *land:* 68,890 sq km |
+| | *water:* 1,390 sq km |
+| **Israel** | *total:* 20,770 sq km |
+| | *land:* 20,330 sq km |
+| | *water:* 440 sq km |
+| **Italy** | *total:* 301,230 sq km |
+| | *land:* 294,020 sq km |
+| | *water:* 7,210 sq km |
+| | *note:* includes Sardinia and Sicily |
+| **Jamaica** | *total:* 10,991 sq km |
+| | *land:* 10,831 sq km |
+| | *water:* 160 sq km |
+| **Jan Mayen** | *total:* 373 sq km |
+| | *land:* 373 sq km |
+| | *water:* 0 sq km |
+| **Japan** | *total:* 377,835 sq km |
+| | *land:* 374,744 sq km |
+| | *water:* 3,091 sq km |
+| | *note:* includes Bonin Islands (Ogasawara-gunto), Daito-shoto, Minami-jima, Okino-tori-shima, Ryukyu Islands (Nansei-shoto), and Volcano Islands (Kazan-retto) |
+| **Jarvis Island** | *total:* 4.5 sq km |
+| | *land:* 4.5 sq km |
+| | *water:* 0 sq km |
+| **Jersey** | *total:* 116 sq km |
+| | *land:* 116 sq km |
+| | *water:* 0 sq km |
+| **Johnston Atoll** | *total:* 2.8 sq km |
+| | *land:* 2.8 sq km |
+| | *water:* 0 sq km |
+| **Jordan** | *total:* 92,300 sq km |
+| | *land:* 91,971 sq km |
+| | *water:* 329 sq km |
+| **Juan de Nova Island** | *total:* 4.4 sq km |
+| | *land:* 4.4 sq km |
+| | *water:* 0 sq km |
+| **Kazakhstan** | *total:* 2,717,300 sq km |
+| | *land:* 2,669,800 sq km |
+| | *water:* 47,500 sq km |
+| **Kenya** | *total:* 582,650 sq km |
+| | *land:* 569,250 sq km |
+| | *water:* 13,400 sq km |
+| **Kingman Reef** | *total:* 1 sq km |
+| | *land:* 1 sq km |
+| | *water:* 0 sq km |
+| **Kiribati** | *total:* 811 sq km |
+| | *land:* 811 sq km |
+| | *water:* 0 sq km |
+| | *note:* includes three island groups - Gilbert Islands, Line Islands, Phoenix Islands |
+| **Korea, North** | *total:* 120,540 sq km |
+| | *land:* 120,410 sq km |
+| | *water:* 130 sq km |
+| **Korea, South** | *total:* 98,480 sq km |
+| | *land:* 98,190 sq km |
+| | *water:* 290 sq km |
+| **Kuwait** | *total:* 17,820 sq km |
+| | *land:* 17,820 sq km |
+| | *water:* 0 sq km |
+| **Kyrgyzstan** | *total:* 198,500 sq km |
+| | *land:* 191,300 sq km |
+| | *water:* 7,200 sq km |
+| **Laos** | *total:* 236,800 sq km |
+| | *land:* 230,800 sq km |
+| | *water:* 6,000 sq km |
+| **Latvia** | *total:* 64,589 sq km |
+| | *land:* 63,589 sq km |
+| | *water:* 1,000 sq km |
+| **Lebanon** | *total:* 10,400 sq km |
+| | *land:* 10,230 sq km |
+| | *water:* 170 sq km |
+| **Lesotho** | *total:* 30,355 sq km |
+| | *land:* 30,355 sq km |
+| | *water:* 0 sq km |
+| **Liberia** | *total:* 111,370 sq km |
+| | *land:* 96,320 sq km |
+| | *water:* 15,050 sq km |
+| **Libya** | *total:* 1,759,540 sq km |
+| | *land:* 1,759,540 sq km |
+| | *water:* 0 sq km |
+| **Liechtenstein** | *total:* 160 sq km |
+| | *land:* 160 sq km |
+| | *water:* 0 sq km |
+| **Lithuania** | *total:* 65,200 sq km |
+| | *land:* NA sq km |
+| | *water:* NA sq km |
+| **Luxembourg** | *total:* 2,586 sq km |
+| | *land:* 2,586 sq km |
+| | *water:* 0 sq km |
+| **Macau** | *total:* 25.4 sq km |
+| | *land:* 25.4 sq km |
+| | *water:* 0 sq km |
+| **Macedonia** | *total:* 25,333 sq km |
+| | *land:* 24,856 sq km |
+| | *water:* 477 sq km |
+| **Madagascar** | *total:* 587,040 sq km |
+| | *land:* 581,540 sq km |
+| | *water:* 5,500 sq km |
+| **Malawi** | *total:* 118,480 sq km |
+| | *land:* 94,080 sq km |
+| | *water:* 24,400 sq km |
+| **Malaysia** | *total:* 329,750 sq km |
+| | *land:* 328,550 sq km |
+| | *water:* 1,200 sq km |
+| **Maldives** | *total:* 300 sq km |
+| | *land:* 300 sq km |
+| | *water:* 0 sq km |
+| **Mali** | *total:* 1.24 million sq km |
+| | *land:* 1.22 million sq km |
+| | *water:* 20,000 sq km |
+| **Malta** | *total:* 316 sq km |
+| | *land:* 316 sq km |
+| | *water:* 0 sq km |
+| **Man, Isle of** | *total:* 572 sq km |
+| | *land:* 572 sq km |
+| | *water:* 0 sq km |
+| **Marshall Islands** | *total:* 181.3 sq km |
+| | *land:* 181.3 sq km |
+| | *water:* 0 sq km |
+| | *note:* includes the atolls of Bikini, Enewetak, Kwajalein, Majuro, Rongelap, and Utirik |
+| **Martinique** | *total:* 1,100 sq km |
+| | *land:* 1,060 sq km |
+| | *water:* 40 sq km |
+| **Mauritania** | *total:* 1,030,700 sq km |
+| | *land:* 1,030,400 sq km |
+| | *water:* 300 sq km |
+| **Mauritius** | *total:* 2,040 sq km |
+| | *land:* 2,030 sq km |
+| | *water:* 10 sq km |
+| | *note:* includes Agalega Islands, Cargados Carajos Shoals (Saint Brandon), and Rodrigues |
+| **Mayotte** | *total:* 374 sq km |
+| | *land:* 374 sq km |
+| | *water:* 0 sq km |
+| **Mexico** | *total:* 1,972,550 sq km |
+| | *land:* 1,923,040 sq km |
+| | *water:* 49,510 sq km |
+| **Micronesia, Federated States of** | *total:* 702 sq km |
+| | *land:* 702 sq km |
+| | *water:* 0 sq km (fresh water only) |
+| | *note:* includes Pohnpei (Ponape), Chuuk (Truk) Islands, Yap Islands, and Kosrae (Kosaie) |
+| **Midway Islands** | *total:* 6.2 sq km |
+| | *land:* 6.2 sq km |
+| | *water:* 0 sq km |
+| | *note:* includes Eastern Island, Sand Island, and Spit Island |
+| **Moldova** | *total:* 33,843 sq km |
+| | *land:* 33,371 sq km |
+| | *water:* 472 sq km |
+| **Monaco** | *total:* 1.95 sq km |
+| | *land:* 1.95 sq km |
+| | *water:* 0 sq km |
+| **Mongolia** | *total:* 1,564,116 sq km |
+| **Montserrat** | *total:* 102 sq km |
+| | *land:* 102 sq km |
+| | *water:* 0 sq km |
+| **Morocco** | *total:* 446,550 sq km |
+| | *land:* 446,300 sq km |
+| | *water:* 250 sq km |
+| **Mozambique** | *total:* 801,590 sq km |
+| | *land:* 784,090 sq km |
+| | *water:* 17,500 sq km |
+| **Namibia** | *total:* 825,418 sq km |
+| | *land:* 825,418 sq km |
+| | *water:* 0 sq km |
+| **Nauru** | *total:* 21 sq km |
+| | *land:* 21 sq km |
+| | *water:* 0 sq km |
+| **Navassa Island** | *total:* 5.4 sq km |
+| | *land:* 5.4 sq km |
+| | *water:* 0 sq km |
+| **Nepal** | *total:* 140,800 sq km |
+| | *land:* 136,800 sq km |
+| | *water:* 4,000 sq km |
+| **Netherlands** | *total:* 41,526 sq km |
+| | *land:* 33,883 sq km |
+| | *water:* 7,643 sq km |
+| **Netherlands Antilles** | *total:* 960 sq km |
+| | *land:* 960 sq km |
+| | *water:* 0 sq km |
+| | *note:* includes Bonaire, Curacao, Saba, Sint Eustatius, and Sint Maarten (Dutch part of the island of Saint Martin) |
+| **New Caledonia** | *total:* 19,060 sq km |
+| | *land:* 18,575 sq km |
+| | *water:* 485 sq km |
+| **New Zealand** | *total:* 268,680 sq km |
+| | *land:* NA sq km |
+| | *water:* NA sq km |
+| | *note:* includes Antipodes Islands, Auckland Islands, Bounty Islands, Campbell Island, Chatham Islands, and Kermadec Islands |
+| **Nicaragua** | *total:* 129,494 sq km |
+| | *land:* 120,254 sq km |
+| | *water:* 9,240 sq km |
+| **Niger** | *total:* 1.267 million sq km |
+| | *land:* 1,266,700 sq km |
+| | *water:* 300 sq km |
+| **Nigeria** | *total:* 923,768 sq km |
+| | *land:* 910,768 sq km |
+| | *water:* 13,000 sq km |
+| **Niue** | *total:* 260 sq km |
+| | *land:* 260 sq km |
+| | *water:* 0 sq km |
+| **Norfolk Island** | *total:* 34.6 sq km |
+| | *land:* 34.6 sq km |
+| | *water:* 0 sq km |
+| **Northern Mariana Islands** | *total:* 477 sq km |
+| | *land:* 477 sq km |
+| | *water:* 0 sq km |
+| | *note:* includes 14 islands including Saipan, Rota, and Tinian |
+| **Norway** | *total:* 324,220 sq km |
+| | *land:* 307,860 sq km |
+| | *water:* 16,360 sq km |
+| **Oman** | *total:* 212,460 sq km |
+| | *land:* 212,460 sq km |
+| | *water:* 0 sq km |
+| **Pacific Ocean** | *total:* 155.557 million sq km |
+| | *note:* includes Bali Sea, Bering Sea, Bering Strait, Coral Sea, East China Sea, Gulf of Alaska, Gulf of Tonkin, Philippine Sea, Sea of Japan, Sea of Okhotsk, South China Sea, Tasman Sea, and other tributary water bodies |
+| **Pakistan** | *total:* 803,940 sq km |
+| | *land:* 778,720 sq km |
+| | *water:* 25,220 sq km |
+| **Palau** | *total:* 458 sq km |
+| | *land:* 458 sq km |
+| | *water:* 0 sq km |
+| **Palmyra Atoll** | *total:* 11.9 sq km |
+| | *land:* 11.9 sq km |
+| | *water:* 0 sq km |
+| **Panama** | *total:* 78,200 sq km |
+| | *land:* 75,990 sq km |
+| | *water:* 2,210 sq km |
+| **Papua New Guinea** | *total:* 462,840 sq km |
+| | *land:* 452,860 sq km |
+| | *water:* 9,980 sq km |
+| **Paracel Islands** | *total:* NA sq km |
+| | *land:* NA sq km |
+| | *water:* 0 sq km |
+| **Paraguay** | *total:* 406,750 sq km |
+| | *land:* 397,300 sq km |
+| | *water:* 9,450 sq km |
+| **Peru** | *total:* 1,285,220 sq km |
+| | *land:* 1.28 million sq km |
+| | *water:* 5,220 sq km |
+| **Philippines** | *total:* 300,000 sq km |
+| | *land:* 298,170 sq km |
+| | *water:* 1,830 sq km |
+| **Pitcairn Islands** | *total:* 47 sq km |
+| | *land:* 47 sq km |
+| | *water:* 0 sq km |
+| **Poland** | *total:* 312,685 sq km |
+| | *land:* 304,465 sq km |
+| | *water:* 8,220 sq km |
+| **Portugal** | *total:* 92,391 sq km |
+| | *land:* 91,951 sq km |
+| | *water:* 440 sq km |
+| | *note:* includes Azores and Madeira Islands |
+| **Puerto Rico** | *total:* 9,104 sq km |
+| | *land:* 8,959 sq km |
+| | *water:* 145 sq km |
+| **Qatar** | *total:* 11,437 sq km |
+| | *land:* 11,437 sq km |
+| | *water:* 0 sq km |
+| **Reunion** | *total:* 2,517 sq km |
+| | *land:* 2,507 sq km |
+| | *water:* 10 sq km |
+| **Romania** | *total:* 237,500 sq km |
+| | *land:* 230,340 sq km |
+| | *water:* 7,160 sq km |
+| **Russia** | *total:* 17,075,200 sq km |
+| | *land:* 16,995,800 sq km |
+| | *water:* 79,400 sq km |
+| **Rwanda** | *total:* 26,338 sq km |
+| | *land:* 24,948 sq km |
+| | *water:* 1,390 sq km |
+| **Saint Helena** | *total:* 410 sq km |
+| | *land:* 410 sq km |
+| | *water:* 0 sq km |
+| | *note:* includes Saint Helena Island, Ascension, and the island group of Tristan da Cunha, which consists of Tristan da Cunha Island, Gough Island, Inaccessible Island, and the three Nightingale Islands |
+| **Saint Kitts and Nevis** | *total:* 261 sq km (Saint Kitts 168 sq km; Nevis 93 sq km) |
+| | *land:* 261 sq km |
+| | *water:* 0 sq km |
+| **Saint Lucia** | *total:* 616 sq km |
+| | *land:* 606 sq km |
+| | *water:* 10 sq km |
+| **Saint Pierre and Miquelon** | *total:* 242 sq km |
+| | *land:* 242 sq km |
+| | *water:* 0 sq km |
+| | *note:* includes eight small islands in the Saint Pierre and the Miquelon groups |
+| **Saint Vincent and the Grenadines** | *total:* 389 sq km (Saint Vincent 344 sq km) |
+| | *land:* 389 sq km |
+| | *water:* 0 sq km |
+| **Samoa** | *total:* 2,944 sq km |
+| | *land:* 2,934 sq km |
+| | *water:* 10 sq km |
+| **San Marino** | *total:* 61.2 sq km |
+| | *land:* 61.2 sq km |
+| | *water:* 0 sq km |
+| **Sao Tome and Principe** | *total:* 1,001 sq km |
+| | *land:* 1,001 sq km |
+| | *water:* 0 sq km |
+| **Saudi Arabia** | *total:* 1,960,582 sq km |
+| | *land:* 1,960,582 sq km |
+| | *water:* 0 sq km |
+| **Senegal** | *total:* 196,190 sq km |
+| | *land:* 192,000 sq km |
+| | *water:* 4,190 sq km |
+| **Serbia and Montenegro** | *total:* 102,350 sq km |
+| | *land:* 102,136 sq km |
+| | *water:* 214 sq km |
+| **Seychelles** | *total:* 455 sq km |
+| | *land:* 455 sq km |
+| | *water:* 0 sq km |
+| **Sierra Leone** | *total:* 71,740 sq km |
+| | *land:* 71,620 sq km |
+| | *water:* 120 sq km |
+| **Singapore** | *total:* 692.7 sq km |
+| | *land:* 682.7 sq km |
+| | *water:* 10 sq km |
+| **Slovakia** | *total:* 48,845 sq km |
+| | *land:* 48,800 sq km |
+| | *water:* 45 sq km |
+| **Slovenia** | *total:* 20,273 sq km |
+| | *land:* 20,151 sq km |
+| | *water:* 122 sq km |
+| **Solomon Islands** | *total:* 28,450 sq km |
+| | *land:* 27,540 sq km |
+| | *water:* 910 sq km |
+| **Somalia** | *total:* 637,657 sq km |
+| | *land:* 627,337 sq km |
+| | *water:* 10,320 sq km |
+| **South Africa** | *total:* 1,219,912 sq km |
+| | *land:* 1,219,912 sq km |
+| | *water:* 0 sq km |
+| | *note:* includes Prince Edward Islands (Marion Island and Prince Edward Island) |
+| **South Georgia and the South Sandwich Islands** | *total:* 3,903 sq km |
+| | *land:* 3,903 sq km |
+| | *water:* 0 sq km |
+| | *note:* includes Shag Rocks, Black Rock, Clerke Rocks, South Georgia Island, Bird Island, and the South Sandwich Islands, which consist of some nine islands |
+| **Southern Ocean** | *total:* 20.327 million sq km |
+| | *note:* includes Amundsen Sea, Bellingshausen Sea, part of the Drake Passage, Ross Sea, a small part of the Scotia Sea, Weddell Sea, and other tributary water bodies |
+| **Spain** | *total:* 504,782 sq km |
+| | *land:* 499,542 sq km |
+| | *water:* 5,240 sq km |
+| | *note:* there are 19 autonomous communities including Balearic Islands and Canary Islands, and three small Spanish possessions off the coast of Morocco - Islas Chafarinas, Penon de Alhucemas, and Penon de Velez de la Gomera |
+| **Spratly Islands** | *total:* less than 5 sq km |
+| | *land:* less than 5 sq km |
+| | *water:* 0 sq km |
+| | *note:* includes 100 or so islets, coral reefs, and sea mounts scattered over an area of nearly 410,000 sq km of the central South China Sea |
+| **Sri Lanka** | *total:* 65,610 sq km |
+| | *land:* 64,740 sq km |
+| | *water:* 870 sq km |
+| **Sudan** | *total:* 2,505,810 sq km |
+| | *land:* 2.376 million sq km |
+| | *water:* 129,810 sq km |
+| **Suriname** | *total:* 163,270 sq km |
+| | *land:* 161,470 sq km |
+| | *water:* 1,800 sq km |
+| **Svalbard** | *total:* 62,049 sq km |
+| | *land:* 62,049 sq km |
+| | *water:* 0 sq km |
+| | *note:* includes Spitsbergen and Bjornoya (Bear Island) |
+| **Swaziland** | *total:* 17,363 sq km |
+| | *land:* 17,203 sq km |
+| | *water:* 160 sq km |
+| **Sweden** | *total:* 449,964 sq km |
+| | *land:* 410,934 sq km |
+| | *water:* 39,030 sq km |
+| **Switzerland** | *total:* 41,290 sq km |
+| | *land:* 39,770 sq km |
+| | *water:* 1,520 sq km |
+| **Syria** | *total:* 185,180 sq km |
+| | *land:* 184,050 sq km |
+| | *water:* 1,130 sq km |
+| | *note:* includes 1,295 sq km of Israeli-occupied territory |
+| **Taiwan** | *total:* 35,980 sq km |
+| | *land:* 32,260 sq km |
+| | *water:* 3,720 sq km |
+| | *note:* includes the Pescadores, Matsu, and Quemoy |
+| **Tajikistan** | *total:* 143,100 sq km |
+| | *land:* 142,700 sq km |
+| | *water:* 400 sq km |
+| **Tanzania** | *total:* 945,087 sq km |
+| | *land:* 886,037 sq km |
+| | *water:* 59,050 sq km |
+| | *note:* includes the islands of Mafia, Pemba, and Zanzibar |
+| **Thailand** | *total:* 514,000 sq km |
+| | *land:* 511,770 sq km |
+| | *water:* 2,230 sq km |
+| **Togo** | *total:* 56,785 sq km |
+| | *land:* 54,385 sq km |
+| | *water:* 2,400 sq km |
+| **Tokelau** | *total:* 10 sq km |
+| | *land:* 10 sq km |
+| | *water:* 0 sq km |
+| **Tonga** | *total:* 748 sq km |
+| | *land:* 718 sq km |
+| | *water:* 30 sq km |
+| **Trinidad and Tobago** | *total:* 5,128 sq km |
+| | *land:* 5,128 sq km |
+| | *water:* 0 sq km |
+| **Tromelin Island** | *total:* 1 sq km |
+| | *land:* 1 sq km |
+| | *water:* 0 sq km |
+| **Tunisia** | *total:* 163,610 sq km |
+| | *land:* 155,360 sq km |
+| | *water:* 8,250 sq km |
+| **Turkey** | *total:* 780,580 sq km |
+| | *land:* 770,760 sq km |
+| | *water:* 9,820 sq km |
+| **Turkmenistan** | *total:* 488,100 sq km |
+| | *land:* 488,100 sq km |
+| | *water:* negl. |
+| **Turks and Caicos Islands** | *total:* 430 sq km |
+| | *land:* 430 sq km |
+| | *water:* 0 sq km |
+| **Tuvalu** | *total:* 26 sq km |
+| | *land:* 26 sq km |
+| | *water:* 0 sq km |
+| **Uganda** | *total:* 236,040 sq km |
+| | *land:* 199,710 sq km |
+| | *water:* 36,330 sq km |
+| **Ukraine** | *total:* 603,700 sq km |
+| | *land:* 603,700 sq km |
+| | *water:* 0 sq km |
+| **United Arab Emirates** | *total:* 82,880 sq km |
+| | *land:* 82,880 sq km |
+| | *water:* 0 sq km |
+| **United Kingdom** | *total:* 244,820 sq km |
+| | *land:* 241,590 sq km |
+| | *water:* 3,230 sq km |
+| | *note:* includes Rockall and Shetland Islands |
+| **United States** | *total:* 9,631,418 sq km |
+| | *land:* 9,161,923 sq km |
+| | *water:* 469,495 sq km |
+| | *note:* includes only the 50 states and District of Columbia |
+| **Uruguay** | *total:* 176,220 sq km |
+| | *land:* 173,620 sq km |
+| | *water:* 2,600 sq km |
+| **Uzbekistan** | *total:* 447,400 sq km |
+| | *land:* 425,400 sq km |
+| | *water:* 22,000 sq km |
+| **Vanuatu** | *total:* 12,200 sq km |
+| | *land:* 12,200 sq km |
+| | *water:* 0 sq km |
+| | *note:* includes more than 80 islands, about 65 of which are inhabited |
+| **Venezuela** | *total:* 912,050 sq km |
+| | *land:* 882,050 sq km |
+| | *water:* 30,000 sq km |
+| **Vietnam** | *total:* 329,560 sq km |
+| | *land:* 325,360 sq km |
+| | *water:* 4,200 sq km |
+| **Virgin Islands** | *total:* 352 sq km |
+| | *land:* 349 sq km |
+| | *water:* 3 sq km |
+| **Wake Island** | *total:* 6.5 sq km |
+| | *land:* 6.5 sq km |
+| | *water:* 0 sq km |
+| **Wallis and Futuna** | *total:* 274 sq km |
+| | *land:* 274 sq km |
+| | *water:* 0 sq km |
+| | *note:* includes Ile Uvea (Wallis Island), Ile Futuna (Futuna Island), Ile Alofi, and 20 islets |
+| **West Bank** | *total:* 5,860 sq km |
+| | *land:* 5,640 sq km |
+| | *water:* 220 sq km |
+| | *note:* includes West Bank, Latrun Salient, and the northwest quarter of the Dead Sea, but excludes Mt. Scopus; East Jerusalem and Jerusalem No Man's Land are also included only as a means of depicting the entire area occupied by Israel in 1967 |
+| **Western Sahara** | *total:* 266,000 sq km |
+| | *land:* 266,000 sq km |
+| | *water:* 0 sq km |
+| **World** | *total:* 510.072 million sq km |
+| | *land:* 148.94 million sq km |
+| | *water:* 361.132 million sq km |
+| | *note:* 70.8% of the world's surface is water, 29.2% is land |
+| **Yemen** | *total:* 527,970 sq km |
+| | *land:* 527,970 sq km |
+| | *water:* 0 sq km |
+| | *note:* includes Perim, Socotra, the former Yemen Arab Republic (YAR or North Yemen), and the former People's Democratic Republic of Yemen (PDRY or South Yemen) |
+| **Zambia** | *total:* 752,614 sq km |
+| | *land:* 740,724 sq km |
+| | *water:* 11,890 sq km |
+| **Zimbabwe** | *total:* 390,580 sq km |
+| | *land:* 386,670 sq km |
+| | *water:* 3,910 sq km |
+
+This page was last updated on 10 February, 2005
+ 

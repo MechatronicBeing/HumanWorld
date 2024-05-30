@@ -1,0 +1,455 @@
+CIA - The World Factbook -- Field Listing :: Imports   
+
+This entry provides the total US dollar amount of merchandise imports on a c.i.f. (cost, insurance, and freight) or f.o.b. (free on board) basis. These figures are calculated on an exchange rate basis, i.e., not in purchasing power parity (PPP) terms.
+
+| Country | Imports |
+| --- | --- |
+| **Afghanistan** | $6.39 billion (2012 est.) |
+| | $9.174 billion (2011 est.) |
+| **Albania** | $3.984 billion (2012 est.) |
+| | $4.461 billion (2011 est.) |
+| **Algeria** | $51.57 billion (2012 est.) |
+| | $46.93 billion (2011 est.) |
+| **American Samoa** | $308.8 million (FY04 est.) |
+| **Andorra** | $1.43 billion (2012 est.) |
+| | $1.501 billion (2011 est.) |
+| **Angola** | $23.72 billion (2012 est.) |
+| | $20.23 billion (2011 est.) |
+| **Anguilla** | $129.3 million (2012 est.) |
+| | $129 million (2011 est.) |
+| **Antigua and Barbuda** | $402.7 million (2012 est.) |
+| | $430.4 million (2011 est.) |
+| **Argentina** | $65.55 billion (2012 est.) |
+| | $71.13 billion (2011 est.) |
+| **Armenia** | $3.656 billion (2012 est.) |
+| | $3.561 billion (2011 est.) |
+| **Aruba** | $2.039 billion (2012 est.) |
+| | $5.917 billion (2011 est.) |
+| **Australia** | $263 billion (2012 est.) |
+| | $243.3 billion (2011 est.) |
+| **Austria** | $1.43 billion (2012 est.) |
+| | $1.501 billion (2011 est.) |
+| **Azerbaijan** | $10.42 billion (2012 est.) |
+| | $10.17 billion (2011 est.) |
+| **Bahamas, The** | $3.386 billion (2012 est.) |
+| | $2.966 billion (2011 est.) |
+| **Bahrain** | $13.24 billion (2012 est.) |
+| | $12.11 billion (2011 est.) |
+| **Bangladesh** | $32.29 billion (2012 est.) |
+| | $32.61 billion (2011 est.) |
+| **Barbados** | $1.584 billion (2012 est.) |
+| | $1.728 billion (2011 est.) |
+| **Belarus** | $45.01 billion (2012 est.) |
+| | $44.39 billion (2011 est.) |
+| **Belgium** | $311.1 billion (2012 est.) |
+| | $336.1 billion (2011 est.) |
+| **Belize** | $837.1 million (2012 est.) |
+| | $778.2 million (2011 est.) |
+| **Benin** | $1.755 billion (2012 est.) |
+| | $1.825 billion (2011 est.) |
+| **Bermuda** | $900 million (2012 est.) |
+| | $940 million (2011 est.) |
+| **Bhutan** | $1.28 billion (2012 est.) |
+| | $1.185 billion (2011 est.) |
+| **Bolivia** | $7.694 billion (2012 est.) |
+| | $7.126 billion (2011 est.) |
+| **Bosnia and Herzegovina** | $8.849 billion (2012 est.) |
+| | $9.591 billion (2011 est.) |
+| **Botswana** | $7.918 billion (2012 est.) |
+| | $7.192 billion (2011 est.) |
+| **Brazil** | $223.2 billion (2012 est.) |
+| | $226.2 billion (2011 est.) |
+| **British Virgin Islands** | $310 million (2012 est.) |
+| | $320 million (2011 est.) |
+| **Brunei** | $3.02 billion (2011 est.) |
+| | $2.73 billion (2010 est.) |
+| **Bulgaria** | $31.15 billion (2012 est.) |
+| | $31.2 billion (2011 est.) |
+| **Burkina Faso** | $2.675 billion (2012 est.) |
+| | $2.369 billion (2011 est.) |
+| **Burma** | $7.998 billion (2012 est.) |
+| | $7.491 billion (2011 est.) |
+| | *note:* import figures are grossly underestimated due to the value of consumer goods, diesel fuel, and other products smuggled in from Thailand, China, Malaysia, and India |
+| **Burundi** | $886.2 million (2012 est.) |
+| | $771.7 million (2011 est.) |
+| **Cabo Verde** | $878.7 million (2012 est.) |
+| | $1.04 billion (2011 est.) |
+| **Cambodia** | $7.965 billion (2012 est.) |
+| | $6.71 billion (2011 est.) |
+| **Cameroon** | $6.321 billion (2012 est.) |
+| | $5.644 billion (2011 est.) |
+| **Canada** | $474.9 billion (2012 est.) |
+| | $460.9 billion (2011 est.) |
+| **Cayman Islands** | $698.1 million (2012 est.) |
+| | $698.8 million (2011 est.) |
+| **Central African Republic** | $333.7 million (2012 est.) |
+| | $319.8 million (2011 est.) |
+| **Chad** | $2.672 billion (2012 est.) |
+| | $2.696 billion (2011 est.) |
+| **Chile** | $74.86 billion (2012 est.) |
+| | $70.91 billion (2011 est.) |
+| **China** | $1.653 trillion (2012 est.) |
+| | $1.57 trillion (2011 est.) |
+| **Christmas Island** | $NA |
+| **Cocos (Keeling) Islands** | $NA |
+| **Colombia** | $54.64 billion (2012 est.) |
+| | $50.52 billion (2011 est.) |
+| **Comoros** | $208 million (2012 est.) |
+| | $206.6 million (2011 est.) |
+| **Congo, Democratic Republic of the** | $8.187 billion (2012 est.) |
+| | $8.916 billion (2011 est.) |
+| **Congo, Republic of the** | $4.45 billion (2012 est.) |
+| | $4.501 billion (2011 est.) |
+| **Cook Islands** | $83.49 million (2011 est.) |
+| **Costa Rica** | $16.75 billion (2012 est.) |
+| | $15.53 billion (2011 est.) |
+| **Cote d'Ivoire** | $8.973 billion (2012 est.) |
+| | $8.187 billion (2011 est.) |
+| **Croatia** | $20.37 billion (2012 est.) |
+| | $22.15 billion (2011 est.) |
+| **Cuba** | $13.72 billion (2012 est.) |
+| | $14.02 billion (2011 est.) |
+| **Curacao** | $2.5 billion (2011 est.) |
+| | $2.648 billion (2009 est.) |
+| **Cyprus** | $6.755 billion (2012 est.) |
+| | $7.951 billion (2011 est.) |
+| **Czech Republic** | $124.2 billion (2012 est.) |
+| | $133.2 billion (2011 est.) |
+| **Denmark** | $96.77 billion (2012 est.) |
+| | $100.3 billion (2011 est.) |
+| **Djibouti** | $574.2 million (2012 est.) |
+| | $510.6 million (2011 est.) |
+| **Dominica** | $182.7 million (2012 est.) |
+| | $198.9 million (2011 est.) |
+| **Dominican Republic** | $17.76 billion (2012 est.) |
+| | $17.41 billion (2011 est.) |
+| **Ecuador** | $24.58 billion (2012 est.) |
+| | $23.24 billion (2011 est.) |
+| **Egypt** | $60.26 billion (2012 est.) |
+| | $56.13 billion (2011 est.) |
+| **El Salvador** | $9.912 billion (2012 est.) |
+| | $9.647 billion (2011 est.) |
+| **Equatorial Guinea** | $8.045 billion (2012 est.) |
+| | $6.972 billion (2011 est.) |
+| **Eritrea** | $972.8 million (2012 est.) |
+| | $952.3 million (2011 est.) |
+| **Estonia** | $15.6 billion (2012 est.) |
+| | $15.25 billion (2011 est.) |
+| **Ethiopia** | $10.25 billion (2012 est.) |
+| | $8.329 billion (2011 est.) |
+| **European Union** | $2.397 trillion (2011 est.) |
+| | $2.028 trillion (2010 est.) |
+| | *note:* external imports, excluding intra-EU trade |
+| **Falkland Islands (Islas Malvinas)** | $90 million (2004 est.) |
+| **Faroe Islands** | $776 million (2010) |
+| | $786 million (2009) |
+| **Fiji** | $1.867 billion (2012 est.) |
+| | $1.698 billion (2011 est.) |
+| **Finland** | $72.13 billion (2012 est.) |
+| | $79.27 billion (2011 est.) |
+| **France** | $643.4 billion (2012 est.) |
+| | $686.4 billion (2011 est.) |
+| **French Polynesia** | $2.2 billion (2008 est.) |
+| | $1.706 billion (2005 est.) |
+| **Gabon** | $3.638 billion (2012 est.) |
+| | $3.319 billion (2011 est.) |
+| **Gambia, The** | $365.8 million (2012 est.) |
+| | $337.5 million (2011 est.) |
+| **Gaza Strip** | see entry for West Bank |
+| **Georgia** | $7.682 billion (2012 est.) |
+| | $6.723 billion (2011 est.) |
+| **Germany** | $1.222 trillion (2012 est.) |
+| | $1.295 trillion (2011 est.) |
+| **Ghana** | $17.76 billion (2012 est.) |
+| | $15.84 billion (2011 est.) |
+| **Gibraltar** | $2.967 billion (2004 est.) |
+| **Greece** | $53.53 billion (2012 est.) |
+| | $66.05 billion (2011 est.) |
+| **Greenland** | $814.2 million (2010) |
+| | $726 million (2009) |
+| **Grenada** | $297 million (2012 est.) |
+| | $290.4 million (2011 est.) |
+| **Guam** | $901 million (2011 est.) |
+| **Guatemala** | $15.84 billion (2012 est.) |
+| | $15.48 billion (2011 est.) |
+| **Guernsey** | $NA |
+| **Guinea** | $2.606 billion (2012 est.) |
+| | $2.097 billion (2011 est.) |
+| **Guinea-Bissau** | $189.8 million (2012 est.) |
+| | $253.7 million (2011 est.) |
+| **Guyana** | $1.978 billion (2012 est.) |
+| | $1.771 billion (2011 est.) |
+| **Haiti** | $2.679 billion (2012 est.) |
+| | $3.014 billion (2011 est.) |
+| **Honduras** | $11.18 billion (2012 est.) |
+| | $10.99 billion (2011 est.) |
+| **Hong Kong** | $487.4 billion (2012 est.) |
+| | $445.1 billion (2011 est.) |
+| **Hungary** | $87.37 billion (2012 est.) |
+| | $95.2 billion (2011 est.) |
+| **Iceland** | $4.441 billion (2012 est.) |
+| | $4.506 billion (2011 est.) |
+| **India** | $503.5 billion (2012 est.) |
+| | $475.3 billion (2011 est.) |
+| **Indonesia** | $178.7 billion (2012 est.) |
+| | $157.3 billion (2011 est.) |
+| **Iran** | $70.03 billion (2012 est.) |
+| | $77.81 billion (2011 est.) |
+| **Iraq** | $50.16 billion (2012 est.) |
+| | $40.63 billion (2011 est.) |
+| **Ireland** | $63.63 billion (2012 est.) |
+| | $67.2 billion (2011 est.) |
+| **Isle of Man** | $NA |
+| **Israel** | $71.67 billion (2012 est.) |
+| | $72.48 billion (2011 est.) |
+| **Italy** | $453.5 billion (2012 est.) |
+| | $524 billion (2011 est.) |
+| **Jamaica** | $5.905 billion (2012 est.) |
+| | $5.881 billion (2011 est.) |
+| **Japan** | $830.1 billion (2012 est.) |
+| | $794.4 billion (2011 est.) |
+| **Jersey** | $NA |
+| **Jordan** | $18.46 billion (2012 est.) |
+| | $16.85 billion (2011 est.) |
+| **Kazakhstan** | $49.08 billion (2012 est.) |
+| | $40.35 billion (2011 est.) |
+| **Kenya** | $15.1 billion (2012 est.) |
+| | $14.16 billion (2011 est.) |
+| **Kiribati** | $80.09 million (2010 est.) |
+| | $62 million (2004 est.) |
+| **Korea, North** | $4.33 billion (2011 est.) |
+| **Korea, South** | $514.2 billion (2012 est.) |
+| | $520.1 billion (2011 est.) |
+| **Kosovo** | $3.3 billion (2011 est.) |
+| | $2.7 billion (2010 est.) |
+| **Kuwait** | $22.79 billion (2012 est.) |
+| | $22.08 billion (2011 est.) |
+| **Kyrgyzstan** | $4.967 billion (2012 est.) |
+| | $3.936 billion (2011 est.) |
+| **Laos** | $2.744 billion (2012 est.) |
+| | $2.423 billion (2011 est.) |
+| **Latvia** | $15.15 billion (2012 est.) |
+| | $14.74 billion (2011 est.) |
+| **Lebanon** | $20.33 billion (2012 est.) |
+| | $19.3 billion (2011 est.) |
+| **Lesotho** | $2.239 billion (2012 est.) |
+| | $2.155 billion (2011 est.) |
+| **Liberia** | $2.275 billion (2012 est.) |
+| | $2.068 billion (2011 est.) |
+| **Libya** | $18.1 billion (2012 est.) |
+| | $11.2 billion (2011 est.) |
+| **Liechtenstein** | $2.218 billion (2011 est.) |
+| | $1.806 billion (2010 est.) |
+| | *note:* trade data exclude trade with Switzerland |
+| **Lithuania** | $30.44 billion (2012 est.) |
+| | $29.52 billion (2011 est.) |
+| **Luxembourg** | $23.78 billion (2012 est.) |
+| | $26.27 billion (2011 est.) |
+| **Macau** | $8.866 billion (2012 est.) |
+| | $7.786 billion (2011 est.) |
+| **Macedonia** | $6.273 billion (2012 est.) |
+| | $6.759 billion (2011 est.) |
+| **Madagascar** | $2.755 billion (2012 est.) |
+| | $2.697 billion (2011 est.) |
+| **Malawi** | $2.151 billion (2012 est.) |
+| | $2.63 billion (2011 est.) |
+| **Malaysia** | $186.9 billion (2012 est.) |
+| | $179.1 billion (2011 est.) |
+| **Maldives** | $1.406 billion (2012 est.) |
+| | $1.314 billion (2011 est.) |
+| **Mali** | $2.794 billion (2012 est.) |
+| | $2.78 billion (2011 est.) |
+| **Malta** | $5.451 billion (2012 est.) |
+| | $5.58 billion (2011 est.) |
+| **Marshall Islands** | $118.7 million (2011 est.) |
+| | $54.7 million (2000 est.) |
+| **Mauritania** | $3.176 billion (2012 est.) |
+| | $2.533 billion (2011 est.) |
+| **Mauritius** | $5.104 billion (2012 est.) |
+| | $4.918 billion (2011 est.) |
+| **Mexico** | $371.2 billion (2012 est.) |
+| | $351.2 billion (2011 est.) |
+| **Micronesia, Federated States of** | $132.7 million (2004) |
+| **Moldova** | $5.152 billion (2012 est.) |
+| | $5.147 billion (2011 est.) |
+| **Monaco** | $847.9 million (2011) |
+| | $850.2 million (2010) |
+| | *note:* full customs integration with France, which collects and rebates Monegasque trade duties; also participates in EU market system through customs union with France |
+| **Mongolia** | $5.934 billion (2012 est.) |
+| | $5.807 billion (2011 est.) |
+| **Montenegro** | $2.4 billion (2012 est.) |
+| | $2.5 billion (2011 est.) |
+| **Montserrat** | $32.5 million (2012 est.) |
+| | $29.7 million (2011 est.) |
+| **Morocco** | $38.88 billion (2012 est.) |
+| | $37.33 billion (2011 est.) |
+| **Mozambique** | $6.168 billion (2012 est.) |
+| | $5.368 billion (2011 est.) |
+| **Namibia** | $6.44 billion (2012 est.) |
+| | $5.586 billion (2011 est.) |
+| **Nauru** | $20 million (2004 est.) |
+| **Nepal** | $5.951 billion (2012 est.) |
+| | $5.665 billion (2011 est.) |
+| **Netherlands** | $476.5 billion (2012 est.) |
+| | $484 billion (2011 est.) |
+| **New Caledonia** | $3.245 billion (2012 est.) |
+| | $3.698 billion (2011 est.) |
+| **New Zealand** | $37.04 billion (2012 est.) |
+| | $35.61 billion (2011 est.) |
+| **Nicaragua** | $6.45 billion (2012 est.) |
+| | $5.836 billion (2011 est.) |
+| **Niger** | $2.273 billion (2012 est.) |
+| | $2.23 billion (2011 est.) |
+| **Nigeria** | $53.36 billion (2012 est.) |
+| | $61.65 billion (2011 est.) |
+| **Niue** | $9.038 million (2004) |
+| **Norfolk Island** | $NA |
+| **Northern Mariana Islands** | $214.4 million (2001) |
+| **Norway** | $89.05 billion (2012 est.) |
+| | $92.05 billion (2011 est.) |
+| **Oman** | $25.63 billion (2012 est.) |
+| | $21.5 billion (2011 est.) |
+| **Pakistan** | $40.07 billion (2012 est.) |
+| | $38.85 billion (2011 est.) |
+| **Palau** | $113.4 million (2010 est.) |
+| | $107.3 million (2004 est.) |
+| **Panama** | $24.61 billion (2012 est.) |
+| | $22.94 billion (2011 est.) |
+| | *note:* includes the Colon Free Zone |
+| **Papua New Guinea** | $4.767 billion (2012 est.) |
+| | $4.24 billion (2011 est.) |
+| **Paraguay** | $11.06 billion (2012 est.) |
+| | $11.68 billion (2011 est.) |
+| **Peru** | $41.11 billion (2012 est.) |
+| | $36.97 billion (2011 est.) |
+| **Philippines** | $61.49 billion (2012 est.) |
+| | $55.25 billion (2011 est.) |
+| **Pitcairn Islands** | $NA |
+| **Poland** | $197.7 billion (2012 est.) |
+| | $209.3 billion (2011 est.) |
+| **Portugal** | $69.48 billion (2012 est.) |
+| | $79.67 billion (2011 est.) |
+| **Puerto Rico** | $49 billion (2012 est.) |
+| | $49.82 billion (2011 est.) |
+| **Qatar** | $30.79 billion (2012 est.) |
+| | $26.93 billion (2011 est.) |
+| **Romania** | $62.75 billion (2012 est.) |
+| | $68.36 billion (2011 est.) |
+| **Russia** | $335.7 billion (2012 est.) |
+| | $318.6 billion (2011 est.) |
+| **Rwanda** | $1.871 billion (2012 est.) |
+| | $1.565 billion (2011 est.) |
+| **Saint Helena, Ascension, and Tristan da Cunha** | $20.53 million (2010 est.) |
+| **Saint Kitts and Nevis** | $225.6 million (2012 est.) |
+| | $239.3 million (2011 est.) |
+| **Saint Lucia** | $579.3 million (2012 est.) |
+| | $615.7 million (2011 est.) |
+| **Saint Pierre and Miquelon** | $95.35 million (2010 est.) |
+| | $68.2 million (2005 est.) |
+| **Saint Vincent and the Grenadines** | $314.6 million (2012 est.) |
+| | $292.3 million (2011 est.) |
+| **Samoa** | $318.7 million (2011 est.) |
+| | $280 million (2011 est.) |
+| **San Marino** | $2.551 billion (2011 est.) |
+| | $2.132 billion (2010 est.) |
+| **Sao Tome and Principe** | $115.1 million (2012 est.) |
+| | $115.7 million (2011 est.) |
+| **Saudi Arabia** | $141.8 billion (2012 est.) |
+| | $120 billion (2011 est.) |
+| **Senegal** | $5.733 billion (2012 est.) |
+| | $5.392 billion (2011 est.) |
+| **Serbia** | $18.35 billion (2012 est.) |
+| | $19.18 billion (2011 est.) |
+| **Seychelles** | $889.6 million (2012 est.) |
+| | $879.6 million (2011 est.) |
+| **Sierra Leone** | $1.597 billion (2012 est.) |
+| | $1.631 billion (2011 est.) |
+| **Singapore** | $374.9 billion (2012 est.) |
+| | $361.5 billion (2011 est.) |
+| **Slovakia** | $75.99 billion (2012 est.) |
+| | $75.1 billion (2011 est.) |
+| **Slovenia** | $27.95 billion (2012 est.) |
+| | $31.18 billion (2011 est.) |
+| **Solomon Islands** | $446 million (2012 est.) |
+| | $421.2 million (2011 est.) |
+| **Somalia** | $1.263 billion (2010 est.) |
+| | $798 million (2006 est.) |
+| **South Africa** | $102.6 billion (2012 est.) |
+| | $100.4 billion (2011 est.) |
+| **Spain** | $323.6 billion (2012 est.) |
+| | $361.8 billion (2011 est.) |
+| **Sri Lanka** | $17.18 billion (2012 est.) |
+| | $18.24 billion (2011 est.) |
+| **Sudan** | $8.123 billion (2012 est.) |
+| | $8.128 billion (2011 est.) |
+| **Suriname** | $1.761 billion (2012 est.) |
+| | $1.679 billion (2011 est.) |
+| **Svalbard** | $NA |
+| **Swaziland** | $1.578 billion (2012 est.) |
+| | $1.95 billion (2011 est.) |
+| **Sweden** | $163.3 billion (2012 est.) |
+| | $177 billion (2011 est.) |
+| **Switzerland** | $296.2 billion (2012 est.) |
+| | $320.4 billion (2011 est.) |
+| **Syria** | $10.78 billion (2012 est.) |
+| | $17.6 billion (2011 est.) |
+| **Taiwan** | $268.8 billion (2012 est.) |
+| | $279.2 billion (2011 est.) |
+| **Tajikistan** | $4.382 billion (2012 est.) |
+| | $4.165 billion (2011 est.) |
+| **Tanzania** | $10.32 billion (2012 est.) |
+| | $9.828 billion (2011 est.) |
+| **Thailand** | $217.8 billion (2012 est.) |
+| | $202.1 billion (2011 est.) |
+| **Timor-Leste** | $689 million (2011 est.) |
+| | $378 million (2010 est.) |
+| **Togo** | $1.604 billion (2012 est.) |
+| | $1.575 billion (2011 est.) |
+| **Tokelau** | $969,200 (2002) |
+| **Tonga** | $121.9 million (2012 est.) |
+| | $131 million (2011 est.) |
+| **Trinidad and Tobago** | $9.065 billion (2012 est.) |
+| | $9.478 billion (2011 est.) |
+| **Tunisia** | $23.1 billion (2012 est.) |
+| | $22.62 billion (2011 est.) |
+| **Turkey** | $228.6 billion (2012 est.) |
+| | $232.5 billion (2011 est.) |
+| **Turkmenistan** | $10.69 billion (2012 est.) |
+| | $9.673 billion (2011 est.) |
+| **Turks and Caicos Islands** | $591.3 million (2008 est.) |
+| **Tuvalu** | $16.5 million (2010 est.) |
+| | $12.91 million (2005) |
+| **Uganda** | $5.187 billion (2012 est.) |
+| | $4.997 billion (2011 est.) |
+| **Ukraine** | $89.71 billion (2012 est.) |
+| | $85.67 billion (2011 est.) |
+| **United Arab Emirates** | $221.9 billion (2012 est.) |
+| | $195.4 billion (2011 est.) |
+| **United Kingdom** | $643.5 billion (2012 est.) |
+| | $639.9 billion (2011 est.) |
+| **United States** | $2.303 trillion (2012 est.) |
+| | $2.24 trillion (2011 est.) |
+| **Uruguay** | $12.26 billion (2012 est.) |
+| | $10.7 billion (2011 est.) |
+| **Uzbekistan** | $12.06 billion (2012 est.) |
+| | $10.51 billion (2011 est.) |
+| **Vanuatu** | $322.6 million (2012 est.) |
+| | $310.2 million (2011 est.) |
+| **Venezuela** | $59.31 billion (2012 est.) |
+| | $46.78 billion (2011 est.) |
+| **Vietnam** | $104.7 billion (2012 est.) |
+| | $97.36 billion (2011 est.) |
+| **Virgin Islands** | $4.609 billion (2001) |
+| **Wallis and Futuna** | $61.17 million (2004) |
+| **West Bank** | $5.474 billion (2011 est.) |
+| | $4.319 billion (2010 est.) |
+| | *note:* data include the Gaza Strip |
+| **Western Sahara** | $NA |
+| **World** | $17.84 trillion (2012 est.) |
+| | $17.66 trillion (2011 est.) |
+| **Yemen** | $11.36 billion (2012 est.) |
+| | $8.248 billion (2011 est.) |
+| **Zambia** | $7.961 billion (2012 est.) |
+| | $6.454 billion (2011 est.) |
+| **Zimbabwe** | $4.569 billion (2012 est.) |
+| | $4.272 billion (2011 est.) |
